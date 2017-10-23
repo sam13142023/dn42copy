@@ -1,0 +1,8 @@
+inet6num:          fd42:4242:0064::0-fd42:4242:0064:ffff:ffff:ffff:ffff:ffff
+netname:           ORG-JUZE-V6
+country:           DE
+admin-c:           ORG-JUZE
+tech-c:            4A6F-DN42
+mnt-by:            4A6F-MNT
+status:            ASSIGNED
+cidr:		fd42:4242:64::/48

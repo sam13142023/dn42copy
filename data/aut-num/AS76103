@@ -1,0 +1,13 @@
+aut-num:           AS76103
+as-name:           NIXNODES-AS
+descr:             NixNodes CORE Network
+remarks:           +--------------------------------------------+
+remarks:           | Whois: 172.22.177.77                       |
+remarks:           | LG: http://lg.nixnodes.net/                |
+remarks:           | Network map: http://map.nixnodes.net/      |
+remarks:           +--------------------------------------------+
+remarks:           | Peering (US only):   peering@nixnodes.net  |
+remarks:           +--------------------------------------------+
+admin-c:           NIXNODES-DN42
+tech-c:            NIXNODES-DN42
+mnt-by:            NIXNODES-MNT

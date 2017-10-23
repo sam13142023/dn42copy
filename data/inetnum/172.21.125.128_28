@@ -1,0 +1,9 @@
+inetnum:           172.21.125.128 - 172.21.125.143
+netname:           ENKEL-NETWORK
+country:           GB
+admin-c:           NTSE-DN42
+tech-c:            NTSE-DN42
+mnt-by:            ENKEL-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1497398404
+cidr:		172.21.125.128/28

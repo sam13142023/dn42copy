@@ -1,0 +1,5 @@
+route:             172.20.139.128/28
+descr:             DEFAULT
+origin:            AS4242428701
+mnt-by:            PUSHR-MNT
+bgp-status:        inactive 1506542406

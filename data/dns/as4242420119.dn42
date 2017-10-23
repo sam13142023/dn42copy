@@ -1,0 +1,8 @@
+domain:            as4242420119.dn42
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+nserver:           ns.as4242420119.dn42 172.21.64.97
+nserver:           ns.as4242420119.dn42 fd42:5d71:219:1::1
+status:            EVALPEND 1503915606
+country:           CH

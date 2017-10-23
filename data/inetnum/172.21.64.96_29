@@ -1,0 +1,9 @@
+inetnum:           172.21.64.96-172.21.64.103
+netname:           JRB0001-SERVICES-ANYCAST
+descr:             DNS
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ASSIGNED PI
+bgp-status:        active
+cidr:		172.21.64.96/29

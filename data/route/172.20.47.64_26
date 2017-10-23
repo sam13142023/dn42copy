@@ -1,0 +1,4 @@
+route:             172.20.47.64/26
+origin:            AS4242423980
+mnt-by:            SPLITTER-MNT
+bgp-status:        inactive 1465084804

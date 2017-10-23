@@ -1,0 +1,9 @@
+tinc-key:          NULLL-TINC
+tinc-host:         nulll
+compression:       9
+descr:             /dev/nulll Tinc VPN node
+mnt-by:            NULLL-MNT
+admin-c:           STV0G-DN42
+subnet:            172.23.3.5/32
+tinc-address:      tux.0l.de
+port:              657

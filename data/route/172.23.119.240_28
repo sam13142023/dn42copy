@@ -1,0 +1,5 @@
+route:             172.23.119.240/28
+descr:             PULA TEST NETWORK
+origin:            AS4242422419
+mnt-by:            RISTOTAL-MNT
+bgp-status:        inactive 1486512007

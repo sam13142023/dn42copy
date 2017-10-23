@@ -1,0 +1,9 @@
+domain:            9.dn42
+descr:             TECH9
+country:           US
+admin-c:           CHRISMOOS-DN42
+tech-c:            CHRISMOOS-DN42
+mnt-by:            TECH9-MNT
+nserver:           ns1.9.dn42 172.20.16.130
+nserver:           ns2.9.dn42 172.20.16.131
+status:            EVALPEND 1503915456

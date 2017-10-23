@@ -1,0 +1,11 @@
+inetnum:           172.23.241.64 - 172.23.241.95
+netname:           NICOO-SMH-LAN
+descr:             Nicoo's family LAN
+country:           FR
+admin-c:           NICOO-DN42
+tech-c:            NICOO-DN42
+mnt-by:            NICOO-MNT
+nserver:           ns.nicoo.dn42
+status:            ASSIGNED
+bgp-status: inactive 1496332803
+cidr:		172.23.241.64/27

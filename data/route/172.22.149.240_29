@@ -1,0 +1,4 @@
+route:             172.22.149.240/29
+origin:            AS4242429876
+mnt-by:            MISKA-MNT
+bgp-status:        inactive 1473811206

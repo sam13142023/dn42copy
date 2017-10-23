@@ -1,0 +1,5 @@
+route:             172.20.206.112/28
+descr:             SPODDER
+origin:            AS4242429961
+mnt-by:            SPODDER-MNT
+bgp-status:        inactive 1486339206

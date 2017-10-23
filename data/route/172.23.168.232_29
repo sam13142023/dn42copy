@@ -1,0 +1,4 @@
+route:             172.23.168.232/29
+origin:            AS4242423515
+mnt-by:            ENG-MNT
+bgp-status:        inactive 1466136007

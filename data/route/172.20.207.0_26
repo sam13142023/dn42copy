@@ -1,0 +1,5 @@
+route:             172.20.207.0/26
+descr:             Luna Networks Inc
+origin:            AS4242429996
+mnt-by:            UTB-MNT
+bgp-status:        inactive 1486526405

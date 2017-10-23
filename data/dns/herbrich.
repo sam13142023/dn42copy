@@ -1,0 +1,8 @@
+domain:            herbrich.
+descr:             Herbrich Corporation TLD
+country:           DE
+admin-c:           ORG-HERBRICH
+tech-c:            ORG-HERBRICH
+mnt-by:            HERBRICH-MNT
+nserver:           ns1.herbrich
+status:            CONNECT

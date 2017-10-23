@@ -1,0 +1,6 @@
+aut-num:            AS76126
+as-name:            LEJSER-AS
+descr:              Lejser's DN42 network
+admin-c:            LEJSER-DN42
+tech-c:             LEJSER-DN42
+mnt-by:           DUMMY-MNT

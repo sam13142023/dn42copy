@@ -1,0 +1,10 @@
+inetnum:           172.20.231.224-172.20.231.255
+netname:           TBRB-NET-HOME
+descr:             TBRB Home Network
+country:           GB
+admin-c:           TBRB-DN42
+tech-c:            TBRB-DN42
+mnt-by:            TBRB-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1496966406
+cidr:		172.20.231.224/27

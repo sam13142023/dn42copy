@@ -1,0 +1,8 @@
+domain: fferz
+country: DE
+remarks: ** erzgebirge
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.erzgebirge.g.nic.dn42 10.13.80.1

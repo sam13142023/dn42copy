@@ -1,0 +1,5 @@
+route:             172.20.240.192/26
+descr:             LAIN-ROUTE
+origin:            AS4242428888
+mnt-by:            LAIN-MNT
+bgp-status:        inactive 1471651204

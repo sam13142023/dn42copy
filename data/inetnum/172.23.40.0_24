@@ -1,0 +1,8 @@
+inetnum:           172.23.40.0 - 172.23.40.255
+netname:           Z23-NET
+admin-c:           Z23-DN42
+tech-c:            Z23-DN42
+mnt-by:            Z23-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1493812803
+cidr:		172.23.40.0/24

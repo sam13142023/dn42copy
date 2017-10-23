@@ -1,0 +1,11 @@
+inetnum:           172.23.16.0 - 172.23.23.255
+cidr:              172.23.16.0/21
+netname:           NET-BLK31621-DN42
+descr:             NL-Zuid DN42 IPv4 reserve block
+remarks:           * Reserved for NL-Zuid infrastructure and exchanges
+policy:            reserved
+admin-c:           NL-ZUID-DN42
+mnt-by:            MARLINC-MNT
+mnt-by:            NIXNODES-MNT
+status:            ALLOCATED
+bgp-status:        active

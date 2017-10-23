@@ -1,0 +1,4 @@
+route:             172.20.6.16/29
+origin:            AS4242429000
+mnt-by:            STOSCHEK-MNT
+bgp-status:        inactive 1480305604

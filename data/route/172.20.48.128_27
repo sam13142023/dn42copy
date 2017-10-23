@@ -1,0 +1,4 @@
+route:             172.20.48.128/27
+origin:            AS4242428192
+mnt-by:            FFAMAX-MNT
+bgp-status:        inactive 1490472004

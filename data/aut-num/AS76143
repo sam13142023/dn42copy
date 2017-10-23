@@ -1,0 +1,18 @@
+aut-num:       AS76143
+as-name:       FLONET-SITE1-AS
+descr:         FLONET home1 AS
+import:        from AS76143:AS-FLONET accept   { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+export:        to   AS76143:AS-FLONET announce { 172.22.104.0/25^+, 172.22.125.0/25, 172.23.123.0/24, 172.23.220.0/24, 172.22.159.0/24 }
+remarks:       This is the Main AS-NUM Object
+remarks:       == Peerings ==
+remarks:       transit only AS
+remarks:       irc: fsteinel @ hackint
+remarks:       == upgrading infrastructure (2015-02-02) ==
+remarks:       coming soon:
+remarks:       - switching from transit to peering
+remarks:       ==============
+admin-c:       FLONET-DN42
+tech-c:        FLONET-DN42
+org:           ORG-FLONET-DN42
+geo-loc:       54.276200N 10.019300W
+mnt-by:        FLORIAN-MNT

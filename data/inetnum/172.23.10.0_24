@@ -1,0 +1,11 @@
+inetnum:           172.23.10.0 - 172.23.10.255
+cidr:              172.23.10.0/24
+netname:           NET-PR0-DN42
+descr:             pr0-Server-NET
+country:           NL
+admin-c:           PR0-DN42
+tech-c:            PR0-DN42
+mnt-by:            PR0-MNT
+mnt-by:            NIXNODES-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1492632004

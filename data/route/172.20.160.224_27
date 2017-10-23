@@ -1,0 +1,4 @@
+route:             172.20.160.224/27
+origin:            AS4242420219
+mnt-by:            FROZEN-MNT
+bgp-status:        inactive 1473292804

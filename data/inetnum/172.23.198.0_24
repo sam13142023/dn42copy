@@ -1,0 +1,16 @@
+inetnum:        172.23.198.0 - 172.23.198.255
+netname:        NERDISTAN-DN42-IP4NET
+descr:          Embassy of Nerdistan dn42 network
+org:            ORG-FLHB-DN42
+country:        DE
+admin-c:        FRITZ-DN42
+admin-c:        PYROPETER-DN42
+tech-c:         FRITZ-DN42
+tech-c:         PYROPETER-DN42
+mnt-by:         FLHB-NETGROUP-MNT
+status:         ASSIGNED
+nserver:        ns2.ccchb.de
+ds-rrdata:      43785 7 1 15CBE9F4DF07962555B4CA33E96EDD2DE3AEAEEC
+ds-rrdata:      43785 7 2 A769CBB0BA3C56901D3941B0757BF25E1A9591304C7A912D88DBB29F 6DA5DB55
+bgp-status: active
+cidr:		172.23.198.0/24

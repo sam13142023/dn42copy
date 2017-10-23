@@ -1,0 +1,9 @@
+inetnum:           172.20.164.64-172.20.164.95
+netname:           ML256-NETWORK
+country:           US
+admin-c:           ORG-ML256
+tech-c:            HFULLER-DN42
+mnt-by:            HFULLER-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1502409602
+cidr:		172.20.164.64/27

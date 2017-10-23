@@ -1,0 +1,91 @@
+aut-num:        AS64738
+as-name:        WELTERDE-AS
+descr:          welterde's AS
+remarks:         ------< IPv6 downstream >---------------------------------------------
+remarks:         <<<<<<hex.fal2>>>>>> sigi via openvpn over VDSL
+mp-group:       id sigi-vdsl
+                node hex.fal2.welterde.net
+                afi ipv6.unicast
+                as AS64739
+                interface sigi.adq
+                local fdef:5d0d:ee12:3:1:2:fce3:36
+                remote fdef:5d0d:ee12:3:1:2:fce3:42
+mp-peer:        id _:sigi-vdsl
+                ACTION in 64738:2012 community:append
+                ACCEPT SIGI-SIXXS-IP6NET
+                ANNOUNCE ANY
+remarks:         <<<<<<gandalf.fal1>>>>>> helios-eve
+mp-group:       id helios-eve
+                node gandalf.fal1.welterde.net
+                as AS64794
+                interface helios.eve
+                ACTION in 64738:2013 community:append
+                ANNOUNCE ANY
+                ACCEPT ANY
+mp-peer:        id _:helios-eve
+                afi ipv6.unicast
+                local openvpn-helios-eve.tunnel.gandalf.fal1.welterde.net
+                remote fdef:5d0d:ee12:3:1:1:fd1a:42
+mp-peer:        id helios-eve-ip4:helios-eve
+                afi ipv4.unicast
+                local 172.22.255.0
+                remote 172.22.255.1
+remarks:         <<<<<<gandalf.fal1>>>>>> neoraider-chaos
+mp-group:       id neoraider-chaos
+                node gandalf.fal1.welterde.net
+                as AS64784
+                interface neoraider.chaos
+                local openvpn-neoraider-chaos.tunnel.gandalf.fal1.welterde.net
+                remote welterde-gw.chaos.universe-factory.net
+                ACTION in 64738:2013 community:append
+                ACCEPT ANY
+                ANNOUNCE ANY
+mp-peer:        id _:neoraider-chaos
+                afi ipv6.unicast
+mp-peer:        id _:neoraider-chaos
+                afi ipv4.unicast 
+remarks:         ------< tinc42 IX >---------------------------------------------------
+remarks:         ------[ common ]------------------------------------------------------
+mp-group:       id tinc42-ix
+                node hex.fal2.welterde.net
+                interface tinc42
+                local tinc-tinc42.tunnel.hex.fal2.welterde.net
+remarks:         ------[ peers ]-------------------------------------------------------
+remarks:         more route information goes here
+remarks:         ------< IPv6 communities >--------------------------------------------
+remarks:         (0  ) => (0,<peeras>)           Do not advertise to <peeras>
+remarks:         (1  ) => (64738,3001)           Prepend 64738 1 time
+remarks:         (2  ) => (64738,3002)           Prepend 64738 2 times
+remarks:         (3  ) => (64738,3003)           Prepend 64738 3 times
+remarks:         (5  ) => (1,<peeras>)           Advertise to <peeras>
+remarks:         (10 ) => (64738,4<location>)    Do not advertise at <location>
+remarks:               => (64738,4001)           Do not advertise at fal1
+remarks:         (15 ) => (3,<peeras>)           Advertise to <peeras>
+remarks:         (20 ) => (64738,5<location>)    Advertise at <location>
+remarks:         (25 ) => (64738,3000)           Advertise to noone
+remarks:         (100) => (64738,5000)           Advertise to everyone
+remarks:         
+remarks:               => (64738,2001)           High latency route
+remarks:               => (64738,2011)           Low bandwidth route - <= 1MBit
+remarks:               => (64738,2012)           Medium bandwidth route - < 10Mbit
+remarks:               => (64738,2013)           High bandwidth route - >= 10Mbit
+remarks:         -----< Locations >----------------------------------------------------
+remarks:         (000) => whole AS               Implemented via seperate rules
+remarks:         (001) => fal1                   Falkenstein1 - hetzner RZ10
+remarks:         (002) => fal2                   Falkenstein2 - hetzner RZ12
+remarks:         (003) => fmt1                   Fremont1 - egihosting via HE
+remarks:         (004) => ulm1                   Ulm1 - @home via acor
+remarks:         (005) => gar1                   Garching1 - @home via m-net
+remarks:         (006) => jen1                   Jena1 - EUServ
+remarks:         (100) => otr                    On the run/road - machines not tied to a location
+remarks:         -----< Routers >------------------------------------------------------
+remarks:         (001) => gandalf.fal1
+remarks:         (002) => hex.fal2
+remarks:         (003) => arda.fmt1
+remarks:         (004) => atomi.ulm1
+remarks:         (005) => cizzco-1760-1.gar1
+remarks:         (006) => dwarfen.jen1
+remarks:         (007) => tux.gar1
+admin-c:        WELTERDE-DN42
+tech-c:         WELTERDE-DN42
+mnt-by:           DUMMY-MNT

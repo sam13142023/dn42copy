@@ -1,0 +1,10 @@
+inetnum:           172.22.129.0-172.22.129.15
+netname:           BAKKERNET-WARSAW
+descr:             Bakker Network in Warsaw, Poland
+country:           PL
+admin-c:           RICK-DN42
+tech-c:            RICK-DN42
+mnt-by:            RICK-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1506182404
+cidr:		172.22.129.0/28

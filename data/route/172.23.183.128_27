@@ -1,0 +1,5 @@
+route:             172.23.183.128/27
+descr:             BERLIN - NS2
+origin:            AS4242422460
+mnt-by:            RFC2460-MNT
+bgp-status:        inactive 1483372805

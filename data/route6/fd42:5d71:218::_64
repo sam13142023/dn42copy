@@ -1,0 +1,4 @@
+route6:            fd42:5d71:218::/64
+descr:             JRB0001-TRANSIT
+origin:            AS4242420118
+mnt-by:            JRB0001-MNT

@@ -1,0 +1,6 @@
+aut-num:           AS76137
+as-name:           HIVE13-AS
+descr:             Hive13 Cincinnati
+admin-c:           HIVE13-DN42
+tech-c:            HODAPP-DN42
+mnt-by:            HODAPP-MNT

@@ -1,0 +1,5 @@
+route:             172.20.14.64/27
+descr:             debrouwer route accouncement
+origin:            AS4242429913
+mnt-by:            DEBROUWER-MNT
+bgp-status:        inactive 1499875218

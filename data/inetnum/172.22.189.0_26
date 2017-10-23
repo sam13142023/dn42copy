@@ -1,0 +1,10 @@
+inetnum:           172.22.189.0 - 172.22.189.63
+netname:           MTR-NET2
+descr:             Michael Trip Net2
+country:           NL
+admin-c:           MTR-DN42
+tech-c:            MTR-DN42
+mnt-by:            MTR-MNT
+status:            ASSIGNED
+bgp-status:        active
+cidr:		172.22.189.0/26

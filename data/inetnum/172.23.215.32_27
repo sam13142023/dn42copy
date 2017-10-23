@@ -1,0 +1,10 @@
+inetnum:           172.23.215.32-172.23.215.63
+netname:           LUPHYNET-NETWORK
+country:           US
+admin-c:           AEMILLER-DN42
+tech-c:            AEMILLER-DN42
+mnt-by:            LUPHYNET-MNT
+nserver:           dummy.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492747203
+cidr:		172.23.215.32/27

@@ -1,0 +1,11 @@
+inetnum:           172.23.251.192 - 172.23.251.255
+netname:           UNALLOCATED-SPACE-NETWORK
+descr:             Unallocated Space's IP range
+country:           US
+admin-c:           COREY-DN42
+tech-c:            COREY-DN42
+mnt-by:            COREY-MNT
+nserver:           ns.uas.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492306865
+cidr:		172.23.251.192/26

@@ -1,0 +1,5 @@
+route:             172.20.6.96/27
+descr:             NEUTRINET
+origin:            AS4242422514
+mnt-by:            THARYROK-MNT
+bgp-status:        inactive 1483113604

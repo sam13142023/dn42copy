@@ -1,0 +1,8 @@
+inet6num:          fd9a:f34d:4541:0:0:0:0:0 - fd9a:f34d:4541:ffff:ffff:ffff:ffff:ffff
+netname:           LXNET-MAIN6
+country:           DE
+admin-c:           LYREX-DN42
+tech-c:            LYREX-DN42
+mnt-by:            LYREX-MNT
+status:            ASSIGNED
+cidr:		fd9a:f34d:4541::/48

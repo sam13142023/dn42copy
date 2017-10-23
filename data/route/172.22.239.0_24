@@ -1,0 +1,5 @@
+route:              172.22.239.0/24
+descr:              krautspace.de Dn42-Netblock
+origin:             AS64839
+bgp-status: active
+mnt-by:           DUMMY-MNT

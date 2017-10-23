@@ -1,0 +1,9 @@
+inetnum:           172.23.215.224-172.23.215.255
+netname:           WNTP-NET
+country:           US
+admin-c:           WNTP-DN42
+tech-c:            WNTP-DN42
+mnt-by:            WNTP-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1494460804
+cidr:		172.23.215.224/27

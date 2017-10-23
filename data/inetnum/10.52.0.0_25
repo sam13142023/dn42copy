@@ -1,0 +1,8 @@
+inetnum:           10.52.0.0 - 10.52.0.127
+netname:           KINGDOM-01
+country:           US
+admin-c:           ZSHEN-DN42
+tech-c:            ZSHEN-DN42
+mnt-by:            KINGDOM-MNT
+status:            ALLOCATED
+cidr:		10.52.0.0/25

@@ -1,0 +1,9 @@
+inetnum:           172.23.63.0 - 172.23.63.255
+netname:           STL-NETWORK
+descr:             Steelnet Network PLD
+country:           BG
+admin-c:           ORG-STLNET
+tech-c:            ORG-STLNET
+mnt-by:            STLNET-MNT
+status:            ASSIGNED
+cidr:		172.23.63.0/24

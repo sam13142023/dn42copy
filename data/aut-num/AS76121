@@ -1,0 +1,8 @@
+aut-num:            AS76121
+as-name:            SAW-AS
+descr:              Saw's home AS
+remarks:             route information goes here
+admin-c:            SAW-DN42
+tech-c:             SAW-DN42
+
+mnt-by:           DUMMY-MNT

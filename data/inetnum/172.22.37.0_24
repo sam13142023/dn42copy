@@ -1,0 +1,9 @@
+inetnum:           172.22.37.0 - 172.22.37.255
+netname:           NET-NONAME-DN42
+country:           N/A
+admin-c:           NONAME-DN42
+tech-c:            NONAME-DN42
+mnt-by:            DUMMY-MNT
+status:            ASSIGNED
+bgp-status: active
+cidr:		172.22.37.0/24

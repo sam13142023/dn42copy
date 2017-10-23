@@ -1,0 +1,4 @@
+route:             172.20.33.0/24
+origin:            AS4242422777
+mnt-by:            SOMNET-MNT
+bgp-status:        active

@@ -1,0 +1,8 @@
+domain:            projectmori.dn42
+descr:             Primary domain for PROJECTMORI
+status:            EVALPEND 1504004424
+country:           US
+admin-c:           MORI-DN42
+tech-c:            MORI-DN42
+mnt-by:            PROJECTMORI-MNT
+nserver:           ns1.projectmori.dn42 172.20.171.81

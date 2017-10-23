@@ -1,0 +1,8 @@
+tinc-key:          MIAU-TINC
+tinc-host:         dn42.maraun.de
+compression:       5
+descr:             Public
+mnt-by:            MIAU-MNT
+admin-c:           MIAU-DN42
+subnet:            172.20.148.1/32
+tinc-address:      dn42.maraun.de

@@ -1,0 +1,10 @@
+tinc-key:          STEPHANJ-TINC
+tinc-host:         stephanj
+descr:             * This object was generated based on info from legacy
+descr:             * wiki and existing host files
+compression:       9
+subnet:            172.22.255.195/32
+subnet:            fd04:de02:7af9:0:0:0:0:195/128
+tinc-address:      proxyvm.stejau.de
+admin-c:           STEPHANJ-DN42
+mnt-by:            DUMMY-MNT

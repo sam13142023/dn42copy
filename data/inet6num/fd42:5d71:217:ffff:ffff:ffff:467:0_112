@@ -1,0 +1,7 @@
+inet6num:          fd42:5d71:217:FFFF:FFFF:FFFF:0467::-fd42:5d71:217:FFFF:FFFF:FFFF:0467:FFFF
+netname:           JRB0001-INET6-PEERING-REST
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ASSIGNED
+cidr:              fd42:5d71:217:FFFF:FFFF:FFFF:0467::/112

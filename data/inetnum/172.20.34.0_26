@@ -1,0 +1,10 @@
+inetnum:           172.20.34.0 - 172.20.34.63
+netname:           ZAUNEI-DN42
+descr:             Zaunei
+country:           DE
+admin-c:           ZAUNEI-DN42
+tech-c:            ZAUNEI-DN42
+mnt-by:            ZAUNEI-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1496635202
+cidr:		172.20.34.0/26

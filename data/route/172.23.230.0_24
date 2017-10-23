@@ -1,0 +1,4 @@
+route:              172.23.230.0/24
+origin:             AS64753
+mnt-by:             BARNEHAGE-MNT
+bgp-status: inactive 1479340805

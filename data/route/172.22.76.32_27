@@ -1,0 +1,5 @@
+route:             172.22.76.32/27
+descr:             JIMO-ROUTER
+origin:            AS4242428597
+mnt-by:            JIMO-MNT
+bgp-status:        inactive 1469880003

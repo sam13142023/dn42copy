@@ -1,0 +1,4 @@
+route:             172.20.150.96/28
+origin:            AS4242428763
+mnt-by:            XEINAL-MNT
+bgp-status:        inactive 1504569607

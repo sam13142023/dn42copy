@@ -1,0 +1,8 @@
+domain:            pad.dn42
+descr:             etherpad
+country:           GB
+admin-c:           ANA-DN42
+tech-c:            ANA-DN42
+mnt-by:            ANA-MNT
+nserver:           ns1.flat.dn42
+status:            EVALPEND 1501583777

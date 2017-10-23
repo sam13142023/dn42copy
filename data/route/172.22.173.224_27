@@ -1,0 +1,5 @@
+route:             172.22.173.224/27
+descr:             GW7
+origin:            AS64773
+mnt-by:            JOMAT-MNT
+bgp-status:        inactive 1480824012

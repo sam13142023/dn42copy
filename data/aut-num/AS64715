@@ -1,0 +1,6 @@
+aut-num:            AS64715
+as-name:            TOMATO-AS
+descr:              Tomato Notwork
+admin-c:            TOMATO-DN42
+tech-c:             TOMATO-DN42
+mnt-by:           DUMMY-MNT

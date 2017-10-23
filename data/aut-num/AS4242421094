@@ -1,0 +1,12 @@
+aut-num:           AS4242421094
+as-name:           AS-TRANSATLANTIC
+descr:             Transatlantic Transit Peerings
+admin-c:           IRL-DN42
+admin-c:           ANA-DN42
+admin-c:           LEX-DN42
+tech-c:            IRL-DN42
+tech-c:            ANA-DN42
+tech-c:            LEX-DN42
+mnt-by:            IRL-MNT
+mnt-by:            ANA-MNT
+mnt-by:            LEX-MNT

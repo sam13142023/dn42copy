@@ -1,0 +1,11 @@
+inetnum:           172.22.68.104-172.22.68.111
+netname:           FROZTBYTE-DE1
+descr:             Froztnet DE
+country:           DE
+admin-c:           JV-DN42
+tech-c:            JV-DN42
+mnt-by:            FROZTNET-MNT
+nserver:           ns1.froztnet.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1494014402
+cidr:		172.22.68.104/29

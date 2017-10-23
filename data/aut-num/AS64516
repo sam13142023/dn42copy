@@ -1,0 +1,17 @@
+aut-num:           AS64516
+as-name:           ETH2-AS
+remarks:           +-----------------------------------+
+remarks:           | eth2 networks primary ASN         |
+remarks:           +-----------------------------------+
+remarks:           | Peering locations:                |
+remarks:           | - NL, Enschede. 3ms to amsterdam  |
+remarks:           +-----------------------------------+
+remarks:           | IPsec + GRE preferred, OpenVPN is |
+remarks:           | also possible.                    |
+remarks:           +-----------------------------------+
+descr:             eth2 primary ASN
+admin-c:           REENING-DN42
+tech-c:            REENING-DN42
+tech-c:            JK5-DN42
+mnt-by:            ETH2-MNT
+org:               ORG-ETH2

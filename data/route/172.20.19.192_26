@@ -1,0 +1,5 @@
+route:             172.20.19.192/26
+descr:             XUMU
+origin:            AS4242429952
+mnt-by:            XUMU-MNT
+bgp-status:        inactive 1493611211

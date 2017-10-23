@@ -1,0 +1,9 @@
+inetnum:           10.121.1.0 - 10.121.1.255
+netname:           NET-ANDROMEDA-000
+descr:             NONE
+country:           US
+admin-c:           TREDBONE-DN42
+tech-c:            TREDBONE-DN42
+mnt-by:            ANDROMEDA-MNT
+status:            ASSIGNED
+cidr:		10.121.1.0/24

@@ -1,0 +1,4 @@
+route:             172.23.215.224/27
+origin:            AS4242429995
+mnt-by:            WNTP-MNT
+bgp-status:        inactive 1494460805

@@ -1,0 +1,5 @@
+route:             172.20.163.64/27
+descr:             AVI-DN42NE
+origin:            AS4242429875
+mnt-by:            AVI-MNT
+bgp-status:        inactive 1502409606

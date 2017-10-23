@@ -1,0 +1,6 @@
+aut-num:           AS64515
+as-name:           MORGAN-AS
+descr:             MORGAN's AS
+admin-c:           MORGAN-DN42
+tech-c:            MORGAN-DN42
+mnt-by:            MORGAN-MNT

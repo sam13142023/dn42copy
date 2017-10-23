@@ -1,0 +1,11 @@
+inetnum:           172.22.119.0 - 172.22.119.127
+nserver:           ns1.lutoma.dn42
+netname:           LUTOMA-IP4NET
+descr:             lutoma main IP4 network
+country:           DE
+admin-c:           LUTOMA-DN42
+tech-c:            LUTOMA-DN42
+status:            ASSIGNED
+mnt-by:            LUTOMA-MNT
+bgp-status:        active
+cidr:		172.22.119.0/25

@@ -1,0 +1,5 @@
+route:             172.21.68.0/26
+descr:             HBNEL Core Lab
+origin:            AS4242423327
+mnt-by:            ZACH-MNT
+bgp-status:        inactive 1492992003

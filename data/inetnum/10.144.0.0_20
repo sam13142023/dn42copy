@@ -1,0 +1,9 @@
+inetnum: 10.144.0.0 - 10.144.15.255
+remarks: ** badoldesloe
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+status: ALLOCATED
+nserver: ns1.badoldesloe.g.nic.dn42
+cidr:		10.144.0.0/20
+mnt-by:           DUMMY-MNT
+netname:          Unnamed 10.144.0.0/20 Network

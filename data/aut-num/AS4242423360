@@ -1,0 +1,7 @@
+aut-num:           AS4242423360
+as-name:           ETH2-ANYCAST-AS
+descr:             eth2 anycast ASN
+admin-c:           ORG-ETH2
+tech-c:            ORG-ETH2
+mnt-by:            ETH2-MNT
+org:               ORG-ETH2

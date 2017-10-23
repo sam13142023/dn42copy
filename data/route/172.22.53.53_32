@@ -1,0 +1,6 @@
+route:              172.22.53.53/32
+descr:              CrazyDNS Recursive Resolver
+remarks:             http://www.srn.dn42/crazydns
+origin:             AS64648
+bgp-status:         active
+mnt-by:           DUMMY-MNT

@@ -1,0 +1,4 @@
+route:             172.23.5.0/24
+origin:            AS76103
+mnt-by:            NIXNODES-MNT
+bgp-status:        inactive 1503892809

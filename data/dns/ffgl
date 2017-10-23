@@ -1,0 +1,8 @@
+domain: ffgl
+country: DE
+remarks: ** glwupper
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.glwupper.g.nic.dn42 10.156.3.1

@@ -1,0 +1,9 @@
+inetnum:           10.30.0.0-10.30.31.255
+netname:           FFWW-IP4NET
+descr:             Freifunk Westerwald Netz
+country:           DE
+admin-c:           FC-DN42
+tech-c:            FC-DN42
+mnt-by:            FC-MNT
+status:            ASSIGNED
+cidr:		10.30.0.0/19

@@ -1,0 +1,6 @@
+aut-num:           AS76120
+as-name:           SPLICE-AS
+descr:             Splice core AS
+admin-c:           OPTIK-DN42
+tech-c:            OPTIK-DN42
+mnt-by:            SPLICE-MNT

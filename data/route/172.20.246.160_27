@@ -1,0 +1,5 @@
+route:             172.20.246.160/27
+descr:             0x1337 Networking Services
+origin:            AS4242421150
+mnt-by:            0X1337-MNT
+bgp-status:        inactive 1487865606

@@ -1,0 +1,12 @@
+inetnum:           172.22.181.0-172.22.181.63
+netname:           ASOT-TORONTO-DN42-CORE-NET01
+descr:             A Series of Tubez Networks
+country:           CA
+admin-c:           HEAVYMETAL-DN42
+tech-c:            HEAVYMETAL-DN42
+mnt-by:            ASOTNET-MNT
+status:            ALLOCATED PI
+nserver:           ns1.aseriesoftubez.dn42 fd68:fdcc:7a1a::53
+nserver:           ns1.aseriesoftubez.dn42 172.22.181.53
+bgp-status:        inactive 1494345602
+cidr:		172.22.181.0/26

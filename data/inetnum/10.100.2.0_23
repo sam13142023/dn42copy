@@ -1,0 +1,8 @@
+inetnum:           10.100.2.0 - 10.100.3.255
+netname:           CCCK-NET
+country:           US
+admin-c:           CCCKC-DN42
+tech-c:            TAGNO25-DN42
+mnt-by:            TAGNO25-MNT
+status:            ASSIGNED
+cidr:	           10.100.2.0/23

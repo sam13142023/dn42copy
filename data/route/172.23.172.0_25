@@ -1,0 +1,5 @@
+route:             172.23.172.0/25
+descr:             Magrathea Laboratories e.V.
+origin:            AS4242422800
+mnt-by:            MAJOR-MNT
+bgp-status:        inactive 1492272005

@@ -1,0 +1,4 @@
+route:             172.22.134.64/28
+origin:            AS4242428370
+mnt-by:            JRAC-MNT
+bgp-status:        inactive 1504036833

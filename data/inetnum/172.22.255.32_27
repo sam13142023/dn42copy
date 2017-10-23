@@ -1,0 +1,11 @@
+inetnum:           172.22.255.32 - 172.22.255.63
+netname:           NET-NULLL-TRANSFER-DN42
+descr:             transfer network for OpenVPN tunnels
+country:           DE
+admin-c:           STV0G-DN42
+tech-c:            STV0G-DN42
+mnt-by:            NULLL-MNT
+status:            ASSIGNED
+bgp-status:        ignore
+
+cidr:		172.22.255.32/27

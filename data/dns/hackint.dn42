@@ -1,0 +1,10 @@
+domain:            hackint.dn42
+nserver:           souris.root.dn42
+country:           DE
+nserver:           kapha.mtr.xuu.dn42
+nserver:           dns1.crest.dn42
+nserver:           dns2.crest.dn42
+status:            EVALPEND 1503916717
+admin-c:           SOURIS-DN42
+tech-c:            SOURIS-DN42
+mnt-by:            XUU-MNT

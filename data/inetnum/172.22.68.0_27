@@ -1,0 +1,12 @@
+inetnum:           172.22.68.0-172.22.68.31
+netname:           IMLONGHAO-NETWORK
+descr:             imlonghao Network Block in nl-ams01
+country:           NL
+admin-c:           IMLONGHAO-DN42
+tech-c:            IMLONGHAO-DN42
+mnt-by:            IMLONGHAO-MNT
+nserver:           ns1.imlonghao.dn42
+nserver:           ns2.imlonghao.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1506528005
+cidr:		172.22.68.0/27

@@ -1,0 +1,7 @@
+tinc-key:          MTREMER-TINC
+tinc-host:         mtremer
+admin-c:           MTREMER-DN42
+tech-c:            MTREMER-DN42
+tinc-address:      tinc.tremer.co.uk
+mnt-by:            MTREMER-MNT
+mnt-by:            DUMMY-MNT

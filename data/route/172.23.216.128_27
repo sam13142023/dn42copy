@@ -1,0 +1,7 @@
+route:             172.23.216.128/27
+descr:             m33 42
+origin:            AS4242421533
+mnt-by:            JOMAT-MNT
+mnt-by:            OIDA-MNT
+mnt-by:            ALICE-DN42-MNT
+bgp-status:        inactive 1491955207

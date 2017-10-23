@@ -1,0 +1,9 @@
+inetnum:           172.24.17.0-172.24.17.255
+netname:           ETH2-MGMT-NSL
+descr:             eth2 management Noord-Sleen
+country:           NL
+admin-c:           JK5-DN42
+tech-c:            JK5-DN42
+mnt-by:            ETH2-MNT
+status:            ALLOCATED
+cidr:              172.24.17.0/24

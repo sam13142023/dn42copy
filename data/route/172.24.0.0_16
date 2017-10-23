@@ -1,0 +1,4 @@
+route:             172.24.0.0/16
+descr:             ETH2 Network
+origin:            AS64516
+mnt-by:            ETH2-MNT

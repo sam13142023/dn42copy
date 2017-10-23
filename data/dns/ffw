@@ -1,0 +1,12 @@
+domain: ffw
+country: DE
+remarks: ** wuppertal
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.wuppertal.g.nic.dn42 10.3.0.247
+nserver: ns2.wuppertal.g.nic.dn42 10.3.0.249
+nserver: ns3.wuppertal.g.nic.dn42 10.3.0.250
+nserver: ns4.wuppertal.g.nic.dn42 10.3.0.251
+nserver: ns1.wuppertal.g.nic.dn42 fda0:747e:ab29:e1ba:ff07::1

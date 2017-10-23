@@ -1,0 +1,4 @@
+route:             172.20.251.128/25
+origin:            AS4242420519
+mnt-by:            DRIZZLELAKE-MNT
+bgp-status:        inactive 1492306865

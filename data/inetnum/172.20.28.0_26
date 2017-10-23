@@ -1,0 +1,9 @@
+inetnum:           172.20.28.0 - 172.20.28.63
+netname:           MT-DN42-INET-TRANSFER
+admin-c:           MT-DN42
+tech-c:            MT-DN42
+mnt-by:            MT-MNT
+nserver:           fornax.urandom.eu.org
+nserver:           ara.urandom.eu.org
+status:            ASSIGNED
+cidr:              172.20.28.0/26

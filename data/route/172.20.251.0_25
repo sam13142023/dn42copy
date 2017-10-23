@@ -1,0 +1,5 @@
+route:             172.20.251.0/25
+descr:             SNOWLAKE-RT
+origin:            AS4242427669
+mnt-by:            SNOWLAKE-MNT
+bgp-status:        inactive 1492306865

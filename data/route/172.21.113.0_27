@@ -1,0 +1,5 @@
+route:             172.21.113.0/27
+descr:             ETHERNAL-NETWORK
+origin:            AS4242429113
+mnt-by:            ETHERNAL-MNT
+bgp-status:        inactive 1505908807

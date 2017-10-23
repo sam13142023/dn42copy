@@ -1,0 +1,11 @@
+aut-num:           AS4242420038
+as-name:           FLONET-SITE2-AS
+descr:             FLONET home2 AS
+remarks:           FloNet Site 2
+remarks:           -----------------------------------------------
+remarks:           refer to AS4242420037 for the main FloNET AS
+remarks:           -----------------------------------------------
+admin-c:           FLONET-DN42
+tech-c:            FLONET-DN42
+org:               ORG-FLONET-DN42
+mnt-by:            FLORIAN-MNT

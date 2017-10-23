@@ -1,0 +1,9 @@
+domain:            as4242420155.dn42
+descr:             as4242420155 infpage
+country:           DE
+admin-c:           NLDDEV1-DN42
+tech-c:            NLDDEV1-DN42
+mnt-by:            DDEV-MNT
+nserver:           ns1.ddev.dn24
+nserver:           ns2.ddev.dn24
+status:            EVALPEND 1506421227

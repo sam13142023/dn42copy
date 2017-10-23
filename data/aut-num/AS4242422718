@@ -1,0 +1,9 @@
+aut-num:           AS4242422718
+as-name:           SUBRAUM-AS
+descr:             Hackerspace AS, Peering via OpenVPN
+admin-c:           GBE-DN42
+admin-c:           GIGA-DN42
+tech-c:            GBE-DN42
+tech-c:            GIGA-DN42
+mnt-by:            GBE-MNT
+mnt-by:            GIGA-MNT

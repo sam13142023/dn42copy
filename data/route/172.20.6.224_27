@@ -1,0 +1,5 @@
+route:             172.20.6.224/27
+descr:             Rapid Ninja NET0
+origin:            AS4242421335
+mnt-by:            RAPID-NINJA-MNT
+bgp-status:        inactive 1491004825

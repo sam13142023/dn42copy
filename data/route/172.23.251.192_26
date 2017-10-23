@@ -1,0 +1,5 @@
+route:             172.23.251.192/26
+descr:             Unallocated Space Hackerspace
+origin:            AS4242420450
+mnt-by:            COREY-MNT
+bgp-status:        inactive 1492306866

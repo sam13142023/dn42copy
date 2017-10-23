@@ -1,0 +1,6 @@
+aut-num:           AS76149
+as-name:           SOMEDUDE-2-DN42
+descr:             additional anonet ipv6 AS - daroute
+admin-c:           SOMEDUDE-DN42
+tech-c:            SOMEDUDE-DN42
+mnt-by:            SOMEDUDE-MNT

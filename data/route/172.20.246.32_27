@@ -1,0 +1,4 @@
+route:             172.20.246.32/27
+origin:            AS4242420426
+mnt-by:            WILDCODER-MNT
+bgp-status:        inactive 1491940805

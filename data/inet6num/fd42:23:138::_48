@@ -1,0 +1,9 @@
+inet6num:          fd42:23:138:0:0:0:0:0 - fd42:23:138:ffff:ffff:ffff:ffff:ffff
+netname:           NAZCO-DN42-V6-ULA
+descr:             nazco's ula ipv6 network
+country:           DE
+admin-c:           NAZCO-DN42
+tech-c:            NAZCO-DN42
+mnt-by:            NAZCO-MNT
+status:            ASSIGNED
+cidr:		fd42:23:138::/48

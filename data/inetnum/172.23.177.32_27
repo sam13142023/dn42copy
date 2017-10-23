@@ -1,0 +1,9 @@
+inetnum:           172.23.177.32 - 172.23.177.63
+netname:           CRUTH-NETWORK
+country:           BE
+admin-c:           ORG-CRUTH
+tech-c:            CRUTH-DN42
+mnt-by:            CRUTH-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1506657606
+cidr:		172.23.177.32/27

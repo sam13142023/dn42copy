@@ -1,0 +1,8 @@
+tinc-keyset:       SET-AS76103IX-TINC
+member:            AS76103IX-TINC
+member:            MMARKER-TINC
+member:            AS76103US-TINC
+member:            NULLL-TINC
+member:            AS4242422703-TINC
+admin-c:           ORG-NIXNODES
+mnt-by:            NIXNODES-MNT

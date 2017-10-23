@@ -1,0 +1,4 @@
+route:             172.20.154.192/26
+origin:            AS4242422017
+mnt-by:            KYRIASIS-MNT
+bgp-status:        inactive 1486022404

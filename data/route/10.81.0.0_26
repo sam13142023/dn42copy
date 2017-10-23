@@ -1,0 +1,4 @@
+route:             10.81.0.0/26
+descr:             OwnHost.cz
+origin:            AS4242423509
+mnt-by:            OWNHOST-MNT

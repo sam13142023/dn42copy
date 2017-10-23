@@ -1,0 +1,10 @@
+inetnum:           172.22.127.0 - 172.22.127.31
+netname:           GBE-NET1
+country:           DE
+admin-c:           GBE-DN42
+tech-c:            GBE-DN42
+mnt-by:            GBE-MNT
+nserver:           ns.gbe.dn42
+status:            ALLOCATED
+bgp-status:        active
+cidr:		172.22.127.0/27

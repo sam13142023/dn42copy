@@ -1,0 +1,6 @@
+aut-num:           AS76169
+as-name:           HB-AS
+descr:             private network
+admin-c:           HB-DN42
+tech-c:            HB-DN42
+mnt-by:            HB-MNT

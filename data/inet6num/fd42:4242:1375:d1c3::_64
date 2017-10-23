@@ -1,0 +1,9 @@
+inet6num:          fd42:4242:1375:d1c3:: - fd42:4242:1375:d1c3:ffff:ffff:ffff:ffff
+netname:           CHELNOK-IPV6-VPN
+descr:             chelnok ipv6 vpn client pool
+country:           DE
+admin-c:           ORG-CHELNOK
+tech-c:            ERI-DN42
+mnt-by:            ERI-MNT
+status:            ALLOCATED
+cidr:		fd42:4242:1375:d1c3::/64

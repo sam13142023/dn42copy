@@ -1,0 +1,6 @@
+route6:            fd42:d42:d42:6667::/64
+descr:             hackint
+remarks:           https://www.hackint.ogr
+origin:            AS4242420000
+origin:            AS4242420101
+mnt-by:            HEXA-MNT

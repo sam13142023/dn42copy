@@ -1,0 +1,9 @@
+domain:            wiki.dn42
+country:           US
+nserver:           kapha.mtr.xuu.dn42
+nserver:           ns1.mhm.dn42
+admin-c:           SOURIS-DN42
+tech-c:            SOURIS-DN42
+status:            EVALPEND 1503919260
+mnt-by:            XUU-MNT
+mnt-by:            NIXNODES-MNT

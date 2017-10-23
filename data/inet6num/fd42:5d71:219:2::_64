@@ -1,0 +1,8 @@
+inet6num:          fd42:5d71:219:2::-fd42:5d71:219:2:FFFF:FFFF:FFFF:FFFF
+netname:           JRB0001-SERVICES-ANYCAST
+descr:             HTTP
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ASSIGNED PI
+cidr:		fd42:5d71:219:2::/64

@@ -1,0 +1,10 @@
+inetnum: 10.10.0.0 - 10.10.255.255
+remarks: ** ingolstadt
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: ALLOCATED
+nserver: ns1.ingolstadt.g.nic.dn42
+nserver: ns2.ingolstadt.g.nic.dn42
+cidr:		10.10.0.0/16
+netname:          Unnamed 10.10.0.0/16 Network

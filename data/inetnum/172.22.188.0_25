@@ -1,0 +1,12 @@
+inetnum:           172.22.188.0 - 172.22.188.127
+netname:           NET-BLK218824-DN42
+descr:             NixNodes IPv4 Network - DN42
+policy:            reserved
+country:           SI
+admin-c:           NIXNODES-DN42
+tech-c:            NIXNODES-DN42
+mnt-by:            NIXNODES-MNT
+nserver:           ns1.nixnodes.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1503907204
+cidr:		172.22.188.0/25

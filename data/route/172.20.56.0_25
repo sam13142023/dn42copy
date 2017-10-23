@@ -1,0 +1,5 @@
+route:             172.20.56.0/25
+descr:             ATR's IPv4 Block
+origin:            AS4242421233
+mnt-by:            ATR-MNT
+bgp-status:        active

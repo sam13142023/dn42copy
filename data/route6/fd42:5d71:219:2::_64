@@ -1,0 +1,4 @@
+route6:            fd42:5d71:219:2::/64
+descr:             JRB0001-SERVICES-ANYCAST
+origin:            AS4242420119
+mnt-by:            JRB0001-MNT

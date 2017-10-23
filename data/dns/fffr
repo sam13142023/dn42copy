@@ -1,0 +1,16 @@
+domain: fffr
+country: DE
+remarks: ** freiburg
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.freiburg.g.nic.dn42 10.60.0.103
+nserver: ns2.freiburg.g.nic.dn42 10.60.0.106
+nserver: ns3.freiburg.g.nic.dn42 10.60.0.112
+nserver: ns1.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1113
+nserver: ns2.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1116
+nserver: ns3.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1122
+nserver: ns4.freiburg.g.nic.dn42 2001:bf7:2810::1113
+nserver: ns5.freiburg.g.nic.dn42 2001:bf7:2810::1116
+nserver: ns6.freiburg.g.nic.dn42 2001:bf7:2810::1122

@@ -1,0 +1,6 @@
+aut-num:            AS76185
+as-name:            MIRSAL-TEST-AS
+remarks:            Used for experiments with BGP
+admin-c:            MIRSAL-DN42
+tech-c:             MIRSAL-DN42
+mnt-by:             DUMMY-MNT

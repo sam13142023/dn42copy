@@ -1,0 +1,9 @@
+inet6num:          2001:44b8:3191:3b00:0000:0000:0000:0000-2001:44b8:3191:3bff:ffff:ffff:ffff:ffff
+netname:           NARNIA-ICANN-V6
+descr:             Narnia IPv6 IcannNet Network
+country:           AU
+admin-c:           NARNIA-DN42
+tech-c:            NARNIA-DN42
+mnt-by:            NARNIA-MNT
+status:            ASSIGNED PA
+cidr:		2001:44b8:3191:3b00::/56

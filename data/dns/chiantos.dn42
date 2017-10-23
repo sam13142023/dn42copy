@@ -1,0 +1,8 @@
+domain:            chiantos.dn42
+descr:             Chiantos Main Domain
+country:           FR
+nserver:           haruhi.chiantos.dn42 172.23.147.225
+admin-c:           KANKAN-DN42
+tech-c:            KANKAN-DN42
+mnt-by:            KANKAN-MNT
+status:            EVALPEND 1503915973

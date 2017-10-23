@@ -1,0 +1,4 @@
+route:             172.20.47.0/28
+origin:            AS4242423173
+mnt-by:            COLOCATIOUS-MNT
+bgp-status:        active

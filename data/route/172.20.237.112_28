@@ -1,0 +1,6 @@
+route:             172.20.237.112/28
+descr:             Salt-Orchestrated DN42 Network
+origin:            AS4242428080
+mnt-by:            HEXA-MNT
+mnt-by:            FLEAZ-MNT
+bgp-status:        active

@@ -1,0 +1,4 @@
+route:             172.23.173.96/28
+origin:            AS4242420222
+mnt-by:            DBBD-MNT
+bgp-status:        inactive 1464465604

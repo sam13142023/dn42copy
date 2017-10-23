@@ -1,0 +1,4 @@
+route: 172.23.202.0/24
+origin: AS76115
+mnt-by: PYROPETER-MNT
+bgp-status: active

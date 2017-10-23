@@ -1,0 +1,11 @@
+inetnum:           172.22.240.0 - 172.22.255.255
+netname:           DN42-TRANSFER-IP4NET
+descr:             reserved / transfer networks
+policy:            open
+admin-c:           DUMMY-DN42
+tech-c:            DUMMY-DN42
+mnt-by:            DUMMY-MNT
+status:            ALLOCATED
+nserver:           ns3.welterde.dn42
+bgp-status:        active
+cidr:		172.22.240.0/20

@@ -1,0 +1,9 @@
+inetnum:           172.21.64.104-172.21.64.111
+netname:           SP0RUS-NET
+country:           US
+admin-c:           SP0RUS-DN42
+tech-c:            SP0RUS-DN42
+mnt-by:            SP0RUS-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1492718403
+cidr:		172.21.64.104/29

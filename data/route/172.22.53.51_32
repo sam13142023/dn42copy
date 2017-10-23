@@ -1,0 +1,7 @@
+route:              172.22.53.51/32
+descr:              CrazyDNS .dn42 TLD Nameserver
+remarks:             http://www.srn.dn42/crazydns
+origin:             AS64648
+origin:             AS64731
+bgp-status: active
+mnt-by:           DUMMY-MNT

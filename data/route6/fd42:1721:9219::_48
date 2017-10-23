@@ -1,0 +1,4 @@
+route6:            fd42:1721:9219::/48
+descr:             BSDSERVICES-NETWORK
+origin:            AS4242429962
+mnt-by:            BSDSERVICES-MNT

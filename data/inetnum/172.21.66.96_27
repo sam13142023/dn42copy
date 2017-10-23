@@ -1,0 +1,9 @@
+inetnum:           172.21.66.96-172.21.66.127
+netname:           JRB0001-TRANSIT-PEERING
+remarks:           This subnet is used for peering purposes only and will never be announced.
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ALLOCATED
+bgp-status:        inactive 1499875213
+cidr:		172.21.66.96/27

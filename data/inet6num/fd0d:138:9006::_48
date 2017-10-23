@@ -1,0 +1,9 @@
+inet6num:          FD0D:0138:9006:: - FD0D:0138:9006:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:           ARGV-DN42
+descr:             argv
+country:           DE
+admin-c:           ARGV-DN42
+tech-c:            ARGV-DN42
+mnt-by:            ARGV-DN42-MNT
+status:            ASSIGNED
+cidr:		fd0d:138:9006::/48

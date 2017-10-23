@@ -1,0 +1,10 @@
+inetnum:           172.21.68.0 - 172.21.68.63
+netname:           HBNEL-NETWORK
+country:           US
+admin-c:           ORG-HBNEL
+tech-c:            ZACH-DN42
+mnt-by:            ZACH-MNT
+nserver:           ns1.hbnel.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492992002
+cidr:		172.21.68.0/26

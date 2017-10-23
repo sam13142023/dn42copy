@@ -1,0 +1,5 @@
+route:             172.22.68.112/28
+descr:             Froztnet ZA
+origin:            AS4242427331
+mnt-by:            FROZTNET-MNT
+bgp-status:        inactive 1471521606

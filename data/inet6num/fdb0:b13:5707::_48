@@ -1,0 +1,10 @@
+inet6num:          fdb0:0b13:5707::-fdb0:0b13:5707:ffff:ffff:ffff:ffff:ffff
+netname:           ETH2-NET
+descr:             eth2 ipv6 prefix 1
+country:           NL
+admin-c:           JK5-DN42
+admin-c:           REENING-DN42
+tech-c:            ORG-ETH2
+mnt-by:            ETH2-MNT
+status:            ALLOCATED
+cidr:		fdb0:b13:5707::/48

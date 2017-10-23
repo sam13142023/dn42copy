@@ -1,0 +1,10 @@
+inetnum:            172.22.36.0 - 172.22.37.255
+netname:            RZL-DN42-IP4NET
+descr:              RaumZeitLabor dn42 network
+country:            DE
+admin-c:            RZL-DN42
+tech-c:             RZL-DN42
+status:             ASSIGNED
+bgp-status: active
+cidr:		172.22.36.0/23
+mnt-by:           DUMMY-MNT

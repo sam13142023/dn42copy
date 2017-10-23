@@ -1,0 +1,7 @@
+inetnum: 10.123.192.0 - 10.123.255.255
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+status: ALLOCATED
+cidr:		10.123.192.0/18
+mnt-by:           DUMMY-MNT
+netname:          Unnamed 10.123.192.0/18 Network

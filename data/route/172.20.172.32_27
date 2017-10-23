@@ -1,0 +1,5 @@
+route:             172.20.172.32/27
+descr:             Vitale Networks - Direct Peering
+origin:            AS4242429991
+mnt-by:            VITALE-MNT
+bgp-status:        active

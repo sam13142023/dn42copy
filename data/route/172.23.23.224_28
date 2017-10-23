@@ -1,0 +1,5 @@
+route:             172.23.23.224/28
+descr:             NL-ZUID-INFRA-ALB
+origin:            AS4242427000
+mnt-by:            MARLINC-MNT
+bgp-status:        active

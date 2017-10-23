@@ -1,0 +1,8 @@
+tinc-key:          BLAZINGUS-TINC
+tinc-host:         us1_blazing
+compression:       10
+descr:             Blazing US
+mnt-by:            BLAZING-MNT
+admin-c:           TOBEE-DN42
+subnet:            172.23.67.8/32
+tinc-address:      us-1.gerger-net.de

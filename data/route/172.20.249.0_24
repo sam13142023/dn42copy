@@ -1,0 +1,5 @@
+route:             172.20.249.0/24
+descr:             Weejits Servers
+origin:            AS4242423212
+mnt-by:            WEEJITS-MNT
+bgp-status:        inactive 1487865606

@@ -1,0 +1,9 @@
+domain: ffrgb
+country: DE
+remarks: ** regensburg
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.regensburg.g.nic.dn42 10.90.0.11
+nserver: ns1.regensburg.g.nic.dn42 fdef:f00f:1337:cafe::11

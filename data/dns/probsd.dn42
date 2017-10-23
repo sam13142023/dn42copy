@@ -1,0 +1,8 @@
+domain:            probsd.dn42
+descr:             ProBSD 
+country:           PL
+admin-c:           LEWY-DN42
+tech-c:            LEWY-DN42
+mnt-by:            LEWY-MNT
+nserver:           ns1.probsd.pl
+status:            EVALPEND 1507460588

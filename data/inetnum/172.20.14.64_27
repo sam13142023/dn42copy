@@ -1,0 +1,10 @@
+inetnum:           172.20.14.64 - 172.20.14.95
+netname:           JDB-NETWORK
+descr:             Network prefix for JDB
+country:           NL
+admin-c:           DEBROUWER-DN42
+tech-c:            DEBROUWER-DN42
+mnt-by:            DEBROUWER-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1499875208
+cidr:		172.20.14.64/27

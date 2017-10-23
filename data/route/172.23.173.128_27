@@ -1,0 +1,5 @@
+route:             172.23.173.128/27
+descr:             route with dreads
+origin:            AS4242422562
+mnt-by:            DREADMAN-MNT
+bgp-status:        inactive 1473321603

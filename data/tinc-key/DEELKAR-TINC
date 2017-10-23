@@ -1,0 +1,9 @@
+tinc-key:          DEELKAR-TINC
+tinc-host:         deelkar
+descr:             * This object was generated based on info from legacy
+descr:             * wiki and existing host files
+compression:       9
+subnet:            172.22.255.187/32
+tinc-address:      83.169.16.132
+admin-c:           DEELKAR-DN42
+mnt-by:            DUMMY-MNT

@@ -1,0 +1,4 @@
+route:             172.20.232.0/24
+origin:            AS4242423887
+mnt-by:            JAJO-MNT
+bgp-status:        inactive 1478995206

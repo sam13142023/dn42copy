@@ -1,0 +1,14 @@
+schema:     DNS-SCHEMA
+ref:        dn42.domain
+key:        domain     required   single    primary  schema
+key:        nserver    required   multiple  > [domain name] [ip addr]
+key:        status     required   single    > {EVALPEND,CONNECT} [timestamp]
+key:        descr      optional   single
+key:        mnt-by     required   multiple  lookup=dn42.mntner
+key:        admin-c    optional   multiple  lookup=dn42.person,dn42.role
+key:        tech-c     optional   multiple  lookup=dn42.person,dn42.role
+key:        org        optional   multiple  lookup=dn42.organisation
+key:        country    optional   single
+key:        remarks    optional   multiple
+mnt-by:     XUU-MNT
+mnt-by:     HEXA-MNT

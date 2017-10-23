@@ -1,0 +1,8 @@
+tinc-key:          HEX-TINC
+tinc-host:         hex
+compression:       0
+subnet:            172.22.255.179/32
+tinc-address:      hex.srv.welterde.de
+port:              656
+admin-c:           WELTERDE-DN42
+mnt-by:            DUMMY-MNT

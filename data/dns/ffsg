@@ -1,0 +1,8 @@
+domain: ffsg
+country: DE
+remarks: ** solingen
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: NIXNODES-MNT
+status: CONNECT
+nserver: ns1.solingen.g.nic.dn42 10.6.0.247

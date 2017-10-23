@@ -1,0 +1,8 @@
+route:        172.22.125.0/25
+origin:       AS76143
+origin:       AS76144
+origin:       AS4242420037
+origin:       AS4242420038
+mnt-by:       FLORIAN-MNT
+bgp-status: inactive 1499803351
+

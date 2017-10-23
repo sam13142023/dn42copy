@@ -1,0 +1,4 @@
+route:             172.22.100.0/24
+origin:            AS64698
+mnt-by:            MIC92-MNT
+bgp-status:        active

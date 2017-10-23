@@ -1,0 +1,6 @@
+tinc-key:          RWFCLOUD-TINC
+tinc-host:         dn42
+mnt-by:            RWFMON-MNT
+admin-c:           MON-DN42
+subnet:            172.22.132.128/26
+tinc-address:      172.22.132.129

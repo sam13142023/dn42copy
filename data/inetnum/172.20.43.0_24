@@ -1,0 +1,10 @@
+inetnum:           172.20.43.0-172.20.43.255
+netname:           SCHAFFENBURG-NET
+descr:             https://schaffenburg.org
+country:           DE
+admin-c:           ORG-SCHAFFENBURG
+tech-c:            ORG-SCHAFFENBURG
+mnt-by:            BYTETURTLE-MNT
+status:            ALLOCATED
+bgp-status:        inactive 1492718403
+cidr:		172.20.43.0/24

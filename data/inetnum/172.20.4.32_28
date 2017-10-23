@@ -1,0 +1,10 @@
+inetnum:           172.20.4.32 - 172.20.4.47
+netname:           ADNIDOR-NET
+nserver:           router1.adnidor.dn42
+country:           DE
+admin-c:           ADNIDOR-DN42
+tech-c:            ADNIDOR-DN42
+mnt-by:            ADNIDOR-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1492992002
+cidr:		172.20.4.32/28

@@ -1,0 +1,6 @@
+aut-num:           AS4242428590
+as-name:           VIJAY-AS-TESTING
+descr:             VIJAY'S TEST NETWORK FOR LEARNING BGP
+admin-c:           VIJAY-DN42
+tech-c:            VIJAY-DN42
+mnt-by:            VIJAY-MNT

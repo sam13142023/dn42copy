@@ -1,0 +1,4 @@
+route:             172.23.89.32/27
+origin:            AS4242428572
+mnt-by:            TAIT-MNT
+bgp-status:        inactive 1462536004

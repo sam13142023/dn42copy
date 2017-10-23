@@ -1,0 +1,4 @@
+route:             172.21.120.0/24
+origin:            AS4242423420
+mnt-by:            LUX-MNT
+bgp-status:        inactive 1495281603

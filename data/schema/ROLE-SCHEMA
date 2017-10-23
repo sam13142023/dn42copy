@@ -1,0 +1,12 @@
+schema:     ROLE-SCHEMA
+ref:        dn42.role
+key:        role           required  single    schema
+key:        nic-hdl        required  single    primary
+key:        descr          optional  single
+key:        mnt-by         required  multiple  lookup=dn42.mntner
+key:        admin-c        optional  multiple  lookup=dn42.person
+key:        tech-c         optional  multiple  lookup=dn42.person
+key:        org            optional  multiple  lookup=dn42.organisation
+key:        abuse-mailbox  optional  single
+key:        remarks        optional  multiple
+mnt-by:     XUU-MNT

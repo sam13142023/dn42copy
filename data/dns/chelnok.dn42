@@ -1,0 +1,9 @@
+domain:            chelnok.dn42
+descr:             chelnok community
+country:           DE
+admin-c:           ERI-DN42
+tech-c:            ERI-DN42
+mnt-by:            ERI-MNT
+nserver:           ns.chelnok.dn42 172.23.64.3
+nserver:           ns.chelnok.dn42 fd42:4242:1375:f00::3
+status:            EVALPEND 1503915958

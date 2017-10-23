@@ -1,0 +1,4 @@
+route:             172.20.15.160/27
+origin:            AS4242421146
+mnt-by:            MULTI-MNT
+bgp-status:        inactive 1505001609

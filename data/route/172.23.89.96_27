@@ -1,0 +1,5 @@
+route:             172.23.89.96/27
+descr:             WIX-IE VPN Peering range
+origin:            AS4242423213
+mnt-by:            WEEJITS-MNT
+bgp-status:        inactive 1463126403

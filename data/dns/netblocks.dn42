@@ -1,0 +1,7 @@
+domain:            netblocks.dn42
+country:           DE
+admin-c:           KRSTN-DN42
+tech-c:            KRSTN-DN42
+mnt-by:            KRSTN-MNT
+nserver:           ns1.krstn.dn42
+status:            CONNECT

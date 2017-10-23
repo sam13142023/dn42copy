@@ -1,0 +1,11 @@
+inetnum:           172.22.73.192- 172.22.73.223
+netname:           ARNET-NETWORK
+descr:             ARNET-NETWORK
+country:           AM
+admin-c:           ARNET-DN42
+tech-c:            ARNET-DN42
+mnt-by:            ARNET-MNT
+nserver:           ns1.arnet.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1499875215
+cidr:		172.22.73.192/27

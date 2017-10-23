@@ -1,0 +1,5 @@
+route:             172.20.230.128/25
+descr:             Internet Libre http://inetli.org/
+origin:            AS4242423808
+mnt-by:            INETLI-MNT
+bgp-status:        inactive 1492306865

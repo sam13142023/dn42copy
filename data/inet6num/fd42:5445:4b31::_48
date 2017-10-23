@@ -1,0 +1,8 @@
+inet6num:          fd42:5445:4b31::-fd42:5445:4b31:ffff:ffff:ffff:ffff:ffff
+netname:           TEK6-NET
+country:           DE
+admin-c:           TEK-DN42
+tech-c:            TEK-DN42
+mnt-by:            TEK-MNT
+status:            ASSIGNED
+cidr:		fd42:5445:4b31::/48

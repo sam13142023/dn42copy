@@ -1,0 +1,5 @@
+route:              172.22.252.0/26
+descr:              Macias's dn42 transfer network
+origin:             AS76110
+bgp-status: inactive 1456565769
+mnt-by:           DUMMY-MNT

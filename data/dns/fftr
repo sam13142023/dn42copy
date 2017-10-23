@@ -1,0 +1,11 @@
+domain: fftr
+country: DE
+remarks: ** trier
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.trier.g.nic.dn42 10.172.0.14
+nserver: ns2.trier.g.nic.dn42 10.172.0.16
+nserver: ns1.trier.g.nic.dn42 2001:bf7:fc0f::14
+nserver: ns2.trier.g.nic.dn42 2001:bf7:fc0f::16

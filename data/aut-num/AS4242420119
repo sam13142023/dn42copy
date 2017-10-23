@@ -1,0 +1,6 @@
+aut-num:           AS4242420119
+as-name:           JRB0001-SERVICES
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+remarks:           Please peer with AS4242420118 instead. This AS is used by services only.

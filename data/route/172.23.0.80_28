@@ -1,0 +1,11 @@
+route:             172.23.0.80/28
+descr:             dn42 wiki anycast
+origin:            AS76103
+origin:            AS4242420122
+origin:            AS64737
+origin:            AS4242420092
+mnt-by:            GRMML-MNT
+mnt-by:            MIC92-MNT
+mnt-by:            NIXNODES-MNT
+mnt-by:            XUU-MNT
+bgp-status:        active

@@ -1,0 +1,9 @@
+tinc-key:          MARTIN89-TINC
+tinc-host:         martin89
+compression:       10
+subnet:            172.22.255.178/32
+subnet:            fd04:de02:7af9:0:0:0:0:178/128
+tinc-address:      37.187.4.8
+port:              655
+admin-c:           MARTIN89-DN42
+mnt-by:            DUMMY-MNT

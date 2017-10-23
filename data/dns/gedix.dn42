@@ -1,0 +1,9 @@
+domain:            gedix.dn42
+descr:             gedix dn domain
+country:           DE
+admin-c:           NLDDEV1-DN42
+tech-c:            NLDDEV1-DN42
+mnt-by:            DDEV-MNT
+nserver:           ns1.ddev.dn42
+nserver:           ns2.ddev.dn42
+status:            EVALPEND 1506595047

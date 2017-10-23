@@ -1,0 +1,5 @@
+route:             172.20.14.32/28
+descr:             JRB0001-SERVICES-DE-1
+origin:            AS4242420118
+mnt-by:            JRB0001-MNT
+bgp-status:        active

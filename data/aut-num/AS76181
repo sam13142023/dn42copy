@@ -1,0 +1,5 @@
+aut-num:           AS76181
+as-name:           FOOBAR-AS
+admin-c:           FOOBAR-DN42
+tech-c:            PETER-DN42
+mnt-by:            PETER-MNT

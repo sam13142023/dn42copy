@@ -1,0 +1,13 @@
+schema:    TINC-KEY-SCHEMA
+ref:       dn42.tinc-key
+key:       tinc-key      required  single    primary  schema
+key:       tinc-host     required  single
+key:       descr         required  single
+key:       compression   required  single
+key:       subnet        required  multiple
+key:       tinc-address  required  single
+key:       port          required  single
+key:       admin-c       optional  multiple  lookup=dn42.person,dn42.role
+key:       tech-c        optional  multiple  lookup=dn42.person,dn42.role
+key:       mnt-by        required  multiple  lookup=dn42.mntner
+

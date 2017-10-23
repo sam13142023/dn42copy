@@ -1,0 +1,5 @@
+route:              172.22.38.0/24
+descr:              strehi's dn42 network
+origin:             AS64638
+bgp-status: active
+mnt-by:           DUMMY-MNT

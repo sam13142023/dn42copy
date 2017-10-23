@@ -1,0 +1,4 @@
+route6:            fd42:4242:0707::/48
+descr:             MIAU-ROUTE6
+origin:            AS4242420707
+mnt-by:            MIAU-MNT

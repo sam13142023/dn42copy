@@ -1,0 +1,6 @@
+as-block:          4242427000-4242427010
+descr:             AS block for NL Zuid exchanges and internal services
+admin-c:           NL-ZUID-DN42
+tech-c:            NL-ZUID-DN42
+mnt-by:            MARLINC-MNT
+policy:            closed

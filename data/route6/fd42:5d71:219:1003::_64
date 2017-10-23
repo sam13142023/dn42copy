@@ -1,0 +1,4 @@
+route6:            fd42:5d71:219:1003::/64
+descr:             JRB0001-SERVICES-NL-1
+origin:            AS4242420118
+mnt-by:            JRB0001-MNT

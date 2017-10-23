@@ -1,0 +1,10 @@
+inet6num:          fd42:4242:0707::-fd42:4242:0707:ffff:ffff:ffff:ffff:ffff
+netname:           MIAU-IPV6
+descr:             Katzenjam
+country:           DE
+admin-c:           MIAU-DN42
+tech-c:            MIAU-DN42
+mnt-by:            MIAU-MNT
+nserver:           ns1.miau.dn42
+status:            ASSIGNED
+cidr:		fd42:4242:707::/48

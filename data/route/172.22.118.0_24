@@ -1,0 +1,5 @@
+route:             172.22.118.0/24
+descr:             TUXFLUX-NET1
+origin:            AS4242420402
+mnt-by:            TUXFLUX-MNT
+bgp-status:        inactive 1476129603

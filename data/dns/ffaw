@@ -1,0 +1,21 @@
+domain: ffaw
+country: DE
+remarks: ** suedwest
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.suedwest.g.nic.dn42 10.210.0.101
+nserver: ns2.suedwest.g.nic.dn42 10.210.0.102
+nserver: ns3.suedwest.g.nic.dn42 10.210.0.103
+nserver: ns4.suedwest.g.nic.dn42 10.210.0.104
+nserver: ns5.suedwest.g.nic.dn42 10.210.0.105
+nserver: ns6.suedwest.g.nic.dn42 10.210.0.106
+nserver: ns7.suedwest.g.nic.dn42 10.210.0.199
+nserver: ns1.suedwest.g.nic.dn42 fd00:ffba:ffba::101
+nserver: ns2.suedwest.g.nic.dn42 fd00:ffba:ffba::102
+nserver: ns3.suedwest.g.nic.dn42 fd00:ffba:ffba::103
+nserver: ns4.suedwest.g.nic.dn42 fd00:ffba:ffba::104
+nserver: ns5.suedwest.g.nic.dn42 fd00:ffba:ffba::105
+nserver: ns6.suedwest.g.nic.dn42 fd00:ffba:ffba::106
+nserver: ns7.suedwest.g.nic.dn42 fd00:ffba:ffba::199

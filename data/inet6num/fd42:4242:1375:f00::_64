@@ -1,0 +1,10 @@
+inet6num:          fd42:4242:1375:f00:: - fd42:4242:1375:f00:ffff:ffff:ffff:ffff
+netname:           CHELNOK-F00-IPV6
+nserver:           ns.chelnok.dn42
+descr:             chelnok ipv6
+country:           DE
+admin-c:           ERI-DN42
+tech-c:            ERI-DN42
+mnt-by:            ERI-MNT
+status:            ALLOCATED
+cidr:		fd42:4242:1375:f00::/64

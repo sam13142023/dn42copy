@@ -1,0 +1,9 @@
+inetnum:           172.20.10.0-172.20.10.63
+netname:           VPSSOLUTIONS-CARRIER-01-NET
+country:           US
+admin-c:           CONNOR-DN42
+tech-c:            CONNOR-DN42
+mnt-by:            VPSSOLUTIONS-MNT
+status:            ASSIGNED PI
+bgp-status:        inactive 1493611202
+cidr:		172.20.10.0/26

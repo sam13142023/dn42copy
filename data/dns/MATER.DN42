@@ -1,0 +1,8 @@
+domain:            MATER.DN42
+descr:             Mater Net
+country:           US
+admin-c:           MATER-DN42
+tech-c:            MATER-DN42
+mnt-by:            MATER-MNT
+nserver:           NS1.MATER.DN42 172.22.163.60
+status:            CONNECT

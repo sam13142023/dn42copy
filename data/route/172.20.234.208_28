@@ -1,0 +1,8 @@
+route:             172.20.234.208/28
+descr:             Bronbergwisp Tier4
+origin:            AS4242420701
+mnt-by:            BRONWISP-MNT
+mnt-by:            WILDCODER-MNT
+mnt-by:            TWAKKIE-MNT
+mnt-by:            DOMBOK-MNT
+bgp-status:        inactive 1483459204

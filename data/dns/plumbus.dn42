@@ -1,0 +1,8 @@
+domain:            plumbus.dn42
+descr:             plumbus network
+country:           DE
+admin-c:           SZF-DN42
+tech-c:            SZF-DN42
+mnt-by:            SZF-MNT
+nserver:           ns1.szf.dn42
+status:            EVALPEND 1503917824

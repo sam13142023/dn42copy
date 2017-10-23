@@ -1,0 +1,5 @@
+route:             172.22.177.0/24
+descr:             NixNodes CORE
+origin:            AS76103
+mnt-by:            NIXNODES-MNT
+bgp-status:        inactive 1503907208

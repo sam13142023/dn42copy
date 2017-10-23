@@ -1,0 +1,4 @@
+route:             172.23.178.192/27
+origin:            AS4242420333
+mnt-by:            YANE-MNT
+bgp-status:        inactive 1464307205

@@ -1,0 +1,5 @@
+route:             172.23.71.0/27
+descr:             MSNET
+origin:            AS4242421144
+mnt-by:            MSNET-MNT
+bgp-status:        inactive 1493265604

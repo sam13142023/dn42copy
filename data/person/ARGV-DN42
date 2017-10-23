@@ -1,0 +1,4 @@
+person:            ARGV
+contact:           mailto:foo@bar.de
+mnt-by:            ARGV-DN42-MNT
+nic-hdl:           ARGV-DN42

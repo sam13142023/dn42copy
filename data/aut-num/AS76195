@@ -1,0 +1,7 @@
+aut-num:        AS76195
+org:            ORG-CCCHB
+as-name:        CREST-AS
+descr:          Crest's test AS
+admin-c:        CREST-DN42
+tech-c:         CREST-DN42
+mnt-by:           DUMMY-MNT

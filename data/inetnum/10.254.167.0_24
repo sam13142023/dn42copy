@@ -1,0 +1,11 @@
+inetnum:           10.254.167.0 - 10.254.167.255
+netname:           NET-NNWSI00-FF
+descr:             NixNodes WLAN-SI node end-users
+country:           SI
+admin-c:           NIXNODES-DN42
+tech-c:            NIXNODES-DN42
+nserver:           ns1.nixnodes.dn42
+nserver:           ns2.nixnodes.dn42
+mnt-by:            NIXNODES-MNT
+status:            ALLOCATED
+cidr:		10.254.167.0/24

@@ -1,0 +1,11 @@
+inetnum:            172.22.41.240 - 172.22.41.255
+netname:            PYROPETER-22-IP4NET
+descr:              PyroPeter's 22er network
+country:            DE
+admin-c:            PYROPETER-DN42
+tech-c:             PYROPETER-DN42
+mnt-by:             FRITZ-MNT
+status:             ASSIGNED
+nserver:            ns1.pyropeter.dn42
+bgp-status: active
+cidr:		172.22.41.240/28

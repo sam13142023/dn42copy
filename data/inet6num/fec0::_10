@@ -1,0 +1,12 @@
+inet6num:          fec0:: - feff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+netname:           IANA-SITE-LOCAL
+descr:             IANA Site-Local Space
+remarks:           This space is reserved and depricated from use for 
+                   site-local by RFC3879. Because this space is depricated 
+                   from use reservations are not allowed. 
+country:           XD
+admin-c:           DUMMY-DN42
+tech-c:            DUMMY-DN42
+mnt-by:            DUMMY-MNT
+policy:            reserved
+cidr:		fec0::/10

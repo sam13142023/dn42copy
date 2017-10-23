@@ -1,0 +1,5 @@
+route:             172.20.24.64/26
+descr:             vultr
+origin:            AS4242423991
+mnt-by:            ANDI--MNT
+bgp-status:        active

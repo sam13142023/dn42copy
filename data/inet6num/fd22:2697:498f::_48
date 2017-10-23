@@ -1,0 +1,9 @@
+inet6num:          fd22:2697:498f:0:0:0:0:0 - fd22:2697:498f:ffff:ffff:ffff:ffff:ffff
+netname:           MARTIN89-DN42-IP6NET
+descr:             Martin89 dn42 network
+admin-c:           MARTIN89-DN42
+tech-c:            MARTIN89-DN42
+status:            ASSIGNED
+nserver:           dns-anycast-a.martin89.dn42 172.22.113.12
+cidr:		fd22:2697:498f::/48
+mnt-by:           DUMMY-MNT

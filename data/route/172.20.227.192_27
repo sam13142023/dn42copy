@@ -1,0 +1,5 @@
+route:             172.20.227.192/27
+descr:             For Home Use
+origin:            AS4242423763
+mnt-by:            TWAKKIE-MNT
+bgp-status:        inactive 1489579206

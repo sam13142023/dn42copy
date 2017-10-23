@@ -1,0 +1,4 @@
+route:             172.21.125.128/28
+origin:            AS4242421823
+mnt-by:            ENKEL-MNT
+bgp-status:        inactive 1497398407

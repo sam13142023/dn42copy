@@ -1,0 +1,5 @@
+route:             172.23.4.0/24
+descr:             NixNodes USN IPv4 route
+origin:            AS76103
+mnt-by:            NIXNODES-MNT
+bgp-status:        inactive 1505131213

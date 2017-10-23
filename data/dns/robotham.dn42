@@ -1,0 +1,8 @@
+domain:            robotham.dn42
+country:           US
+admin-c:           ROBOTHAM-DN42
+tech-c:            ROBOTHAM-DN42
+mnt-by:            ROBOTHAM-MNT
+nserver:           ns1.robotham.dn42 172.20.31.10
+nserver:           ns2.robotham.dn42 172.20.31.10
+status:            EVALPEND 1504350193

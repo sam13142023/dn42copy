@@ -1,0 +1,13 @@
+inetnum:           172.22.104.0 - 172.22.104.255
+netname:           FLONET-SITE1-DN42-IP4NET
+descr:             Florian's private ipv4 address space - Site 1
+remarks:           Only the first /25 is used, but a /24 is assigned
+country:           DE
+org:               ORG-FLONET-DN42
+admin-c:           FLONET-DN42
+tech-c:            FLONET-DN42
+mnt-by:            FLORIAN-MNT
+nserver:           ns.flonet.dn42 172.22.104.77
+status:            ASSIGNED
+bgp-status: inactive 1499803338
+cidr:		172.22.104.0/24

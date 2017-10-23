@@ -1,0 +1,12 @@
+inet6num:          fd42:9dc7:b528:0000:0000:0000:0000:0000 - fd42:9dc7:b528:ffff:ffff:ffff:ffff:ffff
+country:           DE
+descr:             Salt-Orchestraded DN42 Network
+admin-c:           FLEAZ-DN42
+admin-c:           HEXA-DN42
+tech-c:            FLEAZ-DN42
+tech-c:            HEXA-DN42
+mnt-by:            FLEAZ-MNT
+mnt-by:            HEXA-MNT
+status:            ASSIGNED
+cidr:		fd42:9dc7:b528::/48
+netname:          Unnamed fd42:9dc7:b528::/48 Network

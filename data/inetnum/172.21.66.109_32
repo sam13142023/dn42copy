@@ -1,0 +1,8 @@
+inetnum:           172.21.66.109-172.21.66.109
+netname:           JRB0001-TRANSIT-PEERING-WEITI-FR01
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1500033604
+cidr:		172.21.66.109/32

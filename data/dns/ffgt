@@ -1,0 +1,9 @@
+domain: ffgt
+country: DE
+remarks: ** guetersloh
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: NIXNODES-MNT
+status: CONNECT
+nserver: ns1.guetersloh.g.nic.dn42 10.255.128.53
+nserver: ns2.guetersloh.g.nic.dn42 192.251.226.254

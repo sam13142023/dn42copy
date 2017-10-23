@@ -1,0 +1,12 @@
+inetnum:           172.21.125.208 - 172.21.125.223
+netname:           OHNX-NET4-EU
+descr:             ohnx's v4 netblock in Europe
+country:           UA
+admin-c:           OHNX-DN42
+tech-c:            OHNX-DN42
+mnt-by:            OHNX-MNT
+nserver:           ns1.ohnxnet.dn42
+nserver:           ns2.ohnxnet.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1499875213
+cidr:		172.21.125.208/28

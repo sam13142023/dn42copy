@@ -1,0 +1,6 @@
+as-set:            UNDERD0G-AS
+descr:             underd0g's as
+members:           UNDERD0G-MNT
+admin-c:           UNDERD0G-DN42
+tech-c:            UNDERD0G-DN42
+mnt-by:            UNDERD0G-MNT

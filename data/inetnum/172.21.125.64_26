@@ -1,0 +1,11 @@
+inetnum:           172.21.125.64 - 172.21.125.127
+netname:           CL-NETWORK
+descr:             CL-NETWORK
+country:           TW
+admin-c:           ORG-CL
+tech-c:            ORG-CL
+mnt-by:            CL-MNT
+nserver:           ns1.cl.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1506240004
+cidr:		172.21.125.64/26

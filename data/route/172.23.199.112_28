@@ -1,0 +1,4 @@
+route:             172.23.199.112/28
+origin:            AS4242420117
+mnt-by:            JRB0001-MNT
+bgp-status:        active

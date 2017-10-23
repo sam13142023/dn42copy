@@ -1,0 +1,10 @@
+inetnum:           172.20.237.128 - 172.20.237.255
+netname:           SOLITUDE-CNET
+country:           US
+admin-c:           DEVANS-DN42
+tech-c:            DEVANS-DN42
+mnt-by:            SOLITUDE-MNT
+nserver:           ns1.solitude.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492306861
+cidr:		172.20.237.128/25

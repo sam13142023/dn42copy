@@ -1,0 +1,5 @@
+route:             172.20.172.192/27
+descr:             BSDSERVICES-NETWORK
+origin:            AS4242429962
+mnt-by:            BSDSERVICES-MNT
+bgp-status:        inactive 1506600007

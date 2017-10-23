@@ -1,0 +1,4 @@
+route6:            fd42:e881:1500::/44
+descr:             BASNET MAIN
+origin:            AS4242428250
+mnt-by:            BASIL-MNT

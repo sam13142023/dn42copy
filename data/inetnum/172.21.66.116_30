@@ -1,0 +1,7 @@
+inetnum:           172.21.66.116-172.21.66.119
+netname:           JRB0001-TRANSIT-PEERING-REST
+admin-c:           JRB0001-DN42
+tech-c:            JRB0001-DN42
+mnt-by:            JRB0001-MNT
+status:            ASSIGNED
+cidr:              172.21.66.114/32

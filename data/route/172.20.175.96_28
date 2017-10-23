@@ -1,0 +1,5 @@
+route:             172.20.175.96/28
+descr:             09f9-ROUTE
+origin:            AS4242420979
+mnt-by:            HLMTRE-MNT
+bgp-status:        inactive 1477684804

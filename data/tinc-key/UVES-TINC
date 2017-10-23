@@ -1,0 +1,11 @@
+tinc-key:          UVES-TINC
+tinc-host:         spline
+descr:             * This object was generated based on info from legacy
+descr:             * wiki and existing host files
+compression:       9
+subnet:            172.22.255.161/32
+subnet:            fd04:de02:7af9::161/128
+tinc-address:      130.133.110.158
+admin-c:           UVES-DN42
+port:              28903
+mnt-by:            DUMMY-MNT

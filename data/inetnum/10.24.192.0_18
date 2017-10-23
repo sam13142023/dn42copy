@@ -1,0 +1,10 @@
+inetnum: 10.24.192.0 - 10.24.255.255
+remarks: ** saar
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: ALLOCATED
+nserver: ns1.saar.g.nic.dn42
+nserver: ns2.saar.g.nic.dn42
+cidr:		10.24.192.0/18
+netname:          Unnamed 10.24.192.0/18 Network

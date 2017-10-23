@@ -1,0 +1,5 @@
+tinc-key:          RFC2460-TINC
+tinc-host:         2001:6f8:9f2:42::1
+mnt-by:            RFC2460-MNT
+admin-c:           RFC2460-DN42
+subnet:            172.20.194.96/27

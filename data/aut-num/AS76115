@@ -1,0 +1,8 @@
+aut-num:            AS76115
+org:                ORG-CCCHB
+as-name:            PYROPETER-AS
+descr:              PyroPeter's home AS
+remarks:             route information goes here
+admin-c:            PYROPETER-DN42
+tech-c:             PYROPETER-DN42
+mnt-by:           DUMMY-MNT

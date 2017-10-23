@@ -1,0 +1,6 @@
+tinc-keyset:       SET-3-DN42-TINC
+descr:             dn42 tinc cloud #3 keyset
+member:            STEPHANJ-TINC
+member:            XUU-TINC
+admin-c:           DUMMY-DN42
+mnt-by:            NIXNODES-MNT

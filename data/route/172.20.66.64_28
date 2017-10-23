@@ -1,0 +1,7 @@
+route:             172.20.66.64/28
+descr:             hackint
+remarks:           https://www.hackint.org
+origin:            AS4242420000
+origin:            AS4242420101
+mnt-by:            HEXA-MNT
+bgp-status:        active

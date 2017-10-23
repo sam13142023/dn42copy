@@ -1,0 +1,11 @@
+inetnum:           172.20.16.0-172.20.16.127
+netname:           XUMU-NETBLK
+descr:             XUMU
+country:           CN
+admin-c:           XUMU-DN42
+tech-c:            XUMU-DN42
+mnt-by:            XUMU-MNT
+nserver:           ns.xumu.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1493611203
+cidr:		172.20.16.0/25

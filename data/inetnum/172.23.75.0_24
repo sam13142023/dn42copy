@@ -1,0 +1,10 @@
+inetnum:           172.23.75.0 - 172.23.75.255
+netname:           EVE-NETWORK
+admin-c:           MIC92-DN42
+tech-c:            MIC92-DN42
+mnt-by:            MIC92-MNT
+nserver:           ns1.evenet.dn42
+nserver:           ns2.evenet.dn42
+status:            ASSIGNED
+bgp-status:        active
+cidr:		172.23.75.0/24

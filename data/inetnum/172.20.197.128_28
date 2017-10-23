@@ -1,0 +1,11 @@
+inetnum:           172.20.197.128-172.20.197.143
+netname:           ICU-NETWORK
+country:           NL
+admin-c:           ICU-DN42
+tech-c:            ICU-DN42
+mnt-by:            ICU-MNT
+nserver:           ns1.icuken.dn42
+nserver:           ns2.icuken.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492306861
+cidr:		172.20.197.128/28

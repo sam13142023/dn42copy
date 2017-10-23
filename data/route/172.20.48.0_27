@@ -1,0 +1,4 @@
+route:             172.20.48.0/27
+origin:            AS4242428015
+mnt-by:            MALTEJK-MNT
+bgp-status:        inactive 1496678404

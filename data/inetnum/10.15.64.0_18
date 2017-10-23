@@ -1,0 +1,9 @@
+inetnum: 10.15.64.0 - 10.15.127.255
+remarks: ** nordheide
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: NIXNODES-MNT
+status: ALLOCATED
+nserver: ns1.nordheide.g.nic.dn42
+cidr:		10.15.64.0/18
+netname:          Unnamed 10.15.64.0/18 Network

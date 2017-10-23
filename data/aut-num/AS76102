@@ -1,0 +1,7 @@
+aut-num:            AS76102
+as-name:            MTAK-AS
+descr:              mtak's AS
+remarks:             Open for peering
+admin-c:            MTAK-DN42
+tech-c:             MTAK-DN42
+mnt-by:           DUMMY-MNT

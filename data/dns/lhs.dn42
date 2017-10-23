@@ -1,0 +1,8 @@
+domain:            lhs.dn42
+descr:             Limassol Hackerspace
+country:           CY
+admin-c:           KEVIT-DN42
+tech-c:            KEVIT-DN42
+mnt-by:            FALANSTER-MNT
+nserver:           ns1.lhs.dn42 172.20.129.194
+status:            EVALPEND 1499855441

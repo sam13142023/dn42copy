@@ -1,0 +1,12 @@
+inetnum: 10.48.0.0 - 10.48.255.255
+remarks: ** muensterland
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: ALLOCATED
+nserver: ns1.muensterland.g.nic.dn42
+nserver: ns2.muensterland.g.nic.dn42
+nserver: ns3.muensterland.g.nic.dn42
+nserver: ns4.muensterland.g.nic.dn42
+cidr:		10.48.0.0/16
+netname:          Unnamed 10.48.0.0/16 Network

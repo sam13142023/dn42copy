@@ -1,0 +1,7 @@
+aut-num:            AS76110
+as-name:            MACIAS-AS
+descr:              Macias's home AS
+remarks:             route information goes here
+admin-c:            MACIAS-DN42
+tech-c:             MACIAS-DN42
+mnt-by:           DUMMY-MNT

@@ -1,0 +1,10 @@
+inetnum:           172.20.56.0-172.20.56.127
+netname:           ATR-HOSTS
+descr:             ATR Reserved Network for Hosts
+country:           CN
+admin-c:           ALLENZ-DN42
+tech-c:            ALLENZ-DN42
+mnt-by:            ATR-MNT
+status:            ASSIGNED
+bgp-status:        active
+cidr:		172.20.56.0/25

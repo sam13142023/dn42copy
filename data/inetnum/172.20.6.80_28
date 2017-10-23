@@ -1,0 +1,8 @@
+inetnum:           172.20.6.80-172.20.6.95
+netname:           MRCHLMS-V4
+descr:             MRCHLMS-V4
+country:           DE
+admin-c:           MRCHLMS-DN42
+tech-c:            MRCHLMS-DN42
+mnt-by:            MRCHLMS-MNT
+status:            ASSIGNED

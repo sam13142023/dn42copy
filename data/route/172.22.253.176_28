@@ -1,0 +1,5 @@
+route:                  172.22.253.176/28
+descr:                  mtak's transit network
+origin:                 AS76102
+bgp-status: inactive 1456565769
+mnt-by:           DUMMY-MNT

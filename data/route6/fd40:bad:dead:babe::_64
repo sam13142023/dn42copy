@@ -1,0 +1,4 @@
+route6:            fd40:bad:dead:babe::/64
+descr:             nop test
+origin:            AS4242427200
+mnt-by:            NOP-MNT

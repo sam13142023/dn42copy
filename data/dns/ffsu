@@ -1,0 +1,11 @@
+domain: ffsu
+country: DE
+remarks: ** siegburg
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.siegburg.g.nic.dn42 10.152.0.10
+nserver: ns2.siegburg.g.nic.dn42 10.152.16.10
+nserver: ns1.siegburg.g.nic.dn42 fda4:1721:8450:100::1
+nserver: ns2.siegburg.g.nic.dn42 fda4:1721:8450:200::1

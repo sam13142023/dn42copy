@@ -1,0 +1,7 @@
+inet6num:          2a0b:4340:60:0000:0000:0000:0000:0000- 2a0b:4340:6f:ffff:ffff:ffff:ffff:ffff
+admin-c:           TW-DN42
+tech-c:            TW-DN42
+mnt-by:            WOLFLAB-MNT
+status:            ASSIGNED
+cidr:		2a0b:4340:60::/44
+netname:          Unnamed 2a0b:4340:60::/44 Network

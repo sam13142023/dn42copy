@@ -1,0 +1,10 @@
+inetnum:           172.23.222.96 - 172.23.222.127
+netname:           NEO-NETWORK
+descr:             NEO-NETWORK
+country:           US
+admin-c:           NEO-DN42
+tech-c:            NEO-DN42
+mnt-by:            NEO-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1499875216
+cidr:		172.23.222.96/27

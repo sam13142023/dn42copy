@@ -1,0 +1,4 @@
+route:             172.22.62.0/24
+origin:            AS4242422422
+mnt-by:            LINURO-MNT
+bgp-status:        inactive 1469966404

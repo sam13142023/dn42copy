@@ -1,0 +1,11 @@
+domain:         36.20.172.in-addr.arpa
+nserver:        ns2.ccchb.de
+ds-rrdata:      3144 7 1 CCE65E22EDE791CDEAD7A3B586E52664A48872A1
+ds-rrdata:      3144 7 2 ED4A852646DAA8667113384C74521E70375F9C2D0D52519D4F5616C0 0DA43279
+admin-c:        FRITZ-DN42
+admin-c:        PYROPETER-DN42
+tech-c:         FRITZ-DN42
+tech-c:         PYROPETER-DN42
+zone-c:         FRITZ-DN42
+zone-c:         PYROPETER-DN42
+mnt-by:         FLHB-NETGROUP-MNT

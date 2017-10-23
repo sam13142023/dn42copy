@@ -1,0 +1,4 @@
+route:             172.20.53.0/24
+origin:            AS4242427329
+mnt-by:            HERA-MNT
+bgp-status:        inactive 1482451206

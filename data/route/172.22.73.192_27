@@ -1,0 +1,5 @@
+route:             172.22.73.192/27
+descr:             ARNET Network
+origin:            AS64642
+mnt-by:            ARNET-MNT
+bgp-status:        inactive 1499875221

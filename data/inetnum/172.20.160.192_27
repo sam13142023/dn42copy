@@ -1,0 +1,12 @@
+inetnum:           172.20.160.192 - 172.20.160.223
+netname:           PULON-NETWORK
+descr:             PULON NETWORK
+country:           DE
+admin-c:           PULON-DN42
+tech-c:            PULON-DN42
+mnt-by:            PULON-MNT
+nserver:           ns1.evenet.dn42
+nserver:           ns2.evenet.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1496030402
+cidr:		172.20.160.192/27

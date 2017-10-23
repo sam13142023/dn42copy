@@ -1,0 +1,11 @@
+inetnum:           172.22.115.0-172.22.115.127
+netname:           DOVY-NL-NET
+nserver:           ns1.kingof.dn42 172.22.115.4
+nserver:           ns2.kingof.dn42 172.22.115.5
+country:           NL
+admin-c:           DOVY-DN42
+tech-c:            DOVY-DN42
+mnt-by:            DOVY-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1499875214
+cidr:		172.22.115.0/25

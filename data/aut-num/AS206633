@@ -1,0 +1,6 @@
+aut-num:           AS206633
+as-name:           NULLROUTE-ARPA-AS
+descr:             nullroute.eu.org (Broken Symlink) Arpanet AS
+admin-c:           GRAWITY-DN42
+tech-c:            GRAWITY-DN42
+mnt-by:            NULLROUTE-MNT

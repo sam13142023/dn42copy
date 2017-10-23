@@ -1,0 +1,5 @@
+route:             172.22.149.16/28
+descr:             BULLYCAMPER-NET
+origin:            AS4242428595
+mnt-by:            BULLYCAMPER-MNT
+bgp-status:        inactive 1500192008

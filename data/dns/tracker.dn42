@@ -1,0 +1,9 @@
+domain:            tracker.dn42
+descr:             Torrent Tracker RRDNS
+country:           DE
+admin-c:           GRMML-DN42
+tech-c:            GRMML-DN42
+mnt-by:            GRMML-MNT
+nserver:           hulk.mhm.dn42
+nserver:           danny.mhm.dn42
+status:            EVALPEND 1503918940

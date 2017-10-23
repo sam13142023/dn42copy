@@ -1,0 +1,7 @@
+inetnum: 10.45.128.0 - 10.45.255.255
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+status: ALLOCATED
+cidr:		10.45.128.0/17
+mnt-by:           DUMMY-MNT
+netname:          Unnamed 10.45.128.0/17 Network

@@ -1,0 +1,14 @@
+inetnum:           172.22.0.94 - 172.22.0.94
+netname:           ANYCASTTOR-IP4NET
+descr:             Tor IPv4 anycast address
+remarks:           Standard port:
+remarks:           ORPort: 9001/tcp
+remarks:           DirPort: 9030/tcp
+remarks:           SocksPort: 9050/tcp
+country:           PL
+admin-c:           DRIXTER-DN42
+tech-c:            DRIXTER-DN42
+mnt-by:            DRIXTER-MNT
+status:            ASSIGNED
+bgp-status:        inactive 1500350404
+cidr:		172.22.0.94/32

@@ -1,0 +1,12 @@
+domain: ffcux
+country: DE
+remarks: ** cuxhaven
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: CONNECT
+nserver: ns1.cuxhaven.g.nic.dn42 fdec:c0f1:afda:0::ff01
+nserver: ns2.cuxhaven.g.nic.dn42 fdec:c0f1:afda:0::ff02
+nserver: ns3.cuxhaven.g.nic.dn42 fdec:c0f1:afda:0::ff03
+nserver: ns4.cuxhaven.g.nic.dn42 fdec:c0f1:afda:0::ff04
+nserver: ns5.cuxhaven.g.nic.dn42 fdec:c0f1:afda:0::ff05

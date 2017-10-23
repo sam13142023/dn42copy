@@ -1,0 +1,5 @@
+route:             172.23.170.0/24
+descr:             Sebi's DN42 network route
+origin:            AS76170
+mnt-by:            SEBI-MNT
+bgp-status: active

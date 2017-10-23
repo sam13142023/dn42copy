@@ -1,0 +1,4 @@
+route:             172.22.149.192/27
+origin:            AS4242422014
+mnt-by:            RAY-MNT
+bgp-status:        inactive 1484064004

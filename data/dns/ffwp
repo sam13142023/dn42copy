@@ -1,0 +1,9 @@
+domain: ffwp
+country: DE
+remarks: ** westpfalz
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: NIXNODES-MNT
+status: CONNECT
+nserver: ns1.westpfalz.g.nic.dn42 10.198.2.1
+nserver: ns2.westpfalz.g.nic.dn42 10.198.4.1

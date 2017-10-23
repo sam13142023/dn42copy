@@ -1,0 +1,8 @@
+inet6num:          fdcb:85dd:dcc9:0:0:0:0:0 - fdcb:85dd:dcc9:ffff:ffff:ffff:ffff:ffff
+cidr:              fdcb:85dd:dcc9::/48
+netname:           RYAN-NET6
+country:           US
+admin-c:           RYAN-DN42
+tech-c:            RYAN-DN42
+mnt-by:            RYAN-MNT
+status:            ASSIGNED

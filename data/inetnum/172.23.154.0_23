@@ -1,0 +1,11 @@
+inetnum:           172.23.154.0 - 172.23.155.255
+netname:           NET-NULLL-RSVD-DN42
+descr:             Reserved range
+country:           DE
+admin-c:           STV0G-DN42
+tech-c:            STV0G-DN42
+mnt-by:            NULLL-MNT
+nserver:           ns0.0l.dn42
+status:            ASSIGNED
+bgp-status:        active
+cidr:		172.23.154.0/23

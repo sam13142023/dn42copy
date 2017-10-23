@@ -1,0 +1,9 @@
+inet6num:          2001:44b8:310c:a800:0000:0000:0000:0000-2001:44b8:310c:a8ff:ffff:ffff:ffff:ffff
+netname:           NARNIA-ICANN2-NET
+descr:             Narnia IcannNet2 Network
+country:           AU
+admin-c:           NARNIA-DN42
+tech-c:            NARNIA-DN42
+mnt-by:            NARNIA-MNT
+status:            ASSIGNED PA
+cidr:		2001:44b8:310c:a800::/56

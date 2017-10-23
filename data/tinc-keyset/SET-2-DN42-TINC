@@ -1,0 +1,11 @@
+tinc-keyset:       SET-2-DN42-TINC
+# tinc cloud with 172.22.255.176/28
+descr:             dn42 tinc cloud #2 keyset
+member:            VUTRAL-TINC
+member:            MARTIN89-TINC
+member:            NOSPOONUSER-TINC
+member:            DEELKAR-TINC
+member:            STEPHANJ-TINC
+member:            HEX-TINC
+admin-c:           DUMMY-DN42
+mnt-by:            NIXNODES-MNT

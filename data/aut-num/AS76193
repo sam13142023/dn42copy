@@ -1,0 +1,11 @@
+aut-num:           AS76193
+as-name:           DSP-AS
+descr:             dsp's AS - DN42
+remarks:           > Peerings <
+remarks:           Open peering policy, for peerings, contact me at:
+remarks:           mail: dsp@kernel.fail
+remarks:           irc: dsp @ hackint
+admin-c:           DSP-DN42
+tech-c:            DSP-DN42
+tech-c:            DSP-DN42
+mnt-by:            DUMMY-MNT

@@ -1,0 +1,10 @@
+inetnum:           172.20.228.160 - 172.20.228.191
+netname:           SOLITUDE-VPN
+country:           US
+admin-c:           DEVANS-DN42
+tech-c:            DEVANS-DN42
+mnt-by:            SOLITUDE-MNT
+nserver:           ns1.solitude.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1492306861
+cidr:		172.20.228.160/27

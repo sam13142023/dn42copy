@@ -1,0 +1,10 @@
+inetnum:           172.20.183.32 - 172.20.183.39
+netname:           RSDOHERTY-DMZ-NETWORK
+descr:             RSDOHERTY-DMZ-NETWORK
+country:           GB
+admin-c:           RSDOHERTY-DN42
+tech-c:            RSDOHERTY-DN42
+mnt-by:            RSDOHERTY-MNT
+nserver:           ns1.evenet.dn42
+nserver:           ns2.evenet.dn42
+status:            ASSIGNED

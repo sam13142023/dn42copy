@@ -1,0 +1,5 @@
+route:             172.23.181.0/26
+descr:             MARIDE-DYNAMIC Route
+origin:            AS4242422301
+mnt-by:            MARIDE-MNT
+bgp-status:        inactive 1473955203

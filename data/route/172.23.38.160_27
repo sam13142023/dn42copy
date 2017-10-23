@@ -1,0 +1,4 @@
+route:             172.23.38.160/27
+descr:             SISNET-EASY42-INET4
+origin:            AS4242422950
+mnt-by:            SIS-ORG-MNT

@@ -1,0 +1,9 @@
+domain:            kaiflix.dn42
+descr:             Domain for Webservice Kaiflix
+country:           HK
+admin-c:           KAI-DN42
+tech-c:            KAI-DN42
+mnt-by:            KAI-MNT
+nserver:           ns1.fastnameserver.eu
+nserver:           dn42-ns1.AS4242422506.dn42
+status:            CONNECT

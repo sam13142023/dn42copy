@@ -1,0 +1,9 @@
+tinc-key:          AS76103US-TINC
+tinc-host:         AS76103US
+descr:             NixNodes virtual exchange - TINC pubkey (AS76103US)
+compression:       9
+subnet:            172.23.3.3/32
+tinc-address:      71.19.233.189
+port:              10409
+admin-c:           ORG-NIXNODES
+mnt-by:            NIXNODES-MNT

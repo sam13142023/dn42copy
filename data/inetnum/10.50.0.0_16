@@ -1,0 +1,11 @@
+inetnum: 10.50.0.0 - 10.50.255.255
+remarks: ** franken
+admin-c: DUMMY-DN42
+tech-c: DUMMY-DN42
+mnt-by: FREIFUNKDUMMY-MNT
+status: ALLOCATED
+nserver: ns1.franken.g.nic.dn42
+nserver: ns2.franken.g.nic.dn42
+nserver: ns3.franken.g.nic.dn42
+cidr:		10.50.0.0/16
+netname:          Unnamed 10.50.0.0/16 Network

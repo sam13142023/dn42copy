@@ -1,0 +1,7 @@
+domain:            pktsurf.dn42
+country:           IN
+admin-c:           PKTSRF-DN42
+tech-c:            PKTSRF-DN42
+mnt-by:            PKTSRF-MNT
+nserver:           ns1.pktsurf.dn42 172.23.183.17
+status:            EVALPEND 1503917824

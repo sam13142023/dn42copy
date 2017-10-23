@@ -1,0 +1,5 @@
+route:             172.23.215.16/28
+descr:             LINSERVERS-NETWORK
+origin:            AS4242421987
+mnt-by:            LINSERVERS-MNT
+bgp-status:        inactive 1496937604

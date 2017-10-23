@@ -1,0 +1,10 @@
+inetnum:           172.20.131.0 - 172.20.131.15
+netname:           RRAMOSROB-DN42-US
+country:           US
+admin-c:           DUMMY-DN42
+tech-c:            DUMMY-DN42
+mnt-by:            RRAMOSROB-MNT
+nserver:           dummy.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1505721603
+cidr:		172.20.131.0/28

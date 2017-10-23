@@ -1,0 +1,9 @@
+inetnum:           172.20.229.64 - 172.20.229.95
+netname:           JDS-NET
+admin-c:           JDS-DN42
+tech-c:            JDS-DN42
+mnt-by:            JDS-MNT
+nserver:           ns1.evenet.dn42
+status:            ASSIGNED
+bgp-status:        inactive 1504569603
+cidr:		172.20.229.64/27

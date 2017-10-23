@@ -1,0 +1,4 @@
+route:             172.20.5.128/25
+origin:            AS4242423264
+mnt-by:            HAELWENN-MNT
+bgp-status:        inactive 1497225605

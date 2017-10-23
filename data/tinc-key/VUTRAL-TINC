@@ -1,0 +1,9 @@
+tinc-key:          VUTRAL-TINC
+tinc-host:         vger
+descr:             * This object was generated based on info from legacy
+descr:             * wiki and existing host files
+compression:       9
+subnet:            172.22.255.180/32
+tinc-address:      85.214.19.110
+admin-c:           VUTRAL-DN42
+mnt-by:            DUMMY-MNT

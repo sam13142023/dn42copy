@@ -1,0 +1,12 @@
+aut-num:           AS4242427000
+as-name:           NL-ZUID-ALBLASSERDAM
+admin-c:           NL-ZUID-DN42
+tech-c:            NL-ZUID-DN42
+remarks:           |-----------------------------------|
+remarks:           | Transit:                          |
+remarks:           | - twink0r        AS4242421339     |
+remarks:           | - toBee          AS4242420022     |
+remarks:           | Peering:                          |
+remarks:           | - NL Zuid (Amsterdam)             |
+remarks:           |-----------------------------------|
+mnt-by:            MARLINC-MNT

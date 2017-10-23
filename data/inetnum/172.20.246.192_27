@@ -1,0 +1,12 @@
+inetnum:           172.20.246.192-172.20.246.223
+netname:           KEBE-NET
+descr:             KEBE Datacenter Netblock
+country:           NL
+admin-c:           KEVINB-DN42
+tech-c:            KEVINB-DN42
+mnt-by:            KEBE-MNT
+nserver:           ns01.kebe.dn42
+nserver:           ns02.kebe.dn42
+status:            ALLOCATED
+bgp-status:        ignore
+cidr:		172.20.246.192/27

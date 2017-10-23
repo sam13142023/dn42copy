@@ -1,0 +1,6 @@
+route:             172.22.141.0/24
+descr:             Xuu Network
+inet-cidr:         172.22.141.0/24
+origin:            AS64737
+mnt-by:            XUU-MNT
+bgp-status:        active
