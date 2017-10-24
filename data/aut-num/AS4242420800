@@ -2,6 +2,6 @@ aut-num:           AS4242420800
 as-name:           SNAPSERV
 descr:             SnapServ Ltd
 org:               ORG-SNAPSERV
-admin-c:           ORG-SNAPSERV
+admin-c:           PM-DN42
 tech-c:            PM-DN42
 mnt-by:            SNAPSERV-MNT

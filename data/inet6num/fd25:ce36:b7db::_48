@@ -3,7 +3,7 @@ netname:           SNAPSERV-20160507
 descr:             SnapServ Ltd
 country:           CH
 org:               ORG-SNAPSERV
-admin-c:           ORG-SNAPSERV
+admin-c:           PM-DN42
 tech-c:            PM-DN42
 mnt-by:            SNAPSERV-MNT
 status:            ASSIGNED

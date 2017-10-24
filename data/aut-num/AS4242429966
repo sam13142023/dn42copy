@@ -1,6 +1,7 @@
 aut-num:           AS4242429966
 as-name:           CL-AS
 descr:             CL-AS
-admin-c:           ORG-CL
-tech-c:            ORG-CL
+org:               ORG-CL
+admin-c:           CL-DN42
+tech-c:            CL-DN42
 mnt-by:            CL-MNT

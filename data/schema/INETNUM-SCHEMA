@@ -11,6 +11,8 @@ key:        bgp-status  optional  single    > {active|absent|ignore} [timestamp]
 key:        policy      optional  single    > {open|closed|ask} min=int max=int all-min=int all-max=int
 key:        admin-c     optional  multiple  lookup=dn42.person,dn42.role
 key:        tech-c      optional  multiple  lookup=dn42.person,dn42.role
+key:        zone-c      optional  multiple  lookup=dn42.person,dn42.role
+key:        ds-rdata    optional  multiple
 key:        mnt-by      optional  multiple  lookup=dn42.mntner
 key:        mnt-lower   optional  multiple  lookup=dn42.mntner
 key:        mnt-routes  optional  multiple  lookup=dn42.mntner

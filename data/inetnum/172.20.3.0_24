@@ -5,3 +5,5 @@ tech-c:            REISENB-DN42
 mnt-by:            REISENB-MNT
 nserver:           ns1.reisenb.dn42
 status:            ASSIGNED
+cidr:              172.20.3.0/24
+netname:           reisenb network

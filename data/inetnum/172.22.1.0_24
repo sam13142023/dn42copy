@@ -3,6 +3,7 @@ netname:    CCCHH
 org:        ORG-CCCHH
 admin-c:    FRITZ-DN42
 tech-c:     FRITZ-DN42
+zone-c:     FRITZ-DN42
 mnt-by:     FRITZ-MNT
 bgp-status: active
-cidr:		172.22.1.0/24
+cidr:	    172.22.1.0/24

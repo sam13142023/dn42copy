@@ -1,5 +1,0 @@
-route:              172.22.35.0/24
-descr:              AAnet
-origin:             AS64635
-bgp-status: inactive 1474660804
-mnt-by:           DUMMY-MNT

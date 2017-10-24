@@ -6,3 +6,4 @@ admin-c:           DARK-DN42
 tech-c:            DARK-DN42
 mnt-by:            DARK-MNT
 status:            ASSIGNED
+cidr:              172.20.12.64/28

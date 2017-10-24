@@ -6,3 +6,4 @@ admin-c:           MRCHLMS-DN42
 tech-c:            MRCHLMS-DN42
 mnt-by:            MRCHLMS-MNT
 status:            ASSIGNED
+cidr:              172.20.6.80/28

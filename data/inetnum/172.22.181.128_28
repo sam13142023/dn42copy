@@ -7,3 +7,4 @@ tech-c:            ASACHDE-DN42
 mnt-by:            SACHDE-MNT
 nserver:           dummy.dn42
 status:            ASSIGNED
+cidr:              172.22.181.128/28

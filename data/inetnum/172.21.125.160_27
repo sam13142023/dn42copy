@@ -2,7 +2,7 @@ inetnum:           172.21.125.160 - 172.21.125.191
 netname:           VITALE-NETWORKS
 descr:             Hosting Services
 country:           NL
-admin-c:           ORG-VITALE
+admin-c:           SCARLET-DN42
 tech-c:            SCARLET-DN42
 mnt-by:            VITALE-MNT
 status:            ALLOCATED

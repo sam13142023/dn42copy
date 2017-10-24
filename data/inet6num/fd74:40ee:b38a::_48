@@ -2,8 +2,9 @@ inet6num:          fd74:40ee:b38a:0:0:0:0:0 - fd74:40ee:b38a:ffff:ffff:ffff:ffff
 netname:           HSB-ORG-NET6
 descr:             Hackerspace Bielefeld IPv6 ULA
 country:           DE
-admin-c:           ORG-HSB
-tech-c:            ORG-HSB
+org:               ORG-HSB
+admin-c:           BODEMS-DN42
+tech-c:            BODEMS-DN42
 mnt-by:            BODEMS-MNT
 status:            ASSIGNED
-cidr:		fd74:40ee:b38a::/48
+cidr:		   fd74:40ee:b38a::/48

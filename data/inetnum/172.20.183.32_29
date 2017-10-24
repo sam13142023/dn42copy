@@ -8,3 +8,4 @@ mnt-by:            RSDOHERTY-MNT
 nserver:           ns1.evenet.dn42
 nserver:           ns2.evenet.dn42
 status:            ASSIGNED
+cidr:              172.20.183.32/29

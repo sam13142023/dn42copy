@@ -6,3 +6,4 @@ admin-c:           MDP-DN42
 tech-c:            MDP-DN42
 mnt-by:            MDP-MNT
 status:            ASSIGNED
+cidr:              172.20.180.128/25

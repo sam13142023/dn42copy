@@ -6,3 +6,4 @@ admin-c:           IP64-DN42
 tech-c:            IP64-DN42
 mnt-by:            IP64-MNT
 status:            ASSIGNED
+cidr:              172.20.170.64/27

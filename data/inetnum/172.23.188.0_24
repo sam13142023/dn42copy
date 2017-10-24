@@ -6,3 +6,4 @@ tech-c:            REISENB-DN42
 mnt-by:            REISENB-MNT
 nserver:           ns1.rbz.ee
 status:            ASSIGNED
+cidr:              172.23.188.0/24

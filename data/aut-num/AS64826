@@ -1,7 +1,7 @@
 aut-num:            AS64826
 as-name:            NETRAT-AS
 descr:              netrat's AS
-remarks:             route information goes here
+remarks:            route information goes here
 admin-c:            NETRAT-DN42
 tech-c:             NETRAT-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT
