@@ -8,3 +8,4 @@ remarks:           pin-sha256:T1u2AVYCdcy6zEDrJhq7EBnNnOexWfsQ/lh6zXreioc=
 remarks:           pin-sha256:+HBLNXcFUf10AAR/LKmHvj+JYFzonJFQm4958OrpduM=
 remarks:           pin-sha256:HdqCid0sedWXX3Q0uG98rYjJyTNOzaT13WfWpr1GvIw=
 auth:              ed25519-pw rsD41KQVNaH2pZCY1DKRNfOw-SlrrobQLxucCSOlGTI Zo3Z7rsfQPuEd73EqoGNDWhDOIhK9OjuwGvUPZRDJqQoMJd-dUs8uSPZlLxnHmsy83OmasSM4emdWa6YwAdeAA
+auth:              pgp-fingerprint 20AE2F310A74EA7CEC3AE69F8B3B0604F164E04F
