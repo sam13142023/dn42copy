@@ -266,8 +266,10 @@ def __scan_index(idx, schemas, mntner):
             continue
         c = FileDOM(v[0])
         ck = s.check_file(c, idx.keys())
-        if not ck:
-            ok = False
+        if ck == "INFO" and ok != "FAIL":
+            ok = ck
+        if ck == "FAIL":
+            ok = ck
 
     return ok
 
@@ -397,5 +399,10 @@ if __name__ == '__main__':
     elif args["command"] == "scan":
         import time
         log.notice("## Scan Started at %s" %(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())))
-        scan_files(args["path"], args["use_mntner"])
+        ck = scan_files(args["path"], args["use_mntner"])
         log.notice("## Scan Completed at %s" %(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())))
+
+        if ck == "INFO":
+            sys.exit(2)
+        elif ck == "FAIL":
+            sys.exit(1)
