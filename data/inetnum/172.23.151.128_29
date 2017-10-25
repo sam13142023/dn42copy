@@ -6,3 +6,4 @@ tech-c:            SAINTWOLF-DN42
 mnt-by:            SAINTWOLF-MNT
 nserver:           ns1.saintwolf.dn42
 status:            ASSIGNED
+cidr:              172.23.151.128/29
