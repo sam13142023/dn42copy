@@ -6,8 +6,8 @@ if [ $# -eq 0 ]
     exit
 fi
 
-BASE=$(realpath $0)
-BASE=$(dirname $BASE)
-cd $BASE
+BASE="$(realpath "$0")"
+BASE="$(dirname "$BASE")"
+cd "$BASE" || exit 1
 
-utils/schema-check/dn42-schema.py scan data/ -m $1
+utils/schema-check/dn42-schema.py scan data/ -m "$1"
