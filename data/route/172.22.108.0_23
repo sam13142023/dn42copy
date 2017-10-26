@@ -1,5 +1,0 @@
-route:             172.22.108.0/23
-descr:             Breizh-Entropy Hackerspace network
-origin:            AS64708
-mnt-by:            BREIZH-MNT
-bgp-status: inactive 1464652803

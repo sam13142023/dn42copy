@@ -1,7 +1,7 @@
 inetnum:           172.20.49.32-172.20.49.63
 netname:           MEDIA24-RU-MSK-N4
 country:           RU
-admin-c:           ORG-MEDIA24LLC
+admin-c:           FFAMAX-DN42 
 tech-c:            FFAMAX-DN42
 mnt-by:            FFAMAX-MNT
 status:            ASSIGNED

@@ -3,8 +3,8 @@ cidr:              172.20.120.0/22
 descr:             CCC Aachen
 netname:           NET-BLK12022-DN42
 policy:            ask
-admin-c:           ORG-CCCAC
-tech-c:            ORG-CCCAC
+admin-c:           FEUERROT-DN42
+tech-c:            FEUERROT-DN42
 mnt-by:            SPQ-MNT
 mnt-by:            FEUERROT-MNT
 mnt-by:            ND-MNT

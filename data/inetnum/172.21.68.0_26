@@ -1,7 +1,8 @@
 inetnum:           172.21.68.0 - 172.21.68.63
 netname:           HBNEL-NETWORK
 country:           US
-admin-c:           ORG-HBNEL
+org:               ORG-HBNEL
+admin-c:           ZACH-DN42
 tech-c:            ZACH-DN42
 mnt-by:            ZACH-MNT
 nserver:           ns1.hbnel.dn42

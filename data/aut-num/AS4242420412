@@ -1,6 +1,6 @@
 aut-num:           AS4242420412
 as-name:           SCHAFFENBURG-AS
 descr:             http://schaffenburg.de
-admin-c:           ORG-SCHAFFENBURG
-tech-c:            ORG-SCHAFFENBURG
+admin-c:           BYTETURTLE-DN42
+tech-c:            BYTETURTLE-DN42
 mnt-by:            BYTETURTLE-MNT

@@ -1,8 +1,8 @@
 inetnum:           172.23.92.0 - 172.23.92.255
 netname:           NET-CHCH
 country:           DE
-admin-c:           ORG-CHCH
-tech-c:            ORG-CHCH
+admin-c:           FLORZ-DN42
+tech-c:            FLORZ-DN42
 mnt-by:            FLORZ-MNT
 status:            ASSIGNED
 bgp-status:        active

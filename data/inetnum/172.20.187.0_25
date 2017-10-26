@@ -1,7 +1,7 @@
 inetnum:           172.20.187.0 - 172.20.187.127
 netname:           ALENAN-IPV4-01
 country:           DE
-admin-c:           ORG-ALENAN
+admin-c:           VMANN-DN42 
 tech-c:            VMANN-DN42
 tech-c:            MUMU-DN42
 mnt-by:            VMANN-MNT

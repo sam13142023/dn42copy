@@ -2,6 +2,6 @@ aut-num:           AS4242429996
 as-name:           UTB
 descr:             Luna Networks Inc
 org:               ORG-UTB
-admin-c:           ORG-UTB
-tech-c:            ORG-UTB
+admin-c:           MIN-DN42
+tech-c:            MIN-DN42
 mnt-by:            UTB-MNT

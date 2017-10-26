@@ -1,5 +1,0 @@
-route:             10.130.0.0/16
-descr:             Freifunk Lübeck
-remarks:           Freifunk Lübeck network route
-origin:            AS201173
-mnt-by:           DUMMY-MNT
