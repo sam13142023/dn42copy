@@ -1,6 +1,7 @@
 aut-num:           AS64698
 as-name:           C3D2WETU-AS
 descr:             CCC Dresden Server
-admin-c:           ORG-C3D2
+org:           ORG-C3D2
+admin-c:            MIC92-DN42
 tech-c:            MIC92-DN42
 mnt-by:            MIC92-MNT

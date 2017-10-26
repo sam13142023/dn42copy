@@ -4,5 +4,5 @@ member:            MMARKER-TINC
 member:            AS76103US-TINC
 member:            NULLL-TINC
 member:            AS4242422703-TINC
-admin-c:           ORG-NIXNODES
+admin-c:           NIXNODES-DN42
 mnt-by:            NIXNODES-MNT

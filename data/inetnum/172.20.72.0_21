@@ -3,7 +3,7 @@ netname:           NET-ZENTRALWERK-DN42
 descr:             zentralwerk network
 policy:            reserved
 remarks:           Contact eri for allocation information.
-admin-c:           ORG-ZENTRALWERK
+org:           ORG-ZENTRALWERK
 mnt-by:            ERI-MNT
 status:            ALLOCATED
 bgp-status:        active

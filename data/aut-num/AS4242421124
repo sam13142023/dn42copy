@@ -1,6 +1,7 @@
 aut-num:           AS4242421124
 as-name:           MODERN-NETWORKING
 descr:             Modern Networking Peering Block
-admin-c:           ORG-MOD
-tech-c:            ORG-MOD
+org:           ORG-MOD
+admin-c:           MOD-DN42
+tech-c:            MOD-DN42
 mnt-by:            MOD-MNT

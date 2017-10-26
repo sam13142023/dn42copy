@@ -1,8 +1,9 @@
 inet6num:          fdc0:10ca:7105::-fdc0:10ca:7105:ffff:ffff:ffff:ffff:ffff
 netname:           NET6-COLOCATIOUS
 country:           US
-admin-c:           ORG-COLOCATIOUS
-tech-c:            ORG-COLOCATIOUS
+org:           ORG-COLOCATIOUS
+admin-c:           JWALTER-DN42
+tech-c:            JWALTER-DN42
 mnt-by:            COLOCATIOUS-MNT
 nserver:           ns1.colocatio.us
 nserver:           ns2.colocatio.us

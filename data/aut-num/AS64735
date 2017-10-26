@@ -29,7 +29,7 @@ remarks:           +-----------------------+-----------------------+
 remarks:           | s1.tb.pushernet.net   | St. Louis, MO, US     |
 remarks:           +-----------------------+-----------------------+                                   
 remarks:           +-----------------------+-----------------------+                                   
-admin-c:           ORG-PACKETPUSHERS
-tech-c:            ORG-PACKETPUSHERS
+admin-c:           PACKETPUSHERS-DN42
+tech-c:            PACKETPUSHERS-DN42
 mnt-by:            COXLEY-MNT
 mnt-by:            TWISTBYRN-MNT

@@ -8,9 +8,9 @@ key:        member-of  optional  multiple lookup=dn42.as-set
 key:        admin-c    optional  multiple lookup=dn42.person,dn42.role
 key:        tech-c     optional  multiple lookup=dn42.person,dn42.role
 key:        org        optional  single   lookup=dn42.organisation
-key:        import     optional  multiple
-key:        export     optional  multiple
-key:        default    optional  multiple
+key:        import     optional  deprecate multiple
+key:        export     optional  deprecate multiple
+key:        default    optional  deprecate multiple
 key:        mp-import  optional  multiple
 key:        mp-export  optional  multiple
 key:        mp-default optional  multiple

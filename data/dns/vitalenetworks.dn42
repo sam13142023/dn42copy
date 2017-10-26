@@ -1,7 +1,8 @@
 domain:            vitalenetworks.dn42
 descr:             Vitale Networks
 country:           NL
-admin-c:           ORG-VITALE
+org:           ORG-VITALE
+admin-c:           SCARLET-DN42
 tech-c:            SCARLET-DN42
 mnt-by:            VITALE-MNT
 nserver:           ns1.vitalenetworks.dn42 172.21.125.163

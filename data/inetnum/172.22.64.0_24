@@ -3,7 +3,6 @@ cidr:				172.22.64.0/24
 netname:            SCHRODINGER-DN42-INET4
 descr:              Schrodinger's hosted subnet INET4
 country:            FR
-country:            NL
 admin-c:            SCHRODINGER-DN42
 tech-c:             SCHRODINGER-DN42
 status:             ASSIGNED

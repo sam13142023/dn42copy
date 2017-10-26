@@ -2,8 +2,9 @@ inetnum:           172.21.125.64 - 172.21.125.127
 netname:           CL-NETWORK
 descr:             CL-NETWORK
 country:           TW
-admin-c:           ORG-CL
-tech-c:            ORG-CL
+org:           ORG-CL
+admin-c:           CL-DN42
+tech-c:            CL-DN42
 mnt-by:            CL-MNT
 nserver:           ns1.cl.dn42
 status:            ASSIGNED

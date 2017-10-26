@@ -1,8 +1,9 @@
 inet6num:          fd23:0ccc:ac00:0000:0000:0000:0000:0000 - fd23:0ccc:ac00:ffff:ffff:ffff:ffff:ffff
 cidr:              fd23:ccc:ac::/48
 descr:             CCC Aachen
-admin-c:           ORG-CCCAC
-tech-c:            ORG-CCCAC
+org:           ORG-CCCAC
+admin-c:           CCCAC-DN42
+tech-c:            CCCAC-DN42
 mnt-by:            ND-MNT
 mnt-by:            SPQ-MNT
 status:            ALLOCATED

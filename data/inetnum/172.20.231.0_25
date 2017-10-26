@@ -3,10 +3,10 @@ netname:           MODERN-NETWORKING
 org:               ORG-MOD
 descr:             Modern Networking Peering Block
 country:           US
-admin-c:           ORG-MOD
+admin-c:           MOD-DN42
 tech-c:            MOD-DN42
 mnt-by:            MOD-MNT
 nserver:           mod.net.moderntld.com
 status:            ASSIGNED
 bgp-status:        inactive 1492306861
-cidr:		172.20.231.0/25
+cidr:              172.20.231.0/25

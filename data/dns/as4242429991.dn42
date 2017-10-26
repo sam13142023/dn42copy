@@ -1,7 +1,8 @@
 domain:            as4242429991.dn42
 descr:             Vitale Netowks ASN 
 country:           NL
-admin-c:           ORG-VITALE
+org:           ORG-VITALE
+admin-c:            SCARLET-DN42
 tech-c:            SCARLET-DN42
 mnt-by:            VITALE-MNT
 nserver:           ns1.vitalenetworks.dn42

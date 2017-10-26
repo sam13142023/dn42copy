@@ -1,6 +1,7 @@
 aut-num:           AS4242423808
 as-name:           INETLI
 descr:             Internet Libre http://inetli.org/
-admin-c:           ORG-INETLI
-tech-c:            ORG-INETLI
+org:           ORG-INETLI
+admin-c:            INETLI-DN42
+tech-c:            INETLI-DN42
 mnt-by:            INETLI-MNT

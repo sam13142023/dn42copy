@@ -1,7 +1,8 @@
 inetnum:           172.20.132.0 - 172.20.133.255
 netname:           KRAKEN-NETWORKS-POP
 country:           DE
-admin-c:           ORG-KRAKEN
+org:           ORG-KRAKEN
+admin-c:            KRAKEN-DN42
 tech-c:            KRAKEN-DN42
 mnt-by:            KRAKEN-MNT
 status:            ASSIGNED

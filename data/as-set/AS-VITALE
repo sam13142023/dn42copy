@@ -1,6 +1,7 @@
 as-set:            AS-VITALE
 descr:             Vitale Networks AS Set
 members:           AS4242429991
-admin-c:           ORG-VITALE
+org:           ORG-VITALE
+admin-c:            SCARLET-DN42
 tech-c:            SCARLET-DN42
 mnt-by:            VITALE-MNT

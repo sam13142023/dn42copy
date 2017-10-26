@@ -1,6 +1,7 @@
 aut-num:           AS4242427777
 as-name:           CHIZEON-AS
 descr:             Chizeon LTD
-admin-c:           ORG-CHIZEON
+org:           ORG-CHIZEON
+admin-c:           ASELIAS-DN42
 tech-c:            ASELIAS-DN42
 mnt-by:            ASELIAS-MNT

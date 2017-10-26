@@ -1,7 +1,8 @@
 inetnum:           172.20.49.0-172.20.49.255
 netname:           M24-RU
 country:           RU
-admin-c:           ORG-MEDIA24LLC
+org:               ORG-MEDIA24LLC
+admin-c:            FFAMAX-DN42
 tech-c:            FFAMAX-DN42
 mnt-by:            FFAMAX-MNT
 status:            ALLOCATED

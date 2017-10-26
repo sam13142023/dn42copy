@@ -2,7 +2,8 @@ inet6num:          fd42:4242:1375:: - fd42:4242:1375:ffff:ffff:ffff:ffff:ffff
 netname:           CHELNOK-IPV6
 descr:             chelnok ipv6 ULA
 country:           DE
-admin-c:           ORG-CHELNOK
+org:           ORG-CHELNOK
+admin-c:            ERI-DN42
 tech-c:            ERI-DN42
 mnt-by:            ERI-MNT
 status:            ALLOCATED

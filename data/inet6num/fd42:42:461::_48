@@ -2,7 +2,8 @@ inet6num:          fd42:42:461::0-fd42:42:461:ffff:ffff:ffff:ffff:ffff
 netname:           CTFL-DN42-INET6
 descr:             Chaostreff Flensburg e.V.
 country:           DE
-admin-c:           ORG-CTFL
+org:           ORG-CTFL
+admin-c:            FOERTEL-DN42
 tech-c:            FOERTEL-DN42
 mnt-by:            FOERTEL-MNT
 status:            ASSIGNED PA

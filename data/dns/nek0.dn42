@@ -1,7 +1,8 @@
 domain:            nek0.dn42
 descr:             nek0s blog
 country:           DE
-admin-c:           ORG-CHELNOK
+org:           ORG-CHELNOK
+admin-c:            ERI-DN42
 tech-c:            ERI-DN42
 mnt-by:            ERI-MNT
 nserver:           ns.nek0.dn42 172.23.64.3

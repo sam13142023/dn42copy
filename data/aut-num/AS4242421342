@@ -1,5 +1,6 @@
 aut-num:           AS4242421342
 as-name:           MODE-AS
-admin-c:           ORG-MODE
+org:           ORG-MODE
+admin-c:            MODE-DN42
 tech-c:            MODE-DN42
 mnt-by:            MODE-MNT

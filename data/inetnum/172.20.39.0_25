@@ -2,8 +2,9 @@ inetnum:           172.20.39.0-172.20.39.127
 netname:           ETH2-NET
 descr:             eth2 services
 country:           NL
-admin-c:           ORG-ETH2
-tech-c:            ORG-ETH2
+org:           ORG-ETH2
+admin-c:           REENING-DN42
+tech-c:            REENING-DN42
 mnt-by:            ETH2-MNT
 status:            ASSIGNED
 bgp-status:        active

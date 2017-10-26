@@ -1,6 +1,7 @@
 aut-num:           AS4242423327
 as-name:           HBNEL-AS
 descr:             HBNEL Lab Network
-admin-c:           ORG-HBNEL
+org:               ORG-HBNEL
+admin-c:           ZACH-DN42
 tech-c:            ZACH-DN42
 mnt-by:            ZACH-MNT

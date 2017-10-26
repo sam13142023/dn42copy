@@ -3,7 +3,7 @@ netname:           MODERN-NETWORKING
 org:               ORG-MOD
 descr:             Modern Networking v6 Peering Block
 country:           US
-admin-c:           ORG-MOD
+admin-c:            MOD-DN42
 tech-c:            MOD-DN42
 mnt-by:            MOD-MNT
 nserver:           v6.mod.net.moderntld.com
