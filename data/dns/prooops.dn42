@@ -1,6 +1,5 @@
 domain:            prooops.dn42
 admin-c:           BODEMS-DN42
-country:           DE
 tech-c:            BODEMS-DN42
 mnt-by:            BODEMS-MNT
 nserver:           ns0.bodems.dn42

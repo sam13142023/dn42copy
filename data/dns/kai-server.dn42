@@ -1,6 +1,5 @@
 domain:            kai-server.dn42
 descr:             Domain, what else?
-country:           HK
 admin-c:           KAI-DN42
 tech-c:            KAI-DN42
 mnt-by:            KAI-MNT

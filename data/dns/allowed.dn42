@@ -1,5 +1,4 @@
 domain:            allowed.dn42
-country:           US
 nserver:           ns1.allowed.dn42    172.23.11.1
 admin-c:           EPOCH-DN42
 tech-c:            EPOCH-DN42

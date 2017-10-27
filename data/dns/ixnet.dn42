@@ -1,6 +1,5 @@
 domain:            ixnet.dn42
 descr:             IX Network Main Domain
-country:           SG
 admin-c:           HOWARD-DN42
 tech-c:            HOWARD-DN42
 mnt-by:            IXNET-MNT

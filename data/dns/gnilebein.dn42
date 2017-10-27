@@ -1,6 +1,5 @@
 domain:            gnilebein.dn42
 descr:             MyDomain
-country:           DE
 admin-c:           GNILEBEIN-DN42
 tech-c:            GNILEBEIN-DN42
 mnt-by:            GNILEBEIN-MNT

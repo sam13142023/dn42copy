@@ -1,6 +1,5 @@
 domain:            sl.dn42
 descr:             SlothLogistics Main Domain
-country:           US
 admin-c:           CHARLESTHESLOTH-DN42
 tech-c:            CHARLESTHESLOTH-DN42
 mnt-by:            SLOTHLOGISTICS-MNT

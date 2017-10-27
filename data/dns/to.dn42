@@ -1,6 +1,5 @@
 domain:            to.dn42
 descr:             ASoT URL Shortener
-country:           CA
 admin-c:           HEAVYMETAL-DN42
 tech-c:            HEAVYMETAL-DN42
 mnt-by:            ASOTNET-MNT

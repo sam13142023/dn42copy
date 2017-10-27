@@ -1,6 +1,5 @@
 domain:            debiandev.dn42
 descr:             debiandev webpage
-country:           DE
 admin-c:           NLDDEV1-DN42
 tech-c:            NLDDEV1-DN42
 mnt-by:            DDEV-MNT

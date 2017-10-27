@@ -1,6 +1,5 @@
 domain:            plasmatrix.dn42
 descr:             Domain used on PLASMATRIX-AS
-country:           DE
 admin-c:           PLASMA-DN42
 tech-c:            PLASMA-DN42
 mnt-by:            PLASMATRIX-MNT

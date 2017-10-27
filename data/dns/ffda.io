@@ -1,5 +1,4 @@
 domain: ffda.io
-country: DE
 remarks: ** darmstadt
 admin-c: HEXA-DN42
 tech-c: HEXA-DN42

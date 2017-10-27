@@ -1,6 +1,5 @@
 domain:            mirrors.dn42
 descr:             Mirrors DNS
-country:           NL
 admin-c:           TRUNET-DN42
 tech-c:            TRUNET-DN42
 mnt-by:            TRUNET-MNT

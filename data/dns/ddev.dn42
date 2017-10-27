@@ -1,6 +1,5 @@
 domain:            ddev.dn42
 descr:             dn42 ns by debiandev
-country:           DE
 admin-c:           NLDDEV1-DN42
 tech-c:            NLDDEV1-DN42
 mnt-by:            DDEV-MNT

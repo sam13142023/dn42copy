@@ -1,6 +1,5 @@
 domain:            certificatemonitor.dn42
 descr:             certificatemonitor
-country:           DE
 admin-c:           JOMAT-DN42
 tech-c:            JOMAT-DN42
 mnt-by:            JOMAT-MNT

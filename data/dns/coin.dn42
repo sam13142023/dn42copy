@@ -1,6 +1,5 @@
 domain:            coin.dn42
 descr:             The first payment solution in DN42!
-country:           GB
 admin-c:           KAI-DN42
 org:            ORG-COIN
 tech-c:            KAI-DN42

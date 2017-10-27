@@ -1,6 +1,5 @@
 domain:            ip.dn42
 descr:             ASoT What is my IP Service
-country:           CA
 admin-c:           HEAVYMETAL-DN42
 tech-c:            HEAVYMETAL-DN42
 mnt-by:            ASOTNET-MNT

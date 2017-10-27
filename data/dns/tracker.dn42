@@ -1,6 +1,5 @@
 domain:            tracker.dn42
 descr:             Torrent Tracker RRDNS
-country:           DE
 admin-c:           GRMML-DN42
 tech-c:            GRMML-DN42
 mnt-by:            GRMML-MNT

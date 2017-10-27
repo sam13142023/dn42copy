@@ -1,6 +1,5 @@
 domain:            tcc.dn42
 descr:             The Computer Crowd
-country:           US
 admin-c:           CONNOR-DN42
 tech-c:            CONNOR-DN42
 mnt-by:            VPSSOLUTIONS-MNT

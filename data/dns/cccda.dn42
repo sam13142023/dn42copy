@@ -1,6 +1,5 @@
 domain:            cccda.dn42
 descr:             CCC Darmstadt
-country:           DE
 admin-c:           HEXA-DN42
 tech-c:            HEXA-DN42
 mnt-by:            HEXA-MNT

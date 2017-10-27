@@ -1,6 +1,5 @@
 domain:            chelnok.dn42
 descr:             chelnok community
-country:           DE
 admin-c:           ERI-DN42
 tech-c:            ERI-DN42
 mnt-by:            ERI-MNT

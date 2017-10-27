@@ -1,6 +1,5 @@
 domain:            localnet.dn42
 descr:             Localnet domain
-country:           ES
 admin-c:           OPOTONIL-DN42
 tech-c:            OPOTONIL-DN42
 mnt-by:            LOCALNET-MNT

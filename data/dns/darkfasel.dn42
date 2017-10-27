@@ -1,6 +1,5 @@
 domain:            darkfasel.dn42
 descr:             darkfasel
-country:           NL
 admin-c:           ARGV-DN42
 tech-c:            ARGV-DN42
 mnt-by:            ARGV-DN42-MNT

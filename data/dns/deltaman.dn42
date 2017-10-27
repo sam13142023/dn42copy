@@ -1,6 +1,5 @@
 domain:            deltaman.dn42
 descr:             General Deltaman domain
-country:           NL
 admin-c:           DELTAMAN-DN42
 tech-c:            DELTAMAN-DN42
 mnt-by:            DELTAMAN-MNT

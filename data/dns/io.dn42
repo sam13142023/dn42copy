@@ -1,6 +1,5 @@
 domain:            io.dn42
 descr:             Skynet domain
-country:           DE
 admin-c:           IO-DN42
 tech-c:            IO-DN42
 mnt-by:            SKYNET-MNT

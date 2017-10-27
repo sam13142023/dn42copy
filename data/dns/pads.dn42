@@ -1,5 +1,4 @@
 domain:             pads.dn42
-country:            DE
 nserver:            ns-1.mortzu.dn42
 nserver:            ns-2.mortzu.dn42
 admin-c:            MORTZU-DN42

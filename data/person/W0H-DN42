@@ -3,7 +3,6 @@ nic-hdl:           W0H-DN42
 mnt-by:            W0H-MNT
 remarks:           Peering (OpenVPN, Tinc): dn42@netrik.de
 e-mail:            dn42@netrik.de
-pgp-id:            D9AF3E27
 pgp-fingerprint:   D906 119F 9B80 6400 22D0 F690 D99D DFBD D9AF 3E27
 abuse-mailbox:     dn42@netrik.de
 contact:           irc:w0h@hackint

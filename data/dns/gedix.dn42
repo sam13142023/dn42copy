@@ -1,6 +1,5 @@
 domain:            gedix.dn42
 descr:             gedix dn domain
-country:           DE
 admin-c:           NLDDEV1-DN42
 tech-c:            NLDDEV1-DN42
 mnt-by:            DDEV-MNT

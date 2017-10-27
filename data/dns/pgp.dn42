@@ -1,6 +1,5 @@
 domain:            pgp.dn42
 descr:             PGP keyserver
-country:           DE
 admin-c:           LUTOMA-DN42
 tech-c:            LUTOMA-DN42
 mnt-by:            LUTOMA-MNT

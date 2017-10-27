@@ -1,6 +1,5 @@
 domain:            nobody44.dn42
 descr:             Nobody44 Domain
-country:           DE
 admin-c:           PAUL-DN42
 tech-c:            PAUL-DN42
 mnt-by:            NOB-MNT

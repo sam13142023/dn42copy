@@ -1,5 +1,4 @@
 domain:            halit.hack
-country:           TR
 admin-c:           H4-DN42
 tech-c:            H4-DN42
 mnt-by:            H4-MNT

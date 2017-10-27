@@ -1,6 +1,5 @@
 domain:            dns.dn42
 descr:             DNS PROJECT
-country:           SE
 admin-c:           TOMBII-DN42
 tech-c:            TOMBII-DN42
 mnt-by:            TOMBII-DN42-MNT

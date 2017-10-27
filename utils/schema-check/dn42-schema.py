@@ -101,7 +101,7 @@ class SchemaDOM:
 
         for k, v, l in f.dom:
             if k.startswith("x-"):
-                log.debug("%s Line %d: Key [%s] is user defined." % (f.src, l, k))
+                log.info("%s Line %d: Key [%s] is user defined." % (f.src, l, k))
 
             elif k not in self.schema:
                 log.error("%s Line %d: Key [%s] not in schema." % (f.src, l, k))

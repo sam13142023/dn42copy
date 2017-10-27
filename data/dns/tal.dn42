@@ -1,6 +1,5 @@
 domain:            tal.dn42
 descr:             TALs DNS Zone
-country:           DE
 admin-c:           TAL-DN42
 tech-c:            TAL-DN42
 mnt-by:            TAL-MNT

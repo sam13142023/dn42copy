@@ -1,7 +1,6 @@
 domain:            sin.dn42
 nserver:           pimp.sin.dn42 172.22.16.6
 status:            EVALPEND 1503918518
-country:           DE
 admin-c:           ASTRO-DN42
 tech-c:            ASTRO-DN42
 mnt-by:            ASTRO-MNT

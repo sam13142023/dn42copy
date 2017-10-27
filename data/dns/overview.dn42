@@ -1,6 +1,5 @@
 domain:            overview.dn42
 descr:             A overview of services including monitoring
-country:           AT
 admin-c:           FLORIANB-DN42
 tech-c:            FLORIANB-DN42
 mnt-by:            FLORIANB-MNT

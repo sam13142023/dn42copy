@@ -1,6 +1,5 @@
 domain:            moho.dn42
 descr:             dns for moho
-country:           DE
 admin-c:           MOHO-DN42
 tech-c:            MOHO-DN42
 mnt-by:            MOHO-MNT

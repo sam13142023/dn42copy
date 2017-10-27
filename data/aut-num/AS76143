@@ -1,8 +1,8 @@
 aut-num:       AS76143
 as-name:       FLONET-SITE1-AS
 descr:         FLONET home1 AS
-import:        from AS76143:AS-FLONET accept   { 172.16.0.0/12^+, 10.0.0.0/8^+ }
-export:        to   AS76143:AS-FLONET announce { 172.22.104.0/25^+, 172.22.125.0/25, 172.23.123.0/24, 172.23.220.0/24, 172.22.159.0/24 }
+x-import:        from AS76143:AS-FLONET accept   { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+x-export:        to   AS76143:AS-FLONET announce { 172.22.104.0/25^+, 172.22.125.0/25, 172.23.123.0/24, 172.23.220.0/24, 172.22.159.0/24 }
 remarks:       This is the Main AS-NUM Object
 remarks:       == Peerings ==
 remarks:       transit only AS

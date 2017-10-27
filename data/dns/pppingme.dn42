@@ -1,6 +1,5 @@
 domain:            pppingme.dn42
 descr:             pppingme.dn42
-country:           US
 admin-c:           PPPINGME-DN42
 tech-c:            PPPINGME-DN42
 mnt-by:            PPPINGME-MNT

@@ -1,6 +1,5 @@
 domain:            jgn.dn42
 descr:             JGNDATA-DOMAIN
-country:           US
 admin-c:           JUSTIN-DN42
 tech-c:            JUSTIN-DN42
 mnt-by:            JGNDATA-MNT

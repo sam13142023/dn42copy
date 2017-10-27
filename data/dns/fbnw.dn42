@@ -1,6 +1,5 @@
 domain:            fbnw.dn42
 descr:             FBNW Networks
-country:           AT
 admin-c:           FBNW-DN42
 tech-c:            FBNW-DN42
 mnt-by:            FLORIANB-MNT

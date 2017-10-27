@@ -1,6 +1,5 @@
 domain:            paste.dn42
 descr:             pastebin
-country:           FR
 admin-c:           TOMBII-DN42
 tech-c:            TOMBII-DN42
 mnt-by:            TOMBII-DN42-MNT

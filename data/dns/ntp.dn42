@@ -1,6 +1,5 @@
 domain:            ntp.dn42
 descr:             A Series of Tubez Networks NTP Service
-country:           CA
 admin-c:           HEAVYMETAL-DN42
 tech-c:            HEAVYMETAL-DN42
 mnt-by:            ASOTNET-MNT

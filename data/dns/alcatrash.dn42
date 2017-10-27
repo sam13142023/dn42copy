@@ -1,6 +1,5 @@
 domain:            alcatrash.dn42
 descr:             MichaelTrip DNS - Alcatrash
-country:           NL
 admin-c:           MTR-DN42
 tech-c:            MTR-DN42
 mnt-by:            MTR-MNT

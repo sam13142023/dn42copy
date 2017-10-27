@@ -1,6 +1,5 @@
 domain:            ix.dn42
 descr:             General IX domain
-country:           US
 admin-c:           TOMBII-DN42
 admin-c:           NL-ZUID-DN42
 tech-c:            TOMBII-DN42

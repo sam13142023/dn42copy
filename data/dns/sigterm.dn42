@@ -1,6 +1,5 @@
 domain:            sigterm.dn42
 descr:             GXA
-country:           US
 admin-c:           GXA-DN42
 tech-c:            GXA-DN42
 mnt-by:            GXA-MNT

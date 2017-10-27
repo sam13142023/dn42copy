@@ -1,6 +1,5 @@
 domain:            test123.dn42
 descr:             test domain
-country:           NL
 admin-c:           AIM333-DN42
 tech-c:            AIM333-DN42
 mnt-by:            AIM333-MNT

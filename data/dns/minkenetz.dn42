@@ -1,6 +1,5 @@
 domain:            minkenetz.dn42
 descr:             MinkeNetz Domain
-country:           DE
 admin-c:           MINKE-DN42
 tech-c:            MINKE-DN42
 mnt-by:            MINKE-MNT

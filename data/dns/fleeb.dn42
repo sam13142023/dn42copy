@@ -1,6 +1,5 @@
 domain:            fleeb.dn42
 descr:             fleeb network
-country:           DE
 admin-c:           SZF-DN42
 tech-c:            SZF-DN42
 mnt-by:            SZF-MNT

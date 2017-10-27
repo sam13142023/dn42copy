@@ -1,5 +1,4 @@
 domain:             mortzu.dn42
-country:            DE
 nserver:            ns-1.mortzu.dn42 172.22.192.19
 nserver:            ns-2.mortzu.dn42 172.22.192.226
 admin-c:            MORTZU-DN42

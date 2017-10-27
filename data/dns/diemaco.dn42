@@ -1,6 +1,5 @@
 domain:            diemaco.dn42
 descr:             dns entry
-country:           CA
 admin-c:           DIEMACO-DN42
 tech-c:            DIEMACO-DN42
 mnt-by:            DIEMACO-MNT

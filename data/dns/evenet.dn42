@@ -1,6 +1,5 @@
 domain:            evenet.dn42
 descr:             evenet domain
-country:           DE
 admin-c:           MIC92-DN42
 tech-c:            MIC92-DN42
 mnt-by:            MIC92-MNT
