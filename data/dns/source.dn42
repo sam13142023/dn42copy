@@ -1,6 +1,5 @@
 domain:            source.dn42
 descr:             Source code repos
-country:           CA
 admin-c:           SOURIS-DN42
 tech-c:            SOURIS-DN42
 mnt-by:            XUU-MNT

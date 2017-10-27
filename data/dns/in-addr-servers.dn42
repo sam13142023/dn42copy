@@ -4,7 +4,6 @@ nserver:           x.in-addr-servers.dn42  172.22.141.2
 nserver:           x.in-addr-servers.dn42  fdea:a15a:77b9:4444::2
 nserver:           g.in-addr-servers.dn42  172.23.149.37
 nserver:           g.in-addr-servers.dn42  fd42:23:149:2::37
-country:           DE
 admin-c:           DUMMY-DN42
 tech-c:            NIXNODES-DN42
 tech-c:            SOURIS-DN42

@@ -1,5 +1,4 @@
 domain:            dn42-servers.dn42
-country:           DE
 nserver:           x.dn42-servers.dn42       172.22.141.3
 nserver:           x.dn42-servers.dn42       fdea:a15a:77b9:4444::3
 nserver:           g.dn42-servers.dn42       172.23.149.38

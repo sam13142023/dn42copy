@@ -1,6 +1,5 @@
 domain:            teams.dn42
 descr:             Team Collaboration Portal (MatterMost)
-country:           DE
 admin-c:           SOURIS-DN42
 tech-c:            SOURIS-DN42
 mnt-by:            XUU-MNT

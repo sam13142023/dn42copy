@@ -2,7 +2,6 @@ domain:            root.dn42
 nserver:           lavana.sjc.xuu.dn42
 nserver:           kapha.mtr.xuu.dn42
 nserver:           rishi.bre.xuu.dn42
-country:           DE
 admin-c:           DUMMY-DN42
 tech-c:            WELTERDE-DN42
 tech-c:            SISKA-DN42

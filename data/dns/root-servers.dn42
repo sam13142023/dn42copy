@@ -9,7 +9,6 @@ nserver:           k.root-servers.dn42      fd42:20:50::3
 remarks: !! DISABLED !! nserver:           a.root-servers.dn42      172.22.177.6
 remarks: !! DISABLED !! nserver:           a.root-servers.dn42      fd42:1107:1:ec::cc
 remarks: !! DISABLED !! nserver:           t.root-servers.dn42      172.22.102.141
-country:           XD
 admin-c:           DUMMY-DN42
 tech-c:            NIXNODES-DN42
 tech-c:            SOURIS-DN42

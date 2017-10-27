@@ -1,6 +1,5 @@
 domain:            ca.dn42
 descr:             DN42 Certificate Authority
-country:           US
 admin-c:           SOURIS-DN42
 tech-c:            SOURIS-DN42
 mnt-by:            XUU-MNT

@@ -1,6 +1,5 @@
 domain:            mtn.dn42
 descr:             Monotone Repo
-country:           CA
 admin-c:           SOURIS-DN42
 tech-c:            SOURIS-DN42
 mnt-by:            XUU-MNT

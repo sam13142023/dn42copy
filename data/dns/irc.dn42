@@ -1,6 +1,5 @@
 domain:            irc.dn42
 descr:             The internal IRC network
-country:           DE
 admin-c:           SOURIS-DN42
 tech-c:            STR-DN42
 tech-c:            NL-ZUID-DN42

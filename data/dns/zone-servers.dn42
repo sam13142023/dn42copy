@@ -4,7 +4,6 @@ nserver:           x.zone-servers.dn42        172.22.141.2
 nserver:           x.zone-servers.dn42        fdea:a15a:77b9:4444::2
 nserver:           g.zone-servers.dn42        172.23.149.36
 nserver:           g.zone-servers.dn42        fd42:23:149:2::36
-country:           DE
 admin-c:           DUMMY-DN42
 tech-c:            NIXNODES-DN42
 tech-c:            SOURIS-DN42

@@ -10,5 +10,5 @@ BASE="$(realpath "$0")"
 BASE="$(dirname "$BASE")"
 cd "$BASE" || exit 1
 
-utils/schema-check/dn42-schema.py scan data/ -m "$1" || ( echo "Schema validation failed, please check above!" ; exit 1 )
+utils/schema-check/dn42-schema.py -v scan data/ -m "$1" || ( echo "Schema validation failed, please check above!" ; exit 1 )
 
