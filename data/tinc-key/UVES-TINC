@@ -1,7 +1,7 @@
 tinc-key:          UVES-TINC
 tinc-host:         spline
-descr:             * This object was generated based on info from legacy
-descr:             * wiki and existing host files
+remarks:             * This object was generated based on info from legacy
+remarks:             * wiki and existing host files
 compression:       9
 subnet:            172.22.255.161/32
 subnet:            fd04:de02:7af9::161/128

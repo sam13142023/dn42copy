@@ -1,5 +1,0 @@
-route:              172.22.191.128/25
-descr:              RRIX SERVER
-origin:             AS64711
-bgp-status:         active
-mnt-by:             DUMMY-MNT

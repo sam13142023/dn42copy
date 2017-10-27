@@ -100,7 +100,10 @@ class SchemaDOM:
                     status = "FAIL"
 
         for k, v, l in f.dom:
-            if k not in self.schema:
+            if k.startswith("x-"):
+                log.debug("%s Line %d: Key [%s] is user defined." % (f.src, l, k))
+
+            elif k not in self.schema:
                 log.error("%s Line %d: Key [%s] not in schema." % (f.src, l, k))
                 status = "FAIL"
                 continue
@@ -288,6 +291,7 @@ def __index_files(path):
         "mntner/":       SCHEMA_NAMESPACE + "mntner",
         "person/":       SCHEMA_NAMESPACE + "person",
         "role/":         SCHEMA_NAMESPACE + "role",
+        "tinc-key/":     SCHEMA_NAMESPACE + "tinc-key",
         "tinc-keyset/":  SCHEMA_NAMESPACE + "tinc-keyset",
         "schema/":       SCHEMA_NAMESPACE + "schema",
     }

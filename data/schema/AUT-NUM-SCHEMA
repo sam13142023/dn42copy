@@ -11,6 +11,8 @@ key:        org        optional  single   lookup=dn42.organisation
 key:        import     optional  deprecate multiple
 key:        export     optional  deprecate multiple
 key:        default    optional  deprecate multiple
+key:        mp-peer    depricate multiple
+key:        mp-group   depricate multiple
 key:        mp-import  optional  multiple
 key:        mp-export  optional  multiple
 key:        mp-default optional  multiple

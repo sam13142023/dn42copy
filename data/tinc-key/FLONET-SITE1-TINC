@@ -1,4 +1,5 @@
 tinc-key:          FLONET-SITE1-TINC
+tinc-host:         flonet
 compression:       9
 mnt-by:            DUMMY-MNT
 subnet:            172.23.67.8/32

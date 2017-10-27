@@ -5,7 +5,7 @@ compression:       9
 subnet:            172.23.3.1/32
 tinc-address:      89.212.170.109
 port:              10409
-admin-c:           ORG-NIXNODES
+admin-c:           NIXNODES-DN42
 mnt-by:            NIXNODES-MNT
 tinc-file:
     Subnet = 172.23.3.1/32

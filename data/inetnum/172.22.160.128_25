@@ -2,10 +2,10 @@ inetnum:           172.22.160.128-172.22.160.255
 netname:           V2-IPV4-1-INIT
 descr:             V2 Initial IP Block Internal Routing
 country:           GB
-org:           ORG-V2
-admin-c:           ALISTAIR-DN43
+org:               ORG-V2
+admin-c:           ALISTAIR-DN42
 tech-c:            ALISTAIR-DN42
 mnt-by:            V2-MNT
 status:            ASSIGNED
 bgp-status:        active
-cidr:		172.22.160.128/25
+cidr:		   172.22.160.128/25

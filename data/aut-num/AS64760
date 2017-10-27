@@ -1,5 +1,6 @@
 aut-num:           AS64760
 as-name:           MTNS-AS
-admin-c:           ORG-MTNS
+org:               ORG-MTNS
+admin-c:           LM-DN42
 tech-c:            LM-DN42
 mnt-by:            MTNS-MNT
