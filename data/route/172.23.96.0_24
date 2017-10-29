@@ -1,5 +1,4 @@
-route:             172.23.96.0/23
+route:             172.23.96.0/24
 origin:            AS4242420101
-origin:            AS65038
 mnt-by:            HEXA-MNT
 bgp-status:        active

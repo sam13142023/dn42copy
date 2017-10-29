@@ -1,5 +1,5 @@
-inetnum:           172.23.96.0 - 172.23.97.255
-cidr:              172.23.96.0/23
+inetnum:           172.23.96.0 - 172.23.96.255
+cidr:              172.23.96.0/24
 netname:           CCCDA-20150117
 descr:             http://darmstadt.ccc.de
 country:           DE
