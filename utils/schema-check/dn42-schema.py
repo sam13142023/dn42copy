@@ -182,7 +182,20 @@ class FileDOM:
         self.schema = schema
         self.src = src
 
+    def __str__(self):
+        length = 13
+        for i in self.dom:
+            if len(i[0]) > length:
+                length = len(i[0]) + 2
+        s = ""
+        for i in self.dom:
+            l = i[1].split("\n")
 
+            s += i[0] + ":" + " " * (length - len(i[0])) + l[0] + "\n"
+            for m in l[1:]:
+                s +=  " " * (length + 1) + m + "\n"
+
+        return s
 def main(infile, schema):
 
     log.debug("Check File: %s" % (infile))
@@ -365,6 +378,12 @@ def get_args():
     parser_scan.add_argument('-m',  '--use-mntner', nargs='?',
                              help="Only scan files that has a matching MNT [Default None]", action="store")
 
+    parser_fmt = subparsers.add_parser('fmt', help='Format file')
+    parser_fmt.add_argument(
+        'infile',  nargs="?", help="Path for dn42 data file", type=str)
+    parser_fmt.add_argument('-i',  '--in-place',
+                             help="Format file in place", action="store_true")
+
     return vars(parser.parse_args())
 
 
@@ -410,3 +429,11 @@ if __name__ == '__main__':
             sys.exit(2)
         elif ck == "FAIL":
             sys.exit(1)
+
+    elif args["command"] == "fmt":
+        dom = FileDOM(args["infile"])
+        if args["in_place"]:
+            with open(args["infile"], 'w+') as f:
+                f.write(str(dom))
+
+        print(str(dom))
