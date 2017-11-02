@@ -1,9 +1,9 @@
 mntner:            XUU-MNT
 descr:             Xuu Maintenance OBJ
 remarks:           ## Example of adding pgp-fingerprint:                 ##
-remarks:           ##
+remarks:           ##                                                    ##
 auth:              pgp-fingerprint 20AE2F310A74EA7CEC3AE69F8B3B0604F164E04F
-remarks:           ##
+remarks:           ##                                                    ##
 remarks:           ## remove spaces from the fingerprint.                ##
 sha512-pw:         ZDdmZTAwYmFlYmM0ZWY1OWIwYTZmNmI5NzczOGY2NWFhYmM4ZGRjYWYyNjEwMGRjY2NlYTcxMjlmMGVjZjNmNjU1NjhmNzNlODcwNmE4ZDQ0NzcxZDUxYzAzMjM2NGI4YmJkODM2Nzk2YTI2YzA4Zjc5Nzg4OWNjYTNlODJmMTgzYjVhZjc4MWM2NDBiNzNkOTI0MDUzOTg2YjM0MzdmMGJiOGZkMWM2Zjg1YjY5NTM0NWZhZmRiOTlkOWVkNzNkZWRkYzJiMDlkY2FmZjU4Y2VlM2Q1YmE4YzMwMTIwYWQwYzhhNWMyZjdhZGRmNzM5YjVhNjIwN2Q4ZWIxNzJiMDNhZTY5MTk3M2IxMDcxZGRiZGU4NWRiODM0OTIxYmYxN2JkNjRlOTZmNTZkMTg2ZDYxNzlkZGEwNmJmODNkYTNhZWZkZDkzYzliYmQ4YWNiODQ1Zjc1OTAwZTg3Zjk0YWIxNDdlNTJhMjM2YmYwN2Y0OGEwZGYzOTU0NzNhZWQ0MThiOTRlYWZkZjdmYTljZmMwM2IyODc1ZjU3YTlkMDQ4ZmJjYjE5MzMxZDQ5NjE0N2Q4ZDcwYmFjYWY3M2E2MTkzMzcxOTI3NGY4OTdjN2MzMGRiZjVhMjdmZTIyODdiMDIzZTk1NGM1NDZiNmRjYzYyMzAyMGY2YTRhMTAwNWM=
 admin-c:           SOURIS-DN42
