@@ -1,6 +1,8 @@
-as-block:          64600 - 64855
+as-block:          AS64600 - AS64855
+@as-min:           AS000064600
+@as-max:           AS000064855
 descr:             dn42 native ASN block
-remarks:            legacy policy was that if you own 172.22.x.0/24 you own the ASN 64600+x
-remarks:            with the default allocation policy of an /25 per person now this becomes a problem
+remarks:           Legacy policy was that if you own 172.22.x.0/24 you own the ASN 64600+x
+remarks:           With the default allocation policy of an /25 per person now this becomes a problem
 mnt-by:            DUMMY-MNT
-policy:            open
+policy:            ask

@@ -1,4 +1,6 @@
-as-block:           64512 - 65534
-descr:              private ASN block
-mnt-by:             DUMMY-MNT
-policy:             closed
+as-block:          AS64512 - AS65534
+@as-min:           AS000064512
+@as-max:           AS000065534
+descr:             private ASN block
+mnt-by:            DUMMY-MNT
+policy:            closed

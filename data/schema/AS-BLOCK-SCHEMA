@@ -1,6 +1,8 @@
 schema:     AS-BLOCK-SCHEMA
 ref:        dn42.as-block
 key:        as-block   required  single    primary schema
+key:        @as-min    required  single
+key:        @as-max    required  single
 key:        descr      optional  single
 key:        policy     required  single    > {open|ask|closed}
 key:        mnt-by     required  multiple  lookup=dn42.mntner
