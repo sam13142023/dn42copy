@@ -1,4 +1,0 @@
-route:             172.20.4.112/28
-origin:            AS4242422931
-mnt-by:            ITS-MNT
-bgp-status:        inactive 1478304005

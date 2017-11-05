@@ -3,5 +3,5 @@ admin-c: DUMMY-DN42
 tech-c: DUMMY-DN42
 status: ALLOCATED
 cidr:		10.29.0.0/16
-mnt-by:           DUMMY-MNT
+mnt-by:           BODEMS-MNT
 netname:          Unnamed 10.29.0.0/16 Network

@@ -1,5 +1,0 @@
-route:             172.20.4.96/28
-descr:             Dennis Network IPv4 Route
-origin:            AS4242420567
-mnt-by:            DENNIS-MNT
-bgp-status:        inactive 1485696317
