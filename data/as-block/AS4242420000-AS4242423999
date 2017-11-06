@@ -1,10 +1,8 @@
-as-block:          AS4242420000 - AS4242423999
-@as-min:           AS4242420000
-@as-max:           AS4242423999
+as-block:          4242420000 - 4242423999
 descr:             New dn42 ASN space for end-users (June 2014)
-remarks:           This block is reserved for end-users allocation.
-remarks:           You can freely register any ASN in this block.
-remarks:           However, please don't allocate sub-blocks in this ASN space.
+remarks:            This block is reserved for end-users allocation.
+remarks:            You can freely register any ASN in this block.
+remarks:            However, please don't allocate sub-blocks in this ASN space.
 mnt-by:            DUMMY-MNT
 policy:            open
 

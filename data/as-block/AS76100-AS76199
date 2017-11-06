@@ -1,12 +1,10 @@
-as-block:          AS76100 - AS76199
-@as-min:           AS000076100
-@as-max:           AS000076199
-descr:             Legacy dn42 ASN block
+as-block:          76100 - 76199
+descr:             legacy dn42 ASN block
 admin-c:           EQUINOX-DN42
 admin-c:           MORTZU-DN42
 mnt-by:            NIXNODES-MNT
 policy:            closed
 remarks:           This range was never intented to be used as private ASN
-remarks:           Space by IANA.  Rather, it is part of a larger block of
+remarks:           space by IANA.  Rather, it is part of a larger block of
 remarks:           "reserved" AS numbers.
 remarks:           The use of this block is now strongly discouraged.

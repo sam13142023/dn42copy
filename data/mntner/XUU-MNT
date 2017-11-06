@@ -1,5 +1,5 @@
 mntner:            XUU-MNT
-descr:             Xuu Maintenance OBJ
+descr:             Xuu Maintenance Object
 remarks:           ## Example of adding pgp-fingerprint:                 ##
 remarks:           ##                                                    ##
 auth:              pgp-fingerprint 20AE2F310A74EA7CEC3AE69F8B3B0604F164E04F
