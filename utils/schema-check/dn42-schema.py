@@ -381,6 +381,53 @@ def find(fields=None, filter=None):
     query = {"fields": ",".join(fields), "filter": ",".join([k + "=" + v for k, v in filter.items()])}
     return http_get(server, url, query)
 
+def to_num(ip):
+    ip = [int(i) for i in ip.split('.')]
+    return ip[3] + ip[2] * 256 + ip[1] * 256 ** 2 + ip[0] * 256 ** 3
+
+def to_ip(num):
+    return '.'.join([str(i) for i in [num >> 24, (num >> 16) & 0xFF, (num >> 8) & 0xFF, num & 0xFF]])
+
+def expand_ipv6(addr):
+    addr = addr.lower()
+    if "::" in addr:
+        if addr.count('::') > 1:
+            return False
+        addr = addr.replace('::', ':' * (9 - addr.count(':')))
+    if addr.count(':') != 7:
+        return False
+    return ''.join((i.zfill(4) for i in addr.split(":")))
+
+def ip4to6(ip):
+    return "::ffff:%04x:%04x" % (ip >> 16, ip & 0xffff)
+
+def inetrange(inet):
+    ip, mask = inet.split('/')
+    mask = int(mask)
+    ip = to_num(ip) & (0xFFFFFFFF << 32 - mask)
+    ip6 = ip4to6(ip)
+    return inet6range("%s/%d" % (ip6, mask + 96))
+
+def inet6range(inet):
+    ip, mask = inet.split('/')
+    mask = int(mask)
+
+    ip = expand_ipv6(ip)
+
+    if mask == 128:
+        return ip, ip, mask
+
+    offset = int(ip[mask // 4], 16)
+    return "%s%x%s" % (
+        ip[:mask // 4],
+        offset & (0xf0 >> mask % 4),
+        "0" * (31 - mask // 4)
+    ), "%s%x%s" % (
+               ip[:mask // 4],
+               offset | (0xf >> mask % 4),
+               "f" * (31 - mask // 4)
+           ), mask
+
 def test_policy(obj_type, name, mntner):
     log.debug([obj_type, name, mntner])
 
@@ -418,15 +465,121 @@ def test_policy(obj_type, name, mntner):
         return status
 
     elif args["type"] in ["inetnum","inet6num"]:
-        lis = find(["mnt-by"], {"@type": "aut-num", "@name": name})
+        log.info("Checking inetnum type")
+        lis = find(["mnt-by"], {"@type": "net", "cidr": name})
         log.info(lis)
 
-        pass
+        if len(lis) > 0:
+            status = 'FAIL'
+            for o in lis:
+                for n in o:
+                    if n[0] == "mnt-by" and n[1] == mntner:
+                        status = 'PASS'
+                        log.notice("%s has mnt for current object" %(mntner))
+                        return status
+            log.error("%s does not have mnt for current object" %(mntner))
+            return status
+
+        if args["type"] == "inetnum":
+            Lnet, Hnet, mask = inetrange(name)
+        else:
+            Lnet, Hnet, mask = inet6range(name)
+        mask = "%03d" %(mask)
+
+        log.info([Lnet, Hnet, mask])
+        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"], 
+                   {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "lt=" + mask})
+        log.info(lis)
+
+        policy = {}
+        select = None
+        mntners = []
+
+        for n in lis:
+            obj = {}
+            for o in n:
+                obj[o[0]] = o[1]
+                if o[0].startswith("mnt-"):
+                    mntners.append(o[1])
+
+            k = obj["@netlevel"]
+            policy[k] = obj
+
+            if select is None:
+                select = k
+            elif select<=k:
+                select = k
+
+        if select == None:
+            pass
+
+        elif policy[select]["policy"] == "open":
+            log.notice("Policy is open for parent object")
+            return "PASS"
+
+        # 3. Check if mntner or mnt-lower for any as-block in the tree.
+        elif mntner in mntners:
+            log.notice("%s has mnt in parent object" %(mntner))
+            return "PASS"
+
     elif args["type"] in ["route","route6"]:
-        lis = find(["mnt-by"], {"@type": "aut-num", "@name": name})
+        log.info("Checking route type")
+        lis = find(["mnt-by"], {"@type": "route", args["type"]: name})
         log.info(lis)
 
-        pass
+        if len(lis) > 0:
+            status = 'FAIL'
+            for o in lis:
+                for n in o:
+                    if n[0] == "mnt-by" and n[1] == mntner:
+                        status = 'PASS'
+                        log.notice("%s has mnt for current object" %(mntner))
+                        return status
+            log.error("%s does not have mnt for current object" %(mntner))
+            return status
+
+        if args["type"] == "inetnum":
+            Lnet, Hnet, mask = inetrange(name)
+        else:
+            Lnet, Hnet, mask = inet6range(name)
+        mask = "%03d" %(mask)
+
+        log.info([Lnet, Hnet, mask])
+        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"], 
+                   {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "le=" + mask})
+        log.info(lis)
+
+        policy = {}
+        select = None
+        mntners = []
+
+        for n in lis:
+            obj = {}
+            for o in n:
+                obj[o[0]] = o[1]
+                if o[0].startswith("mnt-"):
+                    mntners.append(o[1])
+
+            k = obj["@netlevel"]
+            policy[k] = obj
+
+            if select is None:
+                select = k
+            elif select<=k:
+                select = k
+
+        if select == None:
+            pass
+
+        elif policy[select]["policy"] == "open":
+            log.notice("Policy is open for parent object")
+            return "PASS"
+
+        # 3. Check if mntner or mnt-lower for any as-block in the tree.
+        elif mntner in mntners:
+            log.notice("%s has mnt in parent object" %(mntner))
+            return "PASS"
+
     elif args["type"] == "aut-num":
         if not name.startswith("AS"):
             log.error("%s does not start with AS" %(name))
@@ -449,7 +602,8 @@ def test_policy(obj_type, name, mntner):
 
         # 2. Check if the as-block has an open policy
         asn = "AS{:0>9}".format(name[2:])
-        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], {"@type": "as-block","@as-min":"le=" + asn,"@as-max": "ge=" + asn})
+        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], 
+                   {"@type": "as-block","@as-min":"le=" + asn,"@as-max": "ge=" + asn})
         log.info(lis)
 
         policy = {}
@@ -510,7 +664,6 @@ def test_policy(obj_type, name, mntner):
         if Lasn > Hasn:
             log.error("%s should come before %s" %(Lname, Hname))
 
-
         lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], {"@type": "as-block","@as-min":"le=" + Lasn,"@as-max": "ge=" + Hasn})
         log.info(lis)
 
@@ -533,12 +686,12 @@ def test_policy(obj_type, name, mntner):
             elif select[0]<=k[0] or select[1]>=k[1]:
                 select = k
 
-#        Policy Open only applies to aut-nums. as-blocks must be defined by parent mntners only.
-#
-#        if policy[select]["policy"] == "open":
-#            log.notice("Policy is open for parent object")
-#            return "PASS"
-        
+        # Policy Open only applies to aut-nums. as-blocks must be defined by parent mntners only.
+        #
+        #   if policy[select]["policy"] == "open":
+        #       log.notice("Policy is open for parent object")
+        #       return "PASS"
+
         # 3. Check if mntner or mnt-lower for any as-block in the tree.
         if mntner in mntners:
             log.notice("%s has mnt in parent object" %(mntner))            
