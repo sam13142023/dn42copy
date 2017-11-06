@@ -10,13 +10,15 @@ BASE="$(realpath "$0")"
 BASE="$(dirname "$BASE")"
 cd "$BASE" || exit 1
 
-# utils/schema-check/dn42-schema.py -v scan data/ -m "$1" || ( echo "Schema validation failed, please check above!" ; exit 1 )
+utils/schema-check/dn42-schema.py -v scan data/ -m "$1" || ( echo "Schema validation failed, please check above!" ; exit 1 )
 
 git diff --cached --name-only | while IFS='/' read -ra LINE; do
 if [[ "${LINE[0]}" = "data" ]]; then
-
-	echo ${LINE[1]} ${LINE[2]}
-	utils/schema-check/dn42-schema.py -v policy ${LINE[1]} ${LINE[2]} $1
-
+	if ! utils/schema-check/dn42-schema.py policy ${LINE[1]} ${LINE[2]} $1; then
+		echo "# This file fails policy checks. To continue with the commit revert the change."
+		echo "#    git reset HEAD -- " ${LINE[1]}/${LINE[1]}/${LINE[2]}
+		echo "#    git checkout -- " ${LINE[1]}/${LINE[1]}/${LINE[2]}
+		exit 1
+	fi
 fi
 done

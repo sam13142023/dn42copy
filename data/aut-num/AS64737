@@ -1,7 +1,7 @@
 aut-num:           AS64737
 as-name:           XUU-AS
 descr:             Xuu.dn42 network
-x-userdef:         User Defined Option
+x-userdef:         User Defined Option.
 remarks:           +---------------------------------------------+
 remarks:           ##    Located in DE, California & Ontario    ##
 remarks:           ##         Currently OPEN to new Peers       ##
