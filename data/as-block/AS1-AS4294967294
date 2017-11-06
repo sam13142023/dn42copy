@@ -1,10 +1,7 @@
 as-block:          AS1 - AS4294967294
-@as-min:           AS0000000001
-@as-max:           AS4294967294
 descr:             Root AS-BLOCK
 remarks:           This block is reserved to delegate access for sub-allocations.
 remarks:           You can not freely register any ASN in this block.
-mnt-by:            XUU-MNT
-mnt-by:            HEXA-MNT
+mnt-by:            DUMMY-MNT
 policy:            closed
 
