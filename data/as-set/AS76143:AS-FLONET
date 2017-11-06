@@ -1,9 +1,0 @@
-as-set:        AS76143:AS-FLONET
-descr:         This as-set contains the peer ASNs of 76143
-members:       AS76144      #AS-FLONET
-members:       AS64827      #deelkar
-members:       AS4242423950 #busch
-members:       AS4242420931 #enum
-members:       AS4242423100 #delta
-admin-c:       FLONET-DN42
-mnt-by:        FLORIAN-MNT

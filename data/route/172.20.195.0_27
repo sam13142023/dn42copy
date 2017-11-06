@@ -1,4 +1,0 @@
-route:             172.20.195.0/27
-origin:            AS4242427777
-mnt-by:            ASELIAS-MNT
-bgp-status:        inactive 1472169604

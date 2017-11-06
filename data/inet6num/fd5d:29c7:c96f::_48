@@ -1,9 +1,0 @@
-inet6num:          fd5d:29c7:c96f:0000:0000:0000:0000:0000-fd5d:29c7:c96f:ffff:ffff:ffff:ffff:ffff
-netname:           CHIZEON-NETWORK
-country:           GB
-org:           ORG-CHIZEON
-admin-c:            ASELIAS-DN42
-tech-c:            ASELIAS-DN42
-mnt-by:            ASELIAS-MNT
-status:            ASSIGNED
-cidr:		fd5d:29c7:c96f::/48
