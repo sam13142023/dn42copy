@@ -1,4 +1,0 @@
-route:             172.20.6.32/27
-origin:            AS4242423968
-mnt-by:            ZEBMCCORKLE-MNT
-bgp-status:        inactive 1489219205

@@ -1,0 +1,8 @@
+as-block:          AS64856 - AS64999
+@as-min:           AS000064856
+@as-max:           AS000064999
+descr:             dn42 native ASN block
+remarks:           This block was allocated to encourage people to use the private AS range reserved
+remarks:           By IANA instead of the 76100-76199 block.
+mnt-by:            DUMMY-MNT
+policy:            ask

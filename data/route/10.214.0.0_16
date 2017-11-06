@@ -2,4 +2,4 @@ route:             10.214.0.0/16
 descr:             Freifunk Karlsruhe
 remarks:           Freifunk Karlsruhe network route
 origin:            AS65081
-mnt-by:           DUMMY-MNT
+mnt-by:           FREIFUNKDUMMY-MNT

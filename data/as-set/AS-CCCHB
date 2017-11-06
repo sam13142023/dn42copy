@@ -1,0 +1,22 @@
+as-set:   AS-CCCHB
+descr:    CCCHB dn42 ASN block
+admin-c:  CREST-DN42
+admin-c:  CREST-DN42
+mnt-by:   CREST-MNT
+remarks:  as-block: 64824 - 64839
+x-members:  AS64824
+x-members:  AS64825
+x-members:  AS64826
+x-members:  AS64827
+x-members:  AS64828
+x-members:  AS64829
+x-members:  AS64830
+x-members:  AS64831
+x-members:  AS64832
+x-members:  AS64833
+x-members:  AS64834
+x-members:  AS64835
+x-members:  AS64836
+x-members:  AS64837
+x-members:  AS64838
+x-members:  AS64839

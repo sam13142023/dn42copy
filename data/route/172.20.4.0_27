@@ -1,5 +1,0 @@
-route:             172.20.4.0/27
-descr:             SIRTM Route
-origin:            AS4242421075
-mnt-by:            SIRTM-MNT
-bgp-status:        inactive 1478376004

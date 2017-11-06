@@ -6,7 +6,7 @@ nserver:           xuu.root.dn42                   172.22.141.132
 nserver:           grmml.root.dn42            172.23.149.20
 nserver:           prauscher.root.dn42        172.22.120.1
 policy:            reserved
-remarks:           Not free for direct assignemnts, please use sub-allocated blocks
+remarks:           Not free for direct assignments, please use sub-allocated blocks
 admin-c:           NIXNODES-DN42
 admin-c:           SOURIS-DN42
 admin-c:           GRMML-DN42

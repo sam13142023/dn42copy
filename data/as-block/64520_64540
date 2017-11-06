@@ -1,6 +1,0 @@
-as-block:          64520 - 64540
-descr:             NixNodes user allocation ASN pool
-policy:            ask
-remarks:           * For end-user assignment
-admin-c:           NIXNODES-DN42
-mnt-by:            NIXNODES-MNT

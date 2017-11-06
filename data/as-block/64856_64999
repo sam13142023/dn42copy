@@ -1,6 +1,0 @@
-as-block:          64856 - 64999
-descr:             dn42 native ASN block
-remarks:            this block was allocated to encourage people to use the private AS range reserved
-remarks:            by IANA instead of the 76100-76199 block.
-mnt-by:            DUMMY-MNT
-policy:            open
