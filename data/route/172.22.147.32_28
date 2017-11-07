@@ -1,0 +1,4 @@
+route:             172.22.147.32_28
+origin:            AS4242423640
+mnt-by:            HESSENET-MNT
+bgp-status:        active
