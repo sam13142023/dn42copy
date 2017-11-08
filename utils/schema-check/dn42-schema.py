@@ -487,7 +487,7 @@ def test_policy(obj_type, name, mntner):
         mask = "%03d" %(mask)
 
         log.info([Lnet, Hnet, mask])
-        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"], 
+        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"],
                    {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "lt=" + mask})
         log.info(lis)
 
@@ -628,7 +628,7 @@ def test_policy(obj_type, name, mntner):
         if policy[select]["policy"] == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
-        
+
         # 3. Check if mntner or mnt-lower for any as-block in the tree.
         elif mntner in mntners:
             log.notice("%s has mnt in parent object" %(mntner))
@@ -660,7 +660,7 @@ def test_policy(obj_type, name, mntner):
         # 2. Check if the parent as-blocks have an open policy
         Lasn = "AS{:0>9}".format(Lname[2:])
         Hasn = "AS{:0>9}".format(Hname[2:])
-        
+
         if Lasn > Hasn:
             log.error("%s should come before %s" %(Lname, Hname))
 
@@ -694,13 +694,12 @@ def test_policy(obj_type, name, mntner):
 
         # 3. Check if mntner or mnt-lower for any as-block in the tree.
         if mntner in mntners:
-            log.notice("%s has mnt in parent object" %(mntner))            
+            log.notice("%s has mnt in parent object" %(mntner))
             return "PASS"
-
         pass
 
     log.error("%s does not pass checks for %s %s" %(mntner, obj_type, name))
-    return "FAIL" 
+    return "FAIL"
 
 def get_args():
     """Get and parse command line arguments"""
@@ -822,9 +821,11 @@ if __name__ == '__main__':
 
         if args["mntner"] is None:
             log.fatal("Mntner should be provided")
-            
 
-        status = test_policy(args["type"], args["name"], args["mntner"])        
+        if args["type"] in ["inetnum","inet6num","route","route6"]:
+            args["name"] = args["name"].replace("_","/")
+
+        status = test_policy(args["type"], args["name"], args["mntner"])
 
         print("POLICY", args["mntner"], args["type"], args["name"], status)
         if status != "PASS":
@@ -896,8 +897,7 @@ if __name__ == '__main__':
             continue
             if first:
                 first = False
-                print(inet["cidr"]," ", ilvl, ",".join(inet["mnt-by"])) 
-                print("            > ", o["route"][0], " ", rlvl, " ", ",".join(o["mnt-by"])) 
+                print(inet["cidr"]," ", ilvl, ",".join(inet["mnt-by"]))
+                print("            > ", o["route"][0], " ", rlvl, " ", ",".join(o["mnt-by"]))
             else:
-                print("            > ", o["route"][0], " ", rlvl, " ", ",".join(o["mnt-by"])) 
-                
+                print("            > ", o["route"][0], " ", rlvl, " ", ",".join(o["mnt-by"]))
