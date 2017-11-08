@@ -412,6 +412,7 @@ def inet6range(inet):
     ip, mask = inet.split('/')
     mask = int(mask)
 
+    log.debug(ip)
     ip = expand_ipv6(ip)
 
     if mask == 128:
@@ -513,7 +514,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select]["policy"] == "open":
+        elif policy[select].get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -538,7 +539,7 @@ def test_policy(obj_type, name, mntner):
             log.error("%s does not have mnt for current object" %(mntner))
             return status
 
-        if args["type"] == "inetnum":
+        if args["type"] == "route":
             Lnet, Hnet, mask = inetrange(name)
         else:
             Lnet, Hnet, mask = inet6range(name)
@@ -571,7 +572,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select]["policy"] == "open":
+        elif policy[select].get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -625,7 +626,7 @@ def test_policy(obj_type, name, mntner):
             elif select[0]<=k[0] or select[1]>=k[1]:
                 select = k
 
-        if policy[select]["policy"] == "open":
+        if policy[select].get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
