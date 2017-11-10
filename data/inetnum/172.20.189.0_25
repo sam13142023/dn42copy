@@ -4,6 +4,6 @@ descr:             UTLEYCC KS Network
 country:           US
 admin-c:           JUTLEY-DN42
 tech-c:            JUTLEY-DN42
-mnt-by:            JUTLEY-MNT
+mnt-by:            UTLEYCCKS-MNT
 status:            ASSIGNED
-cidr:		       172.20.189.0/25
+cidr:	           172.20.189.0/25

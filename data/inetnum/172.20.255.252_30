@@ -1,6 +1,6 @@
 inetnum:           172.20.255.252 - 172.20.255.255
 netname:           ANDI-KNORRIE-TRANSFER
-cidr:              172.20.240.252/30
+cidr:              172.20.255.252/30
 descr:             andi-
 country:           DE
 admin-c:           ANDI-DN42

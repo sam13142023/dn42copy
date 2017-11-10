@@ -1,6 +1,6 @@
 inetnum:           172.20.255.248 - 172.20.255.251
 netname:           ANDI-VULTR-TRANSFER
-cidr:              172.20.240.248/30
+cidr:              172.20.255.248/30
 descr:             andi-
 country:           DE
 admin-c:           ANDI-DN42
