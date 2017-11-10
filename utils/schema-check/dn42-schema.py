@@ -20,6 +20,8 @@ class SchemaDOM:
     schema = None
     name = None
     ref = None
+    primary = None
+    type = None
 
     def __init__(self, fn):
         self.src = fn
@@ -39,6 +41,7 @@ class SchemaDOM:
 
             v = v.split()
             key = v.pop(0)
+
             schema[key] = set()
             for i in v:
                 if i == ">":
@@ -47,7 +50,11 @@ class SchemaDOM:
                 schema[key].add(i)
 
             for k, v in schema.items():
+                if 'schema' in v:
+                    self.type = k
+
                 if 'primary' in v:
+                    self.primary = k
                     schema[k].add("oneline")
                     if "multiline" in v:
                         schema[k].remove("multiline")
@@ -71,7 +78,6 @@ class SchemaDOM:
 
     def check_file(self, f, lookups=None):
         status = "PASS"
-
         for k, v in self.schema.items():
             if 'required' in v and k not in f.keys:
                 log.error(
@@ -102,6 +108,10 @@ class SchemaDOM:
                     status = "FAIL"
 
         for k, v, l in f.dom:
+            if k == self.primary and  not f.src.endswith("/" + v.replace("/","_").replace(" ","")):
+                log.error("%s Line %d: Primary [%s: %s] does not match filename." % (f.src, l, k, v))
+                status = "FAIL"
+
             if k.startswith("x-"):
                 log.info("%s Line %d: Key [%s] is user defined." % (f.src, l, k))
 

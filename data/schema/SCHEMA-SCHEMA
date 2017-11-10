@@ -1,7 +1,7 @@
 schema:   SCHEMA-SCHEMA
 ref:      dn42.schema
-key:      schema   required  single    schema   > [name] 
-key:      ref      required  single    primary  > [schema]
+key:      schema   required  single    schema primary  > [name] 
+key:      ref      required  single    > [schema]
 key:      key      required  multiple  > [key-name] 
                                          {required|optional|recommend|deprecate} 
                                          {one|many} {single|multi} {primary|} {schema|} 
