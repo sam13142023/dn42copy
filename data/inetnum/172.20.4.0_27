@@ -5,7 +5,6 @@ country:           SE
 admin-c:           ES-DN42
 tech-c:            ES-DN42
 mnt-by:            SKOG-MNT
-nserver:           SE
-status:            ALLOCATED
+status:            ASSIGNED
 bgp-status:        active
 cidr:		   172.20.4.0/27
