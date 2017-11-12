@@ -1,0 +1,11 @@
+inetnum:           172.20.4.0-172.20.4.31
+netname:           SKOGNET-AS
+descr:             Skog Network
+country:           SE
+admin-c:           ES-DN42
+tech-c:            ES-DN42
+mnt-by:            SKOG-MNT
+nserver:           SE
+status:            ALLOCATED
+bgp-status:        active
+cidr:		   172.20.4.0/27
