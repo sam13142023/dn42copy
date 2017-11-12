@@ -1,5 +1,5 @@
 route:             172.20.206.128/25
 descr:             Khaled
-origin:            AS4242428750
+origin:            AS4242420136
 mnt-by:            KHALED-MNT
 bgp-status:        inactive 1504454408
