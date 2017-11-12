@@ -1,6 +1,6 @@
-mntner:            TEST2-MNT
-descr:             i like hamburgers
-auth:              ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINpgNnxR4KvmhE9MNF4vNUhtHS8SlKMqdgX43BMvVOhL
-admin-c:           DUMMY-DN42
-tech-c:            DUMMY-DN42
-mnt-by:            TEST2-MNT
+mntner:       TEST2-MNT
+descr:        new mntner for fun and awesome
+auth:         #ssh-ed25519 AAAAC...
+admin-c:      DUMMY-DN42
+tech-c:       DUMMY-DN42
+mnt-by:       TEST2-MNT
