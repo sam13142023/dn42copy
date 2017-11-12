@@ -374,7 +374,10 @@ def http_get(server, url, query=None, headers=None):
     if "application/json" in req.getheader("Content-Type", "application/json"):
         if req.status > 299:
             return {}
-        return json.loads(req.read())
+        r = req.read()
+        if not isinstance(r, str):
+           r = r.decode("utf-8")
+        return json.loads(r)
 
     if req.status > 299:
         return ""
