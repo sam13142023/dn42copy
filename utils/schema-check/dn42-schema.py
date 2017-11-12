@@ -108,7 +108,7 @@ class SchemaDOM:
                     status = "FAIL"
 
         for k, v, l in f.dom:
-            if k == self.primary and  not f.src.endswith("/" + v.replace("/","_").replace(" ","")):
+            if k == self.primary and  not f.src.endswith(v.replace("/","_").replace(" ","")):
                 log.error("%s Line %d: Primary [%s: %s] does not match filename." % (f.src, l, k, v))
                 status = "FAIL"
 
@@ -181,9 +181,6 @@ class FileDOM:
 
                     last_multi = None
 
-                if dom[-1][0] == 'use-schema':
-                    schema = dom[-1][1]
-
                 if dom[-1][0] == 'mnt-by':
                     mntner.append(dom[-1][1])
 
@@ -191,7 +188,7 @@ class FileDOM:
         self.keys = keys
         self.multi = multi
         self.mntner = mntner
-        self.schema = schema
+        self.schema = SCHEMA_NAMESPACE + dom[0][0]
         self.src = src
 
     def __str__(self):
@@ -253,7 +250,7 @@ def scan_index(infile, mntner=None):
         for line in f.readlines():
             line = line.split()
             idx[(line[0], line[1])] = line[2:]
-            if line[0] == SCHEMA_NAMEPACE + 'schema':
+            if line[0] == SCHEMA_NAMESPACE + 'schema':
                 s = SchemaDOM(line[2])
                 log.info("read schema: %s" % (s.name))
                 schemas[s.ref] = s
@@ -261,8 +258,8 @@ def scan_index(infile, mntner=None):
     return __scan_index(idx, schemas, mntner)
 
 
-def scan_files(path, mntner=None):
-    arr = __index_files(path)
+def scan_files(path, mntner=None, use_file=None):
+    arr = __index_files(path, use_file)
 
     idx = {}
     schemas = {}
@@ -274,9 +271,10 @@ def scan_files(path, mntner=None):
             log.info("read schema: %s" % (s.name))
             schemas[s.ref] = s
 
-    return __scan_index(idx, schemas, mntner)
+    return __scan_index(idx, schemas, mntner, use_file)
 
-def __scan_index(idx, schemas, mntner):
+
+def __scan_index(idx, schemas, mntner, use_file):
     ok = True
     for k, v in idx.items():
         log.debug(k)
@@ -285,6 +283,9 @@ def __scan_index(idx, schemas, mntner):
             mlist = v[1].split(",")
 
         if mntner is not None and mntner not in mlist:
+            continue
+
+        if use_file is not None and use_file != v[0]:
             continue
 
         s = schemas.get(k[0], None)
@@ -302,7 +303,7 @@ def __scan_index(idx, schemas, mntner):
     return ok
 
 
-def __index_files(path):
+def __index_files(path, use_file):
     xlat = {
         "dns/":          SCHEMA_NAMESPACE + "domain",
         "inetnum/":      SCHEMA_NAMESPACE + "inetnum",
@@ -325,20 +326,19 @@ def __index_files(path):
         ignore = True
         for t in xlat.keys():
             if root+"/" == os.path.join(path, t):
-               ignore = False
-               break
+              ignore = False
+              break
         if ignore:
-           continue
+          continue
 
         for f in files:
-
             dom = FileDOM(os.path.join(root, f))
-
-            for t, s in xlat.items():
-                if dom.src.startswith(os.path.join(path, t)):
-                    dom.schema = s
-
             yield (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner))
+
+    if use_file is not None:
+            dom = FileDOM(use_file)
+            yield (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner))
+
 
 
 def index_files(path):
@@ -757,6 +757,8 @@ def get_args():
         'path',  nargs="?", help="Path for dn42 data", type=str)
     parser_scan.add_argument('-m',  '--use-mntner', nargs='?',
                              help="Only scan files that has a matching MNT [Default None]", action="store")
+    parser_scan.add_argument('-f',  '--use-file', nargs='?',
+                             help="Only scan file given [Default None]", action="store")
 
     parser_fmt = subparsers.add_parser('fmt', help='Format file')
     parser_fmt.add_argument(
@@ -809,7 +811,7 @@ if __name__ == '__main__':
     elif args["command"] == "scan":
         import time
         log.notice("## Scan Started at %s" %(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())))
-        ck = scan_files(args["path"], args["use_mntner"])
+        ck = scan_files(args["path"], args["use_mntner"], args["use_file"])
         log.notice("## Scan Completed at %s" %(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())))
 
         if ck == "INFO":
