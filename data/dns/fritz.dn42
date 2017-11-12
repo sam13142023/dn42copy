@@ -1,9 +1,0 @@
-domain:            fritz.dn42
-remarks:           Workaround to unbreak reverse DNS for my subnet,
-remarks:           which has its nameservers hardcoded to ns[34].fritz.dn42
-admin-c:           LUTOMA-DN42
-tech-c:            LUTOMA-DN42
-mnt-by:            LUTOMA-MNT
-mnt-by:            FRITZ-MNT
-nserver:           ns1.lutoma.dn42
-status:            EVALPEND 1507027029

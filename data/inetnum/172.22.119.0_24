@@ -1,9 +1,0 @@
-inetnum:            172.22.119.0 - 172.22.119.255
-netname:            REALLOCATED-NET-172-22-119-0-24-DNS
-descr:              Workaround DNS limitation of delegating nets </24
-status:             ASSIGNED
-nserver:            ns3.fritz.dn42
-nserver:            ns4.fritz.dn42
-bgp-status: active
-cidr:		172.22.119.0/24
-mnt-by:           DUMMY-MNT
