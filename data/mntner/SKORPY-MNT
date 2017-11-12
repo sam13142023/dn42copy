@@ -3,4 +3,4 @@ sha512-pw:         OWRjNWExMTI4NmFiNWM2YmY4YmRkNzExYzNhZjAzMGFmN2QyZTJlZjk0MzA1Y
 admin-c:           SKORPY-DN42
 tech-c:            SKORPY-DN42
 mnt-by:            SKORPY-MNT
-remarks:           ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFYg8XGNMkfUGISdaFm3JTVzLMywX893qkn/I3AA1Fvr
+auth:           ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFYg8XGNMkfUGISdaFm3JTVzLMywX893qkn/I3AA1Fvr
