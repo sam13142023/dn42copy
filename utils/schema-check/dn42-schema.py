@@ -530,7 +530,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select].get("policy","closed") == "open":
+        elif policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -588,7 +588,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select].get("policy","closed") == "open":
+        elif policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -642,7 +642,7 @@ def test_policy(obj_type, name, mntner):
             elif select[0]<=k[0] or select[1]>=k[1]:
                 select = k
 
-        if policy[select].get("policy","closed") == "open":
+        if policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -846,7 +846,7 @@ if __name__ == '__main__':
 
         status = test_policy(args["type"], args["name"], args["mntner"])
 
-        print("POLICY %12s\t%12s\t%20s\t%s" %(args["mntner"], args["type"], args["name"], status))
+        print("POLICY %-12s\t%-8s\t%20s\t%s" %(args["mntner"], args["type"], args["name"], status))
         if status != "PASS":
             sys.exit(1)
 
