@@ -1,4 +1,4 @@
-inetnum:           172.22.116.0 - 172.22.116.31
+inetnum:           172.22.116.0 - 172.22.116.63
 netname:           GIGA-IP4-NET
 country:           DE
 admin-c:           GIGA-DN42
@@ -6,4 +6,4 @@ tech-c:            GIGA-DN42
 mnt-by:            GIGA-MNT
 status:            ASSIGNED
 bgp-status:        inactive 1497398404
-cidr:		172.22.116.0/27
+cidr:              172.22.116.0/26
