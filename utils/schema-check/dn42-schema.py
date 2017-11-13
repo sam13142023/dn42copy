@@ -846,7 +846,7 @@ if __name__ == '__main__':
 
         status = test_policy(args["type"], args["name"], args["mntner"])
 
-        print("POLICY", args["mntner"], args["type"], args["name"], status)
+        print("POLICY %12s\t%12s\t%20s\t%s" %(args["mntner"], args["type"], args["name"], status))
         if status != "PASS":
             sys.exit(1)
 
