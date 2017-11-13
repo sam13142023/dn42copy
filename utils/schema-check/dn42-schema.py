@@ -463,6 +463,7 @@ def test_policy(obj_type, name, mntner):
             return "FAIL"
 
         lis = find(["mnt-by"], {"@type": obj_type, "@name": name})
+        log.debug(lis)
 
         if len(lis) == 0:
             log.notice("%s does not currently exist" %(name))
@@ -471,11 +472,13 @@ def test_policy(obj_type, name, mntner):
         status = 'FAIL'
         for o in lis:
             for n in o:
+                log.debug(n)
+                log.debug(mntner)
                 if n[0] == "mnt-by" and n[1] == mntner:
                     status = 'PASS'
-                    log.error("%s does not have mnt for object" %(mntner))
                     return status
 
+        log.error("%s does not have mnt for object" %(mntner))
         return status
 
     elif args["type"] in ["inetnum","inet6num"]:
