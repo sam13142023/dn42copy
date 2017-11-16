@@ -4,3 +4,4 @@ sha512-pw:         OTQwYTllYTUzYmIzYWI1OGMzZjk0ZjFmM2RhNTFmYTBlYWIwNDM1ZDc2YjZmZ
 admin-c:           SIN-DN42
 tech-c:            SIN-DN42
 mnt-by:            2F30-MNT
+auth:              ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID5g/3rC5UVtJ0/vUCiUrWBWY3pXMkwwHvsarDwsRScv
