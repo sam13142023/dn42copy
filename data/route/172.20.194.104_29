@@ -1,5 +1,0 @@
-route:             172.20.194.104/29
-descr:             PB-US Route
-origin:            AS4242428001
-mnt-by:            PB-MNT
-bgp-status:        inactive 1492306865

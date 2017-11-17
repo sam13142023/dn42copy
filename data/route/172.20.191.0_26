@@ -1,5 +1,0 @@
-route:             172.20.191.0/26
-descr:             RC2000-DN42NET
-origin:            AS4242428383
-mnt-by:            RACHA2000-MNT
-bgp-status:        inactive 1504036830

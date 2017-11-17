@@ -1,7 +1,0 @@
-aut-num:            AS76127
-as-name:            MD-AS
-descr:              md DN42 network
-admin-c:            MD-DN42
-tech-c:             MD-DN42
-
-mnt-by:           DUMMY-MNT

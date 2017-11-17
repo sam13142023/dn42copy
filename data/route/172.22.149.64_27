@@ -1,5 +1,0 @@
-route:             172.22.149.64/27
-descr:             Network by Preuss.IO
-origin:            AS4242428598
-mnt-by:            PREUSSIO-MNT
-bgp-status:        inactive 1474718403

@@ -1,5 +1,0 @@
-route:             172.20.7.0/24
-descr:             Basil Maim
-origin:            AS4242428250
-mnt-by:            BASIL-MNT
-bgp-status:        active

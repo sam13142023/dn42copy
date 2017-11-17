@@ -1,5 +1,0 @@
-route:             172.20.194.96/29
-descr:             PB-ZA Route
-origin:            AS4242428000
-mnt-by:            PB-MNT
-bgp-status:        inactive 1492306865

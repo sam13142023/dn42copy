@@ -1,4 +1,0 @@
-route:             172.22.149.104/29
-origin:            AS4242428600
-mnt-by:            BUNSENLABS-MNT
-bgp-status:        inactive 1470571207

@@ -1,6 +1,0 @@
-route:              172.23.174.0/23
-descr:              smrsh ip4 dn42 route
-origin:             AS76167
-
-bgp-status: inactive 1505131213
-mnt-by:           DUMMY-MNT

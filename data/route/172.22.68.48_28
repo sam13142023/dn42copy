@@ -1,5 +1,0 @@
-route:             172.22.68.48/28
-descr:             MADONIUS-HM
-origin:            AS4242427780
-mnt-by:            MADONIUS-MNT
-bgp-status:        inactive 1473364803

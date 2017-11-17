@@ -1,5 +1,0 @@
-route:             172.22.127.64/27
-descr:             Blackhole Network Tawan
-origin:            AS4242428258
-mnt-by:            BLACKHOLE-TW-MNT
-bgp-status:        inactive 1484280004

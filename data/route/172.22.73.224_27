@@ -1,5 +1,0 @@
-route:             172.22.73.224/27
-descr:             172.22.73.224/27
-origin:            AS4242428443
-mnt-by:            FUSL-MNT
-bgp-status:        inactive 1501560007
