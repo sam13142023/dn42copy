@@ -1,4 +1,0 @@
-route:             172.22.116.112/28
-origin:            AS4242429960
-mnt-by:            AMW-MNT
-bgp-status:        inactive 1483531204

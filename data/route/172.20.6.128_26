@@ -1,4 +1,0 @@
-route:             172.20.6.128/26
-origin:            AS4242429389
-mnt-by:            SKRIK-MNT
-bgp-status:        inactive 1492306865

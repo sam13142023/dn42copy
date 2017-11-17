@@ -1,4 +1,0 @@
-route:             172.20.234.64/26
-origin:            AS4242429666
-mnt-by:            SERIPHYDE-MNT
-bgp-status:        inactive 1477382403

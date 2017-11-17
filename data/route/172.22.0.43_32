@@ -1,6 +1,5 @@
 route:             172.22.0.43/32
 descr:             dn42 anycast whois
-origin:            AS76103
 mnt-by:            NIXNODES-MNT
 origin:            AS4242420101
 mnt-by:            HEXA-MNT

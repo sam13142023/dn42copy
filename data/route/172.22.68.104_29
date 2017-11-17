@@ -1,5 +1,0 @@
-route:             172.22.68.104/29
-descr:             Froztnet DE
-origin:            AS4242427332
-mnt-by:            FROZTNET-MNT
-bgp-status:        inactive 1494014403

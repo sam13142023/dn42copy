@@ -1,4 +1,0 @@
-route:             172.22.148.224/28
-origin:            AS4242427070
-mnt-by:            MRJACK-MNT
-bgp-status:        inactive 1482364805

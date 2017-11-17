@@ -1,4 +1,0 @@
-route:             172.20.190.80/28
-origin:            AS4242429888
-mnt-by:            GYC-MNT
-bgp-status:        inactive 1492306865

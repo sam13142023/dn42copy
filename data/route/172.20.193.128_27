@@ -1,5 +1,0 @@
-route:             172.20.193.128/27
-descr:             SORIN-NET
-origin:            AS4242428591
-mnt-by:            SORIN-MNT
-bgp-status:        inactive 1467432004
