@@ -1,8 +1,0 @@
-aut-num:            AS76200
-org:                ORG-CCCHB
-as-name:            EASTBIT-AS
-descr:              eastbit's home AS
-remarks:             route information goes here
-admin-c:            EASTBIT-DN42
-tech-c:             EASTBIT-DN42
-mnt-by:           DUMMY-MNT
