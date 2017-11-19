@@ -2,5 +2,5 @@ domain:            adnidor.dn42
 admin-c:           ADNIDOR-DN42
 tech-c:            ADNIDOR-DN42
 mnt-by:            ADNIDOR-MNT
-nserver:           router1.adnidor.dn42 172.20.4.33
+nserver:           ns.adnidor.dn42 172.20.4.33
 status:            EVALPEND 1493029141
