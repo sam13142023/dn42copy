@@ -1,4 +1,4 @@
-route:             172.23.0.80/28
+route:             172.23.0.80/32
 descr:             dn42 wiki anycast
 origin:            AS4242420122
 origin:            AS64737

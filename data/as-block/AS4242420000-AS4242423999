@@ -5,4 +5,3 @@ remarks:           You can freely register any ASN in this block.
 remarks:           However, please don't allocate sub-blocks in this ASN space.
 mnt-by:            DUMMY-MNT
 policy:            open
-

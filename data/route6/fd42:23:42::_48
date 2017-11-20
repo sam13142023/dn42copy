@@ -1,4 +1,4 @@
-route:             172.23.42.0/24
+route:             fd42:23:42::/48
 origin:            AS64600
 origin:            AS4242420101
 mnt-by:            HEXA-MNT

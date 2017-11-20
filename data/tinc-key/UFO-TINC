@@ -4,7 +4,6 @@ tinc-file:
 	Subnet = 172.22.255.183
 	Address = AnoRtr.UFO-Net.nl
 	Port = 659
-
 	-----BEGIN RSA PUBLIC KEY-----
 	MIIBCgKCAQEAq2cggqGKw8nX8dg07/XejASCHZkjL81reFjRF5Y7wWDh+9T8upyX
 	t/+VAnylr8vvXyVSZ2J0an1nva3OWh8tzRanDGR2grrXJcrpZeVSRJhzyHqkAMJb

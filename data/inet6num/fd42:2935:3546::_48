@@ -5,5 +5,5 @@ country:           BE
 admin-c:           ALTF4-DN42
 tech-c:            ALTF4-DN42
 mnt-by:            ALTF4-MNT
-status:            ASSIGNMENT
+status:            ASSIGNED
 cidr:              fd42:2935:3546::/48

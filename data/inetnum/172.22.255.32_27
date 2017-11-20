@@ -7,5 +7,4 @@ tech-c:            STV0G-DN42
 mnt-by:            NULLL-MNT
 status:            ASSIGNED
 bgp-status:        ignore
-
 cidr:		172.22.255.32/27
