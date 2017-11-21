@@ -1,7 +1,6 @@
 route:             172.23.0.53/32
 origin:            AS4242420022
 origin:            AS64737
-origin:            AS4242420122
 origin:            AS4242420123
 origin:            AS76198
 origin:            AS4242420630
