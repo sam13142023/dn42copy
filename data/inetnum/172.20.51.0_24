@@ -1,0 +1,12 @@
+inetnum:           172.20.51.0 - 172.20.51.255
+netname:           RLKT-NET
+descr:             Ralukat.eu test /24 subnet
+country:           AT
+admin-c:           RLKT-DN42
+tech-c:            RLKT-DN42
+mnt-by:            RLKT-MNT
+nserver:           ns0.rlkt.dn42
+nserver:           ns1.rlkt.dn42
+status:            ALLOCATED
+bgp-status:        active
+cidr:              172.20.51.0/24 
