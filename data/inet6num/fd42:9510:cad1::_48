@@ -1,0 +1,11 @@
+cidr:              fd42:9510:cad1::/48
+inet6num:          fd42:9510:cad1:0000:0000:0000:0000:0000 - fd42:9510:cad1:ffff:ffff:ffff:ffff:ffff
+netname:           COLNET-NETWORK
+descr:             Colnet Network
+country:           CO
+admin-c:           CARLOSJS-DN42
+tech-c:            CARLOSJS-DN42
+mnt-by:            CARLOSJS-MNT
+nserver:           ns1.colnet.dn42
+nserver:           ns2.colnet.dn42
+status:            ASSIGNED
