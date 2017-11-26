@@ -1,0 +1,10 @@
+inetnum:           172.20.18.0-172.20.18.15
+netname:           MUTE-NET1
+descr:             MUTE-NET1
+country:           US
+admin-c:           MUTE-DN42
+tech-c:            MUTE-DN42
+mnt-by:            MUTE-MNT
+status:            ASSIGNED
+bgp-status:        active
+cidr:           172.20.18.0/28
