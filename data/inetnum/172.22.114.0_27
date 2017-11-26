@@ -1,4 +1,4 @@
-cidr:			   172.22.114.0/27
+cidr:              172.22.114.0/27
 inetnum:           172.22.114.0 - 172.22.114.31
 netname:           BPEETERS-LAB-V4
 country:           BE
