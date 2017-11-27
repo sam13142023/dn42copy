@@ -1,0 +1,10 @@
+inetnum:           172.20.28.96 - 172.20.28.127
+netname:           TIMANDO-NET
+nserver:           ns1.timando.dn42
+status:            ASSIGNED
+country:           AU
+admin-c:           TIMANDO-DN42
+tech-c:            TIMANDO-DN42
+mnt-by:            TIMANDO-MNT
+bgp-status:        active
+cidr:		172.20.28.96/27
