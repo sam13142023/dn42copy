@@ -1,0 +1,7 @@
+domain:            mute.dn42
+descr:             mute.dn42
+admin-c:           MUTE-DN42
+mnt-by:            MUTE-MNT
+tech-c:            MUTE-DN42
+nserver:           ns1.mute.dn42 172.20.18.1
+status:            EVALPEND 1511919202

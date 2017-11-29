@@ -7,4 +7,5 @@ tech-c:            MUTE-DN42
 mnt-by:            MUTE-MNT
 status:            ASSIGNED
 bgp-status:        active
+nserver:           ns1.mute.dn42
 cidr:           172.20.18.0/28

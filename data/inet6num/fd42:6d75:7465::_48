@@ -6,4 +6,5 @@ admin-c:           MUTE-DN42
 tech-c:            MUTE-DN42
 mnt-by:            MUTE-MNT
 status:            ASSIGNED
+nserver:           ns1.mute.dn42
 cidr:		fd42:6d75:7465::/48
