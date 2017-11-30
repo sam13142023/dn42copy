@@ -1,5 +1,0 @@
-route:             172.21.100.16/28
-descr:             JRB0001-SERVICES-NL-1
-origin:            AS4242420118
-mnt-by:            JRB0001-MNT
-bgp-status:        inactive 1503619207
