@@ -1,5 +1,0 @@
-route:             172.21.64.112/29
-descr:             JRB0001-SERVICES-ANYCAST
-origin:            AS4242420119
-mnt-by:            JRB0001-MNT
-bgp-status:        inactive 1499875220

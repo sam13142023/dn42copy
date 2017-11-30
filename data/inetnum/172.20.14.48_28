@@ -1,8 +1,0 @@
-inetnum:           172.20.14.48-172.20.14.63
-netname:           JRB0001-SERVICES-FR-1
-admin-c:           JRB0001-DN42
-tech-c:            JRB0001-DN42
-mnt-by:            JRB0001-MNT
-status:            ASSIGNED
-bgp-status:        active
-cidr:		172.20.14.48/28
