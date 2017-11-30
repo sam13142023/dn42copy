@@ -1,6 +1,8 @@
 aut-num:           AS64636
-as-name:           AS64636-AS
-descr:             AS64636
-admin-c:           RZL-DN42
-tech-c:            RZL-DN42
-mnt-by:            DUMMY-MNT
+as-name:           RaumZeitLabor
+descr:             RaumZeitLabor hackerspace in Mannheim, Germany
+org:               ORG-RZL
+mnt-by:            LUTOMA-MNT
+mnt-by:            FELICITUS-MNT
+mnt-by:            DOCSTEEL-MNT
+mnt-by:            HAX404-MNT
