@@ -154,7 +154,7 @@ class FileDOM:
         schema = None
         src = fn
 
-        with open(fn, "r") as f:
+        with open(fn, mode='r', encoding='utf-8') as f:
             for lineno, i in enumerate(f.readlines(), 1):
 
                 if re.match(r'[ \t]', i):
