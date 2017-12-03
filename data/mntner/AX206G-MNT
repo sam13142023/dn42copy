@@ -2,3 +2,4 @@ mntner:         AX206G-MNT
 admin-c:        AX206G-DN42
 tech-c:         AX206G-DN42
 mnt-by:         AX206G-MNT
+auth:		pgp-fingerprint D2959202DDFFD1292FB3A1F9FA8F2D40B19FF52D
