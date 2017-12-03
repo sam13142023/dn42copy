@@ -4,6 +4,4 @@ netname:           JVWJGAMES-NETWORK
 admin-c:           JVWJGAMES-DN42
 tech-c:            JVWJGAMES-DN42
 mnt-by:            JVWJGAMES-MNT
-nserver:           ns1.jvwjgames.dn42
-nserver:           ns2.jvwjgames.dn42
 status:            ASSIGNED
