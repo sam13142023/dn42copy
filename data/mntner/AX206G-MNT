@@ -3,3 +3,5 @@ admin-c:        AX206G-DN42
 tech-c:         AX206G-DN42
 mnt-by:         AX206G-MNT
 auth:		pgp-fingerprint D2959202DDFFD1292FB3A1F9FA8F2D40B19FF52D
+sha512-pw:	$6$i3IQxBS4$WWO4eE4/211Kqcv6MTZIbhtOgtK3Yi6Yrz56QwNftTcT/UKRM25m0HIMJrKq2IE.1mfXldgupaTH.m/bQvBTB0
+auth:		ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBRHNYvfS5eEMsor1snch4mbpqTidoiyIAmyUMm669cn
