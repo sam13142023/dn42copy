@@ -1,9 +1,9 @@
-inet6num:          fd00:490:cb2d:0:0:0:0:0 - fd00:490:cb2d:fff:ffff:ffff:ffff:ffff
-netname:           FXKR-DN42-IP6NET
-descr:             fxkr's dn42 network
-country:           DE
-admin-c:           FXKR-DN42
-tech-c:            FXKR-DN42
-mnt-by:            FXKR-MNT
-status:            ASSIGNED
-cidr:		fd00:490:cb2d::/52
+inet6num:           fd00:490:cb2d:0:0:0:0:0 - fd00:490:cb2d:fff:ffff:ffff:ffff:ffff
+netname:            FXKR-DN42-IP6NET
+descr:              fxkr's dn42 network
+country:            DE
+admin-c:            FXKR-DN42
+tech-c:             FXKR-DN42
+mnt-by:             FXKR-MNT
+status:             ASSIGNED
+cidr:               fd00:490:cb2d::/52

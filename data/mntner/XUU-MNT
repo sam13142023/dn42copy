@@ -1,17 +1,17 @@
-mntner:            XUU-MNT
-descr:             Xuu Maintenance Object
-remarks:           ## Example of adding pgp-fingerprint:                 ##
-remarks:           ##                                                    ##
-auth:              pgp-fingerprint 20AE2F310A74EA7CEC3AE69F8B3B0604F164E04F
-remarks:           ##                                                    ##
-remarks:           ## remove spaces from the fingerprint.                ##
-sha512-pw:         ZDdmZTAwYmFlYmM0ZWY1OWIwYTZmNmI5NzczOGY2NWFhYmM4ZGRjYWYyNjEwMGRjY2NlYTcxMjlmMGVjZjNmNjU1NjhmNzNlODcwNmE4ZDQ0NzcxZDUxYzAzMjM2NGI4YmJkODM2Nzk2YTI2YzA4Zjc5Nzg4OWNjYTNlODJmMTgzYjVhZjc4MWM2NDBiNzNkOTI0MDUzOTg2YjM0MzdmMGJiOGZkMWM2Zjg1YjY5NTM0NWZhZmRiOTlkOWVkNzNkZWRkYzJiMDlkY2FmZjU4Y2VlM2Q1YmE4YzMwMTIwYWQwYzhhNWMyZjdhZGRmNzM5YjVhNjIwN2Q4ZWIxNzJiMDNhZTY5MTk3M2IxMDcxZGRiZGU4NWRiODM0OTIxYmYxN2JkNjRlOTZmNTZkMTg2ZDYxNzlkZGEwNmJmODNkYTNhZWZkZDkzYzliYmQ4YWNiODQ1Zjc1OTAwZTg3Zjk0YWIxNDdlNTJhMjM2YmYwN2Y0OGEwZGYzOTU0NzNhZWQ0MThiOTRlYWZkZjdmYTljZmMwM2IyODc1ZjU3YTlkMDQ4ZmJjYjE5MzMxZDQ5NjE0N2Q4ZDcwYmFjYWY3M2E2MTkzMzcxOTI3NGY4OTdjN2MzMGRiZjVhMjdmZTIyODdiMDIzZTk1NGM1NDZiNmRjYzYyMzAyMGY2YTRhMTAwNWM=
-admin-c:           SOURIS-DN42
-tech-c:            SOURIS-DN42
-mnt-by:            XUU-MNT
-remarks:           pin-sha256:T1u2AVYCdcy6zEDrJhq7EBnNnOexWfsQ/lh6zXreioc=
-remarks:           pin-sha256:+HBLNXcFUf10AAR/LKmHvj+JYFzonJFQm4958OrpduM=
-remarks:           pin-sha256:HdqCid0sedWXX3Q0uG98rYjJyTNOzaT13WfWpr1GvIw=
-auth:              ed25519-pw rsD41KQVNaH2pZCY1DKRNfOw-SlrrobQLxucCSOlGTI
-auth:              ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINpgNnxR4KvmhE9MNF4vNUhtHS8SlKMqdgX43BMvVOhL
-auth:              ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAv6dr5ENW8MYdxf2wot2IDoHfqiYKbT800+STp1qOSKP8LHz7Cx0WfzAo29/sIQCd88hGKppt8XMsu5V0zqXP7+DZaIgrq4+Zt4OpaOzBvKgf7bVdJ+ygh42SDzyMz70wNACuB2saFvlFejMKY1E6R/wkBDQYbURhWMjMgtjc/jjIAGFM7BlwZsF2dkOBRRhzH6Qc0HQAXjEcbtlo5gsu7aSWI0vEDMA9a9F1Ql5SC9sT/kGCJUAMZNtt8i5MQ+iQ3FY3ur3wUcaimbfjAjqjvOy6Lgmm7B6zg91VR98htdbhgvDk3LdxFSWMl1XnkE3cku231NLTrTpwxs4smBFR/Q==
+mntner:             XUU-MNT
+descr:              Xuu Maintenance Object
+remarks:            ## Example of adding pgp-fingerprint:                 ##
+remarks:            ##                                                    ##
+auth:               pgp-fingerprint 20AE2F310A74EA7CEC3AE69F8B3B0604F164E04F
+remarks:            ##                                                    ##
+remarks:            ## remove spaces from the fingerprint.                ##
+sha512-pw:          ZDdmZTAwYmFlYmM0ZWY1OWIwYTZmNmI5NzczOGY2NWFhYmM4ZGRjYWYyNjEwMGRjY2NlYTcxMjlmMGVjZjNmNjU1NjhmNzNlODcwNmE4ZDQ0NzcxZDUxYzAzMjM2NGI4YmJkODM2Nzk2YTI2YzA4Zjc5Nzg4OWNjYTNlODJmMTgzYjVhZjc4MWM2NDBiNzNkOTI0MDUzOTg2YjM0MzdmMGJiOGZkMWM2Zjg1YjY5NTM0NWZhZmRiOTlkOWVkNzNkZWRkYzJiMDlkY2FmZjU4Y2VlM2Q1YmE4YzMwMTIwYWQwYzhhNWMyZjdhZGRmNzM5YjVhNjIwN2Q4ZWIxNzJiMDNhZTY5MTk3M2IxMDcxZGRiZGU4NWRiODM0OTIxYmYxN2JkNjRlOTZmNTZkMTg2ZDYxNzlkZGEwNmJmODNkYTNhZWZkZDkzYzliYmQ4YWNiODQ1Zjc1OTAwZTg3Zjk0YWIxNDdlNTJhMjM2YmYwN2Y0OGEwZGYzOTU0NzNhZWQ0MThiOTRlYWZkZjdmYTljZmMwM2IyODc1ZjU3YTlkMDQ4ZmJjYjE5MzMxZDQ5NjE0N2Q4ZDcwYmFjYWY3M2E2MTkzMzcxOTI3NGY4OTdjN2MzMGRiZjVhMjdmZTIyODdiMDIzZTk1NGM1NDZiNmRjYzYyMzAyMGY2YTRhMTAwNWM=
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+remarks:            pin-sha256:T1u2AVYCdcy6zEDrJhq7EBnNnOexWfsQ/lh6zXreioc=
+remarks:            pin-sha256:+HBLNXcFUf10AAR/LKmHvj+JYFzonJFQm4958OrpduM=
+remarks:            pin-sha256:HdqCid0sedWXX3Q0uG98rYjJyTNOzaT13WfWpr1GvIw=
+auth:               ed25519-pw rsD41KQVNaH2pZCY1DKRNfOw-SlrrobQLxucCSOlGTI
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINpgNnxR4KvmhE9MNF4vNUhtHS8SlKMqdgX43BMvVOhL
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAv6dr5ENW8MYdxf2wot2IDoHfqiYKbT800+STp1qOSKP8LHz7Cx0WfzAo29/sIQCd88hGKppt8XMsu5V0zqXP7+DZaIgrq4+Zt4OpaOzBvKgf7bVdJ+ygh42SDzyMz70wNACuB2saFvlFejMKY1E6R/wkBDQYbURhWMjMgtjc/jjIAGFM7BlwZsF2dkOBRRhzH6Qc0HQAXjEcbtlo5gsu7aSWI0vEDMA9a9F1Ql5SC9sT/kGCJUAMZNtt8i5MQ+iQ3FY3ur3wUcaimbfjAjqjvOy6Lgmm7B6zg91VR98htdbhgvDk3LdxFSWMl1XnkE3cku231NLTrTpwxs4smBFR/Q==

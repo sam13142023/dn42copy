@@ -1,10 +1,9 @@
 inetnum:            172.22.168.128 - 172.22.168.255
-nserver:            ns.allo.dn42 
+nserver:            ns.allo.dn42
 netname:            ALLO's dn42 network
-country:            unknown to resdb
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
 status:             ASSIGNED
-bgp-status: active
-cidr:		172.22.168.128/25
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+cidr:               172.22.168.128/25
+mnt-by:             DUMMY-MNT

@@ -1,6 +1,5 @@
 route:              172.23.138.0/23
 descr:              nazco's network
 origin:             AS76118
-
-bgp-status: active
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+mnt-by:             DUMMY-MNT

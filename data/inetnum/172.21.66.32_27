@@ -1,10 +1,10 @@
-inetnum:           172.21.66.32 - 172.21.66.63
-netname:           CSMITH-HOME
-descr:             csmith's home network
-country:           US
-admin-c:           CSMITH-DN42
-tech-c:            CSMITH-DN42
-mnt-by:            CSMITH-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1494201603
-cidr:		172.21.66.32/27
+inetnum:            172.21.66.32 - 172.21.66.63
+netname:            CSMITH-HOME
+descr:              csmith's home network
+country:            US
+admin-c:            CSMITH-DN42
+tech-c:             CSMITH-DN42
+mnt-by:             CSMITH-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1494201603
+cidr:               172.21.66.32/27

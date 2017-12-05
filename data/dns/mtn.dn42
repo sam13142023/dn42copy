@@ -1,9 +1,9 @@
-domain:            mtn.dn42
-descr:             Monotone Repo
-admin-c:           SOURIS-DN42
-tech-c:            SOURIS-DN42
-mnt-by:            XUU-MNT
-nserver:           lavana.sjc.xuu.dn42
-nserver:           kapha.mtr.xuu.dn42
-nserver:           rishi.bre.xuu.dn42
-status:            EVALPEND 1503917459
+domain:             mtn.dn42
+descr:              Monotone Repo
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            kapha.mtr.xuu.dn42
+nserver:            rishi.bre.xuu.dn42
+status:             EVALPEND 1503917459

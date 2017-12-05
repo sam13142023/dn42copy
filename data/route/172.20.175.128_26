@@ -1,5 +1,5 @@
-route:             172.20.175.128/26
-descr:             FABIAN ASAS4242423961 ROUTE
-origin:            AS4242423961
-mnt-by:            FC-MNT
-bgp-status:        inactive 1492948803
+route:              172.20.175.128/26
+descr:              FABIAN ASAS4242423961 ROUTE
+origin:             AS4242423961
+mnt-by:             FC-MNT
+bgp-status:         inactive 1492948803

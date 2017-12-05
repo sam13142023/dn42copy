@@ -1,7 +1,0 @@
-inet6num:          fd42:5d71:219:1002::-fd42:5d71:219:1002:FFFF:FFFF:FFFF:FFFF
-netname:           JRB0001-SERVICES-FR-1
-admin-c:           JRB0001-DN42
-tech-c:            JRB0001-DN42
-mnt-by:            JRB0001-MNT
-status:            ASSIGNED
-cidr:		fd42:5d71:219:1002::/64

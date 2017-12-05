@@ -6,5 +6,5 @@ admin-c:            STREHI-DN42
 tech-c:             STREHI-DN42
 status:             ASSIGNED
 mnt-by:             STREHI-DN42-MNT
-bgp-status: active
-cidr:		172.22.38.0/24
+bgp-status:         active
+cidr:               172.22.38.0/24

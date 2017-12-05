@@ -1,5 +1,4 @@
-route:          172.22.1.0/24
-origin:         AS64712
-mnt-by:         FRITZ-MNT
-bgp-status:     active
-
+route:              172.22.1.0/24
+origin:             AS64712
+mnt-by:             FRITZ-MNT
+bgp-status:         active

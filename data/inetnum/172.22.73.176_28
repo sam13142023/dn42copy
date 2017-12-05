@@ -1,9 +1,9 @@
-inetnum:           172.22.73.176-172.22.73.191
-netname:           HOMELAB-NETWORK
-country:           NL
-admin-c:           HOMELAB-DN42
-tech-c:            HOMELAB-DN42
-mnt-by:            HOMELAB-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1499875215
-cidr:		172.22.73.176/28
+inetnum:            172.22.73.176-172.22.73.191
+netname:            HOMELAB-NETWORK
+country:            NL
+admin-c:            HOMELAB-DN42
+tech-c:             HOMELAB-DN42
+mnt-by:             HOMELAB-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1499875215
+cidr:               172.22.73.176/28

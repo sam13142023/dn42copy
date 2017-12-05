@@ -1,6 +1,6 @@
-domain:            net.dn42
-admin-c:           JULEZ-DN42
-tech-c:            JULEZ-DN42
-mnt-by:            JULEZ-MNT
-nserver:           ns.julez.dn42
-status:            EVALPEND 1500546845
+domain:             net.dn42
+admin-c:            JULEZ-DN42
+tech-c:             JULEZ-DN42
+mnt-by:             JULEZ-MNT
+nserver:            ns.julez.dn42
+status:             EVALPEND 1500546845

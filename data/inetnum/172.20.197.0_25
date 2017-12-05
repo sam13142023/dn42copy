@@ -1,11 +1,11 @@
-inetnum:           172.20.197.0-172.20.197.127
-netname:           RN-NETWORK
-country:           CN
-admin-c:           RENDA-DN42
-tech-c:            RENDA-DN42
-mnt-by:            RN-MNT
-nserver:           ns1.evenet.dn42
-nserver:           ns2.evenet.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.20.197.0/25
+inetnum:            172.20.197.0-172.20.197.127
+netname:            RN-NETWORK
+country:            CN
+admin-c:            RENDA-DN42
+tech-c:             RENDA-DN42
+mnt-by:             RN-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.197.0/25

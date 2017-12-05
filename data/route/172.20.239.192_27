@@ -1,5 +1,5 @@
-route:             172.20.239.192/27
-descr:             NET-KOOCHDOG-000
-origin:            AS4242421589
-mnt-by:            KOOCHDOG-MNT
-bgp-status:        inactive 1466136006
+route:              172.20.239.192/27
+descr:              NET-KOOCHDOG-000
+origin:             AS4242421589
+mnt-by:             KOOCHDOG-MNT
+bgp-status:         inactive 1466136006

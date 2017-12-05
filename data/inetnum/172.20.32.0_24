@@ -1,11 +1,11 @@
-inetnum:           172.20.32.0 - 172.20.32.255
-netname:           IBG10-HOME-NETWORK
-country:           DE
-admin-c:           FLEAZ-DN42
-tech-c:            FLEAZ-DN42
-mnt-by:            FLEAZ-MNT
-mnt-by:            EVILET-MNT
-nserver:           ns1.fleaz.dn42
-status:            ALLOCATED
-bgp-status:        active
-cidr:		172.20.32.0/24
+inetnum:            172.20.32.0 - 172.20.32.255
+netname:            IBG10-HOME-NETWORK
+country:            DE
+admin-c:            FLEAZ-DN42
+tech-c:             FLEAZ-DN42
+mnt-by:             FLEAZ-MNT
+mnt-by:             EVILET-MNT
+nserver:            ns1.fleaz.dn42
+status:             ALLOCATED
+bgp-status:         active
+cidr:               172.20.32.0/24

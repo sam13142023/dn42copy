@@ -1,8 +1,8 @@
-aut-num:           AS4242421237
-as-name:           ATR-CORE
-descr:             ATR Inner Routing Network
-admin-c:           ALLENZ-DN42
-tech-c:            ALLENZ-DN42
-mnt-by:            ATR-MNT
-remarks:           Core internal network for ATR
-remarks:           See AS4242421233 for peering
+aut-num:            AS4242421237
+as-name:            ATR-CORE
+descr:              ATR Inner Routing Network
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+remarks:            Core internal network for ATR
+remarks:            See AS4242421233 for peering

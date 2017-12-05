@@ -1,10 +1,10 @@
-inet6num:          fd42:23:42:0:0:0:0:0 - fd42:23:42:ffff:ffff:ffff:ffff:ffff
-cidr:              fd42:23:42::/48
-netname:           NET-HEXA
-country:           DE
-admin-c:           HEXA-DN42
-tech-c:            HEXA-DN42
-mnt-by:            HEXA-MNT
-nserver:           ns1.hexa.dn42
-nserver:           ns2.hexa.dn42
-status:            ASSIGNED
+inet6num:           fd42:23:42:0:0:0:0:0 - fd42:23:42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:23:42::/48
+netname:            NET-HEXA
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.hexa.dn42
+nserver:            ns2.hexa.dn42
+status:             ASSIGNED

@@ -1,9 +1,9 @@
-inetnum:           172.22.101.72-172.22.101.79
-netname:           THB-NETWORK-PEERING
-country:           DE
-admin-c:           THB-DN42
-tech-c:            THB-DN42
-mnt-by:            TOBIHB-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1499875213
-cidr:		172.22.101.72/29
+inetnum:            172.22.101.72-172.22.101.79
+netname:            THB-NETWORK-PEERING
+country:            DE
+admin-c:            THB-DN42
+tech-c:             THB-DN42
+mnt-by:             TOBIHB-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1499875213
+cidr:               172.22.101.72/29

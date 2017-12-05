@@ -154,7 +154,7 @@ class FileDOM:
         schema = None
         src = fn
 
-        with open(fn, "r") as f:
+        with open(fn, mode='r', encoding='utf-8') as f:
             for lineno, i in enumerate(f.readlines(), 1):
 
                 if re.match(r'[ \t]', i):
@@ -192,7 +192,7 @@ class FileDOM:
         self.src = src
 
     def __str__(self):
-        length = 13
+        length = 19
         for i in self.dom:
             if len(i[0]) > length:
                 length = len(i[0]) + 2
@@ -530,7 +530,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select].get("policy","closed") == "open":
+        elif policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -588,7 +588,7 @@ def test_policy(obj_type, name, mntner):
         if select == None:
             pass
 
-        elif policy[select].get("policy","closed") == "open":
+        elif policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -619,7 +619,7 @@ def test_policy(obj_type, name, mntner):
 
         # 2. Check if the as-block has an open policy
         asn = "AS{:0>9}".format(name[2:])
-        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], 
+        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"],
                    {"@type": "as-block","@as-min":"le=" + asn,"@as-max": "ge=" + asn})
         log.info(lis)
 
@@ -642,7 +642,7 @@ def test_policy(obj_type, name, mntner):
             elif select[0]<=k[0] or select[1]>=k[1]:
                 select = k
 
-        if policy[select].get("policy","closed") == "open":
+        if policy.get(select,{}).get("policy","closed") == "open":
             log.notice("Policy is open for parent object")
             return "PASS"
 
@@ -827,8 +827,8 @@ if __name__ == '__main__':
         if args["in_place"]:
             with open(args["infile"], 'w+') as f:
                 f.write(str(dom))
-
-        print(str(dom))
+        else:
+            print(str(dom))
 
     elif args["command"] == "policy":
 
@@ -846,7 +846,7 @@ if __name__ == '__main__':
 
         status = test_policy(args["type"], args["name"], args["mntner"])
 
-        print("POLICY", args["mntner"], args["type"], args["name"], status)
+        print("POLICY %-12s\t%-8s\t%20s\t%s" %(args["mntner"], args["type"], args["name"], status))
         if status != "PASS":
             sys.exit(1)
 

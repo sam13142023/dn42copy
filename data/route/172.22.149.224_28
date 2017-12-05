@@ -1,5 +1,5 @@
-route:             172.22.149.224/28
-descr:             SLIMEHAUS
-origin:            AS4242423069
-mnt-by:            SLIME-MNT
-bgp-status:        inactive 1473912003
+route:              172.22.149.224/28
+descr:              SLIMEHAUS
+origin:             AS4242423069
+mnt-by:             SLIME-MNT
+bgp-status:         inactive 1473912003

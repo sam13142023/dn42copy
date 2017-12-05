@@ -1,6 +1,6 @@
-aut-num:           AS4242429528
-as-name:           AS4242429528
-descr:             SPARCIE-AS
-admin-c:           SPARCIE-DN42
-tech-c:            SPARCIE-DN42
-mnt-by:            SPARCIE-MNT
+aut-num:            AS4242429528
+as-name:            AS4242429528
+descr:              SPARCIE-AS
+admin-c:            SPARCIE-DN42
+tech-c:             SPARCIE-DN42
+mnt-by:             SPARCIE-MNT

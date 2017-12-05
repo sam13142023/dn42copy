@@ -1,6 +1,6 @@
-aut-num:           AS4242421854
-as-name:           AS-HUMDAI
-descr:             Humdai Networks AS
-admin-c:           HUMDAISTEVE-DN42
-tech-c:            HUMDAISTEVE-DN42
-mnt-by:            HUMDAI-MNT
+aut-num:            AS4242421854
+as-name:            AS-HUMDAI
+descr:              Humdai Networks AS
+admin-c:            HUMDAISTEVE-DN42
+tech-c:             HUMDAISTEVE-DN42
+mnt-by:             HUMDAI-MNT

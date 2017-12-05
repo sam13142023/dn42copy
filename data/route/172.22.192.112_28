@@ -2,4 +2,4 @@ route:              172.22.192.112/28
 descr:              Internal usage
 origin:             AS64794
 mnt-by:             MORTZU-MNT
-bgp-status: inactive 1456565769
+bgp-status:         inactive 1456565769

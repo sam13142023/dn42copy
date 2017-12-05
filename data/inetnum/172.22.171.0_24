@@ -1,10 +1,9 @@
 inetnum:            172.22.171.0 - 172.22.171.255
-nserver:            ns0.docsteel.dn42 
+nserver:            ns0.docsteel.dn42
 netname:            Docsteel's dn42 Home Network
-country:            unknown to resdb
 admin-c:            DOCSTEEL-DN42
 tech-c:             DOCSTEEL-DN42
 status:             ASSIGNED
-bgp-status: inactive 1505145604
-cidr:		172.22.171.0/24
-mnt-by:           DUMMY-MNT
+bgp-status:         inactive 1505145604
+cidr:               172.22.171.0/24
+mnt-by:             DUMMY-MNT

@@ -1,12 +1,12 @@
-inetnum: 10.56.0.0 - 10.56.255.255
-remarks: ** mwu
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.mwu.g.nic.dn42
-nserver: ns2.mwu.g.nic.dn42
-nserver: ns3.mwu.g.nic.dn42
-nserver: ns4.mwu.g.nic.dn42
-cidr:		10.56.0.0/16
-netname:          Unnamed 10.56.0.0/16 Network
+inetnum:            10.56.0.0 - 10.56.255.255
+remarks:            ** mwu
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.mwu.g.nic.dn42
+nserver:            ns2.mwu.g.nic.dn42
+nserver:            ns3.mwu.g.nic.dn42
+nserver:            ns4.mwu.g.nic.dn42
+cidr:               10.56.0.0/16
+netname:            Unnamed 10.56.0.0/16 Network

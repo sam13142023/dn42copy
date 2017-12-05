@@ -1,7 +1,7 @@
-domain: ffeu
-remarks: ** euskirchen
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.euskirchen.g.nic.dn42 10.47.0.2
+domain:             ffeu
+remarks:            ** euskirchen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.euskirchen.g.nic.dn42 10.47.0.2

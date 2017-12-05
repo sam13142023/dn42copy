@@ -1,4 +1,0 @@
-route:             172.20.238.192/28
-origin:            AS4242427575
-mnt-by:            TTH-MNT
-bgp-status:        inactive 1476014406

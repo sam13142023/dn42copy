@@ -1,4 +1,4 @@
-route:             172.23.213.128/25
-origin:            AS4242420431
-mnt-by:            SLACK-MNT
-bgp-status:        inactive 1474300803
+route:              172.23.213.128/25
+origin:             AS4242420431
+mnt-by:             SLACK-MNT
+bgp-status:         inactive 1474300803

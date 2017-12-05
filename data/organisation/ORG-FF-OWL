@@ -1,6 +1,6 @@
-organisation:      ORG-FF-OWL
-org-name:          FreiFunk-OWL
-descr:             FreiFunk fuer Ostwestfalen-Lippe/Schaumburg
-admin-c:           TOBEE-DN42
-tech-c:            TOBEE-DN42
-mnt-by:            BLAZING-MNT
+organisation:       ORG-FF-OWL
+org-name:           FreiFunk-OWL
+descr:              FreiFunk fuer Ostwestfalen-Lippe/Schaumburg
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT

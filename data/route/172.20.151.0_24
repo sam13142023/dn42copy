@@ -1,6 +1,0 @@
-route:             172.20.151.0/24
-descr:             active
-remarks:           active
-origin:            AS4242427788
-mnt-by:            LIMENET-MNT
-bgp-status:        inactive 1504036830

@@ -1,11 +1,11 @@
-inetnum:           172.20.152.0 - 172.20.153.255
-netname:           NET-ERG
-descr:             Electronics Research Group Testbed
-country:           GB
-admin-c:           IRL-DN42
-tech-c:            IRL-DN42
-mnt-by:            ERG-MNT
-nserver:           ns1.erg.dn42
-status:            ASSIGNED
-bgp-status:        active
-cidr:		172.20.152.0/23
+inetnum:            172.20.152.0 - 172.20.153.255
+netname:            NET-ERG
+descr:              Electronics Research Group Testbed
+country:            GB
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             ERG-MNT
+nserver:            ns1.erg.dn42
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.20.152.0/23

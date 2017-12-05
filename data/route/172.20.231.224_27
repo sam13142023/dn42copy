@@ -1,5 +1,5 @@
-route:             172.20.231.224/27
-descr:             TBRB-NET-HOME
-origin:            AS4242423442
-mnt-by:            TBRB-MNT
-bgp-status:        inactive 1496966451
+route:              172.20.231.224/27
+descr:              TBRB-NET-HOME
+origin:             AS4242423442
+mnt-by:             TBRB-MNT
+bgp-status:         inactive 1496966451

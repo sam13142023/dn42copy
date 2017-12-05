@@ -1,8 +1,8 @@
-domain: ffmtl
-remarks: ** mittelsachsen
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: NIXNODES-MNT
-status: CONNECT
-nserver: ns1.mittelsachsen.g.nic.dn42 10.23.0.1
-nserver: ns2.mittelsachsen.g.nic.dn42 172.22.176.1
+domain:             ffmtl
+remarks:            ** mittelsachsen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             NIXNODES-MNT
+status:             CONNECT
+nserver:            ns1.mittelsachsen.g.nic.dn42 10.23.0.1
+nserver:            ns2.mittelsachsen.g.nic.dn42 172.22.176.1

@@ -1,6 +1,6 @@
-aut-num:           AS4242421342
-as-name:           MODE-AS
-org:           ORG-MODE
+aut-num:            AS4242421342
+as-name:            MODE-AS
+org:                ORG-MODE
 admin-c:            MODE-DN42
-tech-c:            MODE-DN42
-mnt-by:            MODE-MNT
+tech-c:             MODE-DN42
+mnt-by:             MODE-MNT

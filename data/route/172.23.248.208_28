@@ -1,4 +1,4 @@
-route:             172.23.248.208/28
-origin:            AS4242422481
-mnt-by:            CHULJIN-MNT
-bgp-status:        inactive 1499803354
+route:              172.23.248.208/28
+origin:             AS4242422481
+mnt-by:             CHULJIN-MNT
+bgp-status:         inactive 1499803354

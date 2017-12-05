@@ -1,4 +1,4 @@
-route6:            fd00:1337:cafe::/48
-origin:            AS64626
-mnt-by:            FEUERROT-MNT
-mnt-by:            NOMASTER-MNT
+route6:             fd00:1337:cafe::/48
+origin:             AS64626
+mnt-by:             FEUERROT-MNT
+mnt-by:             NOMASTER-MNT

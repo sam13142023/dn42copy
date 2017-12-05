@@ -1,6 +1,6 @@
-mntner:       TEST2-MNT
-descr:        new mntner for fun and awesome. neato!
-auth:         #ssh-ed25519 AAAAC...
-admin-c:      DUMMY-DN42
-tech-c:       DUMMY-DN42
-mnt-by:       TEST2-MNT
+mntner:             TEST2-MNT
+descr:              new mntner for fun and awesome. neato!
+auth:               #ssh-ed25519 AAAAC...
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             TEST2-MNT

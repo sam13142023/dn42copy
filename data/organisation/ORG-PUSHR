@@ -1,6 +1,6 @@
-organisation:      ORG-PUSHR
-org-name:          PUSHR CDN
-descr:             PUSHR CDN
-admin-c:           VICTORPUSHR-DN42
-tech-c:            VICTORPUSHR-DN42
-mnt-by:            PUSHR-MNT
+organisation:       ORG-PUSHR
+org-name:           PUSHR CDN
+descr:              PUSHR CDN
+admin-c:            VICTORPUSHR-DN42
+tech-c:             VICTORPUSHR-DN42
+mnt-by:             PUSHR-MNT

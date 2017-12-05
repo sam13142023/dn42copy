@@ -1,4 +1,4 @@
-route:             172.23.68.0/24
-origin:            AS4242421357
-mnt-by:            PSY-MNT
-bgp-status:        inactive 1486857609
+route:              172.23.68.0/24
+origin:             AS4242421357
+mnt-by:             PSY-MNT
+bgp-status:         inactive 1486857609

@@ -1,11 +1,11 @@
-inet6num:          fdef:27db:3be:0:0:0:0:0 -  fdef:27db:3be:ffff:ffff:ffff:ffff:ffff
-netname:           SPLITTER-IPV6-ALLOC-1
-descr:             AS4242423980 ipv6 range 1
-country:           BE
-admin-c:           SPLITTER-DN42
-tech-c:            SPLITTER-DN42
-mnt-by:            SPLITTER-MNT
-nserver:           ns1.splitter.dn42 fdef:27db:3be::111
-nserver:           ns2.splitter.dn42 fdef:27db:3be::222
-status:            ALLOCATED
-cidr:		fdef:27db:3be::/48
+inet6num:           fdef:27db:3be:0:0:0:0:0 -  fdef:27db:3be:ffff:ffff:ffff:ffff:ffff
+netname:            SPLITTER-IPV6-ALLOC-1
+descr:              AS4242423980 ipv6 range 1
+country:            BE
+admin-c:            SPLITTER-DN42
+tech-c:             SPLITTER-DN42
+mnt-by:             SPLITTER-MNT
+nserver:            ns1.splitter.dn42 fdef:27db:3be::111
+nserver:            ns2.splitter.dn42 fdef:27db:3be::222
+status:             ALLOCATED
+cidr:               fdef:27db:3be::/48

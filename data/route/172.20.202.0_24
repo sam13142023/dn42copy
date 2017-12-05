@@ -1,4 +1,4 @@
-route:             172.20.202.0/24
-origin:            AS4242423887
-mnt-by:            JAJO-MNT
-bgp-status:        inactive 1478995206
+route:              172.20.202.0/24
+origin:             AS4242423887
+mnt-by:             JAJO-MNT
+bgp-status:         inactive 1478995206

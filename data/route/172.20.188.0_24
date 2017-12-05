@@ -1,4 +1,4 @@
-route:             172.20.188.0/24
-origin:            AS4242421712
-mnt-by:            MT-MNT
-bgp-status:        active
+route:              172.20.188.0/24
+origin:             AS4242421712
+mnt-by:             MT-MNT
+bgp-status:         active

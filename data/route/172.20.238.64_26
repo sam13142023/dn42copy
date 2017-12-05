@@ -1,5 +1,5 @@
-route:             172.20.238.64/26
-descr:             TNT Route Object
-origin:            AS4242422642
-mnt-by:            TNT-MNT
-bgp-status:        inactive 1473724804
+route:              172.20.238.64/26
+descr:              TNT Route Object
+origin:             AS4242422642
+mnt-by:             TNT-MNT
+bgp-status:         inactive 1473724804

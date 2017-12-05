@@ -1,3 +1,3 @@
-route6:            fd42:3a16:acd::/48
-origin:            AS4242421221
-mnt-by:            NEKO-MNT
+route6:             fd42:3a16:acd::/48
+origin:             AS4242421221
+mnt-by:             NEKO-MNT

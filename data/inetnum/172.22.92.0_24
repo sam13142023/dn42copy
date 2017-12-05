@@ -6,6 +6,6 @@ admin-c:            NIHILUS-DN42
 tech-c:             NIHILUS-DN42
 status:             ASSIGNED PI
 nserver:            ns.nihilus.dn42
-bgp-status: active
-cidr:		172.22.92.0/24
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+cidr:               172.22.92.0/24
+mnt-by:             DUMMY-MNT

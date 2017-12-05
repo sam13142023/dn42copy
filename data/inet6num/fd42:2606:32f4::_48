@@ -1,7 +1,7 @@
-inet6num:          fd42:2606:32f4:: - fd42:2606:32f4:ffff:ffff:ffff:ffff:ffff
-netname:           NULLROUTE-DN42
-admin-c:           GRAWITY-DN42
-tech-c:            GRAWITY-DN42
-mnt-by:            NULLROUTE-MNT
-status:            ASSIGNED PI
-cidr:		fd42:2606:32f4::/48
+inet6num:           fd42:2606:32f4:: - fd42:2606:32f4:ffff:ffff:ffff:ffff:ffff
+netname:            NULLROUTE-DN42
+admin-c:            GRAWITY-DN42
+tech-c:             GRAWITY-DN42
+mnt-by:             NULLROUTE-MNT
+status:             ASSIGNED PI
+cidr:               fd42:2606:32f4::/48

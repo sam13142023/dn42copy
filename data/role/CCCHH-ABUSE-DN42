@@ -1,6 +1,6 @@
-role:          CCCHH-ABUSE-DN42
-abuse-mailbox: fritz+abuse@grimpen.net
-admin-c:       FRITZ-DN42
-tech-c:        FRITZ-DN42
-nic-hdl:       CCCHH-ABUSE-DN42
-mnt-by:        FRITZ-MNT
+role:               CCCHH-ABUSE-DN42
+abuse-mailbox:      fritz+abuse@grimpen.net
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+nic-hdl:            CCCHH-ABUSE-DN42
+mnt-by:             FRITZ-MNT

@@ -1,6 +1,6 @@
-aut-num:           AS4242422300
-as-name:           UNIVERSE
-descr:             -ENODESCRIPTION
-admin-c:           TRILADER-DN42
-tech-c:            TRILADER-DN42
-mnt-by:            TRILADER-MNT
+aut-num:            AS4242422300
+as-name:            UNIVERSE
+descr:              -ENODESCRIPTION
+admin-c:            TRILADER-DN42
+tech-c:             TRILADER-DN42
+mnt-by:             TRILADER-MNT

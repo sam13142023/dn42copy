@@ -1,4 +1,4 @@
-route6:            fd42:a551::/48
-descr:             ASSSI-WG
-origin:            AS4242421554
-mnt-by:            JOMAT-MNT
+route6:             fd42:a551::/48
+descr:              ASSSI-WG
+origin:             AS4242421554
+mnt-by:             JOMAT-MNT

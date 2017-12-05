@@ -1,12 +1,12 @@
-inetnum:           172.20.48.0-172.20.48.31
-netname:           MALTEJK-NET-01
-descr:             network of maltejk
-country:           DE
-admin-c:           MALTEJK-DN42
-tech-c:            MALTEJK-DN42
-mnt-by:            MALTEJK-MNT
-nserver:           dns1.maltejk.dn42
-nserver:           dns2.maltejk.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1496678402
-cidr:		172.20.48.0/27
+inetnum:            172.20.48.0-172.20.48.31
+netname:            MALTEJK-NET-01
+descr:              network of maltejk
+country:            DE
+admin-c:            MALTEJK-DN42
+tech-c:             MALTEJK-DN42
+mnt-by:             MALTEJK-MNT
+nserver:            dns1.maltejk.dn42
+nserver:            dns2.maltejk.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1496678402
+cidr:               172.20.48.0/27

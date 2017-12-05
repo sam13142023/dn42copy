@@ -1,5 +1,0 @@
-route:             172.23.173.64/27
-descr:             BWI
-origin:            AS4242427251
-mnt-by:            NONEXISTE-MNT
-bgp-status:        inactive 1497398409

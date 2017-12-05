@@ -1,4 +1,4 @@
-route:             172.20.242.128/25
-origin:            AS4242420093
-mnt-by:            WWLABS-MNT
-bgp-status:        inactive 1460865602
+route:              172.20.242.128/25
+origin:             AS4242420093
+mnt-by:             WWLABS-MNT
+bgp-status:         inactive 1460865602

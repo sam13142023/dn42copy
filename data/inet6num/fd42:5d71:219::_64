@@ -1,0 +1,7 @@
+inet6num:           fd42:5d71:219::-fd42:5d71:219:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:            JRB0001 - Nodes
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+status:             ASSIGNED PA
+cidr:               fd42:5d71:219::/64

@@ -1,9 +1,9 @@
-inetnum: 10.143.0.0 - 10.143.63.255
-remarks: ** greifswald
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.greifswald.g.nic.dn42
-cidr:		10.143.0.0/18
-netname:          Unnamed 10.143.0.0/18 Network
+inetnum:            10.143.0.0 - 10.143.63.255
+remarks:            ** greifswald
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.greifswald.g.nic.dn42
+cidr:               10.143.0.0/18
+netname:            Unnamed 10.143.0.0/18 Network

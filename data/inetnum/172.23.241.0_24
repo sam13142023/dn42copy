@@ -1,13 +1,14 @@
-inetnum:	172.23.241.0 - 172.23.241.255
-nserver:	ns.nicoo.dn42
-netname:	NICOO-DN42
-descr:		nicoo's dn42 network
-remarks:     This was allocated to connect several LANs, some of which won't
-remarks:     be in DN42 just yet (I need to physically go there)
-country:	FR, AT
-admin-c:	NICOO-DN42
-tech-c: 	NICOO-DN42
-mnt-by: 	NICOO-MNT
-status: 	ALLOCATED
-bgp-status: inactive 1496332803
-cidr:		172.23.241.0/24
+inetnum:            172.23.241.0 - 172.23.241.255
+nserver:            ns.nicoo.dn42
+netname:            NICOO-DN42
+descr:              nicoo's dn42 network
+remarks:            This was allocated to connect several LANs, some of which won't
+remarks:            be in DN42 just yet (I need to physically go there)
+country:            FR
+country:            AT
+admin-c:            NICOO-DN42
+tech-c:             NICOO-DN42
+mnt-by:             NICOO-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1496332803
+cidr:               172.23.241.0/24

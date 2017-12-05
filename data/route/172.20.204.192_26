@@ -1,5 +1,5 @@
-route:             172.20.204.192/26
-descr:             assigned to as
-origin:            AS4242421049
-mnt-by:            LEVING-MNT
-bgp-status:        active
+route:              172.20.204.192/26
+descr:              assigned to as
+origin:             AS4242421049
+mnt-by:             LEVING-MNT
+bgp-status:         active

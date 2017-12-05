@@ -1,0 +1,4 @@
+route:              fd42:6d75:7465::/48
+origin:             AS4242422030
+mnt-by:             MUTE-MNT
+bgp-status:         active

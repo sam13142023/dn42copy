@@ -1,6 +1,6 @@
-aut-num:           AS4242423990
-as-name:           MIRAGE-AS
-descr:             Appears to be real
-admin-c:           TANTOGANSO-DN42
-tech-c:            TANTOGANSO-DN42
-mnt-by:            FISTFULLOFCOPPERS-MNT
+aut-num:            AS4242423990
+as-name:            MIRAGE-AS
+descr:              Appears to be real
+admin-c:            TANTOGANSO-DN42
+tech-c:             TANTOGANSO-DN42
+mnt-by:             FISTFULLOFCOPPERS-MNT

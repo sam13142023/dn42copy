@@ -1,0 +1,9 @@
+inetnum:            172.23.42.0 - 172.23.42.255
+cidr:               172.23.42.0/24
+descr:              hexa
+netname:            HEXA-20171114
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+status:             ALLOCATED
+bgp-status:         active

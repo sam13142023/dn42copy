@@ -1,7 +1,7 @@
-aut-num:           AS4242420101
-as-name:           AS-CCCDA
-descr:             http://darmstadt.ccc.de
-org:               ORG-CCCDA
-admin-c:           HEXA-DN42
-tech-c:            HEXA-DN42
-mnt-by:            HEXA-MNT
+aut-num:            AS4242420101
+as-name:            AS-CCCDA
+descr:              http://darmstadt.ccc.de
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT

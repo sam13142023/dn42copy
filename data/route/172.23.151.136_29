@@ -1,4 +1,0 @@
-route:             172.23.151.136/29
-origin:            AS4242429009
-mnt-by:            BITS2BYTES-MNT
-bgp-status:        inactive 1504569610

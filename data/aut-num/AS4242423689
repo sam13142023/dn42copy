@@ -1,6 +1,6 @@
-aut-num:           AS4242423689
-as-name:           IMOTO-AS-CN-TAO
-descr:             IMOTO NETWORK QINGDAO DATACENTER AS
-admin-c:           IMOTO-DN42
-tech-c:            IMOTO-DN42
-mnt-by:            IMOTO-MNT
+aut-num:            AS4242423689
+as-name:            IMOTO-AS-CN-TAO
+descr:              IMOTO NETWORK QINGDAO DATACENTER AS
+admin-c:            IMOTO-DN42
+tech-c:             IMOTO-DN42
+mnt-by:             IMOTO-MNT

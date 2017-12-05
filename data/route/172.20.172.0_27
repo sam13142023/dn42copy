@@ -1,4 +1,4 @@
-route:             172.20.172.0/27
-origin:            AS4242421376
-mnt-by:            BOGDANS-MNT
-bgp-status:        inactive 1494806433
+route:              172.20.172.0/27
+origin:             AS4242421376
+mnt-by:             BOGDANS-MNT
+bgp-status:         inactive 1494806433

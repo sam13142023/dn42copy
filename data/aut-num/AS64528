@@ -1,6 +1,6 @@
-aut-num:           AS64528
-as-name:           HORIN-AS
-descr:             Horin's DN42 AS #2
-admin-c:           HORIN-DN42
-tech-c:            HORIN-DN42
-mnt-by:            NIXNODES-MNT
+aut-num:            AS64528
+as-name:            HORIN-AS
+descr:              Horin's DN42 AS #2
+admin-c:            HORIN-DN42
+tech-c:             HORIN-DN42
+mnt-by:             NIXNODES-MNT

@@ -1,10 +1,10 @@
-inetnum:           172.23.72.0 - 172.23.72.255
-netname:           NET-PR0-DN42
-descr:             pr0-Server-NET Fr
-country:           FR
-admin-c:           PR0-DN42
-tech-c:            PR0-DN42
-mnt-by:            PR0-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1492632004
-cidr:		172.23.72.0/24
+inetnum:            172.23.72.0 - 172.23.72.255
+netname:            NET-PR0-DN42
+descr:              pr0-Server-NET Fr
+country:            FR
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1492632004
+cidr:               172.23.72.0/24

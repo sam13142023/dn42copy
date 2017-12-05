@@ -1,10 +1,10 @@
-inetnum:           172.23.109.0 - 172.23.109.63
-netname:           CONTROLPLANE-NET-HQ
-descr:             CONTROLPLANE HeadQuarter
-country:           DE
-admin-c:           CONTROLPLANE-DN42
-tech-c:            CONTROLPLANE-DN42
-mnt-by:            CONTROLPLANE-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1496664003
-cidr:		172.23.109.0/26
+inetnum:            172.23.109.0 - 172.23.109.63
+netname:            CONTROLPLANE-NET-HQ
+descr:              CONTROLPLANE HeadQuarter
+country:            DE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1496664003
+cidr:               172.23.109.0/26

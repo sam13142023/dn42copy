@@ -1,7 +1,7 @@
-domain:            souris.dn42
-descr:             Souris Darknet Services
-admin-c:           SOURIS-DN42
-tech-c:            SOURIS-DN42
-mnt-by:            XUU-MNT
-nserver:           kapha.mtr.xuu.dn42
-status:            EVALPEND 1503831220
+domain:             souris.dn42
+descr:              Souris Darknet Services
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+nserver:            kapha.mtr.xuu.dn42
+status:             EVALPEND 1503831220

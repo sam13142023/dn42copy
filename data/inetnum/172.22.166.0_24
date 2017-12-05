@@ -4,6 +4,6 @@ country:            NL
 admin-c:            UFO-DN42
 tech-c:             UFO-DN42
 status:             ASSIGNED
-bgp-status: active
-cidr:		172.22.166.0/24
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+cidr:               172.22.166.0/24
+mnt-by:             DUMMY-MNT

@@ -1,5 +1,5 @@
-route:             172.20.245.224/27
-descr:             Weejits IE1 VPNs
-origin:            AS4242423212
-mnt-by:            WEEJITS-MNT
-bgp-status:        inactive 1503057607
+route:              172.20.245.224/27
+descr:              Weejits IE1 VPNs
+origin:             AS4242423212
+mnt-by:             WEEJITS-MNT
+bgp-status:         inactive 1503057607

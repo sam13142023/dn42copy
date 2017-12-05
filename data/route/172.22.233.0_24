@@ -2,4 +2,4 @@ route:              172.22.233.0/24
 descr:              fxkr's dn42 network
 origin:             AS64833
 mnt-by:             FXKR-MNT
-bgp-status: active
+bgp-status:         active

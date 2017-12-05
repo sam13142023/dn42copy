@@ -1,11 +1,11 @@
-inet6num:          fd23:42:c3d2:500:0:0:0:0 - fd23:0042:c3d2:5ff:ffff:ffff:ffff:ffff
-netname:           C3D2-GCHQ
-descr:             http://www.c3d2.de/space.html
-country:           DE
-org:           ORG-C3D2
+inet6num:           fd23:42:c3d2:500:0:0:0:0 - fd23:0042:c3d2:5ff:ffff:ffff:ffff:ffff
+netname:            C3D2-GCHQ
+descr:              http://www.c3d2.de/space.html
+country:            DE
+org:                ORG-C3D2
 admin-c:            ASTRO-DN42
-tech-c:            ASTRO-DN42
-mnt-by:            ASTRO-MNT
-nserver:           ns.c3d2.de
-status:            ALLOCATED
-cidr:		fd23:42:c3d2:500::/56
+tech-c:             ASTRO-DN42
+mnt-by:             ASTRO-MNT
+nserver:            ns.c3d2.de
+status:             ALLOCATED
+cidr:               fd23:42:c3d2:500::/56

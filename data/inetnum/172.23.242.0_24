@@ -1,12 +1,13 @@
-inetnum:	172.23.242.0 - 172.23.242.255
-netname:	NICOO-DN42-RSVR
-descr:		nicoo's dn42 network
-remarks:     This is in case a single /24 isn't enough for 4 LANs
-remarks:     It is contiguous with 172.23.241.0/24 because I have little memory ;)
-country:	FR, AT
-admin-c:	NICOO-DN42
-tech-c: 	NICOO-DN42
-mnt-by: 	NICOO-MNT
-status: 	RESERVED
-bgp-status: inactive 1496332803
-cidr:		172.23.242.0/24
+inetnum:            172.23.242.0 - 172.23.242.255
+netname:            NICOO-DN42-RSVR
+descr:              nicoo's dn42 network
+remarks:            This is in case a single /24 isn't enough for 4 LANs
+remarks:            It is contiguous with 172.23.241.0/24 because I have little memory ;)
+country:            FR
+country:            AT
+admin-c:            NICOO-DN42
+tech-c:             NICOO-DN42
+mnt-by:             NICOO-MNT
+status:             RESERVED
+bgp-status:         inactive 1496332803
+cidr:               172.23.242.0/24

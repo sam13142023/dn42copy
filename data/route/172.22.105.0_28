@@ -1,4 +1,0 @@
-route:             172.22.105.0/28
-origin:            AS4242429986
-mnt-by:            THEJIMBOB-MNT
-bgp-status:        inactive 1505592011

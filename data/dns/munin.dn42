@@ -1,7 +1,7 @@
 domain:             munin.dn42
 nserver:            ns.allo.dn42 172.22.152.2
 nserver:            ns.allo.dn42 fd10:1074:41f6::1
-status:            EVALPEND 1503917490
+status:             EVALPEND 1503917490
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

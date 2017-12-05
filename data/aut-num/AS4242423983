@@ -1,6 +1,6 @@
-aut-num:           AS4242423983
-as-name:           UNHU-AS
-descr:             UNHU ASN
-admin-c:           UNHU-DN42
-tech-c:            UNHU-DN42
-mnt-by:            UNHU-MNT
+aut-num:            AS4242423983
+as-name:            UNHU-AS
+descr:              UNHU ASN
+admin-c:            UNHU-DN42
+tech-c:             UNHU-DN42
+mnt-by:             UNHU-MNT

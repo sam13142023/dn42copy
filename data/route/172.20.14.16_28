@@ -1,5 +1,5 @@
-route:             172.20.14.16/28
-descr:             JRB0001-TRANSIT
-origin:            AS4242420118
-mnt-by:            JRB0001-MNT
-bgp-status:        active
+route:              172.20.14.16/28
+descr:              JRB0001-TRANSIT
+origin:             AS4242420118
+mnt-by:             JRB0001-MNT
+bgp-status:         active

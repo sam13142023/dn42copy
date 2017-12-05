@@ -1,10 +1,10 @@
-inetnum: 10.205.0.0 - 10.205.255.255
-remarks: ** amsterdam
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: 020-MNT
-status: ALLOCATED
-nserver: ns1.amsterdam.g.nic.dn42
-nserver: ns2.amsterdam.g.nic.dn42
-cidr:		10.205.0.0/16
-netname:          Unnamed 10.205.0.0/16 Network
+inetnum:            10.205.0.0 - 10.205.255.255
+remarks:            ** amsterdam
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             020-MNT
+status:             ALLOCATED
+nserver:            ns1.amsterdam.g.nic.dn42
+nserver:            ns2.amsterdam.g.nic.dn42
+cidr:               10.205.0.0/16
+netname:            Unnamed 10.205.0.0/16 Network

@@ -1,9 +1,8 @@
-route6:            fd42:d42:d42:80::/64
-descr:             Distributed Wiki
-origin:            AS64737
-origin:            AS4242420123
-origin:            AS76103
-mnt-by:            XUU-MNT
-mnt-by:            MIC92-MNT
-mnt-by:            GRMML-MNT
-mnt-by:            NIXNODES-MNT
+route6:             fd42:d42:d42:80::/64
+descr:              Distributed Wiki
+origin:             AS64737
+origin:             AS4242420123
+mnt-by:             XUU-MNT
+mnt-by:             MIC92-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             NIXNODES-MNT

@@ -6,6 +6,6 @@ admin-c:            NIHILUS-DN42
 tech-c:             NIHILUS-DN42
 status:             ASSIGNED PI
 nserver:            nsl.local.sublab.org
-bgp-status: inactive 1499990404
-cidr:		172.22.80.0/22
-mnt-by:           DUMMY-MNT
+bgp-status:         inactive 1499990404
+cidr:               172.22.80.0/22
+mnt-by:             DUMMY-MNT

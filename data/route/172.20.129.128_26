@@ -1,4 +1,4 @@
-route:             172.20.129.128/26
-origin:            AS4242420542
-mnt-by:            THUNDER-MNT
-bgp-status:        inactive 1495137604
+route:              172.20.129.128/26
+origin:             AS4242420542
+mnt-by:             THUNDER-MNT
+bgp-status:         inactive 1495137604

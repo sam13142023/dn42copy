@@ -1,9 +1,9 @@
-inet6num:          fd42:534e:0010:5300:0000:0000:0000:0000-fd42:534e:0010:53ff:ffff:ffff:ffff:ffff
-netname:           SKYNET-ANYCAST6-DNS
-cidr:              fd42:534e:10:5300::/56
-descr:             Skynet IPv6 anycast prefix for dns services
-admin-c:           IO-DN42
-tech-c:            IO-DN42
-mnt-by:            SKYNET-MNT
-status:            ASSIGNED
-nserver:           ns1.skynet.dn42
+inet6num:           fd42:534e:0010:5300:0000:0000:0000:0000-fd42:534e:0010:53ff:ffff:ffff:ffff:ffff
+netname:            SKYNET-ANYCAST6-DNS
+cidr:               fd42:534e:10:5300::/56
+descr:              Skynet IPv6 anycast prefix for dns services
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+status:             ASSIGNED
+nserver:            ns1.skynet.dn42

@@ -1,11 +1,11 @@
-inetnum:           172.21.89.0-172.21.89.255
-netname:           ALFAB-NET
-descr:             ALFAB-NET
-country:           FR
-admin-c:           ALFAB-DN42
-tech-c:            ALFAB-DN42
-mnt-by:            ALFAB-MNT
-nserver:           alfab.fr
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.21.89.0/24
+inetnum:            172.21.89.0-172.21.89.255
+netname:            ALFAB-NET
+descr:              ALFAB-NET
+country:            FR
+admin-c:            ALFAB-DN42
+tech-c:             ALFAB-DN42
+mnt-by:             ALFAB-MNT
+nserver:            alfab.fr
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.21.89.0/24

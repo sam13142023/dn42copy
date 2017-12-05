@@ -1,7 +1,7 @@
-domain: ffhb
-remarks: ** bremen
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: NIXNODES-MNT
-status: CONNECT
-nserver: ns1.bremen.g.nic.dn42 10.196.0.1
+domain:             ffhb
+remarks:            ** bremen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             NIXNODES-MNT
+status:             CONNECT
+nserver:            ns1.bremen.g.nic.dn42 10.196.0.1

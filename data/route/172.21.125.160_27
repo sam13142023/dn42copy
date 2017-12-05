@@ -1,5 +1,0 @@
-route:             172.21.125.160/27
-descr:             Route Object Hosting
-origin:            AS4242429991
-mnt-by:            VITALE-MNT
-bgp-status:        active

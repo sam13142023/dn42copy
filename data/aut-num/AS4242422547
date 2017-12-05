@@ -1,6 +1,6 @@
-aut-num:           AS4242422547
-as-name:           LANTIAN-AS
-descr:             Peer with me at b980120@hotmail.com
-admin-c:           LANTIAN-DN42
-tech-c:            LANTIAN-DN42
-mnt-by:            LANTIAN-MNT
+aut-num:            AS4242422547
+as-name:            LANTIAN-AS
+descr:              Peer with me at b980120@hotmail.com
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT

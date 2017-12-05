@@ -1,10 +1,10 @@
-aut-num:           AS4242420008
-as-name:           TWI-AS
-descr:             Twi's AS
-remarks:           +------------------------------------------------+
-remarks:           | For OpenVPN peering, feel free to contact me:  |
-remarks:           | dn42@twiddau.de or via IRC Twi @ hackint       | 
-remarks:           +------------------------------------------------+
-admin-c:           TWI-DN42
-tech-c:            TWI-DN42
-mnt-by:            TWI-MNT
+aut-num:            AS4242420008
+as-name:            TWI-AS
+descr:              Twi's AS
+remarks:            +------------------------------------------------+
+remarks:            | For OpenVPN peering, feel free to contact me:  |
+remarks:            | dn42@twiddau.de or via IRC Twi @ hackint       |
+remarks:            +------------------------------------------------+
+admin-c:            TWI-DN42
+tech-c:             TWI-DN42
+mnt-by:             TWI-MNT

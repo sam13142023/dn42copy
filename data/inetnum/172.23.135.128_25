@@ -1,10 +1,10 @@
-inetnum:           172.23.135.128 - 172.23.135.255
-netname:           SWORDARMOR-0
-descr:             Toulouse
-country:           FR
-admin-c:           ALARIG-DN42
-tech-c:            ALARIG-DN42
-mnt-by:            ALARIG-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1497283204
-cidr:		172.23.135.128/25
+inetnum:            172.23.135.128 - 172.23.135.255
+netname:            SWORDARMOR-0
+descr:              Toulouse
+country:            FR
+admin-c:            ALARIG-DN42
+tech-c:             ALARIG-DN42
+mnt-by:             ALARIG-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1497283204
+cidr:               172.23.135.128/25

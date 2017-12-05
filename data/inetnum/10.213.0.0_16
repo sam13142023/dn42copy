@@ -1,9 +1,9 @@
-inetnum: 10.213.0.0 - 10.213.255.255
-remarks: ** diepholz
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.diepholz.g.nic.dn42
-cidr:		10.213.0.0/16
-netname:          Unnamed 10.213.0.0/16 Network
+inetnum:            10.213.0.0 - 10.213.255.255
+remarks:            ** diepholz
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.diepholz.g.nic.dn42
+cidr:               10.213.0.0/16
+netname:            Unnamed 10.213.0.0/16 Network

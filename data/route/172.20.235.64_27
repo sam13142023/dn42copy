@@ -1,4 +1,4 @@
-route:             172.20.235.64/27
-origin:            AS4242428700
-mnt-by:            DYNAMICT-MNT
-bgp-status:        inactive 1505145607
+route:              172.20.235.64/27
+origin:             AS4242420318
+mnt-by:             DYNAMICT-MNT
+bgp-status:         active 1511440205

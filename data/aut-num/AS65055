@@ -1,8 +1,8 @@
-aut-num:           AS65055
-as-name:           FFJENA-AS
-descr:             Freifunk Jena
-remarks:             http://freifunk-jena.de/
-remarks:           * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
-admin-c:           DUMMY-DN42
-tech-c:            DUMMY-DN42
-mnt-by:            FREIFUNKDUMMY-MNT
+aut-num:            AS65055
+as-name:            FFJENA-AS
+descr:              Freifunk Jena
+remarks:            http://freifunk-jena.de/
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT

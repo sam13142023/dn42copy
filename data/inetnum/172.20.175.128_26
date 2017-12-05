@@ -1,10 +1,10 @@
-inetnum:           172.20.175.128 - 172.20.175.191
-netname:           FABIAN-NETWORK-ONE
-descr:             FABIAN-NETWORK-ONE
-country:           DE
-admin-c:           FC-DN42
-tech-c:            FC-DN42
-mnt-by:            FC-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1492948801
-cidr:		172.20.175.128/26
+inetnum:            172.20.175.128 - 172.20.175.191
+netname:            FABIAN-NETWORK-ONE
+descr:              FABIAN-NETWORK-ONE
+country:            DE
+admin-c:            FC-DN42
+tech-c:             FC-DN42
+mnt-by:             FC-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1492948801
+cidr:               172.20.175.128/26

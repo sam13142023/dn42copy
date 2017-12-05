@@ -1,7 +1,7 @@
-aut-num:           AS4242421375
-as-name:           CHELNOK-AS
-descr:             chelnok network AS
-org:           ORG-CHELNOK
+aut-num:            AS4242421375
+as-name:            CHELNOK-AS
+descr:              chelnok network AS
+org:                ORG-CHELNOK
 admin-c:            ERI-DN42
-tech-c:            ERI-DN42
-mnt-by:            ERI-MNT
+tech-c:             ERI-DN42
+mnt-by:             ERI-MNT

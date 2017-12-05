@@ -1,5 +1,5 @@
-route:             172.21.64.16/28
-descr:             FSNX IPv4 Route
-origin:            AS4242423969
-mnt-by:            FSNX-MNT
-bgp-status:        inactive 1497297606
+route:              172.21.64.16/28
+descr:              FSNX IPv4 Route
+origin:             AS4242423969
+mnt-by:             FSNX-MNT
+bgp-status:         inactive 1497297606

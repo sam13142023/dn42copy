@@ -1,5 +1,5 @@
-route:             172.20.190.144/28
-descr:             Route to own ASN ( 4242423759 )
-origin:            AS4242423759
-mnt-by:            DRATHIR-MNT
-bgp-status:        active
+route:              172.20.190.144/28
+descr:              Route to own ASN ( 4242423759 )
+origin:             AS4242423759
+mnt-by:             DRATHIR-MNT
+bgp-status:         active

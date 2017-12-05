@@ -1,5 +1,0 @@
-route:             172.23.89.128/25
-descr:             RunboNet
-origin:            AS4242428585
-mnt-by:            JARLABANKE-MNT
-bgp-status:        inactive 1464465604

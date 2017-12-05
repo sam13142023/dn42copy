@@ -1,5 +1,5 @@
-route:             172.23.119.160/28
-descr:             HSYSTEMS
-origin:            AS4242422901
-mnt-by:            HSYSTEMS-MNT
-bgp-status:        inactive 1505145608
+route:              172.23.119.160/28
+descr:              HSYSTEMS
+origin:             AS4242422901
+mnt-by:             HSYSTEMS-MNT
+bgp-status:         inactive 1505145608

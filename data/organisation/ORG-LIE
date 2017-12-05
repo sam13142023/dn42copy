@@ -1,6 +1,6 @@
-organisation:      ORG-LIE
-org-name:          LIE
-descr:             LIE
-admin-c:           LIE-DN42
-tech-c:            LIE-DN42
-mnt-by:            LIE-MNT
+organisation:       ORG-LIE
+org-name:           LIE
+descr:              LIE
+admin-c:            LIE-DN42
+tech-c:             LIE-DN42
+mnt-by:             LIE-MNT

@@ -1,4 +1,4 @@
-route:             172.20.239.248/29
-origin:            AS4242420103
-mnt-by:            TXTFILE-MNT
-bgp-status:        inactive 1466136006
+route:              172.20.239.248/29
+origin:             AS4242420103
+mnt-by:             TXTFILE-MNT
+bgp-status:         inactive 1466136006

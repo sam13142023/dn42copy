@@ -1,11 +1,11 @@
-inetnum: 10.129.0.0 - 10.129.255.255
-remarks: ** flensburg
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.flensburg.g.nic.dn42
-nserver: ns2.flensburg.g.nic.dn42
-nserver: ns3.flensburg.g.nic.dn42
-cidr:		10.129.0.0/16
-netname:          Unnamed 10.129.0.0/16 Network
+inetnum:            10.129.0.0 - 10.129.255.255
+remarks:            ** flensburg
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.flensburg.g.nic.dn42
+nserver:            ns2.flensburg.g.nic.dn42
+nserver:            ns3.flensburg.g.nic.dn42
+cidr:               10.129.0.0/16
+netname:            Unnamed 10.129.0.0/16 Network

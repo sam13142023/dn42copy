@@ -1,9 +1,9 @@
-inet6num:          fd42:42:42::-fd42:42:42:ffff:ffff:ffff:ffff:ffff
-netname:           CONTROLPLANE-NET6
-descr:             Controlplane-DN42 ipv6
-country:           DE
-admin-c:           CONTROLPLANE-DN42
-tech-c:            CONTROLPLANE-DN42
-mnt-by:            CONTROLPLANE-MNT
-status:            ASSIGNED
-cidr:		fd42:42:42::/48
+inet6num:           fd42:42:42::-fd42:42:42:ffff:ffff:ffff:ffff:ffff
+netname:            CONTROLPLANE-NET6
+descr:              Controlplane-DN42 ipv6
+country:            DE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+status:             ASSIGNED
+cidr:               fd42:42:42::/48

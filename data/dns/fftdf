@@ -1,8 +1,8 @@
-domain: fftdf
-remarks: ** troisdorf
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.troisdorf.g.nic.dn42 10.188.1.100
-nserver: ns2.troisdorf.g.nic.dn42 10.188.1.23
+domain:             fftdf
+remarks:            ** troisdorf
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.troisdorf.g.nic.dn42 10.188.1.100
+nserver:            ns2.troisdorf.g.nic.dn42 10.188.1.23

@@ -1,10 +1,10 @@
-inetnum: 10.252.64.0 - 10.252.127.255
-remarks: ** saar
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.saar.g.nic.dn42
-nserver: ns2.saar.g.nic.dn42
-cidr:		10.252.64.0/18
-netname:          Unnamed 10.252.64.0/18 Network
+inetnum:            10.252.64.0 - 10.252.127.255
+remarks:            ** saar
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.saar.g.nic.dn42
+nserver:            ns2.saar.g.nic.dn42
+cidr:               10.252.64.0/18
+netname:            Unnamed 10.252.64.0/18 Network

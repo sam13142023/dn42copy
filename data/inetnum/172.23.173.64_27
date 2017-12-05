@@ -1,12 +1,12 @@
-inetnum:           172.23.173.64-172.23.173.95
-netname:           NONEXISTE-IPV4
-descr:             Transit network
-country:           US
-admin-c:           NSUAN-DN42
-tech-c:            NSUAN-DN42
-mnt-by:            NONEXISTE-MNT
-nserver:           ns1.nonexiste.dn42
-nserver:           ns2.nonexiste.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1497398405
-cidr:		172.23.173.64/27
+inetnum:            172.23.173.64-172.23.173.95
+netname:            NONEXISTE-IPV4
+descr:              Transit network
+country:            US
+admin-c:            NSUAN-DN42
+tech-c:             NSUAN-DN42
+mnt-by:             NONEXISTE-MNT
+nserver:            ns1.nonexiste.dn42
+nserver:            ns2.nonexiste.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1497398405
+cidr:               172.23.173.64/27

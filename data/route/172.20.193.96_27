@@ -1,4 +1,0 @@
-route:             172.20.193.96/27
-origin:            AS4242428574
-mnt-by:            TUSH-MNT
-bgp-status:        inactive 1466366404

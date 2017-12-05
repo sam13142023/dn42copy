@@ -6,5 +6,5 @@ admin-c:            LABORTEC-DN42
 tech-c:             LABORTEC-DN42
 status:             ASSIGNED
 mnt-by:             TEUFELCHEN-MNT
-bgp-status: active
-cidr:		172.23.212.0/24
+bgp-status:         active
+cidr:               172.23.212.0/24

@@ -1,12 +1,12 @@
-inetnum:           172.22.148.32-172.22.148.63
-netname:           LAYER8-NET
-descr:             Layer8 VPN
-remarks:           Not publicly announced but active!
-country:           JP
-admin-c:           DARKIT-DN42
-tech-c:            DARKIT-DN42
-mnt-by:            DARKIT-MNT
-nserver:           ns1.dark-it.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1492531203
-cidr:		172.22.148.32/27
+inetnum:            172.22.148.32-172.22.148.63
+netname:            LAYER8-NET
+descr:              Layer8 VPN
+remarks:            Not publicly announced but active!
+country:            JP
+admin-c:            DARKIT-DN42
+tech-c:             DARKIT-DN42
+mnt-by:             DARKIT-MNT
+nserver:            ns1.dark-it.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1492531203
+cidr:               172.22.148.32/27

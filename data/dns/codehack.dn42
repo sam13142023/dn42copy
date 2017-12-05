@@ -1,6 +1,6 @@
-domain:            codehack.dn42
-admin-c:           CODEHACK-DN42
-tech-c:            CODEHACK-DN42
-mnt-by:            CODEHACK-MNT
-nserver:           ns.codehack.dn42 172.23.222.1
-status:            EVALPEND 1501323689
+domain:             codehack.dn42
+admin-c:            CODEHACK-DN42
+tech-c:             CODEHACK-DN42
+mnt-by:             CODEHACK-MNT
+nserver:            ns.codehack.dn42 172.23.222.1
+status:             EVALPEND 1501323689
