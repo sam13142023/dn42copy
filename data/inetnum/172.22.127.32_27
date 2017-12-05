@@ -1,0 +1,7 @@
+inetnum:            172.22.127.32 - 172.22.127.63
+cidr:               172.22.127.32/27
+netname:            YANGFL-NETWORK
+admin-c:            YANGFL-DN42
+tech-c:             YANGFL-DN42
+mnt-by:             YANGFL-MNT
+status:             ASSIGNED

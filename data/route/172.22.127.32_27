@@ -1,0 +1,4 @@
+route:              172.22.127.32/27
+origin:             AS4242420140
+mnt-by:             YANGFL-MNT
+bgp-status:         active
