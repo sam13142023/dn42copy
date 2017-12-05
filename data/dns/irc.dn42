@@ -1,14 +1,14 @@
-domain:            irc.dn42
-descr:             The internal IRC network
-admin-c:           SOURIS-DN42
-tech-c:            STR-DN42
-tech-c:            NL-ZUID-DN42
-tech-c:            SOURIS-DN42
-tech-c:            TWINK0R-DN42
-mnt-by:            STR-MNT
-mnt-by:            MARLINC-MNT
-mnt-by:            XUU-MNT
-mnt-by:            TWINK0R-MNT
-nserver:           rishi.bre.xuu.dn42
-nserver:           kapha.mtr.xuu.dn42
-status:            EVALPEND 1503916943
+domain:              irc.dn42
+descr:               The internal IRC network
+admin-c:             SOURIS-DN42
+tech-c:              STR-DN42
+tech-c:              NL-ZUID-DN42
+tech-c:              SOURIS-DN42
+tech-c:              TWINK0R-DN42
+mnt-by:              STR-MNT
+mnt-by:              MARLINC-MNT
+mnt-by:              XUU-MNT
+mnt-by:              TWINK0R-MNT
+nserver:             rishi.bre.xuu.dn42
+nserver:             kapha.mtr.xuu.dn42
+status:              EVALPEND 1503916943

@@ -1,17 +1,17 @@
-inetnum:           172.22.0.0 - 172.23.255.255
-cidr:              172.22.0.0/15
-netname:           NET-BLK215-DN42
-descr:             The primary DN42 IPv4 address block.
-nserver:           xuu.root.dn42                   172.22.141.132
-nserver:           grmml.root.dn42            172.23.149.20
-nserver:           prauscher.root.dn42        172.22.120.1
-policy:            reserved
-remarks:           Not free for direct assignments, please use sub-allocated blocks
-admin-c:           NIXNODES-DN42
-admin-c:           SOURIS-DN42
-admin-c:           GRMML-DN42
-mnt-by:            NIXNODES-MNT
-mnt-by:            XUU-MNT
-mnt-by:            GRMML-MNT
-status:            ALLOCATED
-bgp-status:        ignore
+inetnum:             172.22.0.0 - 172.23.255.255
+cidr:                172.22.0.0/15
+netname:             NET-BLK215-DN42
+descr:               The primary DN42 IPv4 address block.
+nserver:             xuu.root.dn42                   172.22.141.132
+nserver:             grmml.root.dn42            172.23.149.20
+nserver:             prauscher.root.dn42        172.22.120.1
+policy:              reserved
+remarks:             Not free for direct assignments, please use sub-allocated blocks
+admin-c:             NIXNODES-DN42
+admin-c:             SOURIS-DN42
+admin-c:             GRMML-DN42
+mnt-by:              NIXNODES-MNT
+mnt-by:              XUU-MNT
+mnt-by:              GRMML-MNT
+status:              ALLOCATED
+bgp-status:          ignore

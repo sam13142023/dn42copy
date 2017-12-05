@@ -192,7 +192,7 @@ class FileDOM:
         self.src = src
 
     def __str__(self):
-        length = 13
+        length = 20
         for i in self.dom:
             if len(i[0]) > length:
                 length = len(i[0]) + 2
@@ -619,7 +619,7 @@ def test_policy(obj_type, name, mntner):
 
         # 2. Check if the as-block has an open policy
         asn = "AS{:0>9}".format(name[2:])
-        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], 
+        lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"],
                    {"@type": "as-block","@as-min":"le=" + asn,"@as-max": "ge=" + asn})
         log.info(lis)
 
@@ -827,8 +827,8 @@ if __name__ == '__main__':
         if args["in_place"]:
             with open(args["infile"], 'w+') as f:
                 f.write(str(dom))
-
-        print(str(dom))
+        else:
+            print(str(dom))
 
     elif args["command"] == "policy":
 
