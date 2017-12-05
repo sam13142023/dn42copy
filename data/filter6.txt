@@ -1,4 +1,17 @@
-# To Quagga Rules:       
-# For BIRD Rules:        (see also: utils/bgp-filter.rb)
-0010    deny      fc00:  :/8                     8      128       # ULA (undefined)
-0011    permit    fd00:  :/8                    48       80       # ULA (defined)
+# To Quagga Rules:
+#   cat filter6.txt | \
+#       grep -e  ^[0-9] | \
+#       awk '{ print "ipv prefix-list dn42v6-in seq " $1 " " $2 " " $3 " ge " $4 " le " $5}' | \
+#       sed "s_/\([0-9]\+\) ge \1_/\1_g;s_/\([0-9]\+\) le \1_/\1_g"
+#
+# For BIRD Rules: (see also: utils/bgp-filter.rb)
+#   cat filter6.txt | \
+#       awk 'BEGIN {printf "function is_valid_network() {\n return net ~ [\n" } \
+#            /^[0-9]/ && $2 ~ /permit/ {printf "     %s{%s,%s},\n", $3, $4, $5};' | \
+#       sed "$ s/,$/\n  ];\n}/"
+
+# Nr    Action    Prefix                      MinLen  MaxLen    # Comment
+0010    deny      fc00::/8                     8      128       # ULA (undefined)
+0011    permit    fd00::/8                    48       80       # ULA (defined)
+
+
