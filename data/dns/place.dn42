@@ -1,7 +1,7 @@
-domain:            place.dn42
-descr:             A place to idle away the time
-admin-c:           XUU-DN42
-tech-c:            XUU-DN42
-mnt-by:            XUU-MNT
-nserver:           kapha.mtr.xuu.dn42
-status:            EVALPEND 1503917824
+domain:             place.dn42
+descr:              A place to idle away the time
+admin-c:            XUU-DN42
+tech-c:             XUU-DN42
+mnt-by:             XUU-MNT
+nserver:            kapha.mtr.xuu.dn42
+status:             EVALPEND 1503917824

@@ -1,16 +1,16 @@
-inetnum:           172.20.192.0 - 172.20.223.255
-cidr:              172.20.192.0/19
-descr:             DN42 native address space
-remarks:           * Default allocation /27, never more than /24
-netname:           NET-BLK192019-DN42
-policy:            open
-admin-c:           NIXNODES-DN42
-admin-c:           SOURIS-DN42
-admin-c:           GRMML-DN42
-admin-c:           PRAUSCHER-DN42
-mnt-by:            NIXNODES-MNT
-mnt-by:            XUU-MNT
-mnt-by:            GRMML-MNT
-mnt-by:            PRAUSCHER-MNT
-status:            ALLOCATED
-bgp-status:        ignore
+inetnum:            172.20.192.0 - 172.20.223.255
+cidr:               172.20.192.0/19
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
+netname:            NET-BLK192019-DN42
+policy:             open
+admin-c:            NIXNODES-DN42
+admin-c:            SOURIS-DN42
+admin-c:            GRMML-DN42
+admin-c:            PRAUSCHER-DN42
+mnt-by:             NIXNODES-MNT
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             PRAUSCHER-MNT
+status:             ALLOCATED
+bgp-status:         ignore
