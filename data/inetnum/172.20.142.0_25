@@ -1,0 +1,7 @@
+inetnum:            172.20.142.0 - 172.20.142.127
+cidr:               172.20.142.0/25
+netname:            DMVPN-TUNNELS
+admin-c:            JANSST-DN42
+tech-c:             JANSST-DN42
+mnt-by:             JANSSEN-MNT
+status:             ASSIGNED
