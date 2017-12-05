@@ -1,19 +1,19 @@
-inetnum:             172.20.64.0 - 172.20.127.255
-cidr:                172.20.64.0/18
-descr:               DN42 native address space
-remarks:             * Reserved for organisations (allocation up to /21)
-remarks:             ** Request address space by contacting an admin-c
-remarks:             ** Include your organisation handle in the request
-remarks:             ** Please Introduce yourself and your organisation on the ML before requesting address space
-netname:             NET-BLK64018-DN42
-policy:              ask
-admin-c:             NIXNODES-DN42
-admin-c:             SOURIS-DN42
-admin-c:             GRMML-DN42
-admin-c:             PRAUSCHER-DN42
-mnt-by:              NIXNODES-MNT
-mnt-by:              XUU-MNT
-mnt-by:              GRMML-MNT
-mnt-by:              PRAUSCHER-MNT
-status:              ALLOCATED
-bgp-status:          ignore
+inetnum:            172.20.64.0 - 172.20.127.255
+cidr:               172.20.64.0/18
+descr:              DN42 native address space
+remarks:            * Reserved for organisations (allocation up to /21)
+remarks:            ** Request address space by contacting an admin-c
+remarks:            ** Include your organisation handle in the request
+remarks:            ** Please Introduce yourself and your organisation on the ML before requesting address space
+netname:            NET-BLK64018-DN42
+policy:             ask
+admin-c:            NIXNODES-DN42
+admin-c:            SOURIS-DN42
+admin-c:            GRMML-DN42
+admin-c:            PRAUSCHER-DN42
+mnt-by:             NIXNODES-MNT
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             PRAUSCHER-MNT
+status:             ALLOCATED
+bgp-status:         ignore

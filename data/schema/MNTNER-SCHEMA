@@ -1,14 +1,14 @@
-schema:              MNTNER-SCHEMA
-ref:                 dn42.mntner
-key:                 mntner         required  single    primary  schema
-key:                 descr          optional  single
-key:                 mnt-by         required  multiple  lookup=dn42.mntner
-key:                 admin-c        optional  multiple  lookup=dn42.person,dn42.role
-key:                 tech-c         optional  multiple  lookup=dn42.person,dn42.role
-key:                 auth           optional  multiple  > [method] [value]
-key:                 org            optional  multiple  lookup=dn42.organisation
-key:                 abuse-mailbox  optional  single
-key:                 sha512-pw      optional  single
-key:                 remarks        optional  multiple
-mnt-by:              XUU-MNT
-mnt-by:              HEXA-MNT
+schema:             MNTNER-SCHEMA
+ref:                dn42.mntner
+key:                mntner         required  single    primary  schema
+key:                descr          optional  single
+key:                mnt-by         required  multiple  lookup=dn42.mntner
+key:                admin-c        optional  multiple  lookup=dn42.person,dn42.role
+key:                tech-c         optional  multiple  lookup=dn42.person,dn42.role
+key:                auth           optional  multiple  > [method] [value]
+key:                org            optional  multiple  lookup=dn42.organisation
+key:                abuse-mailbox  optional  single
+key:                sha512-pw      optional  single
+key:                remarks        optional  multiple
+mnt-by:             XUU-MNT
+mnt-by:             HEXA-MNT

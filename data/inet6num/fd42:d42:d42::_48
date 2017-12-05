@@ -1,12 +1,12 @@
-inet6num:            FD42:D42:D42:: - FD42:d42:d42:ffff:ffff:ffff:ffff:ffff
-cidr:                fd42:d42:d42::/48
-netname:             ROOT-DN42-INF
-descr:               DN42 Infrastructure
-country:             US
-admin-c:             SOURIS-DN42
-tech-c:              SOURIS-DN42
-mnt-by:              XUU-MNT
-nserver:             lavana.sjc.xuu.dn42
-nserver:             kapha.mtr.xuu.dn42
-nserver:             rishi.bre.xuu.dn42
-status:              ASSIGNED
+inet6num:           FD42:D42:D42:: - FD42:d42:d42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:d42:d42::/48
+netname:            ROOT-DN42-INF
+descr:              DN42 Infrastructure
+country:            US
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            kapha.mtr.xuu.dn42
+nserver:            rishi.bre.xuu.dn42
+status:             ASSIGNED

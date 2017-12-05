@@ -1,14 +1,14 @@
-schema:              ROUTE-SCHEMA
-ref:                 dn42.route
-key:                 route       required  single    primary schema
-key:                 mnt-by      required  multiple  lookup=dn42.mntner
-key:                 origin      required  multiple  lookup=dn42.aut-num
-key:                 member-of   optional  multiple  lookup=dn42.route-set
-key:                 admin-c     optional  multiple  lookup=dn42.person,dn42.role
-key:                 tech-c      optional  multiple  lookup=dn42.person,dn42.role
-key:                 inet-cidr   optional  single    lookup=dn42.inetnum
-key:                 bgp-status  optional  single    > {active|absent|ignore}
-key:                 descr       optional  single
-key:                 remarks     optional  multiple
-mnt-by:              XUU-MNT
-mnt-by:              HEXA-MNT
+schema:             ROUTE-SCHEMA
+ref:                dn42.route
+key:                route       required  single    primary schema
+key:                mnt-by      required  multiple  lookup=dn42.mntner
+key:                origin      required  multiple  lookup=dn42.aut-num
+key:                member-of   optional  multiple  lookup=dn42.route-set
+key:                admin-c     optional  multiple  lookup=dn42.person,dn42.role
+key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
+key:                inet-cidr   optional  single    lookup=dn42.inetnum
+key:                bgp-status  optional  single    > {active|absent|ignore}
+key:                descr       optional  single
+key:                remarks     optional  multiple
+mnt-by:             XUU-MNT
+mnt-by:             HEXA-MNT

@@ -192,7 +192,7 @@ class FileDOM:
         self.src = src
 
     def __str__(self):
-        length = 20
+        length = 19
         for i in self.dom:
             if len(i[0]) > length:
                 length = len(i[0]) + 2

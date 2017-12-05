@@ -1,13 +1,13 @@
-inetnum:             172.22.64.0 - 172.22.79.255
-cidr:                172.22.64.0/20
-netname:             NET-BLK26420-DN42
-descr:               DN42 native address space
-policy:              open
-remarks:             Default allocation /25, never more than /24
-admin-c:             W0H-DN42
-mnt-by:              W0H-MNT
-mnt-by:              NIXNODES-MNT
-mnt-by:              GRMML-MNT
-mnt-by:              XUU-MNT
-status:              ALLOCATED
-bgp-status:          active
+inetnum:            172.22.64.0 - 172.22.79.255
+cidr:               172.22.64.0/20
+netname:            NET-BLK26420-DN42
+descr:              DN42 native address space
+policy:             open
+remarks:            Default allocation /25, never more than /24
+admin-c:            W0H-DN42
+mnt-by:             W0H-MNT
+mnt-by:             NIXNODES-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             XUU-MNT
+status:             ALLOCATED
+bgp-status:         active
