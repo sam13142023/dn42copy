@@ -1,11 +1,11 @@
-inetnum:           10.51.0.0 - 10.51.0.255
-netname:           BLK-CAS
-descr:             Cas. IP space 10.51.0.0/24
-country:           NL
-org:               ORG-CAS
+inetnum:            10.51.0.0 - 10.51.0.255
+netname:            BLK-CAS
+descr:              Cas. IP space 10.51.0.0/24
+country:            NL
+org:                ORG-CAS
 admin-c:            CDREUVER-DN42
-tech-c:            CDREUVER-DN42
-mnt-by:            CAS-MNT
-nserver:           ns1.cas.dn42
-status:            ASSIGNED
-cidr:		10.51.0.0/24
+tech-c:             CDREUVER-DN42
+mnt-by:             CAS-MNT
+nserver:            ns1.cas.dn42
+status:             ASSIGNED
+cidr:               10.51.0.0/24

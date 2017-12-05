@@ -1,6 +1,6 @@
-aut-num:           AS64686
-as-name:           IMOTO-AS
-descr:             IMOTO NETWORK AS
-admin-c:           IMOTO-DN42
-tech-c:            IMOTO-DN42
-mnt-by:            IMOTO-MNT
+aut-num:            AS64686
+as-name:            IMOTO-AS
+descr:              IMOTO NETWORK AS
+admin-c:            IMOTO-DN42
+tech-c:             IMOTO-DN42
+mnt-by:             IMOTO-MNT

@@ -1,7 +1,7 @@
-organisation:      ORG-ETH2
-org-name:          eth2
-e-mail:            support@eth2.link
-admin-c:           REENING-DN42
-tech-c:            REENING-DN42
-admin-c:           JK5-DN42
-mnt-by:            ETH2-MNT
+organisation:       ORG-ETH2
+org-name:           eth2
+e-mail:             support@eth2.link
+admin-c:            REENING-DN42
+tech-c:             REENING-DN42
+admin-c:            JK5-DN42
+mnt-by:             ETH2-MNT

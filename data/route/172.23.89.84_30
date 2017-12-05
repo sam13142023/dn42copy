@@ -1,5 +1,5 @@
-route:             172.23.89.84/30
-descr:             Intersite VPNs
-origin:            AS4242423222
-mnt-by:            WEEJITS-MNT
-bgp-status:        inactive 1471248007
+route:              172.23.89.84/30
+descr:              Intersite VPNs
+origin:             AS4242423222
+mnt-by:             WEEJITS-MNT
+bgp-status:         inactive 1471248007

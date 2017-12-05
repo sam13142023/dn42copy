@@ -1,6 +1,6 @@
-aut-num:           AS4242422101
-as-name:           SNACKBAR-AS
-descr:             SNACKS ARE EMPTY AT THE MOMENT
-admin-c:           SNACKBAR-DN42
-tech-c:            SNACKBAR-DN42
-mnt-by:            SNACKBAR-MNT
+aut-num:            AS4242422101
+as-name:            SNACKBAR-AS
+descr:              SNACKS ARE EMPTY AT THE MOMENT
+admin-c:            SNACKBAR-DN42
+tech-c:             SNACKBAR-DN42
+mnt-by:             SNACKBAR-MNT

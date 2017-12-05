@@ -1,11 +1,11 @@
-inetnum:           172.23.38.144 - 172.23.38.159
-netname:           NSTARNET08-NETWORK
-descr:             NSTARNET08-NETWORK
-country:           US
-admin-c:           KORREN-DN42
-tech-c:            KORREN-DN42
-mnt-by:            NSTARNET08-MNT
-nserver:           ns1.fritz.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1499875217
-cidr:		172.23.38.144/28
+inetnum:            172.23.38.144 - 172.23.38.159
+netname:            NSTARNET08-NETWORK
+descr:              NSTARNET08-NETWORK
+country:            US
+admin-c:            KORREN-DN42
+tech-c:             KORREN-DN42
+mnt-by:             NSTARNET08-MNT
+nserver:            ns1.fritz.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1499875217
+cidr:               172.23.38.144/28

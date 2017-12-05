@@ -8,5 +8,5 @@ nserver:            ns1.welterde.dn42
 nserver:            ns2.welterde.dn42
 nserver:            ns3.welterde.dn42
 bgp-status:         ignore
-cidr:		172.22.255.0/27
-mnt-by:           DUMMY-MNT
+cidr:               172.22.255.0/27
+mnt-by:             DUMMY-MNT

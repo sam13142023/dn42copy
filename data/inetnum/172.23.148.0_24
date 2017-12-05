@@ -1,10 +1,10 @@
-inetnum:           172.23.148.0-172.23.148.255
-netname:           NET-FEUERROT-DN42
-country:           DE
-nserver:           irbis.feuerrot.dn42 172.23.148.1
-admin-c:           FEUERROT-DN42
-tech-c:            FEUERROT-DN42
-mnt-by:            FEUERROT-MNT
-status:            ASSIGNED
-bgp-status: active
-cidr:		172.23.148.0/24
+inetnum:            172.23.148.0-172.23.148.255
+netname:            NET-FEUERROT-DN42
+country:            DE
+nserver:            irbis.feuerrot.dn42 172.23.148.1
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.23.148.0/24

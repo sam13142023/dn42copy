@@ -1,20 +1,20 @@
-inetnum:        172.20.36.0 - 172.20.37.255
-netname:        CCCHB-ENDUSER-DN42-IP4NET
-org:            ORG-FLHB-DN42
-descr:          Big pool for guests of our new hackerspace
-country:        DE
-admin-c:        FRITZ-DN42
-admin-c:        PYROPETER-DN42
-tech-c:         FRITZ-DN42
-tech-c:         PYROPETER-DN42
-zone-c:         FRITZ-DN42
-zone-c:         PYROPETER-DN42
-mnt-by:         FLHB-NETGROUP-MNT
-nserver:        ns2.ccchb.de
-ds-rdata:       3144 7 1 CCE65E22EDE791CDEAD7A3B586E52664A48872A1
-ds-rdata:       3144 7 2 ED4A852646DAA8667113384C74521E70375F9C2D0D52519D4F5616C0 0DA43279
-ds-rdata:       50763 7 1 303757513FC4C488134E65C37674808930DA3170
-ds-rdata:       50763 7 2 216714A4362719042D4E86095E5939FA1DAAEF9BAE24425F528BA4D1 17D5578F
-status:         ASSIGNED
-bgp-status:     active
-cidr:		172.20.36.0/23
+inetnum:            172.20.36.0 - 172.20.37.255
+netname:            CCCHB-ENDUSER-DN42-IP4NET
+org:                ORG-FLHB-DN42
+descr:              Big pool for guests of our new hackerspace
+country:            DE
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+zone-c:             FRITZ-DN42
+zone-c:             PYROPETER-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+nserver:            ns2.ccchb.de
+ds-rdata:           3144 7 1 CCE65E22EDE791CDEAD7A3B586E52664A48872A1
+ds-rdata:           3144 7 2 ED4A852646DAA8667113384C74521E70375F9C2D0D52519D4F5616C0 0DA43279
+ds-rdata:           50763 7 1 303757513FC4C488134E65C37674808930DA3170
+ds-rdata:           50763 7 2 216714A4362719042D4E86095E5939FA1DAAEF9BAE24425F528BA4D1 17D5578F
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.20.36.0/23

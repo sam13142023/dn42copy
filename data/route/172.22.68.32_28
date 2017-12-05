@@ -1,5 +1,5 @@
-route:             172.22.68.32/28
-descr:             imlonghao Network Route
-origin:            AS4242421888
-mnt-by:            IMLONGHAO-MNT
-bgp-status:        active
+route:              172.22.68.32/28
+descr:              imlonghao Network Route
+origin:             AS4242421888
+mnt-by:             IMLONGHAO-MNT
+bgp-status:         active

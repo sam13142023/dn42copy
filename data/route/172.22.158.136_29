@@ -1,4 +1,4 @@
-route:             172.22.158.136/29
-origin:            AS4242421400
-mnt-by:            ZYL-MNT
-bgp-status:        inactive 1471478432
+route:              172.22.158.136/29
+origin:             AS4242421400
+mnt-by:             ZYL-MNT
+bgp-status:         inactive 1471478432

@@ -1,4 +1,4 @@
-route:             172.20.149.0/27
-origin:            AS4242422307
-mnt-by:            OTTOLAB-MNT
-bgp-status:        inactive 1468180805
+route:              172.20.149.0/27
+origin:             AS4242422307
+mnt-by:             OTTOLAB-MNT
+bgp-status:         inactive 1468180805

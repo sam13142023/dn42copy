@@ -1,6 +1,6 @@
-domain:            gotroot.dn42
-admin-c:           KTIMS-DN42
-tech-c:            KTIMS-DN42
-mnt-by:            GOTROOT-MNT
-nserver:           ns1.gotroot.dn42 172.20.14.253
-status:            EVALPEND 1503916611
+domain:             gotroot.dn42
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+nserver:            ns1.gotroot.dn42 172.20.14.253
+status:             EVALPEND 1503916611

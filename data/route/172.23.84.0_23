@@ -1,5 +1,5 @@
-route:             172.23.84.0/23
-descr:             Punkt Route
-origin:            AS4242420200
-mnt-by:            PUNKT-MNT
-bgp-status: inactive 1462363204
+route:              172.23.84.0/23
+descr:              Punkt Route
+origin:             AS4242420200
+mnt-by:             PUNKT-MNT
+bgp-status:         inactive 1462363204

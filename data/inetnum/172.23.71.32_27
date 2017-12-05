@@ -1,11 +1,11 @@
-inetnum:           172.23.71.32-172.23.71.63
-netname:           BASTELKELLER-NET
-descr:             Bastelkeller Network
-country:           AQ
-admin-c:           KAI-DN42
-tech-c:            KAI-DN42
-mnt-by:            BASTELKELLER-MNT
-nserver:           ns1.fastnameserver.eu
-status:            ASSIGNED
-bgp-status:        inactive 1499875218
-cidr:		172.23.71.32/27
+inetnum:            172.23.71.32-172.23.71.63
+netname:            BASTELKELLER-NET
+descr:              Bastelkeller Network
+country:            AQ
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             BASTELKELLER-MNT
+nserver:            ns1.fastnameserver.eu
+status:             ASSIGNED
+bgp-status:         inactive 1499875218
+cidr:               172.23.71.32/27

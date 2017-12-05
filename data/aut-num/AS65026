@@ -1,8 +1,8 @@
-aut-num:           AS65026
-as-name:           FFFRANKFURT-AS
-descr:             Freifunk Frankfurt
-remarks:             http://wiki.freifunk.net/Freifunk_Frankfurt
-remarks:           * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
-admin-c:           DUMMY-DN42
-tech-c:            DUMMY-DN42
-mnt-by:            FREIFUNKDUMMY-MNT
+aut-num:            AS65026
+as-name:            FFFRANKFURT-AS
+descr:              Freifunk Frankfurt
+remarks:            http://wiki.freifunk.net/Freifunk_Frankfurt
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT

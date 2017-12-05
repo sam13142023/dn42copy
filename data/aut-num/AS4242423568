@@ -1,6 +1,6 @@
-aut-num:           AS4242423568
-as-name:           dhe-za-edge
-descr:             ZAEdgeNode
-admin-c:           DHE-DN42
-tech-c:            DHE-DN42
-mnt-by:            DHE-MNT
+aut-num:            AS4242423568
+as-name:            dhe-za-edge
+descr:              ZAEdgeNode
+admin-c:            DHE-DN42
+tech-c:             DHE-DN42
+mnt-by:             DHE-MNT

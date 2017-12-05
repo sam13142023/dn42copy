@@ -1,6 +1,6 @@
-aut-num:           AS4242423441
-as-name:           CAZAGEN-AS
-descr:             Cazagen DN42
-admin-c:           CAZAGEN-DN42
-tech-c:            CAZAGEN-DN42
-mnt-by:            CAZAGEN-MNT
+aut-num:            AS4242423441
+as-name:            CAZAGEN-AS
+descr:              Cazagen DN42
+admin-c:            CAZAGEN-DN42
+tech-c:             CAZAGEN-DN42
+mnt-by:             CAZAGEN-MNT

@@ -1,6 +1,6 @@
-aut-num:           AS4242422342
-as-name:           GBE-AS
-remarks:           Peering via OpenVPN, VXLan
-admin-c:           GBE-DN42
-tech-c:            GBE-DN42
-mnt-by:            GBE-MNT
+aut-num:            AS4242422342
+as-name:            GBE-AS
+remarks:            Peering via OpenVPN, VXLan
+admin-c:            GBE-DN42
+tech-c:             GBE-DN42
+mnt-by:             GBE-MNT

@@ -1,7 +1,7 @@
-aut-num:           AS4242420092
-as-name:           EVE-AS
-descr:             evenet
-remarks:           peering via openvpn, ipsec/gre (only via ipv6), tinc, fastd or wireguard
-admin-c:           MIC92-DN42
-tech-c:            MIC92-DN42
-mnt-by:            MIC92-MNT
+aut-num:            AS4242420092
+as-name:            EVE-AS
+descr:              evenet
+remarks:            peering via openvpn, ipsec/gre (only via ipv6), tinc, fastd or wireguard
+admin-c:            MIC92-DN42
+tech-c:             MIC92-DN42
+mnt-by:             MIC92-MNT

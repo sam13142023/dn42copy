@@ -1,8 +1,8 @@
-inet6num:          fd42:23:d3:0:0:0:0:0 - fd42:23:d3:ffff:ffff:ffff:ffff:ffff
-netname:           NET6-D3NON
-country:           DE
-admin-c:           D3NON-DN42
-tech-c:            D3NON-DN42
-mnt-by:            D3NON-MNT
-status:            ASSIGNED
-cidr:		fd42:23:d3::/48
+inet6num:           fd42:23:d3:0:0:0:0:0 - fd42:23:d3:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-D3NON
+country:            DE
+admin-c:            D3NON-DN42
+tech-c:             D3NON-DN42
+mnt-by:             D3NON-MNT
+status:             ASSIGNED
+cidr:               fd42:23:d3::/48

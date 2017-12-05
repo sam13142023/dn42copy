@@ -1,6 +1,6 @@
-aut-num:           AS4242422111
-as-name:           FALANSTER-AS
-descr:             Falanster main AS
-admin-c:           KEVIT-DN42
-tech-c:            KEVIT-DN42
-mnt-by:            FALANSTER-MNT
+aut-num:            AS4242422111
+as-name:            FALANSTER-AS
+descr:              Falanster main AS
+admin-c:            KEVIT-DN42
+tech-c:             KEVIT-DN42
+mnt-by:             FALANSTER-MNT

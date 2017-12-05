@@ -1,5 +1,5 @@
-route:             172.22.76.96/27
-descr:             UNHU-ROUTE
-origin:            AS4242423983
-mnt-by:            UNHU-MNT
-bgp-status:        inactive 1471449615
+route:              172.22.76.96/27
+descr:              UNHU-ROUTE
+origin:             AS4242423983
+mnt-by:             UNHU-MNT
+bgp-status:         inactive 1471449615

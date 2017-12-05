@@ -1,10 +1,10 @@
-inetnum:           172.22.146.192-172.22.146.223
-netname:           FUSL-DN42-IPV4-INTERNAL-PEERING
-descr:             FUSL-DN42-IPV4-INTERNAL-PEERING
-country:           AQ
-admin-c:           FUSL-DN42
-tech-c:            FUSL-DN42
-mnt-by:            FUSL-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1499875214
-cidr:		172.22.146.192/27
+inetnum:            172.22.146.192-172.22.146.223
+netname:            FUSL-DN42-IPV4-INTERNAL-PEERING
+descr:              FUSL-DN42-IPV4-INTERNAL-PEERING
+country:            AQ
+admin-c:            FUSL-DN42
+tech-c:             FUSL-DN42
+mnt-by:             FUSL-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1499875214
+cidr:               172.22.146.192/27

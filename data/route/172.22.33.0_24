@@ -1,5 +1,5 @@
 route:              172.22.33.0/24
 descr:              Hackerspace Brussels IPv4 network
 origin:             AS64633
-bgp-status: active
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+mnt-by:             DUMMY-MNT

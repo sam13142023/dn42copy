@@ -1,10 +1,10 @@
-inetnum:           10.65.0.0-10.65.15.255
-netname:           FOERDE-FREIFUNK-INET4
-descr:             Fördefunk Flensburg
-country:           DE
-org:           ORG-CTFL
+inetnum:            10.65.0.0-10.65.15.255
+netname:            FOERDE-FREIFUNK-INET4
+descr:              Fördefunk Flensburg
+country:            DE
+org:                ORG-CTFL
 admin-c:            FOERTEL-DN42
-tech-c:            FOERTEL-DN42
-mnt-by:            FOERTEL-MNT
-status:            ASSIGNED
-cidr:		10.65.0.0/20
+tech-c:             FOERTEL-DN42
+mnt-by:             FOERTEL-MNT
+status:             ASSIGNED
+cidr:               10.65.0.0/20

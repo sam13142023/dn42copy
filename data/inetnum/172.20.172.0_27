@@ -1,9 +1,9 @@
-inetnum:           172.20.172.0-172.20.172.31
-netname:           BOGDANS-NETWORK
-country:           RO
-admin-c:           BOGDANS-DN42
-tech-c:            BOGDANS-DN42
-mnt-by:            BOGDANS-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1494806410
-cidr:		172.20.172.0/27
+inetnum:            172.20.172.0-172.20.172.31
+netname:            BOGDANS-NETWORK
+country:            RO
+admin-c:            BOGDANS-DN42
+tech-c:             BOGDANS-DN42
+mnt-by:             BOGDANS-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1494806410
+cidr:               172.20.172.0/27

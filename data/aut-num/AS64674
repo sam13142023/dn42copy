@@ -3,4 +3,4 @@ as-name:            STEPHANJ-AS
 descr:              stephanj's AS
 admin-c:            STEPHANJ-DN42
 tech-c:             STEPHANJ-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

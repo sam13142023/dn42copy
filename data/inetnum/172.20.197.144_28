@@ -1,10 +1,10 @@
-inetnum:           172.20.197.144-172.20.197.159
-netname:           THANWER-IP4
-descr:             THANWER-IP4
-country:           BR
-admin-c:           THANWER-DN42
-tech-c:            THANWER-DN42
-mnt-by:            THANWER-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.20.197.144/28
+inetnum:            172.20.197.144-172.20.197.159
+netname:            THANWER-IP4
+descr:              THANWER-IP4
+country:            BR
+admin-c:            THANWER-DN42
+tech-c:             THANWER-DN42
+mnt-by:             THANWER-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.197.144/28

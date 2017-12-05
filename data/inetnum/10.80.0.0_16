@@ -1,10 +1,10 @@
-inetnum:           10.80.0.0 - 10.80.255.255
-admin-c:           FPLETZ-DN42
-descr:             Freifunk München Legacy IP Range
-country:           DE
-org:               ORG-FFMUC
-tech-c:            FPLETZ-DN42
-status:            ALLOCATED
-mnt-by:            FPLETZ-MNT
-cidr:		10.80.0.0/16
-netname:          Unnamed 10.80.0.0/16 Network
+inetnum:            10.80.0.0 - 10.80.255.255
+admin-c:            FPLETZ-DN42
+descr:              Freifunk München Legacy IP Range
+country:            DE
+org:                ORG-FFMUC
+tech-c:             FPLETZ-DN42
+status:             ALLOCATED
+mnt-by:             FPLETZ-MNT
+cidr:               10.80.0.0/16
+netname:            Unnamed 10.80.0.0/16 Network

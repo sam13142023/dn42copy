@@ -1,8 +1,8 @@
-inet6num:          fd42:2950:0:0:0:0:0:0 - fd42:2950:ffff:ffff:ffff:ffff:ffff:ffff
-netname:           SIS-DN42-INET6
-descr:             SIS DN42 v6 Space
-admin-c:           CR-DN42
-tech-c:            CR-DN42
-mnt-by:            SIS-ORG-MNT
-status:            ASSIGNED
-cidr:		fd42:2950::/32
+inet6num:           fd42:2950:0:0:0:0:0:0 - fd42:2950:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            SIS-DN42-INET6
+descr:              SIS DN42 v6 Space
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-ORG-MNT
+status:             ASSIGNED
+cidr:               fd42:2950::/32

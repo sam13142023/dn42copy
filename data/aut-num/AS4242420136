@@ -1,6 +1,6 @@
-aut-num:           AS4242420136
-as-name:           AS4242420136
-descr:             Khaled
-admin-c:           KHALED-DN42
-tech-c:            KHALED-DN42
-mnt-by:            KHALED-MNT
+aut-num:            AS4242420136
+as-name:            AS4242420136
+descr:              Khaled
+admin-c:            KHALED-DN42
+tech-c:             KHALED-DN42
+mnt-by:             KHALED-MNT

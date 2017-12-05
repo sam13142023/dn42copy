@@ -1,5 +1,5 @@
-route:             172.21.125.208/28
-descr:             AS4242423560 announcement for OHNX-NET4-EU
-origin:            AS4242423560
-mnt-by:            OHNX-MNT
-bgp-status:        inactive 1499875220
+route:              172.21.125.208/28
+descr:              AS4242423560 announcement for OHNX-NET4-EU
+origin:             AS4242423560
+mnt-by:             OHNX-MNT
+bgp-status:         inactive 1499875220

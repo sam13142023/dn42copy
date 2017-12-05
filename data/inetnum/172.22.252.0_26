@@ -5,6 +5,6 @@ country:            DE
 admin-c:            MACIAS-DN42
 tech-c:             MACIAS-DN42
 status:             ASSIGNED
-bgp-status:        ignore
-cidr:		172.22.252.0/26
-mnt-by:           DUMMY-MNT
+bgp-status:         ignore
+cidr:               172.22.252.0/26
+mnt-by:             DUMMY-MNT

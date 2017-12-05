@@ -1,6 +1,6 @@
-route:             172.20.243.0/24
-descr:             wl
-origin:            AS4242421533
-mnt-by:            JOMAT-MNT
-mnt-by:            ALICE-DN42-MNT
-bgp-status:        inactive 1491076804
+route:              172.20.243.0/24
+descr:              wl
+origin:             AS4242421533
+mnt-by:             JOMAT-MNT
+mnt-by:             ALICE-DN42-MNT
+bgp-status:         inactive 1491076804

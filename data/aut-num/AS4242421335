@@ -1,6 +1,6 @@
-aut-num:           AS4242421335
-as-name:           RAPID-NINJA-AS
-descr:             Rapid Ninja Network
-admin-c:           ALJAMA-DN42
-tech-c:            ALJAMA-DN42
-mnt-by:            RAPID-NINJA-MNT
+aut-num:            AS4242421335
+as-name:            RAPID-NINJA-AS
+descr:              Rapid Ninja Network
+admin-c:            ALJAMA-DN42
+tech-c:             ALJAMA-DN42
+mnt-by:             RAPID-NINJA-MNT

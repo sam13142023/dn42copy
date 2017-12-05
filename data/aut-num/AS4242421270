@@ -1,6 +1,6 @@
-aut-num:           AS4242421270
-as-name:           DATA-AS
-descr:             pibone
-mnt-by:            DATA-MNT
-admin-c:           DATA-DN42
-tech-c:            DATA-DN42
+aut-num:            AS4242421270
+as-name:            DATA-AS
+descr:              pibone
+mnt-by:             DATA-MNT
+admin-c:            DATA-DN42
+tech-c:             DATA-DN42

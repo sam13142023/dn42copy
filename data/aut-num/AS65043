@@ -1,7 +1,7 @@
-aut-num:           AS65043
-as-name:           FF3L-AS
-descr:             Freifunk Dreiländereck
-org:               ORG-FF3L
-admin-c:           KPANIC-DN42
-tech-c:            KPANIC-DN42
-mnt-by:            FF3L-MNT
+aut-num:            AS65043
+as-name:            FF3L-AS
+descr:              Freifunk Dreiländereck
+org:                ORG-FF3L
+admin-c:            KPANIC-DN42
+tech-c:             KPANIC-DN42
+mnt-by:             FF3L-MNT

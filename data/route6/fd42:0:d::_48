@@ -1,4 +1,4 @@
-route6:            fd42:0:d::/48
-descr:             hyhIX GD
-origin:            AS4242420989
-mnt-by:            HYHIX-MNT
+route6:             fd42:0:d::/48
+descr:              hyhIX GD
+origin:             AS4242420989
+mnt-by:             HYHIX-MNT

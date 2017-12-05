@@ -1,9 +1,9 @@
-inetnum:           172.24.2.0 - 172.24.2.255
-netname:           ETH2-ANYCAST
-descr:             eth2 Anycast services
-country:           NL
-admin-c:           REENING-DN42
-tech-c:            JK5-DN42
-mnt-by:            ETH2-MNT
-status:            ALLOCATED
-cidr:		172.24.2.0/24
+inetnum:            172.24.2.0 - 172.24.2.255
+netname:            ETH2-ANYCAST
+descr:              eth2 Anycast services
+country:            NL
+admin-c:            REENING-DN42
+tech-c:             JK5-DN42
+mnt-by:             ETH2-MNT
+status:             ALLOCATED
+cidr:               172.24.2.0/24

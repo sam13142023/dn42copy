@@ -1,8 +1,8 @@
-domain: fftup
-remarks: ** waldheim
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: NIXNODES-MNT
-status: CONNECT
-nserver: ns1.waldheim.g.nic.dn42 10.23.0.1
-nserver: ns2.waldheim.g.nic.dn42 10.23.0.2
+domain:             fftup
+remarks:            ** waldheim
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             NIXNODES-MNT
+status:             CONNECT
+nserver:            ns1.waldheim.g.nic.dn42 10.23.0.1
+nserver:            ns2.waldheim.g.nic.dn42 10.23.0.2

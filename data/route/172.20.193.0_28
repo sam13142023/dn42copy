@@ -1,5 +1,5 @@
-route:             172.20.193.0/28
-descr:             SHAGGYMAN-NET
-origin:            AS4242423459
-mnt-by:            SHAGGYMAN0571-MNT
-bgp-status:        inactive 1466136006
+route:              172.20.193.0/28
+descr:              SHAGGYMAN-NET
+origin:             AS4242423459
+mnt-by:             SHAGGYMAN0571-MNT
+bgp-status:         inactive 1466136006

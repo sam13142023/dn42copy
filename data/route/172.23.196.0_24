@@ -1,5 +1,5 @@
-route: 172.23.196.0/24
-origin: AS76115
-origin: AS4242420000
-mnt-by: PYROPETER-MNT
-bgp-status: active
+route:              172.23.196.0/24
+origin:             AS76115
+origin:             AS4242420000
+mnt-by:             PYROPETER-MNT
+bgp-status:         active

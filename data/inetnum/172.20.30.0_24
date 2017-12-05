@@ -1,10 +1,10 @@
-inetnum:           172.20.30.0 - 172.20.30.255
-netname:           ABC-HOSTERS-DN42
-descr:             ABC-HOSTERS-DN42
-country:           US
-admin-c:           RSFJ2-DN42
-tech-c:            RSFJ2-DN42
-mnt-by:            RSFJ2-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1494489608
-cidr:		172.20.30.0/24
+inetnum:            172.20.30.0 - 172.20.30.255
+netname:            ABC-HOSTERS-DN42
+descr:              ABC-HOSTERS-DN42
+country:            US
+admin-c:            RSFJ2-DN42
+tech-c:             RSFJ2-DN42
+mnt-by:             RSFJ2-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1494489608
+cidr:               172.20.30.0/24

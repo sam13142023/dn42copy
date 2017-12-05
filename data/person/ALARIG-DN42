@@ -1,7 +1,7 @@
-person:            alarig
-contact:           alarig@swordarmor.fr
-contact:           xmpp:alarig@gozmail.net
-pgp-fingerprint:   FB6C 86C1 3D07 D27E 7B5A  445B AF38 4AC1 6B20 2B88
-www:               https://www.swordarmor.fr/
-nic-hdl:           ALARIG-DN42
-mnt-by:            ALARIG-MNT
+person:             alarig
+contact:            alarig@swordarmor.fr
+contact:            xmpp:alarig@gozmail.net
+pgp-fingerprint:    FB6C 86C1 3D07 D27E 7B5A  445B AF38 4AC1 6B20 2B88
+www:                https://www.swordarmor.fr/
+nic-hdl:            ALARIG-DN42
+mnt-by:             ALARIG-MNT

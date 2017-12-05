@@ -1,6 +1,6 @@
-organisation:      ORG-MW
-org-name:          Melbourne Wireless
-www:               http://melbournewireless.org.au/
-admin-c:           DAURNIMATOR-DN42
-tech-c:            DAURNIMATOR-DN42
-mnt-by:            DAURNIMATOR-MNT
+organisation:       ORG-MW
+org-name:           Melbourne Wireless
+www:                http://melbournewireless.org.au/
+admin-c:            DAURNIMATOR-DN42
+tech-c:             DAURNIMATOR-DN42
+mnt-by:             DAURNIMATOR-MNT

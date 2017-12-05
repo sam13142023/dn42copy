@@ -1,5 +1,5 @@
-aut-num:           AS4242421713
-as-name:           MT-TEST-AS
-admin-c:           MT-DN42
-tech-c:            MT-DN42
-mnt-by:            MT-MNT
+aut-num:            AS4242421713
+as-name:            MT-TEST-AS
+admin-c:            MT-DN42
+tech-c:             MT-DN42
+mnt-by:             MT-MNT

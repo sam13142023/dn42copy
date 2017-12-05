@@ -1,20 +1,20 @@
-tinc-key:          MIAU-TINC
-tinc-host:         dn42.maraun.de
-compression:       5
-descr:             Public
-mnt-by:            MIAU-MNT
-admin-c:           MIAU-DN42
-subnet:            172.20.148.1/32
-tinc-address:      dn42.maraun.de
-tinc-file:
-    Subnet = 172.20.148.1/32
-    Address = dn42.maraun.de
-    Compression = 5
-    -----BEGIN RSA PUBLIC KEY-----
-    MIIBCgKCAQEAyAON/9HE4kNIQ4BmrxhN16Nwaz9Zm3n3RrC3vVI5VT8rit/KcvfA
-    dcfCxQXk8X2xdVOg02Wd7mJWlRdB6f40WEzlwskRu3eua+RrCf7rpaYmotA0ycnL
-    T3LC45ClYxhMwOz9lRH+8KEXkESLmcJJAe6w13heRwdFiVHA6qmOZanEte5PD+jp
-    hprnotJZ8oQeVyURtK5LBtMI8CRBK+rW29Wou8hR9ZDPzMDzkjID4Ha+Ov4MfCgW
-    li1yvpYLYqmIw+27iAPb9XUBl0oErzAPYEZ4OlQvFlMh+Ppp54yzbquh+o80WPFt
-    0Rx8d+3YDZsylDNR5fj74UmIdm4m0m5hswIDAQAB
-    -----END RSA PUBLIC KEY-----
+tinc-key:           MIAU-TINC
+tinc-host:          dn42.maraun.de
+compression:        5
+descr:              Public
+mnt-by:             MIAU-MNT
+admin-c:            MIAU-DN42
+subnet:             172.20.148.1/32
+tinc-address:       dn42.maraun.de
+tinc-file:          
+                    Subnet = 172.20.148.1/32
+                    Address = dn42.maraun.de
+                    Compression = 5
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAyAON/9HE4kNIQ4BmrxhN16Nwaz9Zm3n3RrC3vVI5VT8rit/KcvfA
+                    dcfCxQXk8X2xdVOg02Wd7mJWlRdB6f40WEzlwskRu3eua+RrCf7rpaYmotA0ycnL
+                    T3LC45ClYxhMwOz9lRH+8KEXkESLmcJJAe6w13heRwdFiVHA6qmOZanEte5PD+jp
+                    hprnotJZ8oQeVyURtK5LBtMI8CRBK+rW29Wou8hR9ZDPzMDzkjID4Ha+Ov4MfCgW
+                    li1yvpYLYqmIw+27iAPb9XUBl0oErzAPYEZ4OlQvFlMh+Ppp54yzbquh+o80WPFt
+                    0Rx8d+3YDZsylDNR5fj74UmIdm4m0m5hswIDAQAB
+                    -----END RSA PUBLIC KEY-----

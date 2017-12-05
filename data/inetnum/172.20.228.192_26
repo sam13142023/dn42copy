@@ -1,10 +1,10 @@
-inetnum:           172.20.228.192 - 172.20.228.255
-netname:           DGS-RTE
-descr:             DargaNET Default Route
-country:           AQ
-admin-c:           HX-DN42
-tech-c:            HX-DN42
-mnt-by:            DGS-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1493640002
-cidr:		172.20.228.192/26
+inetnum:            172.20.228.192 - 172.20.228.255
+netname:            DGS-RTE
+descr:              DargaNET Default Route
+country:            AQ
+admin-c:            HX-DN42
+tech-c:             HX-DN42
+mnt-by:             DGS-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1493640002
+cidr:               172.20.228.192/26

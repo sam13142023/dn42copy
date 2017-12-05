@@ -1,9 +1,9 @@
-inet6num:          fd42:23f5:26cf:0:0:0:0:0 - fd42:23f5:26cf:ffff:ffff:ffff:ffff:ffff
-netname:           FLEAZ-IPV6
-country:           DE
-admin-c:           FLEAZ-DN42
-tech-c:            FLEAZ-DN42
-mnt-by:            FLEAZ-MNT
-nserver:           ns1.fleaz.dn42
-status:            ASSIGNED
-cidr:		fd42:23f5:26cf::/48
+inet6num:           fd42:23f5:26cf:0:0:0:0:0 - fd42:23f5:26cf:ffff:ffff:ffff:ffff:ffff
+netname:            FLEAZ-IPV6
+country:            DE
+admin-c:            FLEAZ-DN42
+tech-c:             FLEAZ-DN42
+mnt-by:             FLEAZ-MNT
+nserver:            ns1.fleaz.dn42
+status:             ASSIGNED
+cidr:               fd42:23f5:26cf::/48

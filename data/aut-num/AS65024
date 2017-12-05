@@ -1,8 +1,8 @@
-aut-num:           AS65024
-as-name:           FFFRANKEN-AS
-descr:             Freifunk Franken
-remarks:             http://freifunk-franken.de/
-remarks:           * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
-admin-c:           DUMMY-DN42
-tech-c:            DUMMY-DN42
-mnt-by:            FREIFUNKDUMMY-MNT
+aut-num:            AS65024
+as-name:            FFFRANKEN-AS
+descr:              Freifunk Franken
+remarks:            http://freifunk-franken.de/
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT

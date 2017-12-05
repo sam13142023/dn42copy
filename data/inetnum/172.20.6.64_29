@@ -1,10 +1,10 @@
-inetnum:           172.20.6.64-172.20.6.71
-netname:           FM-DN42
-descr:             FM-DN42
-country:           CA
-admin-c:           FMSYSADMIN-DN42
-tech-c:            FMSYSADMIN-DN42
-mnt-by:            FM-MNT
-status:            ASSIGNED PI
-bgp-status:        inactive 1499803337
-cidr:		172.20.6.64/29
+inetnum:            172.20.6.64-172.20.6.71
+netname:            FM-DN42
+descr:              FM-DN42
+country:            CA
+admin-c:            FMSYSADMIN-DN42
+tech-c:             FMSYSADMIN-DN42
+mnt-by:             FM-MNT
+status:             ASSIGNED PI
+bgp-status:         inactive 1499803337
+cidr:               172.20.6.64/29

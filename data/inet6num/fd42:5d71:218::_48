@@ -1,8 +1,8 @@
-inet6num:          fd42:5d71:218::-fd42:5d71:218:FFFF:FFFF:FFFF:FFFF:FFFF
-netname:           JRB0001-TRANSIT
-country:           DE
-admin-c:           JRB0001-DN42
-tech-c:            JRB0001-DN42
-mnt-by:            JRB0001-MNT
-status:            ALLOCATED
-cidr:		fd42:5d71:218::/48
+inet6num:           fd42:5d71:218::-fd42:5d71:218:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:            JRB0001-TRANSIT
+country:            DE
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+status:             ALLOCATED
+cidr:               fd42:5d71:218::/48

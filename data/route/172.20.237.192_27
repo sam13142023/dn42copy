@@ -1,4 +1,4 @@
-route:             172.20.237.192/27
-origin:            AS4242420403
-mnt-by:            SOLITUDE-MNT
-bgp-status:        inactive 1492306865
+route:              172.20.237.192/27
+origin:             AS4242420403
+mnt-by:             SOLITUDE-MNT
+bgp-status:         inactive 1492306865

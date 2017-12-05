@@ -1,7 +1,7 @@
-inetnum: 10.105.64.0 - 10.105.127.255
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-status: ALLOCATED
-cidr:		10.105.64.0/18
-mnt-by:           DUMMY-MNT
-netname:          Unnamed 10.105.64.0/18 Network
+inetnum:            10.105.64.0 - 10.105.127.255
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+status:             ALLOCATED
+cidr:               10.105.64.0/18
+mnt-by:             DUMMY-MNT
+netname:            Unnamed 10.105.64.0/18 Network

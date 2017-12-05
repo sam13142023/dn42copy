@@ -1,5 +1,5 @@
 route:              172.22.166.0/24
 descr:              UCIS Internet Exchange
 origin:             AS64766
-bgp-status: active
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+mnt-by:             DUMMY-MNT

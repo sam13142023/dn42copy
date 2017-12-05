@@ -1,5 +1,5 @@
-route:             172.20.193.192/27
-descr:             Fiki Home Net
-origin:            AS4242420204
-mnt-by:            FIKICH-MNT
-bgp-status:        inactive 1466812804
+route:              172.20.193.192/27
+descr:              Fiki Home Net
+origin:             AS4242420204
+mnt-by:             FIKICH-MNT
+bgp-status:         inactive 1466812804

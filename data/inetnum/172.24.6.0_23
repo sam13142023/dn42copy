@@ -1,9 +1,9 @@
-inetnum:           172.24.6.0 - 172.24.7.255
-netname:           ETH2-P2P-DN42
-descr:             eth2 peering point-to-point
-country:           NL
-admin-c:           REENING-DN42
-tech-c:            JK5-DN42
-mnt-by:            ETH2-MNT
-status:            ALLOCATED
-cidr:		172.24.6.0/23
+inetnum:            172.24.6.0 - 172.24.7.255
+netname:            ETH2-P2P-DN42
+descr:              eth2 peering point-to-point
+country:            NL
+admin-c:            REENING-DN42
+tech-c:             JK5-DN42
+mnt-by:             ETH2-MNT
+status:             ALLOCATED
+cidr:               172.24.6.0/23

@@ -1,4 +1,4 @@
-route:             172.22.255.144/28
-origin:            AS4242423502
-mnt-by:            TISET-MNT
-bgp-status:        inactive 1456565769
+route:              172.22.255.144/28
+origin:             AS4242423502
+mnt-by:             TISET-MNT
+bgp-status:         inactive 1456565769

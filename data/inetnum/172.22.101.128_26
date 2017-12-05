@@ -1,11 +1,11 @@
-inetnum:           172.22.101.128 - 172.22.101.191
-netname:           CJR-NET
-descr:             Network of cjr
-country:           CN
-admin-c:           CJR-DN42
-tech-c:            CJR-DN42
-mnt-by:            CJR-MNT
-nserver:           ns1.cjrnet.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1495296002
-cidr:		172.22.101.128/26
+inetnum:            172.22.101.128 - 172.22.101.191
+netname:            CJR-NET
+descr:              Network of cjr
+country:            CN
+admin-c:            CJR-DN42
+tech-c:             CJR-DN42
+mnt-by:             CJR-MNT
+nserver:            ns1.cjrnet.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1495296002
+cidr:               172.22.101.128/26

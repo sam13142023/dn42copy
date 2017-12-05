@@ -3,4 +3,4 @@ as-name:            ADIBLOL-AS64743
 descr:              adiblol's AS
 admin-c:            ADIBLOL-DN42
 tech-c:             ADIBLOL-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

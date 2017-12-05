@@ -1,11 +1,11 @@
-inetnum:           172.22.7.0 - 172.22.7.255
-netname:           NET-B-RIPPERFOX-DN42
-descr:             * hack for DNS Rev PTR
-country:           DE
-admin-c:           RIPPERFOX-DN42
-tech-c:            RIPPERFOX-DN42
-mnt-by:            RIPPERFOX-MNT
-nserver:           ns1.proxity.dn42
-status:            ASSIGNED
-bgp-status:        active
-cidr:		172.22.7.0/24
+inetnum:            172.22.7.0 - 172.22.7.255
+netname:            NET-B-RIPPERFOX-DN42
+descr:              * hack for DNS Rev PTR
+country:            DE
+admin-c:            RIPPERFOX-DN42
+tech-c:             RIPPERFOX-DN42
+mnt-by:             RIPPERFOX-MNT
+nserver:            ns1.proxity.dn42
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.22.7.0/24

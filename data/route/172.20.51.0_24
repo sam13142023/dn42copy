@@ -1,5 +1,4 @@
-route:             172.20.51.0/24
-origin:            AS4242421994
-mnt-by:            RLKT-MNT
-bgp-status:        active
-
+route:              172.20.51.0/24
+origin:             AS4242421994
+mnt-by:             RLKT-MNT
+bgp-status:         active

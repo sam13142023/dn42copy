@@ -1,27 +1,27 @@
-tinc-key:          AS76103US-TINC
-tinc-host:         AS76103US
-descr:             NixNodes virtual exchange - TINC pubkey (AS76103US)
-compression:       9
-subnet:            172.23.3.3/32
-tinc-address:      71.19.233.189
-port:              10409
-admin-c:           NIXNODES-DN42
-mnt-by:            NIXNODES-MNT
-tinc-file:
-    Subnet = 172.23.3.3/32
-    Address = 71.19.233.189
-    Compression = 9
-    Port = 10409
-    -----BEGIN RSA PUBLIC KEY-----
-    MIICCgKCAgEAvIZc+kQo7oi7Q71rNWK6GKc4+pZ+jOGdRNFzlMedblbDTjXVuh2V
-    D6F4FT0EitNLPNc69k8/j7kx8ElbJDTaiC4mplixGAA5ZH4V6rtwlae9Fcc8SK+R
-    TjZHALL2sB+UBNfQAHSUyNpdFhLL7cbc2IJDFvzRVwGm4E92dr1dug+dki5LxKTD
-    rHJvwPW4KC1doXj0C8zH0vmekWTEh2SKYQcEOaGO0We4qr3+J/C3EAxEOqTk0m9g
-    SqljmnMXLFc5wwkdWJsu45VHD41U89nJJY+Gkz95Lyzpbb9jmxb+VBv1LLoWT1Mq
-    BjcY9KYIzqb5V2CS1foAFtL2t8SD4UW02LplrH5KplmrKlYzx2CHD4DXc2dzApzM
-    HWMWCKEJdUgeGBY/R+vkn4BHQaMyOPxJ18+iiC7FDywznvFMADOFX6g5ZnGdoZPD
-    c7fpVflOec1+0BoZdrOpsmIqcjcqPkn61f6M2+ZCS4Xy6JcKSOl/4wcp7YA/GE3K
-    QaTRSRQbvR0qTqTq0QqEULu8R8Z3Yii/XUQZ3a+AV/r3p/bc+e/jgyag/kdPGTLT
-    /LloKWc2g1e/t/z2saHlsabxhfRUGwwOJ6+XFrMVtxzUl1cyujIqFqOUyRgDkdJA
-    RpUnDV5CttQKLf03ZkZyoHnxTlE8a6jWmc0jF2ADQS9M+avS9CFzQgsCAwEAAQ==
-    -----END RSA PUBLIC KEY-----
+tinc-key:           AS76103US-TINC
+tinc-host:          AS76103US
+descr:              NixNodes virtual exchange - TINC pubkey (AS76103US)
+compression:        9
+subnet:             172.23.3.3/32
+tinc-address:       71.19.233.189
+port:               10409
+admin-c:            NIXNODES-DN42
+mnt-by:             NIXNODES-MNT
+tinc-file:          
+                    Subnet = 172.23.3.3/32
+                    Address = 71.19.233.189
+                    Compression = 9
+                    Port = 10409
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEAvIZc+kQo7oi7Q71rNWK6GKc4+pZ+jOGdRNFzlMedblbDTjXVuh2V
+                    D6F4FT0EitNLPNc69k8/j7kx8ElbJDTaiC4mplixGAA5ZH4V6rtwlae9Fcc8SK+R
+                    TjZHALL2sB+UBNfQAHSUyNpdFhLL7cbc2IJDFvzRVwGm4E92dr1dug+dki5LxKTD
+                    rHJvwPW4KC1doXj0C8zH0vmekWTEh2SKYQcEOaGO0We4qr3+J/C3EAxEOqTk0m9g
+                    SqljmnMXLFc5wwkdWJsu45VHD41U89nJJY+Gkz95Lyzpbb9jmxb+VBv1LLoWT1Mq
+                    BjcY9KYIzqb5V2CS1foAFtL2t8SD4UW02LplrH5KplmrKlYzx2CHD4DXc2dzApzM
+                    HWMWCKEJdUgeGBY/R+vkn4BHQaMyOPxJ18+iiC7FDywznvFMADOFX6g5ZnGdoZPD
+                    c7fpVflOec1+0BoZdrOpsmIqcjcqPkn61f6M2+ZCS4Xy6JcKSOl/4wcp7YA/GE3K
+                    QaTRSRQbvR0qTqTq0QqEULu8R8Z3Yii/XUQZ3a+AV/r3p/bc+e/jgyag/kdPGTLT
+                    /LloKWc2g1e/t/z2saHlsabxhfRUGwwOJ6+XFrMVtxzUl1cyujIqFqOUyRgDkdJA
+                    RpUnDV5CttQKLf03ZkZyoHnxTlE8a6jWmc0jF2ADQS9M+avS9CFzQgsCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----

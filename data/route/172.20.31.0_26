@@ -1,5 +1,5 @@
-route:             172.20.31.0/26
-descr:             ROBOTHAM-IPV4
-origin:            AS4242423439
-mnt-by:            ROBOTHAM-MNT
-bgp-status:        inactive 1504569609
+route:              172.20.31.0/26
+descr:              ROBOTHAM-IPV4
+origin:             AS4242423439
+mnt-by:             ROBOTHAM-MNT
+bgp-status:         inactive 1504569609

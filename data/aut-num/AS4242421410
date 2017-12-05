@@ -1,6 +1,6 @@
-aut-num:           AS4242421410
-as-name:           AS-IKEY
-descr:             IkeyLabs Autonomous System
-admin-c:           JPACORA-DN42
-tech-c:            JPACORA-DN42
-mnt-by:            IKEY-MNT
+aut-num:            AS4242421410
+as-name:            AS-IKEY
+descr:              IkeyLabs Autonomous System
+admin-c:            JPACORA-DN42
+tech-c:             JPACORA-DN42
+mnt-by:             IKEY-MNT

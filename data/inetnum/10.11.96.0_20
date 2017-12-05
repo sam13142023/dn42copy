@@ -1,9 +1,9 @@
-inetnum: 10.11.96.0 - 10.11.111.255
-remarks: ** hameln
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.hameln.g.nic.dn42
-cidr:		10.11.96.0/20
-netname:          Unnamed 10.11.96.0/20 Network
+inetnum:            10.11.96.0 - 10.11.111.255
+remarks:            ** hameln
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.hameln.g.nic.dn42
+cidr:               10.11.96.0/20
+netname:            Unnamed 10.11.96.0/20 Network

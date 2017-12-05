@@ -1,10 +1,10 @@
-inet6num:          fde0:5901:5bd7:: - fde0:5901:5bd7:ffff:ffff:ffff:ffff:ffff
-netname:           NET-ERG6
-descr:             Electronics Research Group Testbed
-country:           GB
-admin-c:           IRL-DN42
-tech-c:            IRL-DN42
-mnt-by:            ERG-MNT
-nserver:           ns1.erg.dn42
-status:            ASSIGNED
-cidr:		fde0:5901:5bd7::/48
+inet6num:           fde0:5901:5bd7:: - fde0:5901:5bd7:ffff:ffff:ffff:ffff:ffff
+netname:            NET-ERG6
+descr:              Electronics Research Group Testbed
+country:            GB
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             ERG-MNT
+nserver:            ns1.erg.dn42
+status:             ASSIGNED
+cidr:               fde0:5901:5bd7::/48

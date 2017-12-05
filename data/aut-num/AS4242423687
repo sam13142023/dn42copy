@@ -1,6 +1,6 @@
-aut-num:           AS4242423687
-as-name:           IMOTO-AS-JP-TYO
-descr:             IMOTO NETWORK TOKYO DATACENTER AS
-admin-c:           IMOTO-DN42
-tech-c:            IMOTO-DN42
-mnt-by:            IMOTO-MNT
+aut-num:            AS4242423687
+as-name:            IMOTO-AS-JP-TYO
+descr:              IMOTO NETWORK TOKYO DATACENTER AS
+admin-c:            IMOTO-DN42
+tech-c:             IMOTO-DN42
+mnt-by:             IMOTO-MNT

@@ -1,5 +1,5 @@
-route:             172.22.173.128/27
-descr:             assi pub
-origin:            AS4242421554
-mnt-by:            JOMAT-MNT
-bgp-status:        inactive 1499803352
+route:              172.22.173.128/27
+descr:              assi pub
+origin:             AS4242421554
+mnt-by:             JOMAT-MNT
+bgp-status:         inactive 1499803352

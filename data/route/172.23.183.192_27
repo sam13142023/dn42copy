@@ -1,4 +1,4 @@
-route:             172.23.183.192/27
-origin:            AS4242421818
-mnt-by:            SRW-MNT
-bgp-status:        inactive 1480363215
+route:              172.23.183.192/27
+origin:             AS4242421818
+mnt-by:             SRW-MNT
+bgp-status:         inactive 1480363215

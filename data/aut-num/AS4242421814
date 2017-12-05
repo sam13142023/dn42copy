@@ -1,6 +1,6 @@
-aut-num:           AS4242421814
-as-name:           ASTRONET-AS
-descr:             Astronet
-admin-c:           ASTRONET-DN42
-tech-c:            ASTRONET-DN42
-mnt-by:            ASTRONET-MNT
+aut-num:            AS4242421814
+as-name:            ASTRONET-AS
+descr:              Astronet
+admin-c:            ASTRONET-DN42
+tech-c:             ASTRONET-DN42
+mnt-by:             ASTRONET-MNT

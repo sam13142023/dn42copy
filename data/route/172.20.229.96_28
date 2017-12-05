@@ -1,4 +1,4 @@
-route:             172.20.229.96/28
-origin:            AS4242422440
-mnt-by:            SABERNET-MNT
-bgp-status:        inactive 1505592010
+route:              172.20.229.96/28
+origin:             AS4242422440
+mnt-by:             SABERNET-MNT
+bgp-status:         inactive 1505592010

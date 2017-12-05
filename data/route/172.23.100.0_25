@@ -1,5 +1,5 @@
-route:             172.23.100.0/25
-descr:             JVijsma infra space.(Still alive on 1475331436)
-origin:            AS4242420100
-mnt-by:            JVIJSMA-MNT
-bgp-status:        inactive 1475611204
+route:              172.23.100.0/25
+descr:              JVijsma infra space.(Still alive on 1475331436)
+origin:             AS4242420100
+mnt-by:             JVIJSMA-MNT
+bgp-status:         inactive 1475611204

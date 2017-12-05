@@ -2,4 +2,4 @@ route:              172.23.216.0/24
 descr:              jomat's dn42 network
 origin:             AS64773
 mnt-by:             JOMAT-MNT
-bgp-status: active
+bgp-status:         active

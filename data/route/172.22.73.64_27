@@ -1,5 +1,5 @@
-route:             172.22.73.64/27
-descr:             KEBE Network
-origin:            AS4242423920
-mnt-by:            KEBE-MNT
-bgp-status:        inactive 1462896003
+route:              172.22.73.64/27
+descr:              KEBE Network
+origin:             AS4242423920
+mnt-by:             KEBE-MNT
+bgp-status:         inactive 1462896003

@@ -1,4 +1,4 @@
-route6:            fd42:4242:3775::/48
-descr:             KNORRIE-LEEKSPIN
-origin:            AS4242423775
-mnt-by:            KNORRIE-MNT
+route6:             fd42:4242:3775::/48
+descr:              KNORRIE-LEEKSPIN
+origin:             AS4242423775
+mnt-by:             KNORRIE-MNT

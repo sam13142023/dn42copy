@@ -1,14 +1,14 @@
-domain: ffms
-remarks: ** muensterland
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.muensterland.g.nic.dn42 10.43.8.2
-nserver: ns1.muensterland.g.nic.dn42 2a03:2260:115:100::2
-nserver: ns2.muensterland.g.nic.dn42 10.43.8.3
-nserver: ns2.muensterland.g.nic.dn42 2a03:2260:115:100::3
-nserver: ns3.muensterland.g.nic.dn42 10.43.16.2
-nserver: ns3.muensterland.g.nic.dn42 2a03:2260:115:200::2
-nserver: ns4.muensterland.g.nic.dn42 10.43.16.3
-nserver: ns4.muensterland.g.nic.dn42 2a03:2260:115:200::3
+domain:             ffms
+remarks:            ** muensterland
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.muensterland.g.nic.dn42 10.43.8.2
+nserver:            ns1.muensterland.g.nic.dn42 2a03:2260:115:100::2
+nserver:            ns2.muensterland.g.nic.dn42 10.43.8.3
+nserver:            ns2.muensterland.g.nic.dn42 2a03:2260:115:100::3
+nserver:            ns3.muensterland.g.nic.dn42 10.43.16.2
+nserver:            ns3.muensterland.g.nic.dn42 2a03:2260:115:200::2
+nserver:            ns4.muensterland.g.nic.dn42 10.43.16.3
+nserver:            ns4.muensterland.g.nic.dn42 2a03:2260:115:200::3

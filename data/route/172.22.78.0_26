@@ -1,4 +1,4 @@
-route:             172.22.78.0/26
-origin:            AS64647
-mnt-by:            FLORIANB-MNT
-bgp-status:        active
+route:              172.22.78.0/26
+origin:             AS64647
+mnt-by:             FLORIANB-MNT
+bgp-status:         active

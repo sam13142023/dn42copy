@@ -1,10 +1,10 @@
-inetnum: 10.228.0.0 - 10.228.255.255
-remarks: ** ruhrgebiet
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-status: ALLOCATED
-nserver: ns1.ruhrgebiet.g.nic.dn42
-nserver: ns2.ruhrgebiet.g.nic.dn42
-cidr:		10.228.0.0/16
-mnt-by:           DUMMY-MNT
-netname:          Unnamed 10.228.0.0/16 Network
+inetnum:            10.228.0.0 - 10.228.255.255
+remarks:            ** ruhrgebiet
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+status:             ALLOCATED
+nserver:            ns1.ruhrgebiet.g.nic.dn42
+nserver:            ns2.ruhrgebiet.g.nic.dn42
+cidr:               10.228.0.0/16
+mnt-by:             DUMMY-MNT
+netname:            Unnamed 10.228.0.0/16 Network

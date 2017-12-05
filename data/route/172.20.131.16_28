@@ -1,4 +1,4 @@
-route:             172.20.131.16/28
-origin:            AS4242422910
-mnt-by:            NTWRKTOP-MNT
-bgp-status:        inactive 1502524805
+route:              172.20.131.16/28
+origin:             AS4242422910
+mnt-by:             NTWRKTOP-MNT
+bgp-status:         inactive 1502524805

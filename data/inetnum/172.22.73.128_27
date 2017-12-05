@@ -1,9 +1,9 @@
-inetnum:           172.22.73.128 - 172.22.73.159
-netname:           NGN-IPV4-NET
-country:           US
-admin-c:           ERIC-DN42
-tech-c:            ERIC-DN42
-mnt-by:            ERIC-MNT
-status:            ASSIGNED
-bgp-status:        active
-cidr:		172.22.73.128/27
+inetnum:            172.22.73.128 - 172.22.73.159
+netname:            NGN-IPV4-NET
+country:            US
+admin-c:            ERIC-DN42
+tech-c:             ERIC-DN42
+mnt-by:             ERIC-MNT
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.22.73.128/27

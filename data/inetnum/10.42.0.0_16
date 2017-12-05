@@ -1,10 +1,10 @@
-inetnum: 10.42.0.0 - 10.42.255.255
-remarks: ** chaosvpn
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.chaosvpn.g.nic.dn42
-nserver: ns2.chaosvpn.g.nic.dn42
-cidr:		10.42.0.0/16
-netname:          Unnamed 10.42.0.0/16 Network
+inetnum:            10.42.0.0 - 10.42.255.255
+remarks:            ** chaosvpn
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.chaosvpn.g.nic.dn42
+nserver:            ns2.chaosvpn.g.nic.dn42
+cidr:               10.42.0.0/16
+netname:            Unnamed 10.42.0.0/16 Network

@@ -15,4 +15,3 @@
 0011    permit    fd00::/8                    48       80       # ULA (defined)
 
 
-

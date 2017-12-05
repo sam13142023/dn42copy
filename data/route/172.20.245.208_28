@@ -1,5 +1,5 @@
-route:             172.20.245.208/28
-descr:             KNORRIE-LEEKSPIN
-origin:            AS4242423775
-mnt-by:            KNORRIE-MNT
-bgp-status:        inactive 1487779205
+route:              172.20.245.208/28
+descr:              KNORRIE-LEEKSPIN
+origin:             AS4242423775
+mnt-by:             KNORRIE-MNT
+bgp-status:         inactive 1487779205

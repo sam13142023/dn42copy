@@ -1,5 +1,5 @@
-route:             172.20.48.160/27
-origin:            AS4242428192
-mnt-by:            FFAMAX-MNT
-remarks:           -- reseved for extension
-bgp-status:        inactive 1490472004
+route:              172.20.48.160/27
+origin:             AS4242428192
+mnt-by:             FFAMAX-MNT
+remarks:            -- reseved for extension
+bgp-status:         inactive 1490472004

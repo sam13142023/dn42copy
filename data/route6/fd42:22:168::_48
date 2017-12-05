@@ -1,4 +1,4 @@
-route6:            fd42:22:168::/48
-descr:             YANG IPv6 Route
-origin:            AS64768
-mnt-by:            YANG-MNT
+route6:             fd42:22:168::/48
+descr:              YANG IPv6 Route
+origin:             AS64768
+mnt-by:             YANG-MNT

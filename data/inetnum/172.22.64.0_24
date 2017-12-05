@@ -9,5 +9,5 @@ mnt-by:             SCHRODINGER-MNT
 status:             ASSIGNED PI
 nserver:            ns1.schrodinger.dn42
 bgp-status:         inactive 1505145605
-remarks:		1425938004 Will readvertise soon once new peerings are established.
-remarks:		1432424317 Reactivated.
+remarks:            1425938004 Will readvertise soon once new peerings are established.
+remarks:            1432424317 Reactivated.

@@ -1,7 +1,7 @@
-domain:            mt.dn42
-admin-c:           MT-DN42
-tech-c:            MT-DN42
-mnt-by:            MT-MNT
-nserver:           fornax.urandom.eu.org
-nserver:           ara.urandom.eu.org
-status:            CONNECT
+domain:             mt.dn42
+admin-c:            MT-DN42
+tech-c:             MT-DN42
+mnt-by:             MT-MNT
+nserver:            fornax.urandom.eu.org
+nserver:            ara.urandom.eu.org
+status:             CONNECT

@@ -1,6 +1,6 @@
-aut-num:           AS4242422110
-as-name:           OVIS-AS
-descr:             Ovis AS Varaždin Croatia
-admin-c:           JOHNNY2211-DN42
-tech-c:            JOHNNY2211-DN42
-mnt-by:            OVIS-MNT
+aut-num:            AS4242422110
+as-name:            OVIS-AS
+descr:              Ovis AS Varaždin Croatia
+admin-c:            JOHNNY2211-DN42
+tech-c:             JOHNNY2211-DN42
+mnt-by:             OVIS-MNT

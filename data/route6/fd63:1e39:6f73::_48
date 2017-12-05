@@ -2,4 +2,4 @@ route6:             fd63:1e39:6f73::/48
 descr:              Anonet IPv6 Deployment
 origin:             AS64697
 origin:             AS64766
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

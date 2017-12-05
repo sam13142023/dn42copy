@@ -1,10 +1,10 @@
-inetnum:           172.20.234.97 - 172.20.234.126
-netname:           X539-NET
-descr:             X539 Network
-country:           AU
-admin-c:           X539-DN42
-tech-c:            X539-DN42
-mnt-by:            X539-MNT
-nserver:           dummy.dn42
-status:            ASSIGNED
-cidr:              172.20.234.96/27
+inetnum:            172.20.234.97 - 172.20.234.126
+netname:            X539-NET
+descr:              X539 Network
+country:            AU
+admin-c:            X539-DN42
+tech-c:             X539-DN42
+mnt-by:             X539-MNT
+nserver:            dummy.dn42
+status:             ASSIGNED
+cidr:               172.20.234.96/27

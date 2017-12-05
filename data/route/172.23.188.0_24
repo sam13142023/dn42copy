@@ -1,4 +1,4 @@
-route:             172.23.188.0/24
-descr:             ISP Internal Services
-origin:            AS4242420467
-mnt-by:            REISENB-MNT
+route:              172.23.188.0/24
+descr:              ISP Internal Services
+origin:             AS4242420467
+mnt-by:             REISENB-MNT

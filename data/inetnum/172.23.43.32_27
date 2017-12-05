@@ -1,11 +1,11 @@
-inetnum:           172.23.43.32-172.23.43.63
-netname:           CRXXN-NETWORK
-descr:             Computer Science Test Network
-country:           DE
-admin-c:           CRXXN-DN42
-tech-c:            CRXXN-DN42
-mnt-by:            CRXXN-MNT
-nserver:           ns1.crxxn.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1497614405
-cidr:		172.23.43.32/27
+inetnum:            172.23.43.32-172.23.43.63
+netname:            CRXXN-NETWORK
+descr:              Computer Science Test Network
+country:            DE
+admin-c:            CRXXN-DN42
+tech-c:             CRXXN-DN42
+mnt-by:             CRXXN-MNT
+nserver:            ns1.crxxn.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1497614405
+cidr:               172.23.43.32/27

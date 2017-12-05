@@ -1,5 +1,5 @@
-route:             172.22.148.128/27
-descr:             PS1-NET
-origin:            AS4242421973
-mnt-by:            PS73-MNT
-bgp-status:        inactive 1474560006
+route:              172.22.148.128/27
+descr:              PS1-NET
+origin:             AS4242421973
+mnt-by:             PS73-MNT
+bgp-status:         inactive 1474560006

@@ -26,3 +26,4 @@
 0040	permit	172.31.0.0/16		16	32	# chaosvpn
 
 1000	deny	0.0.0.0/0		0	32	# block the rest 
+

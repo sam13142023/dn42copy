@@ -1,6 +1,6 @@
-aut-num:           AS4242420102
-as-name:           STARTLEDPHOENIX-AS
-descr:             StartledPhoenix
-admin-c:           STARTLEDPHOENIX-DN42
-tech-c:            STARTLEDPHOENIX-DN42
-mnt-by:            STARTLEDPHOENIX-MNT
+aut-num:            AS4242420102
+as-name:            STARTLEDPHOENIX-AS
+descr:              StartledPhoenix
+admin-c:            STARTLEDPHOENIX-DN42
+tech-c:             STARTLEDPHOENIX-DN42
+mnt-by:             STARTLEDPHOENIX-MNT

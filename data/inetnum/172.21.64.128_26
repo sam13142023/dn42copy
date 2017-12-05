@@ -1,10 +1,10 @@
-inetnum:           172.21.64.128 - 172.21.64.191
-netname:           NET-PHYSTRAX-002
-country:           FR
-admin-c:           MADYODA-DN42
-tech-c:            MADYODA-DN42
-mnt-by:            PHYSTRAX-MNT
-nserver:           dummy.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1500192004
-cidr:		172.21.64.128/26
+inetnum:            172.21.64.128 - 172.21.64.191
+netname:            NET-PHYSTRAX-002
+country:            FR
+admin-c:            MADYODA-DN42
+tech-c:             MADYODA-DN42
+mnt-by:             PHYSTRAX-MNT
+nserver:            dummy.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1500192004
+cidr:               172.21.64.128/26

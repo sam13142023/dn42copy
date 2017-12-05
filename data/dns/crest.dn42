@@ -1,8 +1,8 @@
-domain :	crest.dn42
-nserver:	dns1.crest.dn42	172.22.228.6
-nserver:	dns2.crest.dn42 172.22.228.8
-nserver:	ns1.mwd.dn42 172.23.219.10
-status:            EVALPEND 1503916065
-admin-c:	CREST-DN42
-tech-c :	CREST-DN42
-mnt-by:           DUMMY-MNT
+domain:             crest.dn42
+nserver:            dns1.crest.dn42	172.22.228.6
+nserver:            dns2.crest.dn42 172.22.228.8
+nserver:            ns1.mwd.dn42 172.23.219.10
+status:             EVALPEND 1503916065
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+mnt-by:             DUMMY-MNT

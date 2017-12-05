@@ -1,6 +1,6 @@
-aut-num:           AS4242423501
-as-name:           TISET-TEST
-descr:             AS for Testing
-admin-c:           TISET-DN42
-tech-c:            TISET-DN42
-mnt-by:            TISET-MNT
+aut-num:            AS4242423501
+as-name:            TISET-TEST
+descr:              AS for Testing
+admin-c:            TISET-DN42
+tech-c:             TISET-DN42
+mnt-by:             TISET-MNT

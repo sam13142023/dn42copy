@@ -1,5 +1,5 @@
 route:              172.22.80.0/22
 descr:              sublab.org
 origin:             AS64680
-bgp-status: inactive 1499990407
-mnt-by:           DUMMY-MNT
+bgp-status:         inactive 1499990407
+mnt-by:             DUMMY-MNT

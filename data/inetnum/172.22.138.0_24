@@ -7,6 +7,6 @@ tech-c:             WELTERDE-DN42
 status:             ASSIGNED
 nserver:            ns1.welterde.dn42
 nserver:            ns2.welterde.dn42
-bgp-status: inactive 1499875214
-cidr:		172.22.138.0/24
-mnt-by:           DUMMY-MNT
+bgp-status:         inactive 1499875214
+cidr:               172.22.138.0/24
+mnt-by:             DUMMY-MNT

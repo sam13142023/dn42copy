@@ -1,10 +1,10 @@
-inetnum:           172.20.72.0 - 172.20.79.255
-netname:           NET-ZENTRALWERK-DN42
-descr:             zentralwerk network
-policy:            reserved
-remarks:           Contact eri for allocation information.
-org:           ORG-ZENTRALWERK
-mnt-by:            ERI-MNT
-status:            ALLOCATED
-bgp-status:        active
-cidr:		172.20.72.0/21
+inetnum:            172.20.72.0 - 172.20.79.255
+netname:            NET-ZENTRALWERK-DN42
+descr:              zentralwerk network
+policy:             reserved
+remarks:            Contact eri for allocation information.
+org:                ORG-ZENTRALWERK
+mnt-by:             ERI-MNT
+status:             ALLOCATED
+bgp-status:         active
+cidr:               172.20.72.0/21

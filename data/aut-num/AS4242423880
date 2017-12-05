@@ -1,6 +1,6 @@
-aut-num:           AS4242423880
-as-name:           MD-AS
-descr:             testnet
-admin-c:           MD-DN42
-tech-c:            MD-DN42
-mnt-by:            MD-MNT
+aut-num:            AS4242423880
+as-name:            MD-AS
+descr:              testnet
+admin-c:            MD-DN42
+tech-c:             MD-DN42
+mnt-by:             MD-MNT

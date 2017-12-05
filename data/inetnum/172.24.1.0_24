@@ -1,9 +1,9 @@
-inetnum:           172.24.1.0 - 172.24.1.255
-netname:           ETH2-LOOPBACK-SERVER
-descr:             eth2 Server loopback
-country:           NL
-admin-c:           REENING-DN42
-tech-c:            REENING-DN42
-mnt-by:            ETH2-MNT
-status:            ALLOCATED
-cidr:		172.24.1.0/24
+inetnum:            172.24.1.0 - 172.24.1.255
+netname:            ETH2-LOOPBACK-SERVER
+descr:              eth2 Server loopback
+country:            NL
+admin-c:            REENING-DN42
+tech-c:             REENING-DN42
+mnt-by:             ETH2-MNT
+status:             ALLOCATED
+cidr:               172.24.1.0/24

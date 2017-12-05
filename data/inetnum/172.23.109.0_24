@@ -1,10 +1,10 @@
-inetnum:           172.23.109.0 - 172.23.109.255
-netname:           CONTROLPLANE-NET
-descr:             CONTROLPLANE net
-country:           DE
-admin-c:           CONTROLPLANE-DN42
-tech-c:            CONTROLPLANE-DN42
-mnt-by:            CONTROLPLANE-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1496664003
-cidr:		172.23.109.0/24
+inetnum:            172.23.109.0 - 172.23.109.255
+netname:            CONTROLPLANE-NET
+descr:              CONTROLPLANE net
+country:            DE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1496664003
+cidr:               172.23.109.0/24

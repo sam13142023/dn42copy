@@ -1,5 +1,5 @@
 inetnum:            172.22.65.0 - 172.22.65.255
-cidr:				172.22.65.0/24
+cidr:               172.22.65.0/24
 netname:            SCHRODINGER-DN42-INET4
 descr:              Schrodinger's home subnet INET4
 country:            IE
@@ -7,7 +7,7 @@ admin-c:            SCHRODINGER-DN42
 tech-c:             SCHRODINGER-DN42
 status:             ASSIGNED
 mnt-by:             SCHRODINGER-MNT
-nserver:			ns1.schrodinger.dn42
-bgp-status: 		inactive 1505145605
-remarks:             1425938004 Will readvertise soon once new peerings are established.
-remarks:				1432424317 Reactivated.
+nserver:            ns1.schrodinger.dn42
+bgp-status:         inactive 1505145605
+remarks:            1425938004 Will readvertise soon once new peerings are established.
+remarks:            1432424317 Reactivated.
