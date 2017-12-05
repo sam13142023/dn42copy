@@ -1,5 +1,5 @@
-route:             172.23.245.0/24
-descr:             DarkIT.net Space
-origin:            AS76175
-mnt-by:            DARKIT-MNT
-bgp-status: active
+route:              172.23.245.0/24
+descr:              DarkIT.net Space
+origin:             AS76175
+mnt-by:             DARKIT-MNT
+bgp-status:         active

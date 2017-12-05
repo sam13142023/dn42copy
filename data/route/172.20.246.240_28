@@ -1,4 +1,4 @@
-route:             172.20.246.240/28
-origin:            AS4242420404
-mnt-by:            BUNSEN-MNT
-bgp-status:        inactive 1463601603
+route:              172.20.246.240/28
+origin:             AS4242420404
+mnt-by:             BUNSEN-MNT
+bgp-status:         inactive 1463601603

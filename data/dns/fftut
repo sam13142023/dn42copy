@@ -1,12 +1,12 @@
-domain: fftut
-remarks: ** tuttlingen
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.tuttlingen.g.nic.dn42 10.119.0.5
-nserver: ns2.tuttlingen.g.nic.dn42 10.119.0.8
-nserver: ns3.tuttlingen.g.nic.dn42 10.119.0.10
-nserver: ns1.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::5
-nserver: ns2.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::8
-nserver: ns3.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::a
+domain:             fftut
+remarks:            ** tuttlingen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.tuttlingen.g.nic.dn42 10.119.0.5
+nserver:            ns2.tuttlingen.g.nic.dn42 10.119.0.8
+nserver:            ns3.tuttlingen.g.nic.dn42 10.119.0.10
+nserver:            ns1.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::5
+nserver:            ns2.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::8
+nserver:            ns3.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::a

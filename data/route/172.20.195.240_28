@@ -1,4 +1,4 @@
-route:             172.20.195.240/28
-origin:            AS4242423721
-mnt-by:            BITSBUF-MNT
-bgp-status:        inactive 1489449616
+route:              172.20.195.240/28
+origin:             AS4242423721
+mnt-by:             BITSBUF-MNT
+bgp-status:         inactive 1489449616

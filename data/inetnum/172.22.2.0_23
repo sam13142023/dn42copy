@@ -6,5 +6,5 @@ admin-c:            EQUINOX-DN42
 tech-c:             EQUINOX-DN42
 status:             ASSIGNED
 mnt-by:             EQUINOX-DN42-MNT
-bgp-status: inactive 1499976005
-cidr:		172.22.2.0/23
+bgp-status:         inactive 1499976005
+cidr:               172.22.2.0/23

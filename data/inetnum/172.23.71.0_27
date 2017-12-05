@@ -1,11 +1,11 @@
-inetnum:           172.23.71.0-172.23.71.31
-netname:           MSNET-1
-descr:             MSNET
-country:           US
-admin-c:           MSNET-DN42
-tech-c:            MSNET-DN42
-mnt-by:            MSNET-MNT
-nserver:           ns1.pq.my
-status:            ALLOCATED
-bgp-status:        inactive 1493265603
-cidr:		172.23.71.0/27
+inetnum:            172.23.71.0-172.23.71.31
+netname:            MSNET-1
+descr:              MSNET
+country:            US
+admin-c:            MSNET-DN42
+tech-c:             MSNET-DN42
+mnt-by:             MSNET-MNT
+nserver:            ns1.pq.my
+status:             ALLOCATED
+bgp-status:         inactive 1493265603
+cidr:               172.23.71.0/27

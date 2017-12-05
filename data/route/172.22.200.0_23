@@ -2,4 +2,4 @@ route:              172.22.200.0/23
 descr:              Internal usage
 origin:             AS64794
 mnt-by:             MORTZU-MNT
-bgp-status:        inactive 1485705605
+bgp-status:         inactive 1485705605

@@ -1,6 +1,6 @@
-domain:            HAELWENN.DN42
-admin-c:           HAELWENN-DN42
-tech-c:            HAELWENN-DN42
-mnt-by:            HAELWENN-MNT
-nserver:           minion.hacktivis.me
-status:            CONNECT
+domain:             HAELWENN.DN42
+admin-c:            HAELWENN-DN42
+tech-c:             HAELWENN-DN42
+mnt-by:             HAELWENN-MNT
+nserver:            minion.hacktivis.me
+status:             CONNECT

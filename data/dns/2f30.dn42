@@ -1,7 +1,7 @@
-domain:            2f30.dn42
-descr:             2f30 domain
-admin-c:           SIN-DN42
-tech-c:            SIN-DN42
-mnt-by:            2F30-MNT
-nserver:           ns1.2f30.dn42 172.23.35.1
-status:            EVALPEND 1492510643
+domain:             2f30.dn42
+descr:              2f30 domain
+admin-c:            SIN-DN42
+tech-c:             SIN-DN42
+mnt-by:             2F30-MNT
+nserver:            ns1.2f30.dn42 172.23.35.1
+status:             EVALPEND 1492510643

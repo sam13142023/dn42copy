@@ -1,4 +1,4 @@
-route6:            fde8:8e27:b925::/48
-descr:             Str's route6
-origin:            AS4242421276
-mnt-by:            STR-MNT
+route6:             fde8:8e27:b925::/48
+descr:              Str's route6
+origin:             AS4242421276
+mnt-by:             STR-MNT

@@ -1,6 +1,6 @@
-aut-num:           AS4242423842
-as-name:           OLAF-AS
-descr:             http://olaf.mintmachclub.de/
-admin-c:           JOJO-DN42
-tech-c:            JOJO-DN42
-mnt-by:            JO-JO-MNT
+aut-num:            AS4242423842
+as-name:            OLAF-AS
+descr:              http://olaf.mintmachclub.de/
+admin-c:            JOJO-DN42
+tech-c:             JOJO-DN42
+mnt-by:             JO-JO-MNT

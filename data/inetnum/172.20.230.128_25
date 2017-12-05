@@ -1,11 +1,11 @@
-inetnum:           172.20.230.128-172.20.230.255
-netname:           INETLI-PEER-DN42
-admin-c:           INETLI-DN42
-org:               ORG-INETLI
-tech-c:            INETLI-DN42
-mnt-by:            INETLI-MNT
-descr:             Internet Libre http://inetli.org/
-nserver:           crista.deidad.net
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:	           172.20.230.128/25
+inetnum:            172.20.230.128-172.20.230.255
+netname:            INETLI-PEER-DN42
+admin-c:            INETLI-DN42
+org:                ORG-INETLI
+tech-c:             INETLI-DN42
+mnt-by:             INETLI-MNT
+descr:              Internet Libre http://inetli.org/
+nserver:            crista.deidad.net
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.230.128/25

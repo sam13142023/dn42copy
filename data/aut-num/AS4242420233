@@ -1,6 +1,6 @@
-aut-num:           AS4242420233
-as-name:           MISAKA-AS
-descr:             Misaka Network
-admin-c:           AVELINE-DN42
-tech-c:            AVELINE-DN42
-mnt-by:            AVELINE-MNT
+aut-num:            AS4242420233
+as-name:            MISAKA-AS
+descr:              Misaka Network
+admin-c:            AVELINE-DN42
+tech-c:             AVELINE-DN42
+mnt-by:             AVELINE-MNT

@@ -1,5 +1,5 @@
-route:             172.21.89.0/24
-descr:             AlfaB-NET
-origin:            AS4242421598
-mnt-by:            ALFAB-MNT
-bgp-status:        inactive 1492306865
+route:              172.21.89.0/24
+descr:              AlfaB-NET
+origin:             AS4242421598
+mnt-by:             ALFAB-MNT
+bgp-status:         inactive 1492306865

@@ -1,5 +1,5 @@
-route:             172.22.77.0/27
-descr:             DEDICADOS-DN42
-origin:            AS4242423312
-mnt-by:            DEDICADOS-MNT
-bgp-status:        inactive 1462924803
+route:              172.22.77.0/27
+descr:              DEDICADOS-DN42
+origin:             AS4242423312
+mnt-by:             DEDICADOS-MNT
+bgp-status:         inactive 1462924803

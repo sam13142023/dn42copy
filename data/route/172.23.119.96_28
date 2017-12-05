@@ -1,4 +1,4 @@
-route:             172.23.119.96/28
-origin:            AS4242420756
-mnt-by:            LEMELISK-MNT
-bgp-status:        active
+route:              172.23.119.96/28
+origin:             AS4242420756
+mnt-by:             LEMELISK-MNT
+bgp-status:         active

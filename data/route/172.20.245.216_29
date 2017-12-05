@@ -1,4 +1,4 @@
-route:             172.20.245.216/29
-origin:            AS4242420802
-mnt-by:            KOODA-MNT
-bgp-status:        inactive 1487779205
+route:              172.20.245.216/29
+origin:             AS4242420802
+mnt-by:             KOODA-MNT
+bgp-status:         inactive 1487779205

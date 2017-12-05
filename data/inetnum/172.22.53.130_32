@@ -4,6 +4,6 @@ country:            US
 admin-c:            INTERFECT-DN42
 tech-c:             INTERFECT-DN42
 status:             ASSIGNED
-bgp-status: active
-cidr:		172.22.53.130/32
-mnt-by:           DUMMY-MNT
+bgp-status:         active
+cidr:               172.22.53.130/32
+mnt-by:             DUMMY-MNT

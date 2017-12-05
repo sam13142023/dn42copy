@@ -1,11 +1,11 @@
-inetnum:           172.20.228.80-172.20.228.95
-netname:           HSYSTEMS-WWNET
-descr:             NET-172-20-228-80
-country:           US
-admin-c:           HSYSTEMS-DN42
-tech-c:            HSYSTEMS-DN42
-mnt-by:            HSYSTEMS-MNT
-nserver:           ns2.he.net
-status:            ASSIGNED
-bgp-status:        inactive 1506628803
-cidr:		172.20.228.80/28
+inetnum:            172.20.228.80-172.20.228.95
+netname:            HSYSTEMS-WWNET
+descr:              NET-172-20-228-80
+country:            US
+admin-c:            HSYSTEMS-DN42
+tech-c:             HSYSTEMS-DN42
+mnt-by:             HSYSTEMS-MNT
+nserver:            ns2.he.net
+status:             ASSIGNED
+bgp-status:         inactive 1506628803
+cidr:               172.20.228.80/28

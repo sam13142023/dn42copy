@@ -1,6 +1,6 @@
-aut-num:           AS4242421300
-as-name:           TUALIBANO-AS
-descr:             tualibano as 
-admin-c:           TUALIBANO-DN42
-tech-c:            TUALIBANO-DN42
-mnt-by:            TLBNAS-MNT
+aut-num:            AS4242421300
+as-name:            TUALIBANO-AS
+descr:              tualibano as
+admin-c:            TUALIBANO-DN42
+tech-c:             TUALIBANO-DN42
+mnt-by:             TLBNAS-MNT

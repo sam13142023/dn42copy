@@ -1,9 +1,9 @@
-inet6num:          fdd7:e654:c010:: - fdd7:e654:c010:ffff:ffff:ffff:ffff:ffff
-netname:           PR0-NET6
-descr:             pr0-Transfer-NET
-country:           DE
-admin-c:           PR0-DN42
-tech-c:            PR0-DN42
-mnt-by:            PR0-MNT
-status:            ALLOCATED
-cidr:		fdd7:e654:c010::/48
+inet6num:           fdd7:e654:c010:: - fdd7:e654:c010:ffff:ffff:ffff:ffff:ffff
+netname:            PR0-NET6
+descr:              pr0-Transfer-NET
+country:            DE
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ALLOCATED
+cidr:               fdd7:e654:c010::/48

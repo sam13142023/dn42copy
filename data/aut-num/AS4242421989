@@ -1,6 +1,6 @@
-aut-num:           AS4242421989
-as-name:           RAUSCHNET-AS
-descr:             RauschNet
-admin-c:           KCR-DN42
-tech-c:            KCR-DN42
-mnt-by:            KCR-MNT
+aut-num:            AS4242421989
+as-name:            RAUSCHNET-AS
+descr:              RauschNet
+admin-c:            KCR-DN42
+tech-c:             KCR-DN42
+mnt-by:             KCR-MNT

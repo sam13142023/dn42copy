@@ -1,5 +1,5 @@
-route:             172.20.187.192/26
-origin:            AS4242420114
-descr:             Route to Marlinc's server network
-mnt-by:            MARLINC-MNT
-bgp-status:        inactive 1490630404
+route:              172.20.187.192/26
+origin:             AS4242420114
+descr:              Route to Marlinc's server network
+mnt-by:             MARLINC-MNT
+bgp-status:         inactive 1490630404

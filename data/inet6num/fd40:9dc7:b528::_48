@@ -1,10 +1,10 @@
-inet6num:          fd40:9dc7:b528:: - fd40:9dc7:b528:ffff:ffff:ffff:ffff:ffff
-netname:           SWORDARMOR-IPV6
-descr:             Rennes
-country:           FR
-admin-c:           ALARIG-DN42
-tech-c:            ALARIG-DN42
-mnt-by:            ALARIG-MNT
-status:            ASSIGNED
-nserver:           bulbizarre.swordarmor.dn42 172.20.44.5
-cidr:		fd40:9dc7:b528::/48
+inet6num:           fd40:9dc7:b528:: - fd40:9dc7:b528:ffff:ffff:ffff:ffff:ffff
+netname:            SWORDARMOR-IPV6
+descr:              Rennes
+country:            FR
+admin-c:            ALARIG-DN42
+tech-c:             ALARIG-DN42
+mnt-by:             ALARIG-MNT
+status:             ASSIGNED
+nserver:            bulbizarre.swordarmor.dn42 172.20.44.5
+cidr:               fd40:9dc7:b528::/48

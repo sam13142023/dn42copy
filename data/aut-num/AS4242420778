@@ -1,13 +1,13 @@
-aut-num:           AS4242420778
-as-name:           OTARODE
-descr:             OTARO IN FA CK 
-admin-c:           ZANEI-DN42
-tech-c:            ZANEI-DN42
-mnt-by:            OTAROSEVEN-MNT
-remarks:           Feel free to ask for peering
-remarks:           Feel free to ask for peering
-remarks:           Feel free to ask for peering
-remarks:           Feel free to ask for peering
-remarks:           Feel free to ask for peering
-remarks:           Location: Germany, Frankfurt/Main
-remarks:           mail> noc@otaro.de
+aut-num:            AS4242420778
+as-name:            OTARODE
+descr:              OTARO IN FA CK
+admin-c:            ZANEI-DN42
+tech-c:             ZANEI-DN42
+mnt-by:             OTAROSEVEN-MNT
+remarks:            Feel free to ask for peering
+remarks:            Feel free to ask for peering
+remarks:            Feel free to ask for peering
+remarks:            Feel free to ask for peering
+remarks:            Feel free to ask for peering
+remarks:            Location: Germany, Frankfurt/Main
+remarks:            mail> noc@otaro.de

@@ -1,5 +1,5 @@
-route:             172.23.44.0/29
-descr:             dn42 address space of RH-DN42 FR-CORE-Router-0
-origin:            AS4242421011
-mnt-by:            RMLH-MNT
-bgp-status:        inactive 1490140807
+route:              172.23.44.0/29
+descr:              dn42 address space of RH-DN42 FR-CORE-Router-0
+origin:             AS4242421011
+mnt-by:             RMLH-MNT
+bgp-status:         inactive 1490140807

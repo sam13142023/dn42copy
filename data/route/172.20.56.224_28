@@ -1,5 +1,5 @@
-route:             172.20.56.224/28
-descr:             IMOTO NETWORK JP DATACENTER
-origin:            AS4242423687
-mnt-by:            IMOTO-MNT
-bgp-status:        inactive 1463601603
+route:              172.20.56.224/28
+descr:              IMOTO NETWORK JP DATACENTER
+origin:             AS4242423687
+mnt-by:             IMOTO-MNT
+bgp-status:         inactive 1463601603

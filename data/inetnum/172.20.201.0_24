@@ -1,9 +1,9 @@
-inetnum:           172.20.201.0 - 172.20.201.255
-netname:           ASDF-IP4NET
-country:           AT
-admin-c:           ASDF-DN42
-tech-c:            ASDF-DN42
-status:            ASSIGNED
-mnt-by:            ASDF-MNT
-bgp-status:        active
-cidr:              172.20.201.0/24
+inetnum:            172.20.201.0 - 172.20.201.255
+netname:            ASDF-IP4NET
+country:            AT
+admin-c:            ASDF-DN42
+tech-c:             ASDF-DN42
+status:             ASSIGNED
+mnt-by:             ASDF-MNT
+bgp-status:         active
+cidr:               172.20.201.0/24

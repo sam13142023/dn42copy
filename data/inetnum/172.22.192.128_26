@@ -6,5 +6,5 @@ tech-c:             JPLITZA-DN42
 status:             ASSIGNED
 mnt-by:             JPLITZA-MNT
 nserver:            ns01.dn42.jplitza.de
-bgp-status: active
-cidr:		172.22.192.128/26
+bgp-status:         active
+cidr:               172.22.192.128/26

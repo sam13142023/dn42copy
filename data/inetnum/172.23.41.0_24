@@ -1,10 +1,10 @@
-inetnum:           172.23.41.0 - 172.23.41.255
-netname:           ALEX-DN42
-descr:             DNTNET PA Space 2
-country:           NL
-admin-c:           ALEX-DN42
-tech-c:            ALEX-DN42
-mnt-by:            ALEX-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1505145606
-cidr:		172.23.41.0/24
+inetnum:            172.23.41.0 - 172.23.41.255
+netname:            ALEX-DN42
+descr:              DNTNET PA Space 2
+country:            NL
+admin-c:            ALEX-DN42
+tech-c:             ALEX-DN42
+mnt-by:             ALEX-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1505145606
+cidr:               172.23.41.0/24

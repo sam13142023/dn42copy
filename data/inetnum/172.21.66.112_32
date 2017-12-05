@@ -1,8 +1,8 @@
-inetnum:           172.21.66.112-172.21.66.112
-netname:           JRB0001-TRANSIT-PEERING-SIEMIR-DE-1
-admin-c:           JRB0001-DN42
-tech-c:            JRB0001-DN42
-mnt-by:            JRB0001-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1506643205
-cidr:		172.21.66.112/32
+inetnum:            172.21.66.112-172.21.66.112
+netname:            JRB0001-TRANSIT-PEERING-SIEMIR-DE-1
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1506643205
+cidr:               172.21.66.112/32

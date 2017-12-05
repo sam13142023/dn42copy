@@ -1,5 +1,5 @@
-route:             172.20.160.64/26
-descr:             S3ROOT-ROUTER
-origin:            AS64781
-mnt-by:            BENLUE-MNT
-bgp-status:        inactive 1470700803
+route:              172.20.160.64/26
+descr:              S3ROOT-ROUTER
+origin:             AS64781
+mnt-by:             BENLUE-MNT
+bgp-status:         inactive 1470700803

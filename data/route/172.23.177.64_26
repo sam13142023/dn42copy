@@ -1,5 +1,5 @@
-route:             172.23.177.64/26
-descr:             Linservers Datacenter Block
-origin:            AS4242421987
-mnt-by:            LINSERVERS-MNT
-bgp-status:        inactive 1506628809
+route:              172.23.177.64/26
+descr:              Linservers Datacenter Block
+origin:             AS4242421987
+mnt-by:             LINSERVERS-MNT
+bgp-status:         inactive 1506628809

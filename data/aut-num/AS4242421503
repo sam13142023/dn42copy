@@ -1,6 +1,6 @@
-aut-num:           AS4242421503
-as-name:           JAXX-AS
-descr:             JaXX
-admin-c:           JAXX-DN42
-tech-c:            JAXX-DN42
-mnt-by:            JAXX-MNT
+aut-num:            AS4242421503
+as-name:            JAXX-AS
+descr:              JaXX
+admin-c:            JAXX-DN42
+tech-c:             JAXX-DN42
+mnt-by:             JAXX-MNT

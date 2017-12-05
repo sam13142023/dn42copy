@@ -1,5 +1,5 @@
-route:             172.20.198.0/24
-descr:             MARIDE-HOME-NET Route
-origin:            AS4242422301
-mnt-by:            MARIDE-MNT
-bgp-status:        inactive 1492306865
+route:              172.20.198.0/24
+descr:              MARIDE-HOME-NET Route
+origin:             AS4242422301
+mnt-by:             MARIDE-MNT
+bgp-status:         inactive 1492306865

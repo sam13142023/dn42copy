@@ -1,7 +1,7 @@
-aut-num:           AS4242421124
-as-name:           MODERN-NETWORKING
-descr:             Modern Networking Peering Block
-org:           ORG-MOD
-admin-c:           MOD-DN42
-tech-c:            MOD-DN42
-mnt-by:            MOD-MNT
+aut-num:            AS4242421124
+as-name:            MODERN-NETWORKING
+descr:              Modern Networking Peering Block
+org:                ORG-MOD
+admin-c:            MOD-DN42
+tech-c:             MOD-DN42
+mnt-by:             MOD-MNT

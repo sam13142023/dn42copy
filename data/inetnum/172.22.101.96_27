@@ -1,12 +1,12 @@
-inetnum:           172.22.101.96 - 172.22.101.127
-netname:           KROY-NETWORK
-descr:             KROY NETWORK
-country:           US
-admin-c:           KROY-DN42
-tech-c:            KROY-DN42
-mnt-by:            KROY-MNT
-nserver:           ns1.kroy.dn42
-nserver:           ns2.kroy.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1499875213
-cidr:		172.22.101.96/27
+inetnum:            172.22.101.96 - 172.22.101.127
+netname:            KROY-NETWORK
+descr:              KROY NETWORK
+country:            US
+admin-c:            KROY-DN42
+tech-c:             KROY-DN42
+mnt-by:             KROY-MNT
+nserver:            ns1.kroy.dn42
+nserver:            ns2.kroy.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1499875213
+cidr:               172.22.101.96/27

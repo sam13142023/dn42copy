@@ -1,4 +1,4 @@
-route:             172.20.175.112/28
-origin:            AS4242420104
-mnt-by:            SCINET-MNT
-bgp-status:        inactive 1478102403
+route:              172.20.175.112/28
+origin:             AS4242420104
+mnt-by:             SCINET-MNT
+bgp-status:         inactive 1478102403

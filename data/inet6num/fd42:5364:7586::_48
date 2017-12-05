@@ -1,7 +1,7 @@
-inet6num:          fd42:5364:7586:0000:0000:0000:0000:0000 - fd42:5364:7586:ffff:ffff:ffff:ffff:ffff
-netname:           MULTI-NETWORK
-admin-c:           MULTI-DN42
-tech-c:            MULTI-DN42
-mnt-by:            MULTI-MNT
-status:            ASSIGNED
-cidr:		fd42:5364:7586::/48
+inet6num:           fd42:5364:7586:0000:0000:0000:0000:0000 - fd42:5364:7586:ffff:ffff:ffff:ffff:ffff
+netname:            MULTI-NETWORK
+admin-c:            MULTI-DN42
+tech-c:             MULTI-DN42
+mnt-by:             MULTI-MNT
+status:             ASSIGNED
+cidr:               fd42:5364:7586::/48

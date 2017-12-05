@@ -1,11 +1,11 @@
-inetnum:           172.20.236.0 - 172.20.236.255
-netname:           SOLITUDE-MASTER
-descr:             super block
-country:           US
-admin-c:           DEVANS-DN42
-tech-c:            DEVANS-DN42
-mnt-by:            SOLITUDE-MNT
-nserver:           ns1.solitude.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.20.236.0/24
+inetnum:            172.20.236.0 - 172.20.236.255
+netname:            SOLITUDE-MASTER
+descr:              super block
+country:            US
+admin-c:            DEVANS-DN42
+tech-c:             DEVANS-DN42
+mnt-by:             SOLITUDE-MNT
+nserver:            ns1.solitude.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.236.0/24

@@ -1,5 +1,5 @@
-route:             172.22.168.0/25
-descr:             YANG dn42 IPv4 subnet
-origin:            AS64768
-mnt-by:            YANG-MNT
-bgp-status: inactive 1506657611
+route:              172.22.168.0/25
+descr:              YANG dn42 IPv4 subnet
+origin:             AS64768
+mnt-by:             YANG-MNT
+bgp-status:         inactive 1506657611

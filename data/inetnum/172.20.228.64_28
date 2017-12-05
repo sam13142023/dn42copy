@@ -1,10 +1,10 @@
-inetnum:           172.20.228.64-172.20.228.79
-netname:           SKJOLDR-NETWORK
-descr:             Network of skjoldr
-country:           DE
-admin-c:           SKJOLDR-DN42
-tech-c:            SKJOLDR-DN42
-mnt-by:            SKJOLDR-MNT
-status:            ASSIGNED
-bgp-status:        active
-cidr:		172.20.228.64/28
+inetnum:            172.20.228.64-172.20.228.79
+netname:            SKJOLDR-NETWORK
+descr:              Network of skjoldr
+country:            DE
+admin-c:            SKJOLDR-DN42
+tech-c:             SKJOLDR-DN42
+mnt-by:             SKJOLDR-MNT
+status:             ASSIGNED
+bgp-status:         active
+cidr:               172.20.228.64/28

@@ -1,4 +1,4 @@
-route:             172.23.173.224/27
-origin:            AS4242423972
-mnt-by:            CHAIRMAN-MNT
-bgp-status:        inactive 1465084805
+route:              172.23.173.224/27
+origin:             AS4242423972
+mnt-by:             CHAIRMAN-MNT
+bgp-status:         inactive 1465084805

@@ -1,9 +1,9 @@
-inetnum:           172.23.73.128-172.23.73.255
-netname:           STRAA-NET-1
-country:           NO
-admin-c:           STRAA-DN42
-tech-c:            STRAA-DN42
-mnt-by:            STRAA-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1505232006
-cidr:		172.23.73.128/25
+inetnum:            172.23.73.128-172.23.73.255
+netname:            STRAA-NET-1
+country:            NO
+admin-c:            STRAA-DN42
+tech-c:             STRAA-DN42
+mnt-by:             STRAA-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1505232006
+cidr:               172.23.73.128/25

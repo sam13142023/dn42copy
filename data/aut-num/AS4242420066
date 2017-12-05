@@ -1,6 +1,6 @@
-aut-num:           AS4242420066
-as-name:           OGELPRE-AS
-descr:             ogelpre's AS
-admin-c:           OGELPRE-DN42
-tech-c:            OGELPRE-DN42
-mnt-by:            OGELPRE-MNT
+aut-num:            AS4242420066
+as-name:            OGELPRE-AS
+descr:              ogelpre's AS
+admin-c:            OGELPRE-DN42
+tech-c:             OGELPRE-DN42
+mnt-by:             OGELPRE-MNT

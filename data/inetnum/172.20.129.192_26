@@ -1,9 +1,9 @@
-inetnum:           172.20.129.192 - 172.20.129.255
-netname:           FALANSTER-DN42
-country:           BY
-admin-c:           KEVIT-DN42
-tech-c:            KEVIT-DN42
-mnt-by:            FALANSTER-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1499875205
-cidr:		172.20.129.192/26
+inetnum:            172.20.129.192 - 172.20.129.255
+netname:            FALANSTER-DN42
+country:            BY
+admin-c:            KEVIT-DN42
+tech-c:             KEVIT-DN42
+mnt-by:             FALANSTER-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1499875205
+cidr:               172.20.129.192/26

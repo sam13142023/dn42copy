@@ -1,12 +1,12 @@
-domain: fffl
-remarks: ** flensburg
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.flensburg.g.nic.dn42 10.129.1.1
-nserver: ns2.flensburg.g.nic.dn42 10.129.1.3
-nserver: ns3.flensburg.g.nic.dn42 10.129.1.6
-nserver: ns1.flensburg.g.nic.dn42 2001:bf7:10:1:1::1
-nserver: ns2.flensburg.g.nic.dn42 2001:bf7:10:1:1::3
-nserver: ns3.flensburg.g.nic.dn42 2001:bf7:10:1:1::6
+domain:             fffl
+remarks:            ** flensburg
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.flensburg.g.nic.dn42 10.129.1.1
+nserver:            ns2.flensburg.g.nic.dn42 10.129.1.3
+nserver:            ns3.flensburg.g.nic.dn42 10.129.1.6
+nserver:            ns1.flensburg.g.nic.dn42 2001:bf7:10:1:1::1
+nserver:            ns2.flensburg.g.nic.dn42 2001:bf7:10:1:1::3
+nserver:            ns3.flensburg.g.nic.dn42 2001:bf7:10:1:1::6

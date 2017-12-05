@@ -1,9 +1,9 @@
-inetnum:           172.20.129.128-172.20.129.191
-netname:           THUNDER-NETWORK
-admin-c:           THUNDER-DN42
-tech-c:            THUNDER-DN42
-mnt-by:            THUNDER-MNT
-nserver:           ns1.evenet.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1495137602
-cidr:		172.20.129.128/26
+inetnum:            172.20.129.128-172.20.129.191
+netname:            THUNDER-NETWORK
+admin-c:            THUNDER-DN42
+tech-c:             THUNDER-DN42
+mnt-by:             THUNDER-MNT
+nserver:            ns1.evenet.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1495137602
+cidr:               172.20.129.128/26

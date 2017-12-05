@@ -1,5 +1,5 @@
-route:             172.20.15.248/29
-descr:             hyhIX GD
-origin:            AS4242420989
-mnt-by:            HYHIX-MNT
-bgp-status:        inactive 1506240007
+route:              172.20.15.248/29
+descr:              hyhIX GD
+origin:             AS4242420989
+mnt-by:             HYHIX-MNT
+bgp-status:         inactive 1506240007

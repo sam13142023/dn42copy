@@ -1,8 +1,8 @@
-aut-num:           AS4242421276
-as-name:           STR-RHINESTONE
-descr:             Rhinestone server
-admin-c:           STR-DN42
-tech-c:            STR-DN42
-mnt-by:            STR-MNT
-remarks:           Peering via wireguard/openvpn
-remarks:           Contact on irc:strncpy
+aut-num:            AS4242421276
+as-name:            STR-RHINESTONE
+descr:              Rhinestone server
+admin-c:            STR-DN42
+tech-c:             STR-DN42
+mnt-by:             STR-MNT
+remarks:            Peering via wireguard/openvpn
+remarks:            Contact on irc:strncpy

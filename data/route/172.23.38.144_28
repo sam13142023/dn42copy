@@ -1,5 +1,5 @@
-route:             172.23.38.144/28
-descr:             NSTARNET08-ROUTE
-origin:            AS4242422310
-mnt-by:            NSTARNET08-MNT
-bgp-status:        inactive 1499875223
+route:              172.23.38.144/28
+descr:              NSTARNET08-ROUTE
+origin:             AS4242422310
+mnt-by:             NSTARNET08-MNT
+bgp-status:         inactive 1499875223

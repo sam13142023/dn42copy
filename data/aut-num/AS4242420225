@@ -1,6 +1,6 @@
-aut-num:           AS4242420225
-as-name:           MRCHLMS
-descr:             works for me
-admin-c:           MRCHLMS-DN42
-tech-c:            MRCHLMS-DN42
-mnt-by:            MRCHLMS-MNT
+aut-num:            AS4242420225
+as-name:            MRCHLMS
+descr:              works for me
+admin-c:            MRCHLMS-DN42
+tech-c:             MRCHLMS-DN42
+mnt-by:             MRCHLMS-MNT

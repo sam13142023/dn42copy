@@ -1,8 +1,8 @@
-domain:            kai.cool
-descr:             1:1 copy of my own domain in DN42
-admin-c:           KAI-DN42
-tech-c:            KAI-DN42
-mnt-by:            KAI-MNT
-nserver:           dn42-ns1.AS4242422506.dn42
-nserver:           ns1.fastnameserver.eu
-status:            CONNECT
+domain:             kai.cool
+descr:              1:1 copy of my own domain in DN42
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.AS4242422506.dn42
+nserver:            ns1.fastnameserver.eu
+status:             CONNECT

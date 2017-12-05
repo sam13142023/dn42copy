@@ -1,5 +1,5 @@
-route:             172.20.234.240/28
-descr:             nightwish's route
-origin:            AS4242423553
-mnt-by:            NIGHTWISH-MNT
-bgp-status:        inactive 1483372804
+route:              172.20.234.240/28
+descr:              nightwish's route
+origin:             AS4242423553
+mnt-by:             NIGHTWISH-MNT
+bgp-status:         inactive 1483372804

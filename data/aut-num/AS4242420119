@@ -1,6 +1,6 @@
-aut-num:           AS4242420119
-as-name:           JRB0001
-admin-c:           JRB0001-DN42
-tech-c:            JRB0001-DN42
-mnt-by:            JRB0001-MNT
-remarks:           This AS will be used for the new infrastructure which is still WIP.
+aut-num:            AS4242420119
+as-name:            JRB0001
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+remarks:            This AS will be used for the new infrastructure which is still WIP.

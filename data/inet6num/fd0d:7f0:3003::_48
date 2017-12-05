@@ -1,9 +1,9 @@
-inet6num:          FD0D:07F0:3003:: - FD0D:07F0:3003:FFFF:FFFF:FFFF:FFFF:FFFF
-netname:           ARGV-DN42
-descr:             argv
-country:           DE
-admin-c:           ARGV-DN42
-tech-c:            ARGV-DN42
-mnt-by:            ARGV-DN42-MNT
-status:            ASSIGNED
-cidr:		fd0d:7f0:3003::/48
+inet6num:           FD0D:07F0:3003:: - FD0D:07F0:3003:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:            ARGV-DN42
+descr:              argv
+country:            DE
+admin-c:            ARGV-DN42
+tech-c:             ARGV-DN42
+mnt-by:             ARGV-DN42-MNT
+status:             ASSIGNED
+cidr:               fd0d:7f0:3003::/48

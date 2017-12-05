@@ -1,11 +1,11 @@
-inetnum:           172.23.0.0 - 172.23.0.255
-cidr:              172.23.0.0/24
-netname:           NET-ANY00-DN42
-descr:             Anycast services
-remarks:           * Anyone is allowed to allocate from this pool (max /28 per person)
-policy:            open
-admin-c:           NIXNODES-DN42
-tech-c:            NIXNODES-DN42
-mnt-by:            NIXNODES-MNT
-status:            ALLOCATED
-bgp-status:        active
+inetnum:            172.23.0.0 - 172.23.0.255
+cidr:               172.23.0.0/24
+netname:            NET-ANY00-DN42
+descr:              Anycast services
+remarks:            * Anyone is allowed to allocate from this pool (max /28 per person)
+policy:             open
+admin-c:            NIXNODES-DN42
+tech-c:             NIXNODES-DN42
+mnt-by:             NIXNODES-MNT
+status:             ALLOCATED
+bgp-status:         active

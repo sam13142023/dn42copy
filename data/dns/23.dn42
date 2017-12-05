@@ -1,7 +1,7 @@
-domain:            23.dn42
-nserver:           ns1.nixnodes.dn42
-nserver:           ns2.nixnodes.dn42
-status:            EVALPEND 1503915395
-admin-c:           G-DN42
-tech-c:            G-DN42
-mnt-by:            DUMMY-MNT
+domain:             23.dn42
+nserver:            ns1.nixnodes.dn42
+nserver:            ns2.nixnodes.dn42
+status:             EVALPEND 1503915395
+admin-c:            G-DN42
+tech-c:             G-DN42
+mnt-by:             DUMMY-MNT

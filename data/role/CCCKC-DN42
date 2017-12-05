@@ -1,6 +1,6 @@
-role:              CCCKC-DN42
-nic-hdl:           CCCKC-DN42
-abuse-mailbox:     networking@c3kc.org
-admin-c:           TAGNO25-DN42
-tech-c:            TAGNO25-DN42
-mnt-by:            TAGNO25-MNT
+role:               CCCKC-DN42
+nic-hdl:            CCCKC-DN42
+abuse-mailbox:      networking@c3kc.org
+admin-c:            TAGNO25-DN42
+tech-c:             TAGNO25-DN42
+mnt-by:             TAGNO25-MNT

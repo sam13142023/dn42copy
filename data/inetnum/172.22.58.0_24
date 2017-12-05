@@ -1,11 +1,11 @@
-inetnum:       172.22.58.0 - 172.22.58.255
-netname:       FRITZ-EXT3-IP4NET
-descr:         Fritz' extended network #3
-country:       DE
-admin-c:       FRITZ-DN42
-tech-c:        FRITZ-DN42
-mnt-by:        FRITZ-MNT
-status:        ASSIGNED
-nserver:       ns.58.22.172.in-addr.arpa 195.154.200.230 2001:bc8:3a03:100::
-bgp-status: active
-cidr:		172.22.58.0/24
+inetnum:            172.22.58.0 - 172.22.58.255
+netname:            FRITZ-EXT3-IP4NET
+descr:              Fritz' extended network #3
+country:            DE
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+status:             ASSIGNED
+nserver:            ns.58.22.172.in-addr.arpa 195.154.200.230 2001:bc8:3a03:100::
+bgp-status:         active
+cidr:               172.22.58.0/24

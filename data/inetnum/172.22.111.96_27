@@ -1,10 +1,10 @@
-inetnum:           172.22.111.96-172.22.111.127
-netname:           FBNW-AMSTERDAM
-country:           NL
-admin-c:           FBNW-DN42
-tech-c:            FBNW-DN42
-mnt-by:            FLORIANB-MNT
-nserver:           ns.fbnw.dn42
-status:            ALLOCATED PA
-bgp-status:        inactive 1501689604
-cidr:		172.22.111.96/27
+inetnum:            172.22.111.96-172.22.111.127
+netname:            FBNW-AMSTERDAM
+country:            NL
+admin-c:            FBNW-DN42
+tech-c:             FBNW-DN42
+mnt-by:             FLORIANB-MNT
+nserver:            ns.fbnw.dn42
+status:             ALLOCATED PA
+bgp-status:         inactive 1501689604
+cidr:               172.22.111.96/27

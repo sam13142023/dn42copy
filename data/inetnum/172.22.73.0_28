@@ -1,11 +1,11 @@
-inetnum:           172.22.73.0 - 172.22.73.15
-netname:           BRWN-DN42-A
-descr:             BRWN Network Services
-country:           FR
-admin-c:           BRWN-DN42
-tech-c:            BRWN-DN42
-mnt-by:            BRWN-MNT
-nserver:           ns1.brwn.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1497398405
-cidr:		172.22.73.0/28
+inetnum:            172.22.73.0 - 172.22.73.15
+netname:            BRWN-DN42-A
+descr:              BRWN Network Services
+country:            FR
+admin-c:            BRWN-DN42
+tech-c:             BRWN-DN42
+mnt-by:             BRWN-MNT
+nserver:            ns1.brwn.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1497398405
+cidr:               172.22.73.0/28

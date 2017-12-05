@@ -1,10 +1,10 @@
-domain: ffpb
-remarks: ** paderborn
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.paderborn.g.nic.dn42 10.132.251.53
-nserver: ns1.paderborn.g.nic.dn42 fdca:ffee:ff12:a251::53
-nserver: ns2.paderborn.g.nic.dn42 80.70.181.58
-nserver: ns2.paderborn.g.nic.dn42 2a02:450:1:1::10
+domain:             ffpb
+remarks:            ** paderborn
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.paderborn.g.nic.dn42 10.132.251.53
+nserver:            ns1.paderborn.g.nic.dn42 fdca:ffee:ff12:a251::53
+nserver:            ns2.paderborn.g.nic.dn42 80.70.181.58
+nserver:            ns2.paderborn.g.nic.dn42 2a02:450:1:1::10

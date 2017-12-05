@@ -1,3 +1,3 @@
-route6:            fd42:f10:a15::/48
-origin:            AS4242422100
-mnt-by:            FLOKLI-MNT
+route6:             fd42:f10:a15::/48
+origin:             AS4242422100
+mnt-by:             FLOKLI-MNT

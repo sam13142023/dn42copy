@@ -1,6 +1,6 @@
-aut-num:           AS4242422180
-as-name:           AS4242422180
-descr:             BurningTree
-admin-c:           SKORPY-DN42
-tech-c:            SKORPY-DN42
-mnt-by:            SKORPY-MNT
+aut-num:            AS4242422180
+as-name:            AS4242422180
+descr:              BurningTree
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT

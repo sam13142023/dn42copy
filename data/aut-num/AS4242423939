@@ -1,7 +1,7 @@
-aut-num:           AS4242423939
-as-name:           HOST30K
-descr:             Host30K Company - www.host30k.com
-remarks:             Contact: giang@host30k.com
-admin-c:           GIANG-DN42
-tech-c:            GIANG-DN42
-mnt-by:            GIANG-MNT
+aut-num:            AS4242423939
+as-name:            HOST30K
+descr:              Host30K Company - www.host30k.com
+remarks:            Contact: giang@host30k.com
+admin-c:            GIANG-DN42
+tech-c:             GIANG-DN42
+mnt-by:             GIANG-MNT

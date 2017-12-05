@@ -1,6 +1,6 @@
-aut-num:           AS4242421703
-as-name:           BAKKERNET-HOME-AS
-descr:             BakkerNET™ - Home Network
-admin-c:           RICK-DN42
-tech-c:            RICK-DN42
-mnt-by:            RICK-MNT
+aut-num:            AS4242421703
+as-name:            BAKKERNET-HOME-AS
+descr:              BakkerNET™ - Home Network
+admin-c:            RICK-DN42
+tech-c:             RICK-DN42
+mnt-by:             RICK-MNT

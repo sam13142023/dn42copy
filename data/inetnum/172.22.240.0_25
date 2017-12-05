@@ -1,11 +1,11 @@
-inetnum:           172.22.240.0 - 172.22.240.127
-netname:           NET-BEARN-IP4-DN42
-descr:             Bearn's ipv4 DN42 network
-country:           US
-admin-c:           BEARN-DN42
-tech-c:            BEARN-DN42
-mnt-by:            BEARN-MNT
-nserver:           ns1.bearn.dn42
-status:            ASSIGNED
-bgp-status:        ignore
-cidr:		172.22.240.0/25
+inetnum:            172.22.240.0 - 172.22.240.127
+netname:            NET-BEARN-IP4-DN42
+descr:              Bearn's ipv4 DN42 network
+country:            US
+admin-c:            BEARN-DN42
+tech-c:             BEARN-DN42
+mnt-by:             BEARN-MNT
+nserver:            ns1.bearn.dn42
+status:             ASSIGNED
+bgp-status:         ignore
+cidr:               172.22.240.0/25

@@ -1,9 +1,9 @@
-inetnum:           172.21.74.32-172.21.74.63
-netname:           UMSA-NET
-country:           CN
-admin-c:           UMSA-DN42
-tech-c:            UMSA-DN42
-mnt-by:            UMSA-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1499875213
-cidr:		172.21.74.32/27
+inetnum:            172.21.74.32-172.21.74.63
+netname:            UMSA-NET
+country:            CN
+admin-c:            UMSA-DN42
+tech-c:             UMSA-DN42
+mnt-by:             UMSA-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1499875213
+cidr:               172.21.74.32/27

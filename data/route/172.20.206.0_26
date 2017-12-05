@@ -1,7 +1,7 @@
-route:             172.20.206.0/26
-descr:             Transatlantic Transit Peerings
-origin:            AS4242421094
-mnt-by:            ANA-MNT
-mnt-by:            IRL-MNT
-mnt-by:            LEX-MNT
-bgp-status:        inactive 1480276803
+route:              172.20.206.0/26
+descr:              Transatlantic Transit Peerings
+origin:             AS4242421094
+mnt-by:             ANA-MNT
+mnt-by:             IRL-MNT
+mnt-by:             LEX-MNT
+bgp-status:         inactive 1480276803

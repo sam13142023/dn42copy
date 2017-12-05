@@ -1,9 +1,9 @@
-inetnum:           172.20.198.0 - 172.20.198.255
-netname:           MARIDE-HOME-NET
-country:           DE
-admin-c:           MARIDE-DN42
-tech-c:            MARIDE-DN42
-mnt-by:            MARIDE-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.20.198.0/24
+inetnum:            172.20.198.0 - 172.20.198.255
+netname:            MARIDE-HOME-NET
+country:            DE
+admin-c:            MARIDE-DN42
+tech-c:             MARIDE-DN42
+mnt-by:             MARIDE-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.198.0/24

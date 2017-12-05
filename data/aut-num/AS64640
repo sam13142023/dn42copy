@@ -3,4 +3,4 @@ as-name:            AMADEUS-AS
 descr:              amadeus' AS
 admin-c:            AMADEUS-DN42
 tech-c:             AMADEUS-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

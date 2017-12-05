@@ -1,10 +1,10 @@
-inetnum:           172.23.241.128 - 172.23.241.191
-netname:           NICOO-BISINA-HOME
-descr:             nicoo's family
-country:           FR
-admin-c:           NICOO-DN42
-tech-c:            NICOO-DN42
-mnt-by:            NICOO-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1496332803
-cidr:		172.23.241.128/26
+inetnum:            172.23.241.128 - 172.23.241.191
+netname:            NICOO-BISINA-HOME
+descr:              nicoo's family
+country:            FR
+admin-c:            NICOO-DN42
+tech-c:             NICOO-DN42
+mnt-by:             NICOO-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1496332803
+cidr:               172.23.241.128/26

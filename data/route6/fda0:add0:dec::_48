@@ -1,4 +1,4 @@
-route6:            fda0:add0:dec::/48
-origin:            AS4242420235
-mnt-by:            FPLETZ-MNT
-mnt-by:            GROKSTER-MNT
+route6:             fda0:add0:dec::/48
+origin:             AS4242420235
+mnt-by:             FPLETZ-MNT
+mnt-by:             GROKSTER-MNT

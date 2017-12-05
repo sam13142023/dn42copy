@@ -1,10 +1,10 @@
-inet6num:          fd72:a57e:923:0:0:0:0:0 - fd72:a57e:923:ff:ffff:ffff:ffff:ffff
-netname:           IMOTO-NET6-SUB-A
-descr:             IMOTO NETWORK V6 SUBNET A
-country:           JP
-admin-c:           IMOTO-DN42
-tech-c:            IMOTO-DN42
-mnt-by:            IMOTO-MNT
-nserver:           ns.imoto.dn42
-status:            ASSIGNED
-cidr:		fd72:a57e:923::/56
+inet6num:           fd72:a57e:923:0:0:0:0:0 - fd72:a57e:923:ff:ffff:ffff:ffff:ffff
+netname:            IMOTO-NET6-SUB-A
+descr:              IMOTO NETWORK V6 SUBNET A
+country:            JP
+admin-c:            IMOTO-DN42
+tech-c:             IMOTO-DN42
+mnt-by:             IMOTO-MNT
+nserver:            ns.imoto.dn42
+status:             ASSIGNED
+cidr:               fd72:a57e:923::/56

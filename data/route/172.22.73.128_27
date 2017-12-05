@@ -1,4 +1,4 @@
-route:             172.22.73.128/27
-origin:            AS4242423742
-mnt-by:            ERIC-MNT
-bgp-status:        active
+route:              172.22.73.128/27
+origin:             AS4242423742
+mnt-by:             ERIC-MNT
+bgp-status:         active

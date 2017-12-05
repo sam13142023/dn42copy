@@ -1,6 +1,6 @@
-domain:            VIRTIT.DN42
-admin-c:           MIGUELMONTEIRO-DN42
-tech-c:            MIGUELMONTEIRO-DN42
-mnt-by:            VIRTIT-MNT
-nserver:           NS1.VIRTITDNS.COM
-status:            CONNECT
+domain:             VIRTIT.DN42
+admin-c:            MIGUELMONTEIRO-DN42
+tech-c:             MIGUELMONTEIRO-DN42
+mnt-by:             VIRTIT-MNT
+nserver:            NS1.VIRTITDNS.COM
+status:             CONNECT

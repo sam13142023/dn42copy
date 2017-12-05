@@ -1,4 +1,4 @@
-route:             172.20.12.128/27
-origin:            AS4242420095
-mnt-by:            SPREITZER-MNT
-bgp-status:        inactive 1495756803
+route:              172.20.12.128/27
+origin:             AS4242420095
+mnt-by:             SPREITZER-MNT
+bgp-status:         inactive 1495756803

@@ -1,22 +1,22 @@
-as-set:            AS-NL-ZUID-IX
-descr:             NL Zuid Exchanges
-members:           AS4242420330
-members:           AS4242420324
-members:           AS4242420330
-members:           AS4242420120
-members:           AS4242421340
-admin-c:           NL-ZUID-DN42
-tech-c:            NL-ZUID-DN42
-mnt-by:            MARLINC-MNT
-remarks:           AS block for NL Zuid exchanges and internal services
-x-members:           AS4242427000
-x-members:           AS4242427001
-x-members:           AS4242427002
-x-members:           AS4242427003
-x-members:           AS4242427004
-x-members:           AS4242427005
-x-members:           AS4242427006
-x-members:           AS4242427007
-x-members:           AS4242427008
-x-members:           AS4242427009
-x-members:           AS4242427010
+as-set:             AS-NL-ZUID-IX
+descr:              NL Zuid Exchanges
+members:            AS4242420330
+members:            AS4242420324
+members:            AS4242420330
+members:            AS4242420120
+members:            AS4242421340
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+remarks:            AS block for NL Zuid exchanges and internal services
+x-members:          AS4242427000
+x-members:          AS4242427001
+x-members:          AS4242427002
+x-members:          AS4242427003
+x-members:          AS4242427004
+x-members:          AS4242427005
+x-members:          AS4242427006
+x-members:          AS4242427007
+x-members:          AS4242427008
+x-members:          AS4242427009
+x-members:          AS4242427010

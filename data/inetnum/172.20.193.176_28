@@ -1,10 +1,10 @@
-inetnum:           172.20.193.176-172.20.193.191
-netname:           SERXOZ-NETWORK2
-descr:             Serxoz Testing Network
-country:           ES
-admin-c:           SERXOZ-DN42
-tech-c:            SERXOZ-DN42
-mnt-by:            SERXOZ-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1503446403
-cidr:		172.20.193.176/28
+inetnum:            172.20.193.176-172.20.193.191
+netname:            SERXOZ-NETWORK2
+descr:              Serxoz Testing Network
+country:            ES
+admin-c:            SERXOZ-DN42
+tech-c:             SERXOZ-DN42
+mnt-by:             SERXOZ-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1503446403
+cidr:               172.20.193.176/28

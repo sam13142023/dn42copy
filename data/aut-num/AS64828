@@ -2,7 +2,7 @@ aut-num:            AS64828
 org:                ORG-CCCHB
 as-name:            CREST-AS
 descr:              Crest's home AS
-remarks:             route information goes here
+remarks:            route information goes here
 admin-c:            CREST-DN42
 tech-c:             CREST-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT

@@ -1,6 +1,6 @@
-organisation:      ORG-SIMPLX
-org-name:          ORG-SIMPLX
-descr:             SimplexLAB, LLC
-admin-c:           YEGORG-DN42
-tech-c:            YEGORG-DN42
-mnt-by:            YEGORG-MNT
+organisation:       ORG-SIMPLX
+org-name:           ORG-SIMPLX
+descr:              SimplexLAB, LLC
+admin-c:            YEGORG-DN42
+tech-c:             YEGORG-DN42
+mnt-by:             YEGORG-MNT

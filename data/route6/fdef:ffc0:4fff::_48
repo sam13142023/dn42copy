@@ -1,4 +1,4 @@
-route6:            fdef:ffc0:4fff::/48
-descr:             Freifunk München
-origin:            AS65080
-mnt-by:            FPLETZ-MNT
+route6:             fdef:ffc0:4fff::/48
+descr:              Freifunk München
+origin:             AS65080
+mnt-by:             FPLETZ-MNT

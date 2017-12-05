@@ -1,8 +1,8 @@
-domain: fflux
-remarks: ** luxembourg
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.luxembourg.g.nic.dn42 10.24.128.10
-nserver: ns1.luxembourg.g.nic.dn42 fd4e:f2d7:88d2:fffe::10
+domain:             fflux
+remarks:            ** luxembourg
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.luxembourg.g.nic.dn42 10.24.128.10
+nserver:            ns1.luxembourg.g.nic.dn42 fd4e:f2d7:88d2:fffe::10

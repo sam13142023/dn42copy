@@ -1,6 +1,6 @@
-organisation:      ORG-CONTROLPLANE
-org-name:          CONTROLPLANE
-descr:             www.controlplane.de - an experiment on the web
-admin-c:           CONTROLPLANE-DN42
-tech-c:            CONTROLPLANE-DN42
-mnt-by:            CONTROLPLANE-MNT
+organisation:       ORG-CONTROLPLANE
+org-name:           CONTROLPLANE
+descr:              www.controlplane.de - an experiment on the web
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT

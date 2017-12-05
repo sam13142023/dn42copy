@@ -1,11 +1,11 @@
-inetnum:           172.20.129.0 - 172.20.129.31
-netname:           WOUTER0100-DN42
-descr:             WOUTER0100 NETWORK
-country:           NL
-admin-c:           WOUTER0100-DN42
-tech-c:            WOUTER0100-DN42
-mnt-by:            WOUTER0100-MNT
-nserver:           ns.w01.dn42
-status:            ALLOCATED
-bgp-status:        inactive 1492306860
-cidr:		172.20.129.0/27
+inetnum:            172.20.129.0 - 172.20.129.31
+netname:            WOUTER0100-DN42
+descr:              WOUTER0100 NETWORK
+country:            NL
+admin-c:            WOUTER0100-DN42
+tech-c:             WOUTER0100-DN42
+mnt-by:             WOUTER0100-MNT
+nserver:            ns.w01.dn42
+status:             ALLOCATED
+bgp-status:         inactive 1492306860
+cidr:               172.20.129.0/27

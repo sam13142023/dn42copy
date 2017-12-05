@@ -1,11 +1,11 @@
-inetnum:           172.20.44.0 - 172.20.44.255
-netname:           SWORDARMOR-HOME
-descr:             Rennes
-country:           FR
-admin-c:           ALARIG-DN42
-tech-c:            ALARIG-DN42
-mnt-by:            ALARIG-MNT
-nserver:           bulbizarre.swordarmor.dn42 172.20.44.5
-status:            ASSIGNED
-bgp-status:        inactive 1499875211
-cidr:		172.20.44.0/24
+inetnum:            172.20.44.0 - 172.20.44.255
+netname:            SWORDARMOR-HOME
+descr:              Rennes
+country:            FR
+admin-c:            ALARIG-DN42
+tech-c:             ALARIG-DN42
+mnt-by:             ALARIG-MNT
+nserver:            bulbizarre.swordarmor.dn42 172.20.44.5
+status:             ASSIGNED
+bgp-status:         inactive 1499875211
+cidr:               172.20.44.0/24

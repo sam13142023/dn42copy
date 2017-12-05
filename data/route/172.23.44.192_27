@@ -1,5 +1,5 @@
-route:             172.23.44.192/27
-descr:             dn42 address space of RH-DN42 UK-Router-0
-origin:            AS4242421011
-mnt-by:            RMLH-MNT
-bgp-status:        inactive 1489334407
+route:              172.23.44.192/27
+descr:              dn42 address space of RH-DN42 UK-Router-0
+origin:             AS4242421011
+mnt-by:             RMLH-MNT
+bgp-status:         inactive 1489334407

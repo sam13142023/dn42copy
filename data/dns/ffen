@@ -1,10 +1,10 @@
-domain: ffen
-remarks: ** ruhrgebiet
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: CONNECT
-nserver: ns1.ruhrgebiet.g.nic.dn42 151.80.64.190
-nserver: ns2.ruhrgebiet.g.nic.dn42 85.14.255.33
-nserver: ns1.ruhrgebiet.g.nic.dn42 2001:41d0:c:95c::190
-nserver: ns2.ruhrgebiet.g.nic.dn42 2001:4ba0:ffff:1e9::33
+domain:             ffen
+remarks:            ** ruhrgebiet
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.ruhrgebiet.g.nic.dn42 151.80.64.190
+nserver:            ns2.ruhrgebiet.g.nic.dn42 85.14.255.33
+nserver:            ns1.ruhrgebiet.g.nic.dn42 2001:41d0:c:95c::190
+nserver:            ns2.ruhrgebiet.g.nic.dn42 2001:4ba0:ffff:1e9::33

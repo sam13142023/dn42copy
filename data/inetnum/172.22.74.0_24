@@ -6,5 +6,5 @@ admin-c:            STEPHANJ-DN42
 tech-c:             STEPHANJ-DN42
 status:             ASSIGNED
 mnt-by:             STEPHANJ-DN42-MNT
-bgp-status: active
-cidr:		172.22.74.0/24
+bgp-status:         active
+cidr:               172.22.74.0/24

@@ -1,10 +1,10 @@
-inetnum:           172.21.68.64-172.21.68.127
-netname:           THINK-DN42
-descr:             THINK-DN42
-country:           CN
-admin-c:           THINK-DN42
-tech-c:            THINK-DN42
-mnt-by:            THINK-MNT
-status:            ALLOCATED
-bgp-status:        inactive 1499875213
-cidr:		172.21.68.64/26
+inetnum:            172.21.68.64-172.21.68.127
+netname:            THINK-DN42
+descr:              THINK-DN42
+country:            CN
+admin-c:            THINK-DN42
+tech-c:             THINK-DN42
+mnt-by:             THINK-MNT
+status:             ALLOCATED
+bgp-status:         inactive 1499875213
+cidr:               172.21.68.64/26

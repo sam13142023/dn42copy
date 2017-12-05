@@ -1,5 +1,5 @@
-route:             172.20.249.0/28
-descr:             0X1337 Networking Services
-origin:            AS4242421150
-mnt-by:            0X1337-MNT
-bgp-status:        inactive 1487865606
+route:              172.20.249.0/28
+descr:              0X1337 Networking Services
+origin:             AS4242421150
+mnt-by:             0X1337-MNT
+bgp-status:         inactive 1487865606

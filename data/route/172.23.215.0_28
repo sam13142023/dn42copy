@@ -1,5 +1,5 @@
-route:             172.23.215.0/28
-descr:             Cazagen Network
-origin:            AS4242423441
-mnt-by:            CAZAGEN-MNT
-bgp-status:        active
+route:              172.23.215.0/28
+descr:              Cazagen Network
+origin:             AS4242423441
+mnt-by:             CAZAGEN-MNT
+bgp-status:         active

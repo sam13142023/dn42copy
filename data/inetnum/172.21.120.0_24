@@ -1,9 +1,9 @@
-inetnum:           172.21.120.0-172.21.120.255
-netname:           LUX-NET
-descr:             Lux's Network
-admin-c:           LUX-DN42
-tech-c:            LUX-DN42
-mnt-by:            LUX-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1495281602
-cidr:		172.21.120.0/24
+inetnum:            172.21.120.0-172.21.120.255
+netname:            LUX-NET
+descr:              Lux's Network
+admin-c:            LUX-DN42
+tech-c:             LUX-DN42
+mnt-by:             LUX-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1495281602
+cidr:               172.21.120.0/24

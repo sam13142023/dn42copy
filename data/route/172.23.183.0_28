@@ -1,4 +1,4 @@
-route:             172.23.183.0/28
-origin:            AS4242420844
-mnt-by:            PASTA-MNT
-bgp-status:        inactive 1471406425
+route:              172.23.183.0/28
+origin:             AS4242420844
+mnt-by:             PASTA-MNT
+bgp-status:         inactive 1471406425

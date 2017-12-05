@@ -1,5 +1,5 @@
-route:             172.21.66.128/27
-descr:             MITSUHA-NETWORKS
-origin:            AS4242423886
-mnt-by:            MITSUHA-MNT
-bgp-status:        inactive 1504569609
+route:              172.21.66.128/27
+descr:              MITSUHA-NETWORKS
+origin:             AS4242423886
+mnt-by:             MITSUHA-MNT
+bgp-status:         inactive 1504569609

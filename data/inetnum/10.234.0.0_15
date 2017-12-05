@@ -1,9 +1,9 @@
-inetnum: 10.234.0.0 - 10.235.255.255
-remarks: ** kreisgt
-admin-c: DUMMY-DN42
-tech-c: DUMMY-DN42
-mnt-by: FREIFUNKDUMMY-MNT
-status: ALLOCATED
-nserver: ns1.kreisgt.g.nic.dn42
-cidr:		10.234.0.0/15
-netname:          Unnamed 10.234.0.0/15 Network
+inetnum:            10.234.0.0 - 10.235.255.255
+remarks:            ** kreisgt
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.kreisgt.g.nic.dn42
+cidr:               10.234.0.0/15
+netname:            Unnamed 10.234.0.0/15 Network

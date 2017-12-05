@@ -1,11 +1,11 @@
-inetnum:           172.23.172.0 - 172.23.172.127
-netname:           MAGLAB-DN42
-descr:             Magrathea Laboratories e.V.
-country:           DE
-admin-c:           MAJOR-DN42
-tech-c:            MAJOR-DN42
-mnt-by:            MAJOR-MNT
-nserver:           ns1.maglab.dn42
-status:            ASSIGNED
-bgp-status:        inactive 1492272004
-cidr:		172.23.172.0/25
+inetnum:            172.23.172.0 - 172.23.172.127
+netname:            MAGLAB-DN42
+descr:              Magrathea Laboratories e.V.
+country:            DE
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+nserver:            ns1.maglab.dn42
+status:             ASSIGNED
+bgp-status:         inactive 1492272004
+cidr:               172.23.172.0/25

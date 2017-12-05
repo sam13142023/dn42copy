@@ -1,7 +1,7 @@
-as-set:            AS-ETH2
-descr:             eth2 ASNs
-members:           AS64516
-members:           AS4242423360
-admin-c:           JK5-DN42
-tech-c:            JK5-DN42
-mnt-by:            ETH2-MNT
+as-set:             AS-ETH2
+descr:              eth2 ASNs
+members:            AS64516
+members:            AS4242423360
+admin-c:            JK5-DN42
+tech-c:             JK5-DN42
+mnt-by:             ETH2-MNT

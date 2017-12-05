@@ -1,5 +1,5 @@
-route:             172.20.194.120/29
-descr:             xse's route
-origin:            AS4242423146
-mnt-by:            XSE-MNT
-bgp-status:        inactive 1473019203
+route:              172.20.194.120/29
+descr:              xse's route
+origin:             AS4242423146
+mnt-by:             XSE-MNT
+bgp-status:         inactive 1473019203

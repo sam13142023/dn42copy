@@ -1,7 +1,7 @@
-aut-num:           AS65080
-as-name:           FFMUC-AS
-org:               ORG-FFMUC
-descr:             Freifunk München
-admin-c:           FPLETZ-DN42
-tech-c:            FPLETZ-DN42
-mnt-by:            FPLETZ-MNT
+aut-num:            AS65080
+as-name:            FFMUC-AS
+org:                ORG-FFMUC
+descr:              Freifunk München
+admin-c:            FPLETZ-DN42
+tech-c:             FPLETZ-DN42
+mnt-by:             FPLETZ-MNT

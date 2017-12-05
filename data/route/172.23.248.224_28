@@ -1,3 +1,3 @@
-route:             172.23.248.224/28
-origin:            AS4242422481
-mnt-by:            CHULJIN-MNT
+route:              172.23.248.224/28
+origin:             AS4242422481
+mnt-by:             CHULJIN-MNT

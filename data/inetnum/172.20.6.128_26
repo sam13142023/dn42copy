@@ -1,9 +1,9 @@
-inetnum:           172.20.6.128-172.20.6.191
-netname:           SKRIK-NET
-country:           DE
-admin-c:           SKRIK-DN42
-tech-c:            SKRIK-DN42
-mnt-by:            SKRIK-MNT
-status:            ASSIGNED
-bgp-status:        inactive 1492306861
-cidr:		172.20.6.128/26
+inetnum:            172.20.6.128-172.20.6.191
+netname:            SKRIK-NET
+country:            DE
+admin-c:            SKRIK-DN42
+tech-c:             SKRIK-DN42
+mnt-by:             SKRIK-MNT
+status:             ASSIGNED
+bgp-status:         inactive 1492306861
+cidr:               172.20.6.128/26

@@ -1,5 +1,5 @@
 inetnum:            172.22.152.0 - 172.22.152.127
-nserver:            ns.allo.dn42 
+nserver:            ns.allo.dn42
 netname:            ALLO's dn42 network
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42

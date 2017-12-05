@@ -1,6 +1,6 @@
-aut-num:           AS4242420033
-as-name:           TIMMAH-AS
-descr:             Timmah Home AS
-admin-c:           TIMMAH-DN42
-tech-c:            TIMMAH-DN42
-mnt-by:            TIMMAH-MNT
+aut-num:            AS4242420033
+as-name:            TIMMAH-AS
+descr:              Timmah Home AS
+admin-c:            TIMMAH-DN42
+tech-c:             TIMMAH-DN42
+mnt-by:             TIMMAH-MNT

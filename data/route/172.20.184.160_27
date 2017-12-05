@@ -1,5 +1,5 @@
-route:             172.20.184.160/27
-descr:             NullVM
-origin:            AS4242420711
-mnt-by:            NVM-MNT
-bgp-status:        inactive 1472673603
+route:              172.20.184.160/27
+descr:              NullVM
+origin:             AS4242420711
+mnt-by:             NVM-MNT
+bgp-status:         inactive 1472673603

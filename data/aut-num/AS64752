@@ -3,4 +3,4 @@ as-name:            ALLO-AS
 descr:              allo AS
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
-mnt-by:           DUMMY-MNT
+mnt-by:             DUMMY-MNT
