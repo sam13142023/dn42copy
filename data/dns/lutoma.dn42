@@ -3,4 +3,4 @@ admin-c:            LUTOMA-DN42
 tech-c:             LUTOMA-DN42
 mnt-by:             LUTOMA-MNT
 nserver:            ns1.lutoma.dn42 172.22.119.53
-status:             EVALPEND 1503917231
+status:             CONNECT

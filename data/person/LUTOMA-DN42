@@ -2,7 +2,9 @@ person:             Lukas Martini
 e-mail:             hello@lutoma.org
 nick:               lutoma
 www:                https://lutoma.org
-remarks:            IRC: lutoma on hackint
+contact:            irc:lutoma@hackint
+contact:            irc:lutoma@freenode
+contact:            twitter:lutoma
 pgp-fingerprint:    B309 6283 6CFD 554A 1EC8  BDBC F828 A0C8 C9E1 BD2C
 abuse-mailbox:      hello+dn42-abuse@lutoma.org
 nic-hdl:            LUTOMA-DN42

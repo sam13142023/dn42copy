@@ -3,8 +3,12 @@ nserver:            ns1.lutoma.dn42
 netname:            LUTOMA-IP4NET
 descr:              lutoma main IP4 network
 country:            DE
+country:            AT
+country:            CA
+country:            US
 admin-c:            LUTOMA-DN42
 tech-c:             LUTOMA-DN42
+zone-c:             LUTOMA-DN42
 status:             ASSIGNED
 mnt-by:             LUTOMA-MNT
 bgp-status:         active
