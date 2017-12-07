@@ -3,4 +3,5 @@ admin-c:            KTIMS-DN42
 tech-c:             KTIMS-DN42
 mnt-by:             GOTROOT-MNT
 nserver:            ns1.gotroot.dn42 172.20.14.253
+nserver:            ns1.gotroot.dn42 fd1c:f73c:a945:ffff::53
 status:             EVALPEND 1503916611
