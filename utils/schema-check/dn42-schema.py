@@ -385,7 +385,7 @@ def http_get(server, url, query=None, headers=None):
     return req.read()
 
 def find(fields=None, filter=None):
-    server = "util.sour.is"
+    server = "registry.dn42.us"
     url    = "/v1/reg/reg.objects"
     if fields is None:
         fields = []
