@@ -505,7 +505,7 @@ def test_policy(obj_type, name, mntner):
     elif args["type"] in ["inetnum","inet6num"]:
         log.info("Checking inetnum type")
         lis = find(["mnt-by"], {"@type": "net", "cidr": name})
-        log.info(lis)
+        log.debug(lis)
 
         if len(lis) > 0:
             status = 'FAIL'
@@ -528,7 +528,7 @@ def test_policy(obj_type, name, mntner):
         log.info([Lnet, Hnet, mask])
         lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"],
                    {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "lt=" + mask})
-        log.info(lis)
+        log.debug(lis)
 
         policy = {}
         select = None
@@ -564,7 +564,7 @@ def test_policy(obj_type, name, mntner):
     elif args["type"] in ["route","route6"]:
         log.info("Checking route type")
         lis = find(["mnt-by"], {"@type": "route", args["type"]: name})
-        log.info(lis)
+        log.debug(lis)
 
         if len(lis) > 0:
             status = 'FAIL'
@@ -586,7 +586,7 @@ def test_policy(obj_type, name, mntner):
         log.info([Lnet, Hnet, mask])
         lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"], 
                    {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "le=" + mask})
-        log.info(lis)
+        log.debug(lis)
 
         policy = {}
         select = None
@@ -626,7 +626,7 @@ def test_policy(obj_type, name, mntner):
 
         # 1. Check if they already have an object
         lis = find(["mnt-by"], {"@type": "aut-num", "@name": name})
-        log.info(lis)
+        log.debug(lis)
 
         if len(lis) > 0:
             status = 'FAIL'
@@ -683,7 +683,7 @@ def test_policy(obj_type, name, mntner):
 
         # 1. Check if they already have an object
         lis = find(["mnt-by"], {"@type": "as-block", "@name": name})
-        log.info(lis)
+        log.debug(lis)
 
         if len(lis) > 0:
             status = 'FAIL'
@@ -704,7 +704,7 @@ def test_policy(obj_type, name, mntner):
             log.error("%s should come before %s" %(Lname, Hname))
 
         lis = find(["as-block","policy","@as-min","@as-max","mnt-by","mnt-lower"], {"@type": "as-block","@as-min":"le=" + Lasn,"@as-max": "ge=" + Hasn})
-        log.info(lis)
+        log.debug(lis)
 
         policy = {}
         select = None
