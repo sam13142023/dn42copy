@@ -17,7 +17,7 @@ if ! git config "remote.$1.url" > /dev/null; then
 fi
 git fetch "$1" 2> /dev/null
 git merge --no-ff --no-commit "$1/$2" 2> /dev/null
-./check-pol HEAD "$3" 2> /dev/null || (echo "Policy Check FAILED"; clean_up; exit 1)
-./check-my-stuff "$3" 2> /dev/null || (echo "Schema Check FAILED"; clean_up; exit 1)
+./check-pol HEAD "$3" || (echo "Policy Check FAILED"; clean_up; exit 1)
+./check-my-stuff "$3" || (echo "Schema Check FAILED"; clean_up; exit 1)
 echo OK
 clean_up

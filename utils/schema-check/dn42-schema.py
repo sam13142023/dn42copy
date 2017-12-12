@@ -138,6 +138,10 @@ class SchemaDOM:
                                 log.error("%s Line %d: Key %s references object %s in %s but does not exist." % (
                                     f.src, l, k, val, refs))
                                 status = "FAIL"
+        if status != "FAIL":
+            ck = sanity_check(f)
+            if ck == "FAIL":
+                status = ck
 
         print("CHECK\t%-54s\t%s\tMNTNERS: %s" %(f.src, status, ','.join(f.mntner)))
         return status
@@ -172,12 +176,12 @@ class FileDOM:
                     if len(i) < 2:
                         continue
 
-                    dom.append([i[0].strip(), ':'.join(i[1:]).strip(), lineno])
+                    dom.append([i[0].strip(), ':'.join(i[1:]).strip(), lineno - 1])
 
                     if i[0].strip() not in keys:
                         keys[i[0].strip()] = []
 
-                    keys[i[0].strip()].append(lineno)
+                    keys[i[0].strip()].append(lineno - 1)
 
                     last_multi = None
 
@@ -205,6 +209,15 @@ class FileDOM:
                 s +=  " " * (length + 1) + m + "\n"
 
         return s
+
+    def get(self, key, index=0, default=None):
+        if key not in self.keys:
+            return default
+        if index > len(self.keys[key]) or index < -len(self.keys[key]):
+            return default
+        return self.dom[self.keys[key][index]][1]
+
+
 def main(infile, schema):
 
     log.debug("Check File: %s" % (infile))
@@ -224,7 +237,6 @@ def main(infile, schema):
     s = SchemaDOM(f.schema)
     return s.check_file(f)
 
-
 def check_schemas(path):
     schemas = {}
     for fn in glob.glob(path+"/*"):
@@ -241,7 +253,6 @@ def check_schemas(path):
 
     return ok
 
-
 def scan_index(infile, mntner=None):
     idx = {}
     schemas = {}
@@ -257,7 +268,6 @@ def scan_index(infile, mntner=None):
 
     return __scan_index(idx, schemas, mntner)
 
-
 def scan_files(path, mntner=None, use_file=None):
     arr = __index_files(path, use_file)
 
@@ -272,7 +282,6 @@ def scan_files(path, mntner=None, use_file=None):
             schemas[s.ref] = s
 
     return __scan_index(idx, schemas, mntner, use_file)
-
 
 def __scan_index(idx, schemas, mntner, use_file):
     ok = True
@@ -301,7 +310,6 @@ def __scan_index(idx, schemas, mntner, use_file):
             ok = ck
 
     return ok
-
 
 def __index_files(path, use_file):
     xlat = {
@@ -339,13 +347,10 @@ def __index_files(path, use_file):
             dom = FileDOM(use_file)
             yield (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner))
 
-
-
 def index_files(path):
     idx = __index_files(path)
     for i in idx:
         print("%s\t%s\t%s\t%s" % i)
-
 
 def http_get(server, url, query=None, headers=None):
     import urllib.parse
@@ -401,6 +406,22 @@ def to_num(ip):
 def to_ip(num):
     return '.'.join([str(i) for i in [num >> 24, (num >> 16) & 0xFF, (num >> 8) & 0xFF, num & 0xFF]])
 
+def pretty_ip(addr):
+    if addr.startswith("00000000000000000000ffff"):
+        addr = addr[-8:]
+        addr = int(addr, 16)
+        return to_ip(addr)
+    return ":".join([addr[i:i+4] for i in range(0, len(addr), 4)])
+
+#    addr = ["%x" % (int(addr[i:i+4],16)) for i in range(0, len(addr), 4)]
+#
+#    last_seg = 8
+#    for i, seg in enumerate(addr[::-1]):
+#        if seg == "0": last_seg = 7 - i
+#        else: break
+#
+#    return ":".join(addr[:last_seg]) + ("::" if last_seg < 8 else "")
+
 def expand_ipv6(addr):
     addr = addr.lower()
     if "::" in addr:
@@ -411,14 +432,14 @@ def expand_ipv6(addr):
         return False
     return ''.join((i.zfill(4) for i in addr.split(":")))
 
-def ip4to6(ip):
+def ip4_to_ip6(ip):
     return "::ffff:%04x:%04x" % (ip >> 16, ip & 0xffff)
 
 def inetrange(inet):
     ip, mask = inet.split('/')
     mask = int(mask)
     ip = to_num(ip) & (0xFFFFFFFF << 32 - mask)
-    ip6 = ip4to6(ip)
+    ip6 = ip4_to_ip6(ip)
     return inet6range("%s/%d" % (ip6, mask + 96))
 
 def inet6range(inet):
@@ -501,6 +522,7 @@ def test_policy(obj_type, name, mntner):
             Lnet, Hnet, mask = inetrange(name)
         else:
             Lnet, Hnet, mask = inet6range(name)
+
         mask = "%03d" %(mask)
 
         log.info([Lnet, Hnet, mask])
@@ -718,6 +740,30 @@ def test_policy(obj_type, name, mntner):
     log.error("%s does not pass checks for %s %s" %(mntner, obj_type, name))
     return "FAIL"
 
+def sanity_check(dom):
+    ck = "PASS"
+    if dom.schema == "dn42.inetnum":
+        cidr = dom.get("cidr")
+        Lnet, Hnet, mask = inetrange(cidr)
+        cidr_range = pretty_ip(Lnet) + " - " + pretty_ip(Hnet)
+        file_range = dom.get("inetnum")
+
+        if cidr_range != file_range:
+            log.error("inetnum range [%s] does not match: [%s]" %(file_range, cidr_range))
+            ck = "FAIL"
+
+    if dom.schema == "dn42.inet6num":
+        cidr = dom.get("cidr")
+        Lnet, Hnet, mask = inet6range(cidr)
+        cidr_range = pretty_ip(Lnet) + " - " + pretty_ip(Hnet)
+        file_range = dom.get("inet6num")
+
+        if cidr_range != file_range:
+            log.error("inetnum range [%s] does not match: [%s]" %(file_range, cidr_range))
+            ck = "FAIL"
+
+    return ck
+
 def get_args():
     """Get and parse command line arguments"""
 
@@ -768,6 +814,10 @@ def get_args():
         'infile',  nargs="?", help="Path for dn42 data file", type=str)
     parser_fmt.add_argument('-i',  '--in-place',
                              help="Format file in place", action="store_true")
+
+    parser_sane = subparsers.add_parser('sanity-check', help='Check the file for sane-ness')
+    parser_sane.add_argument(
+        'infile',  nargs="?", help="Path for dn42 data file", type=str)
 
     parser_pol = subparsers.add_parser('policy', help='Format file')
     parser_pol.add_argument('type',   nargs="?", type=str, help="dn42 object type")
@@ -848,6 +898,13 @@ if __name__ == '__main__':
 
         print("POLICY %-12s\t%-8s\t%20s\t%s" %(args["mntner"], args["type"], args["name"], status))
         if status != "PASS":
+            sys.exit(1)
+
+    elif args["command"] == "sanity-check":
+        dom = FileDOM(args["infile"])
+        ck = sanity_check(dom)
+        print("SANITY %-8s\t%20s\t%s" %(dom.schema.split(".")[1], args["infile"], ck))
+        if ck != "PASS":
             sys.exit(1)
 
     elif args["command"] == "match-routes":

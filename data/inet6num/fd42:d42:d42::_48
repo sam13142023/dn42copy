@@ -1,4 +1,4 @@
-inet6num:           FD42:D42:D42:: - FD42:d42:d42:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0d42:0d42:0000:0000:0000:0000:0000 - fd42:0d42:0d42:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:d42:d42::/48
 netname:            ROOT-DN42-INF
 descr:              DN42 Infrastructure

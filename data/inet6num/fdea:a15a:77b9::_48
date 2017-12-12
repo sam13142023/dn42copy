@@ -1,4 +1,4 @@
-inet6num:           fdea:a15a:77b9:0:0:0:0:0 - fdea:a15a:77b9:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdea:a15a:77b9:0000:0000:0000:0000:0000 - fdea:a15a:77b9:ffff:ffff:ffff:ffff:ffff
 cidr:               fdea:a15a:77b9::/48
 netname:            XUU-ULA-IP6NET
 descr:              Xuu IPv6 Network

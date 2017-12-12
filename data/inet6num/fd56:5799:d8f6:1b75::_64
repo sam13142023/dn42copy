@@ -1,4 +1,4 @@
-inet6num:           fd56:5799:d8f6:1b75:0:0:0:0 - fd56:5799:d8f6:1b75:ffff:ffff:ffff:ffff
+inet6num:           fd56:5799:d8f6:1b75:0000:0000:0000:0000 - fd56:5799:d8f6:1b75:ffff:ffff:ffff:ffff
 cidr:               fd56:5799:d8f6:1b75::/64
 netname:            XUU-ULA-ZTNET
 descr:              Xuu ZeroTier Network

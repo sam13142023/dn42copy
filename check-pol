@@ -13,6 +13,6 @@ cd "$BASE" || exit 1
 
 git diff --name-only $1 | while IFS='/' read -ra LINE; do
 if [[ "${LINE[0]}" = "data" ]]; then
-	utils/schema-check/dn42-schema.py policy ${LINE[1]} ${LINE[2]} $2
+	utils/schema-check/dn42-schema.py -v policy ${LINE[1]} ${LINE[2]} $2
 fi
 done
