@@ -1,0 +1,6 @@
+mntner:             TDS-MNT
+admin-c:            TDS-DN42
+tech-c:             TDS-DN42
+mnt-by:             TDS-MNT
+auth:               pgp-fingerprint 7B6E61AA5564DC0BF93B2E366EEAB186CADDD38D
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDX/w9ygoiSlvVULRuEZjCLZrJspH/UCd2q4VFAOj4QCUXlK+C3qcFSokN4tlrfg7e74Qljp8PhCqiaXrlcRt6R8R83s+c3fqxZ3MX0LoSFfxEeIc1nWRQtK8SDc7bgkkbREjtXjTWo96KrPtZ0VitpYp0BaIqn5Bk3APobgM69GRwSTu8Fb2ohhDvqjZUSkWVr6/e9AtDsmsYQKAbi6DCxACVIhBepL+yX4JeJaLnKGE7rbQOwL8bRdx6KWYwPtvP9d5pV4jkLGzzYzaPoT8YyHxl5CJcv1qRnHRslUVF/6j9+W6kjweIuSoyE2vCx/5n+hg7AfoIurkriyM1V1D7l
