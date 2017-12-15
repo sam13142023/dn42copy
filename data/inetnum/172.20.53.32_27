@@ -1,0 +1,9 @@
+inetnum:            172.20.53.32 - 172.20.53.63
+cidr:               172.20.53.32/27
+netname:            OO11-NETWORK
+admin-c:            OO11-DN42
+tech-c:             OO11-DN42
+mnt-by:             OO11-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
