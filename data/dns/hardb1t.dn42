@@ -3,5 +3,5 @@ descr:             HardB1t Domain
 admin-c:           HARDB1T-DN42
 tech-c:            HARDB1T-DN42
 mnt-by:            HARDB1T-MNT
-nserver:           ns3.hardb1t.dn42 172.20.58.30
+nserver:           ns3.hardb1t.dn42 172.20.58.130
 status:            CONNECT
