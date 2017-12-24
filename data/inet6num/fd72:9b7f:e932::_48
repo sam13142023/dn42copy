@@ -6,4 +6,6 @@ country:            CN
 admin-c:            YANGFL-DN42
 tech-c:             YANGFL-DN42
 mnt-by:             YANGFL-MNT
+nserver:            ns1.yangfl.dn42
+nserver:            ns2.yangfl.dn42
 status:             ASSIGNED
