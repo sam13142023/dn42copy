@@ -1,4 +1,4 @@
-inet6num:           fd42:23:42:0:0:0:0:0 - fd42:23:42:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0042:0000:0000:0000:0000:0000 - fd42:0023:0042:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:23:42::/48
 netname:            NET-HEXA
 country:            DE

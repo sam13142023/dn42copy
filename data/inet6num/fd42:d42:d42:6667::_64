@@ -1,4 +1,4 @@
-inet6num:           fd42:d42:d42:6667:0000:0000:0000:0000 - fd42:d42:d42:6667:ffff:ffff:ffff:ffff
+inet6num:           fd42:0d42:0d42:6667:0000:0000:0000:0000 - fd42:0d42:0d42:6667:ffff:ffff:ffff:ffff
 cidr:               fd42:d42:d42:6667::/64
 remarks:            __               __
 remarks:            / /_  ____ ______/ /__

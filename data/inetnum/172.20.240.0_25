@@ -1,11 +1,7 @@
-inetnum:            172.20.240.0-172.20.240.127
+inetnum:            172.20.240.0 - 172.20.240.127
 cidr:               172.20.240.0/25
 netname:            HEXA-TRANSFERNET
-remarks:            172.20.240.0/30 - fleaz
-remarks:            172.20.240.4/30 - mortzu
-remarks:            172.20.240.8/30 - mortzu
-remarks:            172.20.240.12/30 - andi-
-remarks:            172.20.240.16/30 - flokli
+remarks:            172.20.240.0/31 - cccda
 admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT

@@ -1,4 +1,4 @@
-inetnum:            172.22.248.0-172.22.248.63
+inetnum:            172.22.248.0 - 172.22.248.63
 netname:            CCCDA-TRANSFER-20150501
 remarks:            172.22.248.0/30 - toBee
 remarks:            172.22.248.4/30 - Leroy

@@ -1,4 +1,4 @@
-inet6num:           fd5a:ad49:844c:0:0:0:0:0 - fd5a:ad49:844c:0:ffff:ffff:ffff:ffff
+inet6num:           fd5a:ad49:844c:0000:0000:0000:0000:0000 - fd5a:ad49:844c:0000:ffff:ffff:ffff:ffff
 netname:            CCCDA-IP6-TRANSFERNET
 descr:              CCC Darmstadt IPv6 Transfer Network
 remarks:            fd5a:ad49:84cc::248:4:0/112 - LEROY-DN42

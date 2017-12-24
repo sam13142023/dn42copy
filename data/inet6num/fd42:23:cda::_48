@@ -1,4 +1,4 @@
-inet6num:           fd42:23:cda:0:0:0:0:0 - fd42:23:cda:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0cda:0000:0000:0000:0000:0000 - fd42:0023:0cda:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:23:cda::/48
 netname:            CCC-DARMSTADT-IP6-0
 descr:              infrastructure, hackspace, hgh
