@@ -25,5 +25,7 @@
 0030    permit  172.24.0.0/16           21      29      # ORG-ETH2 Hacker spaces.
 0040	permit	172.31.0.0/16		16	32	# chaosvpn
 
+0050    deny    172.22.166.0/24         24      32      # Black List due to policy violations.
+
 1000	deny	0.0.0.0/0		0	32	# block the rest 
 
