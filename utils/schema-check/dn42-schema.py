@@ -745,8 +745,9 @@ def sanity_check(dom):
     if dom.schema == "dn42.inetnum":
         cidr = dom.get("cidr")
         Lnet, Hnet, mask = inetrange(cidr)
-        cidr_range = pretty_ip(Lnet) + " - " + pretty_ip(Hnet)
+        cidr_range = pretty_ip(Lnet) + "-" + pretty_ip(Hnet)
         file_range = dom.get("inetnum")
+        file_range = re.sub(r"\s+", "", file_range, flags=re.UNICODE)
 
         if cidr_range != file_range:
             log.error("inetnum range [%s] does not match: [%s]" %(file_range, cidr_range))
@@ -755,8 +756,9 @@ def sanity_check(dom):
     if dom.schema == "dn42.inet6num":
         cidr = dom.get("cidr")
         Lnet, Hnet, mask = inet6range(cidr)
-        cidr_range = pretty_ip(Lnet) + " - " + pretty_ip(Hnet)
+        cidr_range = pretty_ip(Lnet) + "-" + pretty_ip(Hnet)
         file_range = dom.get("inet6num")
+        file_range = re.sub(r"\s+", "", file_range, flags=re.UNICODE)
 
         if cidr_range != file_range:
             log.error("inetnum range [%s] does not match: [%s]" %(file_range, cidr_range))
