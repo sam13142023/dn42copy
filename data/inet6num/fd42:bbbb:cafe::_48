@@ -1,4 +1,4 @@
-inet6num:           fd42:bbbb:cafe:: - fd42:bbbb:cafe:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:bbbb:cafe:0000:0000:0000:0000:0000 - fd42:bbbb:cafe:ffff:ffff:ffff:ffff:ffff
 netname:            AX206G Network
 descr:              AX206G-V6-NET
 country:            SG

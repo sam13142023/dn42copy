@@ -1,5 +1,5 @@
-domain:             ax206g.dn42
-descr:              AX206G Domain
+domain:             c0de.dn42
+descr:              AX206G Transit Domain
 admin-c:            AX206G-DN42
 tech-c:             AX206G-DN42
 mnt-by:             AX206G-MNT
