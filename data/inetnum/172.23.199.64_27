@@ -1,4 +1,4 @@
-inetnum:            172.23.199.64-172.23.199.95
+inetnum:            172.23.199.64 - 172.23.199.95
 netname:            SIDEREAL-NETWORK
 nserver:            ns1.sidereal.dn42
 nserver:            ns2.sidereal.dn42
