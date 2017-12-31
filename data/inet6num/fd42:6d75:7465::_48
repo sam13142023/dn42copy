@@ -1,4 +1,4 @@
-inet6num:           fd42:6d75:7465:0:0:0:0:0-fd42:6d75:7465:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:6d75:7465:0000:0000:0000:0000:0000 - fd42:6d75:7465:ffff:ffff:ffff:ffff:ffff
 netname:            MUTE-6NET1
 descr:              MUTE-6NET1
 country:            US

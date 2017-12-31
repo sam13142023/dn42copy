@@ -1,4 +1,4 @@
-inetnum:            172.20.18.0-172.20.18.15
+inetnum:            172.20.18.0 - 172.20.18.15
 netname:            MUTE-NET1
 descr:              MUTE-NET1
 country:            US
