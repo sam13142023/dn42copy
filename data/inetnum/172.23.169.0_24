@@ -1,4 +1,4 @@
-inetnum:            172.23.169.0-172.23.169.255
+inetnum:            172.23.169.0 - 172.23.169.255
 netname:            NET-REWBYSOFT-ASIX
 nserver:            ns1.aperture-laboratories.dn42
 descr:              ASIX Network

@@ -1,4 +1,4 @@
-inet6num:           fd06:e881:1300:0000:0000:0000:0000:0000-fd06:e881:130f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd06:e881:1300:0000:0000:0000:0000:0000 - fd06:e881:130f:ffff:ffff:ffff:ffff:ffff
 netname:            NET-REWBYSOFT-VMCLUSTER
 nserver:            ns1.aperture-laboratories.dn42
 country:            NL

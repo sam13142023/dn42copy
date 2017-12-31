@@ -1,4 +1,4 @@
-inetnum:            172.20.226.0-172.20.226.255
+inetnum:            172.20.226.0 - 172.20.226.255
 netname:            NET-REWBYSOFT-VMCLUSTER
 nserver:            ns1.aperture-laboratories.dn42
 descr:              Secondary allocation. Used by VM cluster.

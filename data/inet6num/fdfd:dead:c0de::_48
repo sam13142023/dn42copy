@@ -1,4 +1,4 @@
-inet6num:           fdfd:dead:c0de:0000:0000:0000:0000:0000-fdfd:dead:c0de:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdfd:dead:c0de:0000:0000:0000:0000:0000 - fdfd:dead:c0de:ffff:ffff:ffff:ffff:ffff
 netname:            NET-REWBYSOFT
 nserver:            ns1.aperture-laboratories.dn42
 descr:              Main allocation.

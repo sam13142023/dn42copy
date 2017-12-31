@@ -181,7 +181,7 @@ class FileDOM:
                     if i[0].strip() not in keys:
                         keys[i[0].strip()] = []
 
-                    keys[i[0].strip()].append(lineno - 1)
+                    keys[i[0].strip()].append(len(dom) - 1)
 
                     last_multi = None
 
@@ -213,8 +213,9 @@ class FileDOM:
     def get(self, key, index=0, default=None):
         if key not in self.keys:
             return default
-        if index > len(self.keys[key]) or index < -len(self.keys[key]):
+        if index >= len(self.keys[key]) or index <= -len(self.keys[key]):
             return default
+
         return self.dom[self.keys[key][index]][1]
 
 
@@ -741,6 +742,8 @@ def test_policy(obj_type, name, mntner):
     return "FAIL"
 
 def sanity_check(dom):
+#    log.info(dom.keys)
+#    log.info(dom.dom)
     ck = "PASS"
     if dom.schema == "dn42.inetnum":
         cidr = dom.get("cidr")
@@ -755,6 +758,7 @@ def sanity_check(dom):
 
     if dom.schema == "dn42.inet6num":
         cidr = dom.get("cidr")
+        log.info(cidr)
         Lnet, Hnet, mask = inet6range(cidr)
         cidr_range = pretty_ip(Lnet) + "-" + pretty_ip(Hnet)
         file_range = dom.get("inet6num")
