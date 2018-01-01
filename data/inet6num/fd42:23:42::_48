@@ -7,6 +7,4 @@ country:            DE
 admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
-nserver:            ns1.hexa.dn42
-nserver:            ns2.hexa.dn42
 status:             ASSIGNED
