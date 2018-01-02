@@ -4,3 +4,4 @@ sha512-pw:          N2MxZDE5MWNiZmFiMjgyZjAwYzY0NGQ2M2UwNGU0ZjY3ZWRmZTc0ZTBmMjFi
 admin-c:            IMOTO-DN42
 tech-c:             IMOTO-DN42
 mnt-by:             IMOTO-MNT
+auth:               pgp-fingerprint 0524FC290396D6CB0F73064DBEC0B15F411666E5
