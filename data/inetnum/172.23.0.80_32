@@ -1,7 +1,7 @@
-inetnum:            172.23.0.80 - 172.23.0.95
-cidr:               172.23.0.80/28
+inetnum:            172.23.0.80 - 172.23.0.80
+cidr:               172.23.0.80/32
 netname:            NET-A01NN-DN42
-descr:              DN42 core web services - anycast
+descr:              wiki.dn42
 admin-c:            NIXNODES-DN42
 admin-c:            SOURIS-DN42
 admin-c:            GRMML-DN42
@@ -11,7 +11,8 @@ tech-c:             GRMML-DN42
 mnt-by:             NIXNODES-MNT
 mnt-by:             XUU-MNT
 mnt-by:             GRMML-MNT
+mnt-by:             HEXA-MNT
 status:             ASSIGNED
-nserver:            ns1.nixnodes.dn42
-nserver:            ns2.nixnodes.dn42
+nserver:            ns1.lossy.network
+nserver:            ns2.lossy.network
 bgp-status:         active
