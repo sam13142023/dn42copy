@@ -6,7 +6,7 @@ admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
 mnt-by:             XUU-MNT
-nserver:            ns1.lossy.network
-nserver:            ns2.lossy.network
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
 status:             ASSIGNED
 bgp-status:         active
