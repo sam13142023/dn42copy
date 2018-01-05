@@ -2,7 +2,7 @@ organisation:       ORG-IMOTO
 org-name:           IMOTO NETWORK
 descr:              IMOTO NETWORK LABS
 e-mail:             dn42@imoto.sh
-www:                https://www.imoto.sh
-admin-c:            IMOTO-DN42
-tech-c:             IMOTO-DN42
+www:                https://dn42.imoto.sh
+admin-c:            KINO-DN42
+tech-c:             KINO-DN42
 mnt-by:             IMOTO-MNT
