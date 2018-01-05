@@ -1,0 +1,4 @@
+ route:              172.20.172.96/28
+ origin:             AS4242421702
+ mnt-by:             RICK-MNT
+ bgp-status:         active
