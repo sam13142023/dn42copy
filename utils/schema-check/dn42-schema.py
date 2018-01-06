@@ -16,14 +16,11 @@ SCHEMA_NAMESPACE = "dn42."
 
 
 class SchemaDOM:
-    src = None
-    schema = None
-    name = None
-    ref = None
-    primary = None
-    type = None
-
     def __init__(self, fn):
+        self.name = None
+        self.ref = None
+        self.primary = None
+        self.type = None
         self.src = fn
         f = FileDOM(fn)
         self.schema = self.__parse_schema(f)
@@ -78,6 +75,10 @@ class SchemaDOM:
 
     def check_file(self, f, lookups=None):
         status = "PASS"
+        if not f.valid:
+           log.error("%s Line 0: File does not parse" % (f.src))
+           status = "FAIL"
+
         for k, v in self.schema.items():
             if 'required' in v and k not in f.keys:
                 log.error(
@@ -150,18 +151,28 @@ class SchemaDOM:
 class FileDOM:
 
     def __init__(self, fn):
-        dom = []
-        keys = {}
-        multi = {}
-        mntner = []
-        last_multi = None
-        schema = None
-        src = fn
+        self.valid = True
+        self.dom = []
+        self.keys = {}
+        self.multi = {}
+        self.mntner = []
+        self.schema = None
+        self.src = fn
 
         with open(fn, mode='r', encoding='utf-8') as f:
-            for lineno, i in enumerate(f.readlines(), 1):
+            dom = []
+            keys = {}
+            multi = {}
+            mntner = []
+            last_multi = None
 
+            for lineno, i in enumerate(f.readlines(), 1):
                 if re.match(r'[ \t]', i):
+                    if len(dom) == 0:
+                        log.error("File %s does not parse properly" % (fn) )
+                        self.valid = False
+                        return
+
                     dom[-1][1] += "\n" + i.strip()
 
                     if dom[-1][0] not in multi:
@@ -193,7 +204,6 @@ class FileDOM:
         self.multi = multi
         self.mntner = mntner
         self.schema = SCHEMA_NAMESPACE + dom[0][0]
-        self.src = src
 
     def __str__(self):
         length = 19
@@ -275,11 +285,12 @@ def scan_files(path, mntner=None, use_file=None):
     idx = {}
     schemas = {}
 
-    for line in arr:
+    for dom in arr:
+        line = (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner), dom)
+
         idx[(line[0], line[1])] = line[2:]
         if line[0] == SCHEMA_NAMESPACE + 'schema':
             s = SchemaDOM(line[2])
-            log.info("read schema: %s" % (s.name))
             schemas[s.ref] = s
 
     return __scan_index(idx, schemas, mntner, use_file)
@@ -287,29 +298,31 @@ def scan_files(path, mntner=None, use_file=None):
 def __scan_index(idx, schemas, mntner, use_file):
     ok = True
     for k, v in idx.items():
-        log.debug(k)
-        mlist = []
-        if len(v) > 1:
-            mlist = v[1].split(",")
-
-        if mntner is not None and mntner not in mlist:
-            continue
-
         if use_file is not None and use_file != v[0]:
             continue
 
         s = schemas.get(k[0], None)
         if s is None:
             log.error("No schema found for %s" % (k[1]))
-            ok = False
-            continue
-        c = FileDOM(v[0])
-        ck = s.check_file(c, idx.keys())
-        if ck == "INFO" and ok != "FAIL":
-            ok = ck
-        if ck == "FAIL":
-            ok = ck
+            print("CHECK\t%-54s\tFAIL\tMNTNERS: UNKNOWN" %(v[2].src))
+            ok = "FAIL"
 
+        else:
+            mlist = []
+            if len(v) > 1:
+                mlist = v[1].split(",")
+
+            if mntner is not None and mntner not in mlist:
+                continue
+
+
+            c = v[2]
+            ck = s.check_file(c, idx.keys())
+
+            if ck == "INFO" and ok != "FAIL":
+                ok = ck
+            if ck == "FAIL":
+                ok = ck
     return ok
 
 def __index_files(path, use_file):
@@ -342,11 +355,11 @@ def __index_files(path, use_file):
 
         for f in files:
             dom = FileDOM(os.path.join(root, f))
-            yield (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner))
+            yield dom
 
     if use_file is not None:
             dom = FileDOM(use_file)
-            yield (dom.schema, dom.src.split("/")[-1].replace("_", "/"), dom.src, ",".join(dom.mntner))
+            yield dom
 
 def index_files(path):
     idx = __index_files(path)
