@@ -1,4 +1,4 @@
-inet6num:           fd65:a890:5050:0:0:0:0:0 - fd65:a890:5050:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd65:a890:5050:0000:0000:0000:0000:0000 - fd65:a890:5050:ffff:ffff:ffff:ffff:ffff
 netname:            GXA-NET
 descr:              GXA-NET v6
 country:            US
