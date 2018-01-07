@@ -1,4 +1,4 @@
-inet6num:           fd42:5d71:219::-fd42:5d71:219:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd42:5d71:0219:0000:0000:0000:0000:0000 - fd42:5d71:0219:0000:ffff:ffff:ffff:ffff
 netname:            JRB0001 - Nodes
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42

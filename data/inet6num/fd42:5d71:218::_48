@@ -1,4 +1,4 @@
-inet6num:           fd42:5d71:218::-fd42:5d71:218:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd42:5d71:0218:0000:0000:0000:0000:0000 - fd42:5d71:0218:ffff:ffff:ffff:ffff:ffff
 netname:            JRB0001-TRANSIT
 country:            DE
 admin-c:            JRB0001-DN42

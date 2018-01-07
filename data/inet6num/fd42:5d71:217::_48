@@ -1,4 +1,4 @@
-inet6num:           fd42:5d71:217::-fd42:5d71:217:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd42:5d71:0217:0000:0000:0000:0000:0000 - fd42:5d71:0217:ffff:ffff:ffff:ffff:ffff
 netname:            JRB0001-INET6-0
 country:            CH
 admin-c:            JRB0001-DN42
