@@ -1,4 +1,0 @@
-route:              172.21.101.128/27
-origin:             AS4242423641
-mnt-by:             HESSENET-MNT
-bgp-status:         active
