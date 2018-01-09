@@ -1,4 +1,4 @@
-inet6num:           fd42:5d71:217:FFFF:FFFF:FFFF:0467::-fd42:5d71:217:FFFF:FFFF:FFFF:0467:FFFF
+inet6num:           fd42:5d71:0217:ffff:ffff:ffff:0467:0000 - fd42:5d71:0217:ffff:ffff:ffff:0467:ffff
 netname:            JRB0001-INET6-PEERING-REST
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
