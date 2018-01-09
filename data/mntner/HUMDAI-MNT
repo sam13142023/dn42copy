@@ -4,3 +4,4 @@ sha512-pw:          MGRhMmU0MTVkY2UwYjU0NDVmMGZiZjgwZTk5OTc5YzUwNzVkM2U4ZTdlYTUx
 admin-c:            HUMDAISTEVE-DN42
 tech-c:             HUMDAISTEVE-DN42
 mnt-by:             HUMDAI-MNT
+auth:               pgp-fingerprint 98DC41137A34A26F35EA6A248C9E924F70C8CE93
