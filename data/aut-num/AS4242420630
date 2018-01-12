@@ -5,3 +5,5 @@ tech-c:             IO-DN42
 mnt-by:             SKYNET-MNT
 remarks:            Always open for peerings; contact io@hackint on IRC.
 remarks:            Wireguard tunnels preferred, others on a case-by-case basis.
+mp-import:          afi any.unicast from AS4242420630:TRANSIT accept   ANY
+mp-export:          afi any.unicast to   AS4242420630:TRANSIT announce ANY
