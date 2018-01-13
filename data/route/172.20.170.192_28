@@ -1,0 +1,3 @@
+route:              172.20.170.192/28
+origin:             AS4242423934
+mnt-by:             HESSNET-MNT
