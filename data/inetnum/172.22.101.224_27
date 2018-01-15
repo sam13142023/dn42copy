@@ -6,5 +6,4 @@ tech-c:             MODE-DN42
 mnt-by:             MODE-MNT
 nserver:            ns.modenet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1500235203
 cidr:               172.22.101.224/27

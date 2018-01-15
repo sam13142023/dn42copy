@@ -8,5 +8,4 @@ mnt-by:             XIAOYU-MNT
 nserver:            NS.XIAOYU.DN42
 nserver:            NS.face.DN42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.22.190.0/23

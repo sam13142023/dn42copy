@@ -2,4 +2,3 @@ route:              172.20.47.0/26
 descr:              NEO-NETWORK
 origin:             AS4242421123
 mnt-by:             NEO-MNT
-bgp-status:         active

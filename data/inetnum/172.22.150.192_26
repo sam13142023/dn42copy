@@ -6,5 +6,4 @@ admin-c:            ERGRBT-DN42
 tech-c:             ERGRBT-DN42
 mnt-by:             ERGRBT-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.150.192/26

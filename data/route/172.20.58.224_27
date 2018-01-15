@@ -1,4 +1,3 @@
 route:              172.20.58.224/27
 origin:             AS4242423904
 mnt-by:             LUGINBASH-MNT
-bgp-status:         active

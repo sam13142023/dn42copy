@@ -6,5 +6,4 @@ tech-c:             HERZOG-DN42
 mnt-by:             KAESEKUCHENPW-MNT
 nserver:            ns1.herzog.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1500480003
 cidr:               172.20.180.64/27

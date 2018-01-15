@@ -6,5 +6,4 @@ admin-c:            LDG1P-DN42
 tech-c:             LDG1P-DN42
 mnt-by:             LDG1-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.87.32/27

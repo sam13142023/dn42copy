@@ -6,5 +6,4 @@ admin-c:            NUDELSALAT-DN42
 tech-c:             NUDELSALAT-DN42
 mnt-by:             NUDELSALAT-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1505592007
 cidr:               172.22.96.0/24

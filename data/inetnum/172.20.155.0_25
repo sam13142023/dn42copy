@@ -4,5 +4,4 @@ admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
 status:             ALLOCATED PA
-bgp-status:         active
 cidr:               172.20.155.0/25

@@ -3,4 +3,3 @@ descr:              Localnet IPv4 route
 origin:             AS64527
 mnt-by:             LOCALNET-MNT
 mnt-by:             NIXNODES-MNT
-bgp-status:         inactive 1499875221

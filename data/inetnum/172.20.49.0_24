@@ -6,5 +6,4 @@ admin-c:            FFAMAX-DN42
 tech-c:             FFAMAX-DN42
 mnt-by:             FFAMAX-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.49.0/24

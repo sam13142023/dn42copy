@@ -3,4 +3,3 @@ descr:              NL Zuid IXP range
 origin:             AS4242420330
 mnt-by:             MARLINC-MNT
 mnt-by:             VHAL-MNT
-bgp-status:         active

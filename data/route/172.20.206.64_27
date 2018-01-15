@@ -1,4 +1,3 @@
 route:              172.20.206.64/27
 origin:             AS4242420342
 mnt-by:             MOJO-MNT
-bgp-status:         inactive 1486166406

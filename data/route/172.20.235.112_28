@@ -2,4 +2,3 @@ route:              172.20.235.112/28
 descr:              Pavel Dostál's PDNAT 172.20.235.112/28 route
 origin:             AS4242420339
 mnt-by:             PDOSTAL-MNT
-bgp-status:         inactive 1503244806

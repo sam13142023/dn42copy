@@ -8,5 +8,4 @@ admin-c:            QSX-DN42
 tech-c:             QSX-DN42
 mnt-by:             QSX-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.175.64/27

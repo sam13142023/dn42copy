@@ -5,5 +5,4 @@ remarks:            Hosts on this network supply whois service.
 admin-c:            PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.0.43/32

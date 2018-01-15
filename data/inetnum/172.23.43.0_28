@@ -7,5 +7,4 @@ tech-c:             OSPREYNET-DN42
 mnt-by:             OSPREYNET-MNT
 nserver:            dummy.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1494518436
 cidr:               172.23.43.0/28

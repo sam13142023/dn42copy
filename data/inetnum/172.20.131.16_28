@@ -6,5 +6,4 @@ admin-c:            NATHAN-DN42
 tech-c:             NATHAN-DN42
 mnt-by:             NTWRKTOP-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1502524802
 cidr:               172.20.131.16/28

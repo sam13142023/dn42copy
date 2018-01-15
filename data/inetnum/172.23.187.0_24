@@ -6,5 +6,4 @@ admin-c:            HSBXL-DN42
 tech-c:             HSBXL-DN42
 status:             ASSIGNED
 mnt-by:             DUMMY-MNT
-bgp-status:         active
 cidr:               172.23.187.0/24

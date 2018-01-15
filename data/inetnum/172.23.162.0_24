@@ -7,5 +7,4 @@ tech-c:             MB-DN42
 mnt-by:             MB-MNT
 status:             ASSIGNED
 nserver:            ns.blacksheep.dn42
-bgp-status:         inactive 1492502403
 cidr:               172.23.162.0/24

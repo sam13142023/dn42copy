@@ -6,5 +6,4 @@ admin-c:            DS5534-DN42
 tech-c:             DS5534-DN42
 mnt-by:             LIHNIDOS-MNT
 status:             ALLOCATED PA
-bgp-status:         active
 cidr:               172.20.180.96/27

@@ -4,6 +4,5 @@ descr:              Askarel IPv4 network
 admin-c:            ASKAREL-DN42
 tech-c:             ASKAREL-DN42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.115.128/25
 mnt-by:             DUMMY-MNT

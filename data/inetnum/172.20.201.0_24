@@ -5,5 +5,4 @@ admin-c:            ASDF-DN42
 tech-c:             ASDF-DN42
 status:             ASSIGNED
 mnt-by:             ASDF-MNT
-bgp-status:         active
 cidr:               172.20.201.0/24

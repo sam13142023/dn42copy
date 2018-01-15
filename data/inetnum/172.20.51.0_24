@@ -8,5 +8,4 @@ mnt-by:             RLKT-MNT
 nserver:            ns0.rlkt.dn42
 nserver:            ns1.rlkt.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.51.0/24

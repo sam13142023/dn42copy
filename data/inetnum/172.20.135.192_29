@@ -6,5 +6,4 @@ admin-c:            JETBA-DN42
 tech-c:             JETBA-DN42
 mnt-by:             JETBA-MNT
 status:             ASSIGNED PI
-bgp-status:         inactive 1504036810
 cidr:               172.20.135.192/29

@@ -14,5 +14,4 @@ remarks:            | dn42-peering@mortzu.de                   |
 remarks:            | In case of abuse or probleme send to     |
 remarks:            | dn42-problems@mortzu.de                  |
 remarks:            ++++++++++++++++++++++++++++++++++++++++++++
-bgp-status:         active
 cidr:               172.22.192.0/20

@@ -7,5 +7,4 @@ tech-c:             SVTH-DN42
 mnt-by:             SVTH-MNT
 nserver:            ns1.svth.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.148.192/27

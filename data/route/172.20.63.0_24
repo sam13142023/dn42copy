@@ -2,4 +2,3 @@ route:              172.20.63.0/24
 descr:              Nocturno IPv4 network
 origin:             AS4242422002
 mnt-by:             NOCTURNO-MNT
-bgp-status:         active

@@ -2,4 +2,3 @@ route:              172.20.24.0/26
 descr:              mobile clients
 origin:             AS4242423991
 mnt-by:             ANDI--MNT
-bgp-status:         active

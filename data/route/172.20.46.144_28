@@ -1,4 +1,3 @@
 route:              172.20.46.144/28
 origin:             AS4242420630
 mnt-by:             SKYNET-MNT
-bgp-status:         inactive 1506628808

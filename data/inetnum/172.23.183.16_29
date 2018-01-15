@@ -7,5 +7,4 @@ admin-c:            PKTSRF-DN42
 tech-c:             PKTSRF-DN42
 mnt-by:             PKTSRF-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.183.16/29

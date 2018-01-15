@@ -9,6 +9,5 @@ nserver:            ns1.vger.dn42
 nserver:            ns2.vger.dn42
 nserver:            ns3.vger.dn42
 nserver:            ns4.vger.dn42
-bgp-status:         active
 cidr:               172.22.187.0/24
 mnt-by:             DUMMY-MNT

@@ -6,5 +6,4 @@ admin-c:            MIKE-DN42
 tech-c:             MIKE-DN42
 mnt-by:             PISTON-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.150.128/25

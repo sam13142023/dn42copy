@@ -8,5 +8,4 @@ mnt-by:             RACHA2000-MNT
 nserver:            ns1.evenet.dn42
 nserver:            ns2.evenet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1504036819
 cidr:               172.20.191.0/26

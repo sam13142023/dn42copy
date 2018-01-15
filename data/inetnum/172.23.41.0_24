@@ -6,5 +6,4 @@ admin-c:            ALEX-DN42
 tech-c:             ALEX-DN42
 mnt-by:             ALEX-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1505145606
 cidr:               172.23.41.0/24

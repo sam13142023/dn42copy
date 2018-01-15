@@ -6,5 +6,4 @@ admin-c:            FC-DN42
 tech-c:             FC-DN42
 mnt-by:             FC-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492948801
 cidr:               172.20.175.128/26

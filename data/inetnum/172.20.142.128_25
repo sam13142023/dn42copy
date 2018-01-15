@@ -6,5 +6,4 @@ tech-c:             JONSBOX-DN42
 mnt-by:             JONSBOX-MNT
 status:             ALLOCATED
 nserver:            dns.wiregrid.dn42
-bgp-status:         active
 cidr:               172.20.142.128/25

@@ -7,5 +7,4 @@ mnt-by:             PAPAYAWHIP-MNT
 nserver:            dns1.server-place.org
 nserver:            dns2.server-place.org
 status:             ASSIGNED
-bgp-status:         inactive 1506888005
 cidr:               172.22.111.128/28

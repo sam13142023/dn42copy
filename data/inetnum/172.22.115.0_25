@@ -7,5 +7,4 @@ admin-c:            DOVY-DN42
 tech-c:             DOVY-DN42
 mnt-by:             DOVY-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1499875214
 cidr:               172.22.115.0/25

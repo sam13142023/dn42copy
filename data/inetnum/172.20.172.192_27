@@ -8,5 +8,4 @@ mnt-by:             BSDSERVICES-MNT
 nserver:            ns1.bsd.services.dn42
 nserver:            ns2.bsd.services.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1506585604
 cidr:               172.20.172.192/27

@@ -6,5 +6,4 @@ admin-c:            ICEZ-DN42
 tech-c:             ICEZ-DN42
 mnt-by:             ICEZ-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.233.0/24

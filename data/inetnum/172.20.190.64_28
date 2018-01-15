@@ -7,5 +7,4 @@ nserver:            ns1.nobody44.dn42
 tech-c:             PAUL-DN42
 mnt-by:             NOB-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.190.64/28

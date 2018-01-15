@@ -3,4 +3,3 @@ descr:              ATR Core Routing Network
 origin:             AS4242421237
 origin:             AS4242421233
 mnt-by:             ATR-MNT
-bgp-status:         active

@@ -1,4 +1,3 @@
 route:              172.20.18.192/28
 origin:             AS4242423277
 mnt-by:             ALARMSCHABEN-MNT
-bgp-status:         inactive 1504036830

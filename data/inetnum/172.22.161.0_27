@@ -7,5 +7,4 @@ tech-c:             AXD-DN42
 mnt-by:             AXD-MNT
 nserver:            a.ns.agam.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1506110404
 cidr:               172.22.161.0/27

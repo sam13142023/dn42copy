@@ -7,5 +7,4 @@ tech-c:             FSNX-DN42
 mnt-by:             FSNX-MNT
 nserver:            ns1.fsnx.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1497297604
 cidr:               172.21.64.16/28

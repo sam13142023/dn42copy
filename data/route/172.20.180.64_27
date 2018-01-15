@@ -2,4 +2,3 @@ route:              172.20.180.64/27
 descr:              TEST
 origin:             AS4242421308
 mnt-by:             KAESEKUCHENPW-MNT
-bgp-status:         inactive 1500480006

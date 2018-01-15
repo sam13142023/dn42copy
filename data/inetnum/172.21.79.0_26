@@ -4,5 +4,4 @@ admin-c:            SIEMIR-DN42
 tech-c:             SIEMIR-DN42
 mnt-by:             SIEMIR-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.79.0/26

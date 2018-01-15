@@ -2,4 +2,3 @@ route:              172.23.215.96/27
 descr:              Arendtsen DN42 net
 origin:             AS4242421978
 mnt-by:             ARENDTSEN-MNT
-bgp-status:         inactive 1496534404

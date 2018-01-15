@@ -5,5 +5,4 @@ admin-c:            FRANKCHANG-DN42
 tech-c:             FRANKCHANG-DN42
 mnt-by:             URCRAZY-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.130.0/24

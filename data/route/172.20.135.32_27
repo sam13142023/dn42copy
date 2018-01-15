@@ -1,4 +1,3 @@
 route:              172.20.135.32/27
 origin:             AS4242420300
 mnt-by:             IUS-MNT
-bgp-status:         active

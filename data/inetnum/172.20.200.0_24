@@ -8,5 +8,4 @@ mnt-by:             JOMAT-MNT
 nserver:            ns0.j.dn42
 nserver:            ns1.j.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.200.0/24

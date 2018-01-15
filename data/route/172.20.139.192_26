@@ -2,4 +2,3 @@ route:              172.20.139.192/26
 descr:              MARIDE-STATIC Route
 origin:             AS4242422301
 mnt-by:             MARIDE-MNT
-bgp-status:         inactive 1505160007

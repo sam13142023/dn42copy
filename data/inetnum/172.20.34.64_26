@@ -6,5 +6,4 @@ tech-c:             TSYS-DN42
 mnt-by:             TSYS-MNT
 nserver:            ns1.loaderror.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.34.64/26

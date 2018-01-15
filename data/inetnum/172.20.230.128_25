@@ -7,5 +7,4 @@ mnt-by:             INETLI-MNT
 descr:              Internet Libre http://inetli.org/
 nserver:            crista.deidad.net
 status:             ASSIGNED
-bgp-status:         inactive 1492306861
 cidr:               172.20.230.128/25

@@ -2,4 +2,3 @@ route:              172.23.214.0/24
 descr:              fpletz's dn42 network
 origin:             AS4242420235
 mnt-by:             FPLETZ-MNT
-bgp-status:         active

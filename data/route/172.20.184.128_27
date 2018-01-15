@@ -2,4 +2,3 @@ route:              172.20.184.128/27
 descr:              WESEL
 origin:             AS4242422460
 mnt-by:             RFC2460-MNT
-bgp-status:         inactive 1475438403

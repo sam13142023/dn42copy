@@ -8,5 +8,4 @@ tech-c:             DARKIT-DN42
 mnt-by:             DARKIT-MNT
 nserver:            ns1.dark-it.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1492531203
 cidr:               172.22.148.32/27

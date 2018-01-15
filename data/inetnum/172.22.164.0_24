@@ -6,5 +6,4 @@ tech-c:             DRIXTER-DN42
 mnt-by:             DRIXTER-MNT
 status:             ASSIGNED
 nserver:            ns1.e-utp.dn42
-bgp-status:         active
 cidr:               172.22.164.0/24

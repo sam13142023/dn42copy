@@ -2,4 +2,3 @@ route:              172.23.199.96/28
 descr:              nop test
 origin:             AS4242420134
 mnt-by:             NOP-MNT
-bgp-status:         active

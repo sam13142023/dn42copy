@@ -6,5 +6,4 @@ admin-c:            CSMITH-DN42
 tech-c:             CSMITH-DN42
 mnt-by:             CSMITH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1494201603
 cidr:               172.21.66.32/27

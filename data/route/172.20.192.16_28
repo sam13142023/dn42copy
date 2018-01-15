@@ -1,4 +1,3 @@
 route:              172.20.192.16/28
 origin:             AS4242420512
 mnt-by:             LAY3R-MNT
-bgp-status:         inactive 1468051202

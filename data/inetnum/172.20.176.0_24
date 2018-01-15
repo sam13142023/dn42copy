@@ -8,5 +8,4 @@ tech-c:             TWINK0R-DN42
 tech-c:             NL-ZUID-DN42
 mnt-by:             TWINK0R-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506657603
 cidr:               172.20.176.0/24

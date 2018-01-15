@@ -7,5 +7,4 @@ admin-c:            ALISTAIR-DN42
 tech-c:             ALISTAIR-DN42
 mnt-by:             V2-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.160.128/25

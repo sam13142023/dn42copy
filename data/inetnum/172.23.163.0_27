@@ -6,5 +6,4 @@ admin-c:            UPPERPASTE-DN42
 tech-c:             UPPERPASTE-DN42
 mnt-by:             UPPERPASTE-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506888006
 cidr:               172.23.163.0/27

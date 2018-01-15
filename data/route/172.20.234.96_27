@@ -1,4 +1,3 @@
 route:              172.20.234.96/27
 origin:             AS4242423268
 mnt-by:             X539-MNT
-bgp-status:         active

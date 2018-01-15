@@ -6,5 +6,4 @@ admin-c:            ADNIDOR-DN42
 tech-c:             ADNIDOR-DN42
 mnt-by:             ADNIDOR-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492992002
 cidr:               172.20.4.32/28

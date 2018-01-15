@@ -4,6 +4,5 @@ netname:            ALLO's dn42 network
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.152.0/25
 mnt-by:             DUMMY-MNT

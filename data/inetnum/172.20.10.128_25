@@ -7,5 +7,4 @@ tech-c:             HARUKA-DN42
 mnt-by:             HARUKA-MNT
 nserver:            ns.haruka.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.10.128/25

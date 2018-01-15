@@ -6,5 +6,4 @@ admin-c:            ALTF4-DN42
 tech-c:             ALTF4-DN42
 mnt-by:             ALTF4-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1504036808
 cidr:               172.20.128.32/29

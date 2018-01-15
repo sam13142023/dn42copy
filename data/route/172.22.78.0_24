@@ -1,4 +1,3 @@
 route:              172.22.78.0/24
 origin:             AS64647
 mnt-by:             FLORIANB-MNT
-bgp-status:         active

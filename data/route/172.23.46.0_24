@@ -2,4 +2,3 @@ route:              172.23.46.0/24
 descr:              Hadrill
 origin:             AS4242420124
 mnt-by:             HADRILL-MNT
-bgp-status:         active

@@ -1,4 +1,3 @@
 route:              172.20.237.224/27
 origin:             AS4242420403
 mnt-by:             SOLITUDE-MNT
-bgp-status:         inactive 1492306865

@@ -6,5 +6,4 @@ admin-c:            OS23-DN42
 tech-c:             OS23-DN42
 mnt-by:             XTN1-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.64.64/27

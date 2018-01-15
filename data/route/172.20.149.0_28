@@ -1,4 +1,3 @@
 route:              172.20.149.0/28
 origin:             AS4242422550
 mnt-by:             CUBESKY-MNT
-bgp-status:         active

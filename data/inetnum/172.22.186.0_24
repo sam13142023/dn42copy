@@ -8,5 +8,4 @@ mnt-by:             DOVY-MNT
 nserver:            ns1.kingof.dn42 172.22.115.4
 nserver:            ns2.kingof.dn42 172.22.115.5
 status:             ASSIGNED
-bgp-status:         inactive 1499875214
 cidr:               172.22.186.0/24

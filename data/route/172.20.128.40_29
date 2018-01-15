@@ -2,4 +2,3 @@ route:              172.20.128.40/29
 descr:              ZeroAE's GRE Tunnels
 origin:             AS4242422878
 mnt-by:             SODRE-MNT
-bgp-status:         active

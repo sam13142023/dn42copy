@@ -2,4 +2,3 @@ route:              172.20.207.128/25
 descr:              Route for Jo-Jo's Main IPv4 Network
 origin:             AS4242423942
 mnt-by:             JO-JO-MNT
-bgp-status:         inactive 1495944004

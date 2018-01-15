@@ -8,5 +8,4 @@ mnt-by:             MITSUHA-MNT
 nserver:            ns1.mitsuha.dn42
 nserver:            ns2.mitsuha.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1504569605
 cidr:               172.21.66.128/27

@@ -6,5 +6,4 @@ admin-c:            FUSL-DN42
 tech-c:             FUSL-DN42
 mnt-by:             FUSL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1499875217
 cidr:               172.23.43.24/31

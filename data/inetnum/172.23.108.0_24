@@ -5,5 +5,4 @@ country:            DE
 admin-c:            TWI-DN42
 tech-c:             TWI-DN42
 mnt-by:             TWI-MNT
-bgp-status:         active
 cidr:               172.23.108.0/24

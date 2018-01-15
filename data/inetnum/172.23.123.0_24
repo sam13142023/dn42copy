@@ -6,5 +6,4 @@ admin-c:            AVELINE-DN42
 tech-c:             AVELINE-DN42
 mnt-by:             AVELINE-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1504036828
 cidr:               172.23.123.0/24

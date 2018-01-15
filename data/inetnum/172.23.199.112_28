@@ -5,5 +5,4 @@ admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.199.112/28

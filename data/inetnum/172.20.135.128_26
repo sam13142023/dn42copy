@@ -4,6 +4,5 @@ admin-c:            OBBI-DN42
 tech-c:             OBBI-DN42
 mnt-by:             OBBI-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.135.128/26
 netname:            Unnamed 172.20.135.128/26 Network

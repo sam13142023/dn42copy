@@ -1,4 +1,3 @@
 route:              172.20.13.160/27
 origin:             AS4242423472
 mnt-by:             OPTIC-MNT
-bgp-status:         active

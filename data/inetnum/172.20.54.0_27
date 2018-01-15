@@ -6,5 +6,4 @@ admin-c:            PC42-DN42
 tech-c:             PC42-DN42
 mnt-by:             PETERCXY-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1504036822
 cidr:               172.20.54.0/27

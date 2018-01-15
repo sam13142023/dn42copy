@@ -1,4 +1,3 @@
 route:              172.20.184.192/28
 origin:             AS4242420078
 mnt-by:             JOSEPHB-MNT
-bgp-status:         active

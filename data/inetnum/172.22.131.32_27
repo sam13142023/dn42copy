@@ -6,5 +6,4 @@ admin-c:            MTR-DN42
 tech-c:             MTR-DN42
 mnt-by:             MTR-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.131.32/27

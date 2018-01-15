@@ -6,5 +6,4 @@ admin-c:            HANKB-DN42
 tech-c:             HANKB-DN42
 mnt-by:             HANKB-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.140.0/25

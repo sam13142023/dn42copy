@@ -5,5 +5,4 @@ admin-c:            JOMAT-DN42
 tech-c:             JOMAT-DN42
 status:             ASSIGNED
 mnt-by:             JOMAT-MNT
-bgp-status:         inactive 1499803339
 cidr:               172.22.173.0/24

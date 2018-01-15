@@ -5,5 +5,4 @@ admin-c:            SPIN-DN42
 tech-c:             SPIN-DN42
 mnt-by:             SPIN-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.234.64/27

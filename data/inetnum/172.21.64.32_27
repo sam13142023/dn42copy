@@ -6,5 +6,4 @@ tech-c:             BERNHARD-DN42
 mnt-by:             MCBONE-MNT
 status:             ASSIGNED
 nserver:            ns.macsbone.dn42
-bgp-status:         active
 cidr:               172.21.64.32/27

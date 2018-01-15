@@ -1,4 +1,3 @@
 route:              172.23.198.0/24
 origin:             AS76198
 mnt-by:             FLHB-NETGROUP-MNT
-bgp-status:         active

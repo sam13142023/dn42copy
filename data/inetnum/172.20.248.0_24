@@ -4,6 +4,5 @@ tech-c:             CHULJIN-DN42
 mnt-by:             CHULJIN-MNT
 nserver:            ns1.chuljin.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1506686404
 cidr:               172.20.248.0/24
 netname:            Unnamed 172.20.248.0/24 Network

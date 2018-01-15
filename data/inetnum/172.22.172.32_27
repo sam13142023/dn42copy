@@ -5,5 +5,4 @@ admin-c:            NEO-DN42
 tech-c:             NEO-DN42
 mnt-by:             NEO-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1501214412
 cidr:               172.22.172.32/27

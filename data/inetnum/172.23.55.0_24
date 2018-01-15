@@ -3,5 +3,4 @@ netname:            LEEPS-NET
 admin-c:            LEEPS-DN42
 mnt-by:             LEEPS-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.55.0/24

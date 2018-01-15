@@ -5,5 +5,4 @@ admin-c:            HIJACK-DN42
 tech-c:             HIJACK-DN42
 mnt-by:             HIJACK-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1502985603
 cidr:               172.20.167.144/28

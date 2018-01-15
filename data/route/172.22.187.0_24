@@ -1,5 +1,4 @@
 route:              172.22.187.0/24
 descr:              Subnet Allocation 1
 origin:             AS64787
-bgp-status:         active
 mnt-by:             DUMMY-MNT

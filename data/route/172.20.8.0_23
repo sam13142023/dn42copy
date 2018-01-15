@@ -2,4 +2,3 @@ route:              172.20.8.0/23
 descr:              DDPO Network
 origin:             AS4242423201
 mnt-by:             DDPO-MNT
-bgp-status:         active

@@ -6,5 +6,4 @@ country:            AU
 admin-c:            TIMANDO-DN42
 tech-c:             TIMANDO-DN42
 mnt-by:             TIMANDO-MNT
-bgp-status:         active
 cidr:               172.20.28.96/27

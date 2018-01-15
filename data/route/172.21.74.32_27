@@ -1,4 +1,3 @@
 route:              172.21.74.32/27
 origin:             AS4242420408
 mnt-by:             UMSA-MNT
-bgp-status:         inactive 1499875220

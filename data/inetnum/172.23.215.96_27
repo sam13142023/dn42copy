@@ -6,5 +6,4 @@ admin-c:            ARENDTSEN-DN42
 tech-c:             ARENDTSEN-DN42
 mnt-by:             ARENDTSEN-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1496534403
 cidr:               172.23.215.96/27

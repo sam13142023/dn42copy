@@ -8,5 +8,4 @@ mnt-by:             NULLROUTE-MNT
 nserver:            sky.nullroute.eu.org
 nserver:            wolke.nullroute.eu.org
 status:             ASSIGNED PA
-bgp-status:         active
 cidr:               172.20.158.0/24

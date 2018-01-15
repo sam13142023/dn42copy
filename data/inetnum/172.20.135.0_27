@@ -5,5 +5,4 @@ admin-c:            SPIDERBYTE-DN42
 tech-c:             SPIDERBYTE-DN42
 mnt-by:             SPIDERBYTE-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.135.0/27

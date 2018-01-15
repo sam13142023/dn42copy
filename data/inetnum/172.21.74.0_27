@@ -6,5 +6,4 @@ admin-c:            ZEROHEATH-DN42
 tech-c:             ZEROHEATH-DN42
 mnt-by:             ZEROHEATH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1499875213
 cidr:               172.21.74.0/27

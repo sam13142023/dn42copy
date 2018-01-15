@@ -1,4 +1,3 @@
 route:              172.20.246.64/27
 origin:             AS4242420248
 mnt-by:             MAULI-MNT
-bgp-status:         inactive 1472241605

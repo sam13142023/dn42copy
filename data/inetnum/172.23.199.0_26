@@ -7,5 +7,4 @@ tech-c:             Z3BRA-DN42
 mnt-by:             UNIXBROS-MNT
 nserver:            ns1.unixbros.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.199.0/26

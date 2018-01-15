@@ -2,4 +2,3 @@ route:              172.20.204.160/27
 descr:              SHOGNET
 origin:             AS4242421913
 mnt-by:             SHOGHI-MNT
-bgp-status:         inactive 1479859204

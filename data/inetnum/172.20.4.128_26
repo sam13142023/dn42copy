@@ -6,5 +6,4 @@ admin-c:            DIEMACO-DN42
 tech-c:             DIEMACO-DN42
 mnt-by:             DIEMACO-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.4.128/26

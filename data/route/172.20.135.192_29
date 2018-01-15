@@ -1,4 +1,3 @@
 route:              172.20.135.192/29
 origin:             AS4242422435
 mnt-by:             JETBA-MNT
-bgp-status:         inactive 1504036830

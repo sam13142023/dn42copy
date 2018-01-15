@@ -1,4 +1,3 @@
 route:              172.20.53.32/27
 origin:             AS4242420302
 mnt-by:             OO11-MNT
-bgp-status:         active

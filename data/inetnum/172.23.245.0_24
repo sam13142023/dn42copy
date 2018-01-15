@@ -7,5 +7,4 @@ admin-c:            DARKIT-DN42
 tech-c:             DARKIT-DN42
 mnt-by:             DARKIT-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.245.0/24

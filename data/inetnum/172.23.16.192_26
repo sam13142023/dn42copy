@@ -10,4 +10,3 @@ mnt-by:             GRMML-MNT
 nserver:            ns1.nl-zuid.dn42
 nserver:            ns2.nl-zuid.dn42
 status:             ASSIGNED PI
-bgp-status:         inactive 1500091206

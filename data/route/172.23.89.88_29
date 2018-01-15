@@ -2,4 +2,3 @@ route:              172.23.89.88/29
 descr:              WIX Internal
 origin:             AS4242423212
 mnt-by:             WEEJITS-MNT
-bgp-status:         inactive 1499803355

@@ -7,5 +7,4 @@ admin-c:            SIDEREAL-DN42
 tech-c:             SIDEREAL-DN42
 mnt-by:             SIDEREAL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506657607
 cidr:               172.23.199.64/27

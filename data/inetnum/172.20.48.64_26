@@ -5,5 +5,4 @@ mnt-by:             ASX-MNT
 country:            HU
 admin-c:            MARK-DN42
 tech-c:             MARK-DN42
-bgp-status:         inactive 1506312005
 cidr:               172.20.48.64/26

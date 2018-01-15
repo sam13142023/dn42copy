@@ -6,5 +6,4 @@ admin-c:            KRAKEN-DN42
 tech-c:             KRAKEN-DN42
 mnt-by:             KRAKEN-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306860
 cidr:               172.20.132.0/23

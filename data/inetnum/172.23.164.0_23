@@ -5,5 +5,4 @@ admin-c:            NICODUCK-DN42
 tech-c:             NICODUCK-DN42
 mnt-by:             NICODUCK-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.164.0/23

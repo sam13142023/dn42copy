@@ -6,5 +6,4 @@ admin-c:            TAYLES-DN42
 tech-c:             TAYLES-DN42
 mnt-by:             TAYLES-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.106.0/27

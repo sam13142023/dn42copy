@@ -1,4 +1,3 @@
 route:              172.22.129.16/28
 origin:             AS4242421702
 mnt-by:             RICK-MNT
-bgp-status:         active

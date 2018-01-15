@@ -2,4 +2,3 @@ route:              172.23.183.224/28
 descr:              DPN ROUTE
 origin:             AS4242420401
 mnt-by:             DPN-MNT
-bgp-status:         active

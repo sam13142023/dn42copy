@@ -1,5 +1,4 @@
 route:              172.22.154.0/24
 descr:              ZGILES HOME NETWORK
 origin:             AS64754
-bgp-status:         inactive 1467432004
 mnt-by:             DUMMY-MNT

@@ -6,5 +6,4 @@ admin-c:            BEN-DN42
 tech-c:             BEN-DN42
 mnt-by:             BEN-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.6.0/28

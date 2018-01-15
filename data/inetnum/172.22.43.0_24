@@ -6,5 +6,4 @@ admin-c:            ALICEWL-DN42
 tech-c:             ALICEWL-DN42
 status:             ASSIGNED
 mnt-by:             ALICE-DN42-MNT
-bgp-status:         active
 cidr:               172.22.43.0/24

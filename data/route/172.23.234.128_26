@@ -1,4 +1,3 @@
 route:              172.23.234.128/26
 origin:             AS4242422552
 mnt-by:             ALKA-MNT
-bgp-status:         inactive 1478448006

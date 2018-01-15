@@ -1,4 +1,3 @@
 route:              172.20.138.128/26
 origin:             AS4242423513
 mnt-by:             LFNET-MNT
-bgp-status:         active

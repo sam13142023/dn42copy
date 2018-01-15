@@ -1,4 +1,3 @@
 route:              172.22.119.192/26
 origin:             AS64753
 mnt-by:             BARNEHAGE-MNT
-bgp-status:         inactive 1479340805

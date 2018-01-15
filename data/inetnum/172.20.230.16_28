@@ -6,5 +6,4 @@ admin-c:            IMR-DN42
 tech-c:             IMR-DN42
 mnt-by:             IMR-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1492306861
 cidr:               172.20.230.16/28

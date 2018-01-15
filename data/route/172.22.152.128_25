@@ -3,4 +3,3 @@ descr:              FLAT-ROUTE
 origin:             AS4242421093
 mnt-by:             IRL-MNT
 mnt-by:             ANA-MNT
-bgp-status:         active

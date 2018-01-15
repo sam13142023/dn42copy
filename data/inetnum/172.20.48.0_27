@@ -8,5 +8,4 @@ mnt-by:             MALTEJK-MNT
 nserver:            dns1.maltejk.dn42
 nserver:            dns2.maltejk.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1496678402
 cidr:               172.20.48.0/27

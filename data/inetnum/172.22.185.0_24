@@ -5,5 +5,4 @@ admin-c:            NODAUF-DN42
 tech-c:             NODAUF-DN42
 mnt-by:             NODAUF-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.185.0/24

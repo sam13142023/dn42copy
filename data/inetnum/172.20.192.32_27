@@ -5,5 +5,4 @@ admin-c:            HUMDAISTEVE-DN42
 tech-c:             HUMDAISTEVE-DN42
 mnt-by:             HUMDAI-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.192.32/27

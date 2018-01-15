@@ -7,5 +7,4 @@ tech-c:             TRILADER-DN42
 mnt-by:             RMLH-MNT
 mnt-by:             TRILADER-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.178.64/26

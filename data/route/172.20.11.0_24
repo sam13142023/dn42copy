@@ -2,4 +2,3 @@ route:              172.20.11.0/24
 descr:              Route to own IPv4 Space
 origin:             AS4242421339
 mnt-by:             TWINK0R-MNT
-bgp-status:         active

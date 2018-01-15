@@ -5,5 +5,4 @@ country:            DE
 admin-c:            RSPP-DN42
 tech-c:             RSPP-DN42
 mnt-by:             RSPP-MNT
-bgp-status:         active
 cidr:               172.23.122.0/24

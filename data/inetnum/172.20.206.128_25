@@ -6,5 +6,4 @@ admin-c:            KHALED-DN42
 tech-c:             KHALED-DN42
 mnt-by:             KHALED-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1504454404
 cidr:               172.20.206.128/25

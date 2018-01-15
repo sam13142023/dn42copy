@@ -7,5 +7,4 @@ tech-c:             LOSTNOC-DN42
 mnt-by:             LOSTSERVER-MNT
 nserver:            spartan.lostserver.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1503993602
 cidr:               172.20.195.80/28

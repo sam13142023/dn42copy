@@ -2,4 +2,3 @@ route:              172.23.238.128/26
 descr:              MKB
 origin:             AS4242420039
 mnt-by:             MKB-MNT
-bgp-status:         active

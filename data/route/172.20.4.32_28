@@ -1,4 +1,3 @@
 route:              172.20.4.32/28
 origin:             AS4242423677
 mnt-by:             ADNIDOR-MNT
-bgp-status:         inactive 1492992003

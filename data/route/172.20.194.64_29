@@ -2,4 +2,3 @@ route:              172.20.194.64/29
 descr:              GXA-RTE
 origin:             AS4242423602
 mnt-by:             GXA-MNT
-bgp-status:         active

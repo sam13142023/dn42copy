@@ -6,5 +6,4 @@ admin-c:            LEX-DN42
 tech-c:             LEX-DN42
 mnt-by:             LEX-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1505145605
 cidr:               172.22.97.0/24

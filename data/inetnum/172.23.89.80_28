@@ -8,5 +8,4 @@ mnt-by:             WEEJITS-MNT
 nserver:            ns1.weejits.dn42
 nserver:            ns2.weejits.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1499803346
 cidr:               172.23.89.80/28

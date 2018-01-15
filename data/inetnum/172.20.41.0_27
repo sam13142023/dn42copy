@@ -5,5 +5,4 @@ admin-c:            TIMHAWES-DN42
 tech-c:             TIMHAWES-DN42
 mnt-by:             ODVIK-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1503648002
 cidr:               172.20.41.0/27

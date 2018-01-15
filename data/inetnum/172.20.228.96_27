@@ -6,5 +6,4 @@ admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.228.96/27

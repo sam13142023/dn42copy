@@ -1,4 +1,3 @@
 route:              172.22.97.0/24
 origin:             AS64697
 mnt-by:             LEX-MNT
-bgp-status:         inactive 1505145608

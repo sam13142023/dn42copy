@@ -5,5 +5,4 @@ admin-c:            SYNACKRAY-DN42
 tech-c:             SYNACKRAY-DN42
 mnt-by:             ICARUSTECH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306860
 cidr:               172.20.138.0/26

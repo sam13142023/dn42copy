@@ -5,5 +5,4 @@ admin-c:            ERIC-DN42
 tech-c:             ERIC-DN42
 mnt-by:             ERIC-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.73.128/27

@@ -6,5 +6,4 @@ admin-c:            RSFJ2-DN42
 tech-c:             RSFJ2-DN42
 mnt-by:             RSFJ2-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1494489608
 cidr:               172.20.30.0/24

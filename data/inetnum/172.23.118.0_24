@@ -6,5 +6,4 @@ tech-c:             PMENKE-DN42
 mnt-by:             PMENKE-MNT
 status:             ALLOCATED
 nserver:            ns1.pmenke.dn42
-bgp-status:         active
 cidr:               172.23.118.0/24

@@ -7,5 +7,4 @@ tech-c:             KAI-DN42
 mnt-by:             BASTELKELLER-MNT
 nserver:            ns1.fastnameserver.eu
 status:             ASSIGNED
-bgp-status:         inactive 1499875218
 cidr:               172.23.71.32/27

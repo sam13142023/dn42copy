@@ -6,5 +6,4 @@ admin-c:            FMSYSADMIN-DN42
 tech-c:             FMSYSADMIN-DN42
 mnt-by:             FM-MNT
 status:             ASSIGNED PI
-bgp-status:         inactive 1499803337
 cidr:               172.20.6.72/29

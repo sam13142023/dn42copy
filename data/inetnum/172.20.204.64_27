@@ -5,5 +5,4 @@ admin-c:            FNORD-DN42
 tech-c:             FNORD-DN42
 mnt-by:             FNORD-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.204.64/27

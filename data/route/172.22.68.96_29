@@ -2,4 +2,3 @@ route:              172.22.68.96/29
 descr:              AWHTECH-ROUTE
 origin:             AS4242422539
 mnt-by:             AWHTECH-MNT
-bgp-status:         inactive 1471406424

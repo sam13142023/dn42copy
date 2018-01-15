@@ -7,5 +7,4 @@ tech-c:             RUSTY-DN42
 mnt-by:             OUTBAND-MNT
 nserver:            ns1.trigger.outband.net
 status:             ASSIGNED
-bgp-status:         inactive 1497153603
 cidr:               172.21.65.48/28

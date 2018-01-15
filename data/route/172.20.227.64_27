@@ -1,4 +1,3 @@
 route:              172.20.227.64/27
 origin:             AS4242420086
 mnt-by:             JAMESITS-MNT
-bgp-status:         active

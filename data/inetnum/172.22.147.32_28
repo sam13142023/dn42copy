@@ -6,5 +6,4 @@ admin-c:            JAMIE9898-DN42
 tech-c:             JAMIE9898-DN42
 mnt-by:             HESSENET-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506888005
 cidr:               172.22.147.32/28

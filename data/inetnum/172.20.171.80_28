@@ -6,5 +6,4 @@ tech-c:             MORI-DN42
 mnt-by:             PROJECTMORI-MNT
 nserver:            ns1.projectmori.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1504036816
 cidr:               172.20.171.80/28

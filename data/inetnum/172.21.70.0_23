@@ -7,5 +7,4 @@ tech-c:             XIAOYU-DN42
 mnt-by:             XIAOYU-MNT
 nserver:            NS.XIAOYU.DN42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.70.0/23

@@ -6,5 +6,4 @@ admin-c:            RICK-DN42
 tech-c:             RICK-DN42
 mnt-by:             RICK-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506182402
 cidr:               172.20.162.0/29

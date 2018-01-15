@@ -6,5 +6,4 @@ remarks:            reserved for use in times of shortness
 admin-c:            PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.22.224.0/20

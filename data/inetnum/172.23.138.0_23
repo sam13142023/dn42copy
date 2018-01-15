@@ -7,5 +7,4 @@ tech-c:             NAZCO-DN42
 mnt-by:             NAZCO-MNT
 nserver:            ns1.nazco.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.138.0/23

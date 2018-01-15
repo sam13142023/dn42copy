@@ -7,5 +7,4 @@ tech-c:             NEO-DN42
 mnt-by:             NEO-MNT
 status:             ASSIGNED
 nserver:            ns1.n.dn42
-bgp-status:         active
 cidr:               172.20.47.0/26

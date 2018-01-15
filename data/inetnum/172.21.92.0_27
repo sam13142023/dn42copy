@@ -5,5 +5,4 @@ admin-c:            FRANKCHANG-DN42
 tech-c:             FRANKCHANG-DN42
 mnt-by:             BLACKHOLETW-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.92.0/27

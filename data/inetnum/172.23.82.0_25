@@ -6,5 +6,4 @@ admin-c:            RAIDER-DN42
 tech-c:             RAIDER-DN42
 mnt-by:             LURKAT-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.82.0/25

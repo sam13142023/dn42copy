@@ -5,5 +5,4 @@ tech-c:             SZF-DN42
 mnt-by:             SZF-MNT
 nserver:            ns1.szf.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.161.128/26

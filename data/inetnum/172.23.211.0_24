@@ -6,5 +6,4 @@ admin-c:            TATONKA-DN42
 tech-c:             TATONKA-DN42
 mnt-by:             TATONKA-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.211.0/24

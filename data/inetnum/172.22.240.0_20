@@ -7,5 +7,4 @@ tech-c:             DUMMY-DN42
 mnt-by:             DUMMY-MNT
 status:             ALLOCATED
 nserver:            ns3.welterde.dn42
-bgp-status:         active
 cidr:               172.22.240.0/20

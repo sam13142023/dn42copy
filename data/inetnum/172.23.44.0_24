@@ -6,5 +6,4 @@ admin-c:            RH-DN42
 tech-c:             RH-DN42
 mnt-by:             RMLH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492876803
 cidr:               172.23.44.0/24

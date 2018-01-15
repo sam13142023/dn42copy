@@ -8,4 +8,3 @@ admin-c:            PPPINGME-DN42
 tech-c:             PPPINGME-DN42
 mnt-by:             PPPINGME-MNT
 status:             ASSIGNED
-bgp-status:         active

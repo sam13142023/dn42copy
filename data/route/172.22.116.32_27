@@ -2,4 +2,3 @@ route:              172.22.116.32/27
 descr:              JASONSREALM
 origin:             AS4242420278
 mnt-by:             JASONSREALM-MNT
-bgp-status:         inactive 1488988805

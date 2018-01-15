@@ -6,5 +6,4 @@ tech-c:             SPREITZER-DN42
 mnt-by:             SPREITZER-MNT
 nserver:            ns1.spreitzer.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1495756802
 cidr:               172.20.12.128/25

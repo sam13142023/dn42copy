@@ -7,5 +7,4 @@ tech-c:             STV0G-DN42
 mnt-by:             NULLL-MNT
 nserver:            ns0.0l.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.154.0/23

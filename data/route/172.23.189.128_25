@@ -2,4 +2,3 @@ route:              172.23.189.128/25
 descr:              Route for 172.23.189.128/25
 origin:             AS4242421209
 mnt-by:             BLOKJE-MNT
-bgp-status:         inactive 1478563205

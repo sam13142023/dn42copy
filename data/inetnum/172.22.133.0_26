@@ -6,5 +6,4 @@ admin-c:            D-DN42
 tech-c:             D-DN42
 mnt-by:             B-MNT
 status:             ALLOCATED PI
-bgp-status:         inactive 1503936005
 cidr:               172.22.133.0/26

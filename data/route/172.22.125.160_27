@@ -2,4 +2,3 @@ route:              172.22.125.160/27
 descr:              NET-JAN-3
 origin:             AS4242420812
 mnt-by:             JAN-MNT
-bgp-status:         active

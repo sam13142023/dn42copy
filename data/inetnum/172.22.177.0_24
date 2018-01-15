@@ -14,4 +14,3 @@ nserver:            ns1.nixnodes.dn42
 nserver:            ns2.nixnodes.dn42
 nserver:            ns3.nixnodes.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1503907204

@@ -7,5 +7,4 @@ tech-c:             JOMAT-DN42
 mnt-by:             JOMAT-MNT
 nserver:            ns0.j.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1501243204
 cidr:               172.20.234.128/26

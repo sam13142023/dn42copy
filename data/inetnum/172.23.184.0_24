@@ -10,5 +10,4 @@ nserver:            topeka.polynome.dn42
 nserver:            chateau.polynome.dn42
 nserver:            ns1.mwd.dn42
 nserver:            beta.synhacx.dn42
-bgp-status:         active
 cidr:               172.23.184.0/24

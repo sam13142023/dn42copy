@@ -6,5 +6,4 @@ admin-c:            ASKAREL-DN42
 tech-c:             ASKAREL-DN42
 mnt-by:             ASKAREL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1493121603
 cidr:               172.23.90.64/26

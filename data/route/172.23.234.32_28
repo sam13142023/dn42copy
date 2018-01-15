@@ -1,4 +1,3 @@
 route:              172.23.234.32/28
 origin:             AS4242421312
 mnt-by:             NIYAWE-MNT
-bgp-status:         inactive 1490356806

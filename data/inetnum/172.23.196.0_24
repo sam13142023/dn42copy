@@ -6,6 +6,5 @@ admin-c:            PYROPETER-DN42
 tech-c:             PYROPETER-DN42
 status:             ASSIGNED
 nserver:            ns1.pyropeter.dn42
-bgp-status:         active
 cidr:               172.23.196.0/24
 mnt-by:             DUMMY-MNT

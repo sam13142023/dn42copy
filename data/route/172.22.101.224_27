@@ -1,4 +1,3 @@
 route:              172.22.101.224/27
 origin:             AS4242423142
 mnt-by:             MODE-MNT
-bgp-status:         inactive 1500235206

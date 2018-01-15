@@ -5,5 +5,4 @@ admin-c:            MIGUELMONTEIRO-DN42
 tech-c:             MIGUELMONTEIRO-DN42
 mnt-by:             VIRTIT-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1504123206
 cidr:               172.22.121.0/24

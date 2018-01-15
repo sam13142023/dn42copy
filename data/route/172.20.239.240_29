@@ -2,4 +2,3 @@ route:              172.20.239.240/29
 descr:              Announcement of HSWAN via NAT
 origin:             AS4242423776
 mnt-by:             Q3K-MNT
-bgp-status:         inactive 1467345603

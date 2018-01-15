@@ -1,4 +1,3 @@
 route:              172.20.131.32/27
 origin:             AS4242421958
 mnt-by:             FLAMESRUNNER-MNT
-bgp-status:         active

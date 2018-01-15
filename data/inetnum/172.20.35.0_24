@@ -7,5 +7,4 @@ tech-c:             BGPTRACE-DN42
 mnt-by:             BGPTRACE-MNT
 nserver:            KR
 status:             ALLOCATED
-bgp-status:         inactive 1504036822
 cidr:               172.20.35.0/24

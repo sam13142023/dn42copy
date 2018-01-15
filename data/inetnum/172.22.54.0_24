@@ -6,5 +6,4 @@ admin-c:            HAEGAR-DN42
 tech-c:             HAEGAR-DN42
 mnt-by:             HAEGAR-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.54.0/24

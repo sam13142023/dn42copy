@@ -2,4 +2,3 @@ route:              172.23.183.16/29
 descr:              pktsrf
 origin:             AS4242423275
 mnt-by:             PKTSRF-MNT
-bgp-status:         active

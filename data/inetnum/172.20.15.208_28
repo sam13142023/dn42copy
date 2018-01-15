@@ -8,5 +8,4 @@ mnt-by:             DDEV-MNT
 nserver:            ns1.ddevnet.dn42
 nserver:            ns2.ddevnet.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.15.208/28

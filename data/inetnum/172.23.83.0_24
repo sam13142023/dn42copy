@@ -8,5 +8,4 @@ mnt-by:             LURKAT-MNT
 status:             ALLOCATED
 nserver:            first42.raider.dn42
 nserver:            second42.raider.dn42
-bgp-status:         active
 cidr:               172.23.83.0/24

@@ -7,6 +7,5 @@ tech-c:             HEXA-DN42
 mnt-by:             FLEAZ-MNT
 mnt-by:             HEXA-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.237.112/28
 netname:            Unnamed 172.20.237.112/28 Network

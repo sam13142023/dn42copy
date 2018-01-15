@@ -6,5 +6,4 @@ tech-c:             ROTTY-DN42
 mnt-by:             ROTTY-MNT
 nserver:            ns.r0tty.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.76.16/28

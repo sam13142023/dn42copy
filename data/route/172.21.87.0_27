@@ -1,4 +1,3 @@
 route:              172.21.87.0/27
 origin:             AS4242422018
 mnt-by:             TURLUX-MNT
-bgp-status:         inactive 1497412807

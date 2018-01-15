@@ -5,5 +5,4 @@ admin-c:            SLASH-DN42
 tech-c:             SLASH-DN42
 mnt-by:             XAX-MNT
 status:             ALLOCATED PI
-bgp-status:         inactive 1505160006
 cidr:               172.23.161.128/25

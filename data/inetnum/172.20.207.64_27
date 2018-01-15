@@ -6,5 +6,4 @@ admin-c:            LAMENET-DN42
 tech-c:             LAMENET-DN42
 mnt-by:             LAMENET-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.207.64/27

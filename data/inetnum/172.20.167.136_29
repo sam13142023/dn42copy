@@ -5,5 +5,4 @@ admin-c:            KEVIT-DN42
 tech-c:             KEVIT-DN42
 mnt-by:             LHS-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.167.136/29

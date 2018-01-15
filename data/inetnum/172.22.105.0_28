@@ -5,5 +5,4 @@ admin-c:            SFLETCHER-DN42
 tech-c:             SFLETCHER-DN42
 mnt-by:             THEJIMBOB-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1505592005
 cidr:               172.22.105.0/28

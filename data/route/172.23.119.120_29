@@ -2,4 +2,3 @@ route:              172.23.119.120/29
 descr:              NETCLIPSE-NETWORK-SERVER
 origin:             AS4242423737
 mnt-by:             NETCLIPSE-MNT
-bgp-status:         inactive 1497412807

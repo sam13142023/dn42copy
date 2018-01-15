@@ -1,4 +1,3 @@
 route:              172.20.248.0/24
 origin:             AS4242422480
 mnt-by:             CHULJIN-MNT
-bgp-status:         inactive 1506686408

@@ -4,7 +4,6 @@ descr:              RaumZeitLabor dn42 network
 country:            DE
 org:                ORG-RZL
 status:             ASSIGNED
-bgp-status:         active
 nserver:            dns.rzl
 cidr:               172.22.36.0/23
 mnt-by:             LUTOMA-MNT

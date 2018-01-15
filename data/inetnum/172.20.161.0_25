@@ -5,5 +5,4 @@ admin-c:            SAMODID-DN42
 tech-c:             SAMODID-DN42
 mnt-by:             SAMODID-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.161.0/25

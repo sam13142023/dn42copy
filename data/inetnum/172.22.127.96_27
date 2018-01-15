@@ -6,5 +6,4 @@ admin-c:            QUENTIN-DN42
 tech-c:             QUENTIN-DN42
 mnt-by:             IUT-BEZIERS-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.127.96/27

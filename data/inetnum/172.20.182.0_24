@@ -11,5 +11,4 @@ tech-c:             NL-ZUID-DN42
 mnt-by:             VHAL-MNT
 mnt-by:             MARLINC-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.182.0/24

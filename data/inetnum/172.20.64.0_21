@@ -9,4 +9,3 @@ tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
 status:             ALLOCATED
 policy:             closed
-bgp-status:         active

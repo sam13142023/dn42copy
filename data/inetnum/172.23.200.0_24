@@ -7,5 +7,4 @@ mnt-by:             FOOKER-MNT
 nserver:            ns1.evenet.dn42
 nserver:            ns2.evenet.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.200.0/24
