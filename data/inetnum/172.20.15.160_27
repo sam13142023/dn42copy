@@ -1,7 +1,0 @@
-inetnum:            172.20.15.160-172.20.15.191
-netname:            MULTI-NETWORK
-admin-c:            MULTI-DN42
-tech-c:             MULTI-DN42
-mnt-by:             MULTI-MNT
-status:             ASSIGNED
-cidr:               172.20.15.160/27
