@@ -1,0 +1,6 @@
+domain:             joseng.dn42
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+nserver:            ns.joseng.dn42
+status:             CONNECT
