@@ -354,6 +354,8 @@ def __index_files(path, use_file):
           continue
 
         for f in files:
+            if f[0] == ".":
+                continue
             dom = FileDOM(os.path.join(root, f))
             yield dom
 
