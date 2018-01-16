@@ -6,5 +6,4 @@ admin-c:            RTXUX-DN42
 tech-c:             RTXUX-DN42
 status:             ASSIGNED
 mnt-by:             RTXUX-MNT
-bgp-status:         inactive 1504843209
 cidr:               172.22.110.32/27

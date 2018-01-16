@@ -8,5 +8,4 @@ mnt-by:             FAUXNETWORKS-MNT
 nserver:            ns1.fauxnetworks.dn42
 nserver:            ns2.fauxnetworks.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.76.176/29

@@ -2,4 +2,3 @@ route:              172.22.76.0/28
 descr:              SHULTZY-NET
 origin:             AS4242420452
 mnt-by:             SHULTZYENV-MNT
-bgp-status:         inactive 1468382403

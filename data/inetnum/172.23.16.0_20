@@ -8,4 +8,3 @@ policy:             ask
 admin-c:            NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         active

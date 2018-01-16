@@ -1,4 +1,3 @@
 route:              172.22.119.128/26
 origin:             AS64712
 mnt-by:             FRITZ-MNT
-bgp-status:         active

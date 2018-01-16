@@ -2,4 +2,3 @@ route:              172.20.144.0/23
 descr:              Global
 origin:             AS4242422180
 mnt-by:             SKORPY-MNT
-bgp-status:         inactive 1505145606

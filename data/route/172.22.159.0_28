@@ -1,4 +1,3 @@
 route:              172.22.159.0/28
 origin:             AS4242422544
 mnt-by:             BLACKHOLETW-MNT
-bgp-status:         active

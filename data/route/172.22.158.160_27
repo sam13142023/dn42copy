@@ -1,4 +1,3 @@
 route:              172.22.158.160/27
 origin:             AS4242421700
 mnt-by:             REDBEARD-MNT
-bgp-status:         inactive 1468224003

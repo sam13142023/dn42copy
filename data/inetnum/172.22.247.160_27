@@ -6,5 +6,4 @@ admin-c:            JPLITZA-DN42
 tech-c:             JPLITZA-DN42
 country:            DE
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.247.160/27

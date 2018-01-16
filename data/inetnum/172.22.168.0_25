@@ -6,5 +6,4 @@ admin-c:            YANG-DN42
 tech-c:             YANG-DN42
 mnt-by:             YANG-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1506657606
 cidr:               172.22.168.0/25

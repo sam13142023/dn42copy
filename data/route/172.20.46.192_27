@@ -2,4 +2,3 @@ route:              172.20.46.192/27
 descr:              hyhIX HOME
 origin:             AS4242420990
 mnt-by:             HYHIX-MNT
-bgp-status:         inactive 1506240007

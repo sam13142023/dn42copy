@@ -1,4 +1,3 @@
 route:              172.21.66.0/27
 origin:             AS4242422384
 mnt-by:             JUHO-MNT
-bgp-status:         inactive 1492450229

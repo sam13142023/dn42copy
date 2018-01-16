@@ -7,5 +7,4 @@ tech-c:             COREY-DN42
 mnt-by:             COREY-MNT
 nserver:            ns.uas.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1492306865
 cidr:               172.23.251.192/26

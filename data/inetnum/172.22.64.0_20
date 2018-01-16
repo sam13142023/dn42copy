@@ -10,4 +10,3 @@ mnt-by:             NIXNODES-MNT
 mnt-by:             GRMML-MNT
 mnt-by:             XUU-MNT
 status:             ALLOCATED
-bgp-status:         active

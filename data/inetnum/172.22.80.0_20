@@ -11,6 +11,5 @@ remarks:            |                                                          |
 remarks:            |  If you want space here, please ask equinox or nihilus.  |
 remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 status:             ALLOCATED PI
-bgp-status:         active
 cidr:               172.22.80.0/20
 mnt-by:             DUMMY-MNT

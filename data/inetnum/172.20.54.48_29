@@ -6,5 +6,4 @@ admin-c:            SODRE-DN42
 tech-c:             SODRE-DN42
 mnt-by:             SODRE-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.54.48/29

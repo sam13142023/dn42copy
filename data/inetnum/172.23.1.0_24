@@ -8,5 +8,4 @@ mnt-by:             CREST-MNT
 status:             ASSIGNED
 nserver:            dns1.crest.dn42
 nserver:            dns2.crest.dn42
-bgp-status:         active
 cidr:               172.23.1.0/24

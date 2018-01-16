@@ -2,4 +2,3 @@ route:              172.22.134.128/26
 descr:              LAN
 origin:             AS4242420046
 mnt-by:             DELTAMAN-MNT
-bgp-status:         active

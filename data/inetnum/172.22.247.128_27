@@ -7,5 +7,4 @@ admin-c:            DARKIT-DN42
 tech-c:             DARKIT-DN42
 country:            DE
 status:             ASSIGNED
-bgp-status:         inactive 1492531203
 cidr:               172.22.247.128/27

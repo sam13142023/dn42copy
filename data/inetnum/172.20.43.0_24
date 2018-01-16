@@ -7,5 +7,4 @@ admin-c:            BYTETURTLE-DN42
 tech-c:             BYTETURTLE-DN42
 mnt-by:             BYTETURTLE-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1492718403
 cidr:               172.20.43.0/24

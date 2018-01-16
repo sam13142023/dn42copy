@@ -6,5 +6,4 @@ admin-c:            CALLUM-DN42
 tech-c:             CALLUM-DN42
 mnt-by:             CALLUM-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.138.192/26

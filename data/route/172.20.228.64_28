@@ -1,4 +1,3 @@
 route:              172.20.228.64/28
 origin:             AS4242423773
 mnt-by:             SKJOLDR-MNT
-bgp-status:         active

@@ -1,4 +1,3 @@
 route:              172.23.89.64/28
 origin:             AS4242423923
 mnt-by:             TAF-MNT
-bgp-status:         inactive 1462752004

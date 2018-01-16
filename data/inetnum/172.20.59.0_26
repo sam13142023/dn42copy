@@ -7,5 +7,4 @@ admin-c:            CHALLENE-DN42
 tech-c:             CHALLENE-DN42
 mnt-by:             CHALLENE-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.59.0/26

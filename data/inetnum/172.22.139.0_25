@@ -6,5 +6,4 @@ admin-c:            JAMESL-DN42
 tech-c:             JAMESL-DN42
 mnt-by:             JCLONG-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1499803338
 cidr:               172.22.139.0/25

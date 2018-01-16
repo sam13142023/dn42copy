@@ -7,5 +7,4 @@ admin-c:            JFRED-DN42
 tech-c:             JFRED-DN42
 mnt-by:             JFRED-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1497556805
 cidr:               172.22.73.96/27

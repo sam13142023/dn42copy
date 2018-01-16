@@ -8,4 +8,3 @@ admin-c:            NL-ZUID-DN42
 mnt-by:             MARLINC-MNT
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         active

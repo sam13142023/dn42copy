@@ -7,5 +7,4 @@ tech-c:             MKB-DN42
 mnt-by:             MKB-MNT
 status:             ASSIGNED
 nserver:            web1.newyork.us.sysblue.dn42
-bgp-status:         active
 cidr:               172.23.238.128/26

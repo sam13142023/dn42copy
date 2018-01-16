@@ -7,5 +7,4 @@ tech-c:             LINE-DN42
 mnt-by:             LINE-MNT
 nserver:            line.nz
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.160.0/27

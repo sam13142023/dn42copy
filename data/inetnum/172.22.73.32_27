@@ -6,5 +6,4 @@ admin-c:            ALIANSE77-DN42
 tech-c:             ALIANSE77-DN42
 mnt-by:             ALIANSE77-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1501603204
 cidr:               172.22.73.32/27

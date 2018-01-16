@@ -5,5 +5,4 @@ admin-c:            DB1099-DN42
 tech-c:             DB1099-DN42
 mnt-by:             DBITECH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306860
 cidr:               172.20.129.32/27

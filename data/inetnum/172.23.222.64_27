@@ -5,5 +5,4 @@ tech-c:             RDBCN-DN42
 mnt-by:             RDBCN-MNT
 nserver:            ns1.as4242422027.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.222.64/27

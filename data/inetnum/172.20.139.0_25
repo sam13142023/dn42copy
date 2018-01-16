@@ -8,4 +8,3 @@ tech-c:             AHLBERG-DN42
 mnt-by:             DILIGENT-NETWORKS-MNT
 nserver:            google-public-dns-a.google.com
 status:             ALLOCATED
-bgp-status:         active

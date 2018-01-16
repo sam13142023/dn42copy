@@ -6,5 +6,4 @@ admin-c:            CR-DN42
 tech-c:             CR-DN42
 mnt-by:             SIS-ORG-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1505160006
 cidr:               172.23.38.160/27

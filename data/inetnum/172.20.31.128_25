@@ -5,5 +5,4 @@ admin-c:            BYRN-DN42
 tech-c:             BYRN-DN42
 mnt-by:             BYRN-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.31.128/25

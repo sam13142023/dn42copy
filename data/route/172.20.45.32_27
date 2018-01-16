@@ -1,4 +1,3 @@
 route:              172.20.45.32/27
 origin:             AS4242420168
 mnt-by:             AX206G-MNT
-bgp-status:         active

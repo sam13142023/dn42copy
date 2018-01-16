@@ -7,5 +7,4 @@ tech-c:             CD-DN42
 mnt-by:             DDPO-MNT
 nserver:            ns0.ddpo.be
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.8.0/23

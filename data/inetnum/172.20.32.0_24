@@ -7,5 +7,4 @@ mnt-by:             FLEAZ-MNT
 mnt-by:             EVILET-MNT
 nserver:            ns1.fleaz.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.32.0/24

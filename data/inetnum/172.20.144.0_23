@@ -6,5 +6,4 @@ admin-c:            SKORPY-DN42
 tech-c:             SKORPY-DN42
 mnt-by:             SKORPY-MNT
 status:             ALLOCATED PI
-bgp-status:         inactive 1505145602
 cidr:               172.20.144.0/23

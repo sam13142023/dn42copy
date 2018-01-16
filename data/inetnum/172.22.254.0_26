@@ -7,6 +7,5 @@ tech-c:             CREST-DN42
 status:             ASSIGNED
 nserver:            dns1.crest.dn42
 nserver:            dns2.crest.dn42
-bgp-status:         active
 cidr:               172.22.254.0/26
 mnt-by:             DUMMY-MNT

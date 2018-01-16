@@ -2,4 +2,3 @@ route:              172.22.76.184/29
 descr:              Peer with me at b980120@hotmail.com
 origin:             AS4242422547
 mnt-by:             LANTIAN-MNT
-bgp-status:         active

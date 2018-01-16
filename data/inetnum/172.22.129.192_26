@@ -6,5 +6,4 @@ admin-c:            WHEAT-DN42
 tech-c:             WHEAT-DN42
 mnt-by:             WHEAT-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.22.129.192/26

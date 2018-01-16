@@ -1,4 +1,3 @@
 route:              172.20.234.192/29
 origin:             AS4242421729
 mnt-by:             PHY1729-MNT
-bgp-status:         inactive 1480896004

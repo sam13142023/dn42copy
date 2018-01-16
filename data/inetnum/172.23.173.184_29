@@ -5,5 +5,4 @@ admin-c:            VOIDPTR-DN42
 tech-c:             VOIDPTR-DN42
 mnt-by:             VOIDPTR-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.173.184/29

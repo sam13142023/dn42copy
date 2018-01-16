@@ -5,5 +5,4 @@ admin-c:            FLORZ-DN42
 tech-c:             FLORZ-DN42
 mnt-by:             FLORZ-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.92.0/24

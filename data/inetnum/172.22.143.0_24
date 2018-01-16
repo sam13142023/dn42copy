@@ -6,5 +6,4 @@ admin-c:            RADIOGUY-DN42
 tech-c:             RADIOGUY-DN42
 mnt-by:             RADIOGUY-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.143.0/24

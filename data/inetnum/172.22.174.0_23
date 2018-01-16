@@ -7,5 +7,4 @@ tech-c:             DKRAKLAN-DN42
 mnt-by:             DKRAKLAN-MNT
 nserver:            ns1.gatortech.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1502409604
 cidr:               172.22.174.0/23

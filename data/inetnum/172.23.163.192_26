@@ -5,6 +5,5 @@ tech-c:             MARLINC-DN42
 mnt-by:             MARLINC-MNT
 status:             ALLOCATED
 nserver:            ns1.nl-zuid.dn42
-bgp-status:         inactive 1493654403
 cidr:               172.23.163.192/26
 netname:            Unnamed 172.23.163.192/26 Network

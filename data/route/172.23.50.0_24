@@ -2,4 +2,3 @@ route:              172.23.50.0/24
 descr:              JMLIBER-IPV4
 origin:             AS4242422282
 mnt-by:             JMLIBER-MNT
-bgp-status:         inactive 1462161606

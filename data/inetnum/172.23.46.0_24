@@ -6,5 +6,4 @@ admin-c:            HADRILL-DN42
 tech-c:             HADRILL-DN42
 mnt-by:             HADRILL-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.46.0/24

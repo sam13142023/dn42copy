@@ -6,5 +6,4 @@ admin-c:            SFALPHA-DN42
 tech-c:             SFALPHA-DN42
 mnt-by:             DEKDED-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1494720024
 cidr:               172.21.79.64/27

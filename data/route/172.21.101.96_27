@@ -1,4 +1,3 @@
 route:              172.21.101.96/27
 origin:             AS4242423909
 mnt-by:             XRADEON-MNT
-bgp-status:         inactive 1499875220

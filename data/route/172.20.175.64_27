@@ -1,4 +1,3 @@
 route:              172.20.175.64/27
 origin:             AS4242427761
 mnt-by:             QSX-MNT
-bgp-status:         active

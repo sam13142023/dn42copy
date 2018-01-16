@@ -1,4 +1,3 @@
 route:              172.20.247.128/25
 origin:             AS4242423760
 mnt-by:             SPECY909-MNT
-bgp-status:         inactive 1467057604

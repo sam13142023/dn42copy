@@ -1,4 +1,3 @@
 route:              172.20.20.0/27
 origin:             AS4242423389
 mnt-by:             STARCLOUD-MNT
-bgp-status:         active

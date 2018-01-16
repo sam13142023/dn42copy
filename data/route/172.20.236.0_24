@@ -2,4 +2,3 @@ route:              172.20.236.0/24
 descr:              Solitude superblock
 origin:             AS4242420403
 mnt-by:             SOLITUDE-MNT
-bgp-status:         inactive 1492306865

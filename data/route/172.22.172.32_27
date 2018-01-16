@@ -2,4 +2,3 @@ route:              172.22.172.32/27
 descr:              NEO-NETWORK GG
 origin:             AS4242421121
 mnt-by:             NEO-MNT
-bgp-status:         inactive 1501214427

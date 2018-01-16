@@ -6,5 +6,4 @@ admin-c:            GYC-DN42
 tech-c:             GYC-DN42
 mnt-by:             GYC-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306861
 cidr:               172.20.190.80/28

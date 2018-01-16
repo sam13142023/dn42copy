@@ -4,5 +4,4 @@ admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             MIKENABHAN-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1494302403
 cidr:               172.21.125.0/27

@@ -7,5 +7,4 @@ tech-c:             TRUNET-DN42
 mnt-by:             TRUNET-MNT
 nserver:            ns1.trunet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1503244806
 cidr:               172.23.183.24/29

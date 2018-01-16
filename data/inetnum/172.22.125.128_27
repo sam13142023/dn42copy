@@ -7,5 +7,4 @@ tech-c:             JAN-DN42
 mnt-by:             JAN-MNT
 nserver:            ns1.jan.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1499803338
 cidr:               172.22.125.128/27

@@ -7,5 +7,4 @@ tech-c:             ACIDMC-DN42
 mnt-by:             ACIDMC-MNT
 nserver:            ns1.acidmc.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1504569603
 cidr:               172.20.170.96/27

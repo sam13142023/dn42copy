@@ -11,5 +11,4 @@ tech-c:             LUTOMA-DN42
 zone-c:             LUTOMA-DN42
 status:             ASSIGNED
 mnt-by:             LUTOMA-MNT
-bgp-status:         active
 cidr:               172.22.119.0/25

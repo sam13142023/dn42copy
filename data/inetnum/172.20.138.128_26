@@ -7,5 +7,4 @@ admin-c:            LITTLEFOX-DN42
 tech-c:             LITTLEFOX-DN42
 mnt-by:             LFNET-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.138.128/26

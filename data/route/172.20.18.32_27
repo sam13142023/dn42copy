@@ -1,4 +1,3 @@
 route:              172.20.18.32/27
 origin:             AS4242421232
 mnt-by:             CALEANO-MNT
-bgp-status:         inactive 1499803348

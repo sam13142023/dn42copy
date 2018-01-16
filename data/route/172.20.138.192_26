@@ -2,4 +2,3 @@ route:              172.20.138.192/26
 descr:              CALLUM-ROUTE
 origin:             AS4242421997
 mnt-by:             CALLUM-MNT
-bgp-status:         active

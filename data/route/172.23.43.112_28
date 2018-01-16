@@ -1,4 +1,3 @@
 route:              172.23.43.112/28
 origin:             AS4242421814
 mnt-by:             ASTRONET-MNT
-bgp-status:         inactive 1506657611

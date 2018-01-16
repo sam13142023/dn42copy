@@ -3,6 +3,5 @@ admin-c:            ND-DN42
 tech-c:             ND-DN42
 mnt-by:             ND-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.137.0/24
 netname:            Unnamed 172.20.137.0/24 Network

@@ -7,5 +7,4 @@ tech-c:             EKMAN-DN42
 mnt-by:             EKMAN-MNT
 nserver:            ns1.evenet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1504036824
 cidr:               172.22.131.0/27

@@ -8,5 +8,4 @@ mnt-by:             HAX404-MNT
 status:             ASSIGNED
 nserver:            chero.hax404.dn42
 nserver:            froschschenkel.hax404.dn42
-bgp-status:         active
 cidr:               172.23.136.0/23

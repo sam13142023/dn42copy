@@ -6,5 +6,4 @@ admin-c:            DAZAX-DN42
 tech-c:             DAZAX-DN42
 mnt-by:             DZXNET-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1505836808
 cidr:               172.22.167.0/26

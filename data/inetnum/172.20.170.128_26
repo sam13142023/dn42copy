@@ -6,5 +6,4 @@ admin-c:            DAURNIMATOR-DN42
 tech-c:             DAURNIMATOR-DN42
 mnt-by:             DAURNIMATOR-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.170.128/26

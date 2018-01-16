@@ -14,5 +14,4 @@ status:             ASSIGNED
 nserver:            ns2.ccchb.de
 ds-rdata:           43785 7 1 15CBE9F4DF07962555B4CA33E96EDD2DE3AEAEEC
 ds-rdata:           43785 7 2 A769CBB0BA3C56901D3941B0757BF25E1A9591304C7A912D88DBB29F 6DA5DB55
-bgp-status:         active
 cidr:               172.23.198.0/24

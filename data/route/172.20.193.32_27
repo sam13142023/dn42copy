@@ -1,4 +1,3 @@
 route:              172.20.193.32/27
 origin:             AS4242423557
 mnt-by:             WFK-MNT
-bgp-status:         inactive 1487376005

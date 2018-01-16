@@ -2,4 +2,3 @@ route:              172.20.4.128/26
 descr:              DIEMACO-NET
 origin:             AS4242420049
 mnt-by:             DIEMACO-MNT
-bgp-status:         active

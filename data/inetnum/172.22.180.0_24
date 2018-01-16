@@ -6,5 +6,4 @@ admin-c:            PR0-DN42
 tech-c:             PR0-DN42
 mnt-by:             PR0-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492632003
 cidr:               172.22.180.0/24

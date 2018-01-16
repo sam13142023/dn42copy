@@ -8,5 +8,4 @@ admin-c:            BODEMS-DN42
 tech-c:             BODEMS-DN42
 mnt-by:             BODEMS-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.146.0/24

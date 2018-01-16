@@ -6,5 +6,4 @@ tech-c:             FPLETZ-DN42
 nserver:            ns0.fpletz.dn42
 status:             ASSIGNED
 mnt-by:             FPLETZ-MNT
-bgp-status:         active
 cidr:               172.23.214.0/24

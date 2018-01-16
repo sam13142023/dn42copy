@@ -4,6 +4,5 @@ netname:            DOWNHILL's dn42 network
 admin-c:            DOWNHILL-DN42
 tech-c:             DOWNHILL-DN42
 status:             ASSIGNED
-bgp-status:         inactive 1506744005
 cidr:               172.22.55.0/24
 mnt-by:             DUMMY-MNT

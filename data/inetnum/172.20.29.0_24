@@ -7,5 +7,4 @@ admin-c:            LEWY-DN42
 tech-c:             LEWY-DN42
 mnt-by:             LEWY-MNT
 status:             ASSIGNED PI
-bgp-status:         inactive 1499803331
 cidr:               172.20.29.0/24

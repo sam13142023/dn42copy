@@ -8,4 +8,3 @@ admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
 status:             ALLOCATED
-bgp-status:         active

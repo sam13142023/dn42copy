@@ -6,5 +6,4 @@ admin-c:            JOJO-DN42
 tech-c:             JOJO-DN42
 mnt-by:             JO-JO-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306864
 cidr:               172.23.172.128/25

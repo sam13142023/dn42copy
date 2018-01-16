@@ -1,4 +1,3 @@
 route:              172.20.246.96/27
 origin:             AS4242423130
 mnt-by:             MUZIKCA-MNT
-bgp-status:         inactive 1472140804

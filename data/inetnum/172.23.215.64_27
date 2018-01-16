@@ -6,5 +6,4 @@ admin-c:            TBRB-DN42
 tech-c:             TBRB-DN42
 mnt-by:             TBRB-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1493611209
 cidr:               172.23.215.64/27

@@ -7,5 +7,4 @@ tech-c:             MC36-DN42
 mnt-by:             NOP-MNT
 nserver:            ns.nop.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.215.160/27

@@ -6,5 +6,4 @@ admin-c:            DRAHTI-DN42
 tech-c:             DRAHTI-DN42
 mnt-by:             DRAHTI-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.81.0/24

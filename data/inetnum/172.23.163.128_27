@@ -5,5 +5,4 @@ admin-c:            HFULLER-DN42
 tech-c:             HFULLER-DN42
 mnt-by:             HFULLER-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1503936005
 cidr:               172.23.163.128/27

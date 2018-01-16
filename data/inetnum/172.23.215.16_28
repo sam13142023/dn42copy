@@ -7,5 +7,4 @@ mnt-by:             LINSERVERS-MNT
 nserver:            ns1.linservers.dn42
 nserver:            ns2.linservers.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1496937603
 cidr:               172.23.215.16/28

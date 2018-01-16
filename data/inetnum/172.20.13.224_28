@@ -6,5 +6,4 @@ admin-c:            WXCAFE-DN42
 tech-c:             WXCAFE-DN42
 mnt-by:             WXCAFE-MNT
 status:             ASSIGNED PI
-bgp-status:         active
 cidr:               172.20.13.224/28

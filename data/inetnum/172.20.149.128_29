@@ -6,5 +6,4 @@ admin-c:            BURKESOOTY-DN42
 tech-c:             BURKESOOTY-DN42
 mnt-by:             BURKESOOTY-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1502409602
 cidr:               172.20.149.128/29

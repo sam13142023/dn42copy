@@ -6,5 +6,4 @@ admin-c:            SERXOZ-DN42
 tech-c:             SERXOZ-DN42
 mnt-by:             SERXOZ-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1503446403
 cidr:               172.20.193.176/28

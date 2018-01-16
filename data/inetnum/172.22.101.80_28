@@ -6,5 +6,4 @@ admin-c:            PHAUX-DN42
 tech-c:             PHAUX-DN42
 mnt-by:             PHAUX-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.22.101.80/28

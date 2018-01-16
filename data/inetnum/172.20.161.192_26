@@ -8,5 +8,4 @@ admin-c:            SPLASH-DN42
 tech-c:             SPLASH-DN42
 mnt-by:             SPLASH-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.161.192/26

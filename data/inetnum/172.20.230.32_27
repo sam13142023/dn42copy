@@ -8,5 +8,4 @@ mnt-by:             HTCNET-MNT
 nserver:            ns1.htcnet.dn42
 nserver:            ns2.htcnet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1496894404
 cidr:               172.20.230.32/27

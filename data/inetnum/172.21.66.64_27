@@ -6,5 +6,4 @@ admin-c:            FAMICOMAN-DN42
 tech-c:             FAMICOMAN-DN42
 mnt-by:             PHILLYMESH-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1494273602
 cidr:               172.21.66.64/27

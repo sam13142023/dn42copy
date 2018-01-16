@@ -6,5 +6,4 @@ tech-c:             SIN-DN42
 mnt-by:             2F30-MNT
 nserver:            ns1.2f30.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.129.32/28

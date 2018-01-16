@@ -2,4 +2,3 @@ route:              172.22.117.0/25
 descr:              Felicitus Server Net
 origin:             AS64717
 mnt-by:             FELICITUS-MNT
-bgp-status:         active

@@ -7,5 +7,4 @@ tech-c:             KTIMS-DN42
 mnt-by:             GOTROOT-MNT
 nserver:            ns1.gotroot.dn42 172.20.14.253
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.14.192/26

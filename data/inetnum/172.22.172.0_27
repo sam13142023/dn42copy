@@ -6,5 +6,4 @@ admin-c:            PDOSTAL-DN42
 tech-c:             PDOSTAL-DN42
 mnt-by:             PDOSTAL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1503115205
 cidr:               172.22.172.0/27

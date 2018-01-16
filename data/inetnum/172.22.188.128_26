@@ -7,5 +7,4 @@ tech-c:             DELTAMAN-DN42
 mnt-by:             DELTAMAN-MNT
 status:             ALLOCATED
 nserver:            ns1.deltaman.dn42
-bgp-status:         active
 cidr:               172.22.188.128/26

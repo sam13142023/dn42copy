@@ -5,5 +5,4 @@ admin-c:            BOGDANS-DN42
 tech-c:             BOGDANS-DN42
 mnt-by:             BOGDANS-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1494806410
 cidr:               172.20.172.0/27

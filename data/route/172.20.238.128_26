@@ -2,4 +2,3 @@ route:              172.20.238.128/26
 descr:              SKYBW NETWORK
 origin:             AS4242421211
 mnt-by:             SKYBW-MNT
-bgp-status:         inactive 1475985603

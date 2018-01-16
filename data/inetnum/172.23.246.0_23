@@ -6,5 +6,4 @@ admin-c:            KAWEX-DN42
 tech-c:             KAWEX-DN42
 mnt-by:             KAWEX-MNT
 status:             ASSIGNED PI
-bgp-status:         inactive 1496246403
 cidr:               172.23.246.0/23

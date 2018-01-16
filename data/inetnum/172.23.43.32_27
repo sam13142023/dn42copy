@@ -7,5 +7,4 @@ tech-c:             CRXXN-DN42
 mnt-by:             CRXXN-MNT
 nserver:            ns1.crxxn.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1497614405
 cidr:               172.23.43.32/27

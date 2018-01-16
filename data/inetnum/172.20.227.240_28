@@ -6,5 +6,4 @@ tech-c:             TAL-DN42
 mnt-by:             TAL-MNT
 nserver:            ns.tal.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.227.240/28

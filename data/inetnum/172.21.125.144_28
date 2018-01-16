@@ -8,5 +8,4 @@ mnt-by:             VITALE-MNT
 nserver:            ns1.vitalenetworks.dn42
 nserver:            ns2.vitalenetworks.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1496937602
 cidr:               172.21.125.144/28

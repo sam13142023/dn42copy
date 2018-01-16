@@ -6,5 +6,4 @@ tech-c:             FLAMESRUNNER-DN42
 mnt-by:             FLAMESRUNNER-MNT
 nserver:            dummy.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.101.128/29

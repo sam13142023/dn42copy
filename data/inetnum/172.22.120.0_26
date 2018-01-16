@@ -7,5 +7,4 @@ tech-c:             PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 nserver:            sheldon.intern.prauscher.de
-bgp-status:         active
 cidr:               172.22.120.0/26

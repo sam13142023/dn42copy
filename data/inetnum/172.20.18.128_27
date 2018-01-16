@@ -6,5 +6,4 @@ admin-c:            WHS-DN42
 tech-c:             WHS-DN42
 mnt-by:             WHS-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.18.128/27

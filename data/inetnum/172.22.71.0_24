@@ -9,5 +9,4 @@ mnt-by:             FLOKLI-MNT
 mnt-by:             PSYKE-MNT
 nserver:            ns1.flokli.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.71.0/24

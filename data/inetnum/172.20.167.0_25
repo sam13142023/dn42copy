@@ -5,5 +5,4 @@ tech-c:             SIMON-DN42
 mnt-by:             SIMON-MNT
 status:             ALLOCATED
 nserver:            dns.wiregrid.dn42
-bgp-status:         active
 cidr:               172.20.167.0/25

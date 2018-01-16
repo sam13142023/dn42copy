@@ -7,5 +7,4 @@ admin-c:            BANDIE-DN42
 tech-c:             BANDIE-DN42
 mnt-by:             BANDIE-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.238.192/26

@@ -6,5 +6,4 @@ tech-c:             FBNW-DN42
 mnt-by:             FLORIANB-MNT
 nserver:            ns.fbnw.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.233.0/24

@@ -3,6 +3,5 @@ admin-c:            JALEN-DN42
 tech-c:             JALEN-DN42
 mnt-by:             DRIVERSP-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1506686404
 cidr:               172.21.113.32/27
 netname:            Unnamed 172.21.113.32/27 Network

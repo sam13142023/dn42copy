@@ -6,5 +6,4 @@ admin-c:            NIXNODES-DN42
 tech-c:             NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.23.0.0/21

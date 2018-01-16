@@ -9,5 +9,4 @@ admin-c:            NICOO-DN42
 tech-c:             NICOO-DN42
 mnt-by:             NICOO-MNT
 status:             RESERVED
-bgp-status:         inactive 1496332803
 cidr:               172.23.242.0/24

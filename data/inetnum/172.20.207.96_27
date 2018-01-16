@@ -5,5 +5,4 @@ admin-c:            SNOWLAKE-DN42
 tech-c:             SNOWLAKE-DN42
 mnt-by:             SNOWLAKE-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492306861
 cidr:               172.20.207.96/27

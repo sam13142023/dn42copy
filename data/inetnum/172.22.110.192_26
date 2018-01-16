@@ -8,5 +8,4 @@ mnt-by:             ASOTNET-MNT
 status:             ALLOCATED PI
 nserver:            ns1.aseriesoftubez.dn42 fd68:fdcc:7a1a::53
 nserver:            ns1.aseriesoftubez.dn42 172.22.181.53
-bgp-status:         inactive 1494345602
 cidr:               172.22.110.192/26

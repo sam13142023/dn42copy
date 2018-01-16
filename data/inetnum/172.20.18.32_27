@@ -5,5 +5,4 @@ admin-c:            MYIGEL-DN42
 tech-c:             MYIGEL-DN42
 mnt-by:             CALEANO-MNT
 status:             ALLOCATED PI
-bgp-status:         inactive 1499803259
 cidr:               172.20.18.32/27

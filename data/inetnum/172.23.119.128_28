@@ -7,5 +7,4 @@ tech-c:             UNDERD0G-DN42
 mnt-by:             UNDERD0G-MNT
 nserver:            t.root-servers.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1492306862
 cidr:               172.23.119.128/28

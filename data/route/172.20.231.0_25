@@ -2,4 +2,3 @@ route:              172.20.231.0/25
 descr:              MODERN NETWORKING
 origin:             AS4242421124
 mnt-by:             MOD-MNT
-bgp-status:         inactive 1492306865

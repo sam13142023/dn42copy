@@ -5,5 +5,4 @@ admin-c:            NIXNODES-DN42
 tech-c:             NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1503892806
 cidr:               172.23.6.0/24

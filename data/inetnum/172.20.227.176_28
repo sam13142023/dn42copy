@@ -7,5 +7,4 @@ tech-c:             DATAHOLE-DN42
 mnt-by:             DATAHOLE-MNT
 nserver:            ns1.datahole.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.227.176/28

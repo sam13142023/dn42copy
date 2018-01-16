@@ -7,5 +7,4 @@ mnt-by:             DONNY-MNT
 nserver:            ns1.donnynet.dn42
 nserver:            ns2.donnynet.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.197.192/27

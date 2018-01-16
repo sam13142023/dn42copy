@@ -7,5 +7,4 @@ admin-c:            GERGER-DN42
 tech-c:             GERGER-DN42
 mnt-by:             GERGERNET-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.110.0/27

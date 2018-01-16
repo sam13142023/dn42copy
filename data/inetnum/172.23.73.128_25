@@ -5,5 +5,4 @@ admin-c:            STRAA-DN42
 tech-c:             STRAA-DN42
 mnt-by:             STRAA-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1505232006
 cidr:               172.23.73.128/25

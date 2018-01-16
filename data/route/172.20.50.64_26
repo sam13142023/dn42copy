@@ -1,4 +1,3 @@
 route:              172.20.50.64/26
 origin:             AS4242420110
 mnt-by:             3STADT-MNT
-bgp-status:         active

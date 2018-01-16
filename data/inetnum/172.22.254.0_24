@@ -8,6 +8,5 @@ status:             ASSIGNED
 nserver:            dns1.crest.dn42
 nserver:            dns2.crest.dn42
 nserver:            ns1.mwd.dn42
-bgp-status:         active
 cidr:               172.22.254.0/24
 mnt-by:             DUMMY-MNT

@@ -7,5 +7,4 @@ tech-c:             NICOO-DN42
 mnt-by:             NICOO-MNT
 nserver:            ns.nicoo.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1496332803
 cidr:               172.23.241.64/26

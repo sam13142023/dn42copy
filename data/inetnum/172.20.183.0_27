@@ -6,5 +6,4 @@ admin-c:            N0WUN-DN42
 tech-c:             N0WUN-DN42
 mnt-by:             N0WUN-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1504742403
 cidr:               172.20.183.0/27

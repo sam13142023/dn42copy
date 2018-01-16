@@ -8,5 +8,4 @@ tech-c:             LANTIAN-DN42
 mnt-by:             LANTIAN-MNT
 nserver:            ns1.lantian.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.76.184/29

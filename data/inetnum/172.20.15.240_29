@@ -7,5 +7,4 @@ tech-c:             HYHIX-DN42
 mnt-by:             HYHIX-MNT
 nserver:            ns1.hyhix.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1506398403
 cidr:               172.20.15.240/29

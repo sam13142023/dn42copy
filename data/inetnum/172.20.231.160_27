@@ -10,5 +10,4 @@ tech-c:             HSYSTEMS-DN42
 mnt-by:             HSYSTEMS-MNT
 nserver:            ns2.he.net
 status:             ASSIGNED
-bgp-status:         inactive 1505145602
 cidr:               172.20.231.160/27

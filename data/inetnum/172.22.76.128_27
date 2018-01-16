@@ -4,5 +4,4 @@ admin-c:            TOASTER-DN42
 tech-c:             TOASTER-DN42
 mnt-by:             TOASTER-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.76.128/27

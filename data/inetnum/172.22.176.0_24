@@ -6,5 +6,4 @@ admin-c:            ELSANTO-DN42
 tech-c:             ELSANTO-DN42
 mnt-by:             ELSANTO-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.176.0/24

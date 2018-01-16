@@ -9,4 +9,3 @@ mnt-by:             PURRDETA-MNT
 nserver:            ns1.darkdna.net
 nserver:            ns2.darkdna.net
 status:             ASSIGNED
-bgp-status:         active

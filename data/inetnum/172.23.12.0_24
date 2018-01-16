@@ -9,4 +9,3 @@ mnt-by:             LOCALNET-MNT
 mnt-by:             NIXNODES-MNT
 nserver:            ns1.localnet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1499875215

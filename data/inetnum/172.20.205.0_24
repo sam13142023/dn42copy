@@ -6,5 +6,4 @@ admin-c:            LEVING-DN42
 tech-c:             LEVING-DN42
 mnt-by:             LEVING-MNT
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.205.0/24

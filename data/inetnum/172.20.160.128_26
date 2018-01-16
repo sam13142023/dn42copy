@@ -7,5 +7,4 @@ tech-c:             DRATHIR-DN42
 mnt-by:             DRATHIR-MNT
 nserver:            NS1.DRATHIR.DN42
 status:             ALLOCATED
-bgp-status:         inactive 1506715202
 cidr:               172.20.160.128/26

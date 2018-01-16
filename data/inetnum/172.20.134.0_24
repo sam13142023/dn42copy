@@ -7,5 +7,4 @@ tech-c:             LM-DN42
 mnt-by:             MTNS-MNT
 status:             ALLOCATED
 nserver:            ns1.mtns.dn42
-bgp-status:         inactive 1504742402
 cidr:               172.20.134.0/24

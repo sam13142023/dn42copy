@@ -5,5 +5,4 @@ admin-c:            SP0RUS-DN42
 tech-c:             SP0RUS-DN42
 mnt-by:             SP0RUS-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1492718403
 cidr:               172.21.64.104/29

@@ -7,7 +7,7 @@ key:                nserver     optional   multiple
 key:                country     optional   multiple
 key:                descr       optional   single
 key:                status      optional   single    > {ALLOCATED|ASSIGNED} {PI|}
-key:                bgp-status  optional   single    > {active|absent|ignore} [timestamp]
+key:                bgp-status  optional   single    > ignore
 key:                policy      optional   single    > {open|closed|ask} min=int max=int all-min=int all-max=int
 key:                admin-c     optional   multiple  lookup=dn42.person,dn42.role
 key:                tech-c      optional   multiple  lookup=dn42.person,dn42.role

@@ -7,5 +7,4 @@ tech-c:             TUDAISPLABCLASSIC-DN42
 mnt-by:             TUDA-ISPLAB-CLASSIC-MNT
 nserver:            ns1.evenet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1492306861
 cidr:               172.20.224.0/24

@@ -6,5 +6,4 @@ admin-c:            RELROD-DN42
 tech-c:             RELROD-DN42
 mnt-by:             RELROD-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.120.64/26

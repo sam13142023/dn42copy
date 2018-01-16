@@ -2,4 +2,3 @@ route:              172.20.48.32/27
 descr:              TUUBZ IPV4 ROUTE
 origin:             AS4242421992
 mnt-by:             TUUBZ-MNT
-bgp-status:         inactive 1482825604

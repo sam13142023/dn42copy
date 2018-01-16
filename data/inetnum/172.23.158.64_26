@@ -8,5 +8,4 @@ admin-c:            CHARLESTHESLOTH-DN42
 tech-c:             CHARLESTHESLOTH-DN42
 mnt-by:             SLOTHLOGISTICS-MNT
 status:             ASSIGNED PI
-bgp-status:         active
 cidr:               172.23.158.64/26

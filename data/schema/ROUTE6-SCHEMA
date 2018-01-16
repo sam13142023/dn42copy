@@ -6,7 +6,6 @@ key:                origin      required  multiple  lookup=dn42.aut-num
 key:                member-of   optional  multiple  lookup=dn42.route-set
 key:                admin-c     optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
-key:                bgp-status  optional  single    > {active|absent|ignore}
 key:                descr       optional  multiple
 key:                remarks     optional  multiple
 mnt-by:             XUU-MNT

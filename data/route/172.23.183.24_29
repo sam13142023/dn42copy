@@ -2,4 +2,3 @@ route:              172.23.183.24/29
 descr:              Trunet Home Network
 origin:             AS4242422009
 mnt-by:             TRUNET-MNT
-bgp-status:         inactive 1503244808

@@ -7,5 +7,4 @@ admin-c:            RIPPERFOX-DN42
 tech-c:             RIPPERFOX-DN42
 mnt-by:             RIPPERFOX-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.6.0/23

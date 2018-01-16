@@ -1,4 +1,3 @@
 route:              172.21.88.128/28
 origin:             AS4242420199
 mnt-by:             IXNET-MNT
-bgp-status:         active

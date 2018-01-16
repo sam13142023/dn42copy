@@ -6,5 +6,4 @@ admin-c:            ADRA-DN42
 tech-c:             ADRA-DN42
 mnt-by:             ADRA-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1504713605
 cidr:               172.21.65.32/28

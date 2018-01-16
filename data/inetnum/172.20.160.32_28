@@ -5,5 +5,4 @@ admin-c:            B101010-DN42
 tech-c:             B101010-DN42
 mnt-by:             B101010-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.160.32/28

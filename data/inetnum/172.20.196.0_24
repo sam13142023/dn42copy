@@ -5,5 +5,4 @@ admin-c:            BZ-DN42
 tech-c:             BZ-DN42
 mnt-by:             REPO1-MNT
 status:             ASSIGNED PA
-bgp-status:         inactive 1492306861
 cidr:               172.20.196.0/24

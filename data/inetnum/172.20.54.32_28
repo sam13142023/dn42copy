@@ -8,5 +8,4 @@ mnt-by:             KAWAIIHOSTING-MNT
 nserver:            ns1.kawaiihosting.dn42
 nserver:            ns2.kawaiihosting.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1504569604
 cidr:               172.20.54.32/28

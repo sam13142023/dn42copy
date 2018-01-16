@@ -6,5 +6,4 @@ admin-c:            WUSEL-DN42
 tech-c:             WUSEL-DN42
 mnt-by:             WUSEL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1499875209
 cidr:               172.20.195.96/28

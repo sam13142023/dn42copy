@@ -5,5 +5,4 @@ admin-c:            RBRANDON81-DN42
 tech-c:             RBRANDON81-DN42
 mnt-by:             RBRANDON81-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1493611203
 cidr:               172.20.195.120/29

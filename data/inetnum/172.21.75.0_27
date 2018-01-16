@@ -7,5 +7,4 @@ tech-c:             CONREY-DN42
 mnt-by:             CONREY-MNT
 nserver:            ns1.conrey.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.21.75.0/27

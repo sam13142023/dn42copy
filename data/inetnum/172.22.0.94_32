@@ -10,5 +10,4 @@ admin-c:            DRIXTER-DN42
 tech-c:             DRIXTER-DN42
 mnt-by:             DRIXTER-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1500350404
 cidr:               172.22.0.94/32

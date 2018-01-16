@@ -8,5 +8,4 @@ mnt-by:             LISUX-MNT
 nserver:            ns1.liusx.dn42
 nserver:            ns1.lisux.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1502409602
 cidr:               172.20.131.128/25

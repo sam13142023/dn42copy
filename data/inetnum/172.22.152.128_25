@@ -7,5 +7,4 @@ mnt-by:             ANA-MNT
 mnt-by:             IRL-MNT
 nserver:            ns1.flat.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.152.128/25

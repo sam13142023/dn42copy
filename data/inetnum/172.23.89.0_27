@@ -6,5 +6,4 @@ tech-c:             FLEAZ-DN42
 mnt-by:             FLEAZ-MNT
 status:             ASSIGNED
 nserver:            ns1.fleaz.dn42
-bgp-status:         active
 cidr:               172.23.89.0/27

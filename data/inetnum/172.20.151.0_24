@@ -7,5 +7,4 @@ tech-c:             LIMENET-DN42
 mnt-by:             LIMENET-MNT
 nserver:            ns1.limenet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1502409602
 cidr:               172.20.151.0/24

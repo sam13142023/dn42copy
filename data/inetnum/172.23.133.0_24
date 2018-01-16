@@ -5,5 +5,4 @@ admin-c:            EVILET-DN42
 tech-c:             EVILET-DN42
 mnt-by:             EVILET-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.133.0/24

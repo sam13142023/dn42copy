@@ -1,4 +1,3 @@
 route:              fdc0:ffee::/48
 origin:             AS4242422030
 mnt-by:             MUTE-MNT
-bgp-status:         active

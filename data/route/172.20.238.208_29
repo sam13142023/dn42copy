@@ -1,4 +1,3 @@
 route:              172.20.238.208/29
 origin:             AS4242420180
 mnt-by:             GATUNO-MNT
-bgp-status:         inactive 1475654403

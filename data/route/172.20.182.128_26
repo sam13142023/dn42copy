@@ -2,4 +2,3 @@ route:              172.20.182.128/26
 descr:              NL Zuid internal network
 origin:             AS4242420329
 mnt-by:             MARLINC-MNT
-bgp-status:         inactive 1488729604

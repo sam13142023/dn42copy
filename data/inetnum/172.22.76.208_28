@@ -5,5 +5,4 @@ admin-c:            XNG-DN42
 tech-c:             XNG-DN42
 mnt-by:             XNG-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.76.208/28

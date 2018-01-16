@@ -5,5 +5,4 @@ admin-c:            MIC92-DN42
 tech-c:             MIC92-DN42
 mnt-by:             MIC92-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.100.0/24

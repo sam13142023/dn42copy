@@ -4,5 +4,4 @@ admin-c:            JAMESITS-DN42
 tech-c:             JAMESITS-DN42
 mnt-by:             JAMESITS-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.227.64/27

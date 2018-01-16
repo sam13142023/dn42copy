@@ -9,5 +9,4 @@ nserver:            ns1.netclipse.dn42
 nserver:            ns2.netclipse.dn42
 nserver:            ns3.netclipse.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1497412805
 cidr:               172.23.119.120/29

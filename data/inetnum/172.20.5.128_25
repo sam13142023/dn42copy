@@ -6,5 +6,4 @@ tech-c:             HAELWENN-DN42
 mnt-by:             HAELWENN-MNT
 nserver:            minion.hacktivis.me
 status:             ASSIGNED
-bgp-status:         inactive 1497211204
 cidr:               172.20.5.128/25

@@ -7,5 +7,4 @@ tech-c:             NATO-DN42
 mnt-by:             NATO-MNT
 nserver:            ns1.magicnat.com
 status:             ASSIGNED PI
-bgp-status:         inactive 1493611208
 cidr:               172.23.177.0/28

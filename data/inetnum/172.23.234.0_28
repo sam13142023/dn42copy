@@ -7,5 +7,4 @@ admin-c:            TYPHON-DN42
 tech-c:             TYPHON-DN42
 mnt-by:             TYPHON-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.234.0/28

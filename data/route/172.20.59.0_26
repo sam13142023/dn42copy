@@ -2,4 +2,3 @@ route:              172.20.59.0/26
 descr:              CHALLENE-NET
 origin:             AS4242420527
 mnt-by:             CHALLENE-MNT
-bgp-status:         active

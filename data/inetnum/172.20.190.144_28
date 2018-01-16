@@ -7,5 +7,4 @@ tech-c:             DRATHIR-DN42
 mnt-by:             DRATHIR-MNT
 nserver:            ns4.drathir.dn42
 status:             ALLOCATED
-bgp-status:         active
 cidr:               172.20.190.144/28

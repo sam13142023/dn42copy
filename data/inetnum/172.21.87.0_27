@@ -6,5 +6,4 @@ tech-c:             TURLUX-DN42
 mnt-by:             TURLUX-MNT
 nserver:            ns1.turlux.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1497412804
 cidr:               172.21.87.0/27

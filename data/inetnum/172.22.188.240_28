@@ -8,5 +8,4 @@ mnt-by:             EASYCABLE-MNT
 nserver:            ns1.easycable.dn42
 nserver:            ns2.easycable.dn42
 status:             ALLOCATED
-bgp-status:         inactive 1505592006
 cidr:               172.22.188.240/28

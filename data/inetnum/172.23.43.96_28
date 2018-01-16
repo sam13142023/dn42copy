@@ -10,5 +10,4 @@ nserver:            hail.wolf.dn42
 nserver:            rain.wolf.dn42
 nserver:            snow.wolf.dn42
 nserver:            sleet.wolf.dn42
-bgp-status:         active
 cidr:               172.23.43.96/28

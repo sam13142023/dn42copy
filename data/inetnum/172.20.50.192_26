@@ -6,5 +6,4 @@ admin-c:            KHANAGE-DN42
 tech-c:             KHANAGE-DN42
 mnt-by:             KHANAGE-MNT
 status:             ASSIGNED PI
-bgp-status:         active
 cidr:               172.20.50.192/26

@@ -8,5 +8,4 @@ admin-c:            LEROY-DN42
 tech-c:             LEROY-DN42
 mnt-by:             LEROY-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.252.0/24

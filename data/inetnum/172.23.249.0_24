@@ -6,5 +6,4 @@ tech-c:             PSYKE-DN42
 mnt-by:             PSYKE-MNT
 nserver:            ns1.psyke.dn42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.249.0/24

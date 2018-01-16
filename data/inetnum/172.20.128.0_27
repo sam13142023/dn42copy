@@ -5,5 +5,4 @@ admin-c:            DEEGEE-DN42
 tech-c:             DEEGEE-DN42
 mnt-by:             COMPUGLOBAL-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1502409602
 cidr:               172.20.128.0/27

@@ -7,5 +7,4 @@ tech-c:             KORREN-DN42
 mnt-by:             NSTARNET08-MNT
 nserver:            ns1.fritz.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1499875217
 cidr:               172.23.38.144/28

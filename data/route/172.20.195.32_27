@@ -2,4 +2,3 @@ route:              172.20.195.32/27
 descr:              ZJY-NET
 origin:             AS4242420654
 mnt-by:             ZJY-MNT
-bgp-status:         inactive 1472371203

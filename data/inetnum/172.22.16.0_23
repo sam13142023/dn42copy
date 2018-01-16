@@ -6,5 +6,4 @@ admin-c:            ASTRO-DN42
 tech-c:             ASTRO-DN42
 mnt-by:             ASTRO-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.16.0/23

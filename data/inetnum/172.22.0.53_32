@@ -10,4 +10,3 @@ mnt-by:             NIXNODES-MNT
 mnt-by:             XUU-MNT
 mnt-by:             FRITZ-MNT
 status:             ASSIGNED
-bgp-status:         active

@@ -6,5 +6,4 @@ admin-c:            JPACORA-DN42
 tech-c:             JPACORA-DN42
 mnt-by:             IKEY-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1501545623
 cidr:               172.20.22.0/23

@@ -1,4 +1,3 @@
 route:              172.20.47.48/29
 origin:             AS4242423173
 mnt-by:             COLOCATIOUS-MNT
-bgp-status:         active

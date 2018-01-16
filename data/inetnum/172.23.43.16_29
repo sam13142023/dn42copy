@@ -7,5 +7,4 @@ tech-c:             GIN42-DN42
 mnt-by:             GIN42-MNT
 nserver:            ns1.jin42.de
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.43.16/29

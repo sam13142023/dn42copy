@@ -1,4 +1,3 @@
 route:              172.21.125.32/27
 origin:             AS4242421163
 mnt-by:             SWP-MNT
-bgp-status:         inactive 1493251204

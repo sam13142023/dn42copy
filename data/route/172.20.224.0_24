@@ -2,4 +2,3 @@ route:              172.20.224.0/24
 descr:              TUDA-ISPLAB-CLASSIC-MNT
 origin:             AS4242420172
 mnt-by:             TUDA-ISPLAB-CLASSIC-MNT
-bgp-status:         inactive 1492306865

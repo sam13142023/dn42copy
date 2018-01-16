@@ -9,5 +9,4 @@ mnt-by:             PDOSTAL-MNT
 nserver:            cucumber.pdostal.dn42
 nserver:            grape.pdostal.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1503244803
 cidr:               172.20.235.112/28

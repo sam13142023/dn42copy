@@ -6,5 +6,4 @@ tech-c:             SAPINET-DN42
 mnt-by:             SAPINET-MNT
 nserver:            alpha.ns.sapinet.dn42
 status:             ASSIGNED
-bgp-status:         inactive 1506528002
 cidr:               172.20.169.0/24

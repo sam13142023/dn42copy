@@ -7,5 +7,4 @@ admin-c:            REWBYCRAFT-DN42
 tech-c:             REWBYCRAFT-DN42
 mnt-by:             REWBYSOFT-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.23.169.0/24

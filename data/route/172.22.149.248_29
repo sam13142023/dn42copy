@@ -1,4 +1,3 @@
 route:              172.22.149.248/29
 origin:             AS4242421109
 mnt-by:             IMIR-MNT
-bgp-status:         inactive 1474992004

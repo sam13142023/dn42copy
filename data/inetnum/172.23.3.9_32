@@ -6,5 +6,4 @@ tech-c:             NKM-DN42
 mnt-by:             NKM-MNT
 nserver:            ns1.nkm.com
 status:             ASSIGNED
-bgp-status:         inactive 1496059203
 cidr:               172.23.3.9/32

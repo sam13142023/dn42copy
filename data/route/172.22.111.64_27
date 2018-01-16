@@ -1,4 +1,3 @@
 route:              172.22.111.64/27
 origin:             AS4242422142
 mnt-by:             AMD-MNT
-bgp-status:         inactive 1486584006

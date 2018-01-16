@@ -6,5 +6,4 @@ admin-c:            HOWARD-DN42
 tech-c:             HOWARD-DN42
 mnt-by:             IXNET-MNT
 status:             ALLOCATED
-bgp-status:         inactive 1502409602
 cidr:               172.20.165.0/29

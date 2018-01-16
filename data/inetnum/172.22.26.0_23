@@ -7,5 +7,4 @@ mnt-by:             NOMASTER-MNT
 admin-c:            CHAOSDORF-DN42
 tech-c:             FEUERROT-DN42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.26.0/23

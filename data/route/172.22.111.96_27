@@ -1,4 +1,3 @@
 route:              172.22.111.96/27
 origin:             AS64647
 mnt-by:             FLORIANB-MNT
-bgp-status:         inactive 1501689607

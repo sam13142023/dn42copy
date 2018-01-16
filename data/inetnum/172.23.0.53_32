@@ -9,4 +9,3 @@ mnt-by:             XUU-MNT
 nserver:            ns1.lossy-network.dn42
 nserver:            ns2.lossy-network.dn42
 status:             ASSIGNED
-bgp-status:         active

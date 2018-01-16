@@ -7,6 +7,5 @@ remarks:            To participate, please contact SRN.
 admin-c:            SRN-DN42
 tech-c:             SRN-DN42
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.22.53.0/24
 mnt-by:             DUMMY-MNT

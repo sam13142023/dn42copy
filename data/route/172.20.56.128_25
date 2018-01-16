@@ -2,4 +2,3 @@ route:              172.20.56.128/25
 descr:              IMOTO NETWORK KEY ROUTE
 origin:             AS64686
 mnt-by:             IMOTO-MNT
-bgp-status:         active

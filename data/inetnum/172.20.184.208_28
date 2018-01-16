@@ -5,5 +5,4 @@ admin-c:            JOSEPHB-DN42
 tech-c:             JOSEPHB-DN42
 mnt-by:             JOSEPHB-MNT
 status:             ASSIGNED
-bgp-status:         active
 cidr:               172.20.184.208/28

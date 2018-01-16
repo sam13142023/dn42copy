@@ -6,5 +6,4 @@ admin-c:            FXKR-DN42
 tech-c:             FXKR-DN42
 status:             ASSIGNED
 mnt-by:             FXKR-MNT
-bgp-status:         active
 cidr:               172.22.233.0/24

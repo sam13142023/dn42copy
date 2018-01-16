@@ -6,5 +6,4 @@ admin-c:            FELICITUS-DN42
 tech-c:             FELICITUS-DN42
 status:             ASSIGNED
 mnt-by:             FELICITUS-MNT
-bgp-status:         active
 cidr:               172.22.117.0/25

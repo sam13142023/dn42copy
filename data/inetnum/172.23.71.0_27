@@ -7,5 +7,4 @@ tech-c:             MSNET-DN42
 mnt-by:             MSNET-MNT
 nserver:            ns1.pq.my
 status:             ALLOCATED
-bgp-status:         inactive 1493265603
 cidr:               172.23.71.0/27

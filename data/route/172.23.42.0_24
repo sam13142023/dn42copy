@@ -2,4 +2,3 @@ route:              172.23.42.0/24
 origin:             AS64600
 origin:             AS4242420101
 mnt-by:             HEXA-MNT
-bgp-status:         inactive 1490155205

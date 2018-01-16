@@ -5,5 +5,4 @@ admin-c:            HIGHER-DN42
 tech-c:             HIGHER-DN42
 mnt-by:             HIGHER-MNT
 status:             ASSIGNED
-bgp-status:         inactive 1500120005
 cidr:               172.23.35.64/26
