@@ -1,9 +1,0 @@
-inet6num:           fd42:534e:0010:0000:0000:0000:0000:0000-fd42:534e:0010:0000:ffff:ffff:ffff:ffff
-netname:            SKYNET-NET6-EU-CORE
-cidr:               fd42:534e:10::/64
-descr:              Skynet IPv6 EU core network
-admin-c:            IO-DN42
-tech-c:             IO-DN42
-mnt-by:             SKYNET-MNT
-status:             ASSIGNED
-nserver:            ns1.skynet.dn42
