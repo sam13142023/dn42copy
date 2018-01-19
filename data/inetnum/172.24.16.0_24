@@ -1,9 +1,0 @@
-inetnum:            172.24.16.0 - 172.24.16.255
-netname:            ETH2-MGMT-ES
-descr:              eth2 management Enschede
-country:            NL
-admin-c:            REENING-DN42
-tech-c:             REENING-DN42
-mnt-by:             ETH2-MNT
-status:             ALLOCATED
-cidr:               172.24.16.0/24

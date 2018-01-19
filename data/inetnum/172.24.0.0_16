@@ -1,9 +1,0 @@
-inetnum:            172.24.0.0 - 172.24.255.255
-netname:            NET-BLK016-ETH2
-policy:             reserved
-admin-c:            REENING-DN42
-admin-c:            JK5-DN42
-mnt-by:             ETH2-MNT
-status:             ALLOCATED
-remarks:            Currently working on renumbering the network and bringing parts of it online in dn42
-cidr:               172.24.0.0/16

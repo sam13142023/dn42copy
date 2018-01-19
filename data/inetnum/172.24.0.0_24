@@ -1,9 +1,0 @@
-inetnum:            172.24.0.0 - 172.24.0.255
-netname:            ETH2-LOOPBACK-ROUTER
-descr:              eth2 Router Loopbacks
-admin-c:            REENING-DN42
-tech-c:             REENING-DN42
-mnt-by:             ETH2-MNT
-status:             ALLOCATED
-country:            NL
-cidr:               172.24.0.0/24
