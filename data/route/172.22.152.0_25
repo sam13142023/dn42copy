@@ -1,0 +1,4 @@
+route:              172.22.152.0/25
+descr:              allo dn42 network
+origin:             AS64152
+bgp-status:         active
