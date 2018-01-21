@@ -1,7 +1,7 @@
-inetnum:            172.20.155.0-172.20.155.127
+inetnum:            172.20.1.0-172.20.1.255
 netname:            JRB0001
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
 status:             ALLOCATED PA
-cidr:               172.20.155.0/25
+cidr:               172.20.1.0/24
