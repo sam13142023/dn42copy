@@ -1,0 +1,8 @@
+inetnum:            172.20.6.16 - 172.20.6.23
+cidr:               172.20.6.16/29
+netname:            VIRTUE-NETWORK
+country:            BV
+admin-c:            OCTET-DN42
+tech-c:             OCTET-DN42
+mnt-by:             OCTET-MNT
+status:             ASSIGNED
