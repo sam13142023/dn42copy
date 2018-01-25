@@ -1,0 +1,7 @@
+inet6num:           fdc3:c927:1455:0000:0000:0000:0000:0000 - fdc3:c927:1455:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:c927:1455::/48
+netname:            MULTI-NETWORK
+admin-c:            MULTI-DN42
+tech-c:             MULTI-DN42
+mnt-by:             MULTI-MNT
+status:             ASSIGNED
