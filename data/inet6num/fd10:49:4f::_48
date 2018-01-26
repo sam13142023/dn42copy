@@ -6,3 +6,4 @@ admin-c:            IO-DN42
 tech-c:             IO-DN42
 mnt-by:             SKYNET-MNT
 status:             ASSIGNED
+nserver:            ns1.skynet.dn42
