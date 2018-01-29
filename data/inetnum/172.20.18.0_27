@@ -1,4 +1,4 @@
-inetnum:            172.20.18.0 - 172.20.18.15
+inetnum:            172.20.18.0 - 172.20.18.31
 netname:            MUTE-NET1
 descr:              MUTE-NET1
 country:            US
@@ -7,4 +7,4 @@ tech-c:             MUTE-DN42
 mnt-by:             MUTE-MNT
 status:             ASSIGNED
 nserver:            ns1.mute.dn42
-cidr:               172.20.18.0/28
+cidr:               172.20.18.0/27
