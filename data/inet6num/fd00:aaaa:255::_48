@@ -1,0 +1,9 @@
+inet6num:           fd00:aaaa:0255:0000:0000:0000:0000:0000-fd00:aaaa:0255:ffff:ffff:ffff:ffff:ffff
+netname:            NETRAVNEN-NET
+descr:              NETRAVNEN
+country:            DK
+admin-c:            NETRAVNEN-DN42
+tech-c:             NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+status:             ASSIGNED
+cidr:               fd00:aaaa:255::/48
