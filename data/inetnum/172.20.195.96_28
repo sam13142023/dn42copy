@@ -1,9 +1,0 @@
-inetnum:            172.20.195.96-172.20.195.111
-netname:            LOOPBACK-V4
-descr:              Actually /32s ...
-country:            AN
-admin-c:            WUSEL-DN42
-tech-c:             WUSEL-DN42
-mnt-by:             WUSEL-MNT
-status:             ASSIGNED
-cidr:               172.20.195.96/28

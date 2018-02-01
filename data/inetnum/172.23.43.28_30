@@ -1,8 +1,0 @@
-inetnum:            172.23.43.28-172.23.43.31
-netname:            THB-NETWORK-TRANSFER
-country:            DE
-admin-c:            THB-DN42
-tech-c:             THB-DN42
-mnt-by:             TOBIHB-MNT
-status:             ASSIGNED
-cidr:               172.23.43.28/30

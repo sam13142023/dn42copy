@@ -1,9 +1,0 @@
-inetnum:            172.20.190.80 - 172.20.190.95
-netname:            GYC-NET4
-descr:              ipv4 network of gaoyichuan
-country:            CN
-admin-c:            GYC-DN42
-tech-c:             GYC-DN42
-mnt-by:             GYC-MNT
-status:             ASSIGNED
-cidr:               172.20.190.80/28

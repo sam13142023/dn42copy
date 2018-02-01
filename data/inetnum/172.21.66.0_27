@@ -1,8 +1,0 @@
-inetnum:            172.21.66.0-172.21.66.31
-netname:            JUHO-NET
-country:            FI
-admin-c:            JUHO-DN42
-tech-c:             JUHO-DN42
-mnt-by:             JUHO-MNT
-status:             ASSIGNED
-cidr:               172.21.66.0/27

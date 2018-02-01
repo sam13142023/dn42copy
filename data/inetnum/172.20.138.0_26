@@ -1,8 +1,0 @@
-inetnum:            172.20.138.0-172.20.138.63
-netname:            ICARUSTECH-NET1
-country:            US
-admin-c:            SYNACKRAY-DN42
-tech-c:             SYNACKRAY-DN42
-mnt-by:             ICARUSTECH-MNT
-status:             ASSIGNED
-cidr:               172.20.138.0/26

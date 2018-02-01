@@ -1,8 +1,0 @@
-inetnum:            172.22.173.0 - 172.22.173.255
-nserver:            ns0.j.dn42
-netname:            jomat's dn42 network
-admin-c:            JOMAT-DN42
-tech-c:             JOMAT-DN42
-status:             ASSIGNED
-mnt-by:             JOMAT-MNT
-cidr:               172.22.173.0/24
