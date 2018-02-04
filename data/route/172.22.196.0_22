@@ -1,4 +1,4 @@
-route:              172.22.192.112/28
+route:              172.22.196.0/22
 descr:              Internal usage
 origin:             AS64794
 mnt-by:             MORTZU-MNT
