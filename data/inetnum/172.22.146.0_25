@@ -1,0 +1,9 @@
+inetnum:           172.22.146.0 - 172.22.146.127
+cidr:              172.22.146.0/25
+netname:           TECHNOPOINT CORE NETWORK POOL FOR DN42
+admin-c:           KM17-DN42
+tech-c:            KM17-DN42
+mnt-by:            TECHNOPOINT-MNT
+nserver:           ns1.evenet.dn42
+nserver:           ns2.evenet.dn42
+status:            ASSIGNED
