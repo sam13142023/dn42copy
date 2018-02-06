@@ -1,4 +1,5 @@
-mntner:         TECHNOPOINT-MNT
-admin-c:        KM17-DN42
-tech-c:         KM17-DN42
-mnt-by:         TECHNOPOINT-MNT
+mntner:             TECHNOPOINT-MNT
+admin-c:            KM17-DN42
+tech-c:             KM17-DN42
+auth:               CRYPT-PW UQYiSH8Jx3Avo
+mnt-by:             TECHNOPOINT-MNT
