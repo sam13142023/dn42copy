@@ -1,5 +1,5 @@
 mntner:             TECHNOPOINT-MNT
-sha512-pw:          2968581ff6947a2c43e97900f3a572aba1eb013036ab880c01f3b9fb7fffd99afb2eb4752db99d7d68f7e6339f09444fab82e7e2f4cbe30d72087e23e7307893
+auth:               sha512 2968581ff6947a2c43e97900f3a572aba1eb013036ab880c01f3b9fb7fffd99afb2eb4752db99d7d68f7e6339f09444fab82e7e2f4cbe30d72087e23e7307893
 admin-c:            KM17-DN42
 tech-c:             KM17-DN42
 mnt-by:             TECHNOPOINT-MNT
