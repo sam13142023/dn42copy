@@ -7,5 +7,5 @@ key:                members    optional  multiple  lookup=dn42.aut-num,dn42.as-s
 key:                admin-c    optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c     optional  multiple  lookup=dn42.person,dn42.role
 key:                remarks    optional  mutliple
-mnt-by:             XUU-MNT
-mnt-by:             HEXA-MNT
+key:                source     required  single    lookup=dn42.registry
+mnt-by:             DN42-MNT

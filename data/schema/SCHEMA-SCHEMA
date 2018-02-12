@@ -8,8 +8,7 @@ key:                key      required  multiple  > [key-name]
                     lookup=str '>' [spec]...
 key:                mnt-by   required  multiple    lookup=dn42.mntner > [mntner]
 key:                remarks  optional  multiple  > [text]...
-mnt-by:             XUU-MNT
-mnt-by:             HEXA-MNT
+mnt-by:             DN42-MNT
 remarks:            # option descriptions
                     required
                     :    object required to have at least one
