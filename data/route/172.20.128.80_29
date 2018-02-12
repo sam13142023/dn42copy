@@ -1,0 +1,3 @@
+route:              172.20.128.80/29
+origin:             AS4242420144
+mnt-by:             NETRAVNEN-MNT
