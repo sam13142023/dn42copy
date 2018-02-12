@@ -1,9 +1,0 @@
-inetnum:            172.23.222.32-172.23.222.63
-netname:            E6-NET
-descr:              E-6 Personal Network
-country:            US
-admin-c:            E-DN42
-tech-c:             E-DN42
-mnt-by:             E-6-MNT
-status:             ASSIGNED
-cidr:               172.23.222.32/27

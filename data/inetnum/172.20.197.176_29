@@ -1,7 +1,0 @@
-inetnum:            172.20.197.176 - 172.20.197.183
-netname:            TEN4-NET
-admin-c:            TEN4-DN42
-tech-c:             TEN4-DN42
-mnt-by:             TEN4-MNT
-status:             ASSIGNED
-cidr:               172.20.197.176/29

@@ -1,8 +1,0 @@
-inetnum:            172.23.163.160-172.23.163.175
-netname:            MATS-NETWORK
-country:            NO
-admin-c:            MATS-DN42
-tech-c:             MATS-DN42
-mnt-by:             MATS-MNT
-status:             ALLOCATED
-cidr:               172.23.163.160/28

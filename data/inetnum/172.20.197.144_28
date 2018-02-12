@@ -1,9 +1,0 @@
-inetnum:            172.20.197.144-172.20.197.159
-netname:            THANWER-IP4
-descr:              THANWER-IP4
-country:            BR
-admin-c:            THANWER-DN42
-tech-c:             THANWER-DN42
-mnt-by:             THANWER-MNT
-status:             ASSIGNED
-cidr:               172.20.197.144/28

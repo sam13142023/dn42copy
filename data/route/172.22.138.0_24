@@ -1,4 +1,0 @@
-route:              172.22.138.0/24
-descr:              welterde's dn42 network
-origin:             AS64738
-mnt-by:             DUMMY-MNT

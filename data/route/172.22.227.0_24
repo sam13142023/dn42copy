@@ -1,4 +1,0 @@
-route:              172.22.227.0/24
-descr:              deelkar's dn42 network
-origin:             AS64827
-mnt-by:             DUMMY-MNT

@@ -1,9 +1,0 @@
-inetnum:            172.23.90.64 - 172.23.90.127
-netname:            ASKAREL-PLAYGROUND
-descr:              Askarel playground network
-country:            BE
-admin-c:            ASKAREL-DN42
-tech-c:             ASKAREL-DN42
-mnt-by:             ASKAREL-MNT
-status:             ASSIGNED
-cidr:               172.23.90.64/26
