@@ -3,3 +3,4 @@ sha512-pw:          MmRmNzBkNjU0MjliYjE4NTQ1MjIwNTQ4YWI0ZWRlMjcyN2RmMzExZDQzMTNm
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             SPLITICE-MNT
+source:             DN42

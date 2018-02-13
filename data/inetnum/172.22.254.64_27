@@ -8,3 +8,4 @@ nserver:            dns1.crest.dn42
 nserver:            dns2.crest.dn42
 cidr:               172.22.254.64/27
 mnt-by:             DUMMY-MNT
+source:             DN42

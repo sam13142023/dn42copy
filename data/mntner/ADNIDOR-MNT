@@ -5,3 +5,4 @@ auth:               pgp-fingerprint 77FC93F544B15C05222209A294AD608BD92C413D
 admin-c:            ADNIDOR-DN42
 tech-c:             ADNIDOR-DN42
 mnt-by:             ADNIDOR-MNT
+source:             DN42

@@ -7,3 +7,4 @@ tech-c:             KOE-DN42
 mnt-by:             KOE-MNT
 status:             ASSIGNED
 cidr:               172.20.15.128/27
+source:             DN42

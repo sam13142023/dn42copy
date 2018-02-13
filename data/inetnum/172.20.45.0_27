@@ -8,3 +8,4 @@ nserver:            dns1.server-place.org
 nserver:            dns2.server-place.org
 status:             ASSIGNED
 cidr:               172.20.45.0/27
+source:             DN42

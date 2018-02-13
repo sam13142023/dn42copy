@@ -11,3 +11,4 @@ nserver:            snow.wolf.dn42
 nserver:            sleet.wolf.dn42
 cidr:               172.22.148.240/28
 netname:            Unnamed 172.22.148.240/28 Network
+source:             DN42

@@ -13,3 +13,4 @@ nserver:            ns6.suedwest.g.nic.dn42
 nserver:            ns7.suedwest.g.nic.dn42
 cidr:               10.210.0.0/18
 netname:            Unnamed 10.210.0.0/18 Network
+source:             ICVPN

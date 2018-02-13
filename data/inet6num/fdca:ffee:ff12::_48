@@ -7,3 +7,4 @@ tech-c:             HEJ-DN42
 mnt-by:             HEJ-MNT
 status:             ASSIGNED
 cidr:               fdca:ffee:ff12::/48
+source:             ICVPN

@@ -2,3 +2,4 @@ route:              172.20.207.64/27
 descr:              Lamenet
 origin:             AS4242421113
 mnt-by:             LAMENET-MNT
+source:             DN42

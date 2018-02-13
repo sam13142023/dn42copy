@@ -7,3 +7,4 @@ mnt-by:             KANKAN-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.247.32/27
+source:             DN42

@@ -8,3 +8,4 @@ status:             ASSIGNED
 mnt-by:             SCHRODINGER-MNT
 remarks:            1425938004 Will readvertise soon once new peerings are established
 cidr:               fde6:079c:9bfd::/48
+source:             DN42

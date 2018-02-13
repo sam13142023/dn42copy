@@ -7,3 +7,4 @@ mnt-by:             GIN42-MNT
 nserver:            ns1.jin42.de
 status:             ASSIGNED
 cidr:               fd00:cf35:9507::/48
+source:             DN42

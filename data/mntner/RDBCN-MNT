@@ -4,3 +4,4 @@ auth:               pgp-fingerprint 57D4BF9818BB035362303DD6EBF8AE36DF63C3BA
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             RDBCN-MNT
+source:             DN42

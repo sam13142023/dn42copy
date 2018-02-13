@@ -6,3 +6,4 @@ tech-c:             HNRD-DN42
 mnt-by:             ZKNT-MNT
 status:             ASSIGNED
 cidr:               fd9c:ee89:6422::/48
+source:             DN42

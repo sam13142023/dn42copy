@@ -8,3 +8,4 @@ nserver:            ns1.ruhrgebiet.g.nic.dn42
 nserver:            ns2.ruhrgebiet.g.nic.dn42
 cidr:               10.236.0.0/16
 netname:            Unnamed 10.236.0.0/16 Network
+source:             ICVPN

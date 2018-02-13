@@ -8,3 +8,4 @@ nserver:            ns1.prignitz.g.nic.dn42 10.15.192.1
 nserver:            ns2.prignitz.g.nic.dn42 10.15.192.2
 nserver:            ns1.prignitz.g.nic.dn42 fde8:21c6:370b::0a01
 nserver:            ns2.prignitz.g.nic.dn42 fde8:21c6:370b::0b01
+source:             ICVPN

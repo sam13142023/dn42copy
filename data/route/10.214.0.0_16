@@ -3,3 +3,4 @@ descr:              Freifunk Karlsruhe
 remarks:            Freifunk Karlsruhe network route
 origin:             AS65081
 mnt-by:             FREIFUNKDUMMY-MNT
+source:             ICVPN

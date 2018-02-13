@@ -6,3 +6,4 @@ tech-c:             DAN-DN42
 mnt-by:             DAN-MNT
 nserver:            ns.dan.dn42
 status:             ASSIGNED
+source:             DN42

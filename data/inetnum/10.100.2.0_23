@@ -6,3 +6,4 @@ tech-c:             TAGNO25-DN42
 mnt-by:             TAGNO25-MNT
 status:             ASSIGNED
 cidr:               10.100.2.0/23
+source:             ICVPN

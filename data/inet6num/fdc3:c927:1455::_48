@@ -6,3 +6,4 @@ tech-c:             MULTI-DN42
 mnt-by:             MULTI-MNT
 nserver:            1.0.0.127.in-addr.dn42
 status:             ASSIGNED
+source:             DN42

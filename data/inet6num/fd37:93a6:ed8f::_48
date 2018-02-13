@@ -7,3 +7,4 @@ tech-c:             DEELKAR-DN42
 status:             ASSIGNED
 cidr:               fd37:93a6:ed8f::/48
 mnt-by:             DUMMY-MNT
+source:             DN42

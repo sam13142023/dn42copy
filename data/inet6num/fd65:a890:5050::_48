@@ -9,3 +9,4 @@ nserver:            a.ns.sigterm.dn42
 nserver:            b.ns.sigterm.dn42
 status:             ASSIGNED
 cidr:               fd65:a890:5050::/48
+source:             DN42

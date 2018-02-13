@@ -5,3 +5,4 @@ admin-c:            MORI-DN42
 tech-c:             MORI-DN42
 mnt-by:             PROJECTMORI-MNT
 nserver:            ns1.projectmori.dn42 172.20.171.81
+source:             DN42

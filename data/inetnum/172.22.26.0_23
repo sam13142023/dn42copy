@@ -8,3 +8,4 @@ admin-c:            CHAOSDORF-DN42
 tech-c:             FEUERROT-DN42
 status:             ASSIGNED
 cidr:               172.22.26.0/23
+source:             DN42

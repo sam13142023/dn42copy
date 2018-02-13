@@ -6,3 +6,4 @@ tech-c:             RAPPET-DN42
 mnt-by:             RAPPET-MNT
 status:             ASSIGNED
 cidr:               172.22.151.0/27
+source:             DN42

@@ -9,3 +9,4 @@ nserver:            ns2.dreilaendereck.g.nic.dn42
 nserver:            ns3.dreilaendereck.g.nic.dn42
 cidr:               10.119.0.0/16
 netname:            Unnamed 10.119.0.0/16 Network
+source:             ICVPN

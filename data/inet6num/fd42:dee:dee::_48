@@ -6,3 +6,4 @@ tech-c:             DEEGEE-DN42
 mnt-by:             COMPUGLOBAL-MNT
 status:             ASSIGNED
 cidr:               fd42:dee:dee::/48
+source:             DN42

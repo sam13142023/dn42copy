@@ -8,3 +8,4 @@ nserver:            ns1.altmuehltal.g.nic.dn42
 nserver:            ns2.altmuehltal.g.nic.dn42
 cidr:               10.15.16.0/20
 netname:            Unnamed 10.15.16.0/20 Network
+source:             ICVPN

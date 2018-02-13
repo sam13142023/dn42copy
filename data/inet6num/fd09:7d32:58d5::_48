@@ -7,3 +7,4 @@ mnt-by:             ALLNETWORK-MNT
 nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               fd09:7d32:58d5::/48
+source:             DN42

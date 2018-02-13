@@ -10,3 +10,4 @@ nserver:            ns3.luebeck.g.nic.dn42
 nserver:            ns4.luebeck.g.nic.dn42
 cidr:               10.130.0.0/16
 netname:            Unnamed 10.130.0.0/16 Network
+source:             ICVPN

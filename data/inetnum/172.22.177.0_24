@@ -14,3 +14,4 @@ nserver:            ns1.nixnodes.dn42
 nserver:            ns2.nixnodes.dn42
 nserver:            ns3.nixnodes.dn42
 status:             ALLOCATED
+source:             DN42

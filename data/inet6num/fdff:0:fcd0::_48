@@ -8,3 +8,4 @@ mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               fdff:0:fcd0::/48
+source:             DN42

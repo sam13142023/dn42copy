@@ -7,3 +7,4 @@ tech-c:             FC-DN42
 mnt-by:             FC-MNT
 status:             ASSIGNED
 cidr:               10.30.0.0/19
+source:             ICVPN

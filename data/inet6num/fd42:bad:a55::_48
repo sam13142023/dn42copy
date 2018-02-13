@@ -7,3 +7,4 @@ tech-c:             HADRILL-DN42
 mnt-by:             HADRILL-MNT
 status:             ASSIGNED
 cidr:               fd42:bad:a55::/48
+source:             DN42

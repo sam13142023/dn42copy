@@ -5,3 +5,4 @@ tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.diepholz.g.nic.dn42 10.213.0.2
+source:             ICVPN

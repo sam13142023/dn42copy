@@ -8,3 +8,4 @@ nserver:            ns1.saar.g.nic.dn42
 nserver:            ns2.saar.g.nic.dn42
 cidr:               10.252.64.0/18
 netname:            Unnamed 10.252.64.0/18 Network
+source:             ICVPN

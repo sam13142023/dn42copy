@@ -9,3 +9,4 @@ nserver:            NS.XIAOYU.DN42
 nserver:            NS.face.DN42
 status:             ALLOCATED
 cidr:               172.22.190.0/23
+source:             DN42

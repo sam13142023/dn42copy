@@ -8,3 +8,4 @@ status:             ASSIGNED
 nserver:            ns1.lernet.dn42
 nserver:            ns2.lernet.dn42
 cidr:               172.20.2.0/27
+source:             DN42

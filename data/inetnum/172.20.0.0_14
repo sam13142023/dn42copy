@@ -12,3 +12,4 @@ mnt-by:             GRMML-MNT
 mnt-by:             PRAUSCHER-MNT
 status:             ALLOCATED
 bgp-status:         ignore
+source:             DN42

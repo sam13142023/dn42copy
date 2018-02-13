@@ -2,3 +2,4 @@ route:              172.22.239.0/24
 descr:              krautspace.de Dn42-Netblock
 origin:             AS64839
 mnt-by:             DUMMY-MNT
+source:             DN42

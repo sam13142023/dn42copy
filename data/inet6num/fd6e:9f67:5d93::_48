@@ -8,3 +8,4 @@ nserver:            ns1.koochdog.dn42
 nserver:            ns2.koochdog.dn42
 status:             ASSIGNED
 cidr:               fd6e:9f67:5d93::/48
+source:             DN42

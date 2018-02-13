@@ -1,7 +1,8 @@
-domain:             MATER.DN42
+domain:             mater.dn42
 descr:              Mater Net
 admin-c:            MATER-DN42
 tech-c:             MATER-DN42
 mnt-by:             MATER-MNT
-nserver:            NS1.MATER.DN42 172.22.163.60
+nserver:            ns1.mater.dn42 172.22.163.60
 status:             CONNECT
+source:             DN42

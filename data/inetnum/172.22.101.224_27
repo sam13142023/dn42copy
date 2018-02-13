@@ -7,3 +7,4 @@ mnt-by:             MODE-MNT
 nserver:            ns.modenet.dn42
 status:             ASSIGNED
 cidr:               172.22.101.224/27
+source:             DN42

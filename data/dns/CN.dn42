@@ -7,3 +7,4 @@ nserver:            NS.XIAOYU.DN42
 nserver:            ns.CN.dn42 172.21.70.18
 nserver:            ns.CN.dn42 fd5c:f0f:39fc::18
 status:             EVALPEND 1505730433
+source:             DN42

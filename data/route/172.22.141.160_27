@@ -3,3 +3,4 @@ descr:              Xuu Network 1
 inet-cidr:          172.22.141.0/24
 origin:             AS64737
 mnt-by:             XUU-MNT
+source:             DN42

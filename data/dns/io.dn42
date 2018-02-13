@@ -6,3 +6,4 @@ mnt-by:             SKYNET-MNT
 nserver:            ns1.skynet.dn42
 nserver:            ns2.skynet.dn42
 status:             CONNECT
+source:             DN42

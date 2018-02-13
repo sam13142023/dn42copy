@@ -15,3 +15,4 @@ mnt-by:             HEXA-MNT
 status:             ASSIGNED
 nserver:            ns1.lossy-network.dn42
 nserver:            ns2.lossy-network.dn42
+source:             DN42

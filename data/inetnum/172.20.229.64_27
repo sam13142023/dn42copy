@@ -6,3 +6,4 @@ mnt-by:             JDS-MNT
 nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 cidr:               172.20.229.64/27
+source:             DN42

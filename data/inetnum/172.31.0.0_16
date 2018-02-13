@@ -8,3 +8,4 @@ nserver:            ns1.chaosvpn.g.nic.dn42
 nserver:            ns2.chaosvpn.g.nic.dn42
 cidr:               172.31.0.0/16
 netname:            Unnamed 172.31.0.0/16 Network
+source:             CHAOSVPN

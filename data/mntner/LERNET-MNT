@@ -5,3 +5,4 @@ auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCl5b9vrfrmk+FW/1fe7oae
 admin-c:            LER-DN42
 tech-c:             LER-DN42
 mnt-by:             LERNET-MNT
+source:             DN42

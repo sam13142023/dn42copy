@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.greifswald.g.nic.dn42 10.143.0.2
 nserver:            ns1.greifswald.g.nic.dn42 fdef:affe:edda::2
+source:             ICVPN

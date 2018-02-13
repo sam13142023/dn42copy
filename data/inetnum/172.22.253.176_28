@@ -8,3 +8,4 @@ nserver:            ns1.mtak.dn42
 bgp-status:         ignore
 cidr:               172.22.253.176/28
 mnt-by:             DUMMY-MNT
+source:             DN42

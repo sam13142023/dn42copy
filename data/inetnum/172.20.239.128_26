@@ -8,3 +8,4 @@ mnt-by:             LFNET-MNT
 nserver:            karl.home.lf-net.dn42
 status:             ASSIGNED
 cidr:               172.20.239.128/26
+source:             DN42

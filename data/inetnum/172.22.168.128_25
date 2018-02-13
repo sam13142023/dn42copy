@@ -6,3 +6,4 @@ tech-c:             ALLO-DN42
 status:             ASSIGNED
 cidr:               172.22.168.128/25
 mnt-by:             DUMMY-MNT
+source:             DN42

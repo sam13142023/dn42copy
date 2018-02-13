@@ -10,3 +10,4 @@ nserver:            ns3.mwu.g.nic.dn42
 nserver:            ns4.mwu.g.nic.dn42
 cidr:               10.37.0.0/16
 netname:            Unnamed 10.37.0.0/16 Network
+source:             ICVPN

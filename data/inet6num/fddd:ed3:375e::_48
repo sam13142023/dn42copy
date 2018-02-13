@@ -7,3 +7,4 @@ mnt-by:             NIYAWE-MNT
 nserver:            ns.niyawe.dn42
 status:             ASSIGNED
 cidr:               fddd:ed3:375e::/48
+source:             DN42

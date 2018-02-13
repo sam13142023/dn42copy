@@ -7,3 +7,4 @@ tech-c:             SKORPY-DN42
 mnt-by:             SKORPY-MNT
 status:             ALLOCATED PI
 cidr:               172.20.144.0/23
+source:             DN42

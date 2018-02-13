@@ -4,3 +4,4 @@ org:                ORG-MODE
 admin-c:            MODE-DN42
 tech-c:             MODE-DN42
 mnt-by:             MODE-MNT
+source:             DN42

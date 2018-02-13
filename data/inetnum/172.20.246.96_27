@@ -8,3 +8,4 @@ mnt-by:             MUZIKCA-MNT
 status:             ALLOCATED
 bgp-status:         ignore
 cidr:               172.20.246.96/27
+source:             DN42

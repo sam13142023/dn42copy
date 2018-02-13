@@ -9,3 +9,4 @@ nserver:            ns01.trae32566.org
 nserver:            ns02.trae32566.org
 status:             ASSIGNED
 cidr:               fd52:d62e:8011:4200::/56
+source:             DN42

@@ -9,3 +9,4 @@ mnt-by:             ASTRO-MNT
 nserver:            ns.c3d2.de
 status:             ALLOCATED
 cidr:               fd23:42:c3d2:500::/56
+source:             DN42

@@ -7,3 +7,4 @@ admin-c:            RENEPREUSS-DN42
 tech-c:             RENEPREUSS-DN42
 mnt-by:             PREUSSIO-MNT
 cidr:               fd42:6e66:70cd::/48
+source:             DN42
