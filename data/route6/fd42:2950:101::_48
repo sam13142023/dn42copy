@@ -1,0 +1,4 @@
+route6:             fd42:2950:101::/48
+descr:              SIS-DN42-INET6-LAB1 route
+origin:             AS4242422950
+mnt-by:             SIS-MNT

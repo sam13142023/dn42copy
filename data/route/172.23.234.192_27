@@ -1,4 +1,4 @@
 route:              172.23.234.192/27
-descr:              SIS-DN42-PHOBOS
+descr:              SIS-DN42-INET4-BLK1
 origin:             AS4242422950
-mnt-by:             SIS-ORG-MNT
+mnt-by:             SIS-MNT

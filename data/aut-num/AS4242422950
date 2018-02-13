@@ -1,10 +1,9 @@
 aut-num:            AS4242422950
-as-name:            SISNET
-descr:              SIS DN42 ASN
+as-name:            SIS-DN42
+descr:              SIS DN42 AS
 admin-c:            CR-DN42
 tech-c:             CR-DN42
-mnt-by:             SIS-ORG-MNT
-remarks:            Peer with us! Contact admin-c for peering.
-remarks:            Nuremberg, Germany. 1 GBit/s uplink.
-remarks:            Inter-connected with franken.freifunk.net.
-remarks:            Providing email, servers and website hosting.
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+remarks:            open for peerings, please contact admin-c
+remarks:            WireGuard/GRE+IPsec only
