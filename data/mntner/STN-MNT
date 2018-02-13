@@ -3,3 +3,4 @@ sha512-pw:          N2JkNTQxNjI3ZmRjMTQ5MjRhNjU0NWYyMTVkZmFlMTBiNThlMTI0NDJmYTBj
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             STN-MNT
+source:             DN42

@@ -9,3 +9,4 @@ tech-c:             GIGA-DN42
 tech-c:             GBE-DN42
 mnt-by:             GIGA-MNT
 mnt-by:             GBE-MNT
+source:             DN42
