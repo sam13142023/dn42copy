@@ -1,4 +1,5 @@
 route:              172.22.152.0/25
 descr:              allo dn42 network
-origin:             AS64152
-bgp-status:         active
+origin:             AS64752
+mnt-by:             ALLO-MNT
+bgp-status:         active 1518558479
