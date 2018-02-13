@@ -13,3 +13,4 @@ status:             ASSIGNED PA
 nserver:            ns.p5.flhb.de
 ds-rdata:           24396 7 1 CE4CA1EEE1AF124B7EA84D9995E3BAD711856339
 ds-rdata:           24396 7 2 6F6C0CF7F7582CB1866861749BBC8226F25377C3C22AE43DFA0A3C52 A76E4F7F
+source:             DN42

@@ -11,3 +11,4 @@ nserver:            sleet.wolf.dn42
 nserver:            water.wolf.dn42
 status:             ASSIGNED
 cidr:               fd42:4992:6b6e::/48
+source:             DN42

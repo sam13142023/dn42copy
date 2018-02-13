@@ -8,3 +8,4 @@ tech-c:             DAN-DN42
 mnt-by:             DAN-MNT
 nserver:            ns1.dan.dn42
 status:             ASSIGNED
+source:             DN42

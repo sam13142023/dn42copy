@@ -9,3 +9,4 @@ nserver:            dn42-ns1.AS4242422506.dn42
 nserver:            ns1.fastnameserver.eu
 status:             ASSIGNED
 cidr:               fd01:5e19:11e1::/48
+source:             DN42

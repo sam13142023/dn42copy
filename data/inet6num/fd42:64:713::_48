@@ -7,3 +7,4 @@ status:             ASSIGNED
 nserver:            dns-anycast-a.martin89.dn42 172.22.113.12
 cidr:               fd42:64:713::/48
 mnt-by:             MARTIN89-MNT
+source:             DN42

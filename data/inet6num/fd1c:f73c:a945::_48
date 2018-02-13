@@ -8,3 +8,4 @@ tech-c:             KTIMS-DN42
 mnt-by:             GOTROOT-MNT
 status:             ALLOCATED
 cidr:               fd1c:f73c:a945::/48
+source:             DN42

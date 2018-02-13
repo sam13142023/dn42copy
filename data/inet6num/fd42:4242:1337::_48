@@ -9,3 +9,4 @@ mnt-by:             PANKY-MNT
 nserver:            russia1.panky.dn42
 nserver:            singapore1.panky.dn42
 status:             ASSIGNED
+source:             DN42

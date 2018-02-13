@@ -9,3 +9,4 @@ nserver:            ns1.ixnet.dn42
 nserver:            ns2.ixnet.dn42
 status:             ASSIGNED
 cidr:               fdc9:9999:9999:9900::/64
+source:             DN42

@@ -8,3 +8,4 @@ tech-c:             FPLETZ-DN42
 mnt-by:             FPLETZ-MNT
 status:             ASSIGNED
 cidr:               fdef:ffc0:4fff::/48
+source:             ICVPN

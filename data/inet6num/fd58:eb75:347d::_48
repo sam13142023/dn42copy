@@ -9,3 +9,4 @@ nserver:            chero.hax404.dn42
 nserver:            froschschenkel.hax404.dn42
 status:             ASSIGNED
 cidr:               fd58:eb75:347d::/48
+source:             DN42

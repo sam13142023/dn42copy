@@ -7,3 +7,4 @@ tech-c:             DELTAMAN-DN42
 mnt-by:             DELTAMAN-MNT
 status:             ALLOCATED
 cidr:               fd1b:7f7d:dd55::/48
+source:             DN42

@@ -7,3 +7,4 @@ mnt-by:             LUPHYNET-MNT
 nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               fd42:8482:8432::/48
+source:             DN42

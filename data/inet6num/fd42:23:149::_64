@@ -10,3 +10,4 @@ nserver:            ns2.grmml.dn42
 nserver:            ns3.grmml.dn42
 status:             ASSIGNED
 cidr:               fd42:23:149::/64
+source:             DN42

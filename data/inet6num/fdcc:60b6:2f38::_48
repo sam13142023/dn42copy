@@ -7,3 +7,4 @@ tech-c:             SINCLAIR-DN42
 mnt-by:             FCON-MNT
 status:             ASSIGNED
 cidr:               fdcc:60b6:2f38::/48
+source:             DN42

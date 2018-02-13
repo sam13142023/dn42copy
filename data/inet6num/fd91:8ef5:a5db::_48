@@ -6,3 +6,4 @@ tech-c:             ELOKO-DN42
 mnt-by:             ELOKO-MNT
 status:             ASSIGNED
 cidr:               fd91:8ef5:a5db::/48
+source:             DN42

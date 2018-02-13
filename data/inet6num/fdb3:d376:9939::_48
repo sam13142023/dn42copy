@@ -9,3 +9,4 @@ tech-c:             FRITZ-DN42
 status:             ASSIGNED
 nserver:            ns.9.3.9.9.6.7.3.d.3.b.d.f.ip6.arpa 195.154.200.230 2001:bc8:3a03:100::
 nserver:            ns2.fritz.dn42
+source:             DN42

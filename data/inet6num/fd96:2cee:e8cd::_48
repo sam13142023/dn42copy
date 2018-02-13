@@ -8,3 +8,4 @@ mnt-by:             DAKNOB-MNT
 nserver:            ns1.daknob.dn42
 status:             ASSIGNED
 cidr:               fd96:2cee:e8cd::/48
+source:             DN42

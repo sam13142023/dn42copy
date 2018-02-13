@@ -9,3 +9,4 @@ nserver:            ns1.jmliber.dn42
 nserver:            ns2.jmliber.dn42
 status:             ASSIGNED
 cidr:               fd00:f100:fe00::/48
+source:             DN42
