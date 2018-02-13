@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.westkueste.g.nic.dn42 10.13.1.1
 nserver:            ns1.westkueste.g.nic.dn42 fd23:dead:beef::ff01
+source:             ICVPN

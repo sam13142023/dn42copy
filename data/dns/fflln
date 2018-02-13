@@ -5,3 +5,4 @@ tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.leichlingen.g.nic.dn42 10.21.3.1
+source:             ICVPN

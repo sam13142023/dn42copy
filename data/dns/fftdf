@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.troisdorf.g.nic.dn42 10.188.1.100
 nserver:            ns2.troisdorf.g.nic.dn42 10.188.1.23
+source:             ICVPN

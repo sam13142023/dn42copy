@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.amsterdam.g.nic.dn42 10.205.253.1
 nserver:            ns2.amsterdam.g.nic.dn42 10.205.253.2
+source:             ICVPN
