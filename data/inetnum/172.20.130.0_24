@@ -8,3 +8,4 @@ nserver:            NS2.DRATHIR.DN42
 nserver:            NS1.DRATHIR.DN42
 status:             ALLOCATED
 cidr:               172.20.130.0/24
+source:             DN42

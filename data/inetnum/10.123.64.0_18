@@ -5,3 +5,4 @@ status:             ALLOCATED
 cidr:               10.123.64.0/18
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.123.64.0/18 Network
+source:             ICVPN

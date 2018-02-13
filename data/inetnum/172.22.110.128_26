@@ -6,3 +6,4 @@ tech-c:             JULEZ-DN42
 mnt-by:             JULEZ-MNT
 status:             ASSIGNED
 cidr:               172.22.110.128/26
+source:             DN42

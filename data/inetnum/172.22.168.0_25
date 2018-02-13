@@ -7,3 +7,4 @@ tech-c:             YANG-DN42
 mnt-by:             YANG-MNT
 status:             ASSIGNED
 cidr:               172.22.168.0/25
+source:             DN42

@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.erzgebirge.g.nic.dn42
 cidr:               10.13.80.0/20
 netname:            Unnamed 10.13.80.0/20 Network
+source:             ICVPN

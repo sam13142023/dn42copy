@@ -10,3 +10,4 @@ nserver:            ns3.muensterland.g.nic.dn42
 nserver:            ns4.muensterland.g.nic.dn42
 cidr:               10.43.0.0/16
 netname:            Unnamed 10.43.0.0/16 Network
+source:             ICVPN

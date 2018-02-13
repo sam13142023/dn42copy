@@ -9,3 +9,4 @@ nserver:            ns2.flensburg.g.nic.dn42
 nserver:            ns3.flensburg.g.nic.dn42
 cidr:               10.129.0.0/16
 netname:            Unnamed 10.129.0.0/16 Network
+source:             ICVPN

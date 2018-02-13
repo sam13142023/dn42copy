@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.nordheide.g.nic.dn42
 cidr:               10.15.64.0/18
 netname:            Unnamed 10.15.64.0/18 Network
+source:             ICVPN

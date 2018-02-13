@@ -5,3 +5,4 @@ status:             ALLOCATED
 cidr:               10.24.0.0/20
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.24.0.0/20 Network
+source:             ICVPN

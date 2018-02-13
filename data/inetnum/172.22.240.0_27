@@ -9,3 +9,4 @@ nserver:            NS1.DUMMY.NET
 status:             ALLOCATED
 bgp-status:         ignore
 cidr:               172.22.240.0/27
+source:             DN42

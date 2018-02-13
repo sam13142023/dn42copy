@@ -12,3 +12,4 @@ nserver:            ns5.freiburg.g.nic.dn42
 nserver:            ns6.freiburg.g.nic.dn42
 cidr:               10.60.0.0/16
 netname:            Unnamed 10.60.0.0/16 Network
+source:             ICVPN

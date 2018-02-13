@@ -7,3 +7,4 @@ tech-c:             BPEETERS-DN42
 mnt-by:             BPEETERS-MNT
 nserver:            ns.peeters.dn42
 status:             ASSIGNED
+source:             DN42

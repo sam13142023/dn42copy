@@ -7,3 +7,4 @@ mnt-by:             BUNSEN-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.246.240/28
+source:             DN42

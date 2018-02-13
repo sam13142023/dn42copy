@@ -6,3 +6,4 @@ tech-c:             SPIN-DN42
 mnt-by:             SPIN-MNT
 status:             ASSIGNED
 cidr:               172.23.234.64/27
+source:             DN42

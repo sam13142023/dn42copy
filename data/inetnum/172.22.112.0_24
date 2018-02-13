@@ -7,3 +7,4 @@ tech-c:             PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 cidr:               172.22.112.0/24
+source:             DN42

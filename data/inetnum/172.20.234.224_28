@@ -10,3 +10,4 @@ nserver:            ns2.netclipse.dn42
 nserver:            ns3.netclipse.dn42
 status:             ASSIGNED
 cidr:               172.20.234.224/28
+source:             DN42

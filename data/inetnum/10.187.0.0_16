@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.nord.g.nic.dn42
 cidr:               10.187.0.0/16
 netname:            Unnamed 10.187.0.0/16 Network
+source:             ICVPN

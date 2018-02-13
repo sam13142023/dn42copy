@@ -9,3 +9,4 @@ nserver:            ns1.weiti.dn42
 nserver:            ns2.weiti.dn42
 status:             ASSIGNED PA
 cidr:               172.20.235.0/27
+source:             DN42

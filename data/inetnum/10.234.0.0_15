@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.kreisgt.g.nic.dn42
 cidr:               10.234.0.0/15
 netname:            Unnamed 10.234.0.0/15 Network
+source:             ICVPN

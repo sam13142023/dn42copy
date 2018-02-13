@@ -7,3 +7,4 @@ nserver:            ns1.euskirchen.g.nic.dn42
 cidr:               10.47.0.0/16
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.47.0.0/16 Network
+source:             ICVPN

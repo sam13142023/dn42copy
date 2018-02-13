@@ -8,3 +8,4 @@ mnt-by:             DATA-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.246.0/24
+source:             DN42

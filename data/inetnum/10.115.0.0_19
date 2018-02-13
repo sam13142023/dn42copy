@@ -11,3 +11,4 @@ nserver:            ns4.cuxhaven.g.nic.dn42
 nserver:            ns5.cuxhaven.g.nic.dn42
 cidr:               10.115.0.0/19
 netname:            Unnamed 10.115.0.0/19 Network
+source:             ICVPN

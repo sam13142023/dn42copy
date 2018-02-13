@@ -7,3 +7,4 @@ mnt-by:             TAL-MNT
 nserver:            ns.tal.dn42
 status:             ASSIGNED
 cidr:               172.20.227.240/28
+source:             DN42

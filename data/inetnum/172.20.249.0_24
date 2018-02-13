@@ -10,3 +10,4 @@ nserver:            ns2.weejits.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.249.0/24
+source:             DN42

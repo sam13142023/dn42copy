@@ -8,3 +8,4 @@ mnt-by:             FMAUNEKO-MNT
 nserver:            ns1.dissidence.dn42
 status:             ASSIGNED
 cidr:               172.21.125.224/27
+source:             DN42

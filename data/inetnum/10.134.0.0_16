@@ -9,3 +9,4 @@ nserver:            ns2.uelzen.g.nic.dn42
 nserver:            ns3.uelzen.g.nic.dn42
 cidr:               10.134.0.0/16
 netname:            Unnamed 10.134.0.0/16 Network
+source:             ICVPN

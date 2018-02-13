@@ -8,3 +8,4 @@ tech-c:             FOERTEL-DN42
 mnt-by:             FOERTEL-MNT
 status:             ASSIGNED
 cidr:               10.65.0.0/20
+source:             ICVPN

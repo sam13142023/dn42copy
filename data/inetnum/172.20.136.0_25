@@ -8,3 +8,4 @@ mnt-by:             SPLITICE-MNT
 nserver:            ns1.spliticenet.dn42
 status:             ALLOCATED PI
 cidr:               172.20.136.0/25
+source:             DN42
