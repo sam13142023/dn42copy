@@ -19,3 +19,4 @@ mp-export:          afi ipv6 from AS76198 announce { fc00::/7^+ }
 admin-c:            FRITZ-DN42
 tech-c:             FRITZ-DN42
 mnt-by:             FRITZ-MNT
+source:             DN42
