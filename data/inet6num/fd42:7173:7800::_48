@@ -9,3 +9,4 @@ nserver:            deimos.qsx.dn42
 nserver:            blackhole.qsx.dn42
 status:             ALLOCATED
 cidr:               fd42:7173:7800::/48
+source:             DN42

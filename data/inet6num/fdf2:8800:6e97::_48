@@ -10,3 +10,4 @@ nserver:            ns1.kyriasis.com
 nserver:            ns2.kyriasis.com
 status:             ASSIGNED PI
 cidr:               fdf2:8800:6e97::/48
+source:             DN42

@@ -8,3 +8,4 @@ mnt-by:             ALICE-DN42-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.243.0/24
+source:             DN42

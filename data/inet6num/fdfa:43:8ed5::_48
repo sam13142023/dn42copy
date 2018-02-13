@@ -7,3 +7,4 @@ tech-c:             JUE-DN42
 mnt-by:             JUE-MNT
 status:             ALLOCATED
 cidr:               fdfa:43:8ed5::/48
+source:             DN42

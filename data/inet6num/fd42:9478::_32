@@ -7,3 +7,4 @@ mnt-by:             SAPINET-MNT
 nserver:            alpha.ns.sapinet.dn42
 status:             ASSIGNED
 cidr:               fd42:9478::/32
+source:             DN42

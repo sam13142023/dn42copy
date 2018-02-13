@@ -9,3 +9,4 @@ nserver:            ns2.fulda.g.nic.dn42
 nserver:            ns3.fulda.g.nic.dn42
 cidr:               10.185.0.0/16
 netname:            Unnamed 10.185.0.0/16 Network
+source:             ICVPN

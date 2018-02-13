@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.luxembourg.g.nic.dn42
 cidr:               10.24.128.0/18
 netname:            Unnamed 10.24.128.0/18 Network
+source:             ICVPN

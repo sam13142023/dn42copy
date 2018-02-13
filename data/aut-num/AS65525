@@ -7,3 +7,4 @@ remarks:            * data moved to https://github.com/freifunk/icvpn-meta/blob/
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
+source:             ICVPN

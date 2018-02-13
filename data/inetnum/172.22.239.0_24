@@ -8,3 +8,4 @@ status:             ASSIGNED
 nserver:            vm.krautspace.dn42 172.22.239.1
 cidr:               172.22.239.0/24
 mnt-by:             DUMMY-MNT
+source:             DN42

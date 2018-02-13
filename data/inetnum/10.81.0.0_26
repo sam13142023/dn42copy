@@ -8,3 +8,4 @@ mnt-by:             OWNHOST-MNT
 nserver:            node1.ownhost.cz
 status:             ALLOCATED PI
 cidr:               10.81.0.0/26
+source:             ICVPN

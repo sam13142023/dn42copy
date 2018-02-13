@@ -7,3 +7,4 @@ tech-c:             ALICEWL-DN42
 status:             ASSIGNED
 mnt-by:             ALICE-DN42-MNT
 cidr:               172.22.43.0/24
+source:             DN42

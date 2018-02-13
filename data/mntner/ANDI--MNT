@@ -4,3 +4,4 @@ auth:               pgp-fingerprint D081B7F526AF6686F02FE957E432E410B5E48C86
 admin-c:            ANDI-DN42
 tech-c:             ANDI-DN42
 mnt-by:             ANDI--MNT
+source:             DN42

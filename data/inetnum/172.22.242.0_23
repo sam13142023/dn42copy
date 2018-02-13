@@ -7,3 +7,4 @@ mnt-by:             JTROYBAILEY-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.242.0/23
+source:             DN42

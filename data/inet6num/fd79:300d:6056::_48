@@ -8,3 +8,4 @@ nserver:            ns1.evenet.dn42
 nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               fd79:300d:6056::/48
+source:             DN42

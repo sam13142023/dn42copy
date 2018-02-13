@@ -7,3 +7,4 @@ tech-c:             STREHI-DN42
 status:             ASSIGNED
 mnt-by:             STREHI-DN42-MNT
 cidr:               172.22.38.0/24
+source:             DN42

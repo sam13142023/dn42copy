@@ -7,3 +7,4 @@ mnt-by:             LOCONOX-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.245.192/29
+source:             DN42

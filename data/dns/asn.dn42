@@ -4,3 +4,4 @@ tech-c:             KTIMS-DN42
 mnt-by:             GOTROOT-MNT
 nserver:            ns1.gotroot.dn42
 status:             EVALPEND 1503916611
+source:             DN42

@@ -10,3 +10,4 @@ nserver:            ns2.nixnodes.dn42
 nserver:            ns3.nixnodes.dn42
 status:             ASSIGNED
 cidr:               172.23.4.0/24
+source:             DN42

@@ -15,3 +15,4 @@ tinc-file:
                     Address = poum.tk
                     Port = 23752
 mnt-by:             DUMMY-MNT
+source:             DN42

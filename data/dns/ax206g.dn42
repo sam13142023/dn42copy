@@ -10,3 +10,4 @@ nserver:            ns2.ax206g.dn42 fd42:bbbb:cafe:53::53
 nserver:            ns.ax206g.dn42 fd42:bbbb:c0de::53
 nserver:            ns.ax206g.dn42 172.20.45.32
 status:             CONNECT
+source:             DN42

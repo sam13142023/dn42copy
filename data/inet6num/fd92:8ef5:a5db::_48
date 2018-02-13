@@ -7,3 +7,4 @@ mnt-by:             TURLUX-MNT
 nserver:            ns1.turlux.dn42
 status:             ASSIGNED
 cidr:               fd92:8ef5:a5db::/48
+source:             DN42

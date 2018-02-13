@@ -8,3 +8,4 @@ mnt-by:             VALORAN-MNT
 nserver:            ns2.evenet.dn42
 status:             ALLOCATED
 cidr:               fd42:c0de:3a2f::/48
+source:             DN42

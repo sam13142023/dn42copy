@@ -8,3 +8,4 @@ nserver:            ns1.harz.g.nic.dn42 10.7.0.2
 nserver:            ns2.harz.g.nic.dn42 10.7.0.10
 nserver:            ns1.harz.g.nic.dn42 fd0e:8db3:d50a::2
 nserver:            ns2.harz.g.nic.dn42 fd0e:8db3:d50a::100
+source:             ICVPN

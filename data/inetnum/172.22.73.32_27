@@ -7,3 +7,4 @@ tech-c:             ALIANSE77-DN42
 mnt-by:             ALIANSE77-MNT
 status:             ALLOCATED
 cidr:               172.22.73.32/27
+source:             DN42

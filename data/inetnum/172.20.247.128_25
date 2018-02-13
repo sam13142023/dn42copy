@@ -6,3 +6,4 @@ mnt-by:             SPECY909-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.247.128/25
+source:             DN42

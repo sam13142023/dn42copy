@@ -8,3 +8,4 @@ mnt-by:             DELTAMAN-MNT
 status:             ALLOCATED
 nserver:            ns1.deltaman.dn42
 cidr:               172.23.189.0/25
+source:             DN42

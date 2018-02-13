@@ -6,3 +6,4 @@ admin-c:            NIXNODES-DN42
 tech-c:             NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 remarks:            pin-sha256:N8dKYAMluDYOnFLWWi2hrBg4CZ5loQD0SjllfNh6eTo=
+source:             DN42

@@ -8,3 +8,4 @@ nserver:            ns2.meerane.g.nic.dn42
 cidr:               10.11.128.0/18
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.11.128.0/18 Network
+source:             ICVPN

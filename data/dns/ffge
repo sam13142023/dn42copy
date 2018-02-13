@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.gelsenkirchen.g.nic.dn42 10.28.0.247
 nserver:            ns1.gelsenkirchen.g.nic.dn42 fda0:747e:ab29:209:ff07::1
+source:             ICVPN

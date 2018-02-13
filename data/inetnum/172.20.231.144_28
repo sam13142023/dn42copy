@@ -7,3 +7,4 @@ tech-c:             LITTLEFOX-DN42
 mnt-by:             LFNET-MNT
 status:             ASSIGNED
 cidr:               172.20.231.144/28
+source:             DN42

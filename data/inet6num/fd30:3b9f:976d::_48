@@ -7,3 +7,4 @@ tech-c:             YEGORG-DN42
 mnt-by:             YEGORG-MNT
 status:             ALLOCATED
 cidr:               fd30:3b9f:976d::/48
+source:             DN42

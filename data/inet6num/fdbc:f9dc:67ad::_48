@@ -8,3 +8,4 @@ mnt-by:             LANTIAN-MNT
 nserver:            ns1.lantian.pub
 status:             ASSIGNED
 cidr:               fdbc:f9dc:67ad::/48
+source:             DN42

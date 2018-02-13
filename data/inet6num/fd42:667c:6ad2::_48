@@ -6,3 +6,4 @@ tech-c:             SAMODID-DN42
 mnt-by:             SAMODID-MNT
 status:             ASSIGNED
 cidr:               fd42:667c:6ad2::/48
+source:             DN42

@@ -8,3 +8,4 @@ tech-c:             BODEMS-DN42
 mnt-by:             BODEMS-MNT
 status:             ASSIGNED
 cidr:               172.23.45.0/24
+source:             DN42

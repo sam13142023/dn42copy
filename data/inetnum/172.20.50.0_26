@@ -6,3 +6,4 @@ tech-c:             KRSTN-DN42
 mnt-by:             KRSTN-MNT
 status:             ASSIGNED
 nserver:            ns1.krstn.dn42
+source:             DN42

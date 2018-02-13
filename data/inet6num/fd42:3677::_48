@@ -6,3 +6,4 @@ tech-c:             ADNIDOR-DN42
 mnt-by:             ADNIDOR-MNT
 status:             ASSIGNED
 cidr:               fd42:3677::/48
+source:             DN42

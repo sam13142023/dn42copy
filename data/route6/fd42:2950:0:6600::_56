@@ -1,0 +1,6 @@
+route6:             fd42:2950:0:6600::/56
+descr:              SIS-DN42-PHOBOS
+remarks:            fugly NPTv6
+origin:             AS4242422950
+mnt-by:             SIS-ORG-MNT
+source:             DN42

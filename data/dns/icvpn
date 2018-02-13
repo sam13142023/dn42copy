@@ -7,3 +7,4 @@ status:             CONNECT
 nserver:            ns1.meta.g.nic.dn42 10.169.1.1
 nserver:            ns2.meta.g.nic.dn42 10.255.128.53
 nserver:            ns1.meta.g.nic.dn42 fec0::a:cf:0:8a
+source:             ICVPN

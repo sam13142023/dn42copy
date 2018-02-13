@@ -8,3 +8,4 @@ nserver:            ns1.darmstadt.g.nic.dn42
 nserver:            ns2.darmstadt.g.nic.dn42
 cidr:               10.223.0.0/16
 netname:            Unnamed 10.223.0.0/16 Network
+source:             ICVPN

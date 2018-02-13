@@ -5,3 +5,4 @@ remarks:            * This resource was generated based on data from http://wiki
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
+source:             ICVPN

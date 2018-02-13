@@ -5,3 +5,4 @@ tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.frankfurt.g.nic.dn42 10.126.255.14
+source:             ICVPN

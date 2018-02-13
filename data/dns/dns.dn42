@@ -9,3 +9,4 @@ nserver:            ns1.dns.dn42 fd19:e0a6:1295::1
 nserver:            ns2.dns.dn42 fd19:e0a6:1295::3
 remarks:            DNS hosted by dns.dn42
 status:             EVALPEND 1503916277
+source:             DN42

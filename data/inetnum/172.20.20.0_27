@@ -9,3 +9,4 @@ mnt-by:             STARCLOUD-MNT
 nserver:            rdns1.starcloud.dn42
 nserver:            rdns2.starcloud.dn42
 status:             ASSIGNED
+source:             DN42

@@ -14,3 +14,4 @@ mnt-by:             HEXA-MNT
 status:             ALLOCATED
 nserver:            ns1.nixnodes.dn42
 nserver:            ns2.nixnodes.dn42
+source:             DN42

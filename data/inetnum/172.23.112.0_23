@@ -9,3 +9,4 @@ nserver:            dns1.sigterm.dn42
 nserver:            dns2.sigterm.dn42
 cidr:               172.23.112.0/23
 mnt-by:             DUMMY-MNT
+source:             DN42

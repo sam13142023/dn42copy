@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.chaosvpn.g.nic.dn42 172.31.0.5
 nserver:            ns2.chaosvpn.g.nic.dn42 172.31.255.53
+source:             CHAOSVPN

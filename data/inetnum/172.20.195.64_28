@@ -6,3 +6,4 @@ tech-c:             NEKO-DN42
 mnt-by:             NEKO-MNT
 status:             ASSIGNED
 cidr:               172.20.195.64/28
+source:             DN42

@@ -341,6 +341,7 @@ def __index_files(path, use_file):
         "role/":         SCHEMA_NAMESPACE + "role",
         "tinc-key/":     SCHEMA_NAMESPACE + "tinc-key",
         "tinc-keyset/":  SCHEMA_NAMESPACE + "tinc-keyset",
+        "registry/":     SCHEMA_NAMESPACE + "registry",
         "schema/":       SCHEMA_NAMESPACE + "schema",
     }
 
@@ -600,7 +601,7 @@ def test_policy(obj_type, name, mntner):
         mask = "%03d" %(mask)
 
         log.info([Lnet, Hnet, mask])
-        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"], 
+        lis = find(["inetnum","inet6num","policy","@netlevel","mnt-by","mnt-lower"],
                    {"@type": "net", "@netmin": "le=" + Lnet, "@netmax": "ge=" + Hnet, "@netmask": "le=" + mask})
         log.debug(lis)
 

@@ -7,3 +7,4 @@ nserver:            ns1.chuljin.dn42
 status:             ALLOCATED
 cidr:               fd98:abd0:29cc::/48
 netname:            Unnamed fd98:abd0:29cc::/48 Network
+source:             DN42

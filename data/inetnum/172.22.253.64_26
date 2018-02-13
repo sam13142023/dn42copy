@@ -9,3 +9,4 @@ nserver:            ns0.ceriseland.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.253.64/26
+source:             DN42

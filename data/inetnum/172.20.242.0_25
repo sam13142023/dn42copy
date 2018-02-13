@@ -6,3 +6,4 @@ tech-c:             W0H-DN42
 mnt-by:             W0H-MNT
 status:             ASSIGNED
 bgp-status:         ignore
+source:             DN42

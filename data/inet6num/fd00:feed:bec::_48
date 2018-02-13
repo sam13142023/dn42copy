@@ -7,3 +7,4 @@ tech-c:             KOODA-DN42
 mnt-by:             KOODA-MNT
 status:             ASSIGNED
 cidr:               fd00:feed:bec::/48
+source:             DN42

@@ -16,3 +16,4 @@ tinc-file:
                     GSrO9t7mKa6yEtLDBFbqKDAgwgsxh4l9EDqrMwIVSYbfcWLYgNIOpEsCAwEAAQ==
                     -----END RSA PUBLIC KEY-----
 mnt-by:             DUMMY-MNT
+source:             DN42

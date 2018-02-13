@@ -7,3 +7,4 @@ tech-c:             MAJOR-DN42
 mnt-by:             MAJOR-MNT
 status:             ASSIGNED
 cidr:               fd42:ccc:fd::/48
+source:             DN42

@@ -8,3 +8,4 @@ mnt-by:             GERM86-MNT
 nserver:            namesrv.germ86.dn42
 status:             ASSIGNED
 cidr:               fd0d:7209:7061::/60
+source:             DN42

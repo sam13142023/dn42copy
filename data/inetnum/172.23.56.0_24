@@ -9,3 +9,4 @@ status:             ALLOCATED
 nserver:            ns1.br.dn42 172.23.56.1
 nserver:            ns2.br.dn42 172.23.56.3
 nserver:            ns3.br.dn42 172.23.56.4
+source:             DN42

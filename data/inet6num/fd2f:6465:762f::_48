@@ -8,3 +8,4 @@ status:             ASSIGNED
 nserver:            ns1.eastbit.dn42
 cidr:               fd2f:6465:762f::/48
 mnt-by:             DUMMY-MNT
+source:             DN42

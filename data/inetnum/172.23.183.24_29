@@ -8,3 +8,4 @@ mnt-by:             TRUNET-MNT
 nserver:            ns1.trunet.dn42
 status:             ASSIGNED
 cidr:               172.23.183.24/29
+source:             DN42

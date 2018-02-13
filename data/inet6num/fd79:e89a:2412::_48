@@ -8,3 +8,4 @@ mnt-by:             FF02-MNT
 nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               fd79:e89a:2412::/48
+source:             DN42

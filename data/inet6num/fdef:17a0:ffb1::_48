@@ -7,3 +7,4 @@ tech-c:             BODEMS-DN42
 mnt-by:             BODEMS-MNT
 status:             ASSIGNED
 cidr:               fdef:17a0:ffb1::/48
+source:             ICVPN

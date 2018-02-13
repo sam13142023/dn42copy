@@ -5,3 +5,4 @@ nic-hdl:            NIHILUS-DN42
 nick:               nihilus
 nick:               nobody
 mnt-by:             DUMMY-MNT
+source:             DN42

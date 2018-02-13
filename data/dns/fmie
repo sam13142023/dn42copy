@@ -1,8 +1,0 @@
-domain:             fmie
-remarks:            ** ireland
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             CONNECT
-nserver:            ns1.ireland.g.nic.dn42 2001:678:358::ffff
-nserver:            ns2.ireland.g.nic.dn42 2001:678:358::fffe
