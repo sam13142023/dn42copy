@@ -1,8 +1,8 @@
 schema:             REGISTRY-SCHEMA
 ref:                dn42.registry
 key:                registry   required  single    primary schema
-key:                url        required  multiple  
-key:                descr      optional  multiple  
+key:                url        required  multiple
+key:                descr      optional  multiple
 key:                mnt-by     required  multiple  lookup=dn42.mntner
 key:                admin-c    optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c     optional  multiple  lookup=dn42.person,dn42.role
