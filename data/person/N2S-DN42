@@ -6,3 +6,4 @@ nic-hdl:            N2S-DN42
 mnt-by:             N2S-MNT
 remarks:            Open for every peeering requests
 remarks:            OpenVPN is preferred but IPSec/L2TP etc is also welcome
+source:             DN42
