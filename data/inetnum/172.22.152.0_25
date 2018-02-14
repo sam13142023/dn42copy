@@ -4,6 +4,7 @@ netname:            ALLO's dn42 network
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
 status:             ASSIGNED
+mnt-by:				ALLO-MNT
 cidr:               172.22.152.0/25
 mnt-by:             DUMMY-MNT
 source:             DN42

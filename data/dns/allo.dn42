@@ -4,5 +4,4 @@ nserver:            ns.allo.dn42 fd10:1074:41f6::1
 status:             EVALPEND 1503915501
 admin-c:            ALLO-DN42
 tech-c:             ALLO-DN42
-mnt-by:             DUMMY-MNT
-source:             DN42
+mnt-by:				ALLO-MNT
