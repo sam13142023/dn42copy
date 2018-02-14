@@ -1,5 +1,5 @@
 route:              172.23.119.176/28
-descr:              SIS-DN42-VPN-1
+descr:              SIS-DN42-INET4-VPN1
 origin:             AS4242422950
-mnt-by:             SIS-ORG-MNT
+mnt-by:             SIS-MNT
 source:             DN42

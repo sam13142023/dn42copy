@@ -1,5 +1,5 @@
-route:              172.23.38.160/27
-descr:              SIS-DN42-INET4-LAB1
+route6:             fd42:2950:201::/48
+descr:              SIS-DN42-INET6-BLK1 route
 origin:             AS4242422950
 mnt-by:             SIS-MNT
 source:             DN42
