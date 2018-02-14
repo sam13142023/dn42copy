@@ -1,4 +1,4 @@
-as-block:           AS76100 - AS76199
+as-block:           AS76100-AS76199
 descr:              Legacy dn42 ASN block
 remarks:            This range was never intented to be used as private ASN
 remarks:            space by IANA.  Rather, it is part of a larger block of
