@@ -10,4 +10,5 @@ key:                inet-cidr   optional  single    lookup=dn42.inetnum
 key:                descr       optional  single
 key:                remarks     optional  multiple
 key:                source      required  single    lookup=dn42.registry
+key:                pingable    optional  multiple
 mnt-by:             DN42-MNT

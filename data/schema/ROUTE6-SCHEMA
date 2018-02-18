@@ -9,4 +9,5 @@ key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
 key:                descr       optional  multiple
 key:                remarks     optional  multiple
 key:                source      required  single    lookup=dn42.registry
+key:                pingable    optional  multiple
 mnt-by:             DN42-MNT
