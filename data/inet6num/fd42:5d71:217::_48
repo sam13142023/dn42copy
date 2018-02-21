@@ -1,9 +1,9 @@
 inet6num:           fd42:5d71:0217:0000:0000:0000:0000:0000 - fd42:5d71:0217:ffff:ffff:ffff:ffff:ffff
-netname:            JRB0001-INET6-0
+netname:            JRB0001 - Home Network
 country:            CH
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
-status:             ASSIGNED
+status:             ASSIGNED PA
 cidr:               fd42:5d71:217::/48
 source:             DN42
