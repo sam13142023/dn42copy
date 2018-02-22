@@ -7,4 +7,4 @@ tech-c:             NAZCO-DN42
 mnt-by:             NAZCO-MNT
 status:             ASSIGNED
 cidr:               fd42:23:138::/48
-source:             DN42
+source:             ICVPN
