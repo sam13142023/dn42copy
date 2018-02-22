@@ -6,3 +6,4 @@ tech-c:             FNORD-DN42
 mnt-by:             FNORD-MNT
 status:             ASSIGNED
 cidr:               fdbc:14ef:89dc::/48
+source:             DN42

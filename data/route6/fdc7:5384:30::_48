@@ -1,4 +1,5 @@
-route:              fdc7:5384:30::/48
+route6:             fdc7:5384:30::/48
 origin:             AS65043
 mnt-by:             FF3L-MNT
 mnt-by:             KPANIC-MNT
+source:             ICVPN

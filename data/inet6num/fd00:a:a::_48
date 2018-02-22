@@ -8,3 +8,4 @@ mnt-by:             CJR-MNT
 nserver:            ns1.cjrnet.dn42
 status:             ASSIGNED
 cidr:               fd00:a:a::/48
+source:             DN42

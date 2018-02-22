@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.nord.g.nic.dn42 10.187.1.1
 nserver:            ns1.nord.g.nic.dn42 fd42:eb49:c0b5:4242::fd00
+source:             ICVPN

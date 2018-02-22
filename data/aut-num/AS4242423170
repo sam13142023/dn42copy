@@ -4,3 +4,4 @@ descr:              The first AS number for gibbons (dot) io.
 admin-c:            GIO-DN42
 tech-c:             GIO-DN42
 mnt-by:             GIO-MNT
+source:             DN42

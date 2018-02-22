@@ -8,3 +8,4 @@ mnt-by:             GIN42-MNT
 nserver:            ns1.jin42.de
 status:             ASSIGNED
 cidr:               172.23.43.16/29
+source:             DN42

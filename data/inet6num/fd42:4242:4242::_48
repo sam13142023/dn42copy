@@ -9,3 +9,4 @@ mnt-by:             MOD-MNT
 nserver:            v6.mod.net.moderntld.com
 status:             ASSIGNED
 cidr:               fd42:4242:4242::/48
+source:             DN42

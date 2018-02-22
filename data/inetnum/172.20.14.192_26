@@ -8,3 +8,4 @@ mnt-by:             GOTROOT-MNT
 nserver:            ns1.gotroot.dn42 172.20.14.253
 status:             ALLOCATED
 cidr:               172.20.14.192/26
+source:             DN42

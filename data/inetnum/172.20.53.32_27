@@ -7,3 +7,4 @@ mnt-by:             OO11-MNT
 nserver:            ns1.evenet.dn42
 nserver:            ns2.evenet.dn42
 status:             ASSIGNED
+source:             DN42

@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.helgoland.g.nic.dn42 10.112.1.2
 nserver:            ns1.helgoland.g.nic.dn42 2a03:2267::102
+source:             ICVPN

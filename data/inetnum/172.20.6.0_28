@@ -7,3 +7,4 @@ tech-c:             BEN-DN42
 mnt-by:             BEN-MNT
 status:             ASSIGNED
 cidr:               172.20.6.0/28
+source:             DN42

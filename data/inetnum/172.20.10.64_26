@@ -1,9 +1,0 @@
-inetnum:            172.20.10.64 - 172.20.10.127
-netname:            BYRN-DN42
-descr:              Connect Hosts and VMs
-country:            US
-admin-c:            BYRN-DN42
-tech-c:             BYRN-DN42
-mnt-by:             BYRN-MNT
-status:             ALLOCATED
-cidr:               172.20.10.64/26

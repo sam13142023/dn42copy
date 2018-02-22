@@ -8,3 +8,4 @@ mnt-by:             NAZCO-MNT
 nserver:            ns1.nazco.dn42
 status:             ASSIGNED
 cidr:               172.23.138.0/23
+source:             DN42

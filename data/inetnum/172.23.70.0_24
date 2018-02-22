@@ -1,9 +1,0 @@
-inetnum:            172.23.70.0 - 172.23.70.255
-descr:              JaXX-Slice1
-country:            FR
-admin-c:            JAXX-DN42
-tech-c:             JAXX-DN42
-mnt-by:             JAXX-MNT
-status:             ALLOCATED
-cidr:               172.23.70.0/24
-netname:            Unnamed 172.23.70.0/24 Network

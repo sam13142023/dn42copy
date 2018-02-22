@@ -7,3 +7,4 @@ mnt-by:             SOMNET-MNT
 nserver:            ns1.somnet.dn42
 status:             ASSIGNED
 cidr:               172.20.33.0/24
+source:             DN42

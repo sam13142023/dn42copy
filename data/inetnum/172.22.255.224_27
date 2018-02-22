@@ -7,3 +7,4 @@ mnt-by:             LUC-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.255.224/27
+source:             DN42

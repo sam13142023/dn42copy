@@ -1,9 +1,0 @@
-inetnum:            172.23.44.0 - 172.23.44.255
-netname:            RH-NETWORK
-descr:              RMLH Network
-country:            GB
-admin-c:            RH-DN42
-tech-c:             RH-DN42
-mnt-by:             RMLH-MNT
-status:             ASSIGNED
-cidr:               172.23.44.0/24

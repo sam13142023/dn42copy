@@ -5,3 +5,4 @@ tech-c:             OPOTONIL-DN42
 mnt-by:             LOCALNET-MNT
 nserver:            ns1.localnet.dn42 172.23.12.50
 status:             EVALPEND 1499768958
+source:             DN42

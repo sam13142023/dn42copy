@@ -1,0 +1,8 @@
+domain:             vbox.dn42
+admin-c:            VBOX-DN42
+tech-c:             VBOX-DN42
+mnt-by:             VBOX-MNT
+nserver:            ns1.vbox.dn42
+nserver:            ns2.vbox.dn42
+status:             OFFLINE
+source:             DN42

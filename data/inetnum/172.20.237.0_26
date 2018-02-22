@@ -8,3 +8,4 @@ mnt-by:             AURORA-MNT
 nserver:            ns.aurora.dn42
 status:             ASSIGNED
 cidr:               172.20.237.0/26
+source:             DN42

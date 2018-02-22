@@ -9,3 +9,4 @@ nserver:            ns1.splitter.dn42 fdef:27db:3be::111
 nserver:            ns2.splitter.dn42 fdef:27db:3be::222
 status:             ALLOCATED
 cidr:               fdef:27db:3be::/48
+source:             DN42

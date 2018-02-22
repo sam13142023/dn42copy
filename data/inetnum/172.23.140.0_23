@@ -8,3 +8,4 @@ tech-c:             SODRE-DN42
 mnt-by:             SODRE-MNT
 status:             ASSIGNED
 cidr:               172.23.140.0/23
+source:             DN42

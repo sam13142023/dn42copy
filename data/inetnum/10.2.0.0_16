@@ -11,3 +11,4 @@ nserver:            ns4.hannover.g.nic.dn42
 nserver:            ns5.hannover.g.nic.dn42
 cidr:               10.2.0.0/16
 netname:            Unnamed 10.2.0.0/16 Network
+source:             ICVPN

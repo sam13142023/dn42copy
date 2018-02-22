@@ -8,3 +8,4 @@ status:             ASSIGNED
 nserver:            ns.allo.dn42
 cidr:               fd10:1074:41f6::/48
 mnt-by:             DUMMY-MNT
+source:             DN42

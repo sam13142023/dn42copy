@@ -7,3 +7,4 @@ tech-c:             HFULLER-DN42
 mnt-by:             HFULLER-MNT
 status:             ASSIGNED
 cidr:               172.20.164.64/27
+source:             DN42

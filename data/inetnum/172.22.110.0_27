@@ -8,3 +8,4 @@ tech-c:             GERGER-DN42
 mnt-by:             GERGERNET-MNT
 status:             ASSIGNED
 cidr:               172.22.110.0/27
+source:             DN42

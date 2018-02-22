@@ -6,3 +6,4 @@ tech-c:             D3MATT-DN42
 mnt-by:             D3NETWORK-MNT
 status:             ASSIGNED
 cidr:               fd42:d3ca::/48
+source:             DN42

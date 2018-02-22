@@ -1,4 +1,5 @@
-as-block:           AS64512 - AS65534
+as-block:           AS64512-AS65534
 descr:              Private ASN block
 mnt-by:             DUMMY-MNT
 policy:             closed
+source:             DN42

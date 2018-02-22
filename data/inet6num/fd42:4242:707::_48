@@ -8,3 +8,4 @@ mnt-by:             MIAU-MNT
 nserver:            ns1.miau.dn42
 status:             ASSIGNED
 cidr:               fd42:4242:707::/48
+source:             DN42

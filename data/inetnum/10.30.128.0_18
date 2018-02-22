@@ -9,3 +9,4 @@ nserver:            ns2.tuttlingen.g.nic.dn42
 nserver:            ns3.tuttlingen.g.nic.dn42
 cidr:               10.30.128.0/18
 netname:            Unnamed 10.30.128.0/18 Network
+source:             ICVPN

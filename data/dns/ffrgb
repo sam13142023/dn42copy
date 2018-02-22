@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.regensburg.g.nic.dn42 10.90.0.11
 nserver:            ns1.regensburg.g.nic.dn42 fdef:f00f:1337:cafe::11
+source:             ICVPN

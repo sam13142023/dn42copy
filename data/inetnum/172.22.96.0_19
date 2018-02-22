@@ -8,3 +8,4 @@ mnt-by:             PRAUSCHER-MNT
 status:             ALLOCATED
 bgp-status:         ignore
 cidr:               172.22.96.0/19
+source:             DN42

@@ -1,9 +1,0 @@
-inetnum:            172.23.135.128 - 172.23.135.143
-netname:            SWORDARMOR-GRIFON-PEERINGS
-descr:              Grifon (AS204092), Rennes
-country:            FR
-admin-c:            ALARIG-DN42
-tech-c:             ALARIG-DN42
-mnt-by:             ALARIG-MNT
-status:             ASSIGNED
-cidr:               172.23.135.128/28

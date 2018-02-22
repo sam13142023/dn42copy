@@ -7,3 +7,4 @@ nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               172.20.14.128/27
 netname:            evennet network
+source:             DN42

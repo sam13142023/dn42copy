@@ -7,3 +7,4 @@ tech-c:             SKJOLDR-DN42
 mnt-by:             SKJOLDR-MNT
 status:             ASSIGNED
 cidr:               172.20.228.64/28
+source:             DN42

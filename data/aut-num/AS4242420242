@@ -3,3 +3,4 @@ as-name:            FOX-AS
 admin-c:            A-DN42
 tech-c:             A-DN42
 mnt-by:             FOX-MNT
+source:             DN42

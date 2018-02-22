@@ -8,3 +8,4 @@ tech-c:             CHALLENE-DN42
 mnt-by:             CHALLENE-MNT
 status:             ALLOCATED
 cidr:               172.20.59.0/26
+source:             DN42

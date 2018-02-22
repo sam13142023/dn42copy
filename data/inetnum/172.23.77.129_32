@@ -1,9 +1,0 @@
-inetnum:            172.23.77.129 - 172.23.77.129
-netname:            NOOKERMAN-NET
-country:            TH
-admin-c:            NKM-DN42
-tech-c:             NKM-DN42
-mnt-by:             NKM-MNT
-nserver:            ns1.nkm.com
-status:             ASSIGNED
-cidr:               172.23.77.129/32

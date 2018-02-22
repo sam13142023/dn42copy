@@ -7,3 +7,4 @@ tech-c:             ALJAMA-DN42
 mnt-by:             RAPID-NINJA-MNT
 status:             ASSIGNED PA
 cidr:               fd23:9cd1:20a5::/48
+source:             DN42

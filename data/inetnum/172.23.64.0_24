@@ -8,3 +8,4 @@ mnt-by:             ERI-MNT
 nserver:            ns.chelnok.dn42 172.23.64.3
 status:             ASSIGNED
 cidr:               172.23.64.0/24
+source:             DN42

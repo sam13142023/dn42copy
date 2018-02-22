@@ -9,3 +9,4 @@ nserver:            ns1.mwd.dn42 172.23.219.10
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.249.0/24
+source:             DN42

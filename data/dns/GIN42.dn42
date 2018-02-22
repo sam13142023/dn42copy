@@ -4,3 +4,4 @@ tech-c:             GIN42-DN42
 mnt-by:             GIN42-MNT
 nserver:            ns1.jin42.de
 status:             EVALPEND 1495621441
+source:             DN42

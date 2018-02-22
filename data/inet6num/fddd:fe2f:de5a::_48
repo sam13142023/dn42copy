@@ -9,3 +9,4 @@ nserver:            ns0.jmt.dn42
 nserver:            ns1.jmt.dn42
 status:             ASSIGNED
 cidr:               fddd:fe2f:de5a::/48
+source:             DN42

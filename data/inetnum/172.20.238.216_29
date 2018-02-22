@@ -1,8 +1,0 @@
-inetnum:            172.20.238.216 - 172.20.238.223
-netname:            DEUT-NET-IPV4
-country:            FR
-admin-c:            DEUT-DN42
-tech-c:             DEUT-DN42
-mnt-by:             DEUT-MNT
-status:             ALLOCATED PI
-cidr:               172.20.238.216/29

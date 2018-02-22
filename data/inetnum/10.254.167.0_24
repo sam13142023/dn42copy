@@ -9,3 +9,4 @@ nserver:            ns2.nixnodes.dn42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
 cidr:               10.254.167.0/24
+source:             ICVPN

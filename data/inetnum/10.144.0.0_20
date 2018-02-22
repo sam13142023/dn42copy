@@ -7,3 +7,4 @@ nserver:            ns1.badoldesloe.g.nic.dn42
 cidr:               10.144.0.0/20
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.144.0.0/20 Network
+source:             ICVPN

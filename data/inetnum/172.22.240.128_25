@@ -10,3 +10,4 @@ admin-c:            FERGUSON-DN42
 tech-c:             FERGUSON-DN42
 mnt-by:             JONATHAN-FERGUSON-MNT
 bgp-status:         ignore
+source:             DN42

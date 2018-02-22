@@ -8,3 +8,4 @@ status:             ALLOCATED
 nserver:            ns.gbe.dn42
 bgp-status:         ignore
 cidr:               172.22.255.64/27
+source:             DN42

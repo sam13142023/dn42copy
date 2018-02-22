@@ -1,9 +1,0 @@
-inetnum:            172.22.139.128-172.22.139.255
-netname:            DOVY-LT-NET
-nserver:            ns1.kingof.dn42 172.22.115.4
-nserver:            ns2.kingof.dn42 172.22.115.5
-admin-c:            DOVY-DN42
-tech-c:             DOVY-DN42
-mnt-by:             DOVY-MNT
-status:             ASSIGNED
-cidr:               172.22.139.128/25

@@ -8,3 +8,4 @@ admin-c:            CHAOSDORF-DN42
 tech-c:             FEUERROT-DN42
 status:             ASSIGNED
 cidr:               fd00:1337:cafe::/48
+source:             DN42

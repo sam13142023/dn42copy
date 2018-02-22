@@ -6,3 +6,4 @@ tech-c:             VIRCOSNET-DN42
 mnt-by:             VIRCOSNET-MNT
 status:             ALLOCATED
 cidr:               fdbd:8259:fe95::/48
+source:             DN42

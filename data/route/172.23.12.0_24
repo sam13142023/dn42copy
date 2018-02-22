@@ -3,3 +3,4 @@ descr:              Localnet IPv4 route
 origin:             AS64527
 mnt-by:             LOCALNET-MNT
 mnt-by:             NIXNODES-MNT
+source:             DN42

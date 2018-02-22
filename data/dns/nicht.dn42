@@ -4,3 +4,4 @@ tech-c:             GIGA-DN42
 mnt-by:             GIGA-MNT
 nserver:            ns1.giga.dn42
 status:             EVALPEND 1497436433
+source:             DN42

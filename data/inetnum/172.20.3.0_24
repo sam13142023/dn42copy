@@ -7,3 +7,4 @@ nserver:            ns1.reisenb.dn42
 status:             ASSIGNED
 cidr:               172.20.3.0/24
 netname:            reisenb network
+source:             DN42

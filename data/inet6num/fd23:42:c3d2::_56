@@ -8,3 +8,4 @@ mnt-by:             MIC92-MNT
 nserver:            ns.c3d2.de
 status:             ALLOCATED
 cidr:               fd23:42:c3d2::/56
+source:             DN42

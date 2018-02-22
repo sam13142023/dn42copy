@@ -5,3 +5,4 @@ status:             ALLOCATED
 cidr:               10.123.3.0/24
 mnt-by:             DUMMY-MNT
 netname:            Unnamed 10.123.3.0/24 Network
+source:             ICVPN

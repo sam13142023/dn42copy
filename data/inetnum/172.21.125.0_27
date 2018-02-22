@@ -1,7 +1,0 @@
-inetnum:            172.21.125.0-172.21.125.31
-netname:            MIKENABHAN-NET
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             MIKENABHAN-MNT
-status:             ALLOCATED
-cidr:               172.21.125.0/27

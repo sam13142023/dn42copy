@@ -7,3 +7,4 @@ nserver:            fornax.urandom.eu.org
 nserver:            ara.urandom.eu.org
 status:             ASSIGNED
 cidr:               172.20.188.0/24
+source:             DN42

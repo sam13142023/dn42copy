@@ -9,3 +9,4 @@ nserver:            ns2.pinneberg.g.nic.dn42
 nserver:            ns3.pinneberg.g.nic.dn42
 cidr:               10.137.0.0/16
 netname:            Unnamed 10.137.0.0/16 Network
+source:             ICVPN

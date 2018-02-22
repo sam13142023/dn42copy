@@ -1,0 +1,5 @@
+route:              172.22.193.0/25
+descr:              Germany, Bremen, moge.space
+origin:             AS64794
+mnt-by:             MORTZU-MNT
+source:             DN42

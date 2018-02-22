@@ -4,3 +4,4 @@ tech-c:             TSYS-DN42
 mnt-by:             TSYS-MNT
 nserver:            ns1.loaderror.de
 status:             CONNECT
+source:             DN42

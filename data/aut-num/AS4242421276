@@ -6,3 +6,4 @@ tech-c:             STR-DN42
 mnt-by:             STR-MNT
 remarks:            Peering via wireguard/openvpn
 remarks:            Contact on irc:strncpy
+source:             DN42

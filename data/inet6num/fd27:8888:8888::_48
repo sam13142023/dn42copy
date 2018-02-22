@@ -7,3 +7,4 @@ tech-c:             MINKENSTEIN-DN42
 mnt-by:             MINKENSTEIN-MNT
 status:             ALLOCATED
 cidr:               fd27:8888:8888::/48
+source:             DN42

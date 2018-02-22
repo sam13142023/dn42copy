@@ -5,3 +5,4 @@ tech-c:             DUMMY-DN42
 mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.bitburg.g.nic.dn42 fda0:cab1:e1e5:5b11:c0ff:ee::0
+source:             ICVPN

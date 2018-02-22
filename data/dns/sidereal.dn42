@@ -7,3 +7,4 @@ nserver:            ns1.sidereal.dn42 fdc9:67ea:76a5:1::3
 nserver:            ns2.sidereal.dn42 172.23.199.68
 nserver:            ns2.sidereal.dn42 fdc9:67ea:76a5:1::4
 status:             EVALPEND 1503918472
+source:             DN42

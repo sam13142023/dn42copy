@@ -6,3 +6,4 @@ mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
 nserver:            ns1.ingolstadt.g.nic.dn42 10.10.0.2
 nserver:            ns2.ingolstadt.g.nic.dn42 10.10.0.4
+source:             ICVPN

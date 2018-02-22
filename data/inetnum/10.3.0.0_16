@@ -10,3 +10,4 @@ nserver:            ns3.wuppertal.g.nic.dn42
 nserver:            ns4.wuppertal.g.nic.dn42
 cidr:               10.3.0.0/16
 netname:            Unnamed 10.3.0.0/16 Network
+source:             ICVPN

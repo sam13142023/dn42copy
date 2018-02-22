@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.chemnitz.g.nic.dn42
 cidr:               10.8.0.0/16
 netname:            Unnamed 10.8.0.0/16 Network
+source:             ICVPN

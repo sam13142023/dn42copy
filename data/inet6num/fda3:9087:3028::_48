@@ -9,3 +9,4 @@ nserver:            ns1.kns.dn42
 nserver:            ns2.kns.dn42
 status:             ASSIGNED
 cidr:               fda3:9087:3028::/48
+source:             DN42

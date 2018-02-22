@@ -8,3 +8,4 @@ nserver:            ns2.moeunet.dn42
 nserver:            ns3.moeunet.dn42
 status:             ASSIGNED
 cidr:               172.20.13.0/25
+source:             DN42

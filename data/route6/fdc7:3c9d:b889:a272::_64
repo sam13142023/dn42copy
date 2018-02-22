@@ -1,4 +1,5 @@
-route:              fdc7:3c9d:b889:a272::/64
+route6:             fdc7:3c9d:b889:a272::/64
 origin:             AS65043
 mnt-by:             FF3L-MNT
 mnt-by:             KPANIC-MNT
+source:             ICVPN

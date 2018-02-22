@@ -8,3 +8,4 @@ mnt-by:             LAMENET-MNT
 nserver:            ns0.lamenet.dn42
 status:             ASSIGNED
 cidr:               fdfd:dead:c0d3::/48
+source:             DN42

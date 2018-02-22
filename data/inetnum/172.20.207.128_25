@@ -1,9 +1,0 @@
-inetnum:            172.20.207.128 - 172.20.207.255
-netname:            JO-JO-NET
-descr:              Jo-Jo's Main IPv4 Network
-country:            DE
-admin-c:            JOJO-DN42
-tech-c:             JOJO-DN42
-mnt-by:             JO-JO-MNT
-status:             ASSIGNED
-cidr:               172.20.207.128/25

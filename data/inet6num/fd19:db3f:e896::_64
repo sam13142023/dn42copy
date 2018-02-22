@@ -8,3 +8,4 @@ mnt-by:             JAJO-MNT
 nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 cidr:               fd19:db3f:e896::/64
+source:             DN42

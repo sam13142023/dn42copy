@@ -8,3 +8,4 @@ tech-c:             KANKAN-DN42
 mnt-by:             KANKAN-MNT
 status:             ASSIGNED
 cidr:               172.23.147.0/24
+source:             DN42

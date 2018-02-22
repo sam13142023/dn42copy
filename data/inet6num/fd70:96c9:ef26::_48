@@ -7,3 +7,4 @@ tech-c:             GERGER-DN42
 mnt-by:             GERGERNET-MNT
 status:             ASSIGNED
 cidr:               fd70:96c9:ef26::/48
+source:             DN42

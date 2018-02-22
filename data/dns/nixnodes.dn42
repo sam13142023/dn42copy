@@ -6,3 +6,4 @@ nserver:            ns1.nixnodes.dn42    172.22.177.2
 nserver:            ns2.nixnodes.dn42    172.22.177.1
 nserver:            ns3.nixnodes.dn42    172.23.4.132
 status:             CONNECT
+source:             DN42

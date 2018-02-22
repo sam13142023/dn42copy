@@ -8,3 +8,4 @@ nserver:            a.ns.welterde.net
 nserver:            ns1.welterde.dn42
 cidr:               fdef:5d0d:ee12::/48
 mnt-by:             DUMMY-MNT
+source:             DN42

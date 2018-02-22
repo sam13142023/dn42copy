@@ -8,3 +8,4 @@ nserver:            dummy.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.246.0/27
+source:             DN42

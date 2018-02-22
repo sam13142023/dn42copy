@@ -9,3 +9,4 @@ nserver:            ns1.liusx.dn42
 nserver:            ns1.lisux.dn42
 status:             ASSIGNED
 cidr:               172.20.131.128/25
+source:             DN42
