@@ -7,3 +7,4 @@ mnt-by:            ENS160-MNT
 nserver:           ns1.ens160.dn42
 nserver:           ns2.ens160.dn42
 status:            ASSIGNED
+source:            DN42
