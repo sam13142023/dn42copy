@@ -1,0 +1,8 @@
+domain:             as4242420119.dn42
+nserver:            ns.as4242420119.dn42 172.20.1.129
+nserver:            ns.as4242420119.dn42 fd42:5d71:219:0:1::53
+status:             CONNECT
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+source:             DN42
