@@ -1,7 +1,0 @@
-domain:             ens160.dn42
-admin-c:            ENS160-DN42
-tech-c:             ENS160-DN42
-mnt-by:             ENS160-MNT
-nserver:            ns1.ens160.dn42 172.20.172.1
-nserver:            ns2.ens160.dn42 172.20.172.2
-source:             DN42
