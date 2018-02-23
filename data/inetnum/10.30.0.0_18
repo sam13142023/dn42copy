@@ -1,0 +1,8 @@
+inetnum:            10.30.0.0 - 10.30.63.255
+cidr:               10.30.0.0/18
+netname:            ICVPN-MONTABAUR
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: montabaur
+mnt-by:             DN42-MNT
+source:             ICVPN

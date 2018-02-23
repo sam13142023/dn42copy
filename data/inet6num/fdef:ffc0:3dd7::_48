@@ -1,0 +1,16 @@
+inet6num:           fdef:ffc0:3dd7:0000:0000:0000:0000:0000 - fdef:ffc0:3dd7:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:ffc0:3dd7::/48
+netname:            ICVPN-LUEBECK
+bgp-status:         ignored
+nserver:            1.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ip6.arpa fdef:ffc0:3dd7::801
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ip6.arpa fdef:ffc0:3dd7::a01
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ip6.arpa fdef:ffc0:3dd7::c01
+nserver:            1.0.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ip6.arpa fdef:ffc0:3dd7::e01
+nserver:            252.0.130.10.in-addr.arpa 10.130.0.252
+nserver:            253.0.130.10.in-addr.arpa 10.130.0.253
+nserver:            254.0.130.10.in-addr.arpa 10.130.0.254
+nserver:            255.0.130.10.in-addr.arpa 10.130.0.255
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

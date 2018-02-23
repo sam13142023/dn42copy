@@ -1,0 +1,6 @@
+route6:             2a03:2260:200c::/48
+origin:             AS64862
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostvest
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inet6num:           2a03:2260:200c:0000:0000:0000:0000:0000 - 2a03:2260:200c:ffff:ffff:ffff:ffff:ffff
+cidr:               2a03:2260:200c::/48
+netname:            ICVPN-OSTVEST
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostvest
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inet6num:           2001:0470:5168:0002:0000:0000:0000:0000 - 2001:0470:5168:0002:ffff:ffff:ffff:ffff
+cidr:               2001:470:5168:2::/64
+netname:            ICVPN-EMSKIRCHEN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: emskirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

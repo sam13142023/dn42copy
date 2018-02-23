@@ -1,0 +1,8 @@
+domain:             ffsl_sls
+status:             CONNECT
+nserver:            55.66.55.10.in-addr.arpa 10.55.66.55
+nserver:            3.64.55.10.in-addr.arpa 10.55.64.3
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saarlouis
+mnt-by:             DN42-MNT
+source:             ICVPN
