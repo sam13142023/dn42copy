@@ -1,8 +1,7 @@
 domain:             ffj
-remarks:            ** jena
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.jena.g.nic.dn42 10.17.250.1
+nserver:            1.250.17.10.in-addr.arpa 10.17.250.1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
 source:             ICVPN

@@ -1,8 +1,7 @@
 domain:             ffc
-remarks:            ** chemnitz
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.chemnitz.g.nic.dn42 10.8.6.6
+nserver:            6.6.8.10.in-addr.arpa 10.8.6.6
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: chemnitz
+mnt-by:             DN42-MNT
 source:             ICVPN
