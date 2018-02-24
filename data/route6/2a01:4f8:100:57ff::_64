@@ -1,0 +1,6 @@
+route6:             2a01:4f8:100:57ff::/64
+origin:             AS64946
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rhein-neckar
+mnt-by:             DN42-MNT
+source:             ICVPN

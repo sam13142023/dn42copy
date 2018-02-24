@@ -1,0 +1,6 @@
+route:              10.141.128.0/17
+origin:             AS65530
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: engelskirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

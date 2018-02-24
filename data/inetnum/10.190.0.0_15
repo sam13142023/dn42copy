@@ -1,0 +1,8 @@
+inetnum:            10.190.0.0 - 10.191.255.255
+cidr:               10.190.0.0/15
+netname:            ICVPN-STUTTGART
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: stuttgart
+mnt-by:             DN42-MNT
+source:             ICVPN

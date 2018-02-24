@@ -1,0 +1,10 @@
+inetnum:            10.71.0.0 - 10.71.63.255
+cidr:               10.71.0.0/18
+netname:            ICVPN-NORDHEIDE
+bgp-status:         ignored
+nserver:            1.1.71.10.in-addr.arpa 10.71.1.1
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.1.3.d.7.c.4.1.f.8.d.f.ip6.arpa fd8f:14c7:d318::1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nordheide
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,12 @@
+inet6num:           fda4:1721:8450:0000:0000:0000:0000:0000 - fda4:1721:8450:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:1721:8450::/48
+netname:            ICVPN-SIEGBURG
+bgp-status:         ignored
+nserver:            10.0.152.10.in-addr.arpa 10.152.0.10
+nserver:            10.16.152.10.in-addr.arpa 10.152.16.10
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.4.8.1.2.7.1.4.a.d.f.ip6.arpa fda4:1721:8450:100::1
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.4.8.1.2.7.1.4.a.d.f.ip6.arpa fda4:1721:8450:200::1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: siegburg
+mnt-by:             DN42-MNT
+source:             ICVPN

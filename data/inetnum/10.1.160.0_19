@@ -1,0 +1,8 @@
+inetnum:            10.1.160.0 - 10.1.191.255
+cidr:               10.1.160.0/19
+netname:            ICVPN-BERGSTRASSE
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bergstrasse
+mnt-by:             DN42-MNT
+source:             ICVPN

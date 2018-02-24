@@ -1,0 +1,8 @@
+inetnum:            10.59.32.0 - 10.59.47.255
+cidr:               10.59.32.0/20
+netname:            ICVPN-LEIPZIG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: leipzig
+mnt-by:             DN42-MNT
+source:             ICVPN

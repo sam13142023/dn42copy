@@ -1,0 +1,8 @@
+inet6num:           fddf:ebfd:a801:0212:0000:0000:0000:0000 - fddf:ebfd:a801:0212:ffff:ffff:ffff:ffff
+cidr:               fddf:ebfd:a801:212::/64
+netname:            ICVPN-SOLINGEN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: solingen
+mnt-by:             DN42-MNT
+source:             ICVPN

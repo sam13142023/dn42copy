@@ -1,0 +1,6 @@
+route6:             2001:bf7:1310::/44
+origin:             AS65533
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kreisgt
+mnt-by:             DN42-MNT
+source:             ICVPN

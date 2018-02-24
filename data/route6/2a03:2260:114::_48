@@ -1,0 +1,6 @@
+route6:             2a03:2260:114::/48
+origin:             AS65077
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: aachen
+mnt-by:             DN42-MNT
+source:             ICVPN

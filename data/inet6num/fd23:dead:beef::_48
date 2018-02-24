@@ -1,0 +1,10 @@
+inet6num:           fd23:dead:beef:0000:0000:0000:0000:0000 - fd23:dead:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:dead:beef::/48
+netname:            ICVPN-WESTKUESTE
+bgp-status:         ignored
+nserver:            1.1.13.10.in-addr.arpa 10.13.1.1
+nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.e.e.b.d.a.e.d.3.2.d.f.ip6.arpa fd23:dead:beef::ff01
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westkueste
+mnt-by:             DN42-MNT
+source:             ICVPN

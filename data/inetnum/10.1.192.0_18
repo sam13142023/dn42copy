@@ -1,0 +1,8 @@
+inetnum:            10.1.192.0 - 10.1.255.255
+cidr:               10.1.192.0/18
+netname:            ICVPN-METTMANN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mettmann
+mnt-by:             DN42-MNT
+source:             ICVPN

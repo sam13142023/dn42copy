@@ -1,0 +1,10 @@
+inetnum:            172.16.0.0 - 172.19.255.255
+cidr:               172.16.0.0/14
+netname:            ICVPN-DN42
+bgp-status:         ignored
+nserver:            53.0.23.172.in-addr.arpa 172.23.0.53
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.5.0.2.4.d.0.2.4.d.2.4.d.f.ip6.arpa fd42:d42:d42:53::1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dn42
+mnt-by:             DN42-MNT
+source:             ICVPN

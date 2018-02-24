@@ -1,0 +1,14 @@
+inet6num:           2a05:ff01:000b:0000:0000:0000:0000:0000 - 2a05:ff01:000b:ffff:ffff:ffff:ffff:ffff
+cidr:               2a05:ff01:b::/48
+netname:            ICVPN-ZOLLERNALB
+bgp-status:         ignored
+nserver:            2.2.70.10.in-addr.arpa 10.70.2.2
+nserver:            3.3.70.10.in-addr.arpa 10.70.3.3
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.a.1.0.f.f.5.0.a.2.ip6.arpa 2a05:ff01:a:1::a
+nserver:            b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.a.1.0.f.f.5.0.a.2.ip6.arpa 2a05:ff01:a:1::b
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.b.1.0.f.f.5.0.a.2.ip6.arpa 2a05:ff01:b:1::a
+nserver:            b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.b.1.0.f.f.5.0.a.2.ip6.arpa 2a05:ff01:b:1::b
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: zollernalb
+mnt-by:             DN42-MNT
+source:             ICVPN

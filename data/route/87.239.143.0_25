@@ -1,0 +1,6 @@
+route:              87.239.143.0/25
+origin:             AS64865
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: giessen
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,12 @@
+inet6num:           fddf:0bf7:0080:0000:0000:0000:0000:0000 - fddf:0bf7:0080:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:bf7:80::/48
+netname:            ICVPN-BADOLDESLOE
+bgp-status:         ignored
+nserver:            8.0.144.10.in-addr.arpa 10.144.0.8
+nserver:            8.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.7.f.b.f.d.d.f.ip6.arpa fddf:0bf7:80::a38:8
+nserver:            13.0.144.10.in-addr.arpa 10.144.0.13
+nserver:            3.1.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.7.f.b.f.d.d.f.ip6.arpa fddf:0bf7:80::a38:13
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: badoldesloe
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inet6num:           fdc7:5384:0030:0000:0000:0000:0000:0000 - fdc7:5384:0030:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc7:5384:30::/48
+netname:            ICVPN-TUTTLINGEN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: tuttlingen
+mnt-by:             DN42-MNT
+source:             ICVPN
