@@ -1,5 +1,5 @@
 inet6num:           fd42:a66a:faaf:0000:0000:0000:0000:0000 - fd42:a66a:faaf:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:aacb:faaf::/48
+cidr:               fd42:a66a:faaf::/48
 netname:            WHEAT-NET
 descr:              WHEAT-NET
 admin-c:            WHEAT-DN42
