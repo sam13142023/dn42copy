@@ -1,11 +1,10 @@
 inetnum:            10.55.128.0 - 10.55.191.255
-remarks:            ** merzig
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             NIXNODES-MNT
-status:             ALLOCATED
-nserver:            ns1.merzig.g.nic.dn42
-nserver:            ns2.merzig.g.nic.dn42
 cidr:               10.55.128.0/18
-netname:            Unnamed 10.55.128.0/18 Network
+netname:            ICVPN-MERZIG
+bgp-status:         ignored
+nserver:            55.155.55.10.in-addr.arpa 10.55.155.55
+nserver:            3.128.55.10.in-addr.arpa 10.55.128.3
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: merzig
+mnt-by:             DN42-MNT
 source:             ICVPN

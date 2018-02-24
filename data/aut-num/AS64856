@@ -1,6 +1,6 @@
-route:              10.214.0.0/16
-origin:             AS65081
+aut-num:            AS64856
+as-name:            ICVPN-MUENDEN
 remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: karlsruhe
+remarks:            File: muenden
 mnt-by:             DN42-MNT
 source:             ICVPN

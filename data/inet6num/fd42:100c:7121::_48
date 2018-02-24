@@ -1,21 +1,8 @@
 inet6num:           fd42:100c:7121:0000:0000:0000:0000:0000 - fd42:100c:7121:ffff:ffff:ffff:ffff:ffff
-netname:            FFMR-DN42-NPT6NET
-descr:              Freifunk Marburg NPTv6
-remarks:            fd42:100c:7121::/56 is translated to 2a06:4b00:1000::/56 via the experimental NPTv6 (RFC 6296).
-remarks:            We do NOT announce 2a06:4b00:1000::/56 via dn42.
-remarks:            Neither do we encourage the use of fd42:100c:7121::/48 to reach our community's networks.
-remarks:            We opted for the described behaviour because of the following reasons:
-remarks:            - We do not know how prevalently implementations of IPv6 source address selection are in accordance with RFC 6724.
-remarks:            - Sending more RAs means more noise.
-remarks:            - Freifunk should be a part of the Internet and not dn42.
-remarks:            - Routing Internet traffic through VPNs on top of it often comes with many quirks.
-remarks:            - We still want interconnection with communites who do not have global unicast addresses in place but are connected to dn42.
-remarks:            But we encourage them to opt for global IPv6 connectivity in the long run.
-remarks:            We may change this behaviour at any time. Do not rely on fd42:100c:7121::/48!
-country:            DE
-admin-c:            FFMR-DN42
-tech-c:             FFMR-DN42
-mnt-by:             OLEANDER-MNT
-status:             ASSIGNED
 cidr:               fd42:100c:7121::/48
+netname:            ICVPN-MARBURG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: marburg
+mnt-by:             DN42-MNT
 source:             ICVPN

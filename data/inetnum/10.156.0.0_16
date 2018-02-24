@@ -1,10 +1,9 @@
 inetnum:            10.156.0.0 - 10.156.255.255
-remarks:            ** glwupper
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.glwupper.g.nic.dn42
 cidr:               10.156.0.0/16
-netname:            Unnamed 10.156.0.0/16 Network
+netname:            ICVPN-GLWUPPER
+bgp-status:         ignored
+nserver:            1.3.156.10.in-addr.arpa 10.156.3.1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: glwupper
+mnt-by:             DN42-MNT
 source:             ICVPN

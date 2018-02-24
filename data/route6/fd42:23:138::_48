@@ -1,5 +1,6 @@
 route6:             fd42:23:138::/48
-descr:              nazco's ula ipv6 network
-origin:             AS76118
-mnt-by:             NAZCO-MNT
+origin:             AS64946
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rhein-neckar
+mnt-by:             DN42-MNT
 source:             ICVPN

@@ -1,10 +1,9 @@
 inetnum:            10.146.0.0 - 10.146.255.255
-remarks:            ** hueckeswagen
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.hueckeswagen.g.nic.dn42
 cidr:               10.146.0.0/16
-netname:            Unnamed 10.146.0.0/16 Network
+netname:            ICVPN-HUECKESWAGEN
+bgp-status:         ignored
+nserver:            0.1.146.10.in-addr.arpa 10.146.1.0
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hueckeswagen
+mnt-by:             DN42-MNT
 source:             ICVPN

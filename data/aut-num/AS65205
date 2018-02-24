@@ -1,7 +1,6 @@
 aut-num:            AS65205
-as-name:            AS020WIRELESS
-org:                ORG-020WIRELESS
-admin-c:            AMSW-DN42
-tech-c:             AMSW-DN42
-mnt-by:             020-MNT
+as-name:            ICVPN-AMSTERDAM
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: amsterdam
+mnt-by:             DN42-MNT
 source:             ICVPN

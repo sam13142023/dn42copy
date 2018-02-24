@@ -1,10 +1,8 @@
 inetnum:            10.47.0.0 - 10.47.255.255
-remarks:            ** euskirchen
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-status:             ALLOCATED
-nserver:            ns1.euskirchen.g.nic.dn42
 cidr:               10.47.0.0/16
-mnt-by:             DUMMY-MNT
-netname:            Unnamed 10.47.0.0/16 Network
+netname:            ICVPN-OSTVEST
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostvest
+mnt-by:             DN42-MNT
 source:             ICVPN

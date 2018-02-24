@@ -1,10 +1,10 @@
 inetnum:            10.11.160.0 - 10.11.175.255
-remarks:            ** bodensee
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.bodensee.g.nic.dn42
 cidr:               10.11.160.0/20
-netname:            Unnamed 10.11.160.0/20 Network
+netname:            ICVPN-BODENSEE
+bgp-status:         ignored
+nserver:            42.160.11.10.in-addr.arpa 10.11.160.42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.e.5.b.1.0.7.1.f.e.d.f.ip6.arpa fdef:1701:b5ee:42::1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bodensee
+mnt-by:             DN42-MNT
 source:             ICVPN

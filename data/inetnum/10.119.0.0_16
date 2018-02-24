@@ -1,12 +1,14 @@
 inetnum:            10.119.0.0 - 10.119.255.255
-remarks:            ** dreilaendereck
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.dreilaendereck.g.nic.dn42
-nserver:            ns2.dreilaendereck.g.nic.dn42
-nserver:            ns3.dreilaendereck.g.nic.dn42
 cidr:               10.119.0.0/16
-netname:            Unnamed 10.119.0.0/16 Network
+netname:            ICVPN-DREILAENDERECK
+bgp-status:         ignored
+nserver:            5.0.119.10.in-addr.arpa 10.119.0.5
+nserver:            4.0.119.10.in-addr.arpa 10.119.0.4
+nserver:            10.0.119.10.in-addr.arpa 10.119.0.10
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::5
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::4
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::a
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dreilaendereck
+mnt-by:             DN42-MNT
 source:             ICVPN

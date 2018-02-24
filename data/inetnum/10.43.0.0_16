@@ -1,13 +1,16 @@
 inetnum:            10.43.0.0 - 10.43.255.255
-remarks:            ** muensterland
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.muensterland.g.nic.dn42
-nserver:            ns2.muensterland.g.nic.dn42
-nserver:            ns3.muensterland.g.nic.dn42
-nserver:            ns4.muensterland.g.nic.dn42
 cidr:               10.43.0.0/16
-netname:            Unnamed 10.43.0.0/16 Network
+netname:            ICVPN-MUENSTERLAND
+bgp-status:         ignored
+nserver:            2.8.43.10.in-addr.arpa 10.43.8.2
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.1.1.0.6.2.2.3.0.a.2.ip6.arpa 2a03:2260:115:100::2
+nserver:            3.8.43.10.in-addr.arpa 10.43.8.3
+nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.1.1.0.6.2.2.3.0.a.2.ip6.arpa 2a03:2260:115:100::3
+nserver:            2.16.43.10.in-addr.arpa 10.43.16.2
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.1.1.0.6.2.2.3.0.a.2.ip6.arpa 2a03:2260:115:200::2
+nserver:            3.16.43.10.in-addr.arpa 10.43.16.3
+nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.1.1.0.6.2.2.3.0.a.2.ip6.arpa 2a03:2260:115:200::3
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muensterland
+mnt-by:             DN42-MNT
 source:             ICVPN

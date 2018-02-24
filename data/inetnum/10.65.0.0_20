@@ -1,11 +1,8 @@
-inetnum:            10.65.0.0-10.65.15.255
-netname:            FOERDE-FREIFUNK-INET4
-descr:              Fördefunk Flensburg
-country:            DE
-org:                ORG-CTFL
-admin-c:            FOERTEL-DN42
-tech-c:             FOERTEL-DN42
-mnt-by:             FOERTEL-MNT
-status:             ASSIGNED
+inetnum:            10.65.0.0 - 10.65.15.255
 cidr:               10.65.0.0/20
+netname:            ICVPN-FOERDEFUNK-FLENSBURG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: foerdefunk-flensburg
+mnt-by:             DN42-MNT
 source:             ICVPN

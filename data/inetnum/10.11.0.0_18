@@ -1,12 +1,14 @@
 inetnum:            10.11.0.0 - 10.11.63.255
-remarks:            ** augsburg
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.augsburg.g.nic.dn42
-nserver:            ns2.augsburg.g.nic.dn42
-nserver:            ns3.augsburg.g.nic.dn42
 cidr:               10.11.0.0/18
-netname:            Unnamed 10.11.0.0/18 Network
+netname:            ICVPN-AUGSBURG
+bgp-status:         ignored
+nserver:            8.0.11.10.in-addr.arpa 10.11.0.8
+nserver:            15.10.11.10.in-addr.arpa 10.11.10.15
+nserver:            26.63.11.10.in-addr.arpa 10.11.63.26
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.a.f.f.e.e.f.f.a.c.d.f.ip6.arpa fdca:ffee:0ffa:8::1
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.a.0.a.f.f.e.e.f.f.a.c.d.f.ip6.arpa fdca:ffee:0ffa:a0f::1
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.a.1.f.3.0.a.f.f.e.e.f.f.a.c.d.f.ip6.arpa fdca:ffee:0ffa:3f1a::1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: augsburg
+mnt-by:             DN42-MNT
 source:             ICVPN

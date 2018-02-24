@@ -1,5 +1,6 @@
 route:              10.29.0.0/16
-descr:              Freifunk Bielefeld IPv4
 origin:             AS65529
-mnt-by:             BODEMS-MNT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bielefeld
+mnt-by:             DN42-MNT
 source:             ICVPN

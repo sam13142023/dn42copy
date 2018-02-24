@@ -1,8 +1,6 @@
 aut-num:            AS65043
-as-name:            FF3L-AS
-descr:              Freifunk Dreiländereck
-org:                ORG-FF3L
-admin-c:            KPANIC-DN42
-tech-c:             KPANIC-DN42
-mnt-by:             FF3L-MNT
+as-name:            ICVPN-DREILAENDERECK
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dreilaendereck
+mnt-by:             DN42-MNT
 source:             ICVPN

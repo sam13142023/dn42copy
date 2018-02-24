@@ -1,10 +1,6 @@
 aut-num:            AS65525
-as-name:            FFKIEL-AS
-descr:              Freifunk Kiel
-remarks:            http://freifunk.in-kiel.de/
-remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
-remarks:            * data moved to https://github.com/freifunk/icvpn-meta/blob/master/kiel
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
+as-name:            ICVPN-KIEL
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kiel
+mnt-by:             DN42-MNT
 source:             ICVPN

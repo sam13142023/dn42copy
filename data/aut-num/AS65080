@@ -1,8 +1,6 @@
 aut-num:            AS65080
-as-name:            FFMUC-AS
-org:                ORG-FFMUC
-descr:              Freifunk München
-admin-c:            FPLETZ-DN42
-tech-c:             FPLETZ-DN42
-mnt-by:             FPLETZ-MNT
+as-name:            ICVPN-MUENCHEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenchen
+mnt-by:             DN42-MNT
 source:             ICVPN

@@ -1,11 +1,10 @@
 inetnum:            10.18.0.0 - 10.18.255.255
-remarks:            ** nordwest
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.nordwest.g.nic.dn42
-nserver:            ns2.nordwest.g.nic.dn42
 cidr:               10.18.0.0/16
-netname:            Unnamed 10.18.0.0/16 Network
+netname:            ICVPN-NORDWEST
+bgp-status:         ignored
+nserver:            1.0.18.10.in-addr.arpa 10.18.0.1
+nserver:            1.32.18.10.in-addr.arpa 10.18.32.1
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nordwest
+mnt-by:             DN42-MNT
 source:             ICVPN

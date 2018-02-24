@@ -1,6 +1,6 @@
-route:              10.58.0.0/17
-origin:             AS64646
+aut-num:            AS201173
+as-name:            ICVPN-LUEBECK
 remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: bergstrasse
+remarks:            File: luebeck
 mnt-by:             DN42-MNT
 source:             ICVPN

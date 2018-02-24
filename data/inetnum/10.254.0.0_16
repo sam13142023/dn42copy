@@ -1,8 +1,8 @@
 inetnum:            10.254.0.0 - 10.254.255.255
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             NIXNODES-MNT
-status:             ALLOCATED
 cidr:               10.254.0.0/16
-netname:            Unnamed 10.254.0.0/16 Network
+netname:            ICVPN-LJUBLJANA
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ljubljana
+mnt-by:             DN42-MNT
 source:             ICVPN

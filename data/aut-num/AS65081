@@ -1,8 +1,6 @@
 aut-num:            AS65081
-as-name:            FFKA-AS
-org:                ORG-FFKA
-descr:              Freifunk Karlsuhe
-admin-c:            TWI-DN42
-tech-c:             TWI-DN42
-mnt-by:             TWI-MNT
+as-name:            ICVPN-KARLSRUHE
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: karlsruhe
+mnt-by:             DN42-MNT
 source:             ICVPN
