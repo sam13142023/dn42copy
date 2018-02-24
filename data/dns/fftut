@@ -1,13 +1,12 @@
 domain:             fftut
-remarks:            ** tuttlingen
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.tuttlingen.g.nic.dn42 10.119.0.5
-nserver:            ns2.tuttlingen.g.nic.dn42 10.119.0.8
-nserver:            ns3.tuttlingen.g.nic.dn42 10.119.0.10
-nserver:            ns1.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::5
-nserver:            ns2.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::8
-nserver:            ns3.tuttlingen.g.nic.dn42 fdc7:3c9d:b889:a272::a
+nserver:            5.0.119.10.in-addr.arpa 10.119.0.5
+nserver:            8.0.119.10.in-addr.arpa 10.119.0.8
+nserver:            10.0.119.10.in-addr.arpa 10.119.0.10
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::5
+nserver:            8.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::8
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::a
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: tuttlingen
+mnt-by:             DN42-MNT
 source:             ICVPN

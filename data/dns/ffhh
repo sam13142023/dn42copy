@@ -1,9 +1,8 @@
 domain:             ffhh
-remarks:            ** hamburg
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.hamburg.g.nic.dn42 10.112.1.2
-nserver:            ns1.hamburg.g.nic.dn42 2a03:2267::102
+nserver:            2.1.112.10.in-addr.arpa 10.112.1.2
+nserver:            2.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.6.2.2.3.0.a.2.ip6.arpa 2a03:2267::102
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hamburg
+mnt-by:             DN42-MNT
 source:             ICVPN
