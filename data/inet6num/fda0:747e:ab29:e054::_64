@@ -2,7 +2,7 @@ inet6num:           fda0:747e:ab29:e054:0000:0000:0000:0000 - fda0:747e:ab29:e05
 cidr:               fda0:747e:ab29:e054::/64
 netname:            ICVPN-EUSKIRCHEN
 bgp-status:         ignored
-nserver:            2.0.47.10.in-addr.arpa 10.47.0.2
+nserver:            2.0.47.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: euskirchen
 mnt-by:             DN42-MNT

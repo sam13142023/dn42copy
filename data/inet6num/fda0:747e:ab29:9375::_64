@@ -2,7 +2,7 @@ inet6num:           fda0:747e:ab29:9375:0000:0000:0000:0000 - fda0:747e:ab29:937
 cidr:               fda0:747e:ab29:9375::/64
 netname:            ICVPN-FLINGERN
 bgp-status:         ignored
-nserver:            10.0.155.10.in-addr.arpa 10.155.0.10
+nserver:            10.0.155.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: flingern
 mnt-by:             DN42-MNT

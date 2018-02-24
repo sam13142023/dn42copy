@@ -1,6 +1,6 @@
 domain:             fferz
 status:             CONNECT
-nserver:            1.80.13.10.in-addr.arpa 10.13.80.1
+nserver:            1.80.13.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: erzgebirge
 mnt-by:             DN42-MNT

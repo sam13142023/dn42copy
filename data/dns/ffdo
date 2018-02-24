@@ -1,9 +1,9 @@
 domain:             ffdo
 status:             CONNECT
-nserver:            190.64.80.151.in-addr.arpa 151.80.64.190
-nserver:            33.255.14.85.in-addr.arpa 85.14.255.33
-nserver:            0.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.c.5.9.0.0.0.c.0.d.1.4.1.0.0.2.ip6.arpa 2001:41d0:c:95c::190
-nserver:            3.3.0.0.0.0.0.0.0.0.0.0.0.0.0.9.e.1.f.f.f.f.0.a.b.4.1.0.0.2.ip6.arpa 2001:4ba0:ffff:1e9::33
+nserver:            190.64.80.151.icvpn.registry-sync.dn42
+nserver:            33.255.14.85.icvpn.registry-sync.dn42
+nserver:            0.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.c.5.9.0.0.0.c.0.d.1.4.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            3.3.0.0.0.0.0.0.0.0.0.0.0.0.0.9.e.1.f.f.f.f.0.a.b.4.1.0.0.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: ruhrgebiet
 mnt-by:             DN42-MNT

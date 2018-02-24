@@ -2,7 +2,7 @@ inetnum:            10.19.0.0 - 10.19.255.255
 cidr:               10.19.0.0/16
 netname:            ICVPN-EUSKIRCHEN
 bgp-status:         ignored
-nserver:            2.0.47.10.in-addr.arpa 10.47.0.2
+nserver:            2.0.47.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: euskirchen
 mnt-by:             DN42-MNT

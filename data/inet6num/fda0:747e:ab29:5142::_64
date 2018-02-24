@@ -2,7 +2,7 @@ inet6num:           fda0:747e:ab29:5142:0000:0000:0000:0000 - fda0:747e:ab29:514
 cidr:               fda0:747e:ab29:5142::/64
 netname:            ICVPN-GLWUPPER
 bgp-status:         ignored
-nserver:            1.3.156.10.in-addr.arpa 10.156.3.1
+nserver:            1.3.156.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: glwupper
 mnt-by:             DN42-MNT

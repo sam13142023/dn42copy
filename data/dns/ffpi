@@ -1,11 +1,11 @@
 domain:             ffpi
 status:             CONNECT
-nserver:            1.12.137.10.in-addr.arpa 10.137.12.1
-nserver:            1.13.137.10.in-addr.arpa 10.137.13.1
-nserver:            1.10.137.10.in-addr.arpa 10.137.10.1
-nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ip6.arpa fde8:21c6:9d82::0c01
-nserver:            1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ip6.arpa fde8:21c6:9d82::0d01
-nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ip6.arpa fde8:21c6:9d82::0a01
+nserver:            1.12.137.10.icvpn.registry-sync.dn42
+nserver:            1.13.137.10.icvpn.registry-sync.dn42
+nserver:            1.10.137.10.icvpn.registry-sync.dn42
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: pinneberg
 mnt-by:             DN42-MNT

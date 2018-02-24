@@ -2,7 +2,7 @@ inet6num:           fd99:b29a:7c20:0000:0000:0000:0000:0000 - fd99:b29a:7c20:000
 cidr:               fd99:b29a:7c20::/64
 netname:            ICVPN-ERZGEBIRGE
 bgp-status:         ignored
-nserver:            1.80.13.10.in-addr.arpa 10.13.80.1
+nserver:            1.80.13.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: erzgebirge
 mnt-by:             DN42-MNT

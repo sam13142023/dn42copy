@@ -2,11 +2,11 @@ inet6num:           fda0:747e:ab29:e1ba:0000:0000:0000:0000 - fda0:747e:ab29:e1b
 cidr:               fda0:747e:ab29:e1ba::/64
 netname:            ICVPN-WUPPERTAL
 bgp-status:         ignored
-nserver:            247.0.3.10.in-addr.arpa 10.3.0.247
-nserver:            249.0.3.10.in-addr.arpa 10.3.0.249
-nserver:            250.0.3.10.in-addr.arpa 10.3.0.250
-nserver:            251.0.3.10.in-addr.arpa 10.3.0.251
-nserver:            1.0.0.0.0.0.0.0.0.7.0.f.f.a.b.1.e.9.2.b.a.e.7.4.7.0.a.d.f.ip6.arpa fda0:747e:ab29:e1ba:ff07::1
+nserver:            247.0.3.10.icvpn.registry-sync.dn42
+nserver:            249.0.3.10.icvpn.registry-sync.dn42
+nserver:            250.0.3.10.icvpn.registry-sync.dn42
+nserver:            251.0.3.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.7.0.f.f.a.b.1.e.9.2.b.a.e.7.4.7.0.a.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: wuppertal
 mnt-by:             DN42-MNT

@@ -2,8 +2,8 @@ inetnum:            10.202.0.0 - 10.202.63.255
 cidr:               10.202.0.0/18
 netname:            ICVPN-ALTMUEHLTAL
 bgp-status:         ignored
-nserver:            2.2.202.10.in-addr.arpa 10.202.2.2
-nserver:            4.2.202.10.in-addr.arpa 10.202.2.4
+nserver:            2.2.202.10.icvpn.registry-sync.dn42
+nserver:            4.2.202.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: altmuehltal
 mnt-by:             DN42-MNT

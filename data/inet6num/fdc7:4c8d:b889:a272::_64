@@ -2,7 +2,7 @@ inet6num:           fdc7:4c8d:b889:a272:0000:0000:0000:0000 - fdc7:4c8d:b889:a27
 cidr:               fdc7:4c8d:b889:a272::/64
 netname:            ICVPN-HAMELN
 bgp-status:         ignored
-nserver:            1.96.11.10.in-addr.arpa 10.11.96.1
+nserver:            1.96.11.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: hameln
 mnt-by:             DN42-MNT
