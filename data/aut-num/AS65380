@@ -1,6 +1,6 @@
-route:              10.104.0.0/16
-origin:             AS65038
+aut-num:            AS65380
+as-name:            ICVPN-BRAUNSCHWEIG
 remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: darmstadt
+remarks:            File: braunschweig
 mnt-by:             DN42-MNT
 source:             ICVPN

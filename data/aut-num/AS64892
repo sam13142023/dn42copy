@@ -1,6 +1,6 @@
-route:              10.104.0.0/16
-origin:             AS65038
+aut-num:            AS64892
+as-name:            ICVPN-BELGIEN
 remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: darmstadt
+remarks:            File: belgien
 mnt-by:             DN42-MNT
 source:             ICVPN
