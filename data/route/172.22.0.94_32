@@ -1,7 +1,0 @@
-route:              172.22.0.94/32
-descr:              dn42 anycast tor
-origin:             AS56662
-origin:             AS4242420077
-origin:             AS4242420022
-mnt-by:             DRIXTER-MNT
-source:             DN42

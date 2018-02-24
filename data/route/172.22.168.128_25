@@ -1,5 +1,0 @@
-route:              172.22.168.128/25
-descr:              allo dn42 network
-origin:             AS64752
-mnt-by:             DUMMY-MNT
-source:             DN42

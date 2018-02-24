@@ -1,8 +1,0 @@
-domain:             nullroute.dn42
-admin-c:            GRAWITY-DN42
-tech-c:             GRAWITY-DN42
-nserver:            sky.nullroute.eu.org
-nserver:            wolke.nullroute.eu.org
-mnt-by:             NULLROUTE-MNT
-status:             CONNECT
-source:             DN42

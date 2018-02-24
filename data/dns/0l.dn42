@@ -1,9 +1,0 @@
-domain:             0l.dn42
-descr:              /dev/nulll dns
-admin-c:            STV0G-DN42
-tech-c:             STV0G-DN42
-mnt-by:             NULLL-MNT
-nserver:            ns1.0l.dn42 172.23.156.1
-nserver:            ns2.0l.dn42 172.23.156.7
-status:             EVALPEND 1503915394
-source:             DN42

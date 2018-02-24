@@ -1,9 +1,0 @@
-aut-num:            AS64742
-as-name:            CHIANTOS-AS
-descr:              Chiantos Network - Kankan Home Network
-remarks:            Peerings via OpenVPN and Tinc
-remarks:            Peerings nodes hosted at Paris (FR) and Roubaix (FR)
-admin-c:            KANKAN-DN42
-tech-c:             KANKAN-DN42
-mnt-by:             KANKAN-MNT
-source:             DN42

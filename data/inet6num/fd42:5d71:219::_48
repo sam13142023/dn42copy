@@ -1,8 +1,0 @@
-inet6num:           fd42:5d71:0219:0000:0000:0000:0000:0000 - fd42:5d71:0219:ffff:ffff:ffff:ffff:ffff
-netname:            JRB0001
-admin-c:            JRB0001-DN42
-tech-c:             JRB0001-DN42
-mnt-by:             JRB0001-MNT
-status:             ALLOCATED PA
-cidr:               fd42:5d71:219::/48
-source:             DN42

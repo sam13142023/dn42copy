@@ -1,5 +1,0 @@
-route6:             fd42:2950:201::/48
-descr:              SIS-DN42-INET6-BLK1 route
-origin:             AS4242422950
-mnt-by:             SIS-MNT
-source:             DN42

@@ -1,8 +1,0 @@
-domain:             test123.dn42
-descr:              test domain
-admin-c:            AIM333-DN42
-tech-c:             AIM333-DN42
-mnt-by:             AIM333-MNT
-nserver:            ns.root.dn42
-status:             EVALPEND 1497609660
-source:             DN42

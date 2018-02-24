@@ -1,8 +1,0 @@
-domain:             miau.dn42
-admin-c:            MIAU-DN42
-tech-c:             MIAU-DN42
-mnt-by:             MIAU-MNT
-nserver:            ns1.miau.dn42 172.20.148.1
-nserver:            ns1.miau.dn42 fd42:4242:707::1
-status:             EVALPEND 1504781416
-source:             DN42

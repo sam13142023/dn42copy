@@ -1,4 +1,0 @@
-route:              10.104.0.0/16
-origin:             AS65038
-mnt-by:             HEXA-MNT
-source:             ICVPN

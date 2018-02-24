@@ -1,5 +1,0 @@
-route:              10.223.0.0/16
-origin:             AS65038
-origin:             AS4242420101
-mnt-by:             HEXA-MNT
-source:             ICVPN

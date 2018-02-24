@@ -1,8 +1,0 @@
-inetnum:            172.20.14.32 - 172.20.14.63
-cidr:               172.20.14.32/27
-netname:            KIOUBIT-NETWORK
-admin-c:            KIOUBIT-DN42
-tech-c:             KIOUBIT-DN42
-mnt-by:             KIOUBIT-MNT
-status:             ASSIGNED
-source:             DN42

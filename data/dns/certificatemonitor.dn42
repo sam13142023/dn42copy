@@ -1,9 +1,0 @@
-domain:             certificatemonitor.dn42
-descr:              certificatemonitor
-admin-c:            JOMAT-DN42
-tech-c:             JOMAT-DN42
-mnt-by:             JOMAT-MNT
-nserver:            ns0.jmt.dn42
-nserver:            ns1.jmt.dn42
-status:             EVALPEND 1503915898
-source:             DN42

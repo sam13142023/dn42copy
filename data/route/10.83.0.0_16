@@ -1,6 +1,0 @@
-route:              10.83.0.0/16
-descr:              FF Franken
-origin:             AS4242422950
-mnt-by:             SIS-MNT
-tech-c:             CR-DN42
-source:             ICVPN

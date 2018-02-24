@@ -1,8 +1,0 @@
-domain:             timando.dn42
-nserver:            ns1.timando.dn42 172.20.28.97
-nserver:            ns1.timando.dn42 fd42:fa76:1110::53
-status:             CONNECT
-admin-c:            TIMANDO-DN42
-tech-c:             TIMANDO-DN42
-mnt-by:             TIMANDO-MNT
-source:             DN42

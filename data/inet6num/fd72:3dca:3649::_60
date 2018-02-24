@@ -1,8 +1,0 @@
-inet6num:           fd72:3dca:3649::-fd72:3dca:3649:ffff::
-netname:            EXAMPLENET-AP
-admin-c:            ASUK-DN42
-tech-c:             ASUK-DN42
-mnt-by:             ASUK-MNT
-status:             ASSIGNED
-cidr:               fd72:3dca:3649::/60
-source:             DN42

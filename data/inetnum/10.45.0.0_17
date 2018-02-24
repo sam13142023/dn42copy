@@ -1,8 +1,0 @@
-inetnum:            10.45.0.0 - 10.45.127.255
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-status:             ALLOCATED
-cidr:               10.45.0.0/17
-mnt-by:             DUMMY-MNT
-netname:            Unnamed 10.45.0.0/17 Network
-source:             ICVPN

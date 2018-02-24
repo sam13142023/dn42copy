@@ -1,7 +1,0 @@
-domain:             maltejk.dn42
-admin-c:            MALTEJK-DN42
-tech-c:             MALTEJK-DN42
-mnt-by:             MALTEJK-MNT
-nserver:            dns01.maltejk.de
-status:             CONNECT
-source:             DN42

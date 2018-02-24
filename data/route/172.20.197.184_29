@@ -1,6 +1,0 @@
-route:              172.20.197.184/29
-descr:              ATR Internal Virtulazation Addresses
-origin:             AS4242421237
-origin:             AS4242421233
-mnt-by:             ATR-MNT
-source:             DN42

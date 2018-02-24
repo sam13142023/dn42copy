@@ -1,5 +1,0 @@
-route:              10.11.64.0/18
-descr:              Librefunk.net
-origin:             AS4242422425
-mnt-by:             LIBREFUNK-MNT
-source:             ICVPN

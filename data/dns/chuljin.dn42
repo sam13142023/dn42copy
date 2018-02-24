@@ -1,7 +1,0 @@
-domain:             chuljin.dn42
-admin-c:            CHULJIN-DN42
-tech-c:             CHULJIN-DN42
-mnt-by:             CHULJIN-MNT
-nserver:            ns1.chuljin.dn42 172.20.248.45
-status:             EVALPEND 1503915988
-source:             DN42

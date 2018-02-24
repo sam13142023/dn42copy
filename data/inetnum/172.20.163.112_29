@@ -1,9 +1,0 @@
-inetnum:            172.20.163.112 - 172.20.163.119
-cidr:               172.20.163.112/29
-netname:            MULTI-NETWORK
-admin-c:            MULTI-DN42
-tech-c:             MULTI-DN42
-mnt-by:             MULTI-MNT
-nserver:            1.0.0.127.in-addr.dn42
-status:             ASSIGNED
-source:             DN42

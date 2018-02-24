@@ -1,5 +1,0 @@
-route:              10.80.0.0/16
-descr:              Freifunk München
-origin:             AS65080
-mnt-by:             FPLETZ-MNT
-source:             ICVPN
