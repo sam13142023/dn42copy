@@ -2,7 +2,7 @@ inetnum:            10.21.0.0 - 10.21.255.255
 cidr:               10.21.0.0/16
 netname:            ICVPN-LEICHLINGEN
 bgp-status:         ignored
-nserver:            1.3.21.10.in-addr.arpa 10.21.3.1
+nserver:            1.3.21.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: leichlingen
 mnt-by:             DN42-MNT

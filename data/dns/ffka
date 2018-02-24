@@ -1,6 +1,6 @@
 domain:             ffka
 status:             CONNECT
-nserver:            3.0.214.10.in-addr.arpa 10.214.0.3
+nserver:            3.0.214.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: karlsruhe
 mnt-by:             DN42-MNT

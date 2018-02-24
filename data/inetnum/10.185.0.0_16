@@ -2,12 +2,12 @@ inetnum:            10.185.0.0 - 10.185.255.255
 cidr:               10.185.0.0/16
 netname:            ICVPN-FULDA
 bgp-status:         ignored
-nserver:            1.0.185.10.in-addr.arpa 10.185.0.1
-nserver:            2.0.185.10.in-addr.arpa 10.185.0.2
-nserver:            4.0.185.10.in-addr.arpa 10.185.0.4
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ip6.arpa fd00:65a8:93a4::1
-nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ip6.arpa fd00:65a8:93a4::2
-nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ip6.arpa fd00:65a8:93a4::4
+nserver:            1.0.185.10.icvpn.registry-sync.dn42
+nserver:            2.0.185.10.icvpn.registry-sync.dn42
+nserver:            4.0.185.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.icvpn.registry-sync.dn42
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: fulda
 mnt-by:             DN42-MNT

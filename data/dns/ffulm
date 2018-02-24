@@ -1,17 +1,17 @@
 domain:             ffulm
 status:             CONNECT
-nserver:            1.64.33.10.in-addr.arpa 10.33.64.1
-nserver:            1.68.33.10.in-addr.arpa 10.33.68.1
-nserver:            1.76.33.10.in-addr.arpa 10.33.76.1
-nserver:            1.100.33.10.in-addr.arpa 10.33.100.1
-nserver:            1.104.33.10.in-addr.arpa 10.33.104.1
-nserver:            1.108.33.10.in-addr.arpa 10.33.108.1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:64::1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.6.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:68::1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.7.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:76::1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:100::1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.1.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:104::1
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.1.1.f.f.f.0.a.7.1.f.e.d.f.ip6.arpa fdef:17a0:fff1:108::1
+nserver:            1.64.33.10.icvpn.registry-sync.dn42
+nserver:            1.68.33.10.icvpn.registry-sync.dn42
+nserver:            1.76.33.10.icvpn.registry-sync.dn42
+nserver:            1.100.33.10.icvpn.registry-sync.dn42
+nserver:            1.104.33.10.icvpn.registry-sync.dn42
+nserver:            1.108.33.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.6.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.7.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.1.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.1.1.f.f.f.0.a.7.1.f.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: ulm
 mnt-by:             DN42-MNT

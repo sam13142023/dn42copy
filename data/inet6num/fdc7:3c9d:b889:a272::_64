@@ -2,12 +2,12 @@ inet6num:           fdc7:3c9d:b889:a272:0000:0000:0000:0000 - fdc7:3c9d:b889:a27
 cidr:               fdc7:3c9d:b889:a272::/64
 netname:            ICVPN-DREILAENDERECK
 bgp-status:         ignored
-nserver:            5.0.119.10.in-addr.arpa 10.119.0.5
-nserver:            4.0.119.10.in-addr.arpa 10.119.0.4
-nserver:            10.0.119.10.in-addr.arpa 10.119.0.10
-nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::5
-nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::4
-nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ip6.arpa fdc7:3c9d:b889:a272::a
+nserver:            5.0.119.10.icvpn.registry-sync.dn42
+nserver:            4.0.119.10.icvpn.registry-sync.dn42
+nserver:            10.0.119.10.icvpn.registry-sync.dn42
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: dreilaendereck
 mnt-by:             DN42-MNT

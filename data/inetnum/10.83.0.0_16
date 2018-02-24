@@ -2,9 +2,9 @@ inetnum:            10.83.0.0 - 10.83.255.255
 cidr:               10.83.0.0/16
 netname:            ICVPN-FRANKEN
 bgp-status:         ignored
-nserver:            10.40.50.10.in-addr.arpa 10.50.40.10
-nserver:            11.252.83.10.in-addr.arpa 10.83.252.11
-nserver:            0.252.50.10.in-addr.arpa 10.50.252.0
+nserver:            10.40.50.10.icvpn.registry-sync.dn42
+nserver:            11.252.83.10.icvpn.registry-sync.dn42
+nserver:            0.252.50.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: franken
 mnt-by:             DN42-MNT

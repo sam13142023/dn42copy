@@ -2,8 +2,8 @@ inetnum:            10.72.0.0 - 10.72.255.255
 cidr:               10.72.0.0/16
 netname:            ICVPN-NORDWEST
 bgp-status:         ignored
-nserver:            1.0.18.10.in-addr.arpa 10.18.0.1
-nserver:            1.32.18.10.in-addr.arpa 10.18.32.1
+nserver:            1.0.18.10.icvpn.registry-sync.dn42
+nserver:            1.32.18.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: nordwest
 mnt-by:             DN42-MNT

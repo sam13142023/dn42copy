@@ -2,8 +2,8 @@ inet6num:           2001:0bf7:1310:0000:0000:0000:0000:0000 - 2001:0bf7:131f:fff
 cidr:               2001:bf7:1310::/44
 netname:            ICVPN-KREISGT
 bgp-status:         ignored
-nserver:            53.128.255.10.in-addr.arpa 10.255.128.53
-nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.1.3.1.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:1310:200::53
+nserver:            53.128.255.10.icvpn.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.1.3.1.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: kreisgt
 mnt-by:             DN42-MNT

@@ -2,8 +2,8 @@ inetnum:            10.143.0.0 - 10.143.63.255
 cidr:               10.143.0.0/18
 netname:            ICVPN-GREIFSWALD
 bgp-status:         ignored
-nserver:            2.0.143.10.in-addr.arpa 10.143.0.2
-nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.d.e.e.f.f.a.f.e.d.f.ip6.arpa fdef:affe:edda::2
+nserver:            2.0.143.10.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.d.e.e.f.f.a.f.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: greifswald
 mnt-by:             DN42-MNT

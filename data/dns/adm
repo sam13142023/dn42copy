@@ -1,7 +1,7 @@
 domain:             adm
 status:             CONNECT
-nserver:            1.253.205.10.in-addr.arpa 10.205.253.1
-nserver:            2.253.205.10.in-addr.arpa 10.205.253.2
+nserver:            1.253.205.10.icvpn.registry-sync.dn42
+nserver:            2.253.205.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: amsterdam
 mnt-by:             DN42-MNT

@@ -1,7 +1,7 @@
 domain:             fflux
 status:             CONNECT
-nserver:            10.128.24.10.in-addr.arpa 10.24.128.10
-nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.e.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ip6.arpa fd4e:f2d7:88d2:fffe::10
+nserver:            10.128.24.10.icvpn.registry-sync.dn42
+nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.e.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: luxembourg
 mnt-by:             DN42-MNT

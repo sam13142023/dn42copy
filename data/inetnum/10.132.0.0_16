@@ -2,10 +2,10 @@ inetnum:            10.132.0.0 - 10.132.255.255
 cidr:               10.132.0.0/16
 netname:            ICVPN-PADERBORN
 bgp-status:         ignored
-nserver:            53.251.132.10.in-addr.arpa 10.132.251.53
-nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.ip6.arpa fdca:ffee:ff12:a251::53
-nserver:            58.181.70.80.in-addr.arpa 80.70.181.58
-nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.5.4.2.0.a.2.ip6.arpa 2a02:450:1:1::10
+nserver:            53.251.132.10.icvpn.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            58.181.70.80.icvpn.registry-sync.dn42
+nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.5.4.2.0.a.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: paderborn
 mnt-by:             DN42-MNT

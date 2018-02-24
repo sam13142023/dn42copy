@@ -1,7 +1,7 @@
 domain:             ffsl
 status:             CONNECT
-nserver:            55.55.55.10.in-addr.arpa 10.55.55.55
-nserver:            3.0.55.10.in-addr.arpa 10.55.0.3
+nserver:            55.55.55.10.icvpn.registry-sync.dn42
+nserver:            3.0.55.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: dillingen
 mnt-by:             DN42-MNT

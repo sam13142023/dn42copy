@@ -2,8 +2,8 @@ inetnum:            10.205.0.0 - 10.205.255.255
 cidr:               10.205.0.0/16
 netname:            ICVPN-AMSTERDAM
 bgp-status:         ignored
-nserver:            1.253.205.10.in-addr.arpa 10.205.253.1
-nserver:            2.253.205.10.in-addr.arpa 10.205.253.2
+nserver:            1.253.205.10.icvpn.registry-sync.dn42
+nserver:            2.253.205.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: amsterdam
 mnt-by:             DN42-MNT

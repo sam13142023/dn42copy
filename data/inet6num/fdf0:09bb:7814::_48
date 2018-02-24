@@ -2,15 +2,15 @@ inet6num:           fdf0:09bb:7814:0000:0000:0000:0000:0000 - fdf0:09bb:7814:fff
 cidr:               fdf0:09bb:7814::/48
 netname:            ICVPN-FREIBURG
 bgp-status:         ignored
-nserver:            103.0.60.10.in-addr.arpa 10.60.0.103
-nserver:            106.0.60.10.in-addr.arpa 10.60.0.106
-nserver:            112.0.60.10.in-addr.arpa 10.60.0.112
-nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.ip6.arpa fdf0:9bb:7814:a630::1113
-nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.ip6.arpa fdf0:9bb:7814:a630::1116
-nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.ip6.arpa fdf0:9bb:7814:a630::1122
-nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:2810::1113
-nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:2810::1116
-nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:2810::1122
+nserver:            103.0.60.10.icvpn.registry-sync.dn42
+nserver:            106.0.60.10.icvpn.registry-sync.dn42
+nserver:            112.0.60.10.icvpn.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: freiburg
 mnt-by:             DN42-MNT

@@ -1,6 +1,6 @@
 domain:             ffc
 status:             CONNECT
-nserver:            6.6.8.10.in-addr.arpa 10.8.6.6
+nserver:            6.6.8.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: chemnitz
 mnt-by:             DN42-MNT

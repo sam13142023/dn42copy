@@ -1,6 +1,6 @@
 domain:             ffj
 status:             CONNECT
-nserver:            1.250.17.10.in-addr.arpa 10.17.250.1
+nserver:            1.250.17.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: jena
 mnt-by:             DN42-MNT

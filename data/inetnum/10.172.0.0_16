@@ -2,10 +2,10 @@ inetnum:            10.172.0.0 - 10.172.255.255
 cidr:               10.172.0.0/16
 netname:            ICVPN-TRIER
 bgp-status:         ignored
-nserver:            14.0.172.10.in-addr.arpa 10.172.0.14
-nserver:            16.0.172.10.in-addr.arpa 10.172.0.16
-nserver:            4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:fc0f::14
-nserver:            6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.0.7.f.b.1.0.0.2.ip6.arpa 2001:bf7:fc0f::16
+nserver:            14.0.172.10.icvpn.registry-sync.dn42
+nserver:            16.0.172.10.icvpn.registry-sync.dn42
+nserver:            4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: trier
 mnt-by:             DN42-MNT
