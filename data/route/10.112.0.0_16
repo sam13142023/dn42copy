@@ -1,5 +1,5 @@
 route:              10.112.0.0/16
-origin:             AS65189
+origin:             AS49009
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: hamburg
 mnt-by:             DN42-MNT

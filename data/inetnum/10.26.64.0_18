@@ -1,0 +1,8 @@
+inetnum:            10.26.64.0 - 10.26.127.255
+cidr:               10.26.64.0/18
+netname:            ICVPN-BIELEFELD
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bielefeld
+mnt-by:             DN42-MNT
+source:             ICVPN

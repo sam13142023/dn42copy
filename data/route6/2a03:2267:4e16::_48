@@ -1,0 +1,6 @@
+route6:             2a03:2267:4e16::/48
+origin:             AS65189
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hamburg
+mnt-by:             DN42-MNT
+source:             ICVPN

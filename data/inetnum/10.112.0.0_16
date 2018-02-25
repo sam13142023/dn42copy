@@ -2,6 +2,8 @@ inetnum:            10.112.0.0 - 10.112.255.255
 cidr:               10.112.0.0/16
 netname:            ICVPN-HAMBURG
 bgp-status:         ignored
+nserver:            2.1.112.10.icvpn.registry-sync.dn42
+nserver:            2.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.6.2.2.3.0.a.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: hamburg
 mnt-by:             DN42-MNT
