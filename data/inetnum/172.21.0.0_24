@@ -1,0 +1,12 @@
+inetnum:            172.21.0.0 - 172.21.0.255
+cidr:               172.21.0.0/24
+netname:            NET-ANY21-DN42
+descr:              Anycast services
+remarks:            * Anyone is allowed to allocate from this pool (/32 per service)
+policy:             open
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+status:             ALLOCATED
+bgp-status:         ignore
+source:             DN42

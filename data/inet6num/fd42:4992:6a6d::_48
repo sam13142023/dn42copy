@@ -1,0 +1,12 @@
+inet6num:           fd42:4992:6a6d:0000:0000:0000:0000:0000 - fd42:4992:6a6d:ffff:ffff:ffff:ffff:ffff
+netname:            EVE-NETWORK
+descr:              Network of eve
+country:            DE
+admin-c:            MIC92-DN42
+tech-c:             MIC92-DN42
+mnt-by:             MIC92-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+cidr:               fd42:4992:6a6d::/48
+source:             DN42

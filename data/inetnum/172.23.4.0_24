@@ -1,0 +1,13 @@
+inetnum:            172.23.4.0 - 172.23.4.255
+netname:            NET-USN-00
+descr:              NixNodes US network
+country:            US
+admin-c:            NIXNODES-DN42
+tech-c:             NIXNODES-DN42
+mnt-by:             NIXNODES-MNT
+nserver:            ns1.nixnodes.dn42
+nserver:            ns2.nixnodes.dn42
+nserver:            ns3.nixnodes.dn42
+status:             ASSIGNED
+cidr:               172.23.4.0/24
+source:             DN42

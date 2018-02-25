@@ -1,0 +1,9 @@
+domain:             020
+remarks:            ** amsterdam
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.amsterdam.g.nic.dn42 10.205.253.1
+nserver:            ns2.amsterdam.g.nic.dn42 10.205.253.2
+source:             ICVPN

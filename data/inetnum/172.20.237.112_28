@@ -1,0 +1,12 @@
+inetnum:            172.20.237.112 - 172.20.237.127
+country:            DE
+descr:              Salt-Orchestrated DN42 Network
+admin-c:            FLEAZ-DN42
+tech-c:             FLEAZ-DN42
+tech-c:             HEXA-DN42
+mnt-by:             FLEAZ-MNT
+mnt-by:             HEXA-MNT
+status:             ASSIGNED
+cidr:               172.20.237.112/28
+netname:            Unnamed 172.20.237.112/28 Network
+source:             DN42

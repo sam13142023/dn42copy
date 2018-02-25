@@ -1,0 +1,5 @@
+route:              10.119.0.0/16
+origin:             AS65043
+mnt-by:             FF3L-MNT
+mnt-by:             KPANIC-MNT
+source:             ICVPN

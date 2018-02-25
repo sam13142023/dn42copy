@@ -1,0 +1,9 @@
+domain:             evenet.dn42
+descr:              evenet domain
+admin-c:            MIC92-DN42
+tech-c:             MIC92-DN42
+mnt-by:             MIC92-MNT
+nserver:            ns1.evenet.dn42 172.23.75.6
+nserver:            ns1.evenet.dn42 fd42:4992:6a6d::6
+status:             EVALPEND 1503916413
+source:             DN42

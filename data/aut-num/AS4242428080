@@ -1,0 +1,10 @@
+aut-num:            AS4242428080
+as-name:            SALT-DN42-OPS
+descr:              Salt-Orchestrated Autonomous System Management
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+admin-c:            FLEAZ-DN42
+tech-c:             FLEAZ-DN42
+mnt-by:             FLEAZ-MNT
+source:             DN42

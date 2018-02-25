@@ -1,0 +1,6 @@
+aut-num:            AS4242422030
+admin-c:            MUTE-DN42
+tech-c:             MUTE-DN42
+mnt-by:             MUTE-MNT
+as-name:            neutronnet
+source:             DN42

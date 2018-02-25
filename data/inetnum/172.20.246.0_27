@@ -1,0 +1,11 @@
+inetnum:            172.20.246.0-172.20.246.31
+netname:            NET-PHYSTRAX-000
+country:            CA
+admin-c:            MADYODA-DN42
+tech-c:             MADYODA-DN42
+mnt-by:             PHYSTRAX-MNT
+nserver:            dummy.dn42
+status:             ASSIGNED
+bgp-status:         ignore
+cidr:               172.20.246.0/27
+source:             DN42

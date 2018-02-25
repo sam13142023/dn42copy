@@ -1,0 +1,8 @@
+inet6num:           fdcf:8538:9ad5:3a5f:: - fdcf:8538:9ad5:3a5f:ffff:ffff:ffff:ffff
+netname:            KIOUBIT-NETWORK-IPV6
+admin-c:            KIOUBIT-DN42
+tech-c:             KIOUBIT-DN42
+mnt-by:             KIOUBIT-MNT
+status:             ASSIGNED
+cidr:               fdcf:8538:9ad5:3a5f::/64
+source:             DN42

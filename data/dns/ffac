@@ -1,0 +1,11 @@
+domain:             ffac
+remarks:            ** aachen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.aachen.g.nic.dn42 10.5.0.241
+nserver:            ns2.aachen.g.nic.dn42 10.5.0.242
+nserver:            ns1.aachen.g.nic.dn42 2a03:2260:114::1:53
+nserver:            ns2.aachen.g.nic.dn42 2a03:2260:114::2:53
+source:             ICVPN

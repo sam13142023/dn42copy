@@ -1,0 +1,9 @@
+domain:             ffamt
+remarks:            ** altmuehltal
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.altmuehltal.g.nic.dn42 10.202.2.2
+nserver:            ns2.altmuehltal.g.nic.dn42 10.202.2.4
+source:             ICVPN

@@ -1,0 +1,10 @@
+inetnum:            10.24.128.0 - 10.24.191.255
+remarks:            ** luxembourg
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.luxembourg.g.nic.dn42
+cidr:               10.24.128.0/18
+netname:            Unnamed 10.24.128.0/18 Network
+source:             ICVPN

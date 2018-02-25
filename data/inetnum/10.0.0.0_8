@@ -1,0 +1,13 @@
+inetnum:            10.0.0.0 - 10.255.255.255
+cidr:               10.0.0.0/8
+netname:            BLK-FREIFUNK
+descr:              Freifunk Intercity-VPN
+remarks:            Registry at https://github.com/freifunk/icvpn-meta
+policy:             closed
+admin-c:            HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            m.in-addr-servers.dn42
+nserver:            x.in-addr-servers.dn42
+nserver:            g.in-addr-servers.dn42
+status:             ALLOCATED
+source:             ICVPN

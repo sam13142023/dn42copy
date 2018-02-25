@@ -1,0 +1,12 @@
+inet6num:           FD00:F100:FE00:0000:0000:0000:0000:0000 - FD00:F100:FE00:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:            JMLIBER-IPV6
+descr:              JMLIBER
+country:            US
+admin-c:            JMLIBER-DN42
+tech-c:             JMLIBER-DN42
+mnt-by:             JMLIBER-MNT
+nserver:            ns1.jmliber.dn42
+nserver:            ns2.jmliber.dn42
+status:             ASSIGNED
+cidr:               fd00:f100:fe00::/48
+source:             DN42

@@ -1,0 +1,10 @@
+aut-num:            AS4242421555
+as-name:            FLORIANB-AS
+descr:              florianbAT
+remarks:            --------------------------------------------------
+remarks:            | Located in Austria                             |
+remarks:            --------------------------------------------------
+admin-c:            FLORIANB-DN42
+tech-c:             FLORIANB-DN42
+mnt-by:             FLORIANB-MNT
+source:             DN42

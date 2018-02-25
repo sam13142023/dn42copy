@@ -1,0 +1,4 @@
+route:              172.20.149.64/26
+origin:             AS4242423699
+mnt-by:             PETRI13-MNT
+source:             DN42

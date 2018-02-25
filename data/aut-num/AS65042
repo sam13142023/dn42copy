@@ -1,0 +1,8 @@
+aut-num:            AS65042
+as-name:            FFWEIMAR-AS
+descr:              Freifunk Weimar
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+source:             ICVPN

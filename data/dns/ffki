@@ -1,0 +1,14 @@
+domain:             ffki
+remarks:            ** kiel
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.kiel.g.nic.dn42 fda1:384a:74de:4242::ff00
+nserver:            ns2.kiel.g.nic.dn42 fda1:384a:74de:4242::ff01
+nserver:            ns3.kiel.g.nic.dn42 fda1:384a:74de:4242::ff02
+nserver:            ns4.kiel.g.nic.dn42 fda1:384a:74de:4242::ff03
+nserver:            ns5.kiel.g.nic.dn42 fda1:384a:74de:4242::ff05
+nserver:            ns6.kiel.g.nic.dn42 fda1:384a:74de:4242::ff06
+nserver:            ns7.kiel.g.nic.dn42 fda1:384a:74de:4242::ff07
+source:             ICVPN

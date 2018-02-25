@@ -1,0 +1,10 @@
+inetnum:            10.13.80.0 - 10.13.95.255
+remarks:            ** erzgebirge
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.erzgebirge.g.nic.dn42
+cidr:               10.13.80.0/20
+netname:            Unnamed 10.13.80.0/20 Network
+source:             ICVPN

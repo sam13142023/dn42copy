@@ -1,0 +1,5 @@
+route:              172.20.148.0/29
+descr:              Schleichpfade
+origin:             AS4242420707
+mnt-by:             MIAU-MNT
+source:             DN42

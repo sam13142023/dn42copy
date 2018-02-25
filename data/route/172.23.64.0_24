@@ -1,0 +1,4 @@
+route:              172.23.64.0/24
+origin:             AS4242421375
+mnt-by:             ERI-MNT
+source:             DN42

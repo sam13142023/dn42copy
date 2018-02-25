@@ -1,0 +1,13 @@
+inetnum:            172.21.128.0 - 172.21.191.255
+netname:            NET-BLK128118-DN42
+cidr:               172.21.128.0/18
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
+policy:             reserved
+admin-c:            HEXA-DN42
+admin-c:            SISKA-DN42
+mnt-by:             HEXA-MNT
+mnt-by:             NIXNODES-MNT
+status:             ALLOCATED
+bgp-status:         ignore
+source:             DN42

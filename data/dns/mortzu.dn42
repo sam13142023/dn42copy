@@ -1,0 +1,8 @@
+domain:             mortzu.dn42
+nserver:            ns-1.mortzu.dn42 172.22.192.19
+nserver:            ns-2.mortzu.dn42 172.22.192.226
+admin-c:            MORTZU-DN42
+tech-c:             MORTZU-DN42
+mnt-by:             MORTZU-MNT
+status:             EVALPEND 1500201135
+source:             DN42

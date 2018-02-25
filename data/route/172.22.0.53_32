@@ -1,0 +1,15 @@
+route:              172.22.0.53/32
+descr:              dn42 anycast DNS
+origin:             AS64737
+mnt-by:             XUU-MNT
+origin:             AS4242420123
+mnt-by:             GRMML-MNT
+origin:             AS76114
+mnt-by:             HAX404-MNT
+mnt-by:             NIXNODES-MNT
+origin:             AS4242420321
+mnt-by:             TOMBII-DN42-MNT
+origin:             AS4242420022
+mnt-by:             BLAZING-MNT
+tech-c:             SOURIS-DN42
+source:             DN42

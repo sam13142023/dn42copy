@@ -1,0 +1,8 @@
+domain:             mueritz
+remarks:            ** mueritz
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.mueritz.g.nic.dn42 10.169.1.1
+source:             ICVPN

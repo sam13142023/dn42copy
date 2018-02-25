@@ -1,0 +1,11 @@
+inetnum:            10.15.192.0 - 10.15.207.255
+remarks:            ** prignitz
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.prignitz.g.nic.dn42
+nserver:            ns2.prignitz.g.nic.dn42
+cidr:               10.15.192.0/20
+netname:            Unnamed 10.15.192.0/20 Network
+source:             ICVPN

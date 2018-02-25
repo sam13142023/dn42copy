@@ -1,0 +1,11 @@
+inet6num:           fdff:0000:fcd0:0:0:0:0:0 - fdff:0000:fcd0:ffff:ffff:ffff:ffff:ffff
+netname:            PRAUSCHER-TRANSFER-IPV6
+descr:              Transfer network of prauscher
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+bgp-status:         ignore
+cidr:               fdff:0:fcd0::/48
+source:             DN42

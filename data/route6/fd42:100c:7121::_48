@@ -1,0 +1,5 @@
+route6:             fd42:100c:7121::/48
+descr:              Freifunk Marburg NPTv6
+origin:             AS64877
+mnt-by:             OLEANDER-MNT
+source:             ICVPN

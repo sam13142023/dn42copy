@@ -1,0 +1,13 @@
+inetnum:            10.130.0.0 - 10.130.255.255
+remarks:            ** luebeck
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.luebeck.g.nic.dn42
+nserver:            ns2.luebeck.g.nic.dn42
+nserver:            ns3.luebeck.g.nic.dn42
+nserver:            ns4.luebeck.g.nic.dn42
+cidr:               10.130.0.0/16
+netname:            Unnamed 10.130.0.0/16 Network
+source:             ICVPN

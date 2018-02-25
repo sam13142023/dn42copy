@@ -1,0 +1,11 @@
+inet6num:           fda1:384a:74de:4242:: - fda1:384a:74de:4242:ffff:ffff:ffff:ffff
+netname:            TSYS-FFKI
+descr:              ffki
+country:            DE
+admin-c:            TSYS-DN42
+tech-c:             TSYS-DN42
+mnt-by:             TSYS-MNT
+nserver:            ns1.loaderror.de
+status:             ALLOCATED
+cidr:               fda1:384a:74de:4242::/64
+source:             ICVPN

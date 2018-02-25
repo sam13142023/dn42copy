@@ -1,0 +1,9 @@
+inetnum:            172.23.6.0 - 172.23.6.255
+netname:            NET-TESTN-00
+country:            US
+admin-c:            NIXNODES-DN42
+tech-c:             NIXNODES-DN42
+mnt-by:             NIXNODES-MNT
+status:             ASSIGNED
+cidr:               172.23.6.0/24
+source:             DN42

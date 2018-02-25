@@ -1,0 +1,10 @@
+inet6num:           FD96:97DF:6B81:0000:0000:0000:0000:0000 - FD96:97DF:6B81:FFFF:FFFF:FFFF:FFFF:FFFF
+netname:            NET-HOPE-003
+country:            GB
+admin-c:            DHOPE-DN42
+tech-c:             DHOPE-DN42
+mnt-by:             HOPE-MNT
+nserver:            dummy.dn42
+status:             ASSIGNED
+cidr:               fd96:97df:6b81::/48
+source:             DN42

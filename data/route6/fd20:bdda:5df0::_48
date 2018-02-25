@@ -1,0 +1,6 @@
+route:              fd20:bdda:5df0::/48
+origin:             AS76129
+admin-c:            CHAOTIKUM-DN42
+tech-c:             CHAOTIKUM-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             erg.dn42
+descr:              Electronics Research Group
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             ERG-MNT
+nserver:            ns1.erg.dn42 172.20.152.2
+status:             EVALPEND 1503916368
+source:             DN42

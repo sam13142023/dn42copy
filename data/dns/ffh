@@ -1,0 +1,17 @@
+domain:             ffh
+remarks:            ** hannover
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.hannover.g.nic.dn42 10.2.10.1
+nserver:            ns1.hannover.g.nic.dn42 fdca:ffee:8::a01
+nserver:            ns2.hannover.g.nic.dn42 10.2.20.1
+nserver:            ns2.hannover.g.nic.dn42 fdca:ffee:8::1401
+nserver:            ns3.hannover.g.nic.dn42 10.2.30.1
+nserver:            ns3.hannover.g.nic.dn42 fdca:ffee:8::1e01
+nserver:            ns4.hannover.g.nic.dn42 10.2.40.1
+nserver:            ns4.hannover.g.nic.dn42 fdca:ffee:8::2801
+nserver:            ns5.hannover.g.nic.dn42 10.2.50.1
+nserver:            ns5.hannover.g.nic.dn42 fdca:ffee:8::3201
+source:             ICVPN

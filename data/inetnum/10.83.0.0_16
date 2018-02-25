@@ -1,0 +1,12 @@
+inetnum:            10.83.0.0 - 10.83.255.255
+remarks:            ** franken
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             SIS-MNT
+status:             ALLOCATED
+nserver:            ns1.franken.g.nic.dn42
+nserver:            ns2.franken.g.nic.dn42
+nserver:            ns3.franken.g.nic.dn42
+cidr:               10.83.0.0/16
+netname:            Unnamed 10.83.0.0/16 Network
+source:             ICVPN

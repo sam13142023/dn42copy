@@ -1,0 +1,10 @@
+inet6num:           fd42:ccc:fd:0:0:0:0:0 - fd42:ccc:fd:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IPV6-MAGLAB
+descr:              Chaostreff Fulda
+country:            DE
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+status:             ASSIGNED
+cidr:               fd42:ccc:fd::/48
+source:             DN42

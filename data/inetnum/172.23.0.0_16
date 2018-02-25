@@ -1,0 +1,16 @@
+inetnum:            172.23.0.0 - 172.23.255.255
+cidr:               172.23.0.0/16
+netname:            NET-BLK316-DN42
+descr:              The secondary DN42 IPv4 address block.
+nserver:            m.in-addr-servers.dn42
+nserver:            x.in-addr-servers.dn42
+nserver:            g.in-addr-servers.dn42
+policy:             reserved
+remarks:            Not free for direct assignments, please use sub-allocated blocks
+admin-c:            NIXNODES-DN42
+admin-c:            SOURIS-DN42
+mnt-by:             NIXNODES-MNT
+mnt-by:             XUU-MNT
+status:             ALLOCATED
+bgp-status:         ignore
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fda1:d26b:7461::/48
+origin:             AS76115
+origin:             AS4242420000
+mnt-by:             PYROPETER-MNT
+source:             DN42

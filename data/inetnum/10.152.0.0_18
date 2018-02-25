@@ -1,0 +1,11 @@
+inetnum:            10.152.0.0 - 10.152.63.255
+remarks:            ** siegburg
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.siegburg.g.nic.dn42
+nserver:            ns2.siegburg.g.nic.dn42
+cidr:               10.152.0.0/18
+netname:            Unnamed 10.152.0.0/18 Network
+source:             ICVPN

@@ -1,0 +1,33 @@
+aut-num:            AS4242420123
+as-name:            GRMML-AS
+descr:              GRMML Main Network
+remarks:            +==================================================+
+remarks:            | * Open peering policy                            |
+remarks:            | * For peering contact me at nurtic-vibe@grmml.eu |
+remarks:            |   or via IRC Nurtic-Vibe @ hackint               |
+remarks:            +===========+======================================+
+remarks:            | Server    | Location                             |
+remarks:            +-----------+--------------------------------------+
+remarks:            | Europe                                           |
+remarks:            +-----------+--------------------------------------+
+remarks:            | Meduna    | Falkenstein, Germany (Hetzner RZ16)  |
+remarks:            | Abnoba    | Falkenstein, Germany (Hetzner RZ22)  |
+remarks:            | Teutates  | Frankfurt, Germany (ArubaCloud)      |
+remarks:            | Bergusia  | Vitry-Sur-Seine, France (Online)     |
+remarks:            | Eirene    | Strasbourg, France (OVH)             |
+remarks:            | Tuisto    | Amsterdam, Netherlands (Leaseweb)    |
+remarks:            | Apollo    | Arezzo, Italy (ArubaCloud)           |
+remarks:            | Alator    | London, UK (ArubaCloud)              |
+remarks:            | Perun     | Ktis, Czech Republic (ArubaCloud)    |
+remarks:            +-----------+--------------------------------------+
+remarks:            | North America                                    |
+remarks:            +-----------+--------------------------------------+
+remarks:            | Nimue     | New York City, NY, US (BuyVM)        |
+remarks:            | Artio     | Chicago, IL, US (Kaiju)              |
+remarks:            | Rigani    | Los Angeles, CA, US (Quadranet)      |
+remarks:            | Idun      | Toronto, ON, Canada (CloudAtCost)    |
+remarks:            +===========+======================================+
+admin-c:            GRMML-DN42
+tech-c:             GRMML-DN42
+mnt-by:             GRMML-MNT
+source:             DN42

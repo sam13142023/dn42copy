@@ -1,0 +1,7 @@
+domain:             bitpipe.dn42
+nserver:            ns1.bitpipe.dn42 172.20.135.34
+status:             OFFLINE
+admin-c:            IUS-DN42
+tech-c:             IUS-DN42
+mnt-by:             IUS-MNT
+source:             DN42

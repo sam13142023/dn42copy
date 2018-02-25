@@ -1,0 +1,10 @@
+inetnum:            10.189.0.0 - 10.189.63.255
+remarks:            ** helgoland
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.helgoland.g.nic.dn42
+cidr:               10.189.0.0/18
+netname:            Unnamed 10.189.0.0/18 Network
+source:             ICVPN

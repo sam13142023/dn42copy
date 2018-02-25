@@ -1,0 +1,11 @@
+inet6num:           fd23:42:c3d2:0:0:0:0:0 - fd23:0042:c3d2:00ff:ffff:ffff:ffff:ffff
+netname:            C3D2-WETU
+country:            DE
+org:                ORG-C3D2
+admin-c:            MIC92-DN42
+tech-c:             MIC92-DN42
+mnt-by:             MIC92-MNT
+nserver:            ns.c3d2.de
+status:             ALLOCATED
+cidr:               fd23:42:c3d2::/56
+source:             DN42

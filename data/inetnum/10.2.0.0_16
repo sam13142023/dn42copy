@@ -1,0 +1,14 @@
+inetnum:            10.2.0.0 - 10.2.255.255
+remarks:            ** hannover
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.hannover.g.nic.dn42
+nserver:            ns2.hannover.g.nic.dn42
+nserver:            ns3.hannover.g.nic.dn42
+nserver:            ns4.hannover.g.nic.dn42
+nserver:            ns5.hannover.g.nic.dn42
+cidr:               10.2.0.0/16
+netname:            Unnamed 10.2.0.0/16 Network
+source:             ICVPN

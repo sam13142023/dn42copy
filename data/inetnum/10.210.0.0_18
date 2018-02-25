@@ -1,0 +1,16 @@
+inetnum:            10.210.0.0 - 10.210.63.255
+remarks:            ** suedwest
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.suedwest.g.nic.dn42
+nserver:            ns2.suedwest.g.nic.dn42
+nserver:            ns3.suedwest.g.nic.dn42
+nserver:            ns4.suedwest.g.nic.dn42
+nserver:            ns5.suedwest.g.nic.dn42
+nserver:            ns6.suedwest.g.nic.dn42
+nserver:            ns7.suedwest.g.nic.dn42
+cidr:               10.210.0.0/18
+netname:            Unnamed 10.210.0.0/18 Network
+source:             ICVPN

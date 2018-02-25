@@ -1,0 +1,10 @@
+inet6num:           fdef:17a0:ffb1:0:0:0:0:0 - fdef:17a0:ffb1:ffff:ffff:ffff:ffff:ffff
+netname:            NET-FREIFUNKBIELEFELD-IP6-ULA
+descr:              Freifunk Bielefeld private IPv6 Net
+country:            DE
+admin-c:            FREIFUNKBIELEFELD-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+status:             ASSIGNED
+cidr:               fdef:17a0:ffb1::/48
+source:             ICVPN

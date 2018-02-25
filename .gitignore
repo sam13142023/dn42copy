@@ -1,0 +1,5 @@
+_MTN
+lib/
+whoisd/
+utils/
+!utils/schema-check/*.py

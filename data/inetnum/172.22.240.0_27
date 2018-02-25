@@ -1,0 +1,12 @@
+inetnum:            172.22.240.0-172.22.240.31
+netname:            CRAIG4WHO-DN42
+descr:              CRAIG4WHO-DN42
+country:            GB
+admin-c:            CRAIG4WHO-DN42
+tech-c:             CRAIG4WHO-DN42
+mnt-by:             CRAIG4WHO-MNT
+nserver:            NS1.DUMMY.NET
+status:             ALLOCATED
+bgp-status:         ignore
+cidr:               172.22.240.0/27
+source:             DN42

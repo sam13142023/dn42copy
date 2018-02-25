@@ -1,0 +1,9 @@
+domain:             asi.dn42
+descr:              asi.dn42
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.jmt.dn42
+nserver:            ns1.jmt.dn42
+status:             EVALPEND 1503915699
+source:             DN42

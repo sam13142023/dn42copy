@@ -1,0 +1,11 @@
+inet6num:           fdc0:ffee:0000:0000:0000:0000:0000:0000 - fdc0:ffee:0000:ffff:ffff:ffff:ffff:ffff
+netname:            MUTE-6NET2
+descr:              MUTE-6NET2
+country:            US
+admin-c:            MUTE-DN42
+tech-c:             MUTE-DN42
+mnt-by:             MUTE-MNT
+status:             ASSIGNED
+nserver:            ns1.mute.dn42
+cidr:               fdc0:ffee::/48
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             gxa.dn42
+descr:              GXA
+admin-c:            GXA-DN42
+tech-c:             GXA-DN42
+mnt-by:             GXA-MNT
+nserver:            a.ns.sigterm.dn42
+nserver:            b.ns.sigterm.dn42
+status:             EVALPEND 1503916716
+source:             DN42

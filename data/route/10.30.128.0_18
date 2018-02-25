@@ -1,0 +1,5 @@
+route:              10.30.128.0/18
+origin:             AS65043
+mnt-by:             FF3L-MNT
+mnt-by:             KPANIC-MNT
+source:             ICVPN

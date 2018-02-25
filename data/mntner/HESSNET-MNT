@@ -1,0 +1,8 @@
+mntner:             HESSNET-MNT
+descr:              HESSNET.DK
+admin-c:            GRAFFEN-DN42
+tech-c:             GRAFFEN-DN42
+mnt-by:             HESSNET-MNT
+sha512-pw:          9bd4ad27bc1729d2af7e72b50a6d38db86dca733ee3a62a277a05f95f6a610b0b3ab79ad4fd24d3002676b06b7a0f11123c8eacd99f13be2e1bee4ca81499a4d
+auth:               pgp-fingerprint 03CD582F13C0682C8F529C0584170D85CAEBD4B2
+source:             DN42

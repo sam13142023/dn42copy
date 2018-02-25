@@ -1,0 +1,11 @@
+inetnum:            172.22.96.0 - 172.22.127.255
+netname:            NET-BLK29619-DN42
+descr:              DN42 native address space
+policy:             open
+remarks:            Defaultallocation /28, never more than /24
+admin-c:            PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ALLOCATED
+bgp-status:         ignore
+cidr:               172.22.96.0/19
+source:             DN42

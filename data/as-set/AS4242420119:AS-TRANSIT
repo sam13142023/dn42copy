@@ -1,0 +1,23 @@
+as-set:             AS4242420119:AS-TRANSIT
+remarks:            DRATHIR-MNT
+members:            AS4242423759
+remarks:            ALTF4-MNT
+members:            AS4242422935
+remarks:            ELOKO-MNT
+members:            AS4242423298
+remarks:            KRSTN-MNT
+members:            AS4242423723
+remarks:            SKYNET-MNT (IO)
+members:            AS4242420630
+remarks:            GRMML-MNT
+members:            AS4242420123
+remarks:            LUTOMA-MNT
+members:            AS64719
+remarks:            XUU-MNT
+members:            AS64737
+remarks:            MUTE-MNT
+members:            AS4242422030
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+source:             DN42

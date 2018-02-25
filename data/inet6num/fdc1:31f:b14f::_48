@@ -1,0 +1,11 @@
+inet6num:           fdc1:31f:b14f:0:0:0:0:0 - fdc1:31f:b14f:ffff:ffff:ffff:ffff:ffff
+netname:            PRAUSCHER-ULA-IP6NET
+nserver:            sheldon.intern.prauscher.de
+descr:              prauschers ULA IPv6 network
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               fdc1:31f:b14f::/48
+source:             DN42

@@ -1,0 +1,12 @@
+domain:             dlv.dn42
+nserver:            lavana.sjc.xuu.dn42 172.22.141.181
+nserver:            lavana.sjc.xuu.dn42 fdea:a15a:77b9:4444::181
+nserver:            kapha.mtr.xuu.dn42 172.22.141.171
+nserver:            kapha.mtr.xuu.dn42 fdea:a15a:77b9:4444::171
+nserver:            rishi.bre.xuu.dn42 172.22.141.191
+nserver:            rishi.bre.xuu.dn42 fdea:a15a:77b9:4444::191
+status:             CONNECT
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+source:             DN42

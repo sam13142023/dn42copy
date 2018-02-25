@@ -1,0 +1,11 @@
+inetnum:            10.55.128.0 - 10.55.191.255
+remarks:            ** merzig
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             NIXNODES-MNT
+status:             ALLOCATED
+nserver:            ns1.merzig.g.nic.dn42
+nserver:            ns2.merzig.g.nic.dn42
+cidr:               10.55.128.0/18
+netname:            Unnamed 10.55.128.0/18 Network
+source:             ICVPN

@@ -1,0 +1,8 @@
+domain:             dan.dn42
+descr:              DAN DNS
+admin-c:            DAN-DN42
+tech-c:             DAN-DN42
+mnt-by:             DAN-MNT
+nserver:            ns1.dan.dn42
+status:             CONNECT
+source:             DN42

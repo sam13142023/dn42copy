@@ -1,0 +1,49 @@
+schema:             SCHEMA-SCHEMA
+ref:                dn42.schema
+key:                schema   required  single    schema primary  > [name]
+key:                ref      required  single    > [schema]
+key:                key      required  multiple  > [key-name]
+                    {required|optional|recommend|deprecate}
+                    {one|many} {single|multi} {primary|} {schema|}
+                    lookup=str '>' [spec]...
+key:                mnt-by   required  multiple    lookup=dn42.mntner > [mntner]
+key:                remarks  optional  multiple  > [text]...
+mnt-by:             DN42-MNT
+remarks:            # option descriptions
+                    required
+                    :    object required to have at least one
+                    optional
+                    :    object not required to have at least one
++
+                    single
+                    :    only one of this type allowed
+                    multiple
+                    :    more than one of this type allowed
++
+                    primary
+                    :    use field as lookup key for lookup
+                    * only one allowed per schema
+                    * does not allow newlines
++
+                    schema
+                    :    use field name as the name of the schema
+                    * only one allowed per schema
+                    * does not allow newlines
++
+                    lookup
+                    :    schema match to use for related record
++
+                    \> option specs
+                    :    defines the option specifications for the key.
+                    * must come last in option list
++
+                    [label] string value. A positional string argument required.
+                    Text inside brackets represent a label for the string.
+                    If follwed by '...' values are gathered as an array.
++
+                    {enum1|enum2|} enumeration. One option in pipe('|') deliniation is allowed.
+                    If there is a trailing pipe it means the enum is optional.
++
+                    label=str keyword argument. Label for value with type 'str', 'int', or 'decimal'
++
+                    'literal' Literal value. literal text value.

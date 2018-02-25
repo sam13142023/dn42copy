@@ -1,0 +1,11 @@
+inetnum:            10.25.0.0 - 10.25.255.255
+remarks:            ** bingen
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.bingen.g.nic.dn42
+nserver:            ns2.bingen.g.nic.dn42
+cidr:               10.25.0.0/16
+netname:            Unnamed 10.25.0.0/16 Network
+source:             ICVPN

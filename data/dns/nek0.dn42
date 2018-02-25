@@ -1,0 +1,9 @@
+domain:             nek0.dn42
+descr:              nek0s blog
+org:                ORG-CHELNOK
+admin-c:            ERI-DN42
+tech-c:             ERI-DN42
+mnt-by:             ERI-MNT
+nserver:            ns.nek0.dn42 172.23.64.3
+status:             EVALPEND 1503917580
+source:             DN42

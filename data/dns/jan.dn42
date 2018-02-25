@@ -1,0 +1,7 @@
+domain:             jan.dn42
+admin-c:            JAN-DN42
+tech-c:             JAN-DN42
+mnt-by:             JAN-MNT
+nserver:            ns1.jan.dn42 172.22.125.132
+status:             EVALPEND 1498796157
+source:             DN42

@@ -1,0 +1,10 @@
+domain:             icvpn
+remarks:            ** meta
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.meta.g.nic.dn42 10.169.1.1
+nserver:            ns2.meta.g.nic.dn42 10.255.128.53
+nserver:            ns1.meta.g.nic.dn42 fec0::a:cf:0:8a
+source:             ICVPN

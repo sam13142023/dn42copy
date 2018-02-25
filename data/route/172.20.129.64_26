@@ -1,0 +1,5 @@
+route:              172.20.129.64/26
+descr:              ATR Open Network for Hosts
+origin:             AS4242421233
+mnt-by:             ATR-MNT
+source:             DN42

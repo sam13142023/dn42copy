@@ -1,0 +1,12 @@
+inetnum:            172.22.68.32-172.22.68.47
+netname:            IMLONGHAO-NETWORK
+descr:              imlonghao Network Block in us-lax01
+country:            US
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+nserver:            ns1.imlonghao.dn42
+nserver:            ns2.imlonghao.dn42
+status:             ASSIGNED
+cidr:               172.22.68.32/28
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             ffbsee
+remarks:            ** bodensee
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             CONNECT
+nserver:            ns1.bodensee.g.nic.dn42 10.11.160.42
+nserver:            ns1.bodensee.g.nic.dn42 fdef:1701:b5ee:42::1
+source:             ICVPN

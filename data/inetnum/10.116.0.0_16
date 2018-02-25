@@ -1,0 +1,16 @@
+inetnum:            10.116.0.0 - 10.116.255.255
+remarks:            ** kiel
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+status:             ALLOCATED
+nserver:            ns1.kiel.g.nic.dn42
+nserver:            ns2.kiel.g.nic.dn42
+nserver:            ns3.kiel.g.nic.dn42
+nserver:            ns4.kiel.g.nic.dn42
+nserver:            ns5.kiel.g.nic.dn42
+nserver:            ns6.kiel.g.nic.dn42
+nserver:            ns7.kiel.g.nic.dn42
+cidr:               10.116.0.0/16
+netname:            Unnamed 10.116.0.0/16 Network
+source:             ICVPN
