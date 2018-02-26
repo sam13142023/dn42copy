@@ -1,8 +1,0 @@
-inet6num:           fd42:0023:0138:0000:0000:0000:0000:0000 - fd42:0023:0138:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:23:138::/48
-netname:            ICVPN-RHEIN-NECKAR
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: rhein-neckar
-mnt-by:             DN42-MNT
-source:             ICVPN
