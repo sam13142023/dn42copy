@@ -1,0 +1,5 @@
+route:              172.20.204.0/27
+descr:              IRL-NET
+origin:             AS4242421096
+mnt-by:             IRL-MNT
+source:             DN42
