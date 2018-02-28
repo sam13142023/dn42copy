@@ -1,5 +1,5 @@
-inetnum:            10.62.0.0 - 10.62.255.255
-cidr:               10.62.0.0/16
+inet6num:           fd0f:8db3:d50a:0000:0000:0000:0000:0000 - fd0f:8db3:d50a:0000:ffff:ffff:ffff:ffff
+cidr:               fd0f:8db3:d50a::/64
 netname:            ICVPN-HALLE
 bgp-status:         ignored
 nserver:            1.1.62.10.icvpn.registry-sync.dn42
