@@ -9,3 +9,4 @@ nserver:            NS.XIAOYU.DN42
 nserver:            NS.face.DN42
 status:             ASSIGNED
 cidr:               fd5c:f0f:39fc::/48
+source:             DN42

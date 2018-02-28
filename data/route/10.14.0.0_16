@@ -1,4 +1,6 @@
 route:              10.14.0.0/16
-descr:              Cyberpipe / KIBERPIPANET / WLANLJ Network
 origin:             AS65023
-mnt-by:             DUMMY-MNT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ljubljana
+mnt-by:             DN42-MNT
+source:             ICVPN

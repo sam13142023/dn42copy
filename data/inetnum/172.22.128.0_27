@@ -1,7 +1,8 @@
 inetnum:            172.22.128.0-172.22.128.31
-netname:            NETRAVNEN-NET
+netname:            NETRAVNEN-TRANSIT-PEERING-NET
 admin-c:            NETRAVNEN-DN42
 tech-c:             NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               172.22.128.0/27
+source:             DN42

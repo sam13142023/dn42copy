@@ -1,0 +1,9 @@
+inetnum:            10.103.252.202 - 10.103.252.202
+cidr:               10.103.252.202/32
+netname:            IMPORTED-FROM-CHAOSVPN
+bgp-status:         ignored
+nserver:            ns1.chaosvpn.g.nic.dn42
+nserver:            ns2.chaosvpn.g.nic.dn42
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,7 +1,6 @@
 aut-num:            AS64856
-org:                ORG-CCCHB
-as-name:            DIEGA-AS
-descr:              Diega's home AS
-admin-c:            DIEGA-DN42
-tech-c:             DIEGA-DN42
-mnt-by:             DUMMY-MNT
+as-name:            ICVPN-MUENDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenden
+mnt-by:             DN42-MNT
+source:             ICVPN

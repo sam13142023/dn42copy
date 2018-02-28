@@ -1,0 +1,8 @@
+inetnum:            10.141.0.0 - 10.141.127.255
+cidr:               10.141.0.0/17
+netname:            ICVPN-LINDLAR
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: lindlar
+mnt-by:             DN42-MNT
+source:             ICVPN

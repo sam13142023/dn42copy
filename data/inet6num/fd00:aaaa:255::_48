@@ -7,3 +7,4 @@ tech-c:             NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               fd00:aaaa:255::/48
+source:             DN42

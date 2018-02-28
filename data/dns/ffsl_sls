@@ -1,0 +1,8 @@
+domain:             ffsl_sls
+status:             CONNECT
+nserver:            55.66.55.10.icvpn.registry-sync.dn42
+nserver:            3.64.55.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saarlouis
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -7,3 +7,4 @@ admin-c:            SAMMKO-DN42
 tech-c:             SAMMKO-DN42
 mnt-by:             SAMMKO-MNT
 cidr:               172.20.238.0/27
+source:             DN42

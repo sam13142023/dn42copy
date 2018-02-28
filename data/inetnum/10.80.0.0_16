@@ -1,10 +1,8 @@
 inetnum:            10.80.0.0 - 10.80.255.255
-admin-c:            FPLETZ-DN42
-descr:              Freifunk München Legacy IP Range
-country:            DE
-org:                ORG-FFMUC
-tech-c:             FPLETZ-DN42
-status:             ALLOCATED
-mnt-by:             FPLETZ-MNT
 cidr:               10.80.0.0/16
-netname:            Unnamed 10.80.0.0/16 Network
+netname:            ICVPN-MUENCHEN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenchen
+mnt-by:             DN42-MNT
+source:             ICVPN

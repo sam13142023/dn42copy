@@ -6,3 +6,4 @@ nserver:            ns1.chuljin.dn42
 status:             ALLOCATED
 cidr:               172.23.248.192/26
 netname:            Unnamed 172.23.248.192/26 Network
+source:             DN42

@@ -1,7 +1,0 @@
-inetnum:            172.21.66.111-172.21.66.111
-netname:            JRB0001-TRANSIT-PEERING-MOMME
-admin-c:            JRB0001-DN42
-tech-c:             JRB0001-DN42
-mnt-by:             JRB0001-MNT
-status:             ASSIGNED
-cidr:               172.21.66.111/32

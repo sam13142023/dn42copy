@@ -7,3 +7,4 @@ mnt-by:             HEJ-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.255.96/27
+source:             DN42

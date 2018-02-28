@@ -1,9 +1,0 @@
-inetnum:            172.20.150.0 - 172.20.150.31
-netname:            JANTECHCS-NET
-country:            US
-admin-c:            JANTECHCS-DN42
-tech-c:             JANTECHCS-DN42
-mnt-by:             JANTECHCS-MNT
-nserver:            ns1.jantechcs.com
-status:             ASSIGNED
-cidr:               172.20.150.0/27

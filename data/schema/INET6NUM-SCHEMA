@@ -18,5 +18,5 @@ key:                mnt-lower   optional   multiple  lookup=dn42.mntner
 key:                mnt-routes  optional   multiple  lookup=dn42.mntner
 key:                org         optional   single    lookup=dn42.organisation
 key:                remarks     optional   multiple
-mnt-by:             XUU-MNT
-mnt-by:             HEXA-MNT
+key:                source      required   single    lookup=dn42.registry
+mnt-by:             DN42-MNT

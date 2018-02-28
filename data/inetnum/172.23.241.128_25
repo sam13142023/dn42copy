@@ -1,9 +1,0 @@
-inetnum:            172.23.241.128 - 172.23.241.255
-netname:            NICOO-BISINA-LAN
-descr:              nicoo's family
-country:            FR
-admin-c:            NICOO-DN42
-tech-c:             NICOO-DN42
-mnt-by:             NICOO-MNT
-status:             ASSIGNED
-cidr:               172.23.241.128/25

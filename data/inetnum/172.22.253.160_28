@@ -10,3 +10,4 @@ nserver:            ns3.welterde.dn42
 bgp-status:         ignore
 cidr:               172.22.253.160/28
 mnt-by:             DUMMY-MNT
+source:             DN42

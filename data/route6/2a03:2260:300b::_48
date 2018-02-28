@@ -1,0 +1,6 @@
+route6:             2a03:2260:300b::/48
+origin:             AS65110
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bochum
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -7,3 +7,4 @@ tech-c:             JPLITZA-DN42
 country:            DE
 status:             ASSIGNED
 cidr:               172.22.247.160/27
+source:             DN42

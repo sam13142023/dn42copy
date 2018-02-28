@@ -1,0 +1,12 @@
+inet6num:           2001:0470:006d:0860:0000:0000:0000:0000 - 2001:0470:006d:0860:ffff:ffff:ffff:ffff
+cidr:               2001:470:6d:860::/64
+netname:            ICVPN-PADERBORN
+bgp-status:         ignored
+nserver:            53.251.132.10.icvpn.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            58.181.70.80.icvpn.registry-sync.dn42
+nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.5.4.2.0.a.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: paderborn
+mnt-by:             DN42-MNT
+source:             ICVPN

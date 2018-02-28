@@ -1,10 +1,10 @@
 domain:             ffpb
-remarks:            ** paderborn
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.paderborn.g.nic.dn42 10.132.251.53
-nserver:            ns1.paderborn.g.nic.dn42 fdca:ffee:ff12:a251::53
-nserver:            ns2.paderborn.g.nic.dn42 80.70.181.58
-nserver:            ns2.paderborn.g.nic.dn42 2a02:450:1:1::10
+nserver:            53.251.132.10.icvpn.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            58.181.70.80.icvpn.registry-sync.dn42
+nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.5.4.2.0.a.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: paderborn
+mnt-by:             DN42-MNT
+source:             ICVPN

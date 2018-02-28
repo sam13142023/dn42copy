@@ -10,3 +10,4 @@ nserver:            dns1r2.de.plitc.eu
 nserver:            dns1r3.de.plitc.eu
 status:             ALLOCATED
 cidr:               fd00:aaaa:254::/48
+source:             DN42

@@ -7,3 +7,4 @@ mnt-by:             N7-NET-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.247.0/25
+source:             DN42

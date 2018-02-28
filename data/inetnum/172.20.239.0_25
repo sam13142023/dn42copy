@@ -8,3 +8,4 @@ tech-c:             GRUETZKOPF-DN42
 mnt-by:             GRUETZKOPF-MNT
 status:             ASSIGNED
 cidr:               172.20.239.0/25
+source:             DN42

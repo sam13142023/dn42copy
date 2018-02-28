@@ -10,3 +10,4 @@ nserver:            ns2.br.dn42 172.23.56.3
 nserver:            ns3.br.dn42 172.23.56.4
 status:             ALLOCATED
 cidr:               fd42:18:28::/48
+source:             DN42

@@ -5,3 +5,4 @@ mnt-by:             SAPINET-MNT
 nserver:            alpha.ns.sapinet.dn42 172.20.169.1
 nserver:            beta.ns.sapinet.dn42 172.20.169.2
 status:             EVALPEND 1505041621
+source:             DN42

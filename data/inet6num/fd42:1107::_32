@@ -6,3 +6,4 @@ tech-c:             NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
 cidr:               fd42:1107::/32
+source:             DN42

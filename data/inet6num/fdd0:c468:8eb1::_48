@@ -7,3 +7,4 @@ tech-c:             BERNHARD-DN42
 mnt-by:             MCBONE-MNT
 status:             ASSIGNED
 cidr:               fdd0:c468:8eb1::/48
+source:             DN42

@@ -4,3 +4,4 @@ sha512-pw:          MTcwNmM0OTEwZjRhYjI3YTY3MjU2ZTNmNjc1ZmYyMDJlNzE4OWZlMDVlNWZi
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             SG-LAN-MNT
+source:             DN42

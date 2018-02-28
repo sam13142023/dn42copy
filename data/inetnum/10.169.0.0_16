@@ -1,9 +1,9 @@
 inetnum:            10.169.0.0 - 10.169.255.255
-remarks:            ** mueritz
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.mueritz.g.nic.dn42
 cidr:               10.169.0.0/16
-netname:            Unnamed 10.169.0.0/16 Network
+netname:            ICVPN-MUERITZ
+bgp-status:         ignored
+nserver:            1.1.169.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mueritz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -4,3 +4,4 @@ descr:              frubar dn42 network
 admin-c:            DRSCREAM-DN42
 tech-c:             DRSCREAM-DN42
 mnt-by:             DUMMY-MNT
+source:             DN42

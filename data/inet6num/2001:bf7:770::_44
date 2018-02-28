@@ -1,0 +1,8 @@
+inet6num:           2001:0bf7:0770:0000:0000:0000:0000:0000 - 2001:0bf7:077f:ffff:ffff:ffff:ffff:ffff
+cidr:               2001:bf7:770::/44
+netname:            ICVPN-BERLIN
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: berlin
+mnt-by:             DN42-MNT
+source:             ICVPN

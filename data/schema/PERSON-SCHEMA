@@ -16,5 +16,5 @@ key:                phone           optional   multiple
 key:                fax-no          optional   multiple
 key:                address         optional   multiple
 key:                remarks         optional   multiple
-mnt-by:             XUU-MNT
-mnt-by:             HEXA-MNT
+key:                source          required   single    lookup=dn42.registry
+mnt-by:             DN42-MNT

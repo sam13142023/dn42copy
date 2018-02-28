@@ -2,10 +2,11 @@ person:             MM8877-DN42
 contact:            mailto:meeh@sigterm.no, xmpp:mikal@pstalk.im
 phone:              +4741003522
 www:                https://sigterm.no
-pgp-fingerprint:    CD37 42E4 20F4 F153 9371  A41F B431 B677 70E4 AA38
+pgp-fingerprint:    CD3742E420F4F1539371A41FB431B67770E4AA38
 e-mail:             meeh@sigterm.no
 remarks:            bitcoin:           1MeehoFybzJ41Yv88VMRqXSa2T9TpGfPhR
 address:            Oslo. (Peers in Australia, USA, Europa and Russia. But most available from Norway)
 remarks:            irc:Meeh@irc.greyhat.no, twitter:Mikalv
 nic-hdl:            SIGTERM-DN42
 mnt-by:             GREYHAT-SIGTERM-NO-MNT
+source:             DN42

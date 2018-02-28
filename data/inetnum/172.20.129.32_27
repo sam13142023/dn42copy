@@ -1,8 +1,0 @@
-inetnum:            172.20.129.32-172.20.129.63
-netname:            DBITECH-NETBLK1
-country:            CA
-admin-c:            DB1099-DN42
-tech-c:             DB1099-DN42
-mnt-by:             DBITECH-MNT
-status:             ASSIGNED
-cidr:               172.20.129.32/27

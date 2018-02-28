@@ -9,3 +9,4 @@ nserver:            ns1.bearn.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.240.0/25
+source:             DN42

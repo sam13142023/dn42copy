@@ -8,3 +8,4 @@ tech-c:             PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 cidr:               fdc1:31f:b14f::/48
+source:             DN42

@@ -6,3 +6,4 @@ admin-c:            OCTET-DN42
 tech-c:             OCTET-DN42
 mnt-by:             OCTET-MNT
 status:             ASSIGNED
+source:             DN42

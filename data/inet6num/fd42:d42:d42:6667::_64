@@ -17,3 +17,4 @@ tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
 nserver:            ns1.cccda.dn42
 status:             ASSIGNED
+source:             DN42

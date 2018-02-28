@@ -1,9 +1,10 @@
 inetnum:            10.112.0.0 - 10.112.255.255
-remarks:            ** hamburg
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.hamburg.g.nic.dn42
 cidr:               10.112.0.0/16
-netname:            Unnamed 10.112.0.0/16 Network
+netname:            ICVPN-HAMBURG
+bgp-status:         ignored
+nserver:            2.1.112.10.icvpn.registry-sync.dn42
+nserver:            2.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.6.2.2.3.0.a.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hamburg
+mnt-by:             DN42-MNT
+source:             ICVPN

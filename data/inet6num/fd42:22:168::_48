@@ -8,3 +8,4 @@ tech-c:             YANG-DN42
 mnt-by:             YANG-MNT
 nserver:            dns1.prunk.si
 status:             ASSIGNED
+source:             DN42

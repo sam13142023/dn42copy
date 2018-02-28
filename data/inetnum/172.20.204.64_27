@@ -6,3 +6,4 @@ tech-c:             FNORD-DN42
 mnt-by:             FNORD-MNT
 status:             ASSIGNED
 cidr:               172.20.204.64/27
+source:             DN42

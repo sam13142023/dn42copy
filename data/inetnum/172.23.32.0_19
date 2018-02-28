@@ -8,3 +8,4 @@ admin-c:            EQUINOX-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
 bgp-status:         ignore
+source:             DN42

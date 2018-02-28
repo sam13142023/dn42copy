@@ -7,3 +7,4 @@ status:             ASSIGNED
 mnt-by:             JPLITZA-MNT
 nserver:            ns01.dn42.jplitza.de
 cidr:               172.22.192.128/26
+source:             DN42

@@ -1,10 +1,12 @@
 inetnum:            10.252.0.0 - 10.252.63.255
-remarks:            ** celle
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.celle.g.nic.dn42
-nserver:            ns2.celle.g.nic.dn42
 cidr:               10.252.0.0/18
-netname:            Unnamed 10.252.0.0/18 Network
+netname:            ICVPN-CELLE
+bgp-status:         ignored
+nserver:            1.0.252.10.icvpn.registry-sync.dn42
+nserver:            2.0.252.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.3.2.d.f.f.d.2.2.9.d.f.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.3.2.d.f.f.d.2.2.9.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: celle
+mnt-by:             DN42-MNT
+source:             ICVPN

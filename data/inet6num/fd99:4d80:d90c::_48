@@ -9,3 +9,4 @@ nserver:            ns1.drathir.dn42
 nserver:            ns2.drathir.dn42
 status:             ALLOCATED
 cidr:               fd99:4d80:d90c::/48
+source:             DN42

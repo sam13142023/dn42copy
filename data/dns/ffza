@@ -1,0 +1,12 @@
+domain:             ffza
+status:             CONNECT
+nserver:            2.2.70.10.icvpn.registry-sync.dn42
+nserver:            3.3.70.10.icvpn.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.a.1.0.f.f.5.0.a.2.icvpn.registry-sync.dn42
+nserver:            b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.a.1.0.f.f.5.0.a.2.icvpn.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.b.1.0.f.f.5.0.a.2.icvpn.registry-sync.dn42
+nserver:            b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.b.1.0.f.f.5.0.a.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: zollernalb
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,10 +1,10 @@
 domain:             ffpr
-remarks:            ** prignitz
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.prignitz.g.nic.dn42 10.15.192.1
-nserver:            ns2.prignitz.g.nic.dn42 10.15.192.2
-nserver:            ns1.prignitz.g.nic.dn42 fde8:21c6:370b::0a01
-nserver:            ns2.prignitz.g.nic.dn42 fde8:21c6:370b::0b01
+nserver:            1.192.15.10.icvpn.registry-sync.dn42
+nserver:            2.192.15.10.icvpn.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: prignitz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,7 +1,8 @@
 inetnum:            10.224.0.0 - 10.224.255.255
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-status:             ALLOCATED
 cidr:               10.224.0.0/16
-mnt-by:             DUMMY-MNT
-netname:            Unnamed 10.224.0.0/16 Network
+netname:            ICVPN-WIPPERFUERTH
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wipperfuerth
+mnt-by:             DN42-MNT
+source:             ICVPN

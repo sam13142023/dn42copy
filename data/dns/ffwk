@@ -1,8 +1,8 @@
 domain:             ffwk
-remarks:            ** westkueste
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.westkueste.g.nic.dn42 10.13.1.1
-nserver:            ns1.westkueste.g.nic.dn42 fd23:dead:beef::ff01
+nserver:            1.1.13.10.icvpn.registry-sync.dn42
+nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.e.e.b.d.a.e.d.3.2.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westkueste
+mnt-by:             DN42-MNT
+source:             ICVPN

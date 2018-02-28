@@ -1,8 +1,0 @@
-inetnum:            172.21.125.32 - 172.21.125.63
-netname:            SWP-NETWORK
-country:            GB
-admin-c:            BJANST-DN42
-tech-c:             BJANST-DN42
-mnt-by:             SWP-MNT
-status:             ASSIGNED
-cidr:               172.21.125.32/27

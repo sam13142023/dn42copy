@@ -9,3 +9,4 @@ nserver:            ns1.mitsuha.dn42
 nserver:            ns2.mitsuha.dn42
 status:             ASSIGNED
 cidr:               fd88:dead:beef::/48
+source:             DN42

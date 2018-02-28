@@ -6,3 +6,4 @@ tech-c:             GIGA-DN42
 mnt-by:             GIGA-MNT
 status:             ASSIGNED
 cidr:               fd76:b436:28bc::/48
+source:             DN42

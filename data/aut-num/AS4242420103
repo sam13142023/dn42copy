@@ -3,3 +3,4 @@ as-name:            TXTFILE-AS
 admin-c:            TXTFILE-DN42
 tech-c:             TXTFILE-DN42
 mnt-by:             TXTFILE-MNT
+source:             DN42

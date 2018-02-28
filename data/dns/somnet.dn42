@@ -4,3 +4,4 @@ tech-c:             SOMNET-DN42
 mnt-by:             SOMNET-MNT
 nserver:            ns1.somnet.dn42 172.20.33.10
 status:             EVALPEND 1503918593
+source:             DN42

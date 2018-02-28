@@ -1,4 +1,0 @@
-route:              172.22.79.0/24
-descr:              Route for oLaF's Main IPv4 Network
-origin:             AS4242423842
-mnt-by:             JO-JO-MNT

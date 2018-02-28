@@ -1,9 +1,0 @@
-inetnum:            172.21.79.96 - 172.21.79.127
-netname:            DEKDED-DN42-NET
-descr:              Dekded Netblocks for DN42
-country:            TH
-admin-c:            SFALPHA-DN42
-tech-c:             SFALPHA-DN42
-mnt-by:             DEKDED-MNT
-status:             ASSIGNED
-cidr:               172.21.79.96/27

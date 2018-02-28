@@ -5,3 +5,4 @@ tech-c:             FXKR-DN42
 mnt-by:             ENTROPIA-MNT
 status:             ASSIGNED
 cidr:               fde8:48f1:caaa::/48
+source:             DN42

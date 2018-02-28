@@ -1,8 +1,8 @@
 domain:             ffhgw
-remarks:            ** greifswald
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.greifswald.g.nic.dn42 10.143.0.2
-nserver:            ns1.greifswald.g.nic.dn42 fdef:affe:edda::2
+nserver:            2.0.143.10.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.d.e.e.f.f.a.f.e.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: greifswald
+mnt-by:             DN42-MNT
+source:             ICVPN

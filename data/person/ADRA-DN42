@@ -4,5 +4,6 @@ contact:            irc:adraenwan@hackint
 contact:            irc:adraenwan@freenode
 contact:            xmpp:adraenwan@tfnux.org
 nic-hdl:            ADRA-DN42
-pgp-fingerprint:    C537 5172 5FA1 3D4C AB11  89FC AD35 F402 ADDD 300A
+pgp-fingerprint:    C53751725FA13D4CAB1189FCAD35F402ADDD300A
 mnt-by:             ADRA-MNT
+source:             DN42

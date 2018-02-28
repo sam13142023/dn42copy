@@ -4,3 +4,4 @@ descr:              RFC2460 AS4242422460
 admin-c:            RFC2460-DN42
 tech-c:             RFC2460-DN42
 mnt-by:             RFC2460-MNT
+source:             DN42

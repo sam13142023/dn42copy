@@ -1,8 +1,0 @@
-inet6num:           fd42:5d71:0218:0000:0000:0000:0000:0000 - fd42:5d71:0218:0000:ffff:ffff:ffff:ffff
-netname:            JRB0001-TRANSIT
-country:            DE
-admin-c:            JRB0001-DN42
-tech-c:             JRB0001-DN42
-mnt-by:             JRB0001-MNT
-status:             ASSIGNED
-cidr:               fd42:5d71:218::/64

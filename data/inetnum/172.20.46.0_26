@@ -8,3 +8,4 @@ mnt-by:             MAJOR-MNT
 nserver:            ns1.major.dn42 172.20.46.1
 status:             ASSIGNED
 cidr:               172.20.46.0/26
+source:             DN42

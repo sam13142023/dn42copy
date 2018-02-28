@@ -13,3 +13,4 @@ mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
 bgp-status:         ignore
 cidr:               172.23.192.0/18
+source:             DN42

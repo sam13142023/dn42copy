@@ -1,5 +1,6 @@
 route:              10.214.0.0/16
-descr:              Freifunk Karlsruhe
-remarks:            Freifunk Karlsruhe network route
 origin:             AS65081
-mnt-by:             FREIFUNKDUMMY-MNT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: karlsruhe
+mnt-by:             DN42-MNT
+source:             ICVPN

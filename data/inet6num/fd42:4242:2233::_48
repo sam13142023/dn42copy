@@ -8,3 +8,4 @@ tech-c:             HANKB-DN42
 mnt-by:             HANKB-MNT
 status:             ASSIGNED
 cidr:               fd42:4242:2233::/48
+source:             DN42

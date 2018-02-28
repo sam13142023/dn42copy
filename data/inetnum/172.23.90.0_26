@@ -1,9 +1,0 @@
-inetnum:            172.23.90.0 - 172.23.90.63
-netname:            NETRUNNER-NET
-descr:              NetRunner IPv4 block
-country:            BE
-admin-c:            NETRUNNER-DN42
-tech-c:             NETRUNNER-DN42
-mnt-by:             NETRUNNER-MNT
-status:             ASSIGNED
-cidr:               172.23.90.0/26

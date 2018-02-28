@@ -1,9 +1,0 @@
-inetnum:            172.23.246.0-172.23.247.255
-netname:            KAWEX-NET
-descr:              Kawex-net
-country:            PL
-admin-c:            KAWEX-DN42
-tech-c:             KAWEX-DN42
-mnt-by:             KAWEX-MNT
-status:             ASSIGNED PI
-cidr:               172.23.246.0/23

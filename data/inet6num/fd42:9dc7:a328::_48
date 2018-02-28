@@ -6,3 +6,4 @@ tech-c:             RUDIS-DN42
 mnt-by:             RUDIS-MNT
 status:             ASSIGNED
 cidr:               fd42:9dc7:a328::/48
+source:             DN42

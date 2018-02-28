@@ -8,3 +8,4 @@ status:             ALLOCATED
 nserver:            ns1.weiti.dn42
 nserver:            ns2.weiti.dn42
 cidr:               172.20.175.192/26
+source:             DN42

@@ -1,12 +1,12 @@
 domain:             ff3l
-remarks:            ** dreilaendereck
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.dreilaendereck.g.nic.dn42 10.119.0.5
-nserver:            ns2.dreilaendereck.g.nic.dn42 10.119.0.8
-nserver:            ns3.dreilaendereck.g.nic.dn42 10.119.0.10
-nserver:            ns1.dreilaendereck.g.nic.dn42 fdc7:3c9d:b889:a272::5
-nserver:            ns2.dreilaendereck.g.nic.dn42 fdc7:3c9d:b889:a272::8
-nserver:            ns3.dreilaendereck.g.nic.dn42 fdc7:3c9d:b889:a272::a
+nserver:            5.0.119.10.icvpn.registry-sync.dn42
+nserver:            4.0.119.10.icvpn.registry-sync.dn42
+nserver:            10.0.119.10.icvpn.registry-sync.dn42
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dreilaendereck
+mnt-by:             DN42-MNT
+source:             ICVPN

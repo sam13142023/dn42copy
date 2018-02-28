@@ -1,7 +1,6 @@
 aut-num:            AS64880
-as-name:            ASPECT-AS
-descr:              Aspect DN42 Network
-admin-c:            ASPECT-DN42
-tech-c:             ASPECT-DN42
-mnt-by:             ASPECT-MNT
-remarks:            Will be setting up peering asap; Dec 2015
+as-name:            ICVPN-HERNE
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: herne
+mnt-by:             DN42-MNT
+source:             ICVPN

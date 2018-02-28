@@ -8,3 +8,4 @@ mnt-by:             NEO-MNT
 status:             ASSIGNED
 nserver:            ns1.n.dn42
 cidr:               172.20.47.0/26
+source:             DN42

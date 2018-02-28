@@ -8,3 +8,4 @@ mnt-by:             WWLABS-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.242.128/25
+source:             DN42

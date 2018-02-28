@@ -1,15 +1,15 @@
 domain:             fffr
-remarks:            ** freiburg
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.freiburg.g.nic.dn42 10.60.0.103
-nserver:            ns2.freiburg.g.nic.dn42 10.60.0.106
-nserver:            ns3.freiburg.g.nic.dn42 10.60.0.112
-nserver:            ns1.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1113
-nserver:            ns2.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1116
-nserver:            ns3.freiburg.g.nic.dn42 fdf0:9bb:7814:a630::1122
-nserver:            ns4.freiburg.g.nic.dn42 2001:bf7:2810::1113
-nserver:            ns5.freiburg.g.nic.dn42 2001:bf7:2810::1116
-nserver:            ns6.freiburg.g.nic.dn42 2001:bf7:2810::1122
+nserver:            103.0.60.10.icvpn.registry-sync.dn42
+nserver:            106.0.60.10.icvpn.registry-sync.dn42
+nserver:            112.0.60.10.icvpn.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.0.b.b.9.0.f.d.f.icvpn.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.0.7.f.b.1.0.0.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: freiburg
+mnt-by:             DN42-MNT
+source:             ICVPN

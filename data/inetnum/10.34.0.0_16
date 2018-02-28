@@ -1,0 +1,8 @@
+inetnum:            10.34.0.0 - 10.34.255.255
+cidr:               10.34.0.0/16
+netname:            ICVPN-HERFORD
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: herford
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -8,3 +8,4 @@ status:             ASSIGNED PA
 nserver:            ns0.nbsp.dn42
 cidr:               fd20:bdda:5df0::/48
 mnt-by:             DUMMY-MNT
+source:             DN42

@@ -9,3 +9,4 @@ nserver:            ns1.fauxnetworks.dn42
 nserver:            ns2.fauxnetworks.dn42
 status:             ASSIGNED
 cidr:               172.22.76.176/29
+source:             DN42

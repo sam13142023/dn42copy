@@ -1,0 +1,6 @@
+route6:             2a02:f98:0:27::/64
+origin:             AS65079
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ruhrgebiet
+mnt-by:             DN42-MNT
+source:             ICVPN

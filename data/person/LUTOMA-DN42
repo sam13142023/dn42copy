@@ -5,7 +5,8 @@ www:                https://lutoma.org
 contact:            irc:lutoma@hackint
 contact:            irc:lutoma@freenode
 contact:            twitter:lutoma
-pgp-fingerprint:    B309 6283 6CFD 554A 1EC8  BDBC F828 A0C8 C9E1 BD2C
+pgp-fingerprint:    B30962836CFD554A1EC8BDBCF828A0C8C9E1BD2C
 abuse-mailbox:      hello+dn42-abuse@lutoma.org
 nic-hdl:            LUTOMA-DN42
 mnt-by:             LUTOMA-MNT
+source:             DN42
