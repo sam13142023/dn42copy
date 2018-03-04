@@ -7,6 +7,4 @@ status:             ASSIGNED
 cidr:               fd56:4147:5545::/48
 country:            GB
 descr:              VAGUE Network Allocation
-nserver:            ns1.vague.dn42
-nserver:            ns2.vague.dn42
 source:             DN42
