@@ -1,0 +1,10 @@
+inetnum: 172.23.100.0 - 172.23.100.255
+cidr: 172.23.100.0/25
+netname: FOOBARS
+admin-c: FOOBARS-DN42
+tech-c: FOOBARS-DN42
+mnt-by: FOOBARS-MNT
+nserver: ns1.foobars.dn42
+nserver: ns2.foobars.dn42
+status:  ASSIGNED
+
