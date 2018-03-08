@@ -1,7 +1,7 @@
 inetnum:            172.23.124.0 - 172.23.124.31
 netname:            TM-NETWORK
 descr:              TM NETWORK
-country:            RO
+country:            IT
 admin-c:            TM-DN42
 tech-c:             TM-DN42
 mnt-by:             TM-MNT
