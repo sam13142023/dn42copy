@@ -1,7 +1,0 @@
-mntner:             TM-MNT
-descr:              Maintainer for TM
-admin-c:            TM-DN42
-auth:               pgp-fingerprint 0893203AA49CCA880D67BDF00DDA34DC1E356311
-tech-c:             TM-DN42
-mnt-by:             TM-MNT
-source:             DN42

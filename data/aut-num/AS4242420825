@@ -1,7 +1,7 @@
 aut-num:            AS4242420825
-as-name:            TM-AS
-descr:              TM
-admin-c:            TM-DN42
-tech-c:             TM-DN42
-mnt-by:             TM-MNT
+as-name:            TMIT-AS
+descr:              TMIT
+admin-c:            TMIT-DN42
+tech-c:             TMIT-DN42
+mnt-by:             TMIT-MNT
 source:             DN42
