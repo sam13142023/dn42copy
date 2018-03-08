@@ -1,0 +1,10 @@
+inetnum:            172.23.124.0 - 172.23.124.31
+netname:            TM-NETWORK
+descr:              TM NETWORK
+country:            RO
+admin-c:            TM-DN42
+tech-c:             TM-DN42
+mnt-by:             TM-MNT
+status:             ASSIGNED
+cidr:               172.23.124.0/27
+source:             DN42
