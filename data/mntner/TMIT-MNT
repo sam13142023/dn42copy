@@ -1,0 +1,7 @@
+mntner:             TMIT-MNT
+descr:              Maintainer for TMIT
+admin-c:            TMIT-DN42
+auth:               pgp-fingerprint 0893203AA49CCA880D67BDF00DDA34DC1E356311
+tech-c:             TMIT-DN42
+mnt-by:             TMIT-MNT
+source:             DN42
