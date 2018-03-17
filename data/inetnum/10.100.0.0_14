@@ -1,10 +1,10 @@
 inetnum:            10.100.0.0 - 10.103.255.255
-remarks:            ** chaosvpn
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.chaosvpn.g.nic.dn42
-nserver:            ns2.chaosvpn.g.nic.dn42
 cidr:               10.100.0.0/14
-netname:            Unnamed 10.100.0.0/14 Network
+netname:            ICVPN-CHAOSVPN
+bgp-status:         ignored
+nserver:            5.0.31.172.icvpn.registry-sync.dn42
+nserver:            53.255.31.172.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: chaosvpn
+mnt-by:             DN42-MNT
+source:             ICVPN

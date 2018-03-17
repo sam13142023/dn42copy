@@ -9,3 +9,4 @@ nserver:            ns1.limedyse.dn42
 nserver:            ns2.limedyse.dn42
 status:             ASSIGNED
 cidr:               fdd6:7a00:413e::/48
+source:             DN42

@@ -4,3 +4,4 @@ sha512-pw:          ZGY3MjkyMGMxN2NiODE4Y2I2YTg0YTQyNDJjZDZlZDM1ZGUyZWZhMjUwZGI0
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             ABC-MNT
+source:             DN42

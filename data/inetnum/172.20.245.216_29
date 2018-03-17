@@ -8,3 +8,4 @@ mnt-by:             KOODA-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.245.216/29
+source:             DN42

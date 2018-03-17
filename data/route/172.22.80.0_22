@@ -1,4 +1,0 @@
-route:              172.22.80.0/22
-descr:              sublab.org
-origin:             AS64680
-mnt-by:             DUMMY-MNT

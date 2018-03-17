@@ -1,4 +1,4 @@
-inet6num:           fd00:: - fdff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:0000:0000:0000:0000:0000:0000:0000 - fdff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
 netname:            ROOT-DN42-ULA
 descr:              DN42 ULA Address Space
 admin-c:            DUMMY-DN42
@@ -8,4 +8,6 @@ nserver:            lavana.sjc.xuu.dn42
 nserver:            grmml.root.dn42
 status:             ALLOCATED-BY-RIR
 policy:             open
+remarks:            Only /48 prefixes may be allocated out of this range.
 cidr:               fd00::/8
+source:             DN42

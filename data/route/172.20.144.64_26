@@ -2,3 +2,4 @@ route:              172.20.144.64/26
 descr:              Friedrichsdorf-Skorpy
 origin:             AS4242422180
 mnt-by:             SKORPY-MNT
+source:             DN42

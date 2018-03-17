@@ -8,3 +8,4 @@ mnt-by:             OIDA-MNT
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.244.0/24
+source:             DN42

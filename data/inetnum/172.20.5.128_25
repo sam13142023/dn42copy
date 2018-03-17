@@ -1,9 +1,0 @@
-inetnum:            172.20.5.128 - 172.20.5.255
-netname:            HAELWENN-IPV4
-country:            FR
-admin-c:            HAELWENN-DN42
-tech-c:             HAELWENN-DN42
-mnt-by:             HAELWENN-MNT
-nserver:            minion.hacktivis.me
-status:             ASSIGNED
-cidr:               172.20.5.128/25

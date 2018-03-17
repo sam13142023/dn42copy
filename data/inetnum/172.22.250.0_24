@@ -13,3 +13,4 @@ nserver:            ns1.mwd.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.250.0/24
+source:             DN42

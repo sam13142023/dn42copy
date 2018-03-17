@@ -1,9 +1,0 @@
-inetnum:            172.22.139.0 - 172.22.139.127
-netname:            JCLONG-DN42-NET
-descr:              jclong dn42 ipv4net
-country:            US
-admin-c:            JAMESL-DN42
-tech-c:             JAMESL-DN42
-mnt-by:             JCLONG-MNT
-status:             ASSIGNED
-cidr:               172.22.139.0/25

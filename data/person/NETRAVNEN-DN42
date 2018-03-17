@@ -1,9 +1,7 @@
 person:             Christoffer Hansen
 contact:            netravnen@gmail.com
-contact:            twitter:netravnen
-contact:            irc:netravnen@chat.freenode.net
-contact:            irc:netravnen@open.ircnet.net
-contact:            irc:netravnen@irc.ripe.net
+contact:            irc:netravnen@irc.hackint.org
 pgp-fingerprint:    C8B382A8A1CDCDB771FEB24CC654948FDA86BECD
 nic-hdl:            NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
+source:             DN42

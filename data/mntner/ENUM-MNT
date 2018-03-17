@@ -4,3 +4,4 @@ sha512-pw:          MTA0YjcxNDA3OTE5ZDcwN2Y3MGQ4ZTMxODU2OTM0YzFlYjM0NTFhYjI3MzEy
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             ENUM-MNT
+source:             DN42

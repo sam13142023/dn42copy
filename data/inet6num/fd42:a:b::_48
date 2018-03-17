@@ -12,3 +12,4 @@ mnt-by:             LUTOMA-MNT
 nserver:            ns1.lutoma.dn42
 status:             ASSIGNED
 cidr:               fd42:a:b::/48
+source:             DN42

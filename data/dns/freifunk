@@ -1,8 +1,0 @@
-domain:             freifunk
-remarks:            ** celle
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             NIXNODES-MNT
-status:             CONNECT
-nserver:            ns1.celle.g.nic.dn42 10.252.0.1
-nserver:            ns2.celle.g.nic.dn42 10.252.0.2

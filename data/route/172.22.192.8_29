@@ -1,0 +1,5 @@
+route:              172.22.192.8/29
+descr:              Germany, Nuremberg, Hetzner
+origin:             AS64794
+mnt-by:             MORTZU-MNT
+source:             DN42

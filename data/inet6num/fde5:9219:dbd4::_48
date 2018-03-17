@@ -7,3 +7,4 @@ tech-c:             SYSOFABLAB-DN42
 mnt-by:             FABLABBERLIN-MNT
 status:             ASSIGNED
 cidr:               fde5:9219:dbd4::/48
+source:             DN42

@@ -7,3 +7,4 @@ tech-c:             CSMITH-DN42
 mnt-by:             CSMITH-MNT
 status:             ASSIGNED
 cidr:               fd42:beef:cafe::/48
+source:             DN42

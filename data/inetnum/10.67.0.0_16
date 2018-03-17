@@ -1,0 +1,8 @@
+inetnum:            10.67.0.0 - 10.67.255.255
+cidr:               10.67.0.0/16
+netname:            ICVPN-ROTHENBURG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rothenburg
+mnt-by:             DN42-MNT
+source:             ICVPN

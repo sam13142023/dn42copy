@@ -1,6 +1,6 @@
 aut-num:            AS65046
-as-name:            FFHALLE-AS
-descr:              Freifunk Halle
-admin-c:            FREIFUNKHALLE-DN42
-tech-c:             FREIFUNKHALLE-DN42
-mnt-by:             FREIFUNK-HALLE-MNT
+as-name:            ICVPN-HALLE
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: halle
+mnt-by:             DN42-MNT
+source:             ICVPN

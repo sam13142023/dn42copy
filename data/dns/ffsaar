@@ -1,10 +1,10 @@
 domain:             ffsaar
-remarks:            ** saar
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.saar.g.nic.dn42 10.24.192.2
-nserver:            ns2.saar.g.nic.dn42 10.24.192.3
-nserver:            ns1.saar.g.nic.dn42 fd4e:f2d7:88d2:ffff::2
-nserver:            ns2.saar.g.nic.dn42 fd4e:f2d7:88d2:ffff::3
+nserver:            2.192.24.10.icvpn.registry-sync.dn42
+nserver:            3.192.24.10.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.icvpn.registry-sync.dn42
+nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saar
+mnt-by:             DN42-MNT
+source:             ICVPN

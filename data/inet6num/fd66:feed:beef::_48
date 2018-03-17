@@ -7,3 +7,4 @@ nserver:            ns1.robotham.dn42
 nserver:            ns2.robotham.dn42
 status:             ASSIGNED
 cidr:               fd66:feed:beef::/48
+source:             DN42

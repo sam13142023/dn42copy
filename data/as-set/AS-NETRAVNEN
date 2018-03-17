@@ -1,4 +1,6 @@
 as-set:             AS-NETRAVNEN
-descr:              NETRAVNEN autonomous systems
+descr:              NETRAVNEN NETWORKS
 members:            AS4242420141
+members:            AS4242420144
 mnt-by:             NETRAVNEN-MNT
+source:             DN42

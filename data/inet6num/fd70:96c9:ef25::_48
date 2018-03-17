@@ -9,3 +9,4 @@ nserver:            hulk.mhm.dn42
 nserver:            danny.mhm.dn42
 status:             ASSIGNED
 cidr:               fd70:96c9:ef25::/48
+source:             DN42

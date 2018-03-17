@@ -8,3 +8,4 @@ mnt-by:             PR0-MNT
 status:             ALLOCATED
 bgp-status:         ignore
 cidr:               172.22.252.192/27
+source:             DN42

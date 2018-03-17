@@ -1,0 +1,8 @@
+domain:             ffsl_nk
+status:             CONNECT
+nserver:            55.255.55.10.icvpn.registry-sync.dn42
+nserver:            3.192.55.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neunkirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -8,3 +8,4 @@ tech-c:             SAMMKO-DN42
 mnt-by:             SAMMKO-MNT
 status:             ASSIGNED
 cidr:               fdba:2737:210d::/48
+source:             DN42

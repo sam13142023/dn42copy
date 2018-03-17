@@ -9,3 +9,4 @@ nserver:            NS1.AVI.DN42
 nserver:            NS2.AVI.ND42
 status:             ASSIGNED
 cidr:               fd42:3392:6a6d::/48
+source:             DN42

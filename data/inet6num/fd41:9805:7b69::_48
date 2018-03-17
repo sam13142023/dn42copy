@@ -9,3 +9,4 @@ nserver:            ns1.sgraef-inet.dn42
 nserver:            ns2.sgraef-inet.dn42
 status:             ASSIGNED
 cidr:               fd41:9805:7b69::/48
+source:             DN42

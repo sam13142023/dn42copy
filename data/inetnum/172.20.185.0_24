@@ -7,3 +7,4 @@ status:             ALLOCATED
 nserver:            ns1.dns.dn42 172.22.102.1
 nserver:            ns2.dns.dn42 172.22.102.3
 cidr:               172.20.185.0/24
+source:             DN42

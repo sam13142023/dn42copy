@@ -1,9 +1,9 @@
 inetnum:            10.17.0.0 - 10.17.255.255
-remarks:            ** jena
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.jena.g.nic.dn42
 cidr:               10.17.0.0/16
-netname:            Unnamed 10.17.0.0/16 Network
+netname:            ICVPN-JENA
+bgp-status:         ignored
+nserver:            1.250.17.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
+source:             ICVPN

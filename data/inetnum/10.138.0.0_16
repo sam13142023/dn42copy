@@ -1,0 +1,8 @@
+inetnum:            10.138.0.0 - 10.138.255.255
+cidr:               10.138.0.0/16
+netname:            ICVPN-ELM-LAPPWALD
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: elm-lappwald
+mnt-by:             DN42-MNT
+source:             ICVPN

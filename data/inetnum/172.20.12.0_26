@@ -8,3 +8,4 @@ mnt-by:             HARUKA-MNT
 nserver:            ns.haruka.dn42
 status:             ASSIGNED
 cidr:               172.20.12.0/26
+source:             DN42

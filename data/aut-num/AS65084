@@ -1,12 +1,6 @@
 aut-num:            AS65084
-as-name:            Freifunk Westerwald
-descr:              Freifunk Westerwald AS
-remarks:            =====================================
-remarks:            #Freifunk Westerwald                #
-remarks:            #Policy: Open, OpenVPN & GRE        #
-remarks:            #Contact: noc@freifunk-westerwald.de#
-remarks:            =====================================
-admin-c:            FC-DN42
-tech-c:             FC-DN42
-mnt-by:             FC-MNT
-org:                ORG-FFWW
+as-name:            ICVPN-MONTABAUR
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: montabaur
+mnt-by:             DN42-MNT
+source:             ICVPN

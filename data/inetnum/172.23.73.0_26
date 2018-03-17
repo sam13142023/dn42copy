@@ -6,3 +6,4 @@ tech-c:             NTSE-DN42
 mnt-by:             ENKEL-MNT
 status:             ASSIGNED
 cidr:               172.23.73.0/26
+source:             DN42

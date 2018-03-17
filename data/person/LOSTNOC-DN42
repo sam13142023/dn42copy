@@ -2,4 +2,5 @@ person:             LOSTSERVER.NET NOC
 contact:            noc@lostserver.net
 nic-hdl:            LOSTNOC-DN42
 mnt-by:             LOSTSERVER-MNT
-pgp-fingerprint:    FBC3 9251 95F4 5A33 98DF 5B42 DA2B AF4C 92D6 C7BA
+pgp-fingerprint:    FBC3925195F45A3398DF5B42DA2BAF4C92D6C7BA
+source:             DN42

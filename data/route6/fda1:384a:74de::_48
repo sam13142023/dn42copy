@@ -1,4 +1,6 @@
 route6:             fda1:384a:74de::/48
-descr:              ffki-tsys
-origin:             AS4242423214
-mnt-by:             TSYS-MNT
+origin:             AS65525
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kiel
+mnt-by:             DN42-MNT
+source:             ICVPN

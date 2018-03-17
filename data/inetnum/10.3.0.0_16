@@ -1,12 +1,13 @@
 inetnum:            10.3.0.0 - 10.3.255.255
-remarks:            ** wuppertal
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.wuppertal.g.nic.dn42
-nserver:            ns2.wuppertal.g.nic.dn42
-nserver:            ns3.wuppertal.g.nic.dn42
-nserver:            ns4.wuppertal.g.nic.dn42
 cidr:               10.3.0.0/16
-netname:            Unnamed 10.3.0.0/16 Network
+netname:            ICVPN-WUPPERTAL
+bgp-status:         ignored
+nserver:            247.0.3.10.icvpn.registry-sync.dn42
+nserver:            249.0.3.10.icvpn.registry-sync.dn42
+nserver:            250.0.3.10.icvpn.registry-sync.dn42
+nserver:            251.0.3.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.7.0.f.f.a.b.1.e.9.2.b.a.e.7.4.7.0.a.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wuppertal
+mnt-by:             DN42-MNT
+source:             ICVPN

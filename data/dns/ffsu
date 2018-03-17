@@ -1,10 +1,10 @@
 domain:             ffsu
-remarks:            ** siegburg
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.siegburg.g.nic.dn42 10.152.0.10
-nserver:            ns2.siegburg.g.nic.dn42 10.152.16.10
-nserver:            ns1.siegburg.g.nic.dn42 fda4:1721:8450:100::1
-nserver:            ns2.siegburg.g.nic.dn42 fda4:1721:8450:200::1
+nserver:            10.0.152.10.icvpn.registry-sync.dn42
+nserver:            10.16.152.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.4.8.1.2.7.1.4.a.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.4.8.1.2.7.1.4.a.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: siegburg
+mnt-by:             DN42-MNT
+source:             ICVPN

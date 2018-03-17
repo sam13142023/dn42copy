@@ -7,3 +7,4 @@ mnt-by:             2F30-MNT
 nserver:            ns1.2f30.dn42
 status:             ASSIGNED
 cidr:               172.22.252.160/27
+source:             DN42

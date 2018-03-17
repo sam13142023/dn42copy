@@ -1,9 +1,0 @@
-inetnum:            172.23.172.128-172.23.172.255
-netname:            MAGLAB-DN42-2
-descr:              Second Net for Mag.Lab
-country:            DE
-admin-c:            JOJO-DN42
-tech-c:             JOJO-DN42
-mnt-by:             JO-JO-MNT
-status:             ASSIGNED
-cidr:               172.23.172.128/25

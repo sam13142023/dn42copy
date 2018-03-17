@@ -8,3 +8,4 @@ tech-c:             RIPPERFOX-DN42
 mnt-by:             RIPPERFOX-MNT
 status:             ASSIGNED
 cidr:               172.22.6.0/24
+source:             DN42

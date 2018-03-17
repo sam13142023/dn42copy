@@ -1,0 +1,10 @@
+domain:             freifunk-celle.de
+status:             CONNECT
+nserver:            1.0.252.10.icvpn.registry-sync.dn42
+nserver:            2.0.252.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.3.2.d.f.f.d.2.2.9.d.f.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.3.2.d.f.f.d.2.2.9.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: celle
+mnt-by:             DN42-MNT
+source:             ICVPN

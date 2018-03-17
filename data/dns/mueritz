@@ -1,7 +1,7 @@
 domain:             mueritz
-remarks:            ** mueritz
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.mueritz.g.nic.dn42 10.169.1.1
+nserver:            1.1.169.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mueritz
+mnt-by:             DN42-MNT
+source:             ICVPN

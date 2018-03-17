@@ -6,3 +6,4 @@ tech-c:             SPIN-DN42
 mnt-by:             SPIN-MNT
 status:             ASSIGNED
 cidr:               fd3f:e6b2:8a3e::/48
+source:             DN42

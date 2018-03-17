@@ -1,7 +1,0 @@
-domain:             ffndh
-remarks:            ** nordheide
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             NIXNODES-MNT
-status:             CONNECT
-nserver:            ns1.nordheide.g.nic.dn42 10.15.64.1

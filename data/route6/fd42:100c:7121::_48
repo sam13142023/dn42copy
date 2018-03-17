@@ -1,4 +1,6 @@
 route6:             fd42:100c:7121::/48
-descr:              Freifunk Marburg NPTv6
 origin:             AS64877
-mnt-by:             OLEANDER-MNT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: marburg
+mnt-by:             DN42-MNT
+source:             ICVPN

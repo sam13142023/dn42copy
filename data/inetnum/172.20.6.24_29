@@ -7,3 +7,4 @@ tech-c:             ELNAPPO-DN42
 mnt-by:             ELNAPPO-MNT
 status:             ASSIGNED
 cidr:               172.20.6.24/29
+source:             DN42

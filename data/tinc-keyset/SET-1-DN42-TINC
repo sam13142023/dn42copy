@@ -4,3 +4,4 @@ member:             UVES-TINC
 admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             NIXNODES-MNT
+source:             DN42

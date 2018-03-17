@@ -9,3 +9,4 @@ nserver:            cucumber.dn42
 nserver:            grape.dn42
 status:             ASSIGNED
 cidr:               fd42:4242:339::/48
+source:             DN42

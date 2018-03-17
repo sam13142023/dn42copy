@@ -1,8 +1,0 @@
-inetnum:            172.23.159.128-172.23.159.191
-netname:            VPSSOLUTIONS-CLIENTS-01-NET
-country:            US
-admin-c:            CONNOR-DN42
-tech-c:             CONNOR-DN42
-mnt-by:             VPSSOLUTIONS-MNT
-status:             ASSIGNED PI
-cidr:               172.23.159.128/26

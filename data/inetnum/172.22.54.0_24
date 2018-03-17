@@ -7,3 +7,4 @@ tech-c:             HAEGAR-DN42
 mnt-by:             HAEGAR-MNT
 status:             ASSIGNED
 cidr:               172.22.54.0/24
+source:             DN42

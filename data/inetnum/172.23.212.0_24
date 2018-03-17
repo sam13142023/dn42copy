@@ -7,3 +7,4 @@ tech-c:             LABORTEC-DN42
 status:             ASSIGNED
 mnt-by:             TEUFELCHEN-MNT
 cidr:               172.23.212.0/24
+source:             DN42

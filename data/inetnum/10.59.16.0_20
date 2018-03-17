@@ -1,7 +1,8 @@
 inetnum:            10.59.16.0 - 10.59.31.255
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-status:             ALLOCATED
 cidr:               10.59.16.0/20
-mnt-by:             DUMMY-MNT
-netname:            Unnamed 10.59.16.0/20 Network
+netname:            ICVPN-LEIPZIG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: leipzig
+mnt-by:             DN42-MNT
+source:             ICVPN

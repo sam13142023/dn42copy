@@ -6,3 +6,4 @@ tech-c:             LOCONOX-DN42
 mnt-by:             LOCONOX-MNT
 status:             ASSIGNED
 cidr:               fd42:1c53:9d0a::/48
+source:             DN42

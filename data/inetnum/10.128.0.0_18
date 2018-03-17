@@ -1,10 +1,8 @@
 inetnum:            10.128.0.0 - 10.128.63.255
-netname:            FFMR-DN42-IP4NET
-descr:              Freifunk Marburg
-country:            DE
-org:                ORG-FFMR
-admin-c:            FFMR-DN42
-tech-c:             FFMR-DN42
-mnt-by:             OLEANDER-MNT
-status:             ASSIGNED
 cidr:               10.128.0.0/18
+netname:            ICVPN-MARBURG
+bgp-status:         ignored
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: marburg
+mnt-by:             DN42-MNT
+source:             ICVPN

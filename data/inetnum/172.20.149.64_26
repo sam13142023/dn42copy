@@ -1,7 +1,0 @@
-inetnum:            172.20.149.64 - 172.20.149.127
-netname:            PETRI13-NET1
-admin-c:            PETRI13-DN42
-tech-c:             PETRI13-DN42
-mnt-by:             PETRI13-MNT
-status:             ASSIGNED
-cidr:               172.20.149.64/26

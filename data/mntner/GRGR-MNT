@@ -4,3 +4,4 @@ tech-c:             GRGR-DN42
 admin-c:            GRGR-DN42
 mnt-by:             GRGR-MNT
 auth:               pgp-fingerprint 6BAEFE416A33D26130EE36AEC5A678BF74B7E8B0
+source:             DN42

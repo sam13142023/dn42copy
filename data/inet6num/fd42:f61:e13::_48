@@ -8,3 +8,4 @@ tech-c:             CUBESKY-DN42
 mnt-by:             CUBESKY-MNT
 nserver:            ns.cubesky.dn42
 status:             ASSIGNED
+source:             DN42

@@ -1,11 +1,11 @@
 inetnum:            10.83.0.0 - 10.83.255.255
-remarks:            ** franken
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             SIS-ORG-MNT
-status:             ALLOCATED
-nserver:            ns1.franken.g.nic.dn42
-nserver:            ns2.franken.g.nic.dn42
-nserver:            ns3.franken.g.nic.dn42
 cidr:               10.83.0.0/16
-netname:            Unnamed 10.83.0.0/16 Network
+netname:            ICVPN-FRANKEN
+bgp-status:         ignored
+nserver:            10.40.50.10.icvpn.registry-sync.dn42
+nserver:            11.252.83.10.icvpn.registry-sync.dn42
+nserver:            0.252.50.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: franken
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -11,3 +11,4 @@ nserver:            rain.wolf.dn42
 nserver:            snow.wolf.dn42
 nserver:            sleet.wolf.dn42
 cidr:               172.23.43.96/28
+source:             DN42

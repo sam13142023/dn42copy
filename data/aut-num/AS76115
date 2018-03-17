@@ -5,3 +5,4 @@ descr:              PyroPeters old ASN (deprecated, moved to 64864)
 admin-c:            PYROPETER-DN42
 tech-c:             PYROPETER-DN42
 mnt-by:             PYROPETER-MNT
+source:             DN42

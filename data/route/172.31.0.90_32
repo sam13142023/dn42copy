@@ -1,0 +1,8 @@
+route:              172.31.0.90/32
+origin:             AS64654
+origin:             AS4242422718
+origin:             AS4242422480
+pingable:           172.31.0.90
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

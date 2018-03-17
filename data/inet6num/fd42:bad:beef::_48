@@ -6,3 +6,4 @@ tech-c:             LOUPO-DN42
 mnt-by:             LOUPOFI-MNT
 status:             ASSIGNED
 cidr:               fd42:bad:beef::/48
+source:             DN42

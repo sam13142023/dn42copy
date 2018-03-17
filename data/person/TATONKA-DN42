@@ -1,7 +1,7 @@
 person:             tatonka
 contact:            XMPP: jabber@simonszu.de
 contact:            Twitter: @simonszu
-pgp-fingerprint:    339E A650 084D D388 07F5  1CF4 88C6 B4D5 9EAA 1201
+pgp-fingerprint:    339EA650084DD38807F51CF488C6B4D59EAA1201
 e-mail:             mail@simonszu.de
 nic-hdl:            TATONKA-DN42
 mnt-by:             TATONKA-MNT
@@ -10,3 +10,4 @@ remarks:            | Wanna peer? OpenVPN preferred |
 remarks:            | Datacenter VPS, v4 and v6     |
 remarks:            | Contact: tatonka @ hackint    |
 remarks:            ---------------------------------
+source:             DN42

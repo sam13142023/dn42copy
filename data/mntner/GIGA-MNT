@@ -6,3 +6,4 @@ auth:               pgp-fingerprint B467666A0885B5BB5AF4ADE2294E289D422DE3FA
 admin-c:            GIGA-DN42
 tech-c:             GIGA-DN42
 mnt-by:             GIGA-MNT
+source:             DN42

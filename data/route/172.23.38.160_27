@@ -1,4 +1,5 @@
 route:              172.23.38.160/27
-descr:              SISNET-EASY42-INET4
+descr:              SIS-DN42-INET4-LAB1
 origin:             AS4242422950
-mnt-by:             SIS-ORG-MNT
+mnt-by:             SIS-MNT
+source:             DN42

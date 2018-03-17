@@ -1,12 +1,16 @@
 inetnum:            10.130.0.0 - 10.130.255.255
-remarks:            ** luebeck
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.luebeck.g.nic.dn42
-nserver:            ns2.luebeck.g.nic.dn42
-nserver:            ns3.luebeck.g.nic.dn42
-nserver:            ns4.luebeck.g.nic.dn42
 cidr:               10.130.0.0/16
-netname:            Unnamed 10.130.0.0/16 Network
+netname:            ICVPN-LUEBECK
+bgp-status:         ignored
+nserver:            1.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            252.0.130.10.icvpn.registry-sync.dn42
+nserver:            253.0.130.10.icvpn.registry-sync.dn42
+nserver:            254.0.130.10.icvpn.registry-sync.dn42
+nserver:            255.0.130.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

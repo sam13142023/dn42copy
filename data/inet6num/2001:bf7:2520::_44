@@ -1,0 +1,14 @@
+inet6num:           2001:0bf7:2520:0000:0000:0000:0000:0000 - 2001:0bf7:252f:ffff:ffff:ffff:ffff:ffff
+cidr:               2001:bf7:2520::/44
+netname:            ICVPN-AUGSBURG
+bgp-status:         ignored
+nserver:            8.0.11.10.icvpn.registry-sync.dn42
+nserver:            15.10.11.10.icvpn.registry-sync.dn42
+nserver:            26.63.11.10.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.a.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.a.0.a.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.a.1.f.3.0.a.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: augsburg
+mnt-by:             DN42-MNT
+source:             ICVPN

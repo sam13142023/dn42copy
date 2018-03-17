@@ -1,0 +1,14 @@
+inet6num:           fdc7:3c9d:b889:a272:0000:0000:0000:0000 - fdc7:3c9d:b889:a272:ffff:ffff:ffff:ffff
+cidr:               fdc7:3c9d:b889:a272::/64
+netname:            ICVPN-DREILAENDERECK
+bgp-status:         ignored
+nserver:            5.0.119.10.icvpn.registry-sync.dn42
+nserver:            4.0.119.10.icvpn.registry-sync.dn42
+nserver:            10.0.119.10.icvpn.registry-sync.dn42
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dreilaendereck
+mnt-by:             DN42-MNT
+source:             ICVPN

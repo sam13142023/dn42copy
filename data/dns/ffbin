@@ -1,8 +1,8 @@
 domain:             ffbin
-remarks:            ** bingen
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
 status:             CONNECT
-nserver:            ns1.bingen.g.nic.dn42 10.25.1.1
-nserver:            ns2.bingen.g.nic.dn42 10.25.1.2
+nserver:            1.1.25.10.icvpn.registry-sync.dn42
+nserver:            2.1.25.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bingen
+mnt-by:             DN42-MNT
+source:             ICVPN

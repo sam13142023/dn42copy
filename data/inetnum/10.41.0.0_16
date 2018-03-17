@@ -1,10 +1,12 @@
 inetnum:            10.41.0.0 - 10.41.255.255
-remarks:            ** ruhrgebiet
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.ruhrgebiet.g.nic.dn42
-nserver:            ns2.ruhrgebiet.g.nic.dn42
 cidr:               10.41.0.0/16
-netname:            Unnamed 10.41.0.0/16 Network
+netname:            ICVPN-RUHRGEBIET
+bgp-status:         ignored
+nserver:            190.64.80.151.icvpn.registry-sync.dn42
+nserver:            33.255.14.85.icvpn.registry-sync.dn42
+nserver:            0.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.c.5.9.0.0.0.c.0.d.1.4.1.0.0.2.icvpn.registry-sync.dn42
+nserver:            3.3.0.0.0.0.0.0.0.0.0.0.0.0.0.9.e.1.f.f.f.f.0.a.b.4.1.0.0.2.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ruhrgebiet
+mnt-by:             DN42-MNT
+source:             ICVPN

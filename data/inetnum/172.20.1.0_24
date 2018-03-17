@@ -1,7 +1,9 @@
 inetnum:            172.20.1.0-172.20.1.255
 netname:            JRB0001
+nserver:            ns.as4242420119.dn42
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
 status:             ALLOCATED PA
 cidr:               172.20.1.0/24
+source:             DN42

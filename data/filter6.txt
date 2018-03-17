@@ -12,6 +12,6 @@
 
 # Nr    Action    Prefix                      MinLen  MaxLen    # Comment
 0010    deny      fc00::/8                     8      128       # ULA (undefined)
-0011    permit    fd00::/8                    48       80       # ULA (defined)
+0011    permit    fd00::/8                    44       64       # ULA (defined)
 
 

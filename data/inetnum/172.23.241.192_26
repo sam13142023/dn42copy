@@ -1,9 +1,0 @@
-inetnum:            172.23.241.192 - 172.23.241.255
-netname:            NICOO-BISINA-GUESTS
-descr:              nicoo's family - Guest network
-country:            FR
-admin-c:            NICOO-DN42
-tech-c:             NICOO-DN42
-mnt-by:             NICOO-MNT
-status:             ALLOCATED
-cidr:               172.23.241.192/26

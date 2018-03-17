@@ -9,3 +9,4 @@ nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.240.192/26
+source:             DN42

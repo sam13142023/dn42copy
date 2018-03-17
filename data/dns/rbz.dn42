@@ -5,3 +5,4 @@ tech-c:             REISENB-DN42
 mnt-by:             REISENB-MNT
 nserver:            ns1.rbz.dn42 172.23.188.53
 status:             CONNECT
+source:             DN42

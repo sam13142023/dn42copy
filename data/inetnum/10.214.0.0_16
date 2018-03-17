@@ -1,9 +1,9 @@
 inetnum:            10.214.0.0 - 10.214.255.255
-remarks:            ** karlsruhe
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             FREIFUNKDUMMY-MNT
-status:             ALLOCATED
-nserver:            ns1.karlsruhe.g.nic.dn42
 cidr:               10.214.0.0/16
-netname:            Unnamed 10.214.0.0/16 Network
+netname:            ICVPN-KARLSRUHE
+bgp-status:         ignored
+nserver:            3.0.214.10.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: karlsruhe
+mnt-by:             DN42-MNT
+source:             ICVPN

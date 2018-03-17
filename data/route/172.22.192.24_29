@@ -1,0 +1,5 @@
+route:              172.22.192.24/29
+descr:              Germany, Bremen, PLUTEX, DC5
+origin:             AS64794
+mnt-by:             MORTZU-MNT
+source:             DN42

@@ -1,5 +1,6 @@
 aut-num:            AS65039
-as-name:            NOOKERMAN-TH
-admin-c:            NOOKERMAN-DN42
-tech-c:             NOOKERMAN-DN42
-mnt-by:             NOOKERMAN-MNT
+as-name:            ICVPN-MAGDEBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: magdeburg
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -3,3 +3,4 @@ as-name:            SOMNET-AS2
 admin-c:            SOMNET-DN42
 tech-c:             SOMNET-DN42
 mnt-by:             SOMNET-MNT
+source:             DN42

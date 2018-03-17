@@ -1,0 +1,14 @@
+inet6num:           fdb5:078b:64cc:0000:0000:0000:0000:0000 - fdb5:078b:64cc:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb5:078b:64cc::/48
+netname:            ICVPN-GERA-GREIZ
+bgp-status:         ignored
+nserver:            11.0.181.10.icvpn.registry-sync.dn42
+nserver:            12.0.181.10.icvpn.registry-sync.dn42
+nserver:            13.0.181.10.icvpn.registry-sync.dn42
+nserver:            1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.c.c.4.6.0.b.8.7.5.b.d.f.icvpn.registry-sync.dn42
+nserver:            2.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.c.c.4.6.0.b.8.7.5.b.d.f.icvpn.registry-sync.dn42
+nserver:            3.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.c.c.4.6.0.b.8.7.5.b.d.f.icvpn.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: gera-greiz
+mnt-by:             DN42-MNT
+source:             ICVPN

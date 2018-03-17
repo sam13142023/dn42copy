@@ -1,3 +1,4 @@
-route:              fdc3:c927:1455::/48
+route6:             fdc3:c927:1455::/48
 origin:             AS4242422499
 mnt-by:             MULTI-MNT
+source:             DN42

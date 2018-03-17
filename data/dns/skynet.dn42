@@ -3,6 +3,9 @@ descr:              Skynet domain
 admin-c:            IO-DN42
 tech-c:             IO-DN42
 mnt-by:             SKYNET-MNT
-nserver:            ns1.skynet.dn42 172.20.28.66
+nserver:            ns1.skynet.dn42 172.20.28.65
 nserver:            ns1.skynet.dn42 fd10:49:4f:101::2
+nserver:            ns2.skynet.dn42 172.20.28.69
+nserver:            ns2.skynet.dn42 fd10:49:4f:102::2
 status:             CONNECT
+source:             DN42

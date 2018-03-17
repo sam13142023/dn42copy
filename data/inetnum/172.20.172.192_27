@@ -9,3 +9,4 @@ nserver:            ns1.bsd.services.dn42
 nserver:            ns2.bsd.services.dn42
 status:             ASSIGNED
 cidr:               172.20.172.192/27
+source:             DN42

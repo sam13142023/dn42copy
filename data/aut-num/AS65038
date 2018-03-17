@@ -1,7 +1,6 @@
 aut-num:            AS65038
-as-name:            FFDA-AS
-org:                ORG-FFDA
-descr:              Freifunk Darmstadt
-admin-c:            FFDA-DN42
-tech-c:             FFDA-DN42
-mnt-by:             HEXA-MNT
+as-name:            ICVPN-DARMSTADT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: darmstadt
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,4 +1,5 @@
 route:              172.20.204.0/27
-descr:              TEST
-origin:             AS4242422909
-mnt-by:             D2D-MNT
+descr:              IRL-NET
+origin:             AS4242421096
+mnt-by:             IRL-MNT
+source:             DN42

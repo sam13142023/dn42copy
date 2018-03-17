@@ -1,4 +1,0 @@
-route:              172.22.196.0/23
-descr:              Internal usage
-origin:             AS64794
-mnt-by:             MORTZU-MNT
