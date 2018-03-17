@@ -1,0 +1,7 @@
+aut-num:            AS4242422747
+as-name:            ROT13-AS
+descr:              rot13 lab ASN
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+source:             DN42
