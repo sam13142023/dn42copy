@@ -1,5 +1,5 @@
-inetnum:            10.104.0.0 - 10.104.255.255
-cidr:               10.104.0.0/16
+inetnum:            10.84.0.0 - 10.85.255.255
+cidr:               10.84.0.0/15
 netname:            ICVPN-DARMSTADT
 bgp-status:         ignored
 nserver:            53.254.223.10.icvpn.registry-sync.dn42
