@@ -5,6 +5,6 @@ country:            DE
 admin-c:            LINUTUX-DN42
 tech-c:             LINUTUX-DN42
 mnt-by:             LINUTUX-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               fd62:a393:3d91::/48
 source:             DN42
