@@ -1,10 +1,6 @@
 as-set:             AS4242420119:AS-TRANSIT
 remarks:            DRATHIR-MNT
 members:            AS4242423759
-remarks:            ALTF4-MNT
-members:            AS4242422935
-remarks:            ELOKO-MNT
-members:            AS4242423298
 remarks:            KRSTN-MNT
 members:            AS4242423723
 remarks:            SKYNET-MNT (IO)
