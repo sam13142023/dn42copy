@@ -1,0 +1,12 @@
+inet6num:           fd42:3667:3667:0000:0000:0000:0000:0000 - fd42:3667:3667:ffff:ffff:ffff:ffff:ffff
+netname:            XICON-NET
+descr:              xicon test network
+country:            DE
+admin-c:            XICONFJS-DN42
+tech-c:             XICONFJS-DN42
+mnt-by:             XICON-MNT
+status:             ASSIGNED
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+cidr:               fd42:3667:3667::/48
+source:             DN42
