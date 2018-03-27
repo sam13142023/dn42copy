@@ -1,6 +1,6 @@
 schema:             MNTNER-SCHEMA
 ref:                dn42.mntner
-key:                mntner         required  single    primary  schema
+key:                mntner         required  single    primary schema
 key:                descr          optional  single
 key:                mnt-by         required  multiple  lookup=dn42.mntner
 key:                admin-c        optional  multiple  lookup=dn42.person,dn42.role
