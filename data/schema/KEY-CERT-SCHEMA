@@ -1,7 +1,7 @@
 schema:             KEY-CERT-SCHEMA
 ref:                dn42.key-cert
 key:                key-cert     required  single    primary schema
-key:                method       required  single    > {PGP|X509}
+key:                method       required  single    > {PGP|X509|MTN}
 key:                owner        required  multiple
 key:                fingerpr     required  single
 key:                certif       required  multiple
