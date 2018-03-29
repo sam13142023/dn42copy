@@ -4,7 +4,7 @@ key:                schema   required  single    primary schema > [name]
 key:                ref      required  single    > [schema]
 key:                key      required  multiple  > [key-name]
                     {required|optional|recommend|deprecate}
-                    {single|multi} {primary|} {schema|}
+                    {single|multiple} {primary|} {schema|}
                     lookup=str '>' [spec]...
 key:                mnt-by   required  multiple    lookup=dn42.mntner > [mntner]
 key:                remarks  optional  multiple  > [text]...
