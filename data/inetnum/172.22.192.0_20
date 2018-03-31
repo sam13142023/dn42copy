@@ -4,7 +4,7 @@ descr:              mortzu IPv4 dn42 address space
 country:            DE
 admin-c:            MORTZU-DN42
 tech-c:             MORTZU-DN42
-status:             ASSIGNED
+status:             ALLOCATED
 mnt-by:             MORTZU-MNT
 nserver:            ns-1.mortzu.dn42
 nserver:            ns-2.mortzu.dn42

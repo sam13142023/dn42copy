@@ -4,7 +4,7 @@ descr:              Crest's dn42 transfer networks
 country:            DE
 admin-c:            CREST-DN42
 tech-c:             CREST-DN42
-status:             ASSIGNED
+status:             ALLOCATED
 nserver:            dns1.crest.dn42
 nserver:            dns2.crest.dn42
 nserver:            ns1.mwd.dn42

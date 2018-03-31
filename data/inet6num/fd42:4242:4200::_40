@@ -2,7 +2,7 @@ inet6num:           fd42:4242:4200:0000:0000:0000:0000:0000 - fd42:4242:42ff:fff
 netname:            NET-ANDI-VM-SRV
 cidr:               fd42:4242:4200::/40
 descr:              Andi-'s VM Server2 Address space
-status:             ASSIGNED PA
+status:             ALLOCATED PA
 country:            DE
 admin-c:            ANDI-DN42
 tech-c:             ANDI-DN42
