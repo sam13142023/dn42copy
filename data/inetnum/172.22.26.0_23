@@ -1,5 +1,5 @@
 inetnum:            172.22.26.0 - 172.22.27.255
-nserver:            selene.chaosdorf.dn42 172.22.26.9
+nserver:            selene.chaosdorf.dn42
 netname:            CHAOSDORF-NET-DN42
 country:            DE
 mnt-by:             FEUERROT-MNT

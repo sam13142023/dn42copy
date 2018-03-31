@@ -8,6 +8,6 @@ mnt-by:             GRMML-MNT
 nserver:            ns1.grmml.dn42
 nserver:            ns2.grmml.dn42
 nserver:            ns3.grmml.dn42
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fd42:23:149::/48
 source:             DN42

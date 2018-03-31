@@ -3,7 +3,7 @@ netname:            RZL-DN42-IP4NET
 descr:              RaumZeitLabor dn42 network
 country:            DE
 org:                ORG-RZL
-status:             ASSIGNED
+status:             ALLOCATED
 nserver:            dns.rzl
 cidr:               172.22.36.0/23
 mnt-by:             LUTOMA-MNT

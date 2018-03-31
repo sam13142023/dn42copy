@@ -6,7 +6,6 @@ admin-c:            HEAVYMETAL-DN42
 tech-c:             HEAVYMETAL-DN42
 mnt-by:             ASOTNET-MNT
 status:             ALLOCATED PI
-nserver:            ns1.aseriesoftubez.dn42 172.22.110.53
-nserver:            ns1.aseriesoftubez.dn42 fd68:fdcc:7a1a::53
+nserver:            ns1.aseriesoftubez.dn42
 cidr:               fd68:fdcc:7a1a::/48
 source:             DN42

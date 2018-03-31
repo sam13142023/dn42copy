@@ -7,8 +7,8 @@ remarks:            172.20.240.4/31 - andi
 admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
-nserver:            ns1.lossy-network.dn42.
-nserver:            ns2.lossy-network.dn42.
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 source:             DN42

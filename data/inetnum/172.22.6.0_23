@@ -6,6 +6,6 @@ country:            DE
 admin-c:            RIPPERFOX-DN42
 tech-c:             RIPPERFOX-DN42
 mnt-by:             RIPPERFOX-MNT
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               172.22.6.0/23
 source:             DN42

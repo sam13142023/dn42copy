@@ -7,6 +7,5 @@ mnt-by:             SIS-MNT
 org:                ORG-SIS
 status:             ASSIGNED
 cidr:               fd42:2950::/32
-nserver:            ns.sis.dn42 fd42:2950::53
-nserver:            ns.sis.dn42 172.23.234.200
+nserver:            ns.sis.dn42
 source:             DN42

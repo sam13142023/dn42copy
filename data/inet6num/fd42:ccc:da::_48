@@ -5,8 +5,7 @@ country:            DE
 admin-c:            HEXA-DN42
 tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
-nserver:            ns1.cccda.dn42 172.23.96.1
-nserver:            ns1.cccda.dn42 fd42:ccc:da::1
+nserver:            ns1.cccda.dn42
 status:             ASSIGNED
 cidr:               fd42:ccc:da::/48
 source:             DN42

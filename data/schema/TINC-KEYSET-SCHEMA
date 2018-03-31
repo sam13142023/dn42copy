@@ -1,6 +1,6 @@
 schema:             TINC-KEYSET-SCHEMA
 ref:                dn42.tinc-keyset
-key:                tinc-keyset  required  single    primary  schema
+key:                tinc-keyset  required  single    primary schema
 key:                descr        optional  single
 key:                remarks      optional  multiple
 key:                member       required  multiple  lookup=dn42.tinc-key

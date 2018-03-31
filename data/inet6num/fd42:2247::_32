@@ -5,6 +5,6 @@ country:            CZ
 admin-c:            NGW-DN42
 tech-c:             NGW-DN42
 mnt-by:             NGW-MNT
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fd42:2247::/32
 source:             DN42

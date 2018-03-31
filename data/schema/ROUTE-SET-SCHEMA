@@ -3,9 +3,9 @@ ref:                dn42.route-set
 key:                route-set    required  single    primary schema
 key:                descr        optional  single
 key:                mnt-by       required  multiple  lookup=dn42.mntner
-key:                members      deprecate multiple  lookup=dn42.route-set
-key:                mp-members   optional  multiple  lookup=dn42.route
-key:                mbrs-by-ref  optional  multiple  lookup=dn42.route
+key:                members      deprecate multiple
+key:                mp-members   optional  multiple
+key:                mbrs-by-ref  optional  multiple  lookup=dn42.mntner
 key:                admin-c      optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c       optional  multiple  lookup=dn42.person,dn42.role
 key:                remarks      optional  multiple

@@ -4,7 +4,7 @@ country:            DE
 admin-c:            JAN-DN42
 tech-c:             JAN-DN42
 mnt-by:             JAN-MNT
-nserver:            ns1.jan.dn42 172.22.125.132
+nserver:            ns1.jan.dn42
 status:             ASSIGNED
 cidr:               fda1:d21:d67f::/48
 source:             DN42
