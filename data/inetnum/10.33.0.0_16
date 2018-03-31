@@ -1,7 +1,7 @@
 inetnum:            10.33.0.0 - 10.33.255.255
 cidr:               10.33.0.0/16
 netname:            ICVPN-ULM
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.64.33.10.icvpn.registry-sync.dn42
 nserver:            1.68.33.10.icvpn.registry-sync.dn42
 nserver:            1.76.33.10.icvpn.registry-sync.dn42

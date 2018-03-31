@@ -1,4 +1,4 @@
-inetnum:            172.20.35.0-172.20.35.255
+inetnum:            172.20.35.0 - 172.20.35.255
 netname:            BGPTRACE-AS
 descr:              BGPTRACE
 country:            KR

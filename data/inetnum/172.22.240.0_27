@@ -1,4 +1,4 @@
-inetnum:            172.22.240.0-172.22.240.31
+inetnum:            172.22.240.0 - 172.22.240.31
 netname:            CRAIG4WHO-DN42
 descr:              CRAIG4WHO-DN42
 country:            GB

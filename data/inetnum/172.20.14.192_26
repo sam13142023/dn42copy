@@ -1,4 +1,4 @@
-inetnum:            172.20.14.192-172.20.14.255
+inetnum:            172.20.14.192 - 172.20.14.255
 netname:            GOTROOT-INT
 descr:              Got root?
 country:            CA

@@ -1,4 +1,4 @@
-inetnum:            172.20.239.128-172.20.239.191
+inetnum:            172.20.239.128 - 172.20.239.191
 netname:            LFNET-HOME
 descr:              LittleFox' home network
 country:            DE

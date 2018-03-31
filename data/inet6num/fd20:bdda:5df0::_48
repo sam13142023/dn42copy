@@ -1,4 +1,4 @@
-inet6num:           fd20:bdda:5df0:0:0:0:0:0 - fd20:bdda:5df0:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd20:bdda:5df0:0000:0000:0000:0000:0000 - fd20:bdda:5df0:ffff:ffff:ffff:ffff:ffff
 netname:            NET6-CHAOTIKUM-DN42
 descr:              Chaotikum e.V. /48 ULA
 country:            DE

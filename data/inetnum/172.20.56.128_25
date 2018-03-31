@@ -1,4 +1,4 @@
-inetnum:            172.20.56.128-172.20.56.255
+inetnum:            172.20.56.128 - 172.20.56.255
 cidr:               172.20.56.128/25
 netname:            IMOTO-NET
 descr:              IMOTO NETWORK

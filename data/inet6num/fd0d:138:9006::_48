@@ -1,4 +1,4 @@
-inet6num:           FD0D:0138:9006:: - FD0D:0138:9006:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd0d:0138:9006:0000:0000:0000:0000:0000 - fd0d:0138:9006:ffff:ffff:ffff:ffff:ffff
 netname:            ARGV-DN42
 descr:              argv
 country:            DE

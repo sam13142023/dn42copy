@@ -1,4 +1,4 @@
-inet6num:           fda0:23:748b:: - fda0:23:748b:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fda0:0023:748b:0000:0000:0000:0000:0000 - fda0:0023:748b:ffff:ffff:ffff:ffff:ffff
 netname:            TBSPACE-DE1-IPV6
 descr:              tbspace-DE1 via IPv6
 country:            DE

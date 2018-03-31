@@ -1,4 +1,4 @@
-inet6num:           fd42:20:50:0:0:0:0:0 - fd42:20:50:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0020:0050:0000:0000:0000:0000:0000 - fd42:0020:0050:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:20:50::/48
 netname:            KRSTN-CORE
 admin-c:            KRSTN-DN42

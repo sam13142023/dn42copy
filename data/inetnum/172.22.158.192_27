@@ -1,4 +1,4 @@
-inetnum:            172.22.158.192-172.22.158.223
+inetnum:            172.22.158.192 - 172.22.158.223
 netname:            LOSTSERVER-NET1
 org:                ORG-LOSTSERVER
 country:            US

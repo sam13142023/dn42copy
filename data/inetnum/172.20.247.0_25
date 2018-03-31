@@ -1,4 +1,4 @@
-inetnum:            172.20.247.0-172.20.247.127
+inetnum:            172.20.247.0 - 172.20.247.127
 netname:            N7-NET-01
 country:            US
 admin-c:            N7NET-DN42

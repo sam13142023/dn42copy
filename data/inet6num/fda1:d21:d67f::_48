@@ -1,4 +1,4 @@
-inet6num:           fda1:0d21:d67f:0000:0000:0000:0000:0000- fda1:0d21:d67f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fda1:0d21:d67f:0000:0000:0000:0000:0000 - fda1:0d21:d67f:ffff:ffff:ffff:ffff:ffff
 netname:            JAN-IPV6-NET
 country:            DE
 admin-c:            JAN-DN42

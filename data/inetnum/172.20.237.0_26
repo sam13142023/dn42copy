@@ -1,4 +1,4 @@
-inetnum:            172.20.237.0-172.20.237.63
+inetnum:            172.20.237.0 - 172.20.237.63
 netname:            AURORA-NETWORK
 descr:              AURORA-NETWORK
 country:            MT

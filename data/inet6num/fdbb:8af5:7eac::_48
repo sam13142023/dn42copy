@@ -1,4 +1,4 @@
-inet6num:           FDBB:8AF5:7EAC:0000:0000:0000:0000:0000 - FDBB:8AF5:7EAC:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fdbb:8af5:7eac:0000:0000:0000:0000:0000 - fdbb:8af5:7eac:ffff:ffff:ffff:ffff:ffff
 netname:            FUSL-DN42-IPV6-IT-MIL-A
 descr:              FUSL-DN42-IPV6-IT-MIL-A
 country:            IT

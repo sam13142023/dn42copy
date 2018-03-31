@@ -1,4 +1,4 @@
-inetnum:            172.20.233.0-172.20.233.255
+inetnum:            172.20.233.0 - 172.20.233.255
 netname:            AT-FBNW-20163112
 country:            AT
 admin-c:            FBNW-DN42

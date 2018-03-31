@@ -1,4 +1,4 @@
-inetnum:            172.20.128.0-172.20.128.31
+inetnum:            172.20.128.0 - 172.20.128.31
 netname:            COMPUGLOBAL-400
 country:            DE
 admin-c:            DEEGEE-DN42

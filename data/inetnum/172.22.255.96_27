@@ -1,4 +1,4 @@
-inetnum:            172.22.255.96-172.22.255.127
+inetnum:            172.22.255.96 - 172.22.255.127
 netname:            YOUNGAGE-TRANSFER
 country:            DE
 admin-c:            HEJ-DN42

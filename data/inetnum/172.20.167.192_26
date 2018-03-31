@@ -1,4 +1,4 @@
-inetnum:            172.20.167.192-172.20.167.255
+inetnum:            172.20.167.192 - 172.20.167.255
 netname:            DN42-JAMES-A
 descr:              JAMES
 country:            GB

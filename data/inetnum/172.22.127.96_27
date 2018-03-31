@@ -1,4 +1,4 @@
-inetnum:            172.22.127.96-172.22.127.127
+inetnum:            172.22.127.96 - 172.22.127.127
 netname:            IUT-BEZIERS-NET
 descr:              Network used by IUT Béziers projects
 country:            FR

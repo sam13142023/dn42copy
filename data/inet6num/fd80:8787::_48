@@ -1,4 +1,4 @@
-inet6num:           fd80:8787:0000:0000:0000:0000:0000:0000-fd80:8787:0000:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd80:8787:0000:0000:0000:0000:0000:0000 - fd80:8787:0000:ffff:ffff:ffff:ffff:ffff
 admin-c:            JALEN-DN42
 tech-c:             JALEN-DN42
 mnt-by:             DRIVERSP-MNT

@@ -1,4 +1,4 @@
-inet6num:           fd40:9dc7:b528:: - fd40:9dc7:b528:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd40:9dc7:b528:0000:0000:0000:0000:0000 - fd40:9dc7:b528:ffff:ffff:ffff:ffff:ffff
 netname:            SWORDARMOR-IPV6
 descr:              Rennes
 country:            FR

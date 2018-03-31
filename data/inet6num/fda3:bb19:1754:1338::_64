@@ -1,4 +1,4 @@
-inet6num:           fda3:bb19:1754:1338:: - fda3:bb19:1754:1338:ffff:ffff:ffff:ffff
+inet6num:           fda3:bb19:1754:1338:0000:0000:0000:0000 - fda3:bb19:1754:1338:ffff:ffff:ffff:ffff
 country:            DE
 admin-c:            TISET-DN42
 tech-c:             TISET-DN42

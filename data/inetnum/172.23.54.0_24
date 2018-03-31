@@ -1,4 +1,4 @@
-inetnum:            172.23.54.0-172.23.54.255
+inetnum:            172.23.54.0 - 172.23.54.255
 netname:            RSK-NET
 country:            AE
 admin-c:            RSK-DN42

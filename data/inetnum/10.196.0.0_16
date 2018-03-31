@@ -1,7 +1,7 @@
 inetnum:            10.196.0.0 - 10.196.255.255
 cidr:               10.196.0.0/16
 netname:            ICVPN-BREMEN
-bgp-status:         ignored
+bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: bremen
 mnt-by:             DN42-MNT

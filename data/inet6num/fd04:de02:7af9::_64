@@ -1,4 +1,4 @@
-inet6num:           fd04:de02:7af9:0:0:0:0:0 - fd04:de02:7af9:0:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd04:de02:7af9:0000:0000:0000:0000:0000 - fd04:de02:7af9:0000:ffff:ffff:ffff:ffff
 netname:            DN42-TINC-ULA-IP6NET
 descr:              tinc IX ULA network
 admin-c:            DUMMY-DN42

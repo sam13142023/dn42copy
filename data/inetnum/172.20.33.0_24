@@ -1,4 +1,4 @@
-inetnum:            172.20.33.0-172.20.33.255
+inetnum:            172.20.33.0 - 172.20.33.255
 netname:            SOMNET-01
 country:            US
 admin-c:            SOMNET-DN42

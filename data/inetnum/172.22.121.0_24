@@ -1,4 +1,4 @@
-inetnum:            172.22.121.0-172.22.121.255
+inetnum:            172.22.121.0 - 172.22.121.255
 netname:            VIRTIT-NETWORK
 country:            PT
 admin-c:            MIGUELMONTEIRO-DN42

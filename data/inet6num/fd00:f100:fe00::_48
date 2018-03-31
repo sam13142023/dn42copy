@@ -1,4 +1,4 @@
-inet6num:           FD00:F100:FE00:0000:0000:0000:0000:0000 - FD00:F100:FE00:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd00:f100:fe00:0000:0000:0000:0000:0000 - fd00:f100:fe00:ffff:ffff:ffff:ffff:ffff
 netname:            JMLIBER-IPV6
 descr:              JMLIBER
 country:            US

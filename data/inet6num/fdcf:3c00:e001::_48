@@ -1,4 +1,4 @@
-inet6num:           fdcf:3c00:e001:0000:0000:0000:0000:0000- fdcf:3c00:e001:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdcf:3c00:e001:0000:0000:0000:0000:0000 - fdcf:3c00:e001:ffff:ffff:ffff:ffff:ffff
 netname:            NET-PURRDETA-DN42
 descr:              Purrdeta - IPv6
 country:            US

@@ -1,4 +1,4 @@
-inetnum:            172.20.250.0-172.20.250.255
+inetnum:            172.20.250.0 - 172.20.250.255
 netname:            STR-ADDRESS4
 descr:              Str's IPv4
 country:            GB

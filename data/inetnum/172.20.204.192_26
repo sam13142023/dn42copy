@@ -1,4 +1,4 @@
-inetnum:            172.20.204.192-172.20.204.255
+inetnum:            172.20.204.192 - 172.20.204.255
 netname:            BIG-GERMANY-LAB
 descr:              testnet
 country:            DE

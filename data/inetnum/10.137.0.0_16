@@ -1,7 +1,7 @@
 inetnum:            10.137.0.0 - 10.137.255.255
 cidr:               10.137.0.0/16
 netname:            ICVPN-PINNEBERG
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.12.137.10.icvpn.registry-sync.dn42
 nserver:            1.13.137.10.icvpn.registry-sync.dn42
 nserver:            1.10.137.10.icvpn.registry-sync.dn42

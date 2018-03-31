@@ -1,4 +1,4 @@
-inet6num:           fd2c:3214:3214:: - fd2c:3214:3214:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd2c:3214:3214:0000:0000:0000:0000:0000 - fd2c:3214:3214:ffff:ffff:ffff:ffff:ffff
 netname:            TSYS-IP6-HOME
 descr:              Home v6 network
 country:            DE

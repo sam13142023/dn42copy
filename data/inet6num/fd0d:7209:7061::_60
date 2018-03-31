@@ -1,4 +1,4 @@
-inet6num:           fd0d:7209:7061::-fd0d:7209:7061:ffff::
+inet6num:           fd0d:7209:7061:0000:0000:0000:0000:0000 - fd0d:7209:7061:000f:ffff:ffff:ffff:ffff
 netname:            IPV6-GERM86-DN42
 descr:              ipV6-GERM86
 country:            DE

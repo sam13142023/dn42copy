@@ -1,8 +1,0 @@
-inet6num:           2a03:2260:1016:0000:0000:0000:0000:0000 - 2a03:2260:1016:ffff:ffff:ffff:ffff:ffff
-cidr:               2a03:2260:1016::/48
-netname:            ICVPN-MAYEN-KOBLENZ
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: mayen-koblenz
-mnt-by:             DN42-MNT
-source:             ICVPN

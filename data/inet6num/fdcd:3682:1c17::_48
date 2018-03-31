@@ -1,4 +1,4 @@
-inet6num:           fdcd:3682:1c17:0:0:0:0:0-fdcd:3682:1c17:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdcd:3682:1c17:0000:0000:0000:0000:0000 - fdcd:3682:1c17:ffff:ffff:ffff:ffff:ffff
 netname:            NOCTURNO-IPV6-NET
 descr:              Nocturno IPV6 Network
 country:            PT

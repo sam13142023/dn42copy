@@ -1,4 +1,4 @@
-inetnum:            172.20.170.96-172.20.170.127
+inetnum:            172.20.170.96 - 172.20.170.127
 netname:            ACIDMC-NET1
 descr:              AcidMC Net 1
 country:            US

@@ -1,4 +1,4 @@
-inet6num:           fd01:470:1989:0000:0000:0000:0000:0000 - fd01:470:1989:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd01:0470:1989:0000:0000:0000:0000:0000 - fd01:0470:1989:ffff:ffff:ffff:ffff:ffff
 netname:            RAUSCH-NET
 nserver:            dns.therausch.dn42 fd01:470:1989:ff00::53
 cidr:               fd01:470:1989::/48

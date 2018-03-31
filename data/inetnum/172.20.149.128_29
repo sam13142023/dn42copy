@@ -1,4 +1,4 @@
-inetnum:            172.20.149.128-172.20.149.135
+inetnum:            172.20.149.128 - 172.20.149.135
 netname:            BURKESOOTY-NETWORK
 descr:              burkesooty subnet
 country:            GB

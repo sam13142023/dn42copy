@@ -1,4 +1,4 @@
-inet6num:           fd93:2559:f2ef:0:0:0:0:0 - fd93:2559:f2ef:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd93:2559:f2ef:0000:0000:0000:0000:0000 - fd93:2559:f2ef:ffff:ffff:ffff:ffff:ffff
 netname:            UK-BUNNY-DN42
 descr:              BUNNY
 remarks:            cwningen.cymru

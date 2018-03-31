@@ -1,4 +1,4 @@
-inetnum:            172.20.169.0-172.20.169.255
+inetnum:            172.20.169.0 - 172.20.169.255
 netname:            SAPINET-AS
 country:            FR
 admin-c:            SAPINET-DN42

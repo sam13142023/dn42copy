@@ -1,4 +1,4 @@
-inetnum:            172.20.172.96-172.20.172.111
+inetnum:            172.20.172.96 - 172.20.172.111
 netname:            BAKKERNET-HOME
 descr:              Bakker Home Network
 country:            NL

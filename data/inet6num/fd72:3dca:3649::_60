@@ -1,4 +1,4 @@
-inet6num:           fd72:3dca:3649::-fd72:3dca:3649:ffff::
+inet6num:           fd72:3dca:3649:0000:0000:0000:0000:0000 - fd72:3dca:3649:000f:ffff:ffff:ffff:ffff
 netname:            EXAMPLENET-AP
 admin-c:            ASUK-DN42
 tech-c:             ASUK-DN42

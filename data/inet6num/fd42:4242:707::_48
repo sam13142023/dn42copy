@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:0707::-fd42:4242:0707:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:0707:0000:0000:0000:0000:0000 - fd42:4242:0707:ffff:ffff:ffff:ffff:ffff
 netname:            MIAU-IPV6
 descr:              Katzenjam
 country:            DE

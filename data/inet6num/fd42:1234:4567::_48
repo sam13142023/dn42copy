@@ -1,4 +1,4 @@
-inet6num:           fd42:1234:4567:0000:0000:0000:0000:0000-fd42:1234:4567:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:1234:4567:0000:0000:0000:0000:0000 - fd42:1234:4567:ffff:ffff:ffff:ffff:ffff
 netname:            VIRTIT-NETWORK
 country:            PT
 admin-c:            MIGUELMONTEIRO-DN42

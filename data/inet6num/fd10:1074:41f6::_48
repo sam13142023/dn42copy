@@ -1,4 +1,4 @@
-inet6num:           fd10:1074:41f6:0:0:0:0:0 - fd10:1074:41f6:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd10:1074:41f6:0000:0000:0000:0000:0000 - fd10:1074:41f6:ffff:ffff:ffff:ffff:ffff
 netname:            ALLO-DN42-ULA-IP6NET
 descr:              Allo's ULA IPv6 network
 country:            DE

@@ -1,4 +1,4 @@
-inet6num:           fd42:f10:a15:0:0:0:0:0 - fd42:f10:a15:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0f10:0a15:0000:0000:0000:0000:0000 - fd42:0f10:0a15:ffff:ffff:ffff:ffff:ffff
 netname:            ATVDA-IP6
 cidr:               fd42:f10:a15::/48
 country:            DE

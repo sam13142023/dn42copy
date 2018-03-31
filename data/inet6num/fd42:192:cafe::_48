@@ -1,4 +1,4 @@
-inet6num:           fd42:0192:cafe:0000:0000:0000:0000:0000-fd42:0192:cafe:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0192:cafe:0000:0000:0000:0000:0000 - fd42:0192:cafe:ffff:ffff:ffff:ffff:ffff
 netname:            KEISI-IP6-NET
 admin-c:            KEISI-DN42
 tech-c:             KEISI-DN42

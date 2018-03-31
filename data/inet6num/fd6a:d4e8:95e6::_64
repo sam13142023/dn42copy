@@ -1,4 +1,4 @@
-inet6num:           fd6a:d4e8:95e6:0:0:0:0:0 - fd6a:d4e8:95e6:0:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd6a:d4e8:95e6:0000:0000:0000:0000:0000 - fd6a:d4e8:95e6:0000:ffff:ffff:ffff:ffff
 netname:            DN42-MHMS-ULA-IP6NET
 descr:              Mikaela's home6
 country:            FI

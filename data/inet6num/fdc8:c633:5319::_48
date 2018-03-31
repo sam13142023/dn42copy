@@ -1,4 +1,4 @@
-inet6num:           fdc8:c633:5319:0:0:0:0:0 - fdc8:c633:5319:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdc8:c633:5319:0000:0000:0000:0000:0000 - fdc8:c633:5319:ffff:ffff:ffff:ffff:ffff
 netname:            NET-TECH9-001
 descr:              TECH9 IPv6
 country:            US

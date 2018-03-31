@@ -1,4 +1,4 @@
-inet6num:           fdc9:a4d4:c4ce:: - fdc9:a4d4:c4ce:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdc9:a4d4:c4ce:0000:0000:0000:0000:0000 - fdc9:a4d4:c4ce:ffff:ffff:ffff:ffff:ffff
 netname:            SUBRAUM-IP6-NET
 country:            DE
 org:                ORG-C3PB

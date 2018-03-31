@@ -1,4 +1,4 @@
-inet6num:           fd00:a:a:: - fd00:a:a:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:000a:000a:0000:0000:0000:0000:0000 - fd00:000a:000a:ffff:ffff:ffff:ffff:ffff
 netname:            CJR-NET6
 descr:              Network ipv6 of cjr
 country:            CN

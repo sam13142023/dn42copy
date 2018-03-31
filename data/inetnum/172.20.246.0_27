@@ -1,4 +1,4 @@
-inetnum:            172.20.246.0-172.20.246.31
+inetnum:            172.20.246.0 - 172.20.246.31
 netname:            NET-PHYSTRAX-000
 country:            CA
 admin-c:            MADYODA-DN42

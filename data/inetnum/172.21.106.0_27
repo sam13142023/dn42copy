@@ -1,4 +1,4 @@
-inetnum:            172.21.106.0-172.21.106.31
+inetnum:            172.21.106.0 - 172.21.106.31
 netname:            TAYLES-NET2
 descr:              TAYLES-NET2
 country:            GB

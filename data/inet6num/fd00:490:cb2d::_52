@@ -1,4 +1,4 @@
-inet6num:           fd00:490:cb2d:0:0:0:0:0 - fd00:490:cb2d:fff:ffff:ffff:ffff:ffff
+inet6num:           fd00:0490:cb2d:0000:0000:0000:0000:0000 - fd00:0490:cb2d:0fff:ffff:ffff:ffff:ffff
 netname:            FXKR-DN42-IP6NET
 descr:              fxkr's dn42 network
 country:            DE

@@ -1,4 +1,4 @@
-inetnum:            172.20.17.0-172.20.17.255
+inetnum:            172.20.17.0 - 172.20.17.255
 netname:            HARUKA-TESTNET
 descr:              Haruka Test Network
 country:            CN

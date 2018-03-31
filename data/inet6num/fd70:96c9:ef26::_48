@@ -1,4 +1,4 @@
-inet6num:           fd70:96c9:ef26:0:0:0:0:0-fd70:96c9:ef26:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd70:96c9:ef26:0000:0000:0000:0000:0000 - fd70:96c9:ef26:ffff:ffff:ffff:ffff:ffff
 netname:            GERGER-V6NET1
 descr:              Gerger's V6-Space
 country:            DE

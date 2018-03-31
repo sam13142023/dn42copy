@@ -1,7 +1,7 @@
 inetnum:            10.210.0.0 - 10.210.63.255
 cidr:               10.210.0.0/18
 netname:            ICVPN-SUEDWEST
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            101.0.210.10.icvpn.registry-sync.dn42
 nserver:            102.0.210.10.icvpn.registry-sync.dn42
 nserver:            103.0.210.10.icvpn.registry-sync.dn42

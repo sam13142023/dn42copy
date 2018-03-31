@@ -1,4 +1,4 @@
-inet6num:           fd0e:3ef5:d69e:: - fd0e:3ef5:d69e:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd0e:3ef5:d69e:0000:0000:0000:0000:0000 - fd0e:3ef5:d69e:ffff:ffff:ffff:ffff:ffff
 netname:            TLV-DN42-NET6
 descr:              TLV DN42 IPV6 NETWORK
 country:            US

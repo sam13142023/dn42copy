@@ -1,4 +1,4 @@
-inetnum:            172.22.110.128-172.22.110.191
+inetnum:            172.22.110.128 - 172.22.110.191
 netname:            JULEZ-MAIN
 country:            DE
 admin-c:            JULEZ-DN42

@@ -1,4 +1,4 @@
-inet6num:           fd42:d6be:55ed:0000:0000:0000:0000:0000-fd42:d6be:55ed:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:d6be:55ed:0000:0000:0000:0000:0000 - fd42:d6be:55ed:ffff:ffff:ffff:ffff:ffff
 netname:            NET-SUNDIN-DN42
 cidr:               fd42:d6be:55ed::/48
 descr:              Sundin's DN42 SE IPv6 Network

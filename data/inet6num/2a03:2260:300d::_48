@@ -1,8 +1,0 @@
-inet6num:           2a03:2260:300d:0000:0000:0000:0000:0000 - 2a03:2260:300d:ffff:ffff:ffff:ffff:ffff
-cidr:               2a03:2260:300d::/48
-netname:            ICVPN-WINTERBERG
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: winterberg
-mnt-by:             DN42-MNT
-source:             ICVPN

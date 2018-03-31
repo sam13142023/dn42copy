@@ -1,4 +1,4 @@
-inetnum:            172.20.191.0-172.20.191.63
+inetnum:            172.20.191.0 - 172.20.191.63
 netname:            RC2000-DN42NET
 descr:              RC2000DN42NET
 country:            CA

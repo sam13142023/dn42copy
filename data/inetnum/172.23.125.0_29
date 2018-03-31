@@ -1,4 +1,4 @@
-inetnum:            172.23.125.0-172.23.125.7
+inetnum:            172.23.125.0 - 172.23.125.7
 netname:            TYPHON-NETWORK
 descr:              TYPHON-NETWORK
 country:            DE

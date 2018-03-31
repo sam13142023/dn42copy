@@ -1,4 +1,4 @@
-inetnum:            172.20.55.64-172.20.55.95
+inetnum:            172.20.55.64 - 172.20.55.95
 netname:            NETOM-NETWORK
 descr:              netom lab network
 country:            DE

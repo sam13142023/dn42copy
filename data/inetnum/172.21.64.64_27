@@ -1,4 +1,4 @@
-inetnum:            172.21.64.64-172.21.64.95
+inetnum:            172.21.64.64 - 172.21.64.95
 netname:            OS23-VPN
 descr:              VPN1
 country:            DE

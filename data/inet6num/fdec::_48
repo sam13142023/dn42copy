@@ -1,4 +1,4 @@
-inet6num:           fdec:: - fdec::ffff:ffff:ffff:ffff:ffff
+inet6num:           fdec:0000:0000:0000:0000:0000:0000:0000 - fdec:0000:0000:ffff:ffff:ffff:ffff:ffff
 netname:            NET-WUNIX-IP6-DN42
 descr:              Wunix's IPV6 Lab
 country:            DE

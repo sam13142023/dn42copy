@@ -1,4 +1,4 @@
-inet6num:           fdea:dead:face:0000:0000:0000:0000:0000-fdea:dead:face:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdea:dead:face:0000:0000:0000:0000:0000 - fdea:dead:face:ffff:ffff:ffff:ffff:ffff
 netname:            THB-NETWORK-V6-NEW
 country:            DE
 admin-c:            THB-DN42

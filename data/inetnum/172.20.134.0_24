@@ -1,4 +1,4 @@
-inetnum:            172.20.134.0-172.20.134.255
+inetnum:            172.20.134.0 - 172.20.134.255
 netname:            MTNS-NET
 country:            CH
 org:                ORG-MTNS

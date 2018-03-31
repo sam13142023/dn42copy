@@ -1,4 +1,4 @@
-inetnum:            172.21.64.224-172.21.64.255
+inetnum:            172.21.64.224 - 172.21.64.255
 netname:            GIN42-INET4
 country:            DE
 admin-c:            GIN42-DN42

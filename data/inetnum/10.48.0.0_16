@@ -1,7 +1,7 @@
 inetnum:            10.48.0.0 - 10.48.255.255
 cidr:               10.48.0.0/16
 netname:            ICVPN-MUENSTERLAND
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            2.8.43.10.icvpn.registry-sync.dn42
 nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.1.1.0.6.2.2.3.0.a.2.icvpn.registry-sync.dn42
 nserver:            3.8.43.10.icvpn.registry-sync.dn42

@@ -1,4 +1,4 @@
-inetnum:            172.22.102.0-172.22.103.255
+inetnum:            172.22.102.0 - 172.22.103.255
 netname:            TOMBII-SERVER-NET
 descr:              TOMBII SERVER NETWORK
 country:            SE

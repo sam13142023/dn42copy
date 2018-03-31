@@ -1,4 +1,4 @@
-inetnum:            172.23.225.0-172.23.225.255
+inetnum:            172.23.225.0 - 172.23.225.255
 netname:            NET-DERF-DN42
 nserver:            entropy.derf.dn42 172.23.225.1
 country:            DE

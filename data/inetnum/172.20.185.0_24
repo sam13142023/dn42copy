@@ -1,4 +1,4 @@
-inetnum:            172.20.185.0-172.20.185.255
+inetnum:            172.20.185.0 - 172.20.185.255
 netname:            TOMBII-IX
 admin-c:            TOMBII-DN42
 tech-c:             TOMBII-DN42

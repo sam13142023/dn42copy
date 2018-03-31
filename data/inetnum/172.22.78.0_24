@@ -1,4 +1,4 @@
-inetnum:            172.22.78.0-172.22.78.255
+inetnum:            172.22.78.0 - 172.22.78.255
 netname:            AT-FBNW-20163112
 country:            AT
 admin-c:            FBNW-DN42

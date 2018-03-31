@@ -1,8 +1,0 @@
-inet6num:           2a03:2260:2004:0000:0000:0000:0000:0000 - 2a03:2260:2004:ffff:ffff:ffff:ffff:ffff
-cidr:               2a03:2260:2004::/48
-netname:            ICVPN-LIPPE
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: lippe
-mnt-by:             DN42-MNT
-source:             ICVPN

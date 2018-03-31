@@ -1,4 +1,4 @@
-inetnum:            172.22.148.240-172.22.148.255
+inetnum:            172.22.148.240 - 172.22.148.255
 descr:              WhiteWolf's ZA Net
 country:            ZA
 admin-c:            WOLF-DN42

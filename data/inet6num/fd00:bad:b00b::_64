@@ -1,4 +1,4 @@
-inet6num:           fd00:0bad:b00b:0000:0000:0000:0000:0000- fd00:0bad:b00b:0000:ffff:ffff:ffff:ffff
+inet6num:           fd00:0bad:b00b:0000:0000:0000:0000:0000 - fd00:0bad:b00b:0000:ffff:ffff:ffff:ffff
 netname:            NET-REST
 country:            AT
 admin-c:            REISENB-DN42

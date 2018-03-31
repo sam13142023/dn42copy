@@ -1,4 +1,4 @@
-inet6num:           fdad:850e:9f6a:9cb3:: - fdad:850e:9f6a:9cb3:ffff:ffff:ffff:ffff
+inet6num:           fdad:850e:9f6a:9cb3:0000:0000:0000:0000 - fdad:850e:9f6a:9cb3:ffff:ffff:ffff:ffff
 netname:            LDG-IPV6-TESTNET
 descr:              Locodog IPv6 test network
 country:            RS

@@ -1,4 +1,4 @@
-inet6num:           fd0b:52c9:8b56:0:0:0:0:0 - fd0b:52c9:8b56:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd0b:52c9:8b56:0000:0000:0000:0000:0000 - fd0b:52c9:8b56:ffff:ffff:ffff:ffff:ffff
 netname:            AFICS6-NET1
 cidr:               fd0b:52c9:8b56::/48
 admin-c:            AFICS-DN42

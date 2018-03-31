@@ -1,4 +1,4 @@
-inetnum:            172.20.172.192-172.20.172.223
+inetnum:            172.20.172.192 - 172.20.172.223
 netname:            BSDSERVICES-NETWORK
 descr:              bsd.services network
 country:            DE

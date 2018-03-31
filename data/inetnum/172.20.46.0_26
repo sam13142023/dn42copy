@@ -1,4 +1,4 @@
-inetnum:            172.20.46.0-172.20.46.63
+inetnum:            172.20.46.0 - 172.20.46.63
 netname:            MAJOR-NET
 descr:              Major
 country:            DE

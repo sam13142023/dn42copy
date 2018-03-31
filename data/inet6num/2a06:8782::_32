@@ -1,8 +1,0 @@
-inet6num:           2a06:8782:0000:0000:0000:0000:0000:0000 - 2a06:8782:ffff:ffff:ffff:ffff:ffff:ffff
-cidr:               2a06:8782::/32
-netname:            ICVPN-BREMEN
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: bremen
-mnt-by:             DN42-MNT
-source:             ICVPN

@@ -1,4 +1,4 @@
-inetnum:            172.21.121.0-172.21.121.31
+inetnum:            172.21.121.0 - 172.21.121.31
 netname:            FELIX-NET
 descr:              Felix core net
 country:            US

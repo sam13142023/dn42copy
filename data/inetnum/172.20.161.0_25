@@ -1,4 +1,4 @@
-inetnum:            172.20.161.0-172.20.161.127
+inetnum:            172.20.161.0 - 172.20.161.127
 netname:            UA-NET-1
 country:            UA
 admin-c:            SAMODID-DN42

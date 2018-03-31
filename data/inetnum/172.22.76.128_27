@@ -1,4 +1,4 @@
-inetnum:            172.22.76.128-172.22.76.159
+inetnum:            172.22.76.128 - 172.22.76.159
 netname:            TOASTER-NET
 admin-c:            TOASTER-DN42
 tech-c:             TOASTER-DN42

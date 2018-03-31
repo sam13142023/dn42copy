@@ -1,4 +1,4 @@
-inetnum:            172.22.111.0-172.22.111.63
+inetnum:            172.22.111.0 - 172.22.111.63
 netname:            HADRILL-NET
 descr:              DN42 Gateway
 country:            GB

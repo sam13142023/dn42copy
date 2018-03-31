@@ -1,4 +1,4 @@
-inet6num:           fd9c:ee89:6422:0:0:0:0:0 - fd9c:ee89:6422:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd9c:ee89:6422:0000:0000:0000:0000:0000 - fd9c:ee89:6422:ffff:ffff:ffff:ffff:ffff
 netname:            ZKNT-IP6NET
 descr:              ZKNT IP6NET
 admin-c:            HNRD-DN42

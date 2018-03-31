@@ -1,4 +1,4 @@
-inetnum:            172.20.170.128-172.20.170.191
+inetnum:            172.20.170.128 - 172.20.170.191
 netname:            KWQ-CORE
 descr:              For AS4242420296
 country:            AU

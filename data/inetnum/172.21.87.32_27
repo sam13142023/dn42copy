@@ -1,4 +1,4 @@
-inetnum:            172.21.87.32-172.21.87.63
+inetnum:            172.21.87.32 - 172.21.87.63
 netname:            TESTNET-LOCODOG
 descr:              Locodog test network /27
 country:            RS

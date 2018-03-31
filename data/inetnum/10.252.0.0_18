@@ -1,7 +1,7 @@
 inetnum:            10.252.0.0 - 10.252.63.255
 cidr:               10.252.0.0/18
 netname:            ICVPN-CELLE
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.0.252.10.icvpn.registry-sync.dn42
 nserver:            2.0.252.10.icvpn.registry-sync.dn42
 nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.3.2.d.f.f.d.2.2.9.d.f.icvpn.registry-sync.dn42

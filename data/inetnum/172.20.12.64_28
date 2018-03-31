@@ -1,4 +1,4 @@
-inetnum:            172.20.12.64-172.20.12.79
+inetnum:            172.20.12.64 - 172.20.12.79
 netname:            DARK-INET
 descr:              dark inetnum
 country:            US

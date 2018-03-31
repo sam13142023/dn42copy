@@ -1,4 +1,4 @@
-inetnum:            172.23.245.0-172.23.245.255
+inetnum:            172.23.245.0 - 172.23.245.255
 netname:            DARKIT-SPACE
 descr:              DarkIT Space
 nserver:            ns1.dark-it.dn42 172.23.245.1

@@ -1,4 +1,4 @@
-inetnum:            172.20.172.64-172.20.172.95
+inetnum:            172.20.172.64 - 172.20.172.95
 netname:            WOLFLAB
 admin-c:            TW-DN42
 tech-c:             TW-DN42

@@ -1,7 +1,7 @@
 inet6num:           fde8:21c6:9d82:0000:0000:0000:0000:0000 - fde8:21c6:9d82:ffff:ffff:ffff:ffff:ffff
 cidr:               fde8:21c6:9d82::/48
 netname:            ICVPN-PINNEBERG
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.12.137.10.icvpn.registry-sync.dn42
 nserver:            1.13.137.10.icvpn.registry-sync.dn42
 nserver:            1.10.137.10.icvpn.registry-sync.dn42

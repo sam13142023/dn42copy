@@ -1,4 +1,4 @@
-inetnum:            172.23.43.16-172.23.43.23
+inetnum:            172.23.43.16 - 172.23.43.23
 netname:            GIN42-PEER2-NET4
 descr:              GiN42 Peer2
 country:            DE

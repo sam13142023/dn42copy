@@ -1,4 +1,4 @@
-inetnum:            172.20.246.192-172.20.246.223
+inetnum:            172.20.246.192 - 172.20.246.223
 netname:            KEBE-NET
 descr:              KEBE Datacenter Netblock
 country:            NL

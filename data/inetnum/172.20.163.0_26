@@ -1,4 +1,4 @@
-inetnum:            172.20.163.0-172.20.163.63
+inetnum:            172.20.163.0 - 172.20.163.63
 netname:            MATER-IPV4
 country:            US
 admin-c:            MATER-DN42

@@ -1,4 +1,4 @@
-inet6num:           fda3:f376:0000:0000:0000:0000:0000:0000-fda3:f376:ffff:ffff:ffff:ffff:ffff:ffff
+inet6num:           fda3:f376:0000:0000:0000:0000:0000:0000 - fda3:f376:ffff:ffff:ffff:ffff:ffff:ffff
 netname:            AT-FBNW-20163112
 country:            AT
 admin-c:            FBNW-DN42

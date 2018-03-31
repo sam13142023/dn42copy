@@ -1,4 +1,4 @@
-inetnum:            172.22.128.32-172.22.128.63
+inetnum:            172.22.128.32 - 172.22.128.63
 netname:            NETRAVNEN-NET
 admin-c:            NETRAVNEN-DN42
 tech-c:             NETRAVNEN-DN42

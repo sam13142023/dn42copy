@@ -1,4 +1,4 @@
-inet6num:           fd41:9805:7b69:0000:0000:0000:0000:0000-fd41:9805:7b69:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd41:9805:7b69:0000:0000:0000:0000:0000 - fd41:9805:7b69:ffff:ffff:ffff:ffff:ffff
 netname:            SGRAEF-IP6MAIN
 descr:              Main IPv6 Network. Will be split to 51 and distributed to sites CORE, 1 and 2
 country:            DE

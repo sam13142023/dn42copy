@@ -1,4 +1,4 @@
-inet6num:           fd68:fdcc:7a1a::-fd68:fdcc:7a1a:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd68:fdcc:7a1a:0000:0000:0000:0000:0000 - fd68:fdcc:7a1a:ffff:ffff:ffff:ffff:ffff
 netname:            ASOT-IPV6-DN42
 descr:              A Series of Tubez Networks
 country:            CA

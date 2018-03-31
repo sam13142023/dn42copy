@@ -1,4 +1,4 @@
-inetnum:            172.20.131.128-172.20.131.255
+inetnum:            172.20.131.128 - 172.20.131.255
 netname:            LISUX-NETWORK
 descr:              Network of LISUX
 country:            TW

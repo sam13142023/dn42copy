@@ -1,4 +1,4 @@
-inetnum:            172.20.28.64-172.20.28.95
+inetnum:            172.20.28.64 - 172.20.28.95
 netname:            SKYNET-NET4
 descr:              Skynet IPv4 main network
 cidr:               172.20.28.64/27

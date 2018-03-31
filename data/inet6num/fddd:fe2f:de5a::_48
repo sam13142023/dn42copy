@@ -1,4 +1,4 @@
-inet6num:           fddd:fe2f:de5a:0:0:0:0:0 - fddd:fe2f:de5a:ffff:ffff:ffff:ffff:ffff
+inet6num:           fddd:fe2f:de5a:0000:0000:0000:0000:0000 - fddd:fe2f:de5a:ffff:ffff:ffff:ffff:ffff
 netname:            NET-JOMAT
 descr:              jomat network
 country:            AT

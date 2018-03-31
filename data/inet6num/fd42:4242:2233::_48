@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:2233:0000:0000:0000:0000:0000-fd42:4242:2233:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:2233:0000:0000:0000:0000:0000 - fd42:4242:2233:ffff:ffff:ffff:ffff:ffff
 netname:            HANKB-IPV6-DN42-2
 descr:              Experimental Network
 country:            US

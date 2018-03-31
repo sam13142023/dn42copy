@@ -1,4 +1,4 @@
-inetnum:            172.22.255.224-172.22.255.255
+inetnum:            172.22.255.224 - 172.22.255.255
 netname:            LUC-TRANSFER-1-DN42
 country:            DE
 admin-c:            LUC-DN42

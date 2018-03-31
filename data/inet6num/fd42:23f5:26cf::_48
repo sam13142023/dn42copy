@@ -1,4 +1,4 @@
-inet6num:           fd42:23f5:26cf:0:0:0:0:0 - fd42:23f5:26cf:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:23f5:26cf:0000:0000:0000:0000:0000 - fd42:23f5:26cf:ffff:ffff:ffff:ffff:ffff
 netname:            FLEAZ-IPV6
 country:            DE
 admin-c:            FLEAZ-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.23.148.0-172.23.148.255
+inetnum:            172.23.148.0 - 172.23.148.255
 netname:            NET-FEUERROT-DN42
 country:            DE
 nserver:            irbis.feuerrot.dn42 172.23.148.1

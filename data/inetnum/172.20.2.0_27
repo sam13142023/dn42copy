@@ -1,4 +1,4 @@
-inetnum:            172.20.2.0-172.20.2.31
+inetnum:            172.20.2.0 - 172.20.2.31
 netname:            LERNET
 country:            GB
 admin-c:            LER-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.23.238.192-172.23.238.255
+inetnum:            172.23.238.192 - 172.23.238.255
 netname:            TTYGAP-NET
 descr:              Yip
 nserver:            ns.ttygap.dn42

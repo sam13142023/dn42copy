@@ -1,7 +1,7 @@
 inetnum:            10.145.0.0 - 10.145.255.255
 cidr:               10.145.0.0/16
 netname:            ICVPN-AACHEN
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            241.0.5.10.icvpn.registry-sync.dn42
 nserver:            242.0.5.10.icvpn.registry-sync.dn42
 nserver:            3.5.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.1.0.6.2.2.3.0.a.2.icvpn.registry-sync.dn42

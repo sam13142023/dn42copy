@@ -1,4 +1,4 @@
-inetnum:            172.22.111.96-172.22.111.127
+inetnum:            172.22.111.96 - 172.22.111.127
 netname:            FBNW-AMSTERDAM
 country:            NL
 admin-c:            FBNW-DN42

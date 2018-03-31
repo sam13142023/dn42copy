@@ -1,4 +1,4 @@
-inetnum:            172.21.69.0-172.21.69.255
+inetnum:            172.21.69.0 - 172.21.69.255
 netname:            ND0-NET
 country:            PL
 admin-c:            MAJK3L-DN42

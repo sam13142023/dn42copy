@@ -1,4 +1,4 @@
-inetnum:            172.20.139.192-172.20.139.255
+inetnum:            172.20.139.192 - 172.20.139.255
 netname:            MARIDE-STATIC-NET
 country:            DE
 admin-c:            MARIDE-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.20.13.0-172.20.13.127
+inetnum:            172.20.13.0 - 172.20.13.127
 netname:            MOEU-NET
 admin-c:            MOEU-DN42
 tech-c:             MOEU-DN42

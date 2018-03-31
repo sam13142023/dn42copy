@@ -1,4 +1,4 @@
-inet6num:           fd81:2009:2009:0000:0000:0000:0000:0000-fd81:2009:2009:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd81:2009:2009:0000:0000:0000:0000:0000 - fd81:2009:2009:ffff:ffff:ffff:ffff:ffff
 netname:            TRUNET-NETWORK
 descr:              Trunet Home Network
 country:            NL

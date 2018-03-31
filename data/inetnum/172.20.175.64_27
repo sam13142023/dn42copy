@@ -1,4 +1,4 @@
-inetnum:            172.20.175.64-172.20.175.95
+inetnum:            172.20.175.64 - 172.20.175.95
 netname:            QSX-NET
 nserver:            deimos.qsx.dn42
 nserver:            blackhole.qsx.dn42

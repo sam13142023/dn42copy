@@ -1,7 +1,7 @@
 inet6num:           fdca:ffee:0008:0000:0000:0000:0000:0000 - fdca:ffee:0008:0000:ffff:ffff:ffff:ffff
 cidr:               fdca:ffee:8::/64
 netname:            ICVPN-HANNOVER
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.10.2.10.icvpn.registry-sync.dn42
 nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
 nserver:            1.20.2.10.icvpn.registry-sync.dn42

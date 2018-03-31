@@ -1,4 +1,4 @@
-inet6num:           fd42:1721:9219:0000:0000:0000:0000:0000-fd42:1721:9219:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:1721:9219:0000:0000:0000:0000:0000 - fd42:1721:9219:ffff:ffff:ffff:ffff:ffff
 netname:            BSDSERVICES-NET
 descr:              bsd.services
 country:            DE

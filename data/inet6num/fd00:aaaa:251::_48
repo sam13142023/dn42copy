@@ -1,4 +1,4 @@
-inet6num:           fd00:aaaa:0251:0000:0000:0000:0000:0000-fd00:aaaa:0251:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:aaaa:0251:0000:0000:0000:0000:0000 - fd00:aaaa:0251:ffff:ffff:ffff:ffff:ffff
 netname:            NETRAVNEN-NETWORK-VIRTUAL-LAB
 descr:              NETRAVNEN
 country:            DK

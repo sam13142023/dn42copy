@@ -1,4 +1,4 @@
-inetnum:            172.23.177.64-172.23.177.127
+inetnum:            172.23.177.64 - 172.23.177.127
 netname:            LINSERVERS-DC
 descr:              Linservers Datacenter
 country:            NL

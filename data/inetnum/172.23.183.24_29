@@ -1,4 +1,4 @@
-inetnum:            172.23.183.24-172.23.183.31
+inetnum:            172.23.183.24 - 172.23.183.31
 netname:            TRUNETHOME-NETWORK
 descr:              Trunet Home Network
 country:            NL

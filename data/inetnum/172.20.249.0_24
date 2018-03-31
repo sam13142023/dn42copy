@@ -1,4 +1,4 @@
-inetnum:            172.20.249.0-172.20.249.255
+inetnum:            172.20.249.0 - 172.20.249.255
 netname:            WEEJITS-SERVER-NET
 descr:              Weejits Servers
 country:            AU

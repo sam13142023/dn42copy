@@ -1,7 +1,7 @@
 inetnum:            10.90.0.0 - 10.90.255.255
 cidr:               10.90.0.0/16
 netname:            ICVPN-REGENSBURG
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            11.0.90.10.icvpn.registry-sync.dn42
 nserver:            1.1.0.0.0.0.0.0.0.0.0.0.0.0.e.f.a.c.7.3.3.1.f.0.0.f.f.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

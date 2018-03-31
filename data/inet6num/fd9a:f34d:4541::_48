@@ -1,4 +1,4 @@
-inet6num:           fd9a:f34d:4541:0:0:0:0:0 - fd9a:f34d:4541:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd9a:f34d:4541:0000:0000:0000:0000:0000 - fd9a:f34d:4541:ffff:ffff:ffff:ffff:ffff
 netname:            LXNET-MAIN6
 country:            DE
 admin-c:            LYREX-DN42

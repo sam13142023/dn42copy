@@ -1,4 +1,4 @@
-inetnum:            172.20.165.0-172.20.165.7
+inetnum:            172.20.165.0 - 172.20.165.7
 netname:            IXNET-INTERNAL
 descr:              Reserved for internal use
 country:            SG

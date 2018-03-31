@@ -1,4 +1,4 @@
-inetnum:            172.23.0.32-172.23.0.47
+inetnum:            172.23.0.32 - 172.23.0.47
 netname:            TOMBII-DN42-ANYCAST
 country:            SE
 admin-c:            TOMBII-DN42

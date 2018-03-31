@@ -1,4 +1,4 @@
-inet6num:           fd42:4992:acbd:0000:0000:0000:0000:0000-fd42:4992:acbd:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4992:acbd:0000:0000:0000:0000:0000 - fd42:4992:acbd:ffff:ffff:ffff:ffff:ffff
 netname:            LUC-NETWORK
 descr:              Luclu7's DN42's IPv6 block
 country:            FR

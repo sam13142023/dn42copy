@@ -1,4 +1,4 @@
-inet6num:           fdd4:cb5f:cb46:0000:0000:0000:0000:0000-fdd4:cb5f:cb46:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdd4:cb5f:cb46:0000:0000:0000:0000:0000 - fdd4:cb5f:cb46:ffff:ffff:ffff:ffff:ffff
 netname:            IMLONGHAO-NETWORK-PEERING
 descr:              imlonghao Network Block
 country:            NL

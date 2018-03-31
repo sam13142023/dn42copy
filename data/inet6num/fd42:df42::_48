@@ -1,4 +1,4 @@
-inet6num:           fd42:df42:0:0:0:0:0:0 - fd42:df42:0:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:df42:0000:0000:0000:0000:0000:0000 - fd42:df42:0000:ffff:ffff:ffff:ffff:ffff
 netname:            DARKFASEL-NET
 descr:              Darkfasel
 country:            DE

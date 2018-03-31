@@ -1,4 +1,4 @@
-inetnum:            172.20.148.0-172.20.148.7
+inetnum:            172.20.148.0 - 172.20.148.7
 netname:            MIAU-NET
 descr:              Katzenklo
 country:            DE

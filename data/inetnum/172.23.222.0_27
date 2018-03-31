@@ -1,4 +1,4 @@
-inetnum:            172.23.222.0-172.23.222.31
+inetnum:            172.23.222.0 - 172.23.222.31
 netname:            CODE4HACK-NET
 country:            NO
 admin-c:            CODEHACK-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.20.46.224-172.20.46.255
+inetnum:            172.20.46.224 - 172.20.46.255
 netname:            HYHIX-NETWORK
 descr:              hyhIX WORK
 country:            CN

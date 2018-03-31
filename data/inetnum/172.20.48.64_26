@@ -1,4 +1,4 @@
-inetnum:            172.20.48.64-172.20.48.127
+inetnum:            172.20.48.64 - 172.20.48.127
 netname:            ASX-NET
 status:             ALLOCATED PA
 mnt-by:             ASX-MNT

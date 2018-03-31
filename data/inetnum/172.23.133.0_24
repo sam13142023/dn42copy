@@ -1,4 +1,4 @@
-inetnum:            172.23.133.0-172.23.133.255
+inetnum:            172.23.133.0 - 172.23.133.255
 netname:            EVILET-IP4
 country:            DE
 admin-c:            EVILET-DN42

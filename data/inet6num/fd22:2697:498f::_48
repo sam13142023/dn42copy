@@ -1,4 +1,4 @@
-inet6num:           fd22:2697:498f:0:0:0:0:0 - fd22:2697:498f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd22:2697:498f:0000:0000:0000:0000:0000 - fd22:2697:498f:ffff:ffff:ffff:ffff:ffff
 netname:            MARTIN89-DN42-IP6NET
 descr:              Martin89 dn42 network
 admin-c:            MARTIN89-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.20.181.192-172.20.181.255
+inetnum:            172.20.181.192 - 172.20.181.255
 netname:            RUDIS-NET
 country:            DE
 admin-c:            RUDIS-DN42

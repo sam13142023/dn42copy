@@ -1,4 +1,4 @@
-inetnum:            172.20.4.64-172.20.4.95
+inetnum:            172.20.4.64 - 172.20.4.95
 netname:            ALS7-NET
 descr:              als7 network
 country:            AT

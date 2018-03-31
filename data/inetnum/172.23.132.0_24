@@ -1,4 +1,4 @@
-inetnum:            172.23.132.0-172.23.132.255
+inetnum:            172.23.132.0 - 172.23.132.255
 netname:            LUC-NETWORK
 descr:              Luclu7's DN42 IP block
 country:            FR

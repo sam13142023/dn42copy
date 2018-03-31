@@ -1,4 +1,4 @@
-inetnum:            172.20.246.240-172.20.246.255
+inetnum:            172.20.246.240 - 172.20.246.255
 netname:            BUNSEN-NETWORK
 country:            DE
 admin-c:            BUNSEN-DN42

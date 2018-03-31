@@ -1,4 +1,4 @@
-inet6num:           fdfd:face:4ace:0000:0000:0000:0000:0000-fdfd:face:4ace:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdfd:face:4ace:0000:0000:0000:0000:0000 - fdfd:face:4ace:ffff:ffff:ffff:ffff:ffff
 netname:            BYLUKE-V6NET
 descr:              IPv6 Network byLuke
 country:            NL

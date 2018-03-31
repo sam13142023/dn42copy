@@ -1,4 +1,4 @@
-inetnum:            172.21.117.0-172.21.117.31
+inetnum:            172.21.117.0 - 172.21.117.31
 admin-c:            JALEN-DN42
 tech-c:             JALEN-DN42
 mnt-by:             DRIVERSP-MNT

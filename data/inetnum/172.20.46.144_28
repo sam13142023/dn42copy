@@ -1,4 +1,4 @@
-inetnum:            172.20.46.144-172.20.46.159
+inetnum:            172.20.46.144 - 172.20.46.159
 netname:            SKYNET-XFER4
 descr:              Skynet IPv4 transfer network
 cidr:               172.20.46.144/28

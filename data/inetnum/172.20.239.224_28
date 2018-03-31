@@ -1,4 +1,4 @@
-inetnum:            172.20.239.224-172.20.239.239
+inetnum:            172.20.239.224 - 172.20.239.239
 netname:            SJG-PPTP
 admin-c:            SIMON-DN42
 tech-c:             SIMON-DN42

@@ -1,7 +1,7 @@
 inet6num:           fddf:0bf7:0080:0000:0000:0000:0000:0000 - fddf:0bf7:0080:ffff:ffff:ffff:ffff:ffff
 cidr:               fddf:bf7:80::/48
 netname:            ICVPN-BADOLDESLOE
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            8.0.144.10.icvpn.registry-sync.dn42
 nserver:            8.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.7.f.b.f.d.d.f.icvpn.registry-sync.dn42
 nserver:            13.0.144.10.icvpn.registry-sync.dn42

@@ -1,7 +1,7 @@
 inet6num:           fda4:1721:8450:0000:0000:0000:0000:0000 - fda4:1721:8450:ffff:ffff:ffff:ffff:ffff
 cidr:               fda4:1721:8450::/48
 netname:            ICVPN-SIEGBURG
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            10.0.152.10.icvpn.registry-sync.dn42
 nserver:            10.16.152.10.icvpn.registry-sync.dn42
 nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.5.4.8.1.2.7.1.4.a.d.f.icvpn.registry-sync.dn42

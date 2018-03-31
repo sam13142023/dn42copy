@@ -1,4 +1,4 @@
-inetnum:            172.22.161.0-172.22.161.31
+inetnum:            172.22.161.0 - 172.22.161.31
 netname:            AXD-NET
 descr:              AXD-NET
 country:            US

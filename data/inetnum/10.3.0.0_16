@@ -1,7 +1,7 @@
 inetnum:            10.3.0.0 - 10.3.255.255
 cidr:               10.3.0.0/16
 netname:            ICVPN-WUPPERTAL
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            247.0.3.10.icvpn.registry-sync.dn42
 nserver:            249.0.3.10.icvpn.registry-sync.dn42
 nserver:            250.0.3.10.icvpn.registry-sync.dn42

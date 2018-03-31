@@ -1,7 +1,7 @@
 inet6num:           fdca:ffee:ff12:0000:0000:0000:0000:0000 - fdca:ffee:ff12:ffff:ffff:ffff:ffff:ffff
 cidr:               fdca:ffee:ff12::/48
 netname:            ICVPN-PADERBORN
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            53.251.132.10.icvpn.registry-sync.dn42
 nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
 nserver:            58.181.70.80.icvpn.registry-sync.dn42

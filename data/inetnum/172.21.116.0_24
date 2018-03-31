@@ -1,4 +1,4 @@
-inetnum:            172.21.116.0-172.21.116.255
+inetnum:            172.21.116.0 - 172.21.116.255
 netname:            NET-BLACKHOLETW-RTLAB-VPN
 country:            TW
 admin-c:            FRANKCHANG-DN42

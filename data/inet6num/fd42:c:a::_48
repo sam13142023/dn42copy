@@ -1,4 +1,4 @@
-inet6num:           fd42:c:a:0:0:0:0:0 - fd42:c:a:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:000c:000a:0000:0000:0000:0000:0000 - fd42:000c:000a:ffff:ffff:ffff:ffff:ffff
 netname:            CHAOSTREFF-AT-0
 descr:              Chaostreff.at
 country:            AT

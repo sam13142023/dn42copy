@@ -1,4 +1,4 @@
-inetnum:            172.23.231.0-172.23.231.63
+inetnum:            172.23.231.0 - 172.23.231.63
 netname:            NARNIA-V4NET
 descr:              Narnia IPv4 Network
 country:            AU

@@ -1,4 +1,4 @@
-inetnum:            172.20.239.0-172.20.239.127
+inetnum:            172.20.239.0 - 172.20.239.127
 netname:            GRUENET-HOME
 nserver:            daemon.gruetzkopf.dn42
 descr:              gruetzkopf research home labs

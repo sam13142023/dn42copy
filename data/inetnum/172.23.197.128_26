@@ -1,4 +1,4 @@
-inetnum:            172.23.197.128-172.23.197.191
+inetnum:            172.23.197.128 - 172.23.197.191
 netname:            DDPO-NET-001
 descr:              DDPO-NET-001
 country:            BE

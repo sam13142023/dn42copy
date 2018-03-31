@@ -1,7 +1,7 @@
 inet6num:           fddf:ebfd:a801:2144:0000:0000:0000:0000 - fddf:ebfd:a801:2144:ffff:ffff:ffff:ffff
 cidr:               fddf:ebfd:a801:2144::/64
 netname:            ICVPN-LEVERKUSEN
-bgp-status:         ignored
+bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: leverkusen
 mnt-by:             DN42-MNT

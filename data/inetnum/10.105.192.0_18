@@ -1,7 +1,7 @@
 inetnum:            10.105.192.0 - 10.105.255.255
 cidr:               10.105.192.0/18
 netname:            ICVPN-NEUSTADTAISCH
-bgp-status:         ignored
+bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: neustadtaisch
 mnt-by:             DN42-MNT

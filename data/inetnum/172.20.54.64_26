@@ -1,4 +1,4 @@
-inetnum:            172.20.54.64-172.20.54.127
+inetnum:            172.20.54.64 - 172.20.54.127
 netname:            CHALLENE-NET
 descr:              challene
 country:            SG

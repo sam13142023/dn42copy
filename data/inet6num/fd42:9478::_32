@@ -1,4 +1,4 @@
-inet6num:           fd42:9478:0000:0000:0000:0000:0000:0000-fd42:9478:ffff:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:9478:0000:0000:0000:0000:0000:0000 - fd42:9478:ffff:ffff:ffff:ffff:ffff:ffff
 netname:            SAPINET-AS
 country:            FR
 admin-c:            SAPINET-DN42

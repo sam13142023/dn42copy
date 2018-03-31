@@ -1,4 +1,4 @@
-inet6num:           fd42:0023:0205:: - fd42:0023:0205:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0205:0000:0000:0000:0000:0000 - fd42:0023:0205:ffff:ffff:ffff:ffff:ffff
 netname:            ROOT6-V6
 country:            DE
 admin-c:            ROOT6-DN42

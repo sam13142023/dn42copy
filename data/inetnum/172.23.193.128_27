@@ -1,4 +1,4 @@
-inetnum:            172.23.193.128-172.23.193.159
+inetnum:            172.23.193.128 - 172.23.193.159
 netname:            HFULLER-RTR-NET
 descr:              Hunter Fuller's routers and VMs <hfuller@pixilic.com>
 admin-c:            HFULLER-DN42

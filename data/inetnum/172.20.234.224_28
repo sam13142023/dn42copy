@@ -1,4 +1,4 @@
-inetnum:            172.20.234.224-172.20.234.239
+inetnum:            172.20.234.224 - 172.20.234.239
 netname:            NETCLIPSE-NETWORK
 descr:              NETCLIPSE-NETWORK
 country:            MY

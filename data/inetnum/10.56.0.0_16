@@ -1,7 +1,7 @@
 inetnum:            10.56.0.0 - 10.56.255.255
 cidr:               10.56.0.0/16
 netname:            ICVPN-MWU
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            7.0.37.10.icvpn.registry-sync.dn42
 nserver:            7.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 nserver:            23.0.37.10.icvpn.registry-sync.dn42

@@ -1,4 +1,4 @@
-inetnum:            172.20.183.80-172.20.183.87
+inetnum:            172.20.183.80 - 172.20.183.87
 netname:            GEDIX-TRANSFER-NET
 descr:              Geix routing transfer net
 country:            DE

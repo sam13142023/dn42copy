@@ -1,4 +1,4 @@
-inet6num:           fdd0:c468:8eb1:0:0:0:0:0 - fdd0:c468:8eb1:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdd0:c468:8eb1:0000:0000:0000:0000:0000 - fdd0:c468:8eb1:ffff:ffff:ffff:ffff:ffff
 netname:            NET-MCBONE-001
 descr:              MCBONE IPv6
 country:            DE

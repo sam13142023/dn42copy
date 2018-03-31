@@ -1,4 +1,4 @@
-inet6num:           fdcf:8538:9ad5:3a5f:: - fdcf:8538:9ad5:3a5f:ffff:ffff:ffff:ffff
+inet6num:           fdcf:8538:9ad5:3a5f:0000:0000:0000:0000 - fdcf:8538:9ad5:3a5f:ffff:ffff:ffff:ffff
 netname:            KIOUBIT-NETWORK-IPV6
 admin-c:            KIOUBIT-DN42
 tech-c:             KIOUBIT-DN42

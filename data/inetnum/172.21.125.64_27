@@ -1,4 +1,4 @@
-inetnum:            172.21.125.64-172.21.125.95
+inetnum:            172.21.125.64 - 172.21.125.95
 netname:            UNGNT-NET
 descr:              UNGNT Network
 country:            AU

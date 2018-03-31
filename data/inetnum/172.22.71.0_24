@@ -1,4 +1,4 @@
-inetnum:            172.22.71.0-172.22.71.255
+inetnum:            172.22.71.0 - 172.22.71.255
 netname:            ROBO6-IP4
 country:            DE
 admin-c:            FLOKLI-DN42

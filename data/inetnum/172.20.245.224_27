@@ -1,4 +1,4 @@
-inetnum:            172.20.245.224-172.20.245.255
+inetnum:            172.20.245.224 - 172.20.245.255
 netname:            WEEJITS-IE1-NET
 descr:              Weejits IE-1 VPNs
 country:            IE

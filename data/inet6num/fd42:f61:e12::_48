@@ -1,4 +1,4 @@
-inet6num:           fd42:f61:e12:: - fd42:f61:e12:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0f61:0e12:0000:0000:0000:0000:0000 - fd42:0f61:0e12:ffff:ffff:ffff:ffff:ffff
 netname:            FPLETZ-INET6
 descr:              fpletz's dn42 network
 admin-c:            FPLETZ-DN42
