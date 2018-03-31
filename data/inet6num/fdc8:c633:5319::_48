@@ -5,8 +5,8 @@ country:            US
 admin-c:            CHRISMOOS-DN42
 tech-c:             CHRISMOOS-DN42
 mnt-by:             TECH9-MNT
-nserver:            ns1.tech9computers.dn42 172.20.16.130
-nserver:            ns2.tech9computers.dn42 172.20.16.131
+nserver:            ns1.tech9computers.dn42
+nserver:            ns2.tech9computers.dn42
 status:             ASSIGNED
 cidr:               fdc8:c633:5319::/48
 source:             DN42

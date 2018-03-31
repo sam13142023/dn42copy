@@ -5,7 +5,7 @@ country:            US
 admin-c:            TOMBII-DN42
 tech-c:             TOMBII-DN42
 mnt-by:             TOMBII-DN42-MNT
-nserver:            ns1.tombii.dn42 172.22.102.1
+nserver:            ns1.tombii.dn42
 status:             ALLOCATED
 cidr:               fd72:20:185::/64
 source:             DN42

@@ -6,7 +6,7 @@ admin-c:            BR-DN42
 tech-c:             BR-DN42
 mnt-by:             BR-MNT
 status:             ALLOCATED
-nserver:            ns1.br.dn42 172.23.56.1
-nserver:            ns2.br.dn42 172.23.56.3
-nserver:            ns3.br.dn42 172.23.56.4
+nserver:            ns1.br.dn42
+nserver:            ns2.br.dn42
+nserver:            ns3.br.dn42
 source:             DN42
