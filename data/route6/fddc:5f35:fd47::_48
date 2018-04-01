@@ -1,3 +1,4 @@
-router6:    fddc:5f35:fd47::/48
-origin:     AS4242421911
-mnt-by:     SKY-MNT
+route6:             fddc:5f35:fd47::/48
+origin:             AS4242421911
+mnt-by:             SKY-MNT
+source:             DN42
