@@ -1,4 +1,4 @@
-inet6num:           fddc:5f35:fd47:0000:0000:0000:0000:0000-fddc:5f35:fd47:ffff:ffff:ffff:ffff:ffff
+inet6num:           fddc:5f35:fd47:0000:0000:0000:0000:0000 - fddc:5f35:fd47:ffff:ffff:ffff:ffff:ffff
 cidr:               fddc:5f35:fd47::/48
 netname:            SKY-DN42-NET
 descr:              Sky's Network on DN42
