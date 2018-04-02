@@ -1,21 +1,13 @@
 aut-num:            AS64647
-as-name:            FBNW-AS
+as-name:            SQUAREFLOW-AS
 remarks:            +------------------------------------+
 remarks:            + Open Peering Policy
-remarks:            + Peering: florianbAT @ hackint
-remarks:            +          peering@florianb.space
+remarks:            + netops@squareflow.net
 remarks:            +------------------------------------+
-remarks:            + Frankfurt, DE
-remarks:            + Amsterdam, NL
-remarks:            + London, GB
-remarks:            + Manchester, GB
-remarks:            + New York, US
-remarks:            + San Francisco, US
-remarks:            + Los Angeles, US
-remarks:            + Toronto, CA
+remarks:            + Worldwide locations (20+)
 remarks:            +------------------------------------+
-admin-c:            FBNW-DN42
-tech-c:             FBNW-DN42
-org:                ORG-FBNW
-mnt-by:             FLORIANB-MNT
+admin-c:            SQUAREFLOW-DN42
+tech-c:             SQUAREFLOW-DN42
+org:                ORG-SQUAREFLOW
+mnt-by:             SQUAREFLOW-MNT
 source:             DN42
