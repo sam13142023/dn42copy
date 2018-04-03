@@ -1,9 +1,0 @@
-inet6num:           fd42:0000:0000:0000:0000:0000:0000:0000 - fd42:0000:ffff:ffff:ffff:ffff:ffff:ffff
-netname:            CSVCS-NET
-country:            DE
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             DUMMY-MNT
-status:             ALLOCATED
-cidr:               fd42::/32
-source:             DN42
