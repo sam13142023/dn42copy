@@ -1,8 +1,0 @@
-inet6num:           fd03:1000:0000:0000:0000:0000:0000:0000 - fd03:1007:ffff:ffff:ffff:ffff:ffff:ffff
-netname:            SQUAREFLOW-NET
-admin-c:            SQUAREFLOW-DN42
-tech-c:             SQUAREFLOW-DN42
-mnt-by:             SQUAREFLOW-MNT
-status:             ASSIGNED
-cidr:               fd03:1000::/29
-source:             DN42
