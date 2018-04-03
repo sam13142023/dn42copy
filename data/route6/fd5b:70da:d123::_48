@@ -1,0 +1,4 @@
+route6:             fd5b:70da:d123::/48
+origin:             AS64647
+mnt-by:             SQUAREFLOW-MNT
+source:             DN42
