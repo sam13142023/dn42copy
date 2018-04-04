@@ -4,3 +4,4 @@ admin-c:            OS23-DN42
 tech-c:             OS23-DN42
 mnt-by:             OS23-MNT
 source:             DN42
+auth:               pgp-fingerprint 92FCB28252DE74695B2209FE67684421D735D99D
