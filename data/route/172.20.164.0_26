@@ -1,4 +1,4 @@
 route:              172.20.164.0/26
 origin:             AS4242423023
-mnt-by:             OS23-MNT
+mnt-by:             XTN1-MNT
 source:             DN42
