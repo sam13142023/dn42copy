@@ -1,0 +1,9 @@
+inetnum:            172.23.100.17 - 172.23.100.30
+cidr:               172.23.100.16/28
+netname:            FOOBARS-EU-UK
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ASSIGNED
+nserver:            ns1.foobars.dn42
+source:             DN42
