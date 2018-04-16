@@ -1,4 +1,4 @@
-inetnum:            172.23.100.33 - 172.23.100.46
+inetnum:            172.23.100.32 - 172.23.100.47
 cidr:               172.23.100.32/28
 netname:            FOOBARS-US-PA
 admin-c:            FOOBARS-DN42

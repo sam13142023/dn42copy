@@ -1,4 +1,4 @@
-inetnum:            172.23.100.81 - 172.23.100.94
+inetnum:            172.23.100.80 - 172.23.100.95
 cidr:               172.23.100.80/28
 netname:            FOOBARS-EU-DE
 admin-c:            FOOBARS-DN42

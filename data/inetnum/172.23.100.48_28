@@ -1,4 +1,4 @@
-inetnum:            172.23.100.49 - 172.23.100.62
+inetnum:            172.23.100.48 - 172.23.100.63
 cidr:               172.23.100.48/28
 netname:            FOOBARS-CA-QB
 admin-c:            FOOBARS-DN42
