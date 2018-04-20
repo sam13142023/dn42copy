@@ -3,7 +3,7 @@ cidr:               fdca:ffee:8::/64
 netname:            ICVPN-HANNOVER
 bgp-status:         ignore
 nserver:            1.10.2.10.icvpn.registry-sync.dn42
-nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
+nserver:            0.1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
 nserver:            1.20.2.10.icvpn.registry-sync.dn42
 nserver:            1.0.4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
 nserver:            1.30.2.10.icvpn.registry-sync.dn42

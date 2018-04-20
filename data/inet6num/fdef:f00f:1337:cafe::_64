@@ -3,7 +3,7 @@ cidr:               fdef:f00f:1337:cafe::/64
 netname:            ICVPN-REGENSBURG
 bgp-status:         ignore
 nserver:            11.0.90.10.icvpn.registry-sync.dn42
-nserver:            1.1.0.0.0.0.0.0.0.0.0.0.0.0.e.f.a.c.7.3.3.1.f.0.0.f.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.1.1.0.0.0.0.0.0.0.0.0.0.0.0.e.f.a.c.7.3.3.1.f.0.0.f.f.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: regensburg
 mnt-by:             DN42-MNT

@@ -3,15 +3,15 @@ cidr:               10.56.0.0/16
 netname:            ICVPN-MWU
 bgp-status:         ignore
 nserver:            7.0.37.10.icvpn.registry-sync.dn42
-nserver:            7.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.0.7.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 nserver:            23.0.37.10.icvpn.registry-sync.dn42
-nserver:            7.1.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.7.1.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 nserver:            101.0.37.10.icvpn.registry-sync.dn42
-nserver:            5.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.5.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 nserver:            161.0.37.10.icvpn.registry-sync.dn42
-nserver:            1.a.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.1.a.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 nserver:            231.0.37.10.icvpn.registry-sync.dn42
-nserver:            7.e.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.7.e.0.5.2.a.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: mwu
 mnt-by:             DN42-MNT

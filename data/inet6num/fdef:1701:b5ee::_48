@@ -3,7 +3,7 @@ cidr:               fdef:1701:b5ee::/48
 netname:            ICVPN-BODENSEE
 bgp-status:         ignore
 nserver:            42.160.11.10.icvpn.registry-sync.dn42
-nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.e.5.b.1.0.7.1.f.e.d.f.icvpn.registry-sync.dn42
+nserver:            0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.e.5.b.1.0.7.1.f.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: bodensee
 mnt-by:             DN42-MNT
