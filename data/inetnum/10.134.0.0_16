@@ -5,9 +5,9 @@ bgp-status:         ignore
 nserver:            1.10.134.10.icvpn.registry-sync.dn42
 nserver:            1.20.134.10.icvpn.registry-sync.dn42
 nserver:            1.30.134.10.icvpn.registry-sync.dn42
-nserver:            0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
-nserver:            0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
-nserver:            0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
+nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: uelzen
 mnt-by:             DN42-MNT
