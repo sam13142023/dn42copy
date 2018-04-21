@@ -1,0 +1,4 @@
+route:              172.22.140.0/25
+origin:             AS4242422233
+mnt-by:             HANKB-MNT
+source:             DN42
