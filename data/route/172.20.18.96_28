@@ -1,0 +1,3 @@
+route:             172.20.18.96/28
+origin:            AS4242423237
+mnt-by:            ABSLIMIT-MNT
