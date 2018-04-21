@@ -5,6 +5,6 @@ country:            RU
 admin-c:            ABSLIMIT-DN42
 tech-c:             ABSLITIT-DN42
 mnt-by:             ABSLIMIT-MNT
-status:             ALLOCATED PI
+status:             ALLOCATED
 cidr:               fd68:6868:6868::/48
 source:             DN42
