@@ -6,6 +6,5 @@ country:            NL
 admin-c:            TUX333-DN42
 tech-c:             TUX333-DN42
 mnt-by:             TUX333-MNT
-nserver:            ns.tux333.dn42
 status:             ASSIGNED
 source:             DN42
