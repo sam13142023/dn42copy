@@ -1,0 +1,7 @@
+domain:             prauscher.dn42
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+nserver:            sheldon.prauscher.dn42 172.22.120.1
+status:             CONNECT
+source:             DN42
