@@ -1,4 +1,5 @@
-mnter:		NETLAB-MNT
+mntner:		NETLAB-MNT
 admin-c: 	NETLAB-DN42
 tech-c: 	NETLAB-DN42
 mnt-by: 	NETLAB-MNT
+source:		DN42

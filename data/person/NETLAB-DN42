@@ -2,3 +2,4 @@ person:		netlab
 contact:	peering@netlab.st
 nic-hdl:	NETLAB-DN42
 mnt-by:		NETLAB-MNT
+source:		DN42
