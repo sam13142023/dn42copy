@@ -1,6 +1,6 @@
 inetnum:            172.21.88.128 - 172.21.88.255
 netname:            IXNET-MAIN
-descr:              IX Network Studio Backbone
+descr:              IX Network Studio Main Network
 country:            SG
 admin-c:            HOWARD-DN42
 tech-c:             HOWARD-DN42
