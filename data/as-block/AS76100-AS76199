@@ -4,6 +4,6 @@ remarks:            This range was never intented to be used as private ASN
 remarks:            space by IANA.  Rather, it is part of a larger block of
 remarks:            "reserved" AS numbers.
 remarks:            The use of this block is now strongly discouraged.
-mnt-by:             DUMMY-MNT
+mnt-by:             DN42-MNT
 policy:             closed
 source:             DN42
