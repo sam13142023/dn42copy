@@ -1,0 +1,10 @@
+inet6num:           fd42:abc0:0001:0000:0000:0000:0000:0000 - fd42:abc0:0001:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:abc0:1::/48
+netname:            TCHADELICARD-NETWORK
+descr:              Tchadel Icard's IPv6 Prefix
+country:            FR
+admin-c:            TI-DN42
+tech-c:             TI-DN42
+mnt-by:             TI-MNT
+status:             ASSIGNED
+source:             DN42
