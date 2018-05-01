@@ -2,5 +2,5 @@ mntner:             AR-MNT
 admin-c:            AR-DN42
 tech-c:             AR-DN42
 mnt-by:             AR-MNT
-auth:               pgp-fingerprint 8992BF3C5E2DA8B845F60178ECE8DE3B42586524
+auth:               pgp-fingerprint 635d773da3a8be48abc523caa6e382bc91266100
 source:             DN42
