@@ -9,7 +9,6 @@ mnt-by:             POLYNOME-MNT
 nserver:            chateau.polynome.dn42
 nserver:            topeka.polynome.dn42
 nserver:            beta.synhacx.dn42
-nserver:            ns1.mwd.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.22.250.0/24
