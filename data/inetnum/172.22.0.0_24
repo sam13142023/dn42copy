@@ -11,6 +11,7 @@ mnt-by:             XUU-MNT
 mnt-by:             DRIXTER-MNT
 mnt-by:             NIXNODES-MNT
 mnt-by:             HEXA-MNT
+mnt-by:             CREST-MNT
 status:             ALLOCATED
 nserver:            ns1.nixnodes.dn42
 nserver:            ns2.nixnodes.dn42
