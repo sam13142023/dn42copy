@@ -1,5 +1,5 @@
 inet6num:                   fd83:8d95:230b:0000:0000:0000:0000:0000 - fd83:8d95:230b:ffff:ffff:ffff:ffff:ffff
-cidr:                   fd83:8d95:230b::/48
+cidr:                       fd83:8d95:230b::/48
 netname:                   DHE-NETWORK
 descr:                   DHE Netork
 country:                   US
