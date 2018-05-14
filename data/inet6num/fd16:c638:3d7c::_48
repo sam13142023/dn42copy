@@ -1,5 +1,5 @@
 inet6num:           fd16:c638:3d7c:0000:0000:0000:0000:0000 - fd16:c638:3d7c:ffff:ffff:ffff:ffff:ffff
-cidr:               fd16:c638:3d7c:9e11::/48
+cidr:               fd16:c638:3d7c::/48
 netname:            DROIDNEST
 descr:              droidnest.org
 country:            CA
