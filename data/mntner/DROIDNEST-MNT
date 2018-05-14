@@ -2,4 +2,5 @@ mntner:             DROIDNEST-MNT
 admin-c:            DSX-DN42
 tech-c:             DSX-DN42
 mnt-by:             DROIDNEST-MNT
+auth:               pgp-fingerprint FD59A445C1E5AFACCDFEAFAC9727E49E8474A85C
 source:             DN42
