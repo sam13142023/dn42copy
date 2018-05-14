@@ -1,3 +1,3 @@
-route6:		fd2d:82f6:9b63::/48
-origin:		AS64828
-mtn-by:		CREST-MNT
+route6:             fd2d:82f6:9b63::/48
+origin:             AS64828
+mtn-by:             CREST-MNT
