@@ -5,6 +5,7 @@ country:            RU
 admin-c:            ANUBIOZ-DN42
 tech-c:             ANUBIOZ-DN42
 mnt-by:             ANUBIOZ-MNT
-status:             ALLOCATED
+nserver:            ns1.anubioz.dn42
+status:             ASSIGNED
 cidr:               172.20.232.64/29
 source:             DN42
