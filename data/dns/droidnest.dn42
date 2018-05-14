@@ -1,0 +1,9 @@
+domain:             droidnest.dn42
+descr:              Droid Nest
+admin-c:            DSX-DN42
+tech-c:             DSX-DN42
+mnt-by:             DROIDNEST-MNT
+nserver:            ns1.droidnest.dn42 fd16:c638:3d7c:d::1
+nserver:            ns2.droidnest.dn42 172.20.148.74
+status:             CONNECT
+source:             DN42
