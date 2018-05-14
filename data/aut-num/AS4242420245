@@ -1,5 +1,6 @@
-aut-num:        AS4242420245
-as-name:        DROIDNEST
-admin-c:        DSX-DN42
-tech-c:         DSX-DN42
-mnt-by:         DROIDNEST-MNT
+aut-num:            AS4242420245
+as-name:            DROIDNEST
+admin-c:            DSX-DN42
+tech-c:             DSX-DN42
+mnt-by:             DROIDNEST-MNT
+source:             DN42
