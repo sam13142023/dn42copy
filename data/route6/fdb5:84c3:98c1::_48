@@ -1,5 +1,4 @@
 route6:             fdb5:84c3:98c1::/48
 origin:             AS64828
-mtn-by:             CREST-MNT
 mnt-by:             CREST-MNT
 source:             DN42
