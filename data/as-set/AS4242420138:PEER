@@ -1,37 +1,37 @@
 as-set:             AS4242420138:PEER
-remarks:            -MNT (allo)
+remarks:            allo
+members:            AS64752
+remarks:            chrisnew
+members:            AS4242422950
+remarks:            drathir
+members:            AS4242423759
+remarks:            eloko
+members:            AS4242423298
+remarks:            florianbAT
+members:            AS64647
+remarks:            gigga
+members:            AS4242423974
+remarks:            io
 members:            AS4242420630
-remarks:            -MNT (chrisnew)
-members:            AS424242xxxx
-remarks:            -MNT (drathir)
-members:            AS424242xxxx
-remarks:            -MNT (eloko)
-members:            AS424242xxxx
-remarks:            -MNT (florianbAT)
-members:            AS424242xxxx
-remarks:            -MNT (gigga)
-members:            AS424242xxxx
-remarks:            -MNT (io)
-members:            AS424242xxxx
-remarks:            -MNT (jamie9898)
-members:            AS424242xxxx
-remarks:            -MNT (jonas)
-members:            AS424242xxxx
-remarks:            -MNT (kpanic)
-members:            AS424242xxxx
-remarks:            -MNT (krstn)
-members:            AS424242xxxx
-remarks:            -MNT (mafio)
-members:            AS424242xxx
-remarks:            -MNT (lantian)
-members:            AS424242xxxx
-remarks:            -MNT (multiplexd)
-members:            AS424242xxxx
-remarks:            -MNT (nurtic-vibe)
-members:            AS424242xxxx
-remarks:            -MNT (weiti)
-members:            AS424242xxxx
-remarks:            XUU-MNT
+remarks:            jamie9898
+members:            AS4242423640
+remarks:            jonas
+members:            AS4242420789
+remarks:            kpanic
+members:            AS65043
+remarks:            krstn
+members:            AS4242423723
+remarks:            mafio
+members:            AS4242423973
+remarks:            lantian
+members:            AS4242422547
+remarks:            multiplexd
+members:            AS4242422499
+remarks:            nurtic-vibe
+members:            AS4242420123
+remarks:            weiti
+members:            AS4242423905
+remarks:            xuu
 members:            AS64737
 admin-c:            HARDB1T-DN42
 tech-c:             HARDB1T-DN42

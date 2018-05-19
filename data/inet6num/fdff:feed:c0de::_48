@@ -2,12 +2,6 @@ inet6num:           fdff:feed:c0de:0000:0000:0000:0000:0000 - fdff:feed:c0de:fff
 netname:            NEURONET-NET6
 cidr:               fdff:feed:c0de::/48
 descr:              NeuroNet's IPv6 network at the end of the range
-remark:             
-remark:             "The story so far:
-remark:             In the beginning the Universe was created.
-remark:             This has made a lot of people very angry and been widely regarded as a bad move." 
-remark:             - Douglas Adams, The Restaurant at the End of the Universe
-remark:             
 country:            PT
 admin-c:            HARDB1T-DN42
 tech-c:             HARDB1T-DN42
