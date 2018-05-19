@@ -1,0 +1,39 @@
+as-set:             AS4242420138:PEER
+remarks:            -MNT (allo)
+members:            AS4242420630
+remarks:            -MNT (chrisnew)
+members:            AS424242xxxx
+remarks:            -MNT (drathir)
+members:            AS424242xxxx
+remarks:            -MNT (eloko)
+members:            AS424242xxxx
+remarks:            -MNT (florianbAT)
+members:            AS424242xxxx
+remarks:            -MNT (gigga)
+members:            AS424242xxxx
+remarks:            -MNT (io)
+members:            AS424242xxxx
+remarks:            -MNT (jamie9898)
+members:            AS424242xxxx
+remarks:            -MNT (jonas)
+members:            AS424242xxxx
+remarks:            -MNT (kpanic)
+members:            AS424242xxxx
+remarks:            -MNT (krstn)
+members:            AS424242xxxx
+remarks:            -MNT (mafio)
+members:            AS424242xxx
+remarks:            -MNT (lantian)
+members:            AS424242xxxx
+remarks:            -MNT (multiplexd)
+members:            AS424242xxxx
+remarks:            -MNT (nurtic-vibe)
+members:            AS424242xxxx
+remarks:            -MNT (weiti)
+members:            AS424242xxxx
+remarks:            XUU-MNT
+members:            AS64737
+admin-c:            HARDB1T-DN42
+tech-c:             HARDB1T-DN42
+mnt-by:             HARDB1T-MNT
+source:             DN42
