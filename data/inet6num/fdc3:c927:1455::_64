@@ -1,4 +1,4 @@
-inet6num:           fdc3:c927:1455:0000:0000:0000:0000:0000 - fdc3:c927:1455:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdc3:c927:1455:0000:0000:0000:0000:0000 - fdc3:c927:1455:0000:ffff:ffff:ffff:ffff
 cidr:               fdc3:c927:1455::/64
 netname:            MULTI-NETWORK
 admin-c:            MULTI-DN42
