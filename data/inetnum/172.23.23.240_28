@@ -1,0 +1,7 @@
+inetnum:        172.23.23.240 - 172.23.23.255
+cidr:           172.23.23.240/28
+netname:        SK9-NETWORK-IPv4
+admin-c:        SK9-DN42
+tech-c:         SK9-DN42
+mnt-by:         SK9-MNT
+status:         ASSIGNED
