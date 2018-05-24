@@ -1,0 +1,8 @@
+domain:             arpa.dn42
+admin-c:            MULTI-DN42
+tech-c:             MULTI-DN42
+mnt-by:             MULTI-MNT
+nserver:            1.0.0.127.in-addr.dn42 172.20.163.113
+nserver:            1.0.0.127.in-addr.dn42 fdc3:c927:1455::1
+status:             CONNECT
+source:             DN42
