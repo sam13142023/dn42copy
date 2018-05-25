@@ -1,7 +1,7 @@
-domain: rdap.dn42
-admin-c: FRITZ-DN42
-zone-c: FRITZ-DN42
-tech-c: FRITZ-DN42
-mnt-by: FRITZ-MNT
-nserver: ns1.rdap.dn42 2001:67c:708:101::2
-nserver: ns2.rdap.dn42 172.22.70.69
+domain:             rdap.dn42
+admin-c:            FRITZ-DN42
+zone-c:             FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+nserver:            ns1.rdap.dn42 2001:67c:708:101::2
+nserver:            ns2.rdap.dn42 172.22.70.69
