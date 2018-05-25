@@ -1,0 +1,4 @@
+route6:             fd42:7373:7373::/48
+origin:             AS4242427300
+mnt-by:             PZWA-MNT
+source:             DN42
