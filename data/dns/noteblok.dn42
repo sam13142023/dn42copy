@@ -1,9 +1,0 @@
-domain:             noteblok.dn42
-descr:              my personal web blog
-admin-c:            STV0G-DN42
-tech-c:             STV0G-DN42
-mnt-by:             NULLL-MNT
-nserver:            ns1.0l.dn42
-nserver:            ns2.0l.dn42
-status:             EVALPEND 1503917763
-source:             DN42
