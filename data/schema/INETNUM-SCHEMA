@@ -3,7 +3,7 @@ ref:                dn42.inetnum
 key:                inetnum     required  single    schema
 key:                cidr        required  single    primary
 key:                netname     required  single
-key:                nserver     optional  multiple
+key:                nserver     optional  multiple  > [domain-name]
 key:                country     optional  multiple
 key:                descr       optional  single
 key:                status      optional  single    > {ALLOCATED|ASSIGNED} {PI|PA|}
