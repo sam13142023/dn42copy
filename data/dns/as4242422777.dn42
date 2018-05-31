@@ -1,0 +1,7 @@
+domain:             as4242422777.dn42
+admin-c:            SOMNET-DN42
+tech-c:             SOMNET-DN42
+mnt-by:             SOMNET-MNT
+nserver:            ns1.somnet.dn42 172.20.33.5
+status:             CONNECT
+source:             DN42
