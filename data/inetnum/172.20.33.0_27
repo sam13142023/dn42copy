@@ -1,4 +1,4 @@
-inetnum:            172.20.33.0 - 172.20.33.255
+inetnum:            172.20.33.0 - 172.20.33.31
 netname:            SOMNET-01
 country:            US
 admin-c:            SOMNET-DN42
@@ -6,5 +6,5 @@ tech-c:             SOMNET-DN42
 mnt-by:             SOMNET-MNT
 nserver:            ns1.somnet.dn42
 status:             ASSIGNED
-cidr:               172.20.33.0/24
+cidr:               172.20.33.0/27
 source:             DN42
