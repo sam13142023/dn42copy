@@ -1,0 +1,8 @@
+mntner:             ZLD-MNT
+descr:              CN-ZLD-LAB
+admin-c:            ZLD-DN42
+tech-c:             ZLD-DN42
+mnt-by:             ZLD-MNT
+source:             DN42
+auth:               gpg-fingerprint B93A23B4
+
