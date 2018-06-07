@@ -1,8 +1,0 @@
-inet6num:           2001:0608:0a01:0000:0000:0000:0000:0000 - 2001:0608:0a01:ffff:ffff:ffff:ffff:ffff
-cidr:               2001:608:a01::/48
-netname:            ICVPN-MUENCHEN
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: muenchen
-mnt-by:             DN42-MNT
-source:             ICVPN

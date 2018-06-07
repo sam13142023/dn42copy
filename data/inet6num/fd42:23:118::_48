@@ -1,4 +1,4 @@
-inet6num:           fd42:23:118:0:0:0:0:0 - fd42:23:118:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0118:0000:0000:0000:0000:0000 - fd42:0023:0118:ffff:ffff:ffff:ffff:ffff
 netname:            PMENKE-DN42-V6-ULA
 country:            DE
 admin-c:            PMENKE-DN42

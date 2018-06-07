@@ -1,4 +1,4 @@
-inetnum:            172.20.6.0-172.20.6.15
+inetnum:            172.20.6.0 - 172.20.6.15
 netname:            BEN-NET
 descr:              BEN-NET
 country:            DE

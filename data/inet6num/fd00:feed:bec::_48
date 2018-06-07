@@ -1,4 +1,4 @@
-inet6num:           fd00:feed:bec:0000:0000:0000:0000:0000 - fd00:feed:bec:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:feed:0bec:0000:0000:0000:0000:0000 - fd00:feed:0bec:ffff:ffff:ffff:ffff:ffff
 netname:            OTTERS-INET6-NETWORK
 descr:              Otters' IPv6 network
 country:            FR

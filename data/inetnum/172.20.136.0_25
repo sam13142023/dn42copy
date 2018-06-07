@@ -1,4 +1,4 @@
-inetnum:            172.20.136.0-172.20.136.127
+inetnum:            172.20.136.0 - 172.20.136.127
 netname:            SPLIT-NET
 descr:              Internal Testing Range #1
 country:            AU

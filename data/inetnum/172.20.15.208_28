@@ -1,4 +1,4 @@
-inetnum:            172.20.15.208-172.20.15.223
+inetnum:            172.20.15.208 - 172.20.15.223
 netname:            DDEV-NETWORK
 descr:              Testnetwork for DebianDEV
 country:            DE

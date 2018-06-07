@@ -1,4 +1,4 @@
-inetnum:            172.20.176.0-172.20.176.255
+inetnum:            172.20.176.0 - 172.20.176.255
 netname:            TWINK0RNET-FFM-NLZUID-IX
 descr:              NL Zuid IXP Space for Frankfurt / Germany
 country:            DE

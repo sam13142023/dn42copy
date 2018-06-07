@@ -1,4 +1,4 @@
-inet6num:           fdb5:9fa:96c0:: - fdb5:9fa:96c0:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdb5:09fa:96c0:0000:0000:0000:0000:0000 - fdb5:09fa:96c0:ffff:ffff:ffff:ffff:ffff
 admin-c:            TISET-DN42
 tech-c:             TISET-DN42
 mnt-by:             TISET-MNT

@@ -1,4 +1,4 @@
-inetnum:            172.20.197.160-172.20.197.175
+inetnum:            172.20.197.160 - 172.20.197.175
 netname:            NGW-NETWORK
 country:            CZ
 admin-c:            NGW-DN42

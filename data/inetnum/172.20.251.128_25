@@ -1,4 +1,4 @@
-inetnum:            172.20.251.128-172.20.251.255
+inetnum:            172.20.251.128 - 172.20.251.255
 netname:            DRIZZLELAKE-NET
 country:            US
 admin-c:            DRIZZLELAKE-DN42

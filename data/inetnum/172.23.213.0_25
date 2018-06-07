@@ -1,4 +1,4 @@
-inetnum:            172.23.213.0-172.23.213.127
+inetnum:            172.23.213.0 - 172.23.213.127
 netname:            TBRB-NET-CORE
 descr:              tbrb Aggregated Core Network, Multiple Sites
 country:            GB

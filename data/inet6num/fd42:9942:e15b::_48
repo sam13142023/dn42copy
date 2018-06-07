@@ -1,4 +1,4 @@
-inet6num:           fd42:9942:e15b:0:0:0:0:0 - fd42:9942:e15b:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:9942:e15b:0000:0000:0000:0000:0000 - fd42:9942:e15b:ffff:ffff:ffff:ffff:ffff
 netname:            KYW-CORE
 descr:              For AS4242422161
 country:            AU

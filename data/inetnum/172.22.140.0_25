@@ -1,4 +1,4 @@
-inetnum:            172.22.140.0-172.22.140.127
+inetnum:            172.22.140.0 - 172.22.140.127
 netname:            HANKB-IPV4-DN42
 descr:              Experimental Network
 country:            US

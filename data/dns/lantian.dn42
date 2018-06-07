@@ -1,0 +1,12 @@
+domain:             lantian.dn42
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+nserver:            ns1.lantian.dn42 172.22.76.186
+nserver:            ns1.lantian.dn42 fdbc:f9dc:67ad::8b:c606:ba01
+nserver:            ns2.lantian.dn42 172.22.76.185
+nserver:            ns2.lantian.dn42 fdbc:f9dc:67ad::dd:c85a:8a93
+nserver:            ns3.lantian.dn42 172.22.76.187
+nserver:            ns3.lantian.dn42 fdbc:f9dc:67ad::18:ca0f:741d
+status:             CONNECT
+source:             DN42

@@ -1,4 +1,4 @@
-inet6num:           fd42:23:149:3:0:0:0:0 - fd42:23:149:3:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0149:0003:0000:0000:0000:0000 - fd42:0023:0149:0003:ffff:ffff:ffff:ffff
 netname:            GRMML-DN42-V6-BERGUSIA
 descr:              GRMML v6 ULA Bergusia
 country:            DE

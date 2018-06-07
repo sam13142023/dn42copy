@@ -1,4 +1,4 @@
-inet6num:           fddf:2460:2460:0000:0000:0000:0000:0000-fddf:2460:2460:ffff:ffff:ffff:ffff:ffff
+inet6num:           fddf:2460:2460:0000:0000:0000:0000:0000 - fddf:2460:2460:ffff:ffff:ffff:ffff:ffff
 country:            DE
 admin-c:            RFC2460-DN42
 tech-c:             RFC2460-DN42

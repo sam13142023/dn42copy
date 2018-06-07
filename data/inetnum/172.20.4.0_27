@@ -1,0 +1,9 @@
+inetnum:            172.20.4.0 - 172.20.4.31
+cidr:               172.20.4.0/27
+netname:            JOT23-OSOWA-4
+country:            PL
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+status:             ASSIGNED
+source:             DN42

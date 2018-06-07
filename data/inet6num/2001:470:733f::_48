@@ -1,8 +1,0 @@
-inet6num:           2001:0470:733f:0000:0000:0000:0000:0000 - 2001:0470:733f:ffff:ffff:ffff:ffff:ffff
-cidr:               2001:470:733f::/48
-netname:            ICVPN-ALTDORF
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: altdorf
-mnt-by:             DN42-MNT
-source:             ICVPN

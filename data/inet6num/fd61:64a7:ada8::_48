@@ -1,4 +1,4 @@
-inet6num:           fd61:64a7:ada8:0:0:0:0:0-fd61:64a7:ada8:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd61:64a7:ada8:0000:0000:0000:0000:0000 - fd61:64a7:ada8:ffff:ffff:ffff:ffff:ffff
 netname:            DEFEND-THE-PLANET
 descr:              defending the planet now on dn24
 country:            DE

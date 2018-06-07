@@ -6,7 +6,7 @@ descr:              http://www.srn.dn42/crazydns
 remarks:            To participate, please contact SRN.
 admin-c:            SRN-DN42
 tech-c:             SRN-DN42
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               172.22.53.0/24
 mnt-by:             DUMMY-MNT
 source:             DN42

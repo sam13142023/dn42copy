@@ -1,4 +1,4 @@
-inetnum:            172.22.172.80-172.22.172.95
+inetnum:            172.22.172.80 - 172.22.172.95
 netname:            NET-CULLEY-2
 admin-c:            JSCOB-DN42
 tech-c:             JSCOB-DN42

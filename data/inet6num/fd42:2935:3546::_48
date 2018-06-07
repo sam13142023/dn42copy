@@ -1,4 +1,4 @@
-inet6num:           fd42:2935:3546::-fd42:2935:3546::FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd42:2935:3546:0000:0000:0000:0000:0000 - fd42:2935:3546:ffff:ffff:ffff:ffff:ffff
 netname:            ALTF4-GATEWAY
 descr:              my gateway to the wooooorld
 country:            BE

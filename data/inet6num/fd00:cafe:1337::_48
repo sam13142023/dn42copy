@@ -1,4 +1,4 @@
-inet6num:           fd00:cafe:1337:0:0:0:0:0-fd00:cafe:1337:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:cafe:1337:0000:0000:0000:0000:0000 - fd00:cafe:1337:ffff:ffff:ffff:ffff:ffff
 netname:            LUX-NET
 descr:              Lux's Network
 admin-c:            LUX-DN42

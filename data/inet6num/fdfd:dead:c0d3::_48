@@ -1,4 +1,4 @@
-inet6num:           fdfd:dead:c0d3:0000:0000:0000:0000:0000-fdfd:dead:c0d3:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdfd:dead:c0d3:0000:0000:0000:0000:0000 - fdfd:dead:c0d3:ffff:ffff:ffff:ffff:ffff
 netname:            NET-LAMENET
 descr:              LAMENET IPV6 PA
 country:            BG

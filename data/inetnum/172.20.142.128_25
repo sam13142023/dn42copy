@@ -1,4 +1,4 @@
-inetnum:            172.20.142.128-172.20.142.255
+inetnum:            172.20.142.128 - 172.20.142.255
 netname:            DN42-JONSBOX-A
 descr:              JONSBOX
 admin-c:            JONSBOX-DN42

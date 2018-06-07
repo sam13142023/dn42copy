@@ -1,4 +1,4 @@
-inetnum:            172.22.125.128-172.22.125.159
+inetnum:            172.22.125.128 - 172.22.125.159
 netname:            NET-JAN3
 descr:              Server Network
 country:            DE

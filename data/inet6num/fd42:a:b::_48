@@ -1,4 +1,4 @@
-inet6num:           fd42:a:b::-fd42:a:b:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:000a:000b:0000:0000:0000:0000:0000 - fd42:000a:000b:ffff:ffff:ffff:ffff:ffff
 netname:            LUTOMA-IP6NET
 descr:              lutoma main IP6 network
 country:            DE

@@ -1,4 +1,4 @@
-inetnum:            172.20.7.0-172.20.7.255
+inetnum:            172.20.7.0 - 172.20.7.255
 netname:            BASNET-MAIN
 descr:              Basnet DN42 network
 country:            GB

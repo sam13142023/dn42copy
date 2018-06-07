@@ -1,4 +1,4 @@
-inet6num:           fda3:bb19:1754:1337:: - fda3:bb19:1754:1337:ffff:ffff:ffff:ffff
+inet6num:           fda3:bb19:1754:1337:0000:0000:0000:0000 - fda3:bb19:1754:1337:ffff:ffff:ffff:ffff
 admin-c:            TISET-DN42
 tech-c:             TISET-DN42
 mnt-by:             TISET-MNT

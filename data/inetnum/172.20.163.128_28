@@ -1,4 +1,4 @@
-inetnum:            172.20.163.128-172.20.163.143
+inetnum:            172.20.163.128 - 172.20.163.143
 netname:            MILKCRATE-NETWORK
 country:            US
 admin-c:            LINKLER-DN42

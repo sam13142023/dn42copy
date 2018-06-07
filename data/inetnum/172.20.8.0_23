@@ -1,4 +1,4 @@
-inetnum:            172.20.8.0-172.20.9.255
+inetnum:            172.20.8.0 - 172.20.9.255
 netname:            DDPO-NET-002
 descr:              DDPO-NET-002
 country:            BE

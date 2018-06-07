@@ -1,4 +1,4 @@
-inetnum:            172.23.102.0-172.23.103.255
+inetnum:            172.23.102.0 - 172.23.103.255
 netname:            TOMBII-DN42-NET
 descr:              TOMBII CORE NETWORK
 nserver:            ns1.tombii.dn42

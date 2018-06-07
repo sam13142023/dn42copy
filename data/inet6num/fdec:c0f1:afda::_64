@@ -1,7 +1,7 @@
 inet6num:           fdec:c0f1:afda:0000:0000:0000:0000:0000 - fdec:c0f1:afda:0000:ffff:ffff:ffff:ffff
 cidr:               fdec:c0f1:afda::/64
 netname:            ICVPN-CUXHAVEN
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42
 nserver:            2.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42
 nserver:            3.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42

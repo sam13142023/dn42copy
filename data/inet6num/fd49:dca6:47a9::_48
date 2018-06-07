@@ -1,4 +1,4 @@
-inet6num:           fd49:dca6:47a9:0:0:0:0:0 - fd49:dca6:47a9:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd49:dca6:47a9:0000:0000:0000:0000:0000 - fd49:dca6:47a9:ffff:ffff:ffff:ffff:ffff
 netname:            THEROYALSTUDENT-NET
 descr:              The Royal Network
 country:            SG

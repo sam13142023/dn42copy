@@ -4,7 +4,7 @@ key:                aut-num    required  single   primary schema
 key:                as-name    required  single
 key:                descr      optional  single
 key:                mnt-by     required  multiple lookup=dn42.mntner
-key:                member-of  optional  multiple lookup=dn42.as-set
+key:                member-of  optional  multiple lookup=dn42.as-set,dn42.route-set
 key:                admin-c    optional  multiple lookup=dn42.person,dn42.role
 key:                tech-c     optional  multiple lookup=dn42.person,dn42.role
 key:                org        optional  single   lookup=dn42.organisation

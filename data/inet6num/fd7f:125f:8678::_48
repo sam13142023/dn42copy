@@ -1,4 +1,4 @@
-inet6num:           fd7f:125f:8678:0::0-fd7f:125f:8678:8000:ffff:ffff:ffff:ffff
+inet6num:           fd7f:125f:8678:0000:0000:0000:0000:0000 - fd7f:125f:8678:ffff:ffff:ffff:ffff:ffff
 netname:            U5B-NET6
 country:            DE
 admin-c:            OBBI-DN42

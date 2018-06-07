@@ -1,4 +1,4 @@
-inetnum:            172.21.84.0-172.21.84.31
+inetnum:            172.21.84.0 - 172.21.84.31
 netname:            ODVIK-NET
 country:            GB
 admin-c:            TIMHAWES-DN42

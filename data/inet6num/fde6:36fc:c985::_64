@@ -1,9 +1,9 @@
 inet6num:           fde6:36fc:c985:0000:0000:0000:0000:0000 - fde6:36fc:c985:0000:ffff:ffff:ffff:ffff
 cidr:               fde6:36fc:c985::/64
 netname:            ICVPN-GOETTINGEN
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            42.0.109.10.icvpn.registry-sync.dn42
-nserver:            2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.8.9.c.c.f.6.3.6.e.d.f.icvpn.registry-sync.dn42
+nserver:            2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.8.9.c.c.f.6.3.6.e.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: goettingen
 mnt-by:             DN42-MNT

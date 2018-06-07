@@ -1,4 +1,4 @@
-inet6num:           fd42:badc:ab1e:0:0:0:0:0 - fd42:badc:ab1e:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:badc:ab1e:0000:0000:0000:0000:0000 - fd42:badc:ab1e:ffff:ffff:ffff:ffff:ffff
 netname:            JOMAT-NET2
 descr:              jomats stuff
 country:            AT

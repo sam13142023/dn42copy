@@ -1,4 +1,4 @@
-inetnum:            172.23.163.128-172.23.163.159
+inetnum:            172.23.163.128 - 172.23.163.159
 netname:            HFULLER-HOME-NET
 descr:              Hunter Fuller's home network <hfuller@pixilic.com>
 admin-c:            HFULLER-DN42

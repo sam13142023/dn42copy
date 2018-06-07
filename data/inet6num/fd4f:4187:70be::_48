@@ -1,4 +1,4 @@
-inet6num:           fd4f:4187:70be:0000:0000:0000:0000:0000-fd4f:4187:70be:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd4f:4187:70be:0000:0000:0000:0000:0000 - fd4f:4187:70be:ffff:ffff:ffff:ffff:ffff
 netname:            ZEBMCCORKLE-NL-IP6
 country:            NL
 admin-c:            ZEBMCCORKLE-DN42

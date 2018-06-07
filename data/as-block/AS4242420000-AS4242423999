@@ -3,6 +3,6 @@ descr:              dn42 ASN space for end-users
 remarks:            This block is reserved for end-users allocation.
 remarks:            You can freely register any ASN in this block.
 remarks:            However, please don't allocate sub-blocks in this ASN space.
-mnt-by:             DUMMY-MNT
+mnt-by:             DN42-MNT
 policy:             open
 source:             DN42

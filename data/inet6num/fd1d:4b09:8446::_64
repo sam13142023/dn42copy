@@ -1,4 +1,4 @@
-inet6num:           fd1d:4b09:8446:0:0:0:0:0-fd1d:4b09:8446:0:ffff:ffff:ffff:ffff
+inet6num:           fd1d:4b09:8446:0000:0000:0000:0000:0000 - fd1d:4b09:8446:0000:ffff:ffff:ffff:ffff
 netname:            NET6-TA
 country:            NG
 admin-c:            TA-DN42

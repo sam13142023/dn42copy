@@ -1,8 +1,0 @@
-inetnum:            172.26.0.0 - 172.27.255.255
-cidr:               172.26.0.0/15
-netname:            ICVPN-KBU
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: kbu
-mnt-by:             DN42-MNT
-source:             ICVPN

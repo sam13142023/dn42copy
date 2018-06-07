@@ -1,4 +1,4 @@
-inetnum:            172.23.183.16-172.23.183.23
+inetnum:            172.23.183.16 - 172.23.183.23
 netname:            PKTSRF-NETWORK
 nserver:            ns1.pktsurf.dn42
 descr:              pktsrf

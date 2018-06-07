@@ -1,4 +1,4 @@
-inet6num:           FD42:4242:0339:0000:0000:0000:0000:0000 - FD42:4242:0339:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd42:4242:0339:0000:0000:0000:0000:0000 - fd42:4242:0339:ffff:ffff:ffff:ffff:ffff
 netname:            PDOSTAL-IP6
 descr:              Pavel Dostal's fd42:4242:0339::/48 block
 country:            CZ

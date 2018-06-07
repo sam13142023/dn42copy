@@ -1,4 +1,4 @@
-inetnum:            172.22.248.128-172.22.248.255
+inetnum:            172.22.248.128 - 172.22.248.255
 netname:            DEADZONE-DN42-CORESERVICES
 country:            US
 admin-c:            DEADZONE-DN42

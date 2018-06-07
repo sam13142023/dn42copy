@@ -1,4 +1,4 @@
-inetnum:            172.20.58.64-172.20.58.127
+inetnum:            172.20.58.64 - 172.20.58.127
 descr:              LOADERROR
 country:            DE
 nserver:            ns1.loaderror.dn42

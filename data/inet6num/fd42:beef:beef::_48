@@ -1,4 +1,4 @@
-inet6num:           fd42:beef:beef:: - fd42:beef:beef:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:beef:beef:0000:0000:0000:0000:0000 - fd42:beef:beef:ffff:ffff:ffff:ffff:ffff
 netname:            BEN-V6-NET
 descr:              BEN-V6-NET
 country:            DE

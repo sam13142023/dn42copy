@@ -1,4 +1,4 @@
-inetnum:            172.22.160.128-172.22.160.255
+inetnum:            172.22.160.128 - 172.22.160.255
 netname:            V2-IPV4-1-INIT
 descr:              V2 Initial IP Block Internal Routing
 country:            GB

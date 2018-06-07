@@ -1,4 +1,4 @@
-inet6num:           fdbb:8bb5:fb3d:0000:0000:0000:0000:0000 - fdbb:8bb5:fb3d:ffff:FFFF:FFFF:FFFF:FFFF
+inet6num:           fdbb:8bb5:fb3d:0000:0000:0000:0000:0000 - fdbb:8bb5:fb3d:ffff:ffff:ffff:ffff:ffff
 netname:            SPLASH-IPV6
 country:            ZA
 org:                ORG-ZANET

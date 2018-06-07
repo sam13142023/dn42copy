@@ -1,4 +1,4 @@
-inetnum:            172.20.50.0-172.20.50.63
+inetnum:            172.20.50.0 - 172.20.50.63
 cidr:               172.20.50.0/26
 netname:            KRSTN-CORE
 admin-c:            KRSTN-DN42

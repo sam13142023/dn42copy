@@ -1,0 +1,4 @@
+route:              172.20.4.0/27
+origin:             AS4242421199
+mnt-by:             TOMKEP-MNT
+source:             DN42

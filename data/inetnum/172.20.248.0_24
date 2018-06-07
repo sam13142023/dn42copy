@@ -1,4 +1,4 @@
-inetnum:            172.20.248.0-172.20.248.255
+inetnum:            172.20.248.0 - 172.20.248.255
 admin-c:            CHULJIN-DN42
 tech-c:             CHULJIN-DN42
 mnt-by:             CHULJIN-MNT

@@ -1,4 +1,4 @@
-inetnum:            172.20.175.0-172.20.175.31
+inetnum:            172.20.175.0 - 172.20.175.31
 netname:            HEKKER-NET
 descr:              SickHekker's place
 country:            NL

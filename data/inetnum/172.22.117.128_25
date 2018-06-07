@@ -1,4 +1,4 @@
-inetnum:            172.22.117.128-172.22.117.255
+inetnum:            172.22.117.128 - 172.22.117.255
 netname:            NET-FELICITUS-HOME
 descr:              Felicitus Home Network
 country:            DE

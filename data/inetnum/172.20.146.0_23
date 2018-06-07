@@ -1,4 +1,4 @@
-inetnum:            172.20.146.0-172.20.147.255
+inetnum:            172.20.146.0 - 172.20.147.255
 netname:            SKORPY-23-2
 descr:              ..k
 country:            DE

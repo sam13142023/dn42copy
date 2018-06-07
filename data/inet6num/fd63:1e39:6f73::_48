@@ -1,7 +1,6 @@
 inet6num:           fd63:1e39:6f73:0000:0000:0000:0000:0000 - fd63:1e39:6f73:ffff:ffff:ffff:ffff:ffff
 netname:            ANONET6
-nserver:            ns.lynx.dn42	172.22.97.1
-nserver:            ns.lynx.dn42	fd63:1e39:6f73:309::1
+nserver:            ns.lynx.dn42
 descr:              Anonet IPv6
 country:            DE
 admin-c:            LEX-DN42

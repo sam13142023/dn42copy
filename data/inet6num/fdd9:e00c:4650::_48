@@ -1,4 +1,4 @@
-inet6num:           FDD9:E00C:4650:0000:0000:0000:0000:0000 - FDD9:E00C:4650:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fdd9:e00c:4650:0000:0000:0000:0000:0000 - fdd9:e00c:4650:ffff:ffff:ffff:ffff:ffff
 netname:            FUSL-DN42-IPV6-US-ATL-A
 descr:              FUSL-DN42-IPV6-US-ATL-A
 country:            US

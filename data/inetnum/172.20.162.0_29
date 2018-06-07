@@ -1,4 +1,4 @@
-inetnum:            172.20.162.0-172.20.162.7
+inetnum:            172.20.162.0 - 172.20.162.7
 netname:            BAKKERNET-POP-ROUTERS
 descr:              IPs used for routers in locations without further services: PoP only locations.
 country:            NL

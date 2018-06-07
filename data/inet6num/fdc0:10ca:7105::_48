@@ -1,4 +1,4 @@
-inet6num:           fdc0:10ca:7105::-fdc0:10ca:7105:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdc0:10ca:7105:0000:0000:0000:0000:0000 - fdc0:10ca:7105:ffff:ffff:ffff:ffff:ffff
 netname:            NET6-COLOCATIOUS
 country:            US
 org:                ORG-COLOCATIOUS

@@ -1,4 +1,4 @@
-inetnum:            172.20.193.176-172.20.193.191
+inetnum:            172.20.193.176 - 172.20.193.191
 netname:            SERXOZ-NETWORK2
 descr:              Serxoz Testing Network
 country:            ES

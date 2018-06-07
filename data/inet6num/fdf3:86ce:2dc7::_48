@@ -1,4 +1,4 @@
-inet6num:           fdf3:86ce:2dc7::0-fdf3:86ce:2dc7:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdf3:86ce:2dc7:0000:0000:0000:0000:0000 - fdf3:86ce:2dc7:ffff:ffff:ffff:ffff:ffff
 netname:            ANATOMICAL-NETWORKS
 country:            US
 admin-c:            JACOBHENNER-DN42

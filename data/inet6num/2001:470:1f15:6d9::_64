@@ -1,8 +1,0 @@
-inet6num:           2001:0470:1f15:06d9:0000:0000:0000:0000 - 2001:0470:1f15:06d9:ffff:ffff:ffff:ffff
-cidr:               2001:470:1f15:6d9::/64
-netname:            ICVPN-ROTHENBURG
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: rothenburg
-mnt-by:             DN42-MNT
-source:             ICVPN

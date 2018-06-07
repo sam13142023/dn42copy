@@ -1,4 +1,4 @@
-inetnum:            172.20.189.0-172.20.189.127
+inetnum:            172.20.189.0 - 172.20.189.127
 netname:            UTLEYCCKS-NET
 descr:              UTLEYCC KS Network
 country:            US

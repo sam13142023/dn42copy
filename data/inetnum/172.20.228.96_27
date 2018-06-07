@@ -1,4 +1,4 @@
-inetnum:            172.20.228.96-172.20.228.127
+inetnum:            172.20.228.96 - 172.20.228.127
 netname:            ATR-EDGE
 descr:              ATR Edge Peering Network
 country:            FR

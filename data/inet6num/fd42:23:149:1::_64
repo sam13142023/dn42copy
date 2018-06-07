@@ -1,4 +1,4 @@
-inet6num:           fd42:23:149:1:0:0:0:0 - fd42:23:149:1:ffff:ffff:ffff:ffff
+inet6num:           fd42:0023:0149:0001:0000:0000:0000:0000 - fd42:0023:0149:0001:ffff:ffff:ffff:ffff
 netname:            GRMML-DN42-V6-MEDUNA
 descr:              GRMML v6 ULA Meduna
 country:            DE

@@ -1,4 +1,4 @@
-inet6num:           fded:44ee:9819:0:0:0:0:0 - fded:44ee:9819:1ff:ffff:ffff:ffff:ffff
+inet6num:           fded:44ee:9819:0000:0000:0000:0000:0000 - fded:44ee:9819:ffff:ffff:ffff:ffff:ffff
 netname:            TCATM-DN42-ULA-IP6NET
 descr:              tcatm's IPv6 ULA
 country:            DE

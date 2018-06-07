@@ -1,4 +1,4 @@
-inet6num:           fd58:eb75:347d:0:0:0:0:0 - fd58:eb75:347d:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd58:eb75:347d:0000:0000:0000:0000:0000 - fd58:eb75:347d:ffff:ffff:ffff:ffff:ffff
 netname:            HAX404-ULA-IP6NET
 descr:              hax404 IPv6 Network
 country:            DE

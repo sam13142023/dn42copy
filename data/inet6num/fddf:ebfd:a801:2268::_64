@@ -1,7 +1,7 @@
 inet6num:           fddf:ebfd:a801:2268:0000:0000:0000:0000 - fddf:ebfd:a801:2268:ffff:ffff:ffff:ffff
 cidr:               fddf:ebfd:a801:2268::/64
 netname:            ICVPN-KUERTEN
-bgp-status:         ignored
+bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: kuerten
 mnt-by:             DN42-MNT

@@ -1,4 +1,4 @@
-inetnum:            172.22.163.0-172.22.163.255
+inetnum:            172.22.163.0 - 172.22.163.255
 netname:            NOCTURNO1-NET-DN42
 descr:              NOCTURNO1-NET-DN42
 country:            PT

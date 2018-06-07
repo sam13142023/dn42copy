@@ -1,4 +1,4 @@
-inetnum:            172.23.119.224-172.23.119.239
+inetnum:            172.23.119.224 - 172.23.119.239
 netname:            JAMES-TRANSITS-CORE
 country:            CN
 admin-c:            JAMESITS-DN42

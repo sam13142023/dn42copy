@@ -1,0 +1,10 @@
+inet6num:           fdc3:c927:1455:0d42:0000:0000:0000:0000 - fdc3:c927:1455:0d42:ffff:ffff:ffff:ffff
+cidr:               fdc3:c927:1455:d42::/64
+netname:            MULTI-NETWORK
+admin-c:            MULTI-DN42
+tech-c:             MULTI-DN42
+mnt-by:             MULTI-MNT
+remarks:            Service address range assignment for multiplexd's network
+nserver:            1.0.0.127.in-addr.dn42
+status:             ASSIGNED PA
+source:             DN42

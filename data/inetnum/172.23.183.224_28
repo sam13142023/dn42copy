@@ -1,4 +1,4 @@
-inetnum:            172.23.183.224-172.23.183.239
+inetnum:            172.23.183.224 - 172.23.183.239
 netname:            DPN-NET
 descr:              DPN Network
 country:            CZ

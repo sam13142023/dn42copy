@@ -1,0 +1,14 @@
+route:              172.20.0.53/32
+descr:              Anycast of *.recursive-servers.dn42.
+remarks:            FLORIANB-MNT
+origin:             AS64647
+remarks:            JRB0001-MNT
+origin:             AS4242420119
+remarks:            MULTI-MNT
+origin:             AS4242422499
+remarks:            HARDB1T-MNT
+origin:             AS4242420138
+remarks:            SIS-MNT
+origin:             AS4242422950
+mnt-by:             DN42-MNT
+source:             DN42

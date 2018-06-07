@@ -1,4 +1,4 @@
-inetnum:            172.22.101.224-172.22.101.255
+inetnum:            172.22.101.224 - 172.22.101.255
 netname:            MODE-NET
 country:            DE
 admin-c:            MODE-DN42

@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:1375:f00:: - fd42:4242:1375:f00:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:1375:0f00:0000:0000:0000:0000 - fd42:4242:1375:0f00:ffff:ffff:ffff:ffff
 netname:            CHELNOK-F00-IPV6
 nserver:            ns.chelnok.dn42
 descr:              chelnok ipv6

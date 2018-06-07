@@ -1,4 +1,4 @@
-inetnum:            172.22.111.128-172.22.111.143
+inetnum:            172.22.111.128 - 172.22.111.143
 netname:            HOME-SERVER-PLACE-ORG-NET
 country:            DE
 admin-c:            PAPAYAWHIP-DN42

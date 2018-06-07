@@ -1,4 +1,4 @@
-inetnum:            172.20.12.0-172.20.12.63
+inetnum:            172.20.12.0 - 172.20.12.63
 netname:            HARUKA-NETBLK2
 descr:              Haruka Network Block
 country:            CN

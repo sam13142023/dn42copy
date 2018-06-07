@@ -1,4 +1,4 @@
-inet6num:           fd42:21:7::-fd42:21:7:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0021:0007:0000:0000:0000:0000:0000 - fd42:0021:0007:ffff:ffff:ffff:ffff:ffff
 netname:            FMAUNEKO-NET6
 descr:              fmauNeko's V6 Network
 country:            FR

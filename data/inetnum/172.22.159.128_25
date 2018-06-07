@@ -1,4 +1,4 @@
-inetnum:            172.22.159.128-172.22.159.255
+inetnum:            172.22.159.128 - 172.22.159.255
 netname:            NET-JAN
 descr:              AS4242420812 Peering Network
 country:            DE

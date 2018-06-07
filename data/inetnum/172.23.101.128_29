@@ -1,4 +1,4 @@
-inetnum:            172.23.101.128-172.23.101.135
+inetnum:            172.23.101.128 - 172.23.101.135
 netname:            FLAMESRUNNER-EXT-NETWORK-1
 country:            US
 admin-c:            FLAMESRUNNER-DN42

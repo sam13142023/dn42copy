@@ -1,4 +1,4 @@
-inet6num:           fd42:5445:4b31::-fd42:5445:4b31:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:5445:4b31:0000:0000:0000:0000:0000 - fd42:5445:4b31:ffff:ffff:ffff:ffff:ffff
 netname:            TEK6-NET
 country:            DE
 admin-c:            TEK-DN42

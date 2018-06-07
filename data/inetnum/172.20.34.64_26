@@ -1,4 +1,4 @@
-inetnum:            172.20.34.64-172.20.34.127
+inetnum:            172.20.34.64 - 172.20.34.127
 netname:            TSYS-HOME-NET
 country:            DE
 admin-c:            TSYS-DN42

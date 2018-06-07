@@ -1,4 +1,4 @@
-inet6num:           fd42:d42:542:0:0:0:0:0 - fd42:d42:542:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0d42:0542:0000:0000:0000:0000:0000 - fd42:0d42:0542:ffff:ffff:ffff:ffff:ffff
 netname:            JO-JO-NET
 descr:              Jo-Jo's Main IPv6 Network
 country:            DE

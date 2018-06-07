@@ -1,4 +1,4 @@
-inetnum:            172.20.195.80-172.20.195.95
+inetnum:            172.20.195.80 - 172.20.195.95
 netname:            LOSTSERVER-NET2
 descr:              ORG-LOSTSERVER
 country:            US

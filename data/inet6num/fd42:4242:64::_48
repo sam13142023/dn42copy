@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:0064::0-fd42:4242:0064:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:0064:0000:0000:0000:0000:0000 - fd42:4242:0064:ffff:ffff:ffff:ffff:ffff
 netname:            ORG-JUZE-V6
 country:            DE
 org:                ORG-JUZE

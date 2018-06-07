@@ -1,4 +1,4 @@
-inet6num:           fd36:4184:7cc9:0:0:0:0:0 - fd36:4184:7cc9:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd36:4184:7cc9:0000:0000:0000:0000:0000 - fd36:4184:7cc9:ffff:ffff:ffff:ffff:ffff
 netname:            BERKAY-IP6-NET
 country:            NL
 admin-c:            BERKAY-DN42

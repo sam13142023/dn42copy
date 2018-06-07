@@ -1,4 +1,4 @@
-inetnum:            172.20.58.224-172.20.58.255
+inetnum:            172.20.58.224 - 172.20.58.255
 netname:            LUGINBASH-NET
 admin-c:            LUGINBASH-DN42
 tech-c:             LUGINBASH-DN42

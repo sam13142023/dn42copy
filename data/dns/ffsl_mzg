@@ -1,8 +1,0 @@
-domain:             ffsl_mzg
-status:             CONNECT
-nserver:            55.155.55.10.icvpn.registry-sync.dn42
-nserver:            3.128.55.10.icvpn.registry-sync.dn42
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: merzig
-mnt-by:             DN42-MNT
-source:             ICVPN

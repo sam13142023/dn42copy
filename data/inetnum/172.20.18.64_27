@@ -1,4 +1,4 @@
-inetnum:            172.20.18.64-172.20.18.95
+inetnum:            172.20.18.64 - 172.20.18.95
 netname:            MOHO-NETWORK
 descr:              moho's first network
 country:            DE

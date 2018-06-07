@@ -1,4 +1,4 @@
-inetnum:            172.20.204.0-172.20.204.31
+inetnum:            172.20.204.0 - 172.20.204.31
 netname:            IRL-NET
 country:            GB
 admin-c:            IRL-DN42

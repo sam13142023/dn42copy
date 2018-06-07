@@ -1,4 +1,4 @@
-inet6num:           fd56:9016:dca5:0000:0000:0000:0000:0000-fd56:9016:dca5:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd56:9016:dca5:0000:0000:0000:0000:0000 - fd56:9016:dca5:ffff:ffff:ffff:ffff:ffff
 netname:            SKJOLDR-NETWORK
 descr:              Network of skjoldr
 country:            DE

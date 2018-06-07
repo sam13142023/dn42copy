@@ -1,4 +1,4 @@
-inetnum:            172.20.42.128-172.20.42.135
+inetnum:            172.20.42.128 - 172.20.42.135
 netname:            FLAMESRUNNER-EXT-NETWORK
 country:            CA
 admin-c:            FLAMESRUNNER-DN42

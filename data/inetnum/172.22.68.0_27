@@ -1,4 +1,4 @@
-inetnum:            172.22.68.0-172.22.68.31
+inetnum:            172.22.68.0 - 172.22.68.31
 netname:            IMLONGHAO-NETWORK
 descr:              imlonghao Network Block in nl-ams01
 country:            NL

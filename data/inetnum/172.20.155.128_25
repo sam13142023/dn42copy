@@ -1,4 +1,4 @@
-inetnum:            172.20.155.128-172.20.155.255
+inetnum:            172.20.155.128 - 172.20.155.255
 netname:            ORG-JUZE-V4
 country:            DE
 admin-c:            4A6F-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.20.244.0-172.20.244.255
+inetnum:            172.20.244.0 - 172.20.244.255
 netname:            OIDA-M33
 descr:              OIDA-M33
 country:            DE

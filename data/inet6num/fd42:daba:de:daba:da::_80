@@ -1,4 +1,4 @@
-inet6num:           FD42:DABA:DE:DABA:DA:0:0:0-FD42:DABA:DE:DABA:DA:FFFF:FFFF:FFFF
+inet6num:           fd42:daba:00de:daba:00da:0000:0000:0000 - fd42:daba:00de:daba:00da:ffff:ffff:ffff
 netname:            PHAUX-UNO-DN42-NET6
 descr:              Phaux.uno DN42 IPv6 Space
 country:            US

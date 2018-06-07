@@ -1,4 +1,4 @@
-inetnum:            172.22.110.0-172.22.110.31
+inetnum:            172.22.110.0 - 172.22.110.31
 netname:            GERGER-NET1
 descr:              Gerger's Space
 country:            DE

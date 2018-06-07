@@ -1,4 +1,4 @@
-inetnum:            172.22.241.0-172.22.241.255
+inetnum:            172.22.241.0 - 172.22.241.255
 netname:            NET-SPRINGFIELD-DN42
 descr:              Springfield-Net
 country:            VG

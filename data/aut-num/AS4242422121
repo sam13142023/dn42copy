@@ -5,7 +5,7 @@ remarks:            Peerings via OpenVPN, Tinc and IPSec
 remarks:            Router located at Paris, behind a DSL line
 remarks:            See https://wiki.leloop.org/index.php/DN42 (French)
 remarks:            for implementations details.
-org:                HACKSPACE-LOOP-DN42
+org:                ORG-HACKSPACE-LOOP-DN42
 admin-c:            DLGG-DN42
 admin-c:            KANKAN-DN42
 admin-c:            NICOO-DN42

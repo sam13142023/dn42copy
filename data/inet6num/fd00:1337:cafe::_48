@@ -1,4 +1,4 @@
-inet6num:           fd00:1337:cafe:0:0:0:0:0 - fd00:1337:cafe:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:1337:cafe:0000:0000:0000:0000:0000 - fd00:1337:cafe:ffff:ffff:ffff:ffff:ffff
 netname:            CHAOSDORF-DN42-V6-ULA
 descr:              feuerrot's ula ipv6 network
 country:            DE

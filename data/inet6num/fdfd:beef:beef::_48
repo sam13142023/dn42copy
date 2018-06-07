@@ -1,4 +1,4 @@
-inet6num:           fdfd:beef:beef:0:0:0:0:0 - fdfd:beef:beef:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdfd:beef:beef:0000:0000:0000:0000:0000 - fdfd:beef:beef:ffff:ffff:ffff:ffff:ffff
 netname:            DDEV-IPV6-1
 descr:              IPV6-NETMASTER-v6-1
 country:            DE

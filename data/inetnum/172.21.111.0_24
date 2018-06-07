@@ -1,4 +1,4 @@
-inetnum:            172.21.111.0-172.21.111.255
+inetnum:            172.21.111.0 - 172.21.111.255
 netname:            DDEV-IP2
 descr:              testing net for ddev-mnt
 country:            DE

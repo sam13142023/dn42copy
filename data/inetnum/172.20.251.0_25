@@ -1,4 +1,4 @@
-inetnum:            172.20.251.0-172.20.251.127
+inetnum:            172.20.251.0 - 172.20.251.127
 netname:            SNOWLAKE-NET
 country:            US
 admin-c:            SNOWLAKE-DN42

@@ -1,4 +1,4 @@
-inet6num:           fd42:6e66:70cd:0000:0000:0000:0000:0000-fd42:6e66:70cd:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:6e66:70cd:0000:0000:0000:0000:0000 - fd42:6e66:70cd:ffff:ffff:ffff:ffff:ffff
 netname:            PREUSSIO-NETWORK
 status:             ASSIGNED
 descr:              Network of Preuß.IO

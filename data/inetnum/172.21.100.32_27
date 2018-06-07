@@ -1,4 +1,4 @@
-inetnum:            172.21.100.32-172.21.100.63
+inetnum:            172.21.100.32 - 172.21.100.63
 netname:            OVEAR-NETWORK
 country:            CN
 admin-c:            OVEAR-DN42

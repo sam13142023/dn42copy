@@ -1,0 +1,9 @@
+inetnum:            172.20.14.16 - 172.20.14.23
+cidr:               172.20.14.16/29
+netname:            JOT23-BACKBONE-4
+country:            PL
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+status:             ASSIGNED
+source:             DN42

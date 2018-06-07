@@ -1,4 +1,4 @@
-inet6num:           fdd7:e654:c018:0:0:0:0:0 - fdd7:e654:c018:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdd7:e654:c018:0000:0000:0000:0000:0000 - fdd7:e654:c018:ffff:ffff:ffff:ffff:ffff
 netname:            PR0-NET6
 descr:              pr0-Server-NET
 country:            DE

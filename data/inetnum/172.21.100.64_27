@@ -1,4 +1,4 @@
-inetnum:            172.21.100.64-172.21.100.95
+inetnum:            172.21.100.64 - 172.21.100.95
 netname:            NSNW-NETWORK
 descr:              NSNW
 country:            CA

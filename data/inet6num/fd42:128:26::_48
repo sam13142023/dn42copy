@@ -1,4 +1,4 @@
-inet6num:           fd42:128:26:0:0:0:0:0-fd42:128:26:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0128:0026:0000:0000:0000:0000:0000 - fd42:0128:0026:ffff:ffff:ffff:ffff:ffff
 netname:            NET6-JPLITZA-DN42
 country:            DE
 admin-c:            JPLITZA-DN42

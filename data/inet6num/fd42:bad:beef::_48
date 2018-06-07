@@ -1,4 +1,4 @@
-inet6num:           fd42:0bad:beef:0000:0000:0000:0000:0000-fd42:0bad:beef:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0bad:beef:0000:0000:0000:0000:0000 - fd42:0bad:beef:ffff:ffff:ffff:ffff:ffff
 netname:            LOUPO-NET
 country:            FR
 admin-c:            LOUPO-DN42

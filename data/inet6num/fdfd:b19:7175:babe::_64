@@ -1,4 +1,4 @@
-inet6num:           fdfd:b19:7175:babe:0:0:0:0-fdfd:b19:7175:babe:ffff:ffff:ffff:ffff
+inet6num:           fdfd:0b19:7175:babe:0000:0000:0000:0000 - fdfd:0b19:7175:babe:ffff:ffff:ffff:ffff
 netname:            N2S-NET
 descr:              L33T
 country:            BG

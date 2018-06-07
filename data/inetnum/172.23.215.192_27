@@ -1,4 +1,4 @@
-inetnum:            172.23.215.192-172.23.215.223
+inetnum:            172.23.215.192 - 172.23.215.223
 netname:            KAI-HOME
 descr:              Home Network
 country:            DE

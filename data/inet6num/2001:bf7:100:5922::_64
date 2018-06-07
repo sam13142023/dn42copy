@@ -1,8 +1,0 @@
-inet6num:           2001:0bf7:0100:5922:0000:0000:0000:0000 - 2001:0bf7:0100:5922:ffff:ffff:ffff:ffff
-cidr:               2001:bf7:100:5922::/64
-netname:            ICVPN-VFNNRW
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: vfnnrw
-mnt-by:             DN42-MNT
-source:             ICVPN

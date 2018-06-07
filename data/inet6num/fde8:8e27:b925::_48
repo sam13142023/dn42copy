@@ -1,4 +1,4 @@
-inet6num:           fde8:8e27:b925::-fde8:8e27:b925:ffff:ffff:ffff:ffff:ffff
+inet6num:           fde8:8e27:b925:0000:0000:0000:0000:0000 - fde8:8e27:b925:ffff:ffff:ffff:ffff:ffff
 netname:            STR-NET6
 nserver:            ns1.rhine.dn42
 descr:              Rhinestone IPv6

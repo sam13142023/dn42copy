@@ -1,4 +1,4 @@
-inetnum:            172.20.42.0-172.20.42.127
+inetnum:            172.20.42.0 - 172.20.42.127
 netname:            FLOKLI-IP4
 country:            DE
 admin-c:            FLOKLI-DN42

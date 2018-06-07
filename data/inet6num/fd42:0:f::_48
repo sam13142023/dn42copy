@@ -1,4 +1,4 @@
-inet6num:           fd42:0:f:0000:0000:0000:0000:0000-fd42:0:f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0000:000f:0000:0000:0000:0000:0000 - fd42:0000:000f:ffff:ffff:ffff:ffff:ffff
 netname:            HYHIX-NETWORK6
 descr:              hyhIX WORK IPv6
 country:            CN

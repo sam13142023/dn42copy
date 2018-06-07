@@ -1,4 +1,4 @@
-inet6num:           fd42:ac16:17bd:0:0:0:0:0 - fd42:ac16:17bd:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:ac16:17bd:0000:0000:0000:0000:0000 - fd42:ac16:17bd:ffff:ffff:ffff:ffff:ffff
 netname:            BLOKJE-IPV6
 descr:              Blokje IPv6 Range
 country:            NL

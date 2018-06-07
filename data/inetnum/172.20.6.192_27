@@ -1,4 +1,4 @@
-inetnum:            172.20.6.192-172.20.6.223
+inetnum:            172.20.6.192 - 172.20.6.223
 netname:            LEMELISK-CLIENT
 descr:              Lemelisk's Client Network
 country:            DE

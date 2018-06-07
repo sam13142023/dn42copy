@@ -1,8 +1,0 @@
-inet6num:           2001:0bf7:0100:2041:0000:0000:0000:0000 - 2001:0bf7:0100:2041:ffff:ffff:ffff:ffff
-cidr:               2001:bf7:100:2041::/64
-netname:            ICVPN-BOTTROP
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: bottrop
-mnt-by:             DN42-MNT
-source:             ICVPN

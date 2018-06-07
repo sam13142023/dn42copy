@@ -1,4 +1,4 @@
-inetnum:            172.21.66.160-172.21.66.167
+inetnum:            172.21.66.160 - 172.21.66.167
 netname:            PANKY-TRANSIT-PEERING-NET
 admin-c:            PANKY-DN42
 tech-c:             PANKY-DN42

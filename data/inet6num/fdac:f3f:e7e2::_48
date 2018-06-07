@@ -1,4 +1,4 @@
-inet6num:           fdac:f3f:e7e2:0000:0000:0000:0000:0000 - fdac:f3f:e7e2:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdac:0f3f:e7e2:0000:0000:0000:0000:0000 - fdac:0f3f:e7e2:ffff:ffff:ffff:ffff:ffff
 netname:            JC-IX-NET-V6-DN42
 descr:              JCHOME DN42 IPv6 PI
 country:            DE

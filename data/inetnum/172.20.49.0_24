@@ -1,4 +1,4 @@
-inetnum:            172.20.49.0-172.20.49.255
+inetnum:            172.20.49.0 - 172.20.49.255
 netname:            M24-RU
 country:            RU
 org:                ORG-MEDIA24LLC

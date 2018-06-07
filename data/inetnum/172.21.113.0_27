@@ -1,4 +1,4 @@
-inetnum:            172.21.113.0-172.21.113.31
+inetnum:            172.21.113.0 - 172.21.113.31
 netname:            ETHERNAL-DN42-NET
 country:            NZ
 admin-c:            ETHERNAL-DN42

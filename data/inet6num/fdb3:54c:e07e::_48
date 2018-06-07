@@ -1,4 +1,4 @@
-inet6num:           fdb3:54c:e07e:0:0:0:0:0 - fdb3:54c:e07e:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdb3:054c:e07e:0000:0000:0000:0000:0000 - fdb3:054c:e07e:ffff:ffff:ffff:ffff:ffff
 netname:            AFICS6-NET2
 descr:              Easterhegg 2016
 country:            AT

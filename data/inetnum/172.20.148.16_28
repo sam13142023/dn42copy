@@ -1,4 +1,4 @@
-inetnum:            172.20.148.16-172.20.148.31
+inetnum:            172.20.148.16 - 172.20.148.31
 netname:            SPARCIENET-DN42
 cidr:               172.20.148.16/28
 descr:              seeabove

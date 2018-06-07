@@ -1,8 +1,0 @@
-inetnum:            87.239.143.0 - 87.239.143.127
-cidr:               87.239.143.0/25
-netname:            ICVPN-GIESSEN
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: giessen
-mnt-by:             DN42-MNT
-source:             ICVPN

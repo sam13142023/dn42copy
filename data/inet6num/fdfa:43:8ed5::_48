@@ -1,4 +1,4 @@
-inet6num:           fdfa:43:8ed5:0000:0000:0000:0000:0000 - fdfa:43:8ed5:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdfa:0043:8ed5:0000:0000:0000:0000:0000 - fdfa:0043:8ed5:ffff:ffff:ffff:ffff:ffff
 netname:            NET-JUE-TEST
 descr:              Some test network stuff
 country:            DE

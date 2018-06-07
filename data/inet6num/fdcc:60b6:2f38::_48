@@ -1,4 +1,4 @@
-inet6num:           FDCC:60B6:2F38:0000:0000:0000:0000:0000-FDCC:60B6:2F38:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fdcc:60b6:2f38:0000:0000:0000:0000:0000 - fdcc:60b6:2f38:ffff:ffff:ffff:ffff:ffff
 netname:            FCON-DN42
 descr:              FCON
 country:            LU

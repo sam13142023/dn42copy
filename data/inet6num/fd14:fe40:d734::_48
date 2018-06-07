@@ -1,4 +1,4 @@
-inet6num:           fd14:fe40:d734:: - fd14:fe40:d734:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd14:fe40:d734:0000:0000:0000:0000:0000 - fd14:fe40:d734:ffff:ffff:ffff:ffff:ffff
 netname:            YAO-INET6
 descr:              YAO-INET6
 country:            CN

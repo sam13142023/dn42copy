@@ -1,4 +1,4 @@
-inet6num:           fd42:23c:ac1b:: - fd42:23c:ac1b:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:023c:ac1b:0000:0000:0000:0000:0000 - fd42:023c:ac1b:ffff:ffff:ffff:ffff:ffff
 netname:            WL-DN42
 descr:              _ wl
 country:            CX

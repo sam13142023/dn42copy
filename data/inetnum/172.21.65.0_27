@@ -1,4 +1,4 @@
-inetnum:            172.21.65.0-172.21.65.31
+inetnum:            172.21.65.0 - 172.21.65.31
 netname:            OTARONET-1
 descr:              otaro
 country:            DE

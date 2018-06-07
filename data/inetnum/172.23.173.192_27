@@ -1,4 +1,4 @@
-inetnum:            172.23.173.192-172.23.173.223
+inetnum:            172.23.173.192 - 172.23.173.223
 netname:            DIRKS-NETWORK
 descr:              NetOfDirkS
 country:            DE

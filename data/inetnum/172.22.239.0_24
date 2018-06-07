@@ -5,7 +5,7 @@ country:            DE
 admin-c:            MARTIN89-DN42
 tech-c:             MARTIN89-DN42
 status:             ASSIGNED
-nserver:            vm.krautspace.dn42 172.22.239.1
+nserver:            vm.krautspace.dn42
 cidr:               172.22.239.0/24
 mnt-by:             DUMMY-MNT
 source:             DN42

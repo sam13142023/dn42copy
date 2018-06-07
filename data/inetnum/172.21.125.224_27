@@ -1,4 +1,4 @@
-inetnum:            172.21.125.224-172.21.125.255
+inetnum:            172.21.125.224 - 172.21.125.255
 netname:            FMAUNEKO-NET
 descr:              fmauNeko's V4 Network
 country:            FR

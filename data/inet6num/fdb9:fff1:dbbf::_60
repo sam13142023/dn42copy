@@ -1,4 +1,4 @@
-inet6num:           fdb9:fff1:dbbf:0000:0000:0000:0000:0000-fdb9:fff1:dbbf:ffff:0000:0000:0000:0000
+inet6num:           fdb9:fff1:dbbf:0000:0000:0000:0000:0000 - fdb9:fff1:dbbf:000f:ffff:ffff:ffff:ffff
 netname:            LYM-NET6
 country:            CN
 admin-c:            LYM-DN42

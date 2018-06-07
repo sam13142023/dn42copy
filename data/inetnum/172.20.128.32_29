@@ -1,4 +1,4 @@
-inetnum:            172.20.128.32-172.20.128.39
+inetnum:            172.20.128.32 - 172.20.128.39
 netname:            ALTF4-GATEWAY
 descr:              my gateway to the wooooorld
 country:            BE

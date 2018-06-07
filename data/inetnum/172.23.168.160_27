@@ -1,4 +1,4 @@
-inetnum:            172.23.168.160-172.23.168.191
+inetnum:            172.23.168.160 - 172.23.168.191
 netname:            NET-WOLFEN
 descr:              Wolfen Range 1
 country:            AE

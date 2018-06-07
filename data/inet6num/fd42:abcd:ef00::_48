@@ -1,4 +1,4 @@
-inet6num:           fd42:abcd:ef00:0000:0000:0000:0000:0000-fd42:abcd:ef00:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:abcd:ef00:0000:0000:0000:0000:0000 - fd42:abcd:ef00:ffff:ffff:ffff:ffff:ffff
 netname:            LERNET-IPV6
 descr:              LERNET IPv6 Range
 country:            GB

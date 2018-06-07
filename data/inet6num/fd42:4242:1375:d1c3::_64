@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:1375:d1c3:: - fd42:4242:1375:d1c3:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:1375:d1c3:0000:0000:0000:0000 - fd42:4242:1375:d1c3:ffff:ffff:ffff:ffff
 netname:            CHELNOK-IPV6-VPN
 descr:              chelnok ipv6 vpn client pool
 country:            DE

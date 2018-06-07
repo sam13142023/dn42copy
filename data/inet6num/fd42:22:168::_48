@@ -1,4 +1,4 @@
-inet6num:           fd42:22:168:0:0:0:0:0 - fd42:22:168:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0022:0168:0000:0000:0000:0000:0000 - fd42:0022:0168:ffff:ffff:ffff:ffff:ffff
 netname:            YANG-IPV6
 cidr:               fd42:22:168::/48
 descr:              YANG IPv6 SUBNET

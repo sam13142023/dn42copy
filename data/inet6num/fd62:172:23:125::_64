@@ -1,4 +1,4 @@
-inet6num:           fd62:172:23:125:0000:0000:0000:0000 - fd62:172:23:125:FFFF:FFFF:FFFF:FFFF
+inet6num:           fd62:0172:0023:0125:0000:0000:0000:0000 - fd62:0172:0023:0125:ffff:ffff:ffff:ffff
 netname:            TYPHON-IPV6-NETWORK-FF
 descr:              TYPHON-IPV6 Network FF
 country:            DE

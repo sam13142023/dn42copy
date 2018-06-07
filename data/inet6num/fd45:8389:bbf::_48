@@ -1,4 +1,4 @@
-inet6num:           fd45:8389:bbf::-fd45:8389:bbf:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd45:8389:0bbf:0000:0000:0000:0000:0000 - fd45:8389:0bbf:ffff:ffff:ffff:ffff:ffff
 netname:            VPSSOLUTIONS-01-NET6
 country:            US
 admin-c:            CONNOR-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.23.233.0-172.23.233.255
+inetnum:            172.23.233.0 - 172.23.233.255
 netname:            ICEZ-V4-DN42
 descr:              icez network IPv4 allocation for DN42
 country:            TH

@@ -1,4 +1,4 @@
-inet6num:           fd42:84:168:0:0:0:0:0 - fd42:84:168:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0084:0168:0000:0000:0000:0000:0000 - fd42:0084:0168:ffff:ffff:ffff:ffff:ffff
 netname:            DATA-NET
 descr:              pibone
 country:            DE

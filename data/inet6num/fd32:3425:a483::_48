@@ -1,4 +1,4 @@
-inet6num:           fd32:3425:a483:0:0:0:0:0 - fd32:3425:a483:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd32:3425:a483:0000:0000:0000:0000:0000 - fd32:3425:a483:ffff:ffff:ffff:ffff:ffff
 cidr:               fd32:3425:a483::/48
 admin-c:            NL-ZUID-DN42
 tech-c:             NL-ZUID-DN42

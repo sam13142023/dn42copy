@@ -1,4 +1,4 @@
-inet6num:           fd59:54c0:0fac:0:0:0:0:0 - fd59:54c0:0fac:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd59:54c0:0fac:0000:0000:0000:0000:0000 - fd59:54c0:0fac:ffff:ffff:ffff:ffff:ffff
 netname:            N1COLAS-NET001-V6
 descr:              N1COLAS-NET001-V6
 country:            FR

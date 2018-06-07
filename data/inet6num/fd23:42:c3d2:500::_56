@@ -1,4 +1,4 @@
-inet6num:           fd23:42:c3d2:500:0:0:0:0 - fd23:0042:c3d2:5ff:ffff:ffff:ffff:ffff
+inet6num:           fd23:0042:c3d2:0500:0000:0000:0000:0000 - fd23:0042:c3d2:05ff:ffff:ffff:ffff:ffff
 netname:            C3D2-GCHQ
 descr:              http://www.c3d2.de/space.html
 country:            DE

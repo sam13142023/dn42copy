@@ -1,4 +1,4 @@
-inetnum:            172.22.142.0-172.22.142.7
+inetnum:            172.22.142.0 - 172.22.142.7
 netname:            FCON-DN42
 descr:              FCON
 country:            LU

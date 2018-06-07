@@ -1,4 +1,4 @@
-inet6num:           fd42:1107:0:0:0:0:0:0 - fd42:1107:0:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:1107:0000:0000:0000:0000:0000:0000 - fd42:1107:0000:ffff:ffff:ffff:ffff:ffff
 netname:            NIXNODES-NET
 country:            SI
 admin-c:            NIXNODES-DN42

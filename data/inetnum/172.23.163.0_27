@@ -1,4 +1,4 @@
-inetnum:            172.23.163.0-172.23.163.31
+inetnum:            172.23.163.0 - 172.23.163.31
 netname:            UPPERPASTE-NETWORK
 descr:              Foobar
 country:            NL

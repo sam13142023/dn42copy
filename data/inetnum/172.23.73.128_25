@@ -1,4 +1,4 @@
-inetnum:            172.23.73.128-172.23.73.255
+inetnum:            172.23.73.128 - 172.23.73.255
 netname:            STRAA-NET-1
 country:            NO
 admin-c:            STRAA-DN42

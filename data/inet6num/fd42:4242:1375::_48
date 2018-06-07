@@ -1,4 +1,4 @@
-inet6num:           fd42:4242:1375:: - fd42:4242:1375:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4242:1375:0000:0000:0000:0000:0000 - fd42:4242:1375:ffff:ffff:ffff:ffff:ffff
 netname:            CHELNOK-IPV6
 descr:              chelnok ipv6 ULA
 country:            DE

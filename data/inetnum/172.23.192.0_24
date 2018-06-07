@@ -6,6 +6,5 @@ admin-c:            FRITZ-DN42
 tech-c:             FRITZ-DN42
 mnt-by:             FRITZ-MNT
 status:             ASSIGNED
-nserver:            ns.192.23.172.in-addr.arpa 195.154.200.230 2001:bc8:3a03:100::
 cidr:               172.23.192.0/24
 source:             DN42

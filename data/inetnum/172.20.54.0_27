@@ -1,4 +1,4 @@
-inetnum:            172.20.54.0-172.20.54.31
+inetnum:            172.20.54.0 - 172.20.54.31
 netname:            PETERCXY-NET-DN42-POOL
 descr:              PeterCxy Networks Pool
 country:            CN

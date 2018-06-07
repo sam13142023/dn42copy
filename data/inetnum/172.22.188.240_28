@@ -1,4 +1,4 @@
-inetnum:            172.22.188.240-172.22.188.255
+inetnum:            172.22.188.240 - 172.22.188.255
 netname:            MEL01-EASYCABLE
 descr:              EasyCable Melbourne
 country:            AU

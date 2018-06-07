@@ -1,4 +1,4 @@
-inet6num:           fd42:172:2042:0:0:0:0:0 - fd42:0172:2042:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0172:2042:0000:0000:0000:0000:0000 - fd42:0172:2042:ffff:ffff:ffff:ffff:ffff
 netname:            FLOKLI-IP6
 cidr:               fd42:172:2042::/48
 country:            DE

@@ -1,4 +1,4 @@
-inet6num:           fd42:8482:8432:0000:0000:0000:0000:0000-fd42:8482:8432:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:8482:8432:0000:0000:0000:0000:0000 - fd42:8482:8432:ffff:ffff:ffff:ffff:ffff
 netname:            LUPHYNET-NETWORK
 country:            US
 admin-c:            AEMILLER-DN42

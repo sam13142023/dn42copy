@@ -1,4 +1,4 @@
-inetnum:            172.20.148.8-172.20.148.15
+inetnum:            172.20.148.8 - 172.20.148.15
 netname:            KAI-NETWORK
 country:            DE
 admin-c:            KAI-DN42

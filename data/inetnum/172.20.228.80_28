@@ -1,4 +1,4 @@
-inetnum:            172.20.228.80-172.20.228.95
+inetnum:            172.20.228.80 - 172.20.228.95
 netname:            HSYSTEMS-WWNET
 descr:              NET-172-20-228-80
 country:            US

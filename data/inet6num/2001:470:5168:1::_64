@@ -1,8 +1,0 @@
-inet6num:           2001:0470:5168:0001:0000:0000:0000:0000 - 2001:0470:5168:0001:ffff:ffff:ffff:ffff
-cidr:               2001:470:5168:1::/64
-netname:            ICVPN-NEUENDETTELSAU
-bgp-status:         ignored
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: neuendettelsau
-mnt-by:             DN42-MNT
-source:             ICVPN

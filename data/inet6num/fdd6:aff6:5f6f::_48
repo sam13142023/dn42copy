@@ -1,4 +1,4 @@
-inet6num:           fdd6:aff6:5f6f:0:0:0:0:0 - fdd6:aff6:5f6f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdd6:aff6:5f6f:0000:0000:0000:0000:0000 - fdd6:aff6:5f6f:ffff:ffff:ffff:ffff:ffff
 netname:            FLHB-IPV6
 cidr:               fdd6:aff6:5f6f::/48
 org:                ORG-FLHB-DN42

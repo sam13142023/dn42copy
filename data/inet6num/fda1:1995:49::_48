@@ -1,4 +1,4 @@
-inet6num:           FDA1:1995:49:0:0:0:0:0 - FDA1:1995:49:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fda1:1995:0049:0000:0000:0000:0000:0000 - fda1:1995:0049:ffff:ffff:ffff:ffff:ffff
 netname:            ALEX-NET6
 descr:              IPv6
 country:            SG

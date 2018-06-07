@@ -1,4 +1,4 @@
-inetnum:            172.21.101.80-172.21.101.87
+inetnum:            172.21.101.80 - 172.21.101.87
 netname:            THB-NETWORK-V4
 country:            DE
 admin-c:            THB-DN42

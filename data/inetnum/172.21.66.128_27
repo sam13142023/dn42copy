@@ -1,4 +1,4 @@
-inetnum:            172.21.66.128-172.21.66.159
+inetnum:            172.21.66.128 - 172.21.66.159
 netname:            MITSUHA-NET-DN42-POOL
 descr:              Mitsuha Networks Pool
 country:            CH

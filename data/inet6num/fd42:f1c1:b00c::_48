@@ -1,4 +1,4 @@
-inet6num:           fd42:f1c1:b00c:0000:0000:0000:0000:0000-fd42:f1c1:b00c:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:f1c1:b00c:0000:0000:0000:0000:0000 - fd42:f1c1:b00c:ffff:ffff:ffff:ffff:ffff
 netname:            FIKIBOOK-NET
 descr:              Fikicha Home Network
 country:            BG

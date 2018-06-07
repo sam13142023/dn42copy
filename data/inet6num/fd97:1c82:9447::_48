@@ -1,4 +1,4 @@
-inet6num:           fd97:1c82:9447:: - fd97:1c82:9447:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd97:1c82:9447:0000:0000:0000:0000:0000 - fd97:1c82:9447:ffff:ffff:ffff:ffff:ffff
 netname:            GBE-NET6
 country:            DE
 admin-c:            GBE-DN42

@@ -1,4 +1,4 @@
-inetnum:            172.20.231.192-172.20.231.223
+inetnum:            172.20.231.192 - 172.20.231.223
 netname:            ATR-CORE
 descr:              ATR Core Routing Network
 country:            JP

@@ -1,4 +1,4 @@
-inetnum:            172.20.131.32-172.20.131.63
+inetnum:            172.20.131.32 - 172.20.131.63
 netname:            NET-FLAMESRUNNER-000
 country:            CA
 admin-c:            FLAMESRUNNER-DN42

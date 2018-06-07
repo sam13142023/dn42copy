@@ -1,4 +1,4 @@
-inetnum:            172.20.50.192-172.20.50.255
+inetnum:            172.20.50.192 - 172.20.50.255
 netname:            KHANAGE-TEST
 descr:              Khanage Subnet
 country:            AU

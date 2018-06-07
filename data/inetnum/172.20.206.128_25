@@ -1,4 +1,4 @@
-inetnum:            172.20.206.128-172.20.206.255
+inetnum:            172.20.206.128 - 172.20.206.255
 netname:            KHALED-NET
 descr:              Khaled
 country:            US

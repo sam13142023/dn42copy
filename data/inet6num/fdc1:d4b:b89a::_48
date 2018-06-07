@@ -1,4 +1,4 @@
-inet6num:           fdc1:d4b:b89a:: - fdc1:d4b:b89a:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdc1:0d4b:b89a:0000:0000:0000:0000:0000 - fdc1:0d4b:b89a:ffff:ffff:ffff:ffff:ffff
 netname:            LOADERROR-NET6
 country:            DE
 admin-c:            TSYS-DN42

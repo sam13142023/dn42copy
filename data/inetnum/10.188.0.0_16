@@ -1,7 +1,7 @@
 inetnum:            10.188.0.0 - 10.188.255.255
 cidr:               10.188.0.0/16
 netname:            ICVPN-TROISDORF
-bgp-status:         ignored
+bgp-status:         ignore
 nserver:            100.1.188.10.icvpn.registry-sync.dn42
 nserver:            23.1.188.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

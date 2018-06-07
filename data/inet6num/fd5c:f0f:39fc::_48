@@ -1,4 +1,4 @@
-inet6num:           fd5c:f0f:39fc:0:0:0:0:0-fd5c:f0f:39fc:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd5c:0f0f:39fc:0000:0000:0000:0000:0000 - fd5c:0f0f:39fc:ffff:ffff:ffff:ffff:ffff
 netname:            XIAOYU-NET
 descr:              peering to irc liuxyon
 country:            US

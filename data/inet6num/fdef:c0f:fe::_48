@@ -1,4 +1,4 @@
-inet6num:           fdef:c0f:fe:0:0:0:0:0 - fdef:c0f:fe:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdef:0c0f:00fe:0000:0000:0000:0000:0000 - fdef:0c0f:00fe:ffff:ffff:ffff:ffff:ffff
 netname:            NET-BODEMS-IP6-ULA
 descr:              Bodems IPv6 ULA-Net
 nserver:            ns0.bodems.dn42

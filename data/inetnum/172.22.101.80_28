@@ -1,4 +1,4 @@
-inetnum:            172.22.101.80-172.22.101.95
+inetnum:            172.22.101.80 - 172.22.101.95
 netname:            PHAUX-UNO-DN42-NET
 descr:              Phaux.uno DN42 IPv4 Space
 country:            US

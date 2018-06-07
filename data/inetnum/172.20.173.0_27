@@ -1,4 +1,4 @@
-inetnum:            172.20.173.0-172.20.173.31
+inetnum:            172.20.173.0 - 172.20.173.31
 netname:            HYDRANET-MT
 country:            MT
 admin-c:            HYDRA-DN42

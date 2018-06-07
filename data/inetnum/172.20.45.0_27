@@ -1,4 +1,4 @@
-inetnum:            172.20.45.0-172.20.45.31
+inetnum:            172.20.45.0 - 172.20.45.31
 netname:            RT01-SERVER-PLACE-ORG-NET
 country:            DE
 admin-c:            PAPAYAWHIP-DN42

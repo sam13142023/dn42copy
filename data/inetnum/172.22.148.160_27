@@ -1,4 +1,4 @@
-inetnum:            172.22.148.160-172.22.148.191
+inetnum:            172.22.148.160 - 172.22.148.191
 netname:            KAI-NETWORK
 country:            HK
 admin-c:            KAI-DN42

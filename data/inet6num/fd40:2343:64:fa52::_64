@@ -1,4 +1,4 @@
-inet6num:           fd40:2343:64:fa52:: - fd40:2343:64:fa52:ffff:ffff:ffff:ffff
+inet6num:           fd40:2343:0064:fa52:0000:0000:0000:0000 - fd40:2343:0064:fa52:ffff:ffff:ffff:ffff
 netname:            NOP-DEMO6
 descr:              nop demo
 country:            HU

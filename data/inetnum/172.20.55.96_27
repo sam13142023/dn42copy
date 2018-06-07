@@ -1,4 +1,4 @@
-inetnum:            172.20.55.96-172.20.55.127
+inetnum:            172.20.55.96 - 172.20.55.127
 netname:            LIBKAO-DN42NET
 cidr:               172.20.55.96/27
 descr:              Network of Libkao

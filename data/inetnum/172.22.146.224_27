@@ -1,4 +1,4 @@
-inetnum:            172.22.146.224-172.22.146.255
+inetnum:            172.22.146.224 - 172.22.146.255
 netname:            UAH-NETWORK
 country:            US
 admin-c:            HFULLER-DN42

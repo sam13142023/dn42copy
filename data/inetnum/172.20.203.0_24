@@ -1,4 +1,4 @@
-inetnum:            172.20.203.0-172.20.203.255
+inetnum:            172.20.203.0 - 172.20.203.255
 netname:            FLAT-CLOUD-NET
 country:            GB
 admin-c:            IRL-DN42

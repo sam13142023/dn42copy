@@ -1,4 +1,4 @@
-inetnum:            172.20.15.192-172.20.15.199
+inetnum:            172.20.15.192 - 172.20.15.199
 netname:            PRESTON-NET-006
 admin-c:            PRESTON-DN42
 tech-c:             PRESTON-DN42

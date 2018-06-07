@@ -1,4 +1,4 @@
-inet6num:           fd68:beef:c0de:0000:0000:0000:0000:0000-fd68:beef:c0de:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd68:beef:c0de:0000:0000:0000:0000:0000 - fd68:beef:c0de:ffff:ffff:ffff:ffff:ffff
 netname:            FSNX-NETWORK
 descr:              FSNX Network
 country:            US

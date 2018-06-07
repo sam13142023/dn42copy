@@ -1,4 +1,4 @@
-inetnum:            172.23.67.0-172.23.67.127
+inetnum:            172.23.67.0 - 172.23.67.127
 netname:            BLAZING-INTRA
 descr:              Blazing's Space
 country:            DE

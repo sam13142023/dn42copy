@@ -1,6 +1,6 @@
 schema:             TINC-KEY-SCHEMA
 ref:                dn42.tinc-key
-key:                tinc-key      required  single    primary  schema
+key:                tinc-key      required  single    primary schema
 key:                tinc-host     required  single
 key:                tinc-file     required  single
 key:                descr         optional  single

@@ -1,4 +1,4 @@
-inet6num:           FDBC:14EF:89DC:0000:0000:0000:0000:0000-FDBC:14EF:89DC:FFFF:FFFF:FFFF:FFFF:FFFF
+inet6num:           fdbc:14ef:89dc:0000:0000:0000:0000:0000 - fdbc:14ef:89dc:ffff:ffff:ffff:ffff:ffff
 netname:            FNORD-NETWORK
 country:            DE
 admin-c:            FNORD-DN42

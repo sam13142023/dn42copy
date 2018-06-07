@@ -1,4 +1,4 @@
-inetnum:            172.22.76.176-172.22.76.183
+inetnum:            172.22.76.176 - 172.22.76.183
 netname:            FAUXHOLE-NETWORK
 descr:              IPs for the Faux Hole
 country:            US

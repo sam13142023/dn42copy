@@ -1,4 +1,4 @@
-inet6num:           fd42:4dd0:ff00:: - fd42:4dd0:ff00:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:4dd0:ff00:0000:0000:0000:0000:0000 - fd42:4dd0:ff00:ffff:ffff:ffff:ffff:ffff
 netname:            NET6-NULLL-ULA-DN42
 descr:              /dev/nulll ULA prefix
 country:            DE

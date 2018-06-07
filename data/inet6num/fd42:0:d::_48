@@ -1,4 +1,4 @@
-inet6num:           fd42:0:d:0000:0000:0000:0000:0000-fd42:0:d:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd42:0000:000d:0000:0000:0000:0000:0000 - fd42:0000:000d:ffff:ffff:ffff:ffff:ffff
 netname:            HYHIX-NETWORK6
 descr:              hyhIX GD IPv6
 country:            CN

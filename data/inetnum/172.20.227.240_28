@@ -1,4 +1,4 @@
-inetnum:            172.20.227.240-172.20.227.255
+inetnum:            172.20.227.240 - 172.20.227.255
 netname:            TALNET-V4
 country:            DE
 admin-c:            TAL-DN42
