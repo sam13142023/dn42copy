@@ -4,5 +4,6 @@ netname:            LOINTAIN
 admin-c:            ALEXSHPILKIN-DN42
 tech-c:             ALEXSHPILKIN-DN42
 mnt-by:             ALEXSHPILKIN-MNT
-status:             ASSIGNED
+status:             ALLOCATED
+policy:             ask
 source:             DN42
