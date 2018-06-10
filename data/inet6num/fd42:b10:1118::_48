@@ -1,4 +1,4 @@
-inet6num:           fd42:0b10:1118:0000:0000:0000:0000:0000 - fd42:0b10:1118:0000:ffff:ffff:ffff:ffff
+inet6num:           fd42:0b10:1118:0000:0000:0000:0000:0000 - fd42:0b10:1118:ffff:ffff:ffff:ffff:ffff
 netname:            ZLD-NETWORK
 descr:              Network of ZLD
 country:            CN
