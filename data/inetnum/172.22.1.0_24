@@ -1,9 +1,15 @@
 inetnum:            172.22.1.0 - 172.22.1.255
-netname:            CCCHH
-org:                ORG-CCCHH
+netname:            CCCHB-HH-TRANSIT-IP4NET
+org:                ORG-FLHB-DN42
+descr:              Pool for some transit experiments
+country:            DE
 admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
 tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
 zone-c:             FRITZ-DN42
-mnt-by:             FRITZ-MNT
+zone-c:             PYROPETER-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+nserver:            ns.p5.flhb.de
 cidr:               172.22.1.0/24
 source:             DN42
