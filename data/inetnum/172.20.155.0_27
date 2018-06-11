@@ -4,8 +4,6 @@ country:            GB
 admin-c:            DCVOIP-DN42
 tech-c:             DCVOIP-DN42
 mnt-by:             DCVOIP-MNT
-nserver:            ns1.dcvoip.dn42
-nserver:            ns2.dcvoip.dn42
 status:             ASSIGNED
 cidr:               172.20.155.0/27
 source:             DN42
