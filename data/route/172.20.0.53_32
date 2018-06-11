@@ -10,5 +10,7 @@ remarks:            HARDB1T-MNT
 origin:             AS4242420138
 remarks:            SIS-MNT
 origin:             AS4242422950
+remarks:            YAMAKAJA-MNT
+origin:             AS4242421191
 mnt-by:             DN42-MNT
 source:             DN42
