@@ -61,6 +61,8 @@ remarks:            LEX-MNT
 members:            AS64697
 remarks:            VUTRAL-MNT
 members:            AS64787
+remarks:            FELICIA-MNT
+members:            AS64717
 admin-c:            GRMML-DN42
 tech-c:             GRMML-DN42
 mnt-by:             GRMML-MNT
