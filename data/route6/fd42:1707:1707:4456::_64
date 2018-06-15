@@ -10,4 +10,3 @@ nserver:            ns1.dtnet.dn42
 nserver:            ns2.dtnet.dn42
 status:             ASSIGNED
 source:             DN42
-

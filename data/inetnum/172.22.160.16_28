@@ -8,4 +8,3 @@ mnt-by:             DTNET-MNT
 status:             ASSIGNED
 cidr:               172.22.160.16/28
 source:             DN42
-
