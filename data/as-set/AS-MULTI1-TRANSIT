@@ -1,0 +1,25 @@
+as-set:             AS-MULTI1-TRANSIT
+admin-c:            MULTI-DN42
+tech-c:             MULTI-DN42
+mnt-by:             MULTI-MNT
+remarks:            DRATHIR-MNT
+members:            AS4242423759
+remarks:            HARDB1T-MNT
+members:            AS4242420138
+remarks:            Vutral's network (old, and lacking mntner object)
+members:            AS64787
+remarks:            ADNIDOR-MNT
+members:            AS4242423677
+remarks:            CREST-MNT
+members:            AS64828
+remarks:            JOSENG-MNT
+members:            AS4242420789
+remarks:            GRMML-MNT
+members:            AS4242420123
+remarks:            YAMAKAJA-MNT
+members:            AS4242421191
+remarks:            JRB0001-MNT
+members:            AS4242420119
+remarks:            FLORIANB-MNT
+members:            AS4242421555
+source:             DN42
