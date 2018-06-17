@@ -1,4 +1,4 @@
-inet6num:           fc68:ea13:020f:0000:0000:0000:0000:0000 - fc68:ea13:020f:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd68:ea13:020f:0000:0000:0000:0000:0000 - fd68:ea13:020f:ffff:ffff:ffff:ffff:ffff
 netname:            DRATHIR-DN42-FLORIANB-AT-INET6
 descr:              DRATHIR-DN42-FLORIANB-AT-INET6
 country:            AT
@@ -8,5 +8,5 @@ mnt-by:             DRATHIR-MNT
 nserver:            ns1.drathir.dn42
 nserver:            ns2.drathir.dn42
 status:             ALLOCATED
-cidr:               fc68:ea13:020f::/48
+cidr:               fd68:ea13:020f::/48
 source:             DN42
