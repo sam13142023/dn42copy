@@ -1,4 +1,4 @@
-route:              172.21.74.0/27
+route6:             fd42:ae20:dc1c::/48
 origin:             AS4242423454
 admin-c:            PF-DN42
 tech-c:             PF-DN42
