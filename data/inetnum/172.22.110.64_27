@@ -1,0 +1,8 @@
+inetnum:            172.22.110.64 - 172.22.110.95
+cidr:               172.22.110.64/27
+netname:            PF-IPV4
+admin-c:            PF-DN42
+tech-c:             PF-DN42
+mnt-by:             PF-MNT
+status:             ASSIGNED
+source:             DN42

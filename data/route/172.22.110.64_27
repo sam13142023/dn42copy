@@ -1,0 +1,4 @@
+route:              172.22.110.64/27
+origin:             AS4242423454
+mnt-by:             PF-MNT
+source:             DN42
