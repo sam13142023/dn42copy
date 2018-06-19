@@ -1,0 +1,8 @@
+domain:             pl.dn42
+descr:              ProBSD
+admin-c:            LEWY-DN42
+tech-c:             LEWY-DN42
+mnt-by:             LEWY-MNT
+nserver:            ns1.pl.dn42
+status:             EVALPEND 1507460588
+source:             DN42
