@@ -5,8 +5,6 @@ country:            CN
 admin-c:            ZLD-DN42
 tech-c:             ZLD-DN42
 mnt-by:             ZLD-MNT
-nserver:            ns1.zld.dn42
-nserver:            ns2.zld.dn42
 status:             ASSIGNED
 cidr:               172.21.118.0/25
 source:             DN42
