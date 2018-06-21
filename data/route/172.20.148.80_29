@@ -1,0 +1,4 @@
+route:              172.20.148.80/29
+origin:             AS4242420245
+mnt-by:             DROIDNEST-MNT
+source:             DN42

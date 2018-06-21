@@ -7,6 +7,7 @@ admin-c:            LANTIAN-DN42
 tech-c:             LANTIAN-DN42
 mnt-by:             LANTIAN-MNT
 nserver:            ns1.lantian.dn42
+nserver:            ns2.lantian.dn42
 status:             ASSIGNED
 cidr:               172.22.76.184/29
 source:             DN42

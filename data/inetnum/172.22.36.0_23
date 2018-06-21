@@ -7,7 +7,6 @@ status:             ALLOCATED
 nserver:            dns.rzl
 cidr:               172.22.36.0/23
 mnt-by:             LUTOMA-MNT
-mnt-by:             FELICITUS-MNT
 mnt-by:             DOCSTEEL-MNT
 mnt-by:             HAX404-MNT
 source:             DN42

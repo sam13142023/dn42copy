@@ -3,8 +3,6 @@ remarks:            DRATHIR-MNT
 members:            AS4242423759
 remarks:            KRSTN-MNT
 members:            AS4242423723
-remarks:            SKYNET-MNT (IO)
-members:            AS4242420630
 remarks:            GRMML-MNT
 members:            AS4242420123
 remarks:            LUTOMA-MNT
@@ -13,6 +11,12 @@ remarks:            XUU-MNT
 members:            AS64737
 remarks:            MUTE-MNT
 members:            AS4242422030
+remarks:            KPANIC-MNT (ICVPN-META)
+members:            AS65043
+remarks:            HARDB1T-MNT
+members:            AS4242420138
+remarks:            YAMAKAJA-MNT
+members:            AS4242421191
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT

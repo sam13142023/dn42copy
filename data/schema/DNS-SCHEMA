@@ -1,7 +1,7 @@
 schema:             DNS-SCHEMA
 ref:                dn42.domain
 key:                domain     required   single    primary schema
-key:                nserver    required   multiple  > [domain name] [ip addr]
+key:                nserver    required   multiple  > [domain-name] [ip-addr]
 key:                status     required   single    > {EVALPEND|CONNECT} [timestamp]
 key:                descr      optional   single
 key:                mnt-by     required   multiple  lookup=dn42.mntner
