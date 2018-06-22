@@ -4,7 +4,7 @@ admin-c:            ZLD-DN42
 tech-c:             ZLD-DN42
 mnt-by:             ZLD-MNT
 nserver:            ns1.zld.dn42 172.21.118.10
-nserver:            ns1.zld.dn42 fd42:0b10:1118::10 
+nserver:            ns1.zld.dn42 fd42:0b10:1118::10
 nserver:            ns2.zld.dn42 172.21.118.20
 nserver:            ns2.zld.dn42 fd42:0b10:1118::20
 status:             CONNECT
