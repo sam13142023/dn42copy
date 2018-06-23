@@ -3,4 +3,13 @@ as-name:            AS for multiplexd's network
 admin-c:            MULTI-DN42
 tech-c:             MULTI-DN42
 mnt-by:             MULTI-MNT
+remarks:            Import/export rules for all new (and recent) peerings
+mp-import:          afi any.unicast from AS-MULTI1-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-MULTI1-TRANSIT announce ANY
+remarks:            Import/export rules for old peerings at UK router
+mp-import:          afi any.unicast from AS4242420630 AS4242421819 accept ANY
+mp-import:          afi ipv4.unicast from AS64697 AS4242423640 accept ANY
+mp-export:          afi any.unicast to AS4242420630 AS4242421819 announce AS4242422499 AS64787 AS64697
+mp-export:          afi ipv4.unicast to AS64697 export ANY
+mp-export:          afi ipv4.unicast to AS4242423640 announce AS4242422499 AS64787 AS64697
 source:             DN42

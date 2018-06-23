@@ -1,7 +1,7 @@
 aut-num:            AS64717
-as-name:            FELICITUS-AS
-descr:              Felicitus
-admin-c:            FELICITUS-DN42
-tech-c:             FELICITUS-DN42
-mnt-by:             FELICITUS-MNT
+as-name:            FELICIA-AS
+descr:              Felicia
+admin-c:            FELICIA-DN42
+tech-c:             FELICIA-DN42
+mnt-by:             FELICIA-MNT
 source:             DN42

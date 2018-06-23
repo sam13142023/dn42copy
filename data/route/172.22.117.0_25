@@ -1,5 +1,5 @@
 route:              172.22.117.0/25
-descr:              Felicitus Server Net
+descr:              Felicia Server Net
 origin:             AS64717
-mnt-by:             FELICITUS-MNT
+mnt-by:             FELICIA-MNT
 source:             DN42
