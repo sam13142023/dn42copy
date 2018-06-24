@@ -1,0 +1,11 @@
+inetnum:            172.22.169.128 - 172.22.169.135
+netname:            NAPSTERBATERV4-NETWORK
+country:            US
+admin-c:            NAPSTERBATER-DN42
+tech-c:             NAPSTERBATER-DN42
+mnt-by:             NAPSTERBATER-MNT
+nserver:            ns1.napshome.net
+nserver:            ns2.napshome.net
+status:             ASSIGNED
+cidr:               172.22.169.128/29
+source:             DN42
