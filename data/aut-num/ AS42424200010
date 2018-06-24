@@ -1,0 +1,6 @@
+aut-num:            AS42424200010
+as-name:            AS for EXAMPLE Network
+admin-c:            BGP1-DN42
+tech-c:             BGP1-DN42
+mnt-by:             BGP1-MNT
+source:             DN42
