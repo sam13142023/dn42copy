@@ -1,5 +1,5 @@
-inetnum:            172.23.84.0 - 172.23.84.255
-cidr:               172.23.84.0/24
+inetnum:            172.23.84.0 - 172.23.84.32
+cidr:               172.23.84.0/27
 netname:            BGP1-NETWORK
 admin-c:            BGP1-DN42
 tech-c:             BGP1-DN42
