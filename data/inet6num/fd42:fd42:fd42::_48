@@ -1,11 +1,10 @@
-inet6num:           fd42:fd42:fd42:0000:0000:0000:0000:0000 - fd42:fd42:fd42:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:fd42:fd42::/48
-netname:            FCC-dn42
-descr:              dn42 network for MN Free Comupting Club
-country:            US
-admin-c:            GODEL-DN42
-tech-c:             GODEL-DN42
-mnt-by:             FCC-MNT
-#nserver:           ns1.?.dn42 ##we need to figure this out; we should still be abl to connect even so
-#nserver:           ns2.?.dn42
-status:             ASSIGNED
+inet6num:	fd42:fd42:fd42:0000:0000:0000:0000:0000 - fd42:fd42:fd42:ffff:ffff:ffff:ffff:ffff
+cidr:		fd42:fd42:fd42::/48
+netname:	FCC-dn42
+descr:		dn42 network for MN Free Comupting Club
+country:	US
+admin-c:	GODEL-DN42
+tech-c:		GODEL-DN42
+mnt-by:		FCC-MNT
+source:		DN42
+status:		ASSIGNED
