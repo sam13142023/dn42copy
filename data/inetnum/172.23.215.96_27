@@ -5,7 +5,6 @@ country:            DK
 admin-c:            ARENDTSEN-DN42
 tech-c:             ARENDTSEN-DN42
 mnt-by:             ARENDTSEN-MNT
-nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               172.23.215.96/27
 source:             DN42
