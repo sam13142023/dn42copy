@@ -1,0 +1,10 @@
+inetnum:            172.20.234.240 - 172.20.234.255
+cidr:               172.20.234.240/28
+netname:            A3K-NETWORK
+admin-c:            A3K-DN42
+tech-c:             A3K-DN42
+mnt-by:             A3K-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42
