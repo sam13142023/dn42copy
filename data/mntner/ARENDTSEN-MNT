@@ -2,5 +2,5 @@ mntner:             ARENDTSEN-MNT
 admin-c:            ARENDTSEN-DN42
 tech-c:             ARENDTSEN-DN42
 mnt-by:             ARENDTSEN-MNT
-auth:				pgp-fingerprint 08800B308736F093BFDB9BDAA23787814F41E3BB
+auth:               pgp-fingerprint 08800B308736F093BFDB9BDAA23787814F41E3BB
 source:             DN42
