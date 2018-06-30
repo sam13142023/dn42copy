@@ -1,4 +1,4 @@
-route6:             fd42:fd42:fd42::/48
+route6:             fd42:1a2b:de57::/48
 origin:             AS4242422454
 mnt-by:             FCC-MNT
 source:             DN42
