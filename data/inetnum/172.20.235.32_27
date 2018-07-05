@@ -7,3 +7,4 @@ mnt-by:             KR4SH-MNT
 nserver:            dummy.dn42
 status:             ASSIGNED
 country:            DE
+source:             DN42
