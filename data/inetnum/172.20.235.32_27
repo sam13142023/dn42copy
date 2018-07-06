@@ -4,7 +4,6 @@ netname:            KR4SH-NETWORK
 admin-c:            KR4SH-DN42
 tech-c:             KR4SH-DN42
 mnt-by:             KR4SH-MNT
-nserver:            dummy.dn42
 status:             ASSIGNED
 country:            DE
 source:             DN42

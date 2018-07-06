@@ -1,5 +1,6 @@
 mntner:             KR4SH-MNT
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+admin-c:            KR4SH-DN42
+tech-c:             KR4SH-DN42
 mnt-by:             KR4SH-MNT
 source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4tdsgwSt6VIaT3sP013ZVMQqbYluExjICyZr7SCww+kXvEabtk2bx42V4b4auqiHHudGbGaMm/4GfodurOpUPhGHsz3FU6IlgHGzhnnpu1yxHjmTP0CG/ivjx1XItwTY4RAck3pK4oXqwl9soabJSim/yC46yk5TKahEy2I8c1A4zQ+gPm/yusz7rcv1wzNAAvs6gGAbjPJtQZuowuRRsIYXtrdo9wHFzGwPHaMeOtZpwtLjfdzpoKcoTno+RZC12H9nVZsdZLR4ZMD8z778Y0PC7hBDxZZUXgxnbqOzwMURV7IisojpuBXRFJYbPdqhPImj0XR2tf8r207NIc+gL
