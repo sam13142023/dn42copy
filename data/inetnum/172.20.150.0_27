@@ -1,0 +1,10 @@
+inetnum:            172.20.150.0 - 172.20.150.31
+netname:            JD52RU-NET
+descr:              JD52RU-NET [TESTING]
+country:            RU
+admin-c:            JD52RU-DN42
+tech-c:             JD52RU-DN42
+mnt-by:             JD52RU-MNT
+status:             ASSIGNED
+cidr:               172.20.150.0/27
+source:             DN42
