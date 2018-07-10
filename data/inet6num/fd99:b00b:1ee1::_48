@@ -7,4 +7,3 @@ admin-c:            NORNET-DN42
 tech-c:             NORNET-DN42
 mnt-by:             NORNET-MNT
 status:             ASSIGNED
-cidr:               fd99:b00b:1ee1::/48
