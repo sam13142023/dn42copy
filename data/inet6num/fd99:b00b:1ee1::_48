@@ -1,0 +1,10 @@
+inet6num:           fd99:b00b:1ee1:0000:0000:0000:0000:0000 - fd99:b00b:1ee1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd99:b00b:1ee1::/48
+netname:            NORNET-NET
+descr:              NORNET Network allocation
+country:            UK
+admin-c:            NORNET-DN42
+tech-c:             NORNET-DN42
+mnt-by:             NORNET-MNT
+status:             ASSIGNED
+cidr:               fd99:b00b:1ee1::/48
