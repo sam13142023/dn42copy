@@ -7,3 +7,4 @@ mnt-by:             NORNET-MNT
 descr:              NORNET Legacy Allocation
 country:            UK
 status:             ASSIGNED
+source:		    dn42
