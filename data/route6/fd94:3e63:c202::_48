@@ -1,6 +1,6 @@
-route6:                    fd94:3e63:c202::/48
-origin:                    AS4242423238
-admin-c:                   NORNET-MNT
-tech-c:                    NORNET-MNT
-mnt-by:                    NORNET-MNT
-source:                    dn42
+route6:             fd94:3e63:c202::/48
+origin:             AS4242423238
+admin-c:            NORNET-MNT
+tech-c:             NORNET-MNT
+mnt-by:             NORNET-MNT
+source:             dn42
