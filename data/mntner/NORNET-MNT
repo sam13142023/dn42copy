@@ -1,5 +1,4 @@
 mntner:             NORNET-MNT
-admin-c:            NORNET-dn42
-tech-c:             NORNET-dn42
-mnt-by:             NORNET-dn42
-source:             dn42
+admin-c:            NORNET-DN42
+tech-c:             NORNET-DN42
+mnt-by:             NORNET-MNT
