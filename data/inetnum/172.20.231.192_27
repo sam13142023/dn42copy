@@ -7,6 +7,6 @@ country:            AU
 admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               172.20.231.192/27
 source:             DN42

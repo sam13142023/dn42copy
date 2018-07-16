@@ -8,6 +8,6 @@ country:            US
 admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               172.20.129.64/26
 source:             DN42
