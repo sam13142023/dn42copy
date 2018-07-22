@@ -1,0 +1,11 @@
+inet6num:           fd88:0000:0000:0000:0000:0000:0000:0000 - fd88:0000:0000:ffff:ffff:ffff:ffff:ffff
+netname:            IMLONGHAO-NETWORK
+descr:              imlonghao IPv6 Network
+country:            CN
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+nserver:            ns.imlonghao.dn42
+status:             ASSIGNED
+cidr:               fd88::/48
+source:             DN42
