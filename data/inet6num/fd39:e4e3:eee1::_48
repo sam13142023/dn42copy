@@ -1,9 +1,0 @@
-inet6num:           fd39:e4e3:eee1:0000:0000:0000:0000:0000 - fd39:e4e3:eee1:ffff:ffff:ffff:ffff:ffff
-cidr:               fd39:e4e3:eee1::/48
-netname:            ICVPN-MUERITZ
-bgp-status:         ignore
-nserver:            1.1.169.10.icvpn.registry-sync.dn42
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: mueritz
-mnt-by:             DN42-MNT
-source:             ICVPN
