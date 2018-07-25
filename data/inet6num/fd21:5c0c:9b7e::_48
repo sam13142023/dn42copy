@@ -1,11 +1,11 @@
-inetnum:            172.22.68.0 - 172.22.68.31
+inet6num:           fd21:5c0c:9b7e:0000:0000:0000:0000:0000 - fd21:5c0c:9b7e:ffff:ffff:ffff:ffff:ffff
 netname:            IMLONGHAO-NETWORK
-descr:              imlonghao IPv4 Network
+descr:              imlonghao IPv6 Network
 country:            CN
 admin-c:            IMLONGHAO-DN42
 tech-c:             IMLONGHAO-DN42
 mnt-by:             IMLONGHAO-MNT
 nserver:            ns.imlonghao.dn42
 status:             ASSIGNED
-cidr:               172.22.68.0/27
+cidr:               fd21:5c0c:9b7e::/48
 source:             DN42
