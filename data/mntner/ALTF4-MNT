@@ -4,3 +4,4 @@ admin-c:            ALTF4-DN42
 tech-c:             ALTF4-DN42
 mnt-by:             ALTF4-MNT
 source:             DN42
+auth:		    pgp-fingerprint D1F9703170F89FC82CBEAB8835DA195DF1821554
