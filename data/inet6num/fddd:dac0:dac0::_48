@@ -1,0 +1,11 @@
+inet6num:           fddd:dac0:dac0:0000:0000:0000:0000:0000 - fddd:dac0:dac0:ffff:ffff:ffff:ffff:ffff
+netname:            DACR-NET6
+cidr:               fddd:dac0:dac0::/48
+descr:              Dacr IPv6
+country:            HU
+admin-c:            DACR-DN42
+tech-c:             DACR-DN42
+mnt-by:             DACR-MNT
+status:             ASSIGNED
+org:                ORG-DACR
+source:             DN42

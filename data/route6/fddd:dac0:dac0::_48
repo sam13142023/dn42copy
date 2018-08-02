@@ -1,0 +1,4 @@
+route6:            fddd:dac0:dac0::/48
+origin:            AS4242420560
+mnt-by:            DACR-MNT
+source:            DN42
