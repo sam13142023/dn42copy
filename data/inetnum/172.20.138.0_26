@@ -1,0 +1,12 @@
+inetnum:            172.20.138.0 - 172.20.138.63
+cidr:               172.20.138.0/26
+netname:            NAIVE-NETWORK
+descr:              Naive Network
+country:            US
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+nserver:            ns1.naive.network
+nserver:            ns2.naive.network
+status:             ASSIGNED
+source:             DN42

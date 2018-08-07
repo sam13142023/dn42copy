@@ -1,0 +1,7 @@
+mntner:             ZHAOFENG-MNT
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+auth:               pgp-fingerprint 7F55777C745EA2082DCA2F5D5040FCD63E1C6262
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn2OF70ZGp3l+kQ6xxea3syi+mCR4lPiH3zJFiUQRv8xdk4qfI/0WwSeGH/BbiQv70MZ/kXSJyYn2JMdFWUcUcjWIiz7y6mw4jkOn9XXzyxGpwj4OLAqwHS/JjJFx8GoKbOLWg0AG0532l60acuNwstrF/DL0FfTf/Ad36s3SVB7LpN0xKGqhYe8E27jPQm27r6MK48KDMx9s0NNIaMIXnI55mK2XkE1RPMoZrcn66kKVtmwtCwy2xeznhVtADbFU+M5x6Txvm12Gwc13I63xu+rmSSLBT64npfCL7uZ0SX7ausoNsA4XTCxxrMFpfq1rwbfARIkgUCzyq3dy6gjkb
+source:             DN42
