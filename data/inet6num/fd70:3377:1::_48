@@ -1,0 +1,9 @@
+inet6num:           fd70:3377:0001:0000:0000:0000:0000:0000 - fd70:3377:0001:ffff:ffff:ffff:ffff:ffff
+country:            JP
+netname:            XXSLDN-LAB-2
+admin-c:            XXSL-DN42
+tech-c:             XXSL-DN42
+mnt-by:             XXSLDN-MNT
+status:             ASSIGNED
+cidr:               fd70:3377:1::/48
+source:             DN42
