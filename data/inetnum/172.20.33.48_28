@@ -1,4 +1,4 @@
-inetnum:            172.20.33.48-172.20.33.63
+inetnum:            172.20.33.48 - 172.20.33.63
 cidr:               172.20.33.48/28
 netname:            CLOUDFILES
 admin-c:            CLOUDFILES-DN42
