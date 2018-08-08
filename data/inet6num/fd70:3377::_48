@@ -6,4 +6,5 @@ tech-c:             XXSL-DN42
 mnt-by:             XXSLDN-MNT
 status:             ASSIGNED
 cidr:               fd70:3377::/48
+nserver:            ns.xxsl.dn42
 source:             DN42
