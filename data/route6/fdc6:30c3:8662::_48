@@ -1,4 +1,4 @@
-route6:             fd70:3377:1::/48
+route6:             fdc6:30c3:8662::/48
 origin:             AS4242423377
 mnt-by:             XXSLDN-MNT
 source:             DN42
