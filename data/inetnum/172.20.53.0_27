@@ -6,5 +6,5 @@ country:            DE
 admin-c:            JAN-DN42
 tech-c:             JAN-DN42
 mnt-by:             JAN-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 source:             DN42
