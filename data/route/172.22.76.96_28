@@ -1,0 +1,5 @@
+route:              172.22.76.96/28
+descr:              Peer with me at b980120@hotmail.com
+origin:             AS4242422547
+mnt-by:             LANTIAN-MNT
+source:             DN42

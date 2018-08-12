@@ -1,0 +1,13 @@
+inetnum:            172.22.76.96 - 172.22.76.111
+netname:            LANTIAN-IPV4
+remarks:            Peer with me at b980120@hotmail.com
+descr:              Peer with me at b980120@hotmail.com
+country:            CN
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+nserver:            ns1.lantian.dn42
+nserver:            ns2.lantian.dn42
+status:             ASSIGNED
+cidr:               172.22.76.96/28
+source:             DN42
