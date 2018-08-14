@@ -6,7 +6,6 @@ country:            US
 admin-c:            ZHAOFENG-DN42
 tech-c:             ZHAOFENG-DN42
 mnt-by:             ZHAOFENG-MNT
-nserver:            ns1.naive.network
-nserver:            ns2.naive.network
+nserver:            ns1.zhaofeng.dn42
 status:             ASSIGNED
 source:             DN42
