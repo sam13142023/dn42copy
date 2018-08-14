@@ -1,0 +1,7 @@
+aut-num:            AS4242422609
+as-name:            WORX-AS
+descr:              WORX Network range
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+source:             DN42
