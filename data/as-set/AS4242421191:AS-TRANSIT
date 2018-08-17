@@ -15,6 +15,16 @@ remarks:            WEITI-MNT
 members:            AS4242423905
 remarks:            JRB0001-MNT
 members:            AS4242420119
+remarks:            DTNET-MNT
+members:            AS4242421707
+remarks:            PF-MNT
+members:            AS4242423454
+remarks:            SQUAREFLOW-MNT
+members:            AS64647
+remarks:            NOP-MNT
+members:            AS4242421955
+remarks:            ADNIDOR-MNT
+members:            AS4242423677
 admin-c:            YAMAKAJA-DN42
 tech-c:             YAMAKAJA-DN42
 mnt-by:             YAMAKAJA-MNT

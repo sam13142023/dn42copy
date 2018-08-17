@@ -1,0 +1,7 @@
+aut-num:            AS4242422601
+as-name:            BURBLE-AS
+descr:              Burble AS
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+source:             DN42
