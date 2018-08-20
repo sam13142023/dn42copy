@@ -1,7 +1,7 @@
 aut-num:            AS4242422911
 as-name:            JUNJUN-AS
 descr:              JUNJUN NET
-admin-c:            JUN-DN42
-tech-c:             JUN-DN42
-mnt-by:             JUN-MNT
+admin-c:            JUNJUN-DN42
+tech-c:             JUNJUN-DN42
+mnt-by:             JUNJUn-MNT
 source:             DN42
