@@ -2,7 +2,7 @@ inet6num:           fd64:8964:8964:0000:0000:0000:0000:0000 - fd64:8964:8964:fff
 admin-c:            JUNJUN-DN42
 tech-c:             JUNJUN-DN42
 mnt-by:             JUNJUN-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               fd64:8964:8964::/48
 netname:            JUNJUN net
 source:             DN42
