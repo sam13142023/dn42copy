@@ -1,5 +1,0 @@
-route:              172.22.200.0/21
-descr:              Internal usage
-origin:             AS64794
-mnt-by:             MORTZU-MNT
-source:             DN42
