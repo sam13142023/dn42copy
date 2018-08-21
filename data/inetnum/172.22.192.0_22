@@ -1,4 +1,4 @@
-inetnum:            172.22.192.0 - 172.22.195.254
+inetnum:            172.22.192.0 - 172.22.195.255
 netname:            MORTZU-DN42-NET4
 descr:              mortzu IPv4 dn42 address space
 country:            DE
