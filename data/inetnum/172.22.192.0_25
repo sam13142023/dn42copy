@@ -1,0 +1,16 @@
+inetnum:            172.22.192.0 - 172.22.192.127
+netname:            MORTZU-DN42-DC-NET4
+descr:              mortzu IPv4 dn42 address space in datacenter
+country:            DE
+admin-c:            MORTZU-DN42
+tech-c:             MORTZU-DN42
+status:             ASSIGNED
+mnt-by:             MORTZU-MNT
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++
+remarks:            | In case of peering requests send mail to |
+remarks:            | dn42-peering@mortzu.de                   |
+remarks:            | In case of abuse or probleme send to     |
+remarks:            | dn42-problems@mortzu.de                  |
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++
+cidr:               172.22.192.0/25
+source:             DN42
