@@ -1,7 +1,7 @@
-inetnum:            172.20.6.104 - 172.20.6.111
-cidr:               172.20.6.104/29
-netname:            ZHAOFENG-TEST-NETWORK
-descr:              Zhaofeng's Test Net
+inetnum:            172.20.149.144 - 172.20.149.159
+cidr:               172.20.149.144/28
+netname:            ZHAOFENG-GUEST-NETWORK
+descr:              Zhaofeng Guest Net
 country:            US
 admin-c:            ZHAOFENG-DN42
 tech-c:             ZHAOFENG-DN42
