@@ -1,5 +1,5 @@
-route:              172.20.56.0/25
-descr:              ATR's IPv4 Block
+route6:             fd18:18d9:adde::/58
+descr:              ATR Home Routing Network
 origin:             AS4242421233
 mnt-by:             ATR-MNT
 source:             DN42
