@@ -1,5 +1,0 @@
-route6:             fd42:2950::/32
-descr:              SIS-DN42 aggregated
-origin:             AS4242422950
-mnt-by:             SIS-MNT
-source:             DN42
