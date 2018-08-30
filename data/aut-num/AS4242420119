@@ -15,15 +15,15 @@ remarks:            - Issues in the peer AS can result in the peering being disa
 remarks:            Please contact the admin-c for peering requests and the tech-c for technical issues.
 remarks:            
 remarks:            Well-known communities:
-remarks:            RFC1997, RFC3765, RFC7999 and RFC8356 are implemented as described in the RFC. Routes with the BLACKHOLE community are redistributed to peers only if they implement the RFC7999 as well.
+remarks:            RFC1997, RFC3765, RFC7999 and RFC8326 are implemented as described in the RFC. Routes with the BLACKHOLE community are redistributed to peers only if they implement the RFC7999 as well.
 remarks:            Custom communities for traffic engineering:
 remarks:            - (4242420119, 0, p)       Do not announce to ASp.
 remarks:            - (4242420119, 1..16, p)   Prepend x times before announcing to ASp.
 remarks:            Custom communities for debugging assistance:
-remarks:            - (4242420119, 1000, n)    Route entered AS on node n.
-remarks:            - (4242420119, 2000, n)    Route left AS on node n.
-remarks:            Other attributes:
-remarks:            - The MED is currently set to the estimated latency of the inbound peering, internal links and the outbound peering plus 1000 * path length. This might change in the future.
+remarks:            - (4242420119, 1000, n)    Route entered AS4242420119 on node n.
+remarks:            - (4242420119, 2000, n)    Route left AS4242420119 on node n.
+remarks:            
+remarks:            Please note that the registry data has to be up to date or your routes will fail the checks. Only strict ROA and basic path validation is performed at the moment but full path validation is planned for the future.
 remarks:            
 mp-import:          afi any.unicast from AS4242420119:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS4242420119:AS-TRANSIT announce ANY
