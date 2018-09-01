@@ -4,4 +4,6 @@ descr:              Burble AS
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
 mnt-by:             BURBLE-MNT
+mp-import:          afi any.unicast from AS4242422601:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422601:AS-TRANSIT announce ANY
 source:             DN42
