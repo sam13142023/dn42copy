@@ -1,4 +1,4 @@
-inet6num:           fd42:0042:0043:0000:0000:0000:0000:0000 - fd42:0042:0043:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd5b:dc38:47f5:0000:0000:0000:0000:0000 - fd5b:dc38:47f5:ffff:ffff:ffff:ffff:ffff
 netname:            JUMBLE-NET6
 descr:              JUMBLE-DN42 ipv6
 country:            AU
@@ -6,5 +6,5 @@ admin-c:            JUMBLE-DN42
 tech-c:             JUMBLE-DN42
 mnt-by:             JUMBLE-MNT
 status:             ASSIGNED
-cidr:               fd42:42:43::/48
+cidr:               fd5b:dc38:47f5::/48
 source:             DN42
