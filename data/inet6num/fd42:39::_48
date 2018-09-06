@@ -1,0 +1,8 @@
+inet6num:           fd42:0039:0000:0000:0000:0000:0000:0000 - fd42:0039:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:39::/48
+netname:            SARU-MOE
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MOE-MNT
+status:             ASSIGNED
+source:             DN42
