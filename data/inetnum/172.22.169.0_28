@@ -1,0 +1,8 @@
+inetnum:            172.22.169.0 - 172.22.169.15
+cidr:               172.22.169.0/28
+netname:            AGS-NETWORK
+admin-c:            AGS-DN42
+tech-c:             AGS-DN42
+mnt-by:             AGS-MNT
+status:             ASSIGNED
+source:             DN42
