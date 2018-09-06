@@ -1,4 +1,5 @@
 mntner:             SARU-MOE-MNT
+auth:               pgp-fingerprint AF3165DE7ABAD04F9250756E9147806CAF74BA71
 admin-c:            DANNYAAM-DN42
 tech-c:             DANNYAAM-DN42
 mnt-by:             SARU-MOE-MNT
