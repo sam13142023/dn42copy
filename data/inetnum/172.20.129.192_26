@@ -1,0 +1,10 @@
+inetnum:            172.20.129.192 - 172.20.129.255
+cidr:               172.20.129.192/26
+netname:            TW-NETWORK
+admin-c:            TW-DN42
+tech-c:             TW-DN42
+mnt-by:             TW-MNT
+nserver:            ns1.twnet.dn42
+nserver:            ns2.twnet.dn42
+status:             ASSIGNED
+source:             DN42
