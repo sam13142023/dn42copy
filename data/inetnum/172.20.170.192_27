@@ -1,5 +1,5 @@
-inetnum:            172.20.170.192 - 172.20.170.207
-cidr:               172.20.170.192/28
+inetnum:            172.20.170.192 - 172.20.170.223
+cidr:               172.20.170.192/27
 netname:            NET-HESSNET-00
 country:            DK
 admin-c:            GRAFFEN-DN42
