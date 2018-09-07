@@ -1,0 +1,4 @@
+route:              172.20.159.160/27
+origin:             AS76199
+mnt-by:             MIKI-MNT
+source:             DN42

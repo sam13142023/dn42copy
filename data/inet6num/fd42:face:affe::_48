@@ -1,0 +1,9 @@
+inet6num:           fd42:face:affe:0000:0000:0000:0000:0000 - fd42:face:affe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:face:affe::/48
+netname:            MIKI-NETWORK
+country:            DE
+admin-c:            MIKI-DN42
+tech-c:             MIKI-DN42
+mnt-by:             MIKI-MNT
+status:             ASSIGNED
+source:             DN42

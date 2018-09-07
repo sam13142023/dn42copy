@@ -1,0 +1,4 @@
+route6:             fd42:face:affe::/48
+origin:             AS76199
+mnt-by:             MIKI-MNT
+source:             DN42
