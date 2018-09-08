@@ -6,8 +6,6 @@ country:            TW
 admin-c:            GK-DN42
 tech-c:             GK-DN42
 mnt-by:             TW-MNT
-nserver:            ns1.twnet.dn42
-nserver:            ns2.twnet.dn42
 status:             ASSIGNED
 source:             DN42
 
