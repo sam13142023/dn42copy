@@ -1,4 +1,4 @@
-route6:             fdbf:b130:d82f::/48
+route:              172.21.188.32/27
 descr:              YAIX
 origin:             AS0
 mnt-by:             IMLONGHAO-MNT

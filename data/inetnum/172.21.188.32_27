@@ -1,6 +1,6 @@
-inetnum:            172.21.188.0 - 172.21.188.31
-cidr:               172.21.188.0/27
-netname:            YAIX-LAX
+inetnum:            172.21.188.32 - 172.21.188.63
+cidr:               172.21.188.32/27
+netname:            YAIX-AMS
 descr:              Yet Another Internet Exchange
 country:            US
 admin-c:            IMLONGHAO-DN42
