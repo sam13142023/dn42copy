@@ -2,7 +2,7 @@ inetnum:            172.21.188.32 - 172.21.188.63
 cidr:               172.21.188.32/27
 netname:            YAIX-AMS
 descr:              Yet Another Internet Exchange
-country:            US
+country:            NL
 admin-c:            IMLONGHAO-DN42
 tech-c:             IMLONGHAO-DN42
 mnt-by:             IMLONGHAO-MNT
