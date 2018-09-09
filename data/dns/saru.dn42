@@ -1,0 +1,11 @@
+domain:             saru.dn42
+descr:              DannyAAM's DN42 domain
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MOE-MNT
+nserver:            ns1.saru.dn42 172.20.239.193
+nserver:            ns1.saru.dn42 fd39:1c:2c1b:3939::3901
+nserver:            ns2.saru.dn42 172.20.239.194
+nserver:            ns2.saru.dn42 fd39:1c:2c1b:3939::3902
+status:             EVALPEND 1536317993
+source:             DN42
