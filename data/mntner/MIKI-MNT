@@ -1,4 +1,5 @@
 mntner:             MIKI-MNT
+auth:		    pgp fingerprint0EE13C4AE080536471C2989C60B6A9F6F745631E
 admin-c:            MIKI-DN42
 tech-c:             MIKI-DN42
 mnt-by:             MIKI-MNT
