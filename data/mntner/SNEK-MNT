@@ -1,0 +1,6 @@
+mntner:             SNEK-MNT
+admin-c:            SNEK-DN42
+tech-c:             SNEK-DN42
+mnt-by:             SNEK-MNT
+auth:               pgp-fingerprint 24E8BBD2DA10B312CF164CA258CCE2A24E2D41DC
+source:             DN42
