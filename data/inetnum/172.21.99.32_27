@@ -1,5 +1,5 @@
-inetnum:            172.21.188.32 - 172.21.188.63
-cidr:               172.21.188.32/27
+inetnum:            172.21.99.32 - 172.21.99.63
+cidr:               172.21.99.32/27
 netname:            YAIX-AMS
 descr:              Yet Another Internet Exchange
 country:            NL
