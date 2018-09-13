@@ -3,9 +3,15 @@ descr:              DannyAAM's DN42 domain
 admin-c:            DANNYAAM-DN42
 tech-c:             DANNYAAM-DN42
 mnt-by:             SARU-MOE-MNT
-nserver:            ns1.saru.dn42 172.20.239.193
-nserver:            ns1.saru.dn42 fd39:1c:2c1b:3939::3901
-nserver:            ns2.saru.dn42 172.20.239.194
-nserver:            ns2.saru.dn42 fd39:1c:2c1b:3939::3902
+nserver:            lb.ns.saru.dn42 172.20.239.193
+nserver:            lb.ns.saru.dn42 fd39:1c:2c1b:3939::3901
+nserver:            saru.ns.saru.dn42 172.20.239.198
+nserver:            saru.ns.saru.dn42 fd39:1c:2c1b:a001::3901
+nserver:            hebi.ns.saru.dn42 172.20.239.199
+nserver:            hebi.ns.saru.dn42 fd39:1c:2c1b:a000::3901
+nserver:            umidanuki.ns.saru.dn42 172.20.239.210
+nserver:            umidanuki.ns.saru.dn42 fd39:1c:2c1b:b000::3901
+nserver:            hitsuji.ns.saru.dn42 172.20.239.220
+nserver:            hitsuji.ns.saru.dn42 fd39:1c:2c1b:c000::3901
 status:             EVALPEND 1536317993
 source:             DN42
