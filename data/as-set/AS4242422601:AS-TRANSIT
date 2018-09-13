@@ -1,0 +1,13 @@
+as-set:             AS4242422601:AS-TRANSIT
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+remarks:            GXA-MNT
+members:            AS4242423602
+remarks:            LUTOMA-MNT
+members:            AS64719
+remarks:            WORX-MNT
+members:            AS4242422609
+remarks:            GOTROOT-MNT
+members:            AS4242422700
+source:             DN42

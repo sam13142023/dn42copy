@@ -5,7 +5,6 @@ admin-c:            CR-DN42
 tech-c:             CR-DN42
 mnt-by:             SIS-MNT
 org:                ORG-SIS
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fd42:2950::/32
-nserver:            ns.sis.dn42
 source:             DN42

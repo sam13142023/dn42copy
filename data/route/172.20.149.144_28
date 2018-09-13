@@ -1,0 +1,4 @@
+route:              172.20.149.144/28
+origin:             AS4242421926
+mnt-by:             ZHAOFENG-MNT
+source:             DN42
