@@ -1,0 +1,9 @@
+domain:             ags131.dn42
+nserver:            ns1.ags131.dn42 172.22.169.1
+nserver:            ns1.ags131.dn42 fd42:465:1337::1
+admin-c:            AGS-DN42
+tech-c:             AGS-DN42
+status:             CONNECT
+mnt-by:             AGS-MNT
+mnt-by:             AGS-MNT
+source:             DN42
