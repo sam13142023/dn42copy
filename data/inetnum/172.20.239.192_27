@@ -4,7 +4,10 @@ netname:            SARU-MOE
 admin-c:            DANNYAAM-DN42
 tech-c:             DANNYAAM-DN42
 mnt-by:             SARU-MOE-MNT
-nserver:            ns1.saru.dn42
-nserver:            ns2.saru.dn42
+nserver:            lb.ns.saru.dn42
+nserver:            saru.ns.saru.dn42
+nserver:            hebi.ns.saru.dn42
+nserver:            umidanuki.ns.saru.dn42
+nserver:            hitsuji.ns.saru.dn42
 status:             ASSIGNED
 source:             DN42
