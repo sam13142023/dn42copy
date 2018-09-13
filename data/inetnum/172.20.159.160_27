@@ -4,7 +4,7 @@ netname:            MIKI-NETWORK
 admin-c:            MIKI-DN42
 tech-c:             MIKI-DN42
 mnt-by:             MIKI-MNT
-nserver:            a.ns.xtremesys.de
-nserver:            b.ns.xtremesys.de
+nserver:            ns1.miki.dn42
+nserver:            ns2.miki.dn42
 status:             ASSIGNED
 source:             DN42
