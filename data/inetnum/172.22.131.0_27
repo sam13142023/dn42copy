@@ -5,7 +5,6 @@ country:            NO
 admin-c:            EKMAN-DN42
 tech-c:             EKMAN-DN42
 mnt-by:             EKMAN-MNT
-nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 cidr:               172.22.131.0/27
 source:             DN42

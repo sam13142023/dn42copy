@@ -5,8 +5,6 @@ country:            CA
 admin-c:            JUNIPERRC-DN42
 tech-c:             JUNIPERRC-DN42
 mnt-by:             RACHA2000-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               172.20.191.0/26
 source:             DN42
