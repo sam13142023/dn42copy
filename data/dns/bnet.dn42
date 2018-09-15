@@ -6,4 +6,3 @@ nserver:            ns1.bnet.dn42 172.20.18.224
 nserver:            ns1.bnet.dn42 fdbb:baba:2468::1
 status:             CONNECT
 source:             DN42
-
