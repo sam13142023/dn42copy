@@ -1,5 +1,5 @@
-inetnum:            172.22.118.64 - 172.22.118.79
-cidr:               172.22.118.64/28
+inetnum:            172.20.47.128 - 172.20.47.143
+cidr:               172.20.47.128/28
 netname:            WHMCR - Home network
 admin-c:            WHMCR-DN42
 tech-c:             WHMCR-DN42
