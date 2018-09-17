@@ -1,0 +1,7 @@
+aut-num:            AS4242428300 
+as-name:            VLNET1-AS
+descr:              Void Labs AS 1
+admin-c:            DEVNULL-DN42
+tech-c:             DEVNULL-DN42
+mnt-by:             VOIDLABS-MNT
+source:             DN42
