@@ -1,0 +1,11 @@
+inetnum:            172.21.79.64 - 172.21.79.79
+cidr:               172.21.79.64/28
+netname:            RMNTN-NET-IPV4-ACCESS
+descr:              Remonton Network IPv4 Access Block
+org:                ORG-RMNTN
+admin-c:            RACOMAIZER-DN42
+tech-c:             RACOMAIZER-DN42
+mnt-by:             RMNTN-MNT
+nserver:            ns.as1873.dn42
+status:             ASSIGNED
+source:             DN42

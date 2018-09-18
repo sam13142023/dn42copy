@@ -1,0 +1,11 @@
+inet6num:           fdfd:d0b7:5feb:0000:0000:0000:0000:0000 - fdfd:d0b7:5feb:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:d0b7:5feb::/48
+netname:            RMNTN-NET-IPV6
+descr:              Remonton Network IPv6 block
+org:                ORG-RMNTN
+admin-c:            RACOMAIZER-DN42
+tech-c:             RACOMAIZER-DN42
+mnt-by:             RMNTN-MNT
+nserver:            ns.as1873.dn42
+status:             ASSIGNED
+source:             DN42
