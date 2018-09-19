@@ -10,6 +10,6 @@ remarks:            ==== for ix.aperture-laboratories.science ====
 remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINPbZy3gFsNgCyWe6Wnz9HYQ1xoyLJp3XnfESXVS2rfa
 remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICNaHbIGNuxCIE1Ze/FN8aV1Ncn8jtzu9xldNcieEyG8
 remarks:            ==== endfor ===
-auth:	            pgp-fingerprint F2999657195657205828D56F35F9E5CDBD86324B
+auth:               pgp-fingerprint F2999657195657205828D56F35F9E5CDBD86324B
 auth:               pgp-fingerprint 360A1D106DABC50FBF437CCDB65AEB6F8011A995
 source:             DN42
