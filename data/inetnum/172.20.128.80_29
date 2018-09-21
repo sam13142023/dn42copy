@@ -1,7 +1,7 @@
 inetnum:            172.20.128.80 - 172.20.128.87
 netname:            NETRAVNEN-NETWORK-VIRTUAL-LAB
-admin-c:            NETRAVNEN-DN42
-tech-c:             NETRAVNEN-DN42
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               172.20.128.80/29

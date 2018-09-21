@@ -1,6 +1,6 @@
 mntner:             NETRAVNEN-MNT
-admin-c:            NETRAVNEN-DN42
-tech-c:             NETRAVNEN-DN42
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 auth:               pgp-fingerprint C8B382A8A1CDCDB771FEB24CC654948FDA86BECD
 source:             DN42
