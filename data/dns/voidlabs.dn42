@@ -4,5 +4,5 @@ nserver:            ns2.voidlabs.dn42 172.23.116.51
 admin-c:            DEVNULL-DN42
 tech-c:             DEVNULL-DN42
 mnt-by:             VOIDLABS-MNT
-status:             
+status:             CONNECT
 source:             DN42
