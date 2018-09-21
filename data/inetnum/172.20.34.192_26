@@ -1,4 +1,4 @@
-inetnum:            172.20.34.192 - 172.23.116.255
+inetnum:            172.20.34.192 - 172.20.34.255
 cidr:               172.20.34.192/26
 netname:            VOIDLABS-NET2
 country:            ES
