@@ -5,7 +5,6 @@ country:            DE
 admin-c:            TUDAISPLABCLASSIC-DN42
 tech-c:             TUDAISPLABCLASSIC-DN42
 mnt-by:             TUDA-ISPLAB-CLASSIC-MNT
-nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 cidr:               fd42:da:1ab::/48
 source:             DN42
