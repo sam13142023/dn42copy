@@ -4,8 +4,6 @@ country:            CN
 admin-c:            RENDA-DN42
 tech-c:             RENDA-DN42
 mnt-by:             RN-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               fd41:3dc2:f135::/48
 source:             DN42

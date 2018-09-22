@@ -4,7 +4,5 @@ netname:            TECHNOPOINT CORE NETWORK POOL FOR DN42
 admin-c:            KM17-DN42
 tech-c:             KM17-DN42
 mnt-by:             TECHNOPOINT-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 source:             DN42

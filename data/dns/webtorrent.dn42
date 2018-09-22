@@ -1,9 +1,0 @@
-domain:             webtorrent.dn42
-descr:              Deluge webtorrent 500GB Disk / 100 GB daily traffic limit
-admin-c:            MIC92-DN42
-tech-c:             MIC92-DN42
-mnt-by:             MIC92-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
-status:             EVALPEND 1503745132
-source:             DN42

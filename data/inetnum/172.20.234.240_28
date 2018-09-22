@@ -4,7 +4,5 @@ netname:            A3K-NETWORK
 admin-c:            A3K-DN42
 tech-c:             A3K-DN42
 mnt-by:             A3K-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 source:             DN42

@@ -4,7 +4,5 @@ netname:            Optic Network
 admin-c:            OPTIC-DN42
 tech-c:             OPTIC-DN42
 mnt-by:             OPTIC-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 source:             DN42

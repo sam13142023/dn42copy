@@ -4,8 +4,6 @@ country:            UA
 admin-c:            ABB-DN42
 tech-c:             ABB-DN42
 mnt-by:             ABBON-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               172.22.98.0/28
 source:             DN42

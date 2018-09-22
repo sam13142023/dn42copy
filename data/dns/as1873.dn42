@@ -1,0 +1,10 @@
+domain:             as1873.dn42
+descr:              Remonton Network AS domain
+org:                ORG-RMNTN
+admin-c:            RACOMAIZER-DN42
+tech-c:             RACOMAIZER-DN42
+mnt-by:             RMNTN-MNT
+nserver:            ns.as1873.dn42 172.22.181.2
+nserver:            ns.as1873.dn42 fdfd:d0b7:5feb:c07e:0778:0000:0000:0002
+status:             EVALPEND 1537036569
+source:             DN42

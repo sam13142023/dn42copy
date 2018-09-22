@@ -5,7 +5,6 @@ country:            CN
 admin-c:            LAIN-DN42
 tech-c:             LAIN-DN42
 mnt-by:             LAIN-MNT
-nserver:            ns1.evenet.dn42
 status:             ASSIGNED
 bgp-status:         ignore
 cidr:               172.20.240.192/26
