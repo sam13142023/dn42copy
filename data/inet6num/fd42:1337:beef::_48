@@ -1,5 +1,5 @@
 inet6num:           fd42:1337:beef:0000:0000:0000:0000:0000 - fd42:1337:beef:ffff:ffff:ffff:ffff:ffff
-netname:            COSMIC-NETWORK
+netname:            COSNET-NETWORKS
 descr:              Cosmic's ipv6 network
 country:            DE
 admin-c:            COSMIC-DN42
