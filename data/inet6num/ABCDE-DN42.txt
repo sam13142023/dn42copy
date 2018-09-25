@@ -1,0 +1,5 @@
+person:             Abcde
+contact:            yangybcy@hotmail.com
+nic-hdl:            ABCDE-DN42
+mnt-by:             ABCDE-MNT
+source:             DN42
