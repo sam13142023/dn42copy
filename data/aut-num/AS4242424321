@@ -1,4 +1,5 @@
-mntner:             ABCDE-MNT
+aut-num:            AS4242424321
+as-name:            AS for ABCDE Network
 admin-c:            ABCDE-DN42
 tech-c:             ABCDE-DN42
 mnt-by:             ABCDE-MNT
