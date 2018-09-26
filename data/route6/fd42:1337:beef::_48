@@ -1,5 +1,0 @@
-route6:             fd42:1337:beef::/48
-descr:              Cosmic's IPv6 route
-origin:             AS4242420125
-mnt-by:             COSMIC-MNT
-source:             DN42
