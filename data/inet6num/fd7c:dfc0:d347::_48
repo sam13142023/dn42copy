@@ -1,5 +1,5 @@
-inet6num:           fd42:9527:9527:0000:0000:0000:0000:0000 - fd42:9527:9527:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:9527:9527::/48
+inet6num:           fd7c:dfc0:d347:0000:0000:0000:0000:0000 - fd7c:dfc0:d347:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7c:dfc0:d347::/48
 netname:            TIGER-NETWORK
 descr:              Network of Tiger
 country:            TW
