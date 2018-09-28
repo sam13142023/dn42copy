@@ -1,5 +1,5 @@
-inetnum:            172.20.238.64 - 172.20.238.127
-cidr:               172.20.238.64/26
+inetnum:            172.23.150.0 - 172.20.238.63
+cidr:               172.23.150.0/26
 netname:            ABCDE-NETWORK
 admin-c:            ABCDE-DN42
 tech-c:             ABCDE-DN42
