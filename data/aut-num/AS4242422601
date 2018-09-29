@@ -5,7 +5,8 @@ remarks:            --------------------------------------------------------
 remarks:            New peers welcome; check the dn42 peerfinder to find
 remarks:            your nearest node then contact dn42@burble.com
 remarks:            --------------------------------------------------------
-remarks:            https://dn42.burble.com/ 
+remarks:            https://dn42.burble.com/  (peering details)
+remarks:            https://lg.burble.com/    (looking glass)
 remarks:            --------------------------------------------------------
 remarks:            Routing Policies:
 mp-import:          afi any.unicast from AS4242422601:AS-TRANSIT accept ANY
