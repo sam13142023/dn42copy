@@ -1,5 +1,5 @@
-inetnum:            172.22.222.16 - 172.22.222.31
-cidr:               172.22.222.16/28
+inetnum:            172.20.6.128 - 172.20.6.143
+cidr:               172.20.6.128/28
 netname:            MENTHA-NET4
 admin-c:            MENTHA-DN42
 tech-c:             MENTHA-DN42
