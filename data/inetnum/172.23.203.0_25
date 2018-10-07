@@ -1,0 +1,10 @@
+inetnum:            172.23.203.0 - 172.23.203.128
+cidr:               172.23.203.0/25
+netname:            MONARCH-NETWORK
+admin-c:            THEOM-DN42
+tech-c:             THEOM-DN42
+mnt-by:             MONARCH-MNT
+nserver:            ns1.monarch.dn42
+nserver:            ns2.monarch.dn42
+status:             ASSIGNED
+source:             DN42
