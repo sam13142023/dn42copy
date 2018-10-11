@@ -6,6 +6,5 @@ country:            FR
 admin-c:            NOPE-DN42
 tech-c:             NOPE-DN42
 mnt-by:             NOPE-MNT
-nserver:            ns.nope.dn42
 status:             ASSIGNED
 source:             DN42

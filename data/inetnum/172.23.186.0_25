@@ -3,8 +3,7 @@ netname:            NOPE-DN42
 descr:              nope
 admin-c:            NOPE-DN42
 tech-c:             NOPE-DN42
-mnt-by:             NOPE-MNT
-nserver:            ns.nope.dn42			
+mnt-by:             NOPE-MNT			
 status:             ASSIGNED
 cidr:               172.23.186.0/25
 source:             DN42
