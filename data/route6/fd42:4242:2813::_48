@@ -1,0 +1,4 @@
+route6:             fd42:4242:2813::/48
+origin:             AS4242421360
+mnt-by:             NOPE-MNT
+source:             DN42
