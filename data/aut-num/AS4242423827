@@ -1,8 +1,0 @@
-aut-num:            AS4242423827
-as-name:            NULLROUTE-AS
-descr:              nullroute.eu.org (Broken Symlink) dn42 AS
-admin-c:            GRAWITY-DN42
-tech-c:             GRAWITY-DN42
-mnt-by:             NULLROUTE-MNT
-remarks:            Superseded by AS206633.
-source:             DN42
