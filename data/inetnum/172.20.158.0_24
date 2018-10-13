@@ -1,7 +1,5 @@
 inetnum:            172.20.158.0 - 172.20.158.255
 netname:            NULLROUTE-DN42
-nserver:            sky.nullroute.eu.org
-nserver:            wolke.nullroute.eu.org
 admin-c:            GRAWITY-DN42
 tech-c:             GRAWITY-DN42
 mnt-by:             NULLROUTE-MNT
