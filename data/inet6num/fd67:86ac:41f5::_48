@@ -5,7 +5,6 @@ country:            US
 admin-c:            GMACHINE-DN42
 tech-c:             GMACHINE-DN42
 mnt-by:             GMACHINE-MNT
-nserver:            ns.gmachine.dn42
 status:             ASSIGNED
 cidr:               fd67:86ac:41f5::/48
 source:             DN42
