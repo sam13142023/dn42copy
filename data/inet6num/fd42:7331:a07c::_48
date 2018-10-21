@@ -1,5 +1,5 @@
-inet6num:           fd42:7331:0000:0000:0000:0000:0000:0000 - fd42:7331:0000:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:7331::/48
+inet6num:           fd42:7331:a07c:0000:0000:0000:0000:0000 - fd42:7331:a07c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:7331:a07c::/48
 netname:            RASP-NETWORK
 descr:              Network of rasp
 country:            AU
