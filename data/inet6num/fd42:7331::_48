@@ -7,6 +7,5 @@ admin-c:            RASP-DN42
 tech-c:             RASP-DN42
 mnt-by:             RASP-MNT
 nserver:            ns1.rasp.dn42
-nserver:            ns2.rasp.dn42
 status:             ASSIGNED
 source:             DN42
