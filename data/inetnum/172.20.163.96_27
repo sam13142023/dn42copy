@@ -1,9 +1,0 @@
-inetnum:            172.20.163.96 - 172.20.163.127
-cidr:               172.20.163.96/27
-netname:            MULTI-NETWORK
-admin-c:            MULTI-DN42
-tech-c:             MULTI-DN42
-mnt-by:             MULTI-MNT
-remarks:            Network allocation for multiplexd's network
-status:             ALLOCATED PA
-source:             DN42
