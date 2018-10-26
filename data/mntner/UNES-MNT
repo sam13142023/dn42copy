@@ -1,0 +1,6 @@
+mntner:             UNES-MNT
+admin-c:            UNES-DN42
+tech-c:             UNES-DN42
+mnt-by:             UNES-MNT
+auth:               pgp-fingerprint 3D82D0D561780C4999006613CF04AF5A2932AD03
+source:             DN42
