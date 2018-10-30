@@ -6,5 +6,6 @@ country:            NO
 admin-c:            UNES-DN42
 tech-c:             UNES-DN42
 mnt-by:             UNES-MNT
+nserver:            ns1.unes.dn42
 status:             ASSIGNED
 source:             DN42
