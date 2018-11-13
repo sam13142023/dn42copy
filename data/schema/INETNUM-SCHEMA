@@ -8,7 +8,7 @@ key:                country     optional  multiple
 key:                descr       optional  single
 key:                status      optional  single    > {ALLOCATED|ASSIGNED} {PI|PA|}
 key:                bgp-status  optional  single    > 'ignore'
-key:                policy      optional  single    > {open|closed|ask|reserved} min=int max=int all-min=int all-max=int
+key:                policy      optional  single    > {open|closed|ask|reserved}
 key:                admin-c     optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
 key:                zone-c      optional  multiple  lookup=dn42.person,dn42.role
