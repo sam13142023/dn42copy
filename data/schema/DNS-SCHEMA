@@ -8,6 +8,7 @@ key:                admin-c    optional   multiple  lookup=dn42.person,dn42.role
 key:                tech-c     optional   multiple  lookup=dn42.person,dn42.role
 key:                org        optional   multiple  lookup=dn42.organisation
 key:                country    optional   single
+key:                ds-rdata    optional  multiple
 key:                remarks    optional   multiple
 key:                source     required   single    lookup=dn42.registry
 mnt-by:             DN42-MNT
