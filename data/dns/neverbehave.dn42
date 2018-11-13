@@ -4,5 +4,4 @@ nserver:            ns1.neverbehave.dn42 fd4c:2535:91::53
 admin-c:            NEVERBEHAVE-DN42
 tech-c:             NEVERBEHAVE-DN42
 mnt-by:             NEVERBEHAVE-MNT
-status:             CONNECT
 source:             DN42

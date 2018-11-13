@@ -4,5 +4,4 @@ tech-c:             W0H-DN42
 mnt-by:             W0H-MNT
 nserver:            ns1.dns.dn42
 nserver:            ns2.dns.dn42
-status:             EVALPEND 1503919426
 source:             DN42

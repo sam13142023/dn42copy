@@ -1,5 +1,4 @@
 domain:             ffpi
-status:             CONNECT
 nserver:            1.12.137.10.icvpn.registry-sync.dn42
 nserver:            1.13.137.10.icvpn.registry-sync.dn42
 nserver:            1.10.137.10.icvpn.registry-sync.dn42

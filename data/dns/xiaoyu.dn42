@@ -5,5 +5,4 @@ tech-c:             XIAOYU-DN42
 mnt-by:             XIAOYU-MNT
 nserver:            ns.xiaoyu.dn42 172.21.70.8
 nserver:            ns.xiaoyu.dn42 fd5c:f0f:39fc::8
-status:             EVALPEND 1505733995
 source:             DN42

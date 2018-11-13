@@ -4,5 +4,4 @@ admin-c:            TAL-DN42
 tech-c:             TAL-DN42
 mnt-by:             TAL-MNT
 nserver:            ns.tal.dn42 172.20.227.240
-status:             EVALPEND 1503918759
 source:             DN42

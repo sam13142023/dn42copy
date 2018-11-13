@@ -7,5 +7,4 @@ mnt-by:             FPLETZ-MNT
 mnt-by:             JOMAT-MNT
 nserver:            ns0.jmt.dn42
 nserver:            ns1.jmt.dn42
-status:             EVALPEND 1503916066
 source:             DN42

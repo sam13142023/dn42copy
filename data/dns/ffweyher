@@ -1,5 +1,4 @@
 domain:             ffweyher
-status:             CONNECT
 nserver:            101.0.210.10.icvpn.registry-sync.dn42
 nserver:            102.0.210.10.icvpn.registry-sync.dn42
 nserver:            103.0.210.10.icvpn.registry-sync.dn42

@@ -5,5 +5,4 @@ tech-c:             ANUBIOZ-DN42
 mnt-by:             ANUBIOZ-MNT
 nserver:            ns1.anubioz.dn42 172.20.232.65
 nserver:            ns1.anubioz.dn42 fd96:1337:1337::1
-status:             CONNECT
 source:             DN42

@@ -1,5 +1,4 @@
 domain:             ffi
-status:             CONNECT
 nserver:            1.10.2.10.icvpn.registry-sync.dn42
 nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
 nserver:            1.20.2.10.icvpn.registry-sync.dn42

@@ -1,5 +1,4 @@
 domain:             fftdf
-status:             CONNECT
 nserver:            100.1.188.10.icvpn.registry-sync.dn42
 nserver:            23.1.188.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

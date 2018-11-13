@@ -4,5 +4,4 @@ admin-c:            CHALLENE-DN42
 tech-c:             CHALLENE-DN42
 mnt-by:             CHALLENE-MNT
 nserver:            ns.challene.dn42 172.20.59.27
-status:             EVALPEND 1503915913
 source:             DN42

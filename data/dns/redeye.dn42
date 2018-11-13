@@ -1,7 +1,6 @@
 domain:             redeye.dn42
 nserver:            ns1.redeye.dn42 172.20.58.40
 nserver:            ns2.redeye.dn42 172.20.58.50
-status:             CONNECT
 admin-c:            ANAND-DN42
 tech-c:             ANAND-DN42
 org:                ORG-REDEYE

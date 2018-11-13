@@ -6,5 +6,4 @@ nserver:            ns1.tiger.dn42 172.20.142.1
 nserver:            ns1.tiger.dn42 fd7c:dfc0:d347::1
 nserver:            ns2.tiger.dn42 172.20.142.2
 nserver:            ns2.tiger.dn42 fd7c:dfc0:d347::2
-status:             CONNECT
 source:             DN42

@@ -1,5 +1,4 @@
 domain:             ffki
-status:             CONNECT
 nserver:            0.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.icvpn.registry-sync.dn42
 nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.icvpn.registry-sync.dn42
 nserver:            2.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.icvpn.registry-sync.dn42

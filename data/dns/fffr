@@ -1,5 +1,4 @@
 domain:             fffr
-status:             CONNECT
 nserver:            103.0.60.10.icvpn.registry-sync.dn42
 nserver:            106.0.60.10.icvpn.registry-sync.dn42
 nserver:            112.0.60.10.icvpn.registry-sync.dn42

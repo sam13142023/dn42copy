@@ -5,5 +5,4 @@ tech-c:             NLDDEV1-DN42
 mnt-by:             DDEV-MNT
 nserver:            ns1.ddev.dn24
 nserver:            ns2.ddev.dn24
-status:             EVALPEND 1506421227
 source:             DN42
