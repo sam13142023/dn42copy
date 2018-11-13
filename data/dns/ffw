@@ -1,5 +1,4 @@
 domain:             ffw
-status:             CONNECT
 nserver:            247.0.3.10.icvpn.registry-sync.dn42
 nserver:            249.0.3.10.icvpn.registry-sync.dn42
 nserver:            250.0.3.10.icvpn.registry-sync.dn42

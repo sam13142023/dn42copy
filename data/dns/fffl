@@ -1,5 +1,4 @@
 domain:             fffl
-status:             CONNECT
 nserver:            1.1.129.10.icvpn.registry-sync.dn42
 nserver:            3.1.129.10.icvpn.registry-sync.dn42
 nserver:            6.1.129.10.icvpn.registry-sync.dn42

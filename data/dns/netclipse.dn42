@@ -6,5 +6,4 @@ mnt-by:             NETCLIPSE-MNT
 nserver:            ns1.netclipse.dn42 172.20.234.233
 nserver:            ns2.netclipse.dn42 172.20.234.234
 nserver:            ns3.netclipse.dn42 172.20.234.235
-status:             EVALPEND 1497436421
 source:             DN42

@@ -1,5 +1,4 @@
 domain:             ffwdh
-status:             CONNECT
 nserver:            1.0.23.10.icvpn.registry-sync.dn42
 nserver:            2.0.23.10.icvpn.registry-sync.dn42
 nserver:            2.0.23.10.icvpn.registry-sync.dn42

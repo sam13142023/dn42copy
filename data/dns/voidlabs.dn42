@@ -4,5 +4,4 @@ nserver:            station-two.voidlabs.dn42 172.23.116.51
 admin-c:            DEVNULL-DN42
 tech-c:             DEVNULL-DN42
 mnt-by:             VOIDLABS-MNT
-status:             CONNECT
 source:             DN42

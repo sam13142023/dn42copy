@@ -4,5 +4,4 @@ nserver:            ns.sebi.dn42 172.23.170.1
 admin-c:            SEBI-DN42
 tech-c:             SEBI-DN42
 mnt-by:             SEBI-MNT
-status:             EVALPEND 1503918382
 source:             DN42

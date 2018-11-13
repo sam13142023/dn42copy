@@ -1,5 +1,4 @@
 domain:             fftut
-status:             CONNECT
 nserver:            5.0.119.10.icvpn.registry-sync.dn42
 nserver:            8.0.119.10.icvpn.registry-sync.dn42
 nserver:            10.0.119.10.icvpn.registry-sync.dn42

@@ -5,5 +5,4 @@ tech-c:             CHUANCHAN-DN42
 mnt-by:             CHUANCHAN-MNT
 nserver:            ns1.chuanchan.dn42
 nserver:            ns2.chuanchan.dn42
-status:             EVALPEND 1536340652
 source:             DN42

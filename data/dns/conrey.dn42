@@ -5,5 +5,4 @@ tech-c:             CONREY-DN42
 mnt-by:             CONREY-MNT
 nserver:            ns1.conrey.dn42 172.20.197.253
 nserver:            ns2.conrey.dn42 172.20.197.253
-status:             CONNECT
 source:             DN42

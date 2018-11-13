@@ -4,5 +4,4 @@ tech-c:             PMENKE-DN42
 mnt-by:             PMENKE-MNT
 nserver:            ns1.pmenke.dn42 172.23.118.1
 nserver:            ns1.pmenke.dn42 fd42:23:118:0:100::1
-status:             EVALPEND 1503917854
 source:             DN42

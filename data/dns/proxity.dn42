@@ -4,5 +4,4 @@ admin-c:            RIPPERFOX-DN42
 tech-c:             RIPPERFOX-DN42
 mnt-by:             RIPPERFOX-MNT
 nserver:            ns1.proxity.dn42 172.22.6.1
-status:             EVALPEND 1503917960
 source:             DN42

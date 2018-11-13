@@ -1,5 +1,4 @@
 domain:             ffnw
-status:             CONNECT
 nserver:            1.0.18.10.icvpn.registry-sync.dn42
 nserver:            1.32.18.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

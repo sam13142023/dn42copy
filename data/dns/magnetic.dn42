@@ -1,5 +1,4 @@
 domain:             magnetic.dn42
-status:             CONNECT
 nserver:            ns1.lossy-network.dn42
 nserver:            ns2.lossy-network.dn42
 remarks:            home-grown bittorrent search-engine

@@ -6,5 +6,4 @@ nserver:            ns1.tombii.dn42 172.22.102.1
 nserver:            ns2.tombii.dn42 172.22.102.3
 nserver:            ns1.tombii.dn42 fd19:e0a6:1295::1
 nserver:            ns2.tombii.dn42 fd19:e0a6:1295::3
-status:             EVALPEND 1503918940
 source:             DN42

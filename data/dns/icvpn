@@ -1,5 +1,4 @@
 domain:             icvpn
-status:             CONNECT
 nserver:            1.1.169.10.icvpn.registry-sync.dn42
 nserver:            53.128.255.10.icvpn.registry-sync.dn42
 nserver:            a.8.0.0.0.0.0.0.f.c.0.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.c.e.f.icvpn.registry-sync.dn42

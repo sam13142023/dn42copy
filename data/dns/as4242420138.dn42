@@ -6,5 +6,4 @@ mnt-by:             HARDB1T-MNT
 nserver:            ns3.as4242420138.dn42 172.20.58.130
 nserver:            ns5.as4242420138.dn42 172.20.58.131
 nserver:            ns7.as4242420138.dn42 172.20.58.132
-status:             CONNECT
 source:             DN42

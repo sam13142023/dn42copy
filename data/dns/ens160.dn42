@@ -7,5 +7,4 @@ nserver:            ns1.ens160.dn42 172.20.172.1
 nserver:            ns1.ens160.dn42 fd42:0006:e160:0000:0000:0000:0000:fff1
 nserver:            ns2.ens160.dn42 172.20.172.2
 nserver:            ns2.ens160.dn42 fd42:0006:e160:0000:0000:0000:0000:fff2
-status:             CONNECT
 source:             DN42

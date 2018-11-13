@@ -4,5 +4,4 @@ admin-c:            ROT13-DN42
 tech-c:             ROT13-DN42
 mnt-by:             ROT13-MNT
 nserver:            ns1.fnord.dn42
-status:             CONNECT
 source:             DN42

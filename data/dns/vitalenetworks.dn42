@@ -6,5 +6,4 @@ tech-c:             SCARLET-DN42
 mnt-by:             VITALE-MNT
 nserver:            ns1.vitalenetworks.dn42 172.21.125.163
 nserver:            ns2.vitalenetworks.dn42 172.21.125.164
-status:             EVALPEND 1503919152
 source:             DN42

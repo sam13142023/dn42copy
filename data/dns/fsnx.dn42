@@ -5,5 +5,4 @@ tech-c:             FSNX-DN42
 mnt-by:             FSNX-MNT
 nserver:            ns1.fsnx.dn42 172.21.64.17
 nserver:            ns1.fsnx.dn42 fd68:beef:c0de::1
-status:             EVALPEND 1494411790
 source:             DN42

@@ -5,5 +5,4 @@ mnt-by:             GIGGA-MNT
 nserver:            ns1.gigganet.dn42 172.22.125.3
 nserver:            ns1.gigganet.dn42 fd1b:9b7e:7a18::a
 nserver:            ns1.technopoint.dn42
-status:             CONNECT
 source:             DN42

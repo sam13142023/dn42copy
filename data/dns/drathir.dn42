@@ -6,5 +6,4 @@ nserver:            ns1.drathir.dn42 172.20.190.135
 nserver:            ns1.drathir.dn42 fd26:271b:761b::53
 nserver:            ns2.drathir.dn42 172.20.130.135
 nserver:            ns2.drathir.dn42 fd99:4d80:d90c::53
-status:             EVALPEND 1503916353
 source:             DN42

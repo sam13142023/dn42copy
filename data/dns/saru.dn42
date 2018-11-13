@@ -13,5 +13,4 @@ nserver:            umidanuki.ns.saru.dn42 172.20.239.210
 nserver:            umidanuki.ns.saru.dn42 fd39:1c:2c1b:b000::3901
 nserver:            hitsuji.ns.saru.dn42 172.20.239.220
 nserver:            hitsuji.ns.saru.dn42 fd39:1c:2c1b:c000::3901
-status:             EVALPEND 1536317993
 source:             DN42

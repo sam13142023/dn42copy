@@ -5,5 +5,4 @@ tech-c:             JOMAT-DN42
 mnt-by:             JOMAT-MNT
 nserver:            ns0.jmt.dn42
 nserver:            ns1.jmt.dn42
-status:             EVALPEND 1503918638
 source:             DN42
