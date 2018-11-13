@@ -5,7 +5,6 @@ key:                nic-hdl         required   single    primary
 key:                mnt-by          required   multiple  lookup=dn42.mntner
 key:                org             optional   multiple  lookup=dn42.organisation
 key:                nick            optional   multiple
-key:                pgp-id          deprecate  multiple
 key:                pgp-fingerprint optional   multiple
 key:                www             optional   multiple
 key:                e-mail          optional   multiple
