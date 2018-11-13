@@ -3,7 +3,7 @@ cidr:               fd42:39:7da::/48
 netname:            LOINTAIN
 admin-c:            ALEXSHPILKIN-DN42
 tech-c:             ALEXSHPILKIN-DN42
-mnt-by:             ALEXSHPILKIN-MNT
+mnt-by:             LOINTAIN-MNT
 status:             ALLOCATED
 policy:             ask
 source:             DN42
