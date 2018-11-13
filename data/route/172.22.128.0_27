@@ -1,4 +1,4 @@
 route:              172.22.128.0/27
-origin:             AS4242420141
+origin:             AS4242420144
 mnt-by:             NETRAVNEN-MNT
 source:             DN42
