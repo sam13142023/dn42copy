@@ -1,0 +1,9 @@
+as-set:             AS4242421926:AS-UPSTREAM
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+remarks:            WEITI-MNT
+members:            AS4242423905
+remarks:            IMLONGHAO-MNT
+members:            AS4242421889
+source:             DN42
