@@ -1,7 +1,6 @@
 inet6num:           fdc6:c4fe:1de4:0000:0000:0000:0000:0000 - fdc6:c4fe:1de4:ffff:ffff:ffff:ffff:ffff
 cidr:               fdc6:c4fe:1de4::/48
 netname:            ICVPN-WESTPFALZ
-bgp-status:         ignore
 nserver:            1.8.198.10.icvpn.registry-sync.dn42
 nserver:            1.16.198.10.icvpn.registry-sync.dn42
 nserver:            1.24.198.10.icvpn.registry-sync.dn42

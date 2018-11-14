@@ -11,6 +11,5 @@ admin-c:            SOURIS-DN42
 admin-c:            NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.23.128.0/18
 source:             DN42

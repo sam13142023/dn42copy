@@ -6,6 +6,5 @@ tech-c:             MKS-DN42
 mnt-by:             MKS-MNT
 nserver:            ns1.ytt.dn42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.248.64/26
 source:             DN42

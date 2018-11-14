@@ -22,6 +22,5 @@ tech-c:             HEXA-DN42
 mnt-by:             HEXA-MNT
 nserver:            ns1.cccda.dn42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.248.0/26
 source:             DN42

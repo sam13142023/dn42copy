@@ -5,6 +5,5 @@ admin-c:            N7NET-DN42
 tech-c:             N7NET-DN42
 mnt-by:             N7-NET-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.247.0/25
 source:             DN42

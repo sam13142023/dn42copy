@@ -11,5 +11,4 @@ admin-c:            EQUINOX-DN42
 admin-c:            MORTZU-DN42
 mnt-by:             DUMMY-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 source:             DN42

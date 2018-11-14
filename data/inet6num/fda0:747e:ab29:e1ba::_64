@@ -1,7 +1,6 @@
 inet6num:           fda0:747e:ab29:e1ba:0000:0000:0000:0000 - fda0:747e:ab29:e1ba:ffff:ffff:ffff:ffff
 cidr:               fda0:747e:ab29:e1ba::/64
 netname:            ICVPN-WUPPERTAL
-bgp-status:         ignore
 nserver:            247.0.3.10.icvpn.registry-sync.dn42
 nserver:            249.0.3.10.icvpn.registry-sync.dn42
 nserver:            250.0.3.10.icvpn.registry-sync.dn42

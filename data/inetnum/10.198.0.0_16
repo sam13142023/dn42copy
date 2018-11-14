@@ -1,7 +1,6 @@
 inetnum:            10.198.0.0 - 10.198.255.255
 cidr:               10.198.0.0/16
 netname:            ICVPN-WESTPFALZ
-bgp-status:         ignore
 nserver:            1.8.198.10.icvpn.registry-sync.dn42
 nserver:            1.16.198.10.icvpn.registry-sync.dn42
 nserver:            1.24.198.10.icvpn.registry-sync.dn42

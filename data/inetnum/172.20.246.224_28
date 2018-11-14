@@ -6,6 +6,5 @@ admin-c:            BUNSEN-DN42
 tech-c:             BUNSEN-DN42
 mnt-by:             BUNSEN-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.246.224/28
 source:             DN42

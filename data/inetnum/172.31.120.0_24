@@ -1,7 +1,6 @@
 inetnum:            172.31.120.0 - 172.31.120.255
 cidr:               172.31.120.0/24
 netname:            IMPORTED-FROM-CHAOSVPN
-bgp-status:         ignore
 nserver:            ns1.chaosvpn.g.nic.dn42
 nserver:            ns2.chaosvpn.g.nic.dn42
 remarks:            Imported from chaosvpn, do not edit!

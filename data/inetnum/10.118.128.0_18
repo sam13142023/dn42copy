@@ -1,7 +1,6 @@
 inetnum:            10.118.128.0 - 10.118.191.255
 cidr:               10.118.128.0/18
 netname:            ICVPN-SCHWEIZ
-bgp-status:         ignore
 nserver:            5.0.119.10.icvpn.registry-sync.dn42
 nserver:            8.0.119.10.icvpn.registry-sync.dn42
 nserver:            10.0.119.10.icvpn.registry-sync.dn42

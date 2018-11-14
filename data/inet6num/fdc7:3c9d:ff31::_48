@@ -1,7 +1,6 @@
 inet6num:           fdc7:3c9d:ff31:0000:0000:0000:0000:0000 - fdc7:3c9d:ff31:ffff:ffff:ffff:ffff:ffff
 cidr:               fdc7:3c9d:ff31::/48
 netname:            ICVPN-DREILAENDERECK
-bgp-status:         ignore
 nserver:            5.0.119.10.icvpn.registry-sync.dn42
 nserver:            4.0.119.10.icvpn.registry-sync.dn42
 nserver:            10.0.119.10.icvpn.registry-sync.dn42

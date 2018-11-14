@@ -1,7 +1,6 @@
 inetnum:            10.119.0.0 - 10.119.255.255
 cidr:               10.119.0.0/16
 netname:            ICVPN-DREILAENDERECK
-bgp-status:         ignore
 nserver:            5.0.119.10.icvpn.registry-sync.dn42
 nserver:            4.0.119.10.icvpn.registry-sync.dn42
 nserver:            10.0.119.10.icvpn.registry-sync.dn42

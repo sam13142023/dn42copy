@@ -1,7 +1,6 @@
 inetnum:            10.70.0.0 - 10.70.63.255
 cidr:               10.70.0.0/18
 netname:            ICVPN-ZOLLERNALB
-bgp-status:         ignore
 nserver:            2.2.70.10.icvpn.registry-sync.dn42
 nserver:            3.3.70.10.icvpn.registry-sync.dn42
 nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.a.0.0.0.1.0.f.f.5.0.a.2.icvpn.registry-sync.dn42

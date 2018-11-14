@@ -5,6 +5,5 @@ admin-c:            DRIZZLELAKE-DN42
 tech-c:             DRIZZLELAKE-DN42
 mnt-by:             DRIZZLELAKE-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.251.128/25
 source:             DN42

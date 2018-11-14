@@ -6,6 +6,5 @@ admin-c:            OIDA-DN42
 tech-c:             OIDA-DN42
 mnt-by:             OIDA-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.244.0/24
 source:             DN42

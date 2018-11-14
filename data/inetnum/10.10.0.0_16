@@ -1,7 +1,6 @@
 inetnum:            10.10.0.0 - 10.10.255.255
 cidr:               10.10.0.0/16
 netname:            ICVPN-INGOLSTADT
-bgp-status:         ignore
 nserver:            2.0.10.10.icvpn.registry-sync.dn42
 nserver:            4.0.10.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

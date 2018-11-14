@@ -1,7 +1,6 @@
 inetnum:            10.172.0.0 - 10.172.255.255
 cidr:               10.172.0.0/16
 netname:            ICVPN-TRIER
-bgp-status:         ignore
 nserver:            14.0.172.10.icvpn.registry-sync.dn42
 nserver:            16.0.172.10.icvpn.registry-sync.dn42
 nserver:            4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.7.f.b.0.1.0.0.2.icvpn.registry-sync.dn42

@@ -5,6 +5,5 @@ admin-c:            LEAVERSMITH-DN42
 tech-c:             LEAVERSMITH-DN42
 mnt-by:             LEAVERSMITH-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 netname:            Unnamed 172.20.245.0/25 Network
 source:             DN42

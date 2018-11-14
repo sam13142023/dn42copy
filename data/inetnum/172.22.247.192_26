@@ -13,6 +13,5 @@ tech-c:             NICOO-DN42
 mnt-by:             KANKAN-MNT
 mnt-by:             NICOO-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.247.192/26
 source:             DN42

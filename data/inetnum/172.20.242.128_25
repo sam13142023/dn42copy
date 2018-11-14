@@ -6,6 +6,5 @@ admin-c:            THEPAFFY-DN42
 tech-c:             THEPAFFY-DN42
 mnt-by:             WWLABS-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.242.128/25
 source:             DN42

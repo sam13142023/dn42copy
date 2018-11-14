@@ -6,6 +6,5 @@ admin-c:            IANWILDCODER-DN42
 tech-c:             IANWILDCODER-DN42
 mnt-by:             WILDCODER-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.246.32/27
 source:             DN42

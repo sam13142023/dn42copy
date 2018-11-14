@@ -6,6 +6,5 @@ admin-c:            DOWNHILL-DN42
 tech-c:             DOWNHILL-DN42
 mnt-by:             DUMMY-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.255.176/28
 source:             DN42

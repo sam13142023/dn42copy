@@ -1,7 +1,6 @@
 inet6num:           fd00:ffba:ffba:0000:0000:0000:0000:0000 - fd00:ffba:ffba:0000:ffff:ffff:ffff:ffff
 cidr:               fd00:ffba:ffba:0000::/64
 netname:            ICVPN-SUEDWEST
-bgp-status:         ignore
 nserver:            101.0.210.10.icvpn.registry-sync.dn42
 nserver:            102.0.210.10.icvpn.registry-sync.dn42
 nserver:            103.0.210.10.icvpn.registry-sync.dn42

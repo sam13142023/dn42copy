@@ -10,6 +10,5 @@ admin-c:            HEXA-DN42
 mnt-by:             HEXA-MNT
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.21.0.0/16
 source:             DN42

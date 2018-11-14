@@ -7,6 +7,5 @@ tech-c:             GOTTESHAND-DN42
 mnt-by:             SPRINGFIELD-MNT
 nserver:            NS3.WELTERDE.DN42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.241.0/24
 source:             DN42

@@ -8,6 +8,5 @@ mnt-by:             KEBE-MNT
 nserver:            ns01.kebe.dn42
 nserver:            ns02.kebe.dn42
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.20.246.192/27
 source:             DN42

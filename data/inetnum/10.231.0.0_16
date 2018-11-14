@@ -1,7 +1,6 @@
 inetnum:            10.231.0.0 - 10.231.255.255
 cidr:               10.231.0.0/16
 netname:            ICVPN-RUHRGEBIET
-bgp-status:         ignore
 nserver:            190.64.80.151.icvpn.registry-sync.dn42
 nserver:            33.255.14.85.icvpn.registry-sync.dn42
 nserver:            0.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.c.5.9.0.c.0.0.0.0.d.1.4.1.0.0.2.icvpn.registry-sync.dn42

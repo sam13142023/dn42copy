@@ -5,6 +5,5 @@ admin-c:            LOCONOX-DN42
 tech-c:             LOCONOX-DN42
 mnt-by:             LOCONOX-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.245.192/29
 source:             DN42

@@ -5,6 +5,5 @@ tech-c:             MAULI-DN42
 mnt-by:             MAULI-MNT
 nserver:            ns0.maulware.dn42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.246.64/27
 source:             DN42

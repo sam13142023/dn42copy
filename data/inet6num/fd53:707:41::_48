@@ -1,7 +1,6 @@
 inet6num:           fd53:0707:0041:0000:0000:0000:0000:0000 - fd53:0707:0041:ffff:ffff:ffff:ffff:ffff
 cidr:               fd53:707:41::/48
 netname:            ICVPN-SCHWEIZ
-bgp-status:         ignore
 nserver:            5.0.119.10.icvpn.registry-sync.dn42
 nserver:            8.0.119.10.icvpn.registry-sync.dn42
 nserver:            10.0.119.10.icvpn.registry-sync.dn42
