@@ -1,0 +1,12 @@
+aut-num:            AS4242422321
+as-name:            CCCHB-NETMON-AS
+org:                ORG-FLHB-DN42
+remarks:            ------------------------
+remarks:            CCCHB Network monitoring
+remarks:            ------------------------
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

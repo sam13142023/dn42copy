@@ -6,5 +6,5 @@ admin-c:            CREST-DN42
 tech-c:             CREST-DN42
 status:             ASSIGNED
 cidr:               fdb5:84c3:98c1::/48
-mnt-by:             DUMMY-MNT
+mnt-by:             CREST-MNT
 source:             DN42

@@ -1,5 +1,4 @@
 domain:             fffd
-status:             CONNECT
 nserver:            1.0.185.10.icvpn.registry-sync.dn42
 nserver:            2.0.185.10.icvpn.registry-sync.dn42
 nserver:            4.0.185.10.icvpn.registry-sync.dn42

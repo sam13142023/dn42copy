@@ -5,5 +5,4 @@ tech-c:             MALAIWAH-DN42
 mnt-by:             PICOCLOUD-MNT
 nserver:            ns1.picocloud.dn42 172.20.162.131
 nserver:            ns2.picocloud.dn42 172.20.162.132
-status:             EVALPEND 1503917794
 source:             DN42

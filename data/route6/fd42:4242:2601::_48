@@ -1,0 +1,4 @@
+route6:             fd42:4242:2601::/48
+origin:             AS4242422601
+mnt-by:             BURBLE-MNT
+source:             DN42

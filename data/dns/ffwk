@@ -1,5 +1,4 @@
 domain:             ffwk
-status:             CONNECT
 nserver:            1.1.13.10.icvpn.registry-sync.dn42
 nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.e.e.b.d.a.e.d.3.2.d.f.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

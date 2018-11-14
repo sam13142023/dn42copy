@@ -1,9 +1,7 @@
 domain:             rzl
 org:                ORG-RZL
-status:             CONNECT
 nserver:            ns1.rzl.g.nic.dn42 172.22.36.250
 mnt-by:             LUTOMA-MNT
-mnt-by:             FELICITUS-MNT
 mnt-by:             DOCSTEEL-MNT
 mnt-by:             HAX404-MNT
 source:             DN42

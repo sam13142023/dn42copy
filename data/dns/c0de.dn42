@@ -5,5 +5,4 @@ tech-c:             AX206G-DN42
 mnt-by:             AX206G-MNT
 nserver:            ns1.ax206g.dn42
 nserver:            ns2.ax206g.dn42
-status:             CONNECT
 source:             DN42

@@ -1,5 +1,4 @@
 domain:             ffcux
-status:             CONNECT
 nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42
 nserver:            2.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42
 nserver:            3.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42

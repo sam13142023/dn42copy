@@ -1,6 +1,7 @@
 aut-num:            AS4242420125
-as-name:            CCCHH-AS
-admin-c:            FRITZ-DN42
-tech-c:             FRITZ-DN42
-mnt-by:             FRITZ-MNT
+as-name:            COSNET-AS
+descr:              AS for CosNet Networks
+admin-c:            COSMIC-DN42
+tech-c:             COSMIC-DN42
+mnt-by:             COSMIC-MNT
 source:             DN42

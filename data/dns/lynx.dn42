@@ -5,5 +5,4 @@ tech-c:             LEX-DN42
 mnt-by:             LEX-MNT
 nserver:            ns.lynx.dn42    172.22.97.251
 nserver:            ns.lynx.dn42    fd97:4c4e:9d26:1ffe::1
-status:             EVALPEND 1502188311
 source:             DN42

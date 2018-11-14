@@ -10,4 +10,5 @@ key:                descr       optional  single
 key:                remarks     optional  multiple
 key:                source      required  single    lookup=dn42.registry
 key:                pingable    optional  multiple
+key:                max-length  optional  single
 mnt-by:             DN42-MNT

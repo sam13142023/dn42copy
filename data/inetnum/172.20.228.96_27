@@ -1,7 +1,9 @@
 inetnum:            172.20.228.96 - 172.20.228.127
-netname:            ATR-EDGE
-descr:              ATR Edge Peering Network
+netname:            ATR-EDGE-AE
+descr:              ATR Edge Peering Network in Atlantic and Europe
 country:            FR
+country:            US
+country:            NL
 admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT

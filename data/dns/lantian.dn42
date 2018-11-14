@@ -8,5 +8,4 @@ nserver:            ns2.lantian.dn42 172.22.76.185
 nserver:            ns2.lantian.dn42 fdbc:f9dc:67ad::dd:c85a:8a93
 nserver:            ns3.lantian.dn42 172.22.76.187
 nserver:            ns3.lantian.dn42 fdbc:f9dc:67ad::18:ca0f:741d
-status:             CONNECT
 source:             DN42

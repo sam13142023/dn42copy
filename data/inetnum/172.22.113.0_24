@@ -4,7 +4,7 @@ descr:              Martin89 dn42 network
 admin-c:            MARTIN89-DN42
 tech-c:             MARTIN89-DN42
 status:             ASSIGNED
-nserver:            dns-anycast-a.martin89.dn42
+nserver:            a.dns.anycast.martin89.dn42
 cidr:               172.22.113.0/24
 mnt-by:             DUMMY-MNT
 source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.181.0 - 172.22.181.127
+cidr:               172.22.181.0/25
+netname:            RMNTN-NET-IPV4-CORE
+descr:              Remonton Network IPv4 Core Block
+org:                ORG-RMNTN
+admin-c:            RACOMAIZER-DN42
+tech-c:             RACOMAIZER-DN42
+mnt-by:             RMNTN-MNT
+nserver:            ns.as1873.dn42
+status:             ASSIGNED
+source:             DN42

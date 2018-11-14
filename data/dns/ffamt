@@ -1,5 +1,4 @@
 domain:             ffamt
-status:             CONNECT
 nserver:            2.2.202.10.icvpn.registry-sync.dn42
 nserver:            4.2.202.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!

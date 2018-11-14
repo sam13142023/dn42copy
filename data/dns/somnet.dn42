@@ -2,6 +2,6 @@ domain:             somnet.dn42
 admin-c:            SOMNET-DN42
 tech-c:             SOMNET-DN42
 mnt-by:             SOMNET-MNT
-nserver:            ns1.somnet.dn42 172.20.33.10
-status:             EVALPEND 1503918593
+nserver:            ns1.somnet.dn42 172.20.33.5
+nserver:            ns1.somnet.dn42 fde7:32ae:ee77::5
 source:             DN42

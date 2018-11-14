@@ -1,5 +1,6 @@
 inet6num:           fd42:c01d:beef:0000:0000:0000:0000:0000 - fd42:c01d:beef:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:c01d:beef::/48
+nserver:            ns1.yamakaja.dn42
 netname:            YAMAKAJA-NET6
 descr:              Yamakaja's network
 country:            DE

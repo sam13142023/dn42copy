@@ -1,8 +1,6 @@
 aut-num:            AS4242420092
-as-name:            EVE-AS
-descr:              evenet
-remarks:            peering via openvpn, ipsec/gre (only via ipv6), tinc, fastd or wireguard
-admin-c:            MIC92-DN42
-tech-c:             MIC92-DN42
-mnt-by:             MIC92-MNT
+as-name:            AS for Zyradyl's Network
+admin-c:            ZYRADYL-DN42
+tech-c:             ZYRADYL-DN42
+mnt-by:             ZYRADYL-MNT
 source:             DN42

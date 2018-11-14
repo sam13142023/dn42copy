@@ -4,5 +4,4 @@ admin-c:            DELTAMAN-DN42
 tech-c:             DELTAMAN-DN42
 mnt-by:             DELTAMAN-MNT
 nserver:            ns1.deltaman.dn42 172.22.134.131
-status:             EVALPEND 1503916112
 source:             DN42

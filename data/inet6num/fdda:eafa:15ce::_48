@@ -5,8 +5,6 @@ country:            DK
 admin-c:            DENNIS-DN42
 tech-c:             DENNIS-DN42
 mnt-by:             DENNIS-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 cidr:               fdda:eafa:15ce::/48
 source:             DN42

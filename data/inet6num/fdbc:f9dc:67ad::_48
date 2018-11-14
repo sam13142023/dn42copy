@@ -5,7 +5,8 @@ country:            CN
 admin-c:            LANTIAN-DN42
 tech-c:             LANTIAN-DN42
 mnt-by:             LANTIAN-MNT
-nserver:            ns1.lantian.pub
+nserver:            ns1.lantian.dn42
+nserver:            ns2.lantian.dn42
 status:             ASSIGNED
 cidr:               fdbc:f9dc:67ad::/48
 source:             DN42

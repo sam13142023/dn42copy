@@ -1,6 +1,6 @@
 aut-num:            AS4242420144
 as-name:            NETRAVNEN-NETWORK-VIRTUAL-LAB
-admin-c:            NETRAVNEN-DN42
-tech-c:             NETRAVNEN-DN42
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 source:             DN42

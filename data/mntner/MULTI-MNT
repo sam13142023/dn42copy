@@ -1,8 +1,0 @@
-mntner:             MULTI-MNT
-admin-c:            MULTI-DN42
-tech-c:             MULTI-DN42
-mnt-by:             MULTI-MNT
-descr:              multiplexd maintainer object
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCk2BBBcCkD2ORSbgV/w9GeZU8n0h3Ndhcj3UyXfsJnY0IlBLjTWHbdrDpKS3hAvs1twZnnmzgIy5E0w9Jq9AmT/SFE+M3QTL9uJ8TXAaXfQmgw/EhhbJXVIgnuVRzs3m7mL5a6uNBfkm5AvSdcM8BvLOWGlY3chB19pyP7fsvABeWpfpPjAYB8dKMsAmTHi53sEBbjAjuvDPLnrYT/ZmekJ37XYvKdAHBbDuGCHXti5GYPd3SG6NvOvb/5/1eedQP2goxc1wlIndq9+9XDCGzm1iqBq2FqrnoPS1LhraKEJgI9er6452paawv7CXwJ4XfVFpNBMncTXyEhm9NqtX3f
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAR0m+FzV1X9Dml+mpltBk/Xs6mE/UdW0EE8OW7SbXJk
-source:             DN42
