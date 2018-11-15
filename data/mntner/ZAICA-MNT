@@ -1,4 +1,5 @@
 mntner:             ZAICA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA2ubM8TT64NLMkGq+Whqb/wLnaIBr3sw8BF9o53WkHNdwcCCDqep1qmGOg/MBmtI7IPkozJHXSUKvZ5r3BqEzalkHYCrIp01q0Uq0VyRZU2rzc9ZIPp3rLfBxpIv3Cq56ld922BPy8PQsX+hS3Q+dGyImG/hgEjcJdUXKw/LuWSUFfMYRK+GIX+VLtYx93PxR8WFlNX8gWlZQ0m+ccIyKud+fv1sRYA0s/KrgH7XKLRa51xbII3wnMgsRNtyBMm+apkz6gmKH0trlAsl1KAgV88Ek2yB4VuVK1qjBhCgPr7IoCBEUqVqD6AZQY8tuIg5PVaPWRqQmlU2F7rmqqn7fBw== rsa-key-20181115
 admin-c:            ASANYI-DN42
 tech-c:             ASANYI-DN42
 mnt-by:             ZAICA-MNT
