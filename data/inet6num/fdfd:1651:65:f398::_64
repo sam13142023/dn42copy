@@ -1,5 +1,5 @@
-inet6num:           fd00:0165:0165:0000:0000:0000:0000:0000 - fd00:0165:0165:ffff:ffff:ffff:ffff:ffff
-cidr:               fd00:0165:0165::/48
+inet6num:           fdfd:1651:0065:f398:0000:0000:0000:0000 - fdfd:1651:0065:f398:ffff:ffff:ffff:ffff
+cidr:               fdfd:1651:0065:f398::/64
 netname:            ZAICA-NET
 admin-c:            ASANYI-DN42
 tech-c:             ASANYI-DN42
