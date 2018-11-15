@@ -6,6 +6,5 @@ admin-c:            UVES-DN42
 tech-c:             UVES-DN42
 mnt-by:             DUMMY-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.255.160/28
 source:             DN42

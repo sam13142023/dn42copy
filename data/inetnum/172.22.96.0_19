@@ -6,6 +6,5 @@ remarks:            Defaultallocation /28, never more than /24
 admin-c:            PRAUSCHER-DN42
 mnt-by:             PRAUSCHER-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.22.96.0/19
 source:             DN42

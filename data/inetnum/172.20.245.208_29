@@ -5,6 +5,5 @@ admin-c:            DREADMAN-DN42
 tech-c:             DREADMAN-DN42
 mnt-by:             DREADMAN-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.245.208/29
 source:             DN42

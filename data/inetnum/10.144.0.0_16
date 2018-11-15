@@ -1,7 +1,6 @@
 inetnum:            10.144.0.0 - 10.144.255.255
 cidr:               10.144.0.0/16
 netname:            ICVPN-BADOLDESLOE
-bgp-status:         ignore
 nserver:            8.0.144.10.icvpn.registry-sync.dn42
 nserver:            8.0.0.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.7.f.b.0.f.d.d.f.icvpn.registry-sync.dn42
 nserver:            13.0.144.10.icvpn.registry-sync.dn42

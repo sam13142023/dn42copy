@@ -4,7 +4,6 @@ netname:            ORG-SHACK-V6
 country:            DE
 descr:              shack - IPv6 network
 status:             ASSIGNED
-bgp-status:         ignore
 admin-c:            ORG-SHACK-ADMIN-DN42
 tech-c:             ORG-SHACK-TECH-DN42
 mnt-by:             SHACK-MNT

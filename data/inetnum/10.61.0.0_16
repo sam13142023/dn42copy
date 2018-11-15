@@ -1,7 +1,6 @@
 inetnum:            10.61.0.0 - 10.61.255.255
 cidr:               10.61.0.0/16
 netname:            ICVPN-LEIPZIG
-bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: leipzig
 mnt-by:             DN42-MNT

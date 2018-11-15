@@ -1,7 +1,6 @@
 inetnum:            10.24.192.0 - 10.24.255.255
 cidr:               10.24.192.0/18
 netname:            ICVPN-SAAR
-bgp-status:         ignore
 nserver:            2.192.24.10.icvpn.registry-sync.dn42
 nserver:            3.192.24.10.icvpn.registry-sync.dn42
 nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.icvpn.registry-sync.dn42

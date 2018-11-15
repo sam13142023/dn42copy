@@ -5,6 +5,5 @@ admin-c:            LUC-DN42
 tech-c:             LUC-DN42
 mnt-by:             LUC-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.255.224/27
 source:             DN42

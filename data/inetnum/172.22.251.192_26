@@ -7,6 +7,5 @@ admin-c:            FEUERROT-DN42
 tech-c:             FEUERROT-DN42
 mnt-by:             FEUERROT-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.251.192/26
 source:             DN42

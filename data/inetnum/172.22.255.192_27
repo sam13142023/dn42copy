@@ -6,6 +6,5 @@ admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             DUMMY-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.255.192/27
 source:             DN42

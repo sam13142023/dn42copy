@@ -12,5 +12,4 @@ admin-c:            SOURIS-DN42
 mnt-by:             NIXNODES-MNT
 mnt-by:             XUU-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 source:             DN42

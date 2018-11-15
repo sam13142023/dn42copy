@@ -9,5 +9,4 @@ admin-c:            SISKA-DN42
 mnt-by:             HEXA-MNT
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 source:             DN42

@@ -6,6 +6,5 @@ admin-c:            ARCHCD-DN42
 tech-c:             ARCHCD-DN42
 mnt-by:             PLUESCH-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.244.0/24
 source:             DN42

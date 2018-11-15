@@ -6,6 +6,5 @@ admin-c:            LAIN-DN42
 tech-c:             LAIN-DN42
 mnt-by:             LAIN-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.20.240.192/26
 source:             DN42

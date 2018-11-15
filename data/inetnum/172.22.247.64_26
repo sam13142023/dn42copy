@@ -5,6 +5,5 @@ admin-c:            DLGG-DN42
 tech-c:             DLGG-DN42
 mnt-by:             DLGG-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.22.247.64/26
 source:             DN42

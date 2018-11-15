@@ -1,7 +1,6 @@
 inet6num:           fde8:21c6:370b:0000:0000:0000:0000:0000 - fde8:21c6:370b:ffff:ffff:ffff:ffff:ffff
 cidr:               fde8:21c6:370b::/48
 netname:            ICVPN-PRIGNITZ
-bgp-status:         ignore
 nserver:            1.192.15.10.icvpn.registry-sync.dn42
 nserver:            2.192.15.10.icvpn.registry-sync.dn42
 nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42

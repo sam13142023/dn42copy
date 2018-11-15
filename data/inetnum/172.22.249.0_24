@@ -6,6 +6,5 @@ admin-c:            MWD-DN42
 tech-c:             MWD-DN42
 mnt-by:             MWD-MNT
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.249.0/24
 source:             DN42

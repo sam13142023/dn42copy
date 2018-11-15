@@ -1,7 +1,6 @@
 inetnum:            10.50.0.0 - 10.50.255.255
 cidr:               10.50.0.0/16
 netname:            ICVPN-FRANKEN
-bgp-status:         ignore
 nserver:            10.40.50.10.icvpn.registry-sync.dn42
 nserver:            11.252.83.10.icvpn.registry-sync.dn42
 nserver:            0.252.50.10.icvpn.registry-sync.dn42

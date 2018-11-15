@@ -1,7 +1,6 @@
 inetnum:            10.79.0.0 - 10.79.255.255
 cidr:               10.79.0.0/16
 netname:            ICVPN-BOTTROP
-bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: bottrop
 mnt-by:             DN42-MNT

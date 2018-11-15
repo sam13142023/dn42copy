@@ -7,6 +7,5 @@ tech-c:             CERISELAND-DN42
 mnt-by:             CERISELAND-MNT
 nserver:            ns0.ceriseland.dn42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.253.64/26
 source:             DN42

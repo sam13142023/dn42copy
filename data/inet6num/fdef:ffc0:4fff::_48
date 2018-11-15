@@ -1,7 +1,6 @@
 inet6num:           fdef:ffc0:4fff:0000:0000:0000:0000:0000 - fdef:ffc0:4fff:ffff:ffff:ffff:ffff:ffff
 cidr:               fdef:ffc0:4fff::/48
 netname:            ICVPN-MUENCHEN
-bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: muenchen
 mnt-by:             DN42-MNT

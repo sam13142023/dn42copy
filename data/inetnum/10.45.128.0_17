@@ -1,7 +1,6 @@
 inetnum:            10.45.128.0 - 10.45.255.255
 cidr:               10.45.128.0/17
 netname:            ICVPN-VFNNRW
-bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: vfnnrw
 mnt-by:             DN42-MNT

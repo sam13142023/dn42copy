@@ -14,5 +14,4 @@ mnt-by:             NIXNODES-MNT
 mnt-by:             XUU-MNT
 mnt-by:             GRMML-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 source:             DN42

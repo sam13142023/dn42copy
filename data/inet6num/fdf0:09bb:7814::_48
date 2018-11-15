@@ -1,7 +1,6 @@
 inet6num:           fdf0:09bb:7814:0000:0000:0000:0000:0000 - fdf0:09bb:7814:ffff:ffff:ffff:ffff:ffff
 cidr:               fdf0:09bb:7814::/48
 netname:            ICVPN-FREIBURG
-bgp-status:         ignore
 nserver:            103.0.60.10.icvpn.registry-sync.dn42
 nserver:            106.0.60.10.icvpn.registry-sync.dn42
 nserver:            112.0.60.10.icvpn.registry-sync.dn42

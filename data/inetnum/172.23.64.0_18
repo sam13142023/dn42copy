@@ -7,6 +7,5 @@ admin-c:            EQUINOX-DN42
 admin-c:            NIXNODES-DN42
 mnt-by:             NIXNODES-MNT
 status:             ALLOCATED
-bgp-status:         ignore
 cidr:               172.23.64.0/18
 source:             DN42

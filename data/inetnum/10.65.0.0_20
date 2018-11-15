@@ -1,7 +1,6 @@
 inetnum:            10.65.0.0 - 10.65.15.255
 cidr:               10.65.0.0/20
 netname:            ICVPN-FOERDEFUNK-FLENSBURG
-bgp-status:         ignore
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: foerdefunk-flensburg
 mnt-by:             DN42-MNT

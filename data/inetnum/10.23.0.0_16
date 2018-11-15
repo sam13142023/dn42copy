@@ -1,7 +1,6 @@
 inetnum:            10.23.0.0 - 10.23.255.255
 cidr:               10.23.0.0/16
 netname:            ICVPN-WALDHEIM
-bgp-status:         ignore
 nserver:            1.0.23.10.icvpn.registry-sync.dn42
 nserver:            2.0.23.10.icvpn.registry-sync.dn42
 nserver:            2.0.23.10.icvpn.registry-sync.dn42

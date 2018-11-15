@@ -1,7 +1,6 @@
 inet6num:           fddf:ebfd:a801:2192:0000:0000:0000:0000 - fddf:ebfd:a801:2192:ffff:ffff:ffff:ffff
 cidr:               fddf:ebfd:a801:2192::/64
 netname:            ICVPN-HUECKESWAGEN
-bgp-status:         ignore
 nserver:            0.1.146.10.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: hueckeswagen

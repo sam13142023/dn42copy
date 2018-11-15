@@ -7,6 +7,5 @@ mnt-by:             HAX404-MNT
 nserver:            chero.hax404.dn42
 nserver:            froschschenkel.hax404.dn42
 status:             ASSIGNED
-bgp-status:         ignore
 cidr:               172.22.251.128/26
 source:             DN42
