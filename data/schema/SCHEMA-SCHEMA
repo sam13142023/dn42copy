@@ -46,6 +46,4 @@ remarks:            # option descriptions
                     {enum1|enum2|} enumeration. One option in pipe('|') deliniation is allowed.
                     If there is a trailing pipe it means the enum is optional. Enum values must match the same rules as attribute names.
 +
-                    label=str keyword argument. Label for value with type 'str', 'int', or 'decimal'. The label must match the same rules as attribute names.
-+
                     'literal' Literal value. literal text value which must not contain any whitespace or single quotes.
