@@ -1,5 +1,5 @@
 mntner:             ZAICA-MNT
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyktjpbwSBEpIkZ8y0A5DSLjEDn6bj3GFB7BFVmDkCgL02BIML37ikEIZNeCD1lIl0YxnV+mTqOFAAl1b5Mh/du7OJufPmsRzstj4mYi23cL9xewqpF6W5fu6zujqSk4ljs4U9UhlHozZ3JCEse5+w/o7OXL2YUgCQEmJW3tXXxXFBOYxMLW1zB9GCThmnIkxsRi55wCWyM5vx4NGQys+eBgig1MbF9MREsFDB6PFYwuPqQu8IdgmnrqSZInWjTr82xMitFUdJ98lGxh40Xw+7GTyOfPRfxEhg/q7Qx8UcX37Vgwv0CfiO6dwfsYKD3+GKDL1s8qMZZQGdJJTq+ClJ root@kubuntu
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqGzPw037zTLOhlFHuAme9NDiN2AUHt/BpJVE15NRsreiQW9O+mlfUWOd2W8XCNbG/pysvZlUxVBCQjqBsmbDIsVf2jQtwnJrX+sQ9R7MTC/l+sOMoSP86QutxdeUfm5L9tjrKZd6CetrOCiAyvW2khKXixdZZ9r8IH4twbMTCaAxCLQVqfBEXjiyDx6HbkOc2Nl3oMTcuqZdDg044joA+9TrVGihrh00cl1vORY/cq10CStTHWRZKuf6QXAt0sBWLjxbPwWnrpx8uBjZSMH3jQppAg59bWLwuF9CFN76CzJ1heaDN9YkxqhwF9cc6FG1oVuPTomSeR45cqFfodRz/ root@kubuntu
 admin-c:            ASANYI-DN42
 tech-c:             ASANYI-DN42
 mnt-by:             ZAICA-MNT
