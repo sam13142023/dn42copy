@@ -3,4 +3,4 @@ admin-c:            BOLIHT-DN42
 tech-c:             BOLIHT-DN42
 mnt-by:             BOLIHT-MNT
 source:             DN42
-auth:		    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/M9BpUYEqe9LwKTZ4gr1CLBFA6y9fF3zP4k1U+lbIaU83ldrlEtjoVTk8Q+SWsuKIcQ3jdHxzbvTSMh/Gj2SGuSTJ8rHP8+b0pHHJ2zNZFII0vLDOgCoQWV0H89up/tUwtTNfdg9YDcP7elxLbG28KppqmwFEaZs5WZ8CIirpEfwyr8OyeoC1DUG2yh5D8llDLBUz8PKjxUZ4vsro+QRrXWpj82Dst7DRKTgNis/arAKXG5QXVS7UW3ugpKgFd+47WlotWkFtkh3Ewi78j/JeSrbM94+0SNEHoGQkaEOu6YImVOQqQ8DjQadsb/03uWSqxdqvwv2JJwThsGw8jrUZ thilo@manjaro-thinkpad
+auth:               pgp-fingerprint F01BB62051667EA5FE6A862BC1D46C106625589E
