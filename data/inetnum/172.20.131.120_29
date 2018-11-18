@@ -3,8 +3,6 @@ netname:            BOLIHT-NETWORK
 country:            DE
 admin-c:            BOLIHT-DN42
 tech-c:             BOLIHT-DN42
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 mnt-by:             BOLIHT-MNT
 status:             ASSIGNED
 cidr:               172.20.131.120/29
