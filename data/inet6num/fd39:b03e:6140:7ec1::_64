@@ -1,6 +1,7 @@
-inetnum:            172.20.149.64 - 172.20.149.71
-cidr:               172.20.149.64/29
+inet6num:           fd39:b03e:6140:7ec1:0000:0000:0000:0000 - fd39:b03e:6140:7ec1:ffff:ffff:ffff:ffff
+cidr:               fd39:b03e:6140:7ec1::/64
 netname:            SZCZOT3K-HOME-DN42
+country:            PL
 admin-c:            SZCZOT3K-DN42
 tech-c:             SZCZOT3K-DN42
 mnt-by:             SZCZOT3K-MNT
