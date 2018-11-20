@@ -1,0 +1,4 @@
+route:              172.20.131.120/29
+origin:             AS4242423226
+mnt-by:             BOLIHT-MNT
+source:             DN42

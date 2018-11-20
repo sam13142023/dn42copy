@@ -1,0 +1,9 @@
+inet6num:           fdae:0a3a:0aa5:a742:0000:0000:0000:0000-fdae:0a3a:0aa5:a742:ffff:ffff:ffff:ffff
+netname:            BOLIHT-NET-V6
+country:            DE
+admin-c:            BOLIHT-DN42
+tech-c:             BOLIHT-DN42
+mnt-by:             BOLIHT-MNT
+status:             ASSIGNED
+cidr:               fdae:0a3a:0aa5:a742::/64
+source:             DN42
