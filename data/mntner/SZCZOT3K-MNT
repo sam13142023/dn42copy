@@ -3,4 +3,6 @@ admin-c:            SZCZOT3K-DN42
 tech-c:             SZCZOT3K-DN42
 mnt-by:             SZCZOT3K-MNT
 auth:               pgp-fingerprint 6FDCA043793D3777E768EE53932C2158C12BCDA8
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgvhgJGKV9Lotcl/DNoLPYPv6rL5ipWxMgpvOH/ywldeXg1CKiOqVD5Sg105j5SeJmnVBP8WmHsbwxmxGqWcbOsrVIMOtP8vFJunGt5l1NuDnOztzauaN54hi9RnK0Apgzjp7pkOBdACk3hVhPb5Kg4ff971uJQ6eKazGZwNK16An7KmvJ0muXty2bugKTZ3oYYyiNypbaYKPincHUtgZTzLzpxZx0wJAPcdH/kz9pY6o685JqL8loZvjHLjHXVDZN5umoFE0JweZDmJ4eaHBCIz4IP9rrlaAitnKaYxZCtXgBPw4ucfijkrsJv9epEE7EgW64PiXOz2Im6mBA85dl filip@szczot3k.pl
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgvhgJGKV9Lotcl/DNoLPYPv6rL5ipWxMgpvOH/ywldeXg1CKiOqVD5Sg105j5SeJmnVBP8WmHsbwxmxGqWcbOsrVIMOtP8vFJunGt5l1NuDnOztzauaN54hi9RnK0Apgzjp7pkOBdACk3hVhPb5Kg4ff971uJQ6eKazGZwNK16An7KmvJ0muXty2bugKTZ3oYYyiNypbaYKPincHUtgZTzLzpxZx0wJAPcdH/kz9pY6o685JqL8loZvjHLjHXVDZN5umoFE0JweZDmJ4eaHBCIz4IP9rrlaAitnKaYxZCtXgBPw4ucfijkrsJv9epEE7EgW64PiXOz2Im6mBA85dl filip@szczot3k.pl
 source:             DN42
