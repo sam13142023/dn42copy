@@ -8,3 +8,4 @@ tech-c:             LALAKIS-DN42
 mnt-by:             LALAKIS-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            lalakis-2.lalakis.dn42
