@@ -5,7 +5,6 @@ country:            ZA
 admin-c:            ANDRECOETZEE-DN42
 tech-c:             ANDRECOETZEE-DN42
 mnt-by:             SILVER-MNT
-nserver:            dummy-dn42
 status:             ASSIGNED
 cidr:               172.20.254.0/24
 source:             DN42
