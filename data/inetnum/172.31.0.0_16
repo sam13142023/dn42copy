@@ -1,11 +1,10 @@
 inetnum:            172.31.0.0 - 172.31.255.255
-remarks:            ** chaosvpn
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             DN42-MNT
-status:             ALLOCATED
+cidr:               172.31.0.0/16
+netname:            ** chaosvpn
 nserver:            ns1.chaosvpn.g.nic.dn42
 nserver:            ns2.chaosvpn.g.nic.dn42
-cidr:               172.31.0.0/16
-netname:            Unnamed 172.31.0.0/16 Network
+status:             ALLOCATED
+policy:             closed
+org:                ORG-DN42
+mnt-by:             DN42-MNT
 source:             DN42
