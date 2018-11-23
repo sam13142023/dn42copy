@@ -6,5 +6,6 @@ country:            UK
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
 mnt-by:             BURBLE-MNT
+nserver:            ns1.burble.dn42
 status:             ASSIGNED
 source:             DN42
