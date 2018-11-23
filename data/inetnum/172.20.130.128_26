@@ -5,7 +5,6 @@ country:            US
 admin-c:            DRATHIR-DN42
 tech-c:             DRATHIR-DN42
 mnt-by:             DRATHIR-MNT
-nserver:            NS1.DRATHIR.DN42
 status:             ALLOCATED
 cidr:               172.20.130.128/26
 source:             DN42

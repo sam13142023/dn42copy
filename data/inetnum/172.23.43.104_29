@@ -5,10 +5,6 @@ country:            ZA
 admin-c:            WOLF-DN42
 tech-c:             WOLF-DN42
 mnt-by:             WOLF-MNT
-nserver:            hail.wolf.dn42
-nserver:            rain.wolf.dn42
-nserver:            snow.wolf.dn42
-nserver:            sleet.wolf.dn42
 status:             ASSIGNED
 cidr:               172.23.43.104/29
 source:             DN42

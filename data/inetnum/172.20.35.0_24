@@ -5,7 +5,6 @@ country:            KR
 admin-c:            BGPTRACE-DN42
 tech-c:             BGPTRACE-DN42
 mnt-by:             BGPTRACE-MNT
-nserver:            KR
 status:             ALLOCATED
 cidr:               172.20.35.0/24
 source:             DN42
