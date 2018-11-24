@@ -1,0 +1,6 @@
+mntner:             KLARA-MNT
+admin-c:            KLARA-DN42
+tech-c:             KLARA-DN42
+mnt-by:             KLARA-MNT
+source:             DN42
+auth:               pgp-fingerprint 2FA78EF1B31530EEF95A71A3936EF822625DD9EF
