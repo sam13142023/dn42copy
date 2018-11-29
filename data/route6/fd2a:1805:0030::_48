@@ -1,4 +1,4 @@
-route6:             fd69:c0de:beef::/48
+route6:             fd2a:1805:0030::/48
 origin:             AS4242423805
 mnt-by:             WHEX-MNT
 source:             DN42
