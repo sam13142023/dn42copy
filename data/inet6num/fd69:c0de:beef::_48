@@ -1,0 +1,9 @@
+inet6num:           fd69:c0de:beef:0000:0000:0000:0000:0000 - fd69:c0de:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:c0de:beef::/48
+netname:            HAXXYZ-V6
+country:            SE
+admin-c:            WHEX-DN42
+tech-c:             WHEX-DN42
+mnt-by:             WHEX-MNT
+status:             ASSIGNED
+source:             DN42
