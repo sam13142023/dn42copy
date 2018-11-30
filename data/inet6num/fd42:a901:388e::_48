@@ -1,5 +1,5 @@
-inet6num:           fd42:0020:0021:0000:0000:0000:0000:0000 - fd42:0020:0021:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:20:21::/48
+inet6num:           fd42:a901:388e:0000:0000:0000:0000:0000 - fd42:a901:388e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:a901:388e::/48
 netname:            INTERACTIVELABS-NET6
 country:            AU
 admin-c:            GISH-DN42
