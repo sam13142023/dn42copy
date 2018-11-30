@@ -1,0 +1,12 @@
+inet6num:           fd42:01ce:01ce:0000:0000:0000:0000:0000 - fd42:01ce:01ce:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1ce:1ce::/48
+netname:            HEIAS-NETWORK
+descr:              Network of HEIAS
+country:            BE
+admin-c:            HEIAS-DN42
+tech-c:             HEIAS-DN42
+mnt-by:             HEIAS-MNT
+nserver:            ns1.heias.dn42
+nserver:            ns2.heias.dn42
+status:             ASSIGNED
+source:             DN42

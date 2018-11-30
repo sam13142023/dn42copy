@@ -1,0 +1,4 @@
+route6:             fd42:1ce:1ce::/48
+origin:             AS4242423090
+mnt-by:             HEIAS-MNT
+source:             DN42
