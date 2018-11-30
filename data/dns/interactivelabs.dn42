@@ -1,0 +1,9 @@
+domain:             interactivelabs.dn42
+descr:              Interactive Labs
+admin-c:            GISH-DN42
+tech-c:             GISH-DN42
+org:                ORG-INTERACTIVELABS
+mnt-by:             INTERACTIVELABS-MNT
+nserver:            ns1.interactivelabs.dn42 172.20.21.1
+nserver:            ns2.interactivelabs.dn42 172.20.21.2
+source:             DN42
