@@ -1,0 +1,6 @@
+domain:             mot.dn42
+admin-c:            MOT-DN42
+tech-c:             MOT-DN42
+mnt-by:             MOT-MNT
+nserver:            ns1.mot.dn42
+source:             DN42
