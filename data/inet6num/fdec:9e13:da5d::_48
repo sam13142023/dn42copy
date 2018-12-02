@@ -1,5 +1,5 @@
-inet6num:           fd42:01ce:01ce:0000:0000:0000:0000:0000 - fd42:01ce:01ce:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:1ce:1ce::/48
+inet6num:           fdec:9e13:da5d:0000:0000:0000:0000:0000 - fdec:9e13:da5d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdec:9e13:da5d::/48
 netname:            HEIAS-NETWORK
 descr:              Network of HEIAS
 country:            BE

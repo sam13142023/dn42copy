@@ -1,4 +1,4 @@
-route6:             fd42:1ce:1ce::/48
+route6:             fdec:9e13:da5d::/48
 origin:             AS4242423090
 mnt-by:             HEIAS-MNT
 source:             DN42
