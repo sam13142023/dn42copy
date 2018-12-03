@@ -1,5 +1,5 @@
-inet6num:           fd42:fd42:fd42:0000:0000:0000:0000:0000 - fd42:fd42:fd42:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:fd42:fd42::/48
+inet6num:           fdb6:2f8b:4f0f:0000:0000:0000:0000:0000 - fdb6:2f8b:4f0f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb6:2f8b:4f0f::/48
 netname:            MOT-NET6
 descr:              Mot's IPv6 network
 country:            DE
@@ -7,6 +7,5 @@ admin-c:            MOT-DN42
 tech-c:             MOT-DN42
 mnt-by:             MOT-MNT
 nserver:            ns1.mot.dn42
-nserver:            ns2.mot.dn42
 status:             ASSIGNED
 source:             DN42
