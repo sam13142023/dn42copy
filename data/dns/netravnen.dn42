@@ -1,0 +1,7 @@
+domain:             netravnen.dn42
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+nserver:            marty.netravnen.dn42 172.20.128.80
+nserver:            bart.netravnen.dn42 172.20.128.81
+source:             DN42
