@@ -4,6 +4,6 @@ tech-c:             BURBLE-DN42
 mnt-by:             BURBLE-MNT
 remarks:            WHMCR-MNT
 members:            AS4242420210
-remarks:            CORESTORAGE-MNT
-members:            AS4242422673
+remarks:            KLARA-MNT
+members:            AS4242421009
 source:             DN42
