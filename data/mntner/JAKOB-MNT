@@ -3,3 +3,4 @@ admin-c:            JAKOB-DN42
 tech-c:             JAKOB-DN42
 mnt-by:             JAKOB-MNT
 source:             DN42
+auth:		    pgp-fingerprint B857F0B1
