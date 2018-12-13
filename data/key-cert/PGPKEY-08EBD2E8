@@ -1,0 +1,57 @@
+key-cert:           PGPKEY-08EBD2E8
+method:             PGP
+owner:              Christoffer <christoffer@netravnen.de>
+fingerpr:           18DD 23C5 5029 3098 DE07  052A 9DCF 2CA0 08EB D2E8
+tech-c:             ORG-NETRAVNEN-DN42
+admin-c:            ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+source:             DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEXAAS+xYJKwYBBAHaRw8BAQdALbnw1RxC+0YdAmJ1+yfqVZk0c47PpF1yhCZF
+certif:             rmUBPZq0LUNocmlzdG9mZmVyIEhhbnNlbiA8Y2hyaXN0b2ZmZXJAbmV0cmF2bmVu
+certif:             LmRlPoiWBBMWCAA+FiEEGN0jxVApMJjeBwUqnc8soAjr0ugFAlwAEvsCGwMFCQtJ
+certif:             i7UFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQnc8soAjr0uglrwEAswZ2Bl4w
+certif:             dTriXbJ9SxcB0OZdclc9DW8I/Kw+BlISKh8BAPijRMhM2Nrqf05wLjJ34rtwhBwj
+certif:             IHeXBr+J355R6Z4AiQIzBBABCAAdFiEEEt0CHXrC08M9KiVicy9K+wlgyMkFAlwA
+certif:             E0sACgkQcy9K+wlgyMmH8A/9E5VV88bMdvzQHCUF6HUp9ZlLNxZyOe5rodExwEEU
+certif:             bUH3C/oV+g1CCsh9JxGRIzHeDA3sfXcd4uEFYNIcCPG8P3bNEWQJkaYFOw6L4T1x
+certif:             QO5MyZ9YE1kdmaIcXtflP1y7ZYLQqLyTJu2okanzhtt6UyQWUgDN4MNghAswL/6w
+certif:             W55AzByzgH4QmMBXv1n/hzoHkNBpc90zUmOZAtyVTxf27iQhjNOJhBzLhAyVkB+4
+certif:             X3Lm9RERyza2dPBQF2nC1dTiXIVEZMKDpJr4u7vjENP94B6SXl0hRFsX49o5cQrx
+certif:             nQSkvUsDbdyWB3qnRIDt62tNDUuW2yTJziJ/zefFXgPymMzZa0A5MOXjH07GmWfm
+certif:             LPLrP9iqYexPPw64rMsubp0Ld02jjWSKqaIMWQEXXX9j4MgY0k2j3ON3zTUCuMFY
+certif:             W3OKQ9Vwbr8xgULtURhu7uwelUuOUNzoGTvkdBMxEgm9FolJi656HDLaU266A6Jf
+certif:             nDT1qXPMFgQsYTxhWxgT9lInvICD7oDlrRf9mRsxTa8j653HCKBjsW6lmBo8eWeE
+certif:             Y2oU1waQfOqqb7FQul/xVY+cRNQCWNA9QvG8j78MLvBKNYLlnjZgEFirnXWby9+W
+certif:             eC42l0wSGQO5w8pngOaZwd6vQtzPG5Iuigz5sCnSJNLhyddW43xKN4BPdlmns600
+certif:             dO+JAjMEEAEIAB0WIQSv46oqSEzjX1YsHape9PHYlKS//AUCXAATYQAKCRBe9PHY
+certif:             lKS//IgqD/4+e2Ncs33b0jXZWNBliG/Ulp+04DS2DFhCFnuep0ka1y/eyCMMbtTz
+certif:             lc2JfFk1IcCoesOKUlz4vrAgLIikXhhWA4AjqWHoHGPfZ4H1aSbCOevw1ToAo/QI
+certif:             ubH0kWaUzs1deWkyBnNM7EXl/uCOCmCE0P4V5QV+S3mmK7b+cQVSfRBaNFD3jnVw
+certif:             2cTjUQfY5s3++YjGu1pSQmALKgGsCK9udXzRYHIT252phIdYwD8CWnAYnrpzRNOx
+certif:             9ebP6N563LapB71C4QYD6em2jtiB3jHdSMWpxGI5GXR+IBYmrb7Cl/bvJGEsJGbv
+certif:             dHgy1D9gZjBoPM5ZCGpjHycR4eCNQqjkyIsiHC7jqP4wKZ2IS+neZskcu8rKD8Kw
+certif:             IwWXpz4PJZzxpRWYwVOH2tPTMH3wWsqKik9NUi8iw6/IM6Tf2Lmj2j6Z9luMYCYt
+certif:             PG3UkAT3izWW1oo2sAA6A/oVCQ/dCArPcQgSj3k+ahJJ3RmfQZiieHOJx/W/EodA
+certif:             YCBmxUVJDJ8j1xNDSIonqB8wdKXKBYjTiz5b4+1UWI5ZzrNKBInGhKfHETqiJLGq
+certif:             QajyvrgyMJ3n9wJxjiJ+ez9B5MBmV9ntmYj6GXNPNWtM59SfgEoLsigiC3B10PUP
+certif:             JnqMyK7CcCbLU7y5NnRmBxtMZMwUusGXVp4nWOhSTRYYvlldsT+a2IkCMwQQAQgA
+certif:             HRYhBMizgqihzc23cf6yTMZUlI/ahr7NBQJcABOBAAoJEMZUlI/ahr7Nna4P/2/n
+certif:             3FgfOo2Y9LywB8hxB96jhD8RtlG77kwWi/dMqK4scs9tjLBO/L9bFUihC8j03DwJ
+certif:             v9Nck8XsGK8pTMWgsvHIzXKoKm5fRfaEGCOdgcXL3Af/qG56PZ42Jb20KxBlvBNv
+certif:             Q4ZW9oO1/q4ZTwEsBlVbz2XzeqVKVy/xyHziHqBlIpC3h8TS04aju2KBus6hLArs
+certif:             cE+sWfbLzWvpDjfiz8l7I6vHE2xtaLgtIaErk9YkopJf3HJqYunfRg2GOOV4amhP
+certif:             JHd5cd8qmgIHzeX55uEbr/+n37I1xcoZ8mFZDoKikQQ5eIivTz64KFzt2yHgbG3z
+certif:             FwOY4Wwi39Y+XhWGYb70gExx0yPj5icRF/Toa2KP3zlhrGL/awKM9xPxdcHkcCcK
+certif:             PFAr+UBLWOCJAoK/m/C6NyTw5ULHoC6ZLffHMvEzzn/X7gFeXB3pHRvGop+0dJQG
+certif:             K6JWxP/LePPeLyfHPGEZ4D1pMPFWtTaXtX//0t35nQ/5Z6BKah2U+lpl4KtIrtwj
+certif:             WtnTqtXsuRJirIb1tkikc1WQA3if3ZnTJWE4UjWf5WDsyXRmAxTK1minH817kEeZ
+certif:             JPYV1K/xibafd2hUcQnrXKbqE7YBHMKNTfLPwTxR8EUjWTpWmRtL540kPWtSmzfi
+certif:             r+V2x2yxHLVbESHZYzeXb1Q6RcQJ8LjQALPAUUQRuDgEXAAS+xIKKwYBBAGXVQEF
+certif:             AQEHQEN5FPc25RO2t5S1PS6u0nBiuP0A4PI+8wl5Rcg5oCEXAwEIB4h+BBgWCAAm
+certif:             FiEEGN0jxVApMJjeBwUqnc8soAjr0ugFAlwAEvsCGwwFCQtJi7UACgkQnc8soAjr
+certif:             0uhz6gD/dvSGpgZLK4CabU6LtAgSG5+R0uvwGjubKTXUpEhy3FMA/2uvgG5QHH5J
+certif:             LMwY3XJYSTTUBtkYz1jdQF5afgBUZacF
+certif:             =QpXn
+certif:             -----END PGP PUBLIC KEY BLOCK-----
