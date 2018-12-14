@@ -1,6 +1,40 @@
 aut-num:            AS4242420144
-as-name:            NETRAVNEN-NETWORK-VIRTUAL-LAB
+as-name:            NETRAVNEN
+member-of:          AS4242420144:AS-NETRAVNEN
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # The following guidelines apply when peering:
+remarks:            # - Invalid announcements are discarded.
+remarks:            # - max-length should(!) be implemented in data/route(6)/* objects.
+remarks:            #   - If not. Smaller objects that the prefix will not be accepted.
+remarks:            #   - Filters used: https://git.dn42.us/netravnen/dn42-rpki-export.json/src/master/roa
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # List of implemented well-kown comunities:
+remarks:            # - GRACEFUL_SHUTDOWN (a.k.a. GSHUT), RFC 8326
+remarks:            # - BLACKHOLE, RFC 7999
+remarks:            # - NOPEER, RFC 3765
+remarks:            # - NO_EXPORT, RFC 1997
+remarks:            # - NO_ADVERTISE, RFC 1997
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Peering
+remarks:            #
+mp-import:          afi any.unicast from AS4242420144:AS-UPSTREAM   accept   ANY
+mp-export:          afi any.unicast to   AS4242420144:AS-UPSTREAM   announce AS4242420144:AS-NETRAVNEN AS4242420144:AS-DOWNSTREAM
+remarks:            #
+mp-import:          afi any.unicast from AS4242420144:AS-TRANSIT    accept   ANY
+mp-export:          afi any.unicast to   AS4242420144:AS-TRANSIT    announce ANY
+remarks:            #
+mp-import:          afi any.unicast from AS4242420144:AS-PEER       accept   PeerAS
+mp-export:          afi any.unicast to   AS4242420144:AS-PEER       announce AS4242420144:AS-NETRAVNEN
+remarks:            #
+mp-import:          afi any.unicast from AS4242420144:AS-DOWNSTREAM accept   PeerAS
+mp-export:          afi any.unicast to   AS4242420144:AS-DOWNSTREAM announce ANY
 source:             DN42
