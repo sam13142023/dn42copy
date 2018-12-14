@@ -1,7 +1,9 @@
 inetnum:            172.20.128.80 - 172.20.128.87
-netname:            NETRAVNEN-NETWORK-VIRTUAL-LAB
+netname:            NETRAVNEN-NET-1
+descr:              Used for loopback interfaces on nodes + multihop bgp peerings
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
+zone-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               172.20.128.80/29
