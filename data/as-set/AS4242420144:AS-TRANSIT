@@ -1,0 +1,8 @@
+as-set:             AS4242420144:AS-TRANSIT
+remarks:            HESSNET-MNT (GRAFFEN-DN42)
+members:            AS4242423934
+mbrs-by-ref:        NETRAVNEN-MNT
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+source:             DN42
