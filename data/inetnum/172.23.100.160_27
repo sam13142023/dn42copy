@@ -1,0 +1,8 @@
+inetnum:            172.23.100.160 - 172.23.100.191
+cidr:               172.23.100.160/27
+netname:            KILOBYTE-NETWORK
+admin-c:            KILOBYTE-DN42
+tech-c:             KILOBYTE-DN42
+mnt-by:             KILOBYTE-MNT
+status:             ASSIGNED
+source:             DN42
