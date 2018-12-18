@@ -1,5 +1,5 @@
-inetnum:            172.23.100.160 - 172.23.100.191
-cidr:               172.23.100.160/27
+inet6num:           fd33:9493:a6ed:0000:0000:0000:0000:0000 - fd33:9493:a6ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd33:9493:a6ed::/48
 netname:            KILOBYTE-NETWORK
 admin-c:            KILOBYTE-DN42
 tech-c:             KILOBYTE-DN42
