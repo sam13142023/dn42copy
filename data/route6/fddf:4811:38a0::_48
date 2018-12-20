@@ -1,4 +1,4 @@
-route6:             fddf:4811:38a0::_48
+route6:             fddf:4811:38a0::/48
 origin:             AS4242426767
 max-length:         48
 admin-c:            IPHIL64-DN42
