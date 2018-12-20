@@ -1,5 +1,5 @@
-inet6num:           fd42:6767:6767:0000:0000:0000:0000:0000 - fd42:6767:6767:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:6767:6767::/48
+inet6num:           fddf:4811:38a0:0000:0000:0000:0000:0000 - fddf:4811:38a0:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:4811:38a0::/48
 netname:            ACONSULT-NETWORK
 country:            FR
 admin-c:            IPHIL64-DN42
