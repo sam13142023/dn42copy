@@ -1,5 +1,5 @@
 route6: fd42:6767:6767::/48
-origin: AS4242426767
+origin: AS42426767
 max-length: 48
 mnt-by: ACONSULT-MNT
 source: DN42
