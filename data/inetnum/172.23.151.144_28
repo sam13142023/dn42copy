@@ -1,0 +1,10 @@
+inetnum:            172.23.151.144 - 172.23.151.159
+cidr:               172.23.151.144/28
+netname:            SKUFOUR1-NETWORK
+admin-c:            SKUSAVI-DN42
+tech-c:             SKUSAVI-DN42
+mnt-by:             SKUSAVI-MNT
+nserver:            ns1.skusavi.dn42
+nserver:            ns2.skusavi.dn42
+status:             ASSIGNED
+source:             DN42
