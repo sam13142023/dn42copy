@@ -6,7 +6,6 @@ country:            IT
 admin-c:            SKUSAVI-DN42
 tech-c:             SKUSAVI-DN42
 mnt-by:             SKUSAVI-MNT
-nserver:            ns1.skusavi.dn42
-nserver:            ns2.skusavi.dn42
+nserver:            ns.skusavi.dn42
 status:             ASSIGNED
 source:             DN42
