@@ -5,4 +5,3 @@ mnt-by:             BENL-MNT
 nserver:            ns1.rasp.dn42 172.21.106.62
 nserver:            ns1.rasp.dn42 fdee:90fc:cafe:8008::53
 source:             DN42
-
