@@ -6,7 +6,5 @@ country:            DE
 admin-c:            ORANGE-DN42
 tech-c:             ORANGE-DN42
 mnt-by:             ORANGE-MNT
-nserver:            ns1.evenet.dn42
-nserver:            ns2.evenet.dn42
 status:             ASSIGNED
 source:             DN42
