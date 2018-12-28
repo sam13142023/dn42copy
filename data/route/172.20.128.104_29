@@ -1,0 +1,5 @@
+route:              172.20.128.104/29
+origin:             AS4242420144
+max-length:         29
+mnt-by:             NETRAVNEN-MNT
+source:             DN42
