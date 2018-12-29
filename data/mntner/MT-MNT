@@ -3,4 +3,4 @@ admin-c:            MT-DN42
 tech-c:             MT-DN42
 mnt-by:             MT-MNT
 source:             DN42
-auth:               pgp-fingerprint B6D5D95BC7BC48625FB9224CEC81BDF3013F7D64
+auth:               PGPKEY-013F7D64
