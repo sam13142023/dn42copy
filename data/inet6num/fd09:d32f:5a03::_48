@@ -1,5 +1,5 @@
-inet6num:           fd69:1337:cafe:0000:0000:0000:0000:0000 - fd69:1337:cafe:ffff:ffff:ffff:ffff:ffff
-cidr:               fd69:1337:cafe::/48
+inet6num:           fd09:d32f:5a03:0000:0000:0000:0000:0000 - fd09:d32f:5a03:ffff:ffff:ffff:ffff:ffff
+cidr:               fd09:d32f:5a03::/48
 netname:            42ISLIFE-NETWORK
 descr:              42is Life Network
 country:            CA
