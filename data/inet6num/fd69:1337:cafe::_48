@@ -7,6 +7,5 @@ admin-c:            42ISLIFE-DN42
 tech-c:             42ISLIFE-DN42
 mnt-by:             42ISLIFE-MNT
 nserver:            ns1.42islife.dn42
-nserver:            ns2.42islife.dn42
 status:             ASSIGNED
 source:             DN42
