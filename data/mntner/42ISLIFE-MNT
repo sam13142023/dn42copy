@@ -4,6 +4,6 @@ tech-c:             42ISLIFE-DN42
 mnt-by:             42ISLIFE-MNT
 descr:              42is Life Network Operatiosn
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICPQV5HsS0Ajh8OLd2EAC35NWsN5qguuTf/jTLR/1sF5 42isLife DN42 Key
-auth:               pgp-fingerprint 97C7 2D9B E3B3 07D4 03A6  7E5E 99F5 F896 3910 C621
+auth:               pgp-fingerprint 97C72D9BE3B307D403A67E5E99F5F8963910C621
 remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICPQV5HsS0Ajh8OLd2EAC35NWsN5qguuTf/jTLR/1sF5 42isLife DN42 Key
 source:             DN42
