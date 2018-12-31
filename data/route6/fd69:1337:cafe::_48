@@ -1,0 +1,4 @@
+route6:             fd69:1337:cafe::/48
+origin:             AS4242420505
+mnt-by:             42ISLIFE-MNT
+source:             DN42

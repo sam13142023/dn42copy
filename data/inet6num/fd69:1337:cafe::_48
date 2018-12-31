@@ -1,0 +1,12 @@
+inet6num:           fd69:1337:cafe:0000:0000:0000:0000:0000 - fd69:1337:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:1337:cafe::/48
+netname:            42ISLIFE-NETWORK
+descr:              42is Life Network
+country:            CA
+admin-c:            42ISLIFE-DN42
+tech-c:             42ISLIFE-DN42
+mnt-by:             42ISLIFE-MNT
+nserver:            ns1.42islife.dn42
+nserver:            ns2.42islife.dn42
+status:             ASSIGNED
+source:             DN42
