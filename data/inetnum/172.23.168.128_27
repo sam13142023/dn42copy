@@ -1,0 +1,10 @@
+inetnum:            172.23.168.128 - 172.23.168.159
+cidr:               172.23.168.128/27
+netname:            DRCAI-NETWORK
+admin-c:            DRCAI-DN42
+tech-c:             DRCAI-DN42
+mnt-by:             DRCAI-MNT
+nserver:            ns1.drcai.dn42
+nserver:            ns2.drcai.dn42
+status:             ASSIGNED
+source:             DN42
