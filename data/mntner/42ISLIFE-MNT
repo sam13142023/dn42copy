@@ -6,4 +6,5 @@ descr:              42is Life Network Operatiosn
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICPQV5HsS0Ajh8OLd2EAC35NWsN5qguuTf/jTLR/1sF5 42isLife DN42 Key
 auth:               pgp-fingerprint 97C72D9BE3B307D403A67E5E99F5F8963910C621
 remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICPQV5HsS0Ajh8OLd2EAC35NWsN5qguuTf/jTLR/1sF5 42isLife DN42 Key
+remarks:            Current PGP Key Information: https://dn42.42is.life/pgp.html
 source:             DN42
