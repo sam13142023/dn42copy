@@ -2,8 +2,6 @@ inet6num:           fd88:8888:8888:0000:0000:0000:0000:0000 - fd88:8888:8888:fff
 cidr:               fd88:8888:8888::/48
 netname:            DRCAI-NETWORK
 descr:              Drcai Shanghai BGP Test
-nserver:            ns1.drcai.dn42
-nserver:            ns2.drcai.dn42
 country:            CN
 admin-c:            DRCAI-DN42
 tech-c:             DRCAI-DN42
