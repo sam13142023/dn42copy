@@ -1,5 +1,5 @@
-inet6num:           fd18:1818:18:0000:0000:0000:0000:0000 - fd18:8888:18:ffff:ffff:ffff:ffff:ffff
-cidr:               fd18:1818:18::/48
+inet6num:           fdf7:0bca:c983:0000:0000:0000:0000:0000 - fdf7:0bca:c983:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf7:0bca:c983::/48
 netname:            DRCAI-NETWORK
 descr:              Drcai Shanghai BGP Test
 country:            CN
