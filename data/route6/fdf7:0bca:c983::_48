@@ -1,4 +1,4 @@
-route6:             fd18:1818:18::/48
+route6:             fdf7:0bca:c983::/48
 origin:             AS4242421518
 mnt-by:             DRCAI-MNT
 source:             DN42
