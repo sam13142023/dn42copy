@@ -6,3 +6,4 @@ tech-c:             NIRF-DN42
 mnt-by:             NIRF-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.as4242420149.dn42
