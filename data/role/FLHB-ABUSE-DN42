@@ -1,5 +1,5 @@
 role:               FLHB-ABUSE-DN42
-abuse-mailbox:      fritz+abuse@grimpen.net
+abuse-mailbox:      abuse@p5.flhb.de
 admin-c:            FRITZ-DN42
 tech-c:             FRITZ-DN42
 nic-hdl:            FLHB-ABUSE-DN42
