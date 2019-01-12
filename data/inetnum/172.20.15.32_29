@@ -1,4 +1,4 @@
-inetnum:            172.20.15.33 - 172.20.15.38
+inetnum:            172.20.15.32 - 172.20.15.39
 cidr:               172.20.15.32/29
 netname:            TETSAI-NETWORK
 admin-c:            TETSAI-DN42
