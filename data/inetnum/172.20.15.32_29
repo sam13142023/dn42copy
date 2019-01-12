@@ -1,0 +1,10 @@
+inetnum:            172.20.15.33 - 172.20.15.38
+cidr:               172.20.15.32/29
+netname:            TETSAI-NETWORK
+admin-c:            TETSAI-DN42
+tech-c:             TETSAI-DN42
+mnt-by:             TETSAI-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42
