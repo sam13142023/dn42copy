@@ -1,5 +1,5 @@
 route:              172.20.129.160/27
-descr:              BURBLE IPv4 Route
+descr:              burble.dn42 https://dn42.burble.com/
 origin:             AS4242422601
 mnt-by:             BURBLE-MNT
 source:             DN42

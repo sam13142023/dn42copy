@@ -1,7 +1,7 @@
 inet6num:           fd42:4242:2601:0000:0000:0000:0000:0000 - fd42:4242:2601:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:4242:2601::/48
 netname:            BURBLE-NETWORK
-descr:              Burble IPv6
+descr:              burble.dn42 https://dn42.burble.com/
 country:            UK
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42

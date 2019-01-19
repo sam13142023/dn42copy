@@ -1,6 +1,6 @@
 aut-num:            AS4242422601
 as-name:            BURBLE-AS
-descr:              Burble AS
+descr:              burble.dn42 https://dn42.burble.com/
 remarks:            --------------------------------------------------------
 remarks:            New peers welcome; check the dn42 peerfinder to find
 remarks:            your nearest node then contact dn42@burble.com
