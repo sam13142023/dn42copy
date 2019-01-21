@@ -1,7 +1,7 @@
 inetnum:            172.22.1.0 - 172.22.1.255
-netname:            CCCHB-HH-TRANSIT-IP4NET
+netname:            CCCHB-NETMON-IP4NET
 org:                ORG-FLHB-DN42
-descr:              Pool for some transit experiments
+descr:              CCCHB network monitoring test prefix
 country:            DE
 admin-c:            FRITZ-DN42
 admin-c:            PYROPETER-DN42
