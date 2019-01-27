@@ -1,5 +1,6 @@
 mntner:             DEBOERDN2000-MNT
-admin-c:             DEBOERDN2000-DN42
+admin-c:            DEBOERDN2000-DN42
 tech-c:             DEBOERDN2000-DN42
 mnt-by:             DEBOERDN2000-MNT
 source:             DN42
+auth: pgp-fingerprint 4429 F24D F840 9870 04C2  06E0 D2E2 4990 97A6 962E
