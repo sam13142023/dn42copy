@@ -1,6 +1,6 @@
 domain:             hack
+remarks:            TLD of chaosvpn.
 nserver:            ns1.chaosvpn.g.nic.dn42 172.31.0.5
 nserver:            ns2.chaosvpn.g.nic.dn42 172.31.255.53
-remarks:            Imported from chaosvpn, do not edit!
 mnt-by:             DN42-MNT
-source:             CHAOSVPN
+source:             DN42
