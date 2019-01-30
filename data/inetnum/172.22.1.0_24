@@ -1,6 +1,6 @@
 inetnum:            172.22.1.0 - 172.22.1.255
 netname:            CCCHB-NETMON-IP4NET
-org:                ORG-FLHB-DN42
+org:                ORG-CCCHB-DN42
 descr:              CCCHB network monitoring test prefix
 country:            DE
 admin-c:            FRITZ-DN42
@@ -10,7 +10,8 @@ tech-c:             PYROPETER-DN42
 zone-c:             FRITZ-DN42
 zone-c:             PYROPETER-DN42
 mnt-by:             FLHB-NETGROUP-MNT
-nserver:            ns.p5.flhb.de
+mnt-by:             CCCHB-NETGROUP-MNT
+nserver:            ns.p5.ccchb.de
 ds-rdata:           16774 8 1 013BF1CD34555A024D3026F2A3F9664A54F862AC
 ds-rdata:           16774 8 2 C9667FE2D7B593C425787CE47124CD9F8BCC03A0E12FBB495941343A CE31612B
 ds-rdata:           13725 7 1 00C75BC9D5CDED7D8704579FC152EEF57D885E59
