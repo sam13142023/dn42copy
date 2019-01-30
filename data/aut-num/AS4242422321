@@ -1,6 +1,6 @@
 aut-num:            AS4242422321
 as-name:            CCCHB-NETMON-AS
-org:                ORG-FLHB-DN42
+org:                ORG-CCCHB-DN42
 remarks:            ------------------------
 remarks:            CCCHB Network monitoring
 remarks:            ------------------------
@@ -18,4 +18,5 @@ mp-export:          afi ipv6 to AS-ANY announce { fdd6:aff6:5f6f:a000::/56^+ }
 admin-c:            FRITZ-DN42
 tech-c:             FRITZ-DN42
 mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
 source:             DN42

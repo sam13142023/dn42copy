@@ -1,9 +1,9 @@
 aut-num:            AS76198
 as-name:            ORG-CCCHB-AS
-org:                ORG-FLHB-DN42
+org:                ORG-CCCHB-DN42
 remarks:            ------------------------
-remarks:            Welcome to the DN42 autonomous system of Fablab Bremen and
-remarks:            Chaos Computer Club Bremen. We have an open peering policy.
+remarks:            Welcome to the DN42 autonomous system of  Chaos Computer
+remarks:            Club Bremen. We have an open peering policy.
 remarks:            ------------------------
 remarks:            Transit from AS64712
 mp-import:          afi ipv4 from AS64712 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
@@ -22,4 +22,5 @@ admin-c:            PYROPETER-DN42
 tech-c:             FRITZ-DN42
 tech-c:             PYROPETER-DN42
 mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
 source:             DN42

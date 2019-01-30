@@ -1,6 +1,6 @@
 inetnum:            172.20.36.0 - 172.20.37.255
 netname:            CCCHB-ENDUSER-DN42-IP4NET
-org:                ORG-FLHB-DN42
+org:                ORG-CCCHB-DN42
 descr:              Big pool for guests of our new hackerspace
 country:            DE
 admin-c:            FRITZ-DN42
@@ -10,6 +10,7 @@ tech-c:             PYROPETER-DN42
 zone-c:             FRITZ-DN42
 zone-c:             PYROPETER-DN42
 mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
 nserver:            ns2.ccchb.de
 ds-rdata:           3144 7 1 CCE65E22EDE791CDEAD7A3B586E52664A48872A1
 ds-rdata:           3144 7 2 ED4A852646DAA8667113384C74521E70375F9C2D0D52519D4F5616C0 0DA43279
