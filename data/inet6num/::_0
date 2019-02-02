@@ -7,9 +7,7 @@ remarks:            Because portions are not routable inside dn42
 remarks:            reservations are not allowed at this level.
 remarks:            
 remarks:            Open policy can be found inside fd00::/8
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             DUMMY-MNT
+mnt-by:             DN42-MNT
 policy:             reserved
 cidr:               ::/0
 source:             DN42

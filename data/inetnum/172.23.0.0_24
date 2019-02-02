@@ -4,8 +4,6 @@ netname:            NET-ANY00-DN42
 descr:              Anycast services
 remarks:            * Anyone is allowed to allocate from this pool (max /28 per person)
 policy:             open
-admin-c:            NIXNODES-DN42
-tech-c:             NIXNODES-DN42
-mnt-by:             NIXNODES-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42

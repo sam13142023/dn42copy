@@ -4,8 +4,6 @@ netname:            NET-ANY20-DN42
 descr:              Anycast services
 remarks:            * Anyone is allowed to allocate from this pool (/32 per service)
 policy:             open
-admin-c:            HEXA-DN42
-tech-c:             HEXA-DN42
-mnt-by:             HEXA-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42

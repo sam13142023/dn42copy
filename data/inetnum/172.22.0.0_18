@@ -7,8 +7,6 @@ remarks:            requirements for new allocations:
 remarks:            * MUST e-mail equinox <equinox@diac24.net>
 remarks:            * MUST have an internet-reachable contact e-mail address
 remarks:            * will be deleted if inactive for some period of time
-admin-c:            EQUINOX-DN42
-admin-c:            MORTZU-DN42
-mnt-by:             DUMMY-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42

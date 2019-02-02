@@ -4,7 +4,7 @@ descr:              DN42 native address space
 policy:             ask
 remarks:            reserved for use in times of shortness
 admin-c:            PRAUSCHER-DN42
-mnt-by:             PRAUSCHER-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 cidr:               172.22.224.0/20
 source:             DN42

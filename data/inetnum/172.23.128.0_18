@@ -6,10 +6,7 @@ remarks:            * please subscribe to the mailing-list in case you need to b
 remarks:            * default-allocation: /25, although a /23 is reserved for possible expansion.
 remarks:            * you are free to allocate up to /23 without further discussion, but please
 remarks:            * don't do by default.
-admin-c:            EQUINOX-DN42
-admin-c:            SOURIS-DN42
-admin-c:            NIXNODES-DN42
-mnt-by:             NIXNODES-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 cidr:               172.23.128.0/18
 source:             DN42
