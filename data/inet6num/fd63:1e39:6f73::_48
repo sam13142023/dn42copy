@@ -5,7 +5,7 @@ descr:              Anonet IPv6
 country:            DE
 admin-c:            LEX-DN42
 tech-c:             LEX-DN42
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fd63:1e39:6f73::/48
 mnt-by:             DUMMY-MNT
 source:             DN42

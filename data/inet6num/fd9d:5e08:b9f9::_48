@@ -4,6 +4,6 @@ country:            DE
 admin-c:            IRL-DN42
 tech-c:             IRL-DN42
 mnt-by:             IRL-MNT
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fd9d:5e08:b9f9::/48
 source:             DN42
