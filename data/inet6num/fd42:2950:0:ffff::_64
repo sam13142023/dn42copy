@@ -7,5 +7,5 @@ tech-c:             CR-DN42
 mnt-by:             SIS-MNT
 org:                ORG-SIS
 status:             ASSIGNED
-cidr:               fd42:295::ffff::/64
+cidr:               fd42:2950:0:ffff::/64
 source:             DN42
