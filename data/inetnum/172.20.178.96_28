@@ -1,4 +1,4 @@
-inetnum:            172.20.178.96-172.20.178.111
+inetnum:            172.20.178.96 - 172.20.178.111
 cidr:               172.20.178.96/28
 netname:            MRXERMON-NETWORK-172-20-178-96_28
 country:            DE

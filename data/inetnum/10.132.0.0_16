@@ -1,11 +1,9 @@
 inetnum:            10.132.0.0 - 10.132.255.255
 cidr:               10.132.0.0/16
-netname:            ICVPN-PADERBORN
+netname:            ICVPN-HOCHSTIFT
 nserver:            53.251.132.10.icvpn.registry-sync.dn42
-nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.a.2.1.f.f.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42
-nserver:            58.181.70.80.icvpn.registry-sync.dn42
-nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.1.0.0.0.0.5.4.0.2.0.a.2.icvpn.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.f.2.4.3.2.0.6.2.2.3.0.a.2.icvpn.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: paderborn
+remarks:            File: hochstift
 mnt-by:             DN42-MNT
 source:             ICVPN

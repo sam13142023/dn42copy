@@ -1,8 +1,0 @@
-inetnum:            172.31.112.0 - 172.31.112.255
-cidr:               172.31.112.0/24
-netname:            IMPORTED-FROM-CHAOSVPN
-nserver:            ns1.chaosvpn.g.nic.dn42
-nserver:            ns2.chaosvpn.g.nic.dn42
-remarks:            Imported from chaosvpn, do not edit!
-mnt-by:             DN42-MNT
-source:             CHAOSVPN

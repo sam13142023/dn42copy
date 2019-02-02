@@ -1,8 +1,7 @@
 inetnum:            10.100.50.0 - 10.100.50.255
 cidr:               10.100.50.0/24
-netname:            IMPORTED-FROM-CHAOSVPN
-nserver:            ns1.chaosvpn.g.nic.dn42
-nserver:            ns2.chaosvpn.g.nic.dn42
+netname:            CHAOSVPN-X0RSPACE
+status:             ASSIGNED
 remarks:            Imported from chaosvpn, do not edit!
 mnt-by:             DN42-MNT
 source:             CHAOSVPN
