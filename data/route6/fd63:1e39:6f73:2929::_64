@@ -1,4 +1,4 @@
-route6:             fd63:1e39:6f73:2929:0:0:0:0/64
+route6:             fd63:1e39:6f73:2929::/64
 max-length:         64
 origin:             AS64654
 origin:             AS4242422718
