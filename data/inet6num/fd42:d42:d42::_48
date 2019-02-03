@@ -6,6 +6,6 @@ mnt-by:             DN42-MNT
 nserver:            lavana.sjc.xuu.dn42
 nserver:            kapha.mtr.xuu.dn42
 nserver:            rishi.bre.xuu.dn42
-policy:             open
+policy:             ask
 status:             ALLOCATED
 source:             DN42

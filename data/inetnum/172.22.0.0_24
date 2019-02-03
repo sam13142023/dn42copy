@@ -3,7 +3,7 @@ cidr:               172.22.0.0/24
 netname:            NET-CS22-DN42
 descr:              DN42 services range
 mnt-by:             DN42-MNT
-policy:             open
+policy:             ask
 status:             ALLOCATED
 nserver:            ns1.nixnodes.dn42
 nserver:            ns2.nixnodes.dn42
