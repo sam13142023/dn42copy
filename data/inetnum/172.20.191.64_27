@@ -1,6 +1,6 @@
 inetnum:            172.20.191.64 - 172.20.191.95
 cidr:               172.20.191.64/27
-netname:            TCDUE-NET6-01
+netname:            TCDUE-NET4-01
 descr:              Network of TCDUE
 country:            DE
 admin-c:            TCDUE-DN42
