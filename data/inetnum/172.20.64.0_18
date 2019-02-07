@@ -7,13 +7,6 @@ remarks:            ** Include your organisation handle in the request
 remarks:            ** Please Introduce yourself and your organisation on the ML before requesting address space
 netname:            NET-BLK64018-DN42
 policy:             ask
-admin-c:            NIXNODES-DN42
-admin-c:            SOURIS-DN42
-admin-c:            GRMML-DN42
-admin-c:            PRAUSCHER-DN42
-mnt-by:             NIXNODES-MNT
-mnt-by:             XUU-MNT
-mnt-by:             GRMML-MNT
-mnt-by:             PRAUSCHER-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42

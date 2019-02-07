@@ -3,13 +3,6 @@ cidr:               172.20.128.0/18
 descr:              DN42 native address space
 netname:            NET-BLK128018-DN42
 policy:             open
-admin-c:            NIXNODES-DN42
-admin-c:            SOURIS-DN42
-admin-c:            GRMML-DN42
-admin-c:            PRAUSCHER-DN42
-mnt-by:             NIXNODES-MNT
-mnt-by:             XUU-MNT
-mnt-by:             GRMML-MNT
-mnt-by:             PRAUSCHER-MNT
+mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42
