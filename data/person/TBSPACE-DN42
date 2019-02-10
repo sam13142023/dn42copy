@@ -1,9 +1,10 @@
 person:             Tobias Maedel
-remarks:            Peering via OpenVPN: peering@tbspace.de
+remarks:            Peering via Wireguard, OpenVPN and GRE: peering@tbspace.de
 contact:            xmpp: tobi31061@tbspace.de
+contact:            twitter: @Manawyrm
 www:                https://dn42info.tbspace.de
-www:                http://tbspace.de
-pgp-fingerprint:    5B573F2ED1B8FD87EAFBB6EB26C150CE286E147F
+www:                https://tbspace.de
+pgp-fingerprint:    3A69E9AF3FA93BCFFE509694494E2F56C30460E1
 e-mail:             t.maedel@alfeld.de
 nic-hdl:            TBSPACE-DN42
 mnt-by:             TBSPACE-MNT
