@@ -13,6 +13,7 @@ nserver:            252.0.130.10.icvpn.registry-sync.dn42 10.130.0.252
 nserver:            42.160.11.10.icvpn.registry-sync.dn42 10.11.160.42
 nserver:            3.0.55.10.icvpn.registry-sync.dn42 10.55.0.3
 nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.1.1.0.0.6.2.2.3.0.a.2.icvpn.registry-sync.dn42 2a03:2260:115:200::3
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.1.5.4.8.1.2.7.1.4.a.d.f.icvpn.registry-sync.dn42 fda4:1721:8451:100::1
 nserver:            10.40.50.10.icvpn.registry-sync.dn42 10.50.40.10
 nserver:            5.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.1.b.4.c.d.4.b.7.3.d.f.icvpn.registry-sync.dn42 fd37:b4dc:4b1e::65
 nserver:            33.255.14.85.icvpn.registry-sync.dn42 85.14.255.33
@@ -38,9 +39,11 @@ nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.
 nserver:            2.0.185.10.icvpn.registry-sync.dn42 10.185.0.2
 nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42 fdec:c0f1:afda:0::ff01
 nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.5.d.3.b.d.8.e.0.d.f.icvpn.registry-sync.dn42 fd0e:8db3:d50a::2
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.1.5.4.8.1.2.7.1.4.a.d.f.icvpn.registry-sync.dn42 fda4:1721:8451:200::1
 nserver:            255.0.130.10.icvpn.registry-sync.dn42 10.130.0.255
 nserver:            3.1.0.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.7.f.b.0.f.d.d.f.icvpn.registry-sync.dn42 fddf:0bf7:80::a38:13
 nserver:            2.0.47.10.icvpn.registry-sync.dn42 10.47.0.2
+nserver:            10.64.152.10.icvpn.registry-sync.dn42 10.152.64.10
 nserver:            e.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.5.3.0.8.7.6.0.1.0.0.2.icvpn.registry-sync.dn42 2001:678:358::fffe
 nserver:            247.0.28.10.icvpn.registry-sync.dn42 10.28.0.247
 nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.1.f.3.a.f.f.0.e.e.f.f.a.c.d.f.icvpn.registry-sync.dn42 fdca:ffee:0ffa:3f1a::1
@@ -198,6 +201,7 @@ nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.5.1.1.0.0.6.2.2.3.0.
 nserver:            1.0.b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.icvpn.registry-sync.dn42 fde8:21c6:370b::0b01
 nserver:            53.128.255.10.icvpn.registry-sync.dn42 10.255.128.53
 nserver:            1.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.e.d.1.e.f.4.c.6.c.d.f.icvpn.registry-sync.dn42 fdc6:c4fe:1de4::e1
+nserver:            10.80.152.10.icvpn.registry-sync.dn42 10.152.80.10
 nserver:            1.3.156.10.icvpn.registry-sync.dn42 10.156.3.1
 nserver:            250.0.3.10.icvpn.registry-sync.dn42 10.3.0.250
 nserver:            5.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.icvpn.registry-sync.dn42 fdec:c0f1:afda:0::ff05
