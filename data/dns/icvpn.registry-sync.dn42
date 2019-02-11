@@ -240,6 +240,7 @@ nserver:            1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.
 nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.a.8.c.2.0.0.e.3.8.d.f.icvpn.registry-sync.dn42 fd83:e002:c8a1::3
 nserver:            10.0.155.10.icvpn.registry-sync.dn42 10.155.0.10
 nserver:            10.0.66.10.icvpn.registry-sync.dn42 10.66.0.10
+nserver:            3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.f.f.f.f.7.6.2.2.3.0.a.2.icvpn.registry-sync.dn42 2a03:2267:ffff:b00::3
 nserver:            10.0.7.10.icvpn.registry-sync.dn42 10.7.0.10
 nserver:            1.10.134.10.icvpn.registry-sync.dn42 10.134.10.1
 nserver:            6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.7.f.b.0.1.0.0.2.icvpn.registry-sync.dn42 2001:bf7:fc0f::16
