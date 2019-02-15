@@ -1,7 +1,0 @@
-domain:             mrxermon.dn42
-nserver:            ns1.mrxermon.dn42 172.20.178.106
-nserver:            ns1.mrxermon.dn42 fdb4:4911:ccf8:d421::106
-admin-c:            MRXERMON-DN42
-tech-c:             MRXERMON-DN42
-mnt-by:             MRXERMON-MNT
-source:             DN42
