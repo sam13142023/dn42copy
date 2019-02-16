@@ -1,5 +1,9 @@
 person:             Christopher Kleen
-contact:            dn42@kleen.ch
+remarks:            Languages: German, English
+remarks:            Web: https://wiki.kleen.ch/dn42
+e-mail:             dn42@kleen.ch
+contact:            irc:ckleen@irc.hackint.org
+pgp-fingerprint:    63B36774B185A63F279628BA900AE8FEFEBBBE30
 nic-hdl:            KLEEN-DN42
 mnt-by:             KLEEN-MNT
 source:             DN42
