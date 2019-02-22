@@ -1,4 +1,4 @@
-route6:             fd31:2352:60a9::_48
+route6:             fd31:2352:60a9::/48
 origin:             AS4242427777
 mnt-by:             HANNIBAL-MNT
 source:             DN42
