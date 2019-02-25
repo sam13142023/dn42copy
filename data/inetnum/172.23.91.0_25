@@ -1,0 +1,10 @@
+inetnum:  172.23.91.0 - 172.23.91.127
+cidr:     172.23.91.0/25
+netname:  IEDON-NET
+admin-c:  IEDON-DN42
+tech-c:   IEDON-DN42
+mnt-by:   IEDON-MNT
+nserver:  ns1.iedon.dn42
+nserver:  ns2.iedon.dn42
+status:   ASSIGNED
+source:   DN42
