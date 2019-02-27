@@ -1,4 +1,5 @@
-route6:             fd42:6969:6969::/48
+route6:             fd42:e9ad:e297::_48
 origin:             AS4242421369
 mnt-by:             WHOABRAH-MNT
 source:             DN42
+

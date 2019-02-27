@@ -1,5 +1,5 @@
-inet6num:           fd42:6969:6969:0000:0000:0000:0000:0000 - fd42:6969:6969:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:6969:6969::/48
+inet6num:           fd42:e9ad:e297:0000:0000:0000:0000:0000 - fd42:e9ad:e297:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:e9ad:e297::/48
 netname:            BRO-NET
 descr:              Network for my bros
 country:            US
@@ -8,3 +8,4 @@ tech-c:             WHOABRAH-DN42
 mnt-by:             WHOABRAH-MNT
 status:             ASSIGNED
 source:             DN42
+
