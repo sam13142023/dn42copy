@@ -1,0 +1,7 @@
+domain:             iedon.dn42
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+nserver:            ns1.iedon.dn42 172.23.91.1
+nserver:            ns2.iedon.dn42 172.23.91.126
+source:             DN42
