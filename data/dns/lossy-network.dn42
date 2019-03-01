@@ -1,6 +1,4 @@
 domain:             lossy-network.dn42
-nserver:            ns1.lossy-network.dn42 172.23.42.1
-nserver:            ns1.lossy-network.dn42 fd42:23:42:b100::1
 nserver:            ns2.lossy-network.dn42 172.23.42.2
 nserver:            ns2.lossy-network.dn42 fd42:23:42:b200::1
 admin-c:            HEXA-DN42
