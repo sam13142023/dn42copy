@@ -1,4 +1,4 @@
-route:              172.20.20.192/27
+route6:             fd42:1234:5678::/48
 origin:             AS4242420163
 mnt-by:             ALIBABA-MNT
 source:             DN42
