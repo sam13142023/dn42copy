@@ -2,8 +2,6 @@ as-set:             AS4242421926:AS-TRANSIT
 admin-c:            ZHAOFENG-DN42
 tech-c:             ZHAOFENG-DN42
 mnt-by:             ZHAOFENG-MNT
-remarks:            PURRDETA-MNT
-members:            AS76123
 remarks:            LUTOMA-MNT
 members:            AS64719
 remarks:            HESSNET-MNT
