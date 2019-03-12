@@ -1,6 +1,6 @@
 aut-num:            AS202265
 as-name:            SMARTINTERNET
-descr:              SIS AS
+remarks:            please refer to AS4242422950
 admin-c:            CR-DN42
 tech-c:             CR-DN42
 mnt-by:             SIS-MNT
