@@ -5,9 +5,9 @@ admin-c:            CR-DN42
 tech-c:             CR-DN42
 mnt-by:             SIS-MNT
 org:                ORG-SIS
-remarks:
+remarks:            
 remarks:            peering request self-service can be found at http://dn42.sis-netz.de/
-remarks:
+remarks:            
 remarks:            open for peerings, please contact admin-c
 remarks:            WireGuard/GRE+IPsec and via IPv6 only
 remarks:            
