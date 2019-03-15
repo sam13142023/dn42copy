@@ -1,5 +1,5 @@
-inet6num:           fdef:1701:b5ee:0000:0000:0000:0000:0000 - fdef:1701:b5ee:ffff:ffff:ffff:ffff:ffff
-cidr:               fdef:1701:b5ee::/48
+inetnum:            10.15.224.0 - 10.15.239.255
+cidr:               10.15.224.0/20
 netname:            ICVPN-BODENSEE
 nserver:            42.160.11.10.icvpn.registry-sync.dn42
 nserver:            42.224.15.10.icvpn.registry-sync.dn42
