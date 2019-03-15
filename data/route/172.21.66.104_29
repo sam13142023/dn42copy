@@ -1,0 +1,4 @@
+route:              172.21.66.104/29
+origin:             AS4242422809
+mnt-by:             SOASURS-MNT
+source:             DN42
