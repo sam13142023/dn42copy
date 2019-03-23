@@ -1,0 +1,4 @@
+route:              172.23.100.224/27
+origin:             AS4242422128
+mnt-by:             DEKINW-MNT
+source:             DN42
