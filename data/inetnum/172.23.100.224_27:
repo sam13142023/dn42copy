@@ -8,4 +8,3 @@ nserver:            ns1.dekinw.dn42
 nserver:            ns2.dekinw.dn42
 status:             ASSIGNED
 source:             DN42
-
