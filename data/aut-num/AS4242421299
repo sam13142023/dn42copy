@@ -1,5 +1,7 @@
 aut-num:            AS4242421299
 as-name:            SOMA-AS
 descr:              Soma's main ASN
+admin-c:            NOC-DN42
+tech-c:             NOC-DN42
 mnt-by:             S-MNT
 source:             DN42
