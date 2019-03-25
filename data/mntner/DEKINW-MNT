@@ -1,5 +1,5 @@
 mntner:             DEKINW-MNT
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+admin-c:            DEKINW-DN42
+tech-c:             DEKINW-DN42
 mnt-by:             DEKINW-MNT
 source:             DN42
