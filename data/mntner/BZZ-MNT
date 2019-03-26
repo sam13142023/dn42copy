@@ -3,4 +3,5 @@ descr:              My name is Zidane
 admin-c:            BZZ-DN42
 tech-c:             BZZ-DN42
 mnt-by:             BZZ-MNT
+auth:               pgp-fingerprint FFF3703840C2FB1DEBA20BA8E295E61C37AF6665
 source:             DN42
