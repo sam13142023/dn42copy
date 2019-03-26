@@ -1,0 +1,4 @@
+route6:             fd42:a::/48
+origin:             AS4242420239
+mnt-by:             BZZ-MNT
+source:             DN42
