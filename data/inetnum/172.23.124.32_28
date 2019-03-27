@@ -1,0 +1,12 @@
+inetnum:            172.23.124.32 - 172.23.124.47
+cidr:               172.23.124.32/28
+netname:            DEKINW-NETWORK
+descr:              Network of Dekinw for Link VPN
+country:            TH
+admin-c:            DEKINW-DN42
+tech-c:             DEKINW-DN42
+mnt-by:             DEKINW-MNT
+nserver:            ns1.dekinw.dn42
+nserver:            ns2.dekinw.dn42
+status:             ASSIGNED
+source:             DN42
