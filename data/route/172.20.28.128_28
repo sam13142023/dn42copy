@@ -1,0 +1,4 @@
+route:              172.20.28.128/28
+origin:             AS4242420589
+mnt-by:             DEKTHEP-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             dekthep.dn42
+nserver:            ns1.dekthep.dn42 172.22.127.133
+nserver:            ns2.dekthep.dn42 172.22.127.144
+admin-c:            DEKTHEP-DN42
+tech-c:             DEKTHEP-DN42
+mnt-by:             DEKTHEP-MNT
+source:             DN42

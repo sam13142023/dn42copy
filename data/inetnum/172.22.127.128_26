@@ -1,0 +1,12 @@
+inetnum:            172.22.127.128 - 172.22.127.191
+cidr:               172.22.127.128/26
+netname:            DEKTHEP-NETWORK
+descr:              Network of DEKTHEP for Server in node-thai
+country:            TH
+admin-c:            DEKTHEP-DN42
+tech-c:             DEKTHEP-DN42
+mnt-by:             DEKTHEP-MNT
+nserver:            ns1.dekthep.dn42
+nserver:            ns2.dekthep.dn42
+status:             ASSIGNED
+source:             DN42
