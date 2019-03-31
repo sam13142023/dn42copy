@@ -1,0 +1,10 @@
+inetnum:            172.20.227.129 - 172.20.227.158
+cidr:               172.20.227.128/27
+netname:            ResetTrap-Network
+admin-c:            RESETTRAP-DN42
+tech-c:             RESETTRAP-DN42
+mnt-by:             RESETTRAP-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42
