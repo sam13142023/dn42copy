@@ -3,4 +3,4 @@ admin-c:            RESETTRAP-DN42
 tech-c:             RESETTRAP-DN42
 mnt-by:             RESETTRAP-MNT
 source:             DN42
-auth: pgp-fingerprint 2154 7c6e d676 0717 937a a035 5227 f38d 1af0 c11e
+auth:               pgp-fingerprint 21547c6ed6760717937aa0355227f38d1af0c11e
