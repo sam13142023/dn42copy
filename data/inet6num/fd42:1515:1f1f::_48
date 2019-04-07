@@ -1,0 +1,10 @@
+inet6num:           fd42:1515:1f1f:0000:0000:0000:0000:0000 - fd42:1515:1f1f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1515:1f1f::/48
+netname:            DLIT-NETWORK
+descr:              DLIT IPv6 Network
+country:            DE
+admin-c:            DLIT-DN42
+tech-c:             DLIT-DN42
+mnt-by:             DLIT-MNT
+status:             ASSIGNED
+source:             DN42

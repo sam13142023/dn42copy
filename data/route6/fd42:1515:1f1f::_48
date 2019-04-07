@@ -1,0 +1,4 @@
+route6:             fd42:1515:1f1f::/48
+origin:             AS4242420751
+mnt-by:             DLIT-MNT
+source:             DN42
