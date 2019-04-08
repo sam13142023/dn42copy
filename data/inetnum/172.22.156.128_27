@@ -3,8 +3,6 @@ cidr:               172.22.156.128/27
 netname:            OZARK-NETWORK
 admin-c:            EXPERIMENT626-DN42
 tech-c:             EXPERIMENT626-DN42
-nserver:            ns1-syd.oz-ark.dn42
-nserver:            ns1-bri.oz-ark.dn42
 mnt-by:             OZARK-MNT
 status:             ASSIGNED
 source:             DN42
