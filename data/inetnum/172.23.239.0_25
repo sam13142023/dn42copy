@@ -1,0 +1,10 @@
+inetnum:            172.23.239.0 - 172.23.239.127
+cidr:               172.23.239.0/25
+netname:            DEKINW-NETWORK
+descr:              Network of Dekinw Reserved ip
+country:            TH
+admin-c:            DEKINW-DN42
+tech-c:             DEKINW-DN42
+mnt-by:             DEKINW-MNT
+status:             ALLOCATED PA
+source:             DN42
