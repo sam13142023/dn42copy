@@ -1,0 +1,6 @@
+mntner:             RESETTRAP-MNT
+admin-c:            RESETTRAP-DN42
+tech-c:             RESETTRAP-DN42
+mnt-by:             RESETTRAP-MNT
+source:             DN42
+auth:               pgp-fingerprint 21547c6ed6760717937aa0355227f38d1af0c11e
