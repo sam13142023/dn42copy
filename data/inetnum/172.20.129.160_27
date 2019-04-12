@@ -1,6 +1,6 @@
 inetnum:            172.20.129.160 - 172.20.129.191
-netname:            BURBLE-NETWORK
-descr:              burble.dn42 https://dn42.burble.com/
+netname:            BURBLE-DN42-NODES
+descr:              burble.dn42 Nodes - https://dn42.burble.com/
 country:            UK
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
