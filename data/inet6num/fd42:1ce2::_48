@@ -1,0 +1,9 @@
+inet6num:           fd42:1ce2:0000:0000:0000:0000:0000:0000 - fd42:1ce2:0000:ffff:ffff:ffff:ffff:ffff
+netname:            ICEZ-V6-DN42
+country:            TH
+admin-c:            ICEZ-DN42
+tech-c:             ICEZ-DN42
+mnt-by:             ICEZ-MNT
+status:             ASSIGNED
+cidr:               fd42:1ce2::/48
+source:             DN42
