@@ -4,7 +4,5 @@ netname:            SUPERNOC-NETWORK
 admin-c:            SNOC-DN42
 tech-c:             SNOC-DN42
 mnt-by:             SNOC-MNT
-nserver:            ns1.supernoc.dn42
-nserver:            ns2.supernoc.dn42
 status:             ASSIGNED
 source:             DN42
