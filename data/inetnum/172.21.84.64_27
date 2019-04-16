@@ -4,7 +4,5 @@ netname:            AMDEXA-NET-2
 admin-c:            AMDEXA-DN42
 tech-c:             AMDEXA-DN42
 mnt-by:             AMDEXA-MNT
-nserver:            ns1.amdexa.dn42
-nserver:            ns2.amdexa.dn42
 status:             ASSIGNED
 source:             DN42
