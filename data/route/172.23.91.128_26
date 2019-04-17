@@ -1,4 +1,4 @@
-route:              172.23.50.0/26
+route:              172.23.91.128/26
 origin:             AS4242422189
 mnt-by:             IEDON-MNT
 source:             DN42

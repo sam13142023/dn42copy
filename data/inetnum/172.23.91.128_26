@@ -1,5 +1,5 @@
-inetnum:            172.23.50.0 - 172.23.50.63
-cidr:               172.23.50.0/26
+inetnum:            172.23.91.128 - 172.23.91.191
+cidr:               172.23.91.128/26
 netname:            IEDON-NET
 admin-c:            IEDON-DN42
 tech-c:             IEDON-DN42
