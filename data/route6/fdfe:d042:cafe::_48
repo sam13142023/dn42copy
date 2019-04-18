@@ -1,4 +1,4 @@
-route6:             fdfe:c918:265e::/48
+route6:             fdfe:d042:cafe::/48
 origin:             AS4242422128
 mnt-by:             DEKINW-MNT
 source:             DN42

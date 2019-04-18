@@ -1,5 +1,5 @@
-inet6num:           fdfe:c918:265e:0000:0000:0000:0000:0000 - fdfe:c918:265e:ffff:ffff:ffff:ffff:ffff
-cidr:               fdfe:c918:265e::/48
+inet6num:           fdfe:d042:cafe:0000:0000:0000:0000:0000 - fdfe:d042:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfe:d042:cafe::/48
 netname:            DEKINW-NETWORK
 descr:              Network of Dekinw
 country:            TH
