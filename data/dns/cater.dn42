@@ -1,5 +1,6 @@
 domain:             cater.dn42
 nserver:            ns.cater.dn42 172.22.111.222
+nserver:            ns.cater.dn42 fdc7:a5af:3231::53
 admin-c:            CATER-DN42
 tech-c:             CATER-DN42
 mnt-by:             CATER-MNT
