@@ -4,7 +4,6 @@ netname:            CATER-NETWORK
 admin-c:            CATER-DN42
 tech-c:             CATER-DN42
 mnt-by:             CATER-MNT
-nserver:            ns1.cater.dn42
-nserver:            ns2.cater.dn42
+nserver:            ns.cater.dn42
 status:             ASSIGNED
 source:             DN42
