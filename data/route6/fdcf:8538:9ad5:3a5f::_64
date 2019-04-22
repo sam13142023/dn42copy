@@ -1,5 +1,5 @@
 route6:             fdcf:8538:9ad5:3a5f::/64
-descr:              KIOUBIT IPV6 PA
 origin:             AS4242423914
 mnt-by:             KIOUBIT-MNT
+max-length:         64
 source:             DN42
