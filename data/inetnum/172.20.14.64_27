@@ -1,0 +1,8 @@
+inetnum:            172.20.14.64- 172.20.14.95
+cidr:               172.20.14.64/27
+netname:            XESXEN-NETWORK
+admin-c:            XESXEN-DN42
+tech-c:             XESXEN-DN42
+mnt-by:             XESXEN-MNT
+status:             ASSIGNED
+source:             DN42
