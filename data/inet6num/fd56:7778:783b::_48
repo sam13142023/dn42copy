@@ -1,5 +1,5 @@
-inet6num:           fdbc:a162:104c:0000:0000:0000:0000:0000 - fdbc:a162:104c:ffff:ffff:ffff:ffff:ffff
-cidr:               fdbc:a162:104c::/48
+inet6num:           fd56:7778:783b:0000:0000:0000:0000:0000 - fd56:7778:783b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd56:7778:783b::/48
 netname:            DEKTHEP-NETWORK
 descr:              Network of DEKTHEP
 country:            TH
