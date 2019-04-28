@@ -1,0 +1,4 @@
+route:              172.31.76.0/24
+origin:             AS4242423645
+mnt-by:             JANITH-MNT
+source:             DN42                                       
