@@ -5,6 +5,7 @@ admin-c:            DUMMY-DN42
 tech-c:             DUMMY-DN42
 mnt-by:             JANITH-MNT
 nserver:            ns1.janith.dn42
-nserver:            ns2.janith.dn42
+descr:              MY HOME NETWORK
+country:            LK
 status:             ASSIGNED
 source:             DN42
