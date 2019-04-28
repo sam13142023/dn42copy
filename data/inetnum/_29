@@ -1,4 +1,4 @@
-inetnum:            172.20.163.96-172.163 96.103
+inetnum:            172.20.163.96-172.20.163.103
 cidr:               172.20.163.96/29
 netname:            JANITH-NETWORK
 admin-c:            JANITH-DN42
