@@ -1,4 +1,4 @@
-inetnum:            172.31.76.0-172.31.76.225
+inetnum:            172.31.76.0-172.31.76.255
 cidr:               172.31.76.0/24
 netname:            JANITH-NETWORK
 admin-c:            DUMMY-DN42
