@@ -1,5 +1,5 @@
 mntner:             JANITH-MNT
-admin-c:            JANITH-DN42
-tech-c:             JANITH-DN42
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
 mnt-by:             JANITH-MNT
 source:             DN42
