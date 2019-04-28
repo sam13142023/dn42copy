@@ -1,8 +1,8 @@
-inetnum:            172.31.76.0-172.31.76.255
-cidr:               172.31.76.0/24
+inetnum:            172.20.0.0-	172.20.3.255
+cidr:               172.20.0.0/22
 netname:            JANITH-NETWORK
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+admin-c:            JANITH-DN42
+tech-c:             JANITH-DN42
 mnt-by:             JANITH-MNT
 descr:              MY HOME NETWORK
 country:            LK
