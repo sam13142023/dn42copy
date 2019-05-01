@@ -8,4 +8,4 @@ admin-c:            WORLDNET-DN42
 tech-c:             WORLDNET-DN42
 mnt-by:             WORLDNET-MNT
 source:             DN42
-auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBABekFv5dQsICK/ww47dZ6T0E32AL49QB/IgTwfEhnsmA7EaF51bkf3z3ys3iHURnJANZBgv0Gl7YSWXNZXJJj14CQC7mDgDqdX3OpTCwO/GOAVd1IvugXY8ynhLZ+eXUQ+raJ3c+YrloX1c9sMztV4osYU0IPXsvGBNpMEOUFI8eS7x+A== ecdsa 521-050119
+auth:               D9F825B9DCAA6B431C3A42C36850B6345C862176
