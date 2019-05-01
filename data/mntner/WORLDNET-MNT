@@ -8,4 +8,4 @@ admin-c:            WORLDNET-DN42
 tech-c:             WORLDNET-DN42
 mnt-by:             WORLDNET-MNT
 source:             DN42
-auth:               D9F825B9DCAA6B431C3A42C36850B6345C862176
+auth:               pgp-fingerprint D9F825B9DCAA6B431C3A42C36850B6345C862176
