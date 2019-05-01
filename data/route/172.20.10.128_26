@@ -1,0 +1,4 @@
+route:              172.20.10.128/26
+origin:             AS4242421223
+mnt-by:             WORLDNET-MNT
+source:             DN42
