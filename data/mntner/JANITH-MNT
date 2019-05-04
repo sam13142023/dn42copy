@@ -2,5 +2,4 @@ mntner:             JANITH-MNT
 admin-c:            JANITH-DN42
 tech-c:             JANITH-DN42
 mnt-by:             JANITH-MNT
-auth:               pgp-fingerprint 580E6A009983E0E59EB51251DF246E780B781C68
 source:             DN42
