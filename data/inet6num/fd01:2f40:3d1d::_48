@@ -9,6 +9,5 @@ mnt-by:             JOMAN-MNT
 admin-c:            LUELISTAN-DN42
 tech-c:             LUELISTAN-DN42
 mnt-by:             LUELISTAN-MNT
-nserver:            ns1.teamwiki.net
 status:             ASSIGNED
 source:             DN42
