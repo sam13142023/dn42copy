@@ -1,5 +1,5 @@
 inetnum:            172.20.6.104 - 172.20.6.111
-cidr:               172.20.6.104/28
+cidr:               172.20.6.104/29
 netname:            DN42-INET4-WHEATLEY
 descr:              IPv4 Network of Wheatley
 country:            NL
