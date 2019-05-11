@@ -2,6 +2,7 @@ inetnum:            172.20.6.104 - 172.20.6.111
 cidr:               172.20.6.104/29
 netname:            DN42-INET4-WHEATLEY
 descr:              IPv4 Network of Wheatley
+country:            NL
 admin-c:            BART-DN42
 tech-c:             BART-DN42
 mnt-by:             BART-MNT
