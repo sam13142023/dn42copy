@@ -3,4 +3,4 @@ contact:            dn42@wheatley.nl
 nic-hdl:            BART-DN42
 mnt-by:             BART-MNT
 source:             DN42
-auth:               299FE157700E58071F508193D87D6BE45A488701
+auth:               pgp-fingerprint 299FE157700E58071F508193D87D6BE45A488701
