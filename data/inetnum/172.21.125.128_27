@@ -1,0 +1,10 @@
+inetnum:            172.21.125.129 - 172.21.125.158
+cidr:               172.21.125.128/27
+netname:            TIME-MODER-NETWORK-V4
+admin-c:            MODER-DN42
+tech-c:             MODER-DN42
+mnt-by:             MODER-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42
