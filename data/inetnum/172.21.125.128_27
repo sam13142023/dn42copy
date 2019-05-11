@@ -1,4 +1,4 @@
-inetnum:            172.21.125.129 - 172.21.125.158
+inetnum:            172.21.125.128 - 172.21.125.158
 cidr:               172.21.125.128/27
 netname:            TIME-MODER-NETWORK-V4
 admin-c:            MODER-DN42
