@@ -4,7 +4,5 @@ netname:            CRABNECK-NETWORK
 admin-c:            CRILLE-DN42
 tech-c:             CRILLE-DN42
 mnt-by:             CRABNECK-MNT
-nserver:            ns1.crabneck.dn42
-nserver:            ns2.crabneck.dn42
 status:             ASSIGNED
 source:             DN42
