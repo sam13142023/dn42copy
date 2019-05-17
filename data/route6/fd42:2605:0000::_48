@@ -1,0 +1,4 @@
+route:  fd42:2605:0000::/48
+origin:             AS4242422605
+mnt-by:             BJ-MNT
+source:             DN42
