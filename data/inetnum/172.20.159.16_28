@@ -1,0 +1,8 @@
+inetnum:            172.20.159.16 - 172.20.159.31
+cidr:               172.20.159.16/28
+netname:            TMWAWPL
+admin-c:            TMWAWPL-DN42
+tech-c:             TMWAWPL-DN42
+mnt-by:             TMWAWPL-MNT
+status:             ASSIGNED
+source:             DN42

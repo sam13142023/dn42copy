@@ -4,7 +4,5 @@ netname:            MODER-NET-1
 admin-c:            MODER-DN42
 tech-c:             MODER-DN42
 mnt-by:             MODER-MNT
-nserver:            ns1.moder.dn42
-nserver:            ns2.moder.dn42
 status:             ASSIGNED
 source:             DN42
