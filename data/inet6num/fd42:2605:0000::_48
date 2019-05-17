@@ -6,7 +6,5 @@ country:            DE
 admin-c:            BJ-DN42
 tech-c:             BJ-DN42
 mnt-by:             BJ-MNT
-nserver:            ns1.bjnet.dn42
-nserver:            ns2.bjnet.dn42
 status:             ASSIGNED
 source:             DN42
