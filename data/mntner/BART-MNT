@@ -4,4 +4,4 @@ admin-c:            BART-DN42
 tech-c:             BART-DN42
 mnt-by:             BART-MNT
 source:             DN42
-auth:               pgp-fingerprint 299FE157700E58071F508193D87D6BE45A488701
+auth:               pgp-fingerprint 8B4FF510FF8FE1FD65FD8EB72625EC2EB3C08ED6
