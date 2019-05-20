@@ -1,4 +1,4 @@
-inet6num:           fd84:688d:22bb:df93:0000:0000:0000:0000 - fd84:688d:22bb:df93:ffff:ffff:ffff:ffff
+inet6num:           fd84:688d:22bb:0000:0000:0000:0000:0000 - fd84:688d:22bb:ffff:ffff:ffff:ffff:ffff
 netname:            DEN-DN42-IPV6-NET
 descr:              DEN DN42 IPV6 Network
 country:            US
@@ -6,5 +6,5 @@ admin-c:            DEN-DN42
 tech-c:             DEN-DN42
 mnt-by:             DEN-MNT
 status:             ASSIGNED
-cidr:               fd84:688d:22bb:df93::/64
+cidr:               fd84:688d:22bb::/48
 source:             DN42
