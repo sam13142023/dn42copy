@@ -1,5 +1,5 @@
-inet6num:           fd42:2605:0000:0000:0000:0000:0000:0000 - fd42:2605:0000:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:2605:0000::/48
+inet6num:           fd42:2605:5062:0000:0000:0000:0000:0000 - fd42:2605:5062:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2605:5062::/48
 netname:            BJ-NETWORK
 descr:              Network of bj
 country:            DE
