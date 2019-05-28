@@ -2,5 +2,5 @@ person:             kana
 contact:            admin@kuma.app
 nic-hdl:            KANA-DN42
 mnt-by:             KANA-MNT
-pgp-fingerprint:    ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA3jPepeqWoo+Y/gEQheR+HEnwNAIJk/knMI1303csJJVl+5F/b+iZgFP7v5CEihFKc2sMZ46E4JWJPhKG/+YdbwTZpqLotZ2QVfe+wYsU6FHN3rom6N/uw1ER/lxOOrRHkLf/eB7tayGHkYsuFFiIiVb8Pd7RH/lUKpjuSVev8dQsjjPZNQlyM8eeJxDAloVv4GgAKCtFlki+XCg9cCYh3g4RXrW0H4LU2V6yKFJMrupobdTG4NeCAUJ8XWuP3MWMExTAK6s68JwBTqK+2DeEY4ZajIQ3Uqeg7Bq8AjrUEBdeL8IRyoNIVm7x3RtQekPUKzmnGj3iZ1jKTAnkclEFFQ==
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA3jPepeqWoo+Y/gEQheR+HEnwNAIJk/knMI1303csJJVl+5F/b+iZgFP7v5CEihFKc2sMZ46E4JWJPhKG/+YdbwTZpqLotZ2QVfe+wYsU6FHN3rom6N/uw1ER/lxOOrRHkLf/eB7tayGHkYsuFFiIiVb8Pd7RH/lUKpjuSVev8dQsjjPZNQlyM8eeJxDAloVv4GgAKCtFlki+XCg9cCYh3g4RXrW0H4LU2V6yKFJMrupobdTG4NeCAUJ8XWuP3MWMExTAK6s68JwBTqK+2DeEY4ZajIQ3Uqeg7Bq8AjrUEBdeL8IRyoNIVm7x3RtQekPUKzmnGj3iZ1jKTAnkclEFFQ==
 source:             DN42
