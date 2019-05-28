@@ -1,0 +1,10 @@
+inetnum:            172.22.149.65 - 172.22.149.94
+cidr:               172.22.149.64/27
+netname:            KANA-NETWORK
+admin-c:            KANA-DN42
+tech-c:             KANA-DN42
+mnt-by:             KANA-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42
