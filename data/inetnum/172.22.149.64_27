@@ -1,4 +1,4 @@
-inetnum:            172.22.149.65 - 172.22.149.94
+inetnum:            172.22.149.64 - 172.22.149.95
 cidr:               172.22.149.64/27
 netname:            KANA-NETWORK
 admin-c:            KANA-DN42
