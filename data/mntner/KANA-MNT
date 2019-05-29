@@ -3,5 +3,5 @@ descr:              kana no network
 admin-c:            KANA-DN42
 tech-c:             KANA-DN42
 mnt-by:             KANA-MNT
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA3jPepeqWoo+Y/gEQheR+HEnwNAIJk/knMI1303csJJVl+5F/b+iZgFP7v5CEihFKc2sMZ46E4JWJPhKG/+YdbwTZpqLotZ2QVfe+wYsU6FHN3rom6N/uw1ER/lxOOrRHkLf/eB7tayGHkYsuFFiIiVb8Pd7RH/lUKpjuSVev8dQsjjPZNQlyM8eeJxDAloVv4GgAKCtFlki+XCg9cCYh3g4RXrW0H4LU2V6yKFJMrupobdTG4NeCAUJ8XWuP3MWMExTAK6s68JwBTqK+2DeEY4ZajIQ3Uqeg7Bq8AjrUEBdeL8IRyoNIVm7x3RtQekPUKzmnGj3iZ1jKTAnkclEFFQ==
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAjf3f5CeFfKDNR+IoU9jq+fxFVlWWO2e05ctPiLfA8G+fIvq3wHsdqmiEvoVG9iLVBxnGqq8C3LBhjfCgJwLHwaqzbYCrpiCsK/zrIjIp5BKzFgOCwGkpkGo0fOdHVxTWAnJ4jALffldX42HR9cGEMALEd8pCZG9YcJVQkaarqF/WzgyFwJGIMRwmOROEg/TYrGh8r5MGnwvOsVQQeyJ2xuMoJaCekqyEocte5w3wOdT+ZDPSMiClBPnqS+WgPFSwSc47AS2eH+/HqpxG6F7xtbYxDFQtGfQVkzo9VhN/4qCP0sOsuj/Y/uDC+HZqtYCQAzR2e9/Szg0n6zm2fzmajw==
 source:             DN42
