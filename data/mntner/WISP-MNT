@@ -1,0 +1,6 @@
+mntner:             WISP-MNT
+admin-c:            WISP-DN42
+tech-c:             WISP-DN42
+mnt-by:             WISP-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKemwfrAQEEWPj0DAgzyQUzmPIMgdd6fkl858VhtE4d8
