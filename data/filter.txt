@@ -10,20 +10,23 @@
 #            /^[0-9]/ && $2 ~ /permit/ {printf "     %s{%s,%s},\n", $3, $4, $5};' | \
 #       sed "$ s/,$/\n  ];\n}/"
 
+# The rules MUST be sorted by the number column first and then the first matching rule MUST be used.
+# ROAs MUST be checked against these rules and max-length of the ROA NUST NOT be longer than allowed by the matching rule.
 
 #Nr   Action  Prefix           MinLen  MaxLen
-0010  permit  172.20.0.0/14    21      29      # dn42 main net
-0011  permit  172.20.0.0/24    28      32      # dn42 Anycast range
-0012  permit  172.21.0.0/24    28      32      # dn42 Anycast range
-0013  permit  172.22.0.0/24    28      32      # dn42 Anycast range
-0014  permit  172.23.0.0/24    28      32      # dn42 Anycast range
 
-0020  deny    10.10.10.0/24    24      32      # kabel deutschland/superkabel has DNS servers there (IDIOTS)
-0021  permit  10.100.0.0/14    14      32      # chaosvpn
-0022  permit  10.0.0.0/8       15      24      # freifunk/chaosvpn
+0001  deny    172.22.166.0/24  24      32      # Black List due not responding to abuse mails after wiki grief.
 
-0040  permit  172.31.0.0/16    16      32      # chaosvpn
+1001  permit  172.20.0.0/24    28      32      # dn42 Anycast range
+1002  permit  172.21.0.0/24    28      32      # dn42 Anycast range
+1003  permit  172.22.0.0/24    28      32      # dn42 Anycast range
+1004  permit  172.23.0.0/24    28      32      # dn42 Anycast range
+1100  permit  172.20.0.0/14    21      29      # dn42 main net
 
-0050  deny    172.22.166.0/24  24      32      # Black List due to policy violations.
+2001  permit  10.100.0.0/14    14      32      # chaosvpn
+2002  permit  10.0.0.0/8       15      24      # freifunk/chaosvpn
 
-1000  deny    0.0.0.0/0        0       32      # block the rest
+3001  permit  172.31.0.0/16    16      32      # chaosvpn
+
+9999  deny    0.0.0.0/0        0       32      # block the rest
+
