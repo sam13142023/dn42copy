@@ -5,5 +5,4 @@ tech-c:             WISP-DN42
 mnt-by:             WISP-MNT
 status:             ASSIGNED
 cidr:               fd42:76b8:1c05::/48
-fd42:23:149::/48
 source:             DN42
