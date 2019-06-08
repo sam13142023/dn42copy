@@ -2,7 +2,6 @@ tinc-keyset:        SET-2-DN42-TINC
 descr:              dn42 tinc cloud #2 keyset
 remarks:            tinc cloud with 172.22.255.176/28
 member:             VUTRAL-TINC
-member:             MARTIN89-TINC
 member:             NOSPOONUSER-TINC
 member:             DEELKAR-TINC
 member:             STEPHANJ-TINC

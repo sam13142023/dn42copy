@@ -1,0 +1,11 @@
+domain:             delegation-servers.dn42
+remarks:            j.master.delegation-servers.dn42 fd42:180:3de0:10:5054:ff:fe87:ea39
+nserver:            b.delegation-servers.dn42 fd42:4242:2601:ac53::1
+nserver:            b.delegation-servers.dn42 172.20.129.1
+nserver:            j.delegation-servers.dn42 fd42:5d71:219:0:1::42
+nserver:            j.delegation-servers.dn42 172.20.1.18
+ds-rdata:           64441 10 2 2b19d6fc6a6efa3218c61d84ad95a3c63b6ed988e2ae0bd7c8dcb91fe5ec7fa8
+ds-rdata:           56676 10 2 33e3887a3df5328ca3ae21d3d21ccb769e6086fc183be36451d373a73acfc916
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

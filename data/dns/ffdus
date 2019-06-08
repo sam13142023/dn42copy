@@ -1,5 +1,5 @@
 domain:             ffdus
-nserver:            10.0.155.10.icvpn.registry-sync.dn42
+nserver:            10.0.155.10.ipv4.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: flingern
 mnt-by:             DN42-MNT

@@ -3,7 +3,7 @@ as-name:            AS for KIOUBIT Network
 remarks:            **** Open Peering Policy*****
 remarks:            Peering requests: admin@g-load.eu
 remarks:            More information about latency and locations
-remarks:            on http://dn42.g-load.eu
+remarks:            on https://dn42.g-load.eu
 admin-c:            KIOUBIT-DN42
 tech-c:             KIOUBIT-DN42
 mnt-by:             KIOUBIT-MNT

@@ -1,6 +1,0 @@
-route:              10.13.128.0/20
-origin:             AS64884
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: lippe
-mnt-by:             DN42-MNT
-source:             ICVPN

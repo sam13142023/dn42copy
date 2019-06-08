@@ -1,0 +1,12 @@
+inetnum:            172.23.239.0 - 172.23.239.63
+cidr:               172.23.239.0/26
+netname:            DEKINW-NETWORK
+descr:              Network of Dekinw for Server in node-tha1
+country:            TH
+admin-c:            DEKINW-DN42
+tech-c:             DEKINW-DN42
+mnt-by:             DEKINW-MNT
+nserver:            ns1.dekinw.dn42
+nserver:            ns2.dekinw.dn42
+status:             ASSIGNED
+source:             DN42
