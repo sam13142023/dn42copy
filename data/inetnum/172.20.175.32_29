@@ -1,9 +1,0 @@
-inetnum:            172.20.175.32 - 172.20.175.39
-cidr:               172.20.175.32/29
-netname:            JOSENG_GO3-NETWORK
-country:            US
-admin-c:            JOSENG-DN42
-tech-c:             JOSENG-DN42
-mnt-by:             JOSENG-MNT
-status:             ASSIGNED
-source:             DN42
