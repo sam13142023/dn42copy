@@ -1,7 +1,7 @@
 inetnum:            10.146.0.0 - 10.146.255.255
 cidr:               10.146.0.0/16
 netname:            ICVPN-HUECKESWAGEN
-nserver:            0.1.146.10.icvpn.registry-sync.dn42
+nserver:            0.1.146.10.ipv4.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: hueckeswagen
 mnt-by:             DN42-MNT
