@@ -1,9 +1,9 @@
 inetnum:            172.22.183.0 - 172.22.183.255
 cidr:               172.22.183.0/24
 netname:            COOKIE-NETWORK
-admin-c:            Hyp3rX-DN42
-tech-c:             Hyp3rX-DN42
-mnt-by:             Hyp3rX-MNT
+admin-c:            HYP3RX-DN42
+tech-c:             HYP3RX-DN42
+mnt-by:             HYP3RX-MNT
 nserver:            ns1.cookie-factory.dn42
 nserver:            ns2.cookie-factory.dn42
 status:             ASSIGNED
