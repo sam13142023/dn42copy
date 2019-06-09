@@ -4,7 +4,5 @@ netname:            COOKIE-NETWORK
 admin-c:            HYP3RX-DN42
 tech-c:             HYP3RX-DN42
 mnt-by:             HYP3RX-MNT
-nserver:            ns1.cookie-factory.dn42
-nserver:            ns2.cookie-factory.dn42
 status:             ASSIGNED
 source:             DN42
