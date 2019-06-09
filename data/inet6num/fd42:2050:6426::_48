@@ -1,0 +1,10 @@
+inet6num:           fd42:2050:6426:0000:0000:0000:0000:0000 - fd42:2050:6426:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2050:6426::/48
+netname:            NET-3STADT
+descr:              3-Stadt Net
+country:            DE
+admin-c:            3STADT-DN42
+tech-c:             3STADT-DN42
+mnt-by:             3STADT-MNT
+status:             ASSIGNED
+source:             DN42

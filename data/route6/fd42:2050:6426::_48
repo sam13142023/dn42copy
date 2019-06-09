@@ -1,0 +1,4 @@
+route6:             fd42:2050:6426::/48
+origin:             AS4242420110
+mnt-by:             3STADT-MNT
+source:             DN42
