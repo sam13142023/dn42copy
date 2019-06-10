@@ -1,5 +1,5 @@
-inetnum:            172.22.183.160 - 172.22.183.175
-cidr:               172.22.183.160/28
+inetnum:            172.20.6.160 - 172.20.6.175
+cidr:               172.20.6.160/28
 netname:            COOKIE-NETWORK
 admin-c:            HYP3RX-DN42
 tech-c:             HYP3RX-DN42

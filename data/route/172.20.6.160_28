@@ -1,4 +1,4 @@
-route:              172.22.183.160/28
+route:              172.20.6.160/28
 origin:             AS4242421860
 mnt-by:             COOKIEFACTORY-MNT
 source:             DN42
