@@ -2,4 +2,5 @@ mntner:             COOKIEFACTORY-MNT
 admin-c:            HYP3RX-DN42
 tech-c:             HYP3RX-DN42
 mnt-by:             COOKIEFACTORY-MNT
+auth:               pgp-fingerprint E3C597AEA32FA8961F7E2B0B01B15E274A5FDB93
 source:             DN42
