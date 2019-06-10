@@ -4,5 +4,5 @@ netname:            COOKIE-NETWORK
 admin-c:            HYP3RX-DN42
 tech-c:             HYP3RX-DN42
 mnt-by:             COOKIEFACTORY-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 source:             DN42
