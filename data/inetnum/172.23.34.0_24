@@ -1,0 +1,8 @@
+inetnum:            172.23.34.0 - 172.23.34.255
+cidr:               172.23.34.0/24
+netname:            NETWORK POOL FOR TECHNOPOINT LAN AND LAB
+admin-c:            MAFIOSA-DN42
+tech-c:             MAFIOSA-DN42
+mnt-by:             TTL-MNT
+status:             ASSIGNED
+source:             DN42

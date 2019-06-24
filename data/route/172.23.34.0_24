@@ -1,0 +1,4 @@
+route:              172.23.34.0/24
+origin:             AS4242422277
+mnt-by:             TTN-MNT
+source:             DN42
