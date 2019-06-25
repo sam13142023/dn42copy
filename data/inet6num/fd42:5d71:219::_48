@@ -1,6 +1,8 @@
 inet6num:           fd42:5d71:0219:0000:0000:0000:0000:0000 - fd42:5d71:0219:ffff:ffff:ffff:ffff:ffff
 netname:            JRB0001
-nserver:            ns.as4242420119.dn42
+nserver:            ns1.as4242420119.dn42
+nserver:            ns2.as4242420119.dn42
+ds-rdata:           17032 10 2 7A9920EFFE29DBBBF2EF23044B554B9DD8396064B5D428461C77D287261929A1
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT

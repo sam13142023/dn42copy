@@ -1,6 +1,9 @@
 domain:             as4242420119.dn42
-nserver:            ns.as4242420119.dn42 fd42:5d71:219:0:1::41
-nserver:            ns.as4242420119.dn42 172.20.1.17
+nserver:            ns1.as4242420119.dn42 fd42:5d71:219:1:addb:cca8:13a6:7fb
+nserver:            ns1.as4242420119.dn42 172.20.1.240
+nserver:            ns2.as4242420119.dn42 fd42:5d71:219:1:addb:cca8:13a6:7fb
+nserver:            ns2.as4242420119.dn42 172.20.1.240
+ds-rdata:           36067 10 2 E9FACE1FBE06CF914850C9E1E522638DB973207F77676C88FB881F7BE35615B2
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
