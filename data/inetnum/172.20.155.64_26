@@ -1,0 +1,8 @@
+inetnum:            172.23.75.64 - 172.23.75.127
+cidr:               172.20.155.64/26
+netname:            DYNOS01-NETWORK
+admin-c:            DYNOS01-DN42
+tech-c:             DYNOS01-DN42
+mnt-by:             DYNOS01-MNT
+status:             ASSIGNED
+source:             DN42
