@@ -1,8 +1,0 @@
-inetnum:            172.22.139.0 - 172.22.139.127
-cidr:               172.22.139.0/25
-netname:            Network Pool for Technopoint LAN & LAB
-admin-c:            MAFIOSA-DN42
-tech-c:             MAFIOSA-DN42
-mnt-by:             TTN-MNT
-status:             ASSIGNED
-source:             DN42
