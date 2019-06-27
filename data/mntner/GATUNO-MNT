@@ -4,3 +4,4 @@ admin-c:            GATUNO-DN42
 tech-c:             GATUNO-DN42
 mnt-by:             GATUNO-MNT
 source:             DN42
+auth:               pgp-fingerprint 73A4B7663F30527F57634C622BEBCF3B1E249EE4
