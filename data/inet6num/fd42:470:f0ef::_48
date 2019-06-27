@@ -1,6 +1,7 @@
-inetnum:            172.22.201.0 - 172.22.201.127
-cidr:               172.22.201.0/25
+inet6num:           fd42:0470:f0ef:0000:0000:0000:0000:0000 - fd42:0470:f0ef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:470:f0ef::/48
 netname:            GATUNO-NETWORK
+country:            MX
 admin-c:            GATUNO-DN42
 tech-c:             GATUNO-DN42
 mnt-by:             GATUNO-MNT
