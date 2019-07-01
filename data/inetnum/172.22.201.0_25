@@ -1,8 +1,0 @@
-inetnum:            172.22.201.0 - 172.22.201.127
-cidr:               172.22.201.0/25
-netname:            GATUNO-NETWORK
-admin-c:            GATUNO-DN42
-tech-c:             GATUNO-DN42
-mnt-by:             GATUNO-MNT
-status:             ASSIGNED
-source:             DN42
