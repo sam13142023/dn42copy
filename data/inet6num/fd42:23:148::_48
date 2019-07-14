@@ -6,6 +6,6 @@ country:            DE
 admin-c:            FEUERROT-DN42
 tech-c:             FEUERROT-DN42
 mnt-by:             FEUERROT-MNT
-nserver:            irbis.feuerrot.dn42 fd42:23:148::1
+nserver:            irbis.feuerrot.dn42
 status:             ASSIGNED
 source:             DN42
