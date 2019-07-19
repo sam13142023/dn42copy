@@ -6,6 +6,5 @@ admin-c:            IEDON-DN42
 tech-c:             IEDON-DN42
 mnt-by:             IEDON-MNT
 nserver:            ns1.iedon.dn42
-nserver:            ns2.iedon.dn42
 status:             ASSIGNED
 source:             DN42
