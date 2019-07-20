@@ -5,6 +5,5 @@ admin-c:            AMBROSE-DN42
 tech-c:             AMBROSE-DN42
 mnt-by:             AMBROSE-MNT
 nserver:            ns1.makerforce.dn42
-nserver:            ns2.makerforce.dn42
 status:             ASSIGNED
 source:             DN42
