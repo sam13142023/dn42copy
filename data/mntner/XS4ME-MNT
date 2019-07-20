@@ -2,4 +2,5 @@ mntner:             XS4ME-MNT
 admin-c:            XS4ME-DN42
 tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAvZIe6wZLmy5XFGTgbLUcRXWojVC/wFMZq4b1T6+bfR/7mwX/8tVsU3wGPU1MC+xgU5/aAw/Z3vUXMLOScYty5Y7pf5JAtx/3UVAJfrwpXwVyPb0Uo2ba7cxQ1/8RvueoBfYoPve859dZtSeAq3FwT954VN4jhBTyVTRRnzj0rHamo2vjU1ZmUdDfRuLXRYlq56onaoGxyEwtNa7Ahwt3f8FU85T0RqR9UnSX2CBJy1Co0keu2dKYST0szEfc67Ypjnt/i29Jxmo5xMajiEXiwNqmMLI14pyFND5fdbqpxJ30oe5VTrpl3cwpC83SqbqxgFjuHJEi+zCHRocGe8VjOw==
 source:             DN42
