@@ -2,6 +2,8 @@ key-cert:           PGPKEY-08EBD2E8
 method:             PGP
 owner:              Christoffer <christoffer@netravnen.de>
 fingerpr:           18DD 23C5 5029 3098 DE07  052A 9DCF 2CA0 08EB D2E8
+remarks:            https://www.netravnen.de/pgp/?fingerprint=18dd23c550293098de07052a9dcf2ca008ebd2e8
+org:                ORG-NETRAVNEN
 tech-c:             ORG-NETRAVNEN-DN42
 admin-c:            ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
@@ -48,10 +50,20 @@ certif:             PFAr+UBLWOCJAoK/m/C6NyTw5ULHoC6ZLffHMvEzzn/X7gFeXB3pHRvGop+0
 certif:             K6JWxP/LePPeLyfHPGEZ4D1pMPFWtTaXtX//0t35nQ/5Z6BKah2U+lpl4KtIrtwj
 certif:             WtnTqtXsuRJirIb1tkikc1WQA3if3ZnTJWE4UjWf5WDsyXRmAxTK1minH817kEeZ
 certif:             JPYV1K/xibafd2hUcQnrXKbqE7YBHMKNTfLPwTxR8EUjWTpWmRtL540kPWtSmzfi
-certif:             r+V2x2yxHLVbESHZYzeXb1Q6RcQJ8LjQALPAUUQRuDgEXAAS+xIKKwYBBAGXVQEF
-certif:             AQEHQEN5FPc25RO2t5S1PS6u0nBiuP0A4PI+8wl5Rcg5oCEXAwEIB4h+BBgWCAAm
-certif:             FiEEGN0jxVApMJjeBwUqnc8soAjr0ugFAlwAEvsCGwwFCQtJi7UACgkQnc8soAjr
-certif:             0uhz6gD/dvSGpgZLK4CabU6LtAgSG5+R0uvwGjubKTXUpEhy3FMA/2uvgG5QHH5J
-certif:             LMwY3XJYSTTUBtkYz1jdQF5afgBUZacF
-certif:             =QpXn
+certif:             r+V2x2yxHLVbESHZYzeXb1Q6RcQJ8LjQALPAUUQRiHUEExYIAB0WIQR7k1zO+XqQ
+certif:             lTVRW8wKEDuIVflGfAUCXRIXUAAKCRAKEDuIVflGfIEVAP9j4BS3rE9A8n45fDoq
+certif:             24BlQhs78ARQ0GSQKM5wQJO9nAD6A9OE9r6Cu9jlPUUPAIIMNq72sPwlFejDLgS0
+certif:             3eUpXwiIdQQTFggAHRYhBDbv891ns/z4wLa/pZJk57oBuReSBQJdEhdtAAoJEJJk
+certif:             57oBuReSu6kA/21oebeoJFOQpto6te2t6gqGDCQcgRTIzin7+31UiuB7AP9juIsR
+certif:             funsjb3qIA59Z0GHP4v+p1ze8825QKV3wUSDD4h1BBMWCAAdFiEEvLzeKtZH3fG2
+certif:             9JBjXnzscaX7ODYFAl0SF4UACgkQXnzscaX7ODa46wD/dTfb1Y0K8DvDjtkj/mPr
+certif:             P4VaeaPgxNf6S82kgLs0ke0A+wQuHw64gjVUept9SvFP6OLbY7j+7lADYPHvbhno
+certif:             e84NiHUEExYIAB0WIQTi3HRSsE7Fb+UZv0VDOXrh55mTDgUCXRIX1AAKCRBDOXrh
+certif:             55mTDllKAP96I+qMLFmn4IlgbUy5ZJIgdGGG4OrvZZQ1btMKbde/3AEApotJBGh8
+certif:             FZ77zvYNR+e7u6j7TW3kl/QFHmE6j/G2iQS4OARcABL7EgorBgEEAZdVAQUBAQdA
+certif:             Q3kU9zblE7a3lLU9Lq7ScGK4/QDg8j7zCXlFyDmgIRcDAQgHiH4EGBYIACYWIQQY
+certif:             3SPFUCkwmN4HBSqdzyygCOvS6AUCXAAS+wIbDAUJC0mLtQAKCRCdzyygCOvS6HPq
+certif:             AP929IamBksrgJptTou0CBIbn5HS6/AaO5spNdSkSHLcUwD/a6+AblAcfkkszBjd
+certif:             clhJNNQG2RjPWN1AXlp+AFRlpwU=
+certif:             =RknF
 certif:             -----END PGP PUBLIC KEY BLOCK-----

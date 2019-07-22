@@ -1,6 +1,7 @@
 inetnum:            172.20.128.104 - 172.20.128.111
 netname:            NETRAVNEN-NET-6
 descr:              Used for loopback interfaces on nodes + multihop bgp peerings
+org:                ORG-NETRAVNEN
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
 zone-c:             ORG-NETRAVNEN-DN42

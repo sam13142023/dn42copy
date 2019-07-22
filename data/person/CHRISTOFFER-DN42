@@ -5,3 +5,15 @@ contact:            irc:netravnen-4242420144@irc.hackint.org
 nic-hdl:            CHRISTOFFER-DN42
 mnt-by:             NETRAVNEN-MNT
 source:             DN42
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # AS4242420144
+remarks:            # Peering request(s):  peering () netravnen.de
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Other request(s):    support () netravnen.de
+remarks:            #
+remarks:            ###################################################
+remarks:            #

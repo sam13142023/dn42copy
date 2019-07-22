@@ -1,6 +1,7 @@
 role:               Yet Another Network Engineer
 nic-hdl:            ORG-NETRAVNEN-DN42
-abuse-mailbox:      abuse@netravnen.org
+abuse-mailbox:      abuse@netravnen.de
+org:                ORG-NETRAVNEN
 admin-c:            CHRISTOFFER-DN42
 tech-c:             CHRISTOFFER-DN42
 mnt-by:             NETRAVNEN-MNT
