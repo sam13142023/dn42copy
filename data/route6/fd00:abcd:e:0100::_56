@@ -1,0 +1,5 @@
+route6:             fd00:abcd:e:0100::/56
+origin:             AS4242420198
+max-length:         56
+mnt-by:             ABCDE-MNT
+source:             DN42
