@@ -1,5 +1,6 @@
 inetnum:            172.22.128.32 - 172.22.128.63
 netname:            NETRAVNEN-NET-3
+org:                ORG-NETRAVNEN
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
 zone-c:             ORG-NETRAVNEN-DN42
