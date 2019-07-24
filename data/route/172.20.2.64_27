@@ -1,0 +1,4 @@
+route:              172.20.54.96/27
+origin:             AS4242420556
+mnt-by:             DIGILINK-MNT
+source:             DN42
