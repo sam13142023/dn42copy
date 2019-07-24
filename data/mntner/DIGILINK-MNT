@@ -3,3 +3,4 @@ admin-c:            DIGILINK-DN42
 tech-c:             DIGILINK-DN42
 mnt-by:             DIGILINK-MNT
 source:             DN42
+auth: 		    pgp-fingerprint C073860124482BD17208359E759C1E6C51014C0B
