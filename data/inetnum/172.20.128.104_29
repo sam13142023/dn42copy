@@ -9,3 +9,8 @@ mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               172.20.128.104/29
 source:             DN42
+nserver:            marty.netravnen.dn42
+nserver:            bart.netravnen.dn42
+nserver:            mary.netravnen.dn42
+nserver:            lisa.netravnen.dn42
+nserver:            maggie.netravnen.dn42
