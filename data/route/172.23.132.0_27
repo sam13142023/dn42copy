@@ -1,4 +1,4 @@
-route:              172.23.132.0/24
+route:              172.23.132.0/27
 descr:              Luclu7's IPv4 route
 origin:             AS4242423504
 mnt-by:             LUCLU7-MNT
