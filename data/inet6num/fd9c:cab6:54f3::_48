@@ -1,0 +1,9 @@
+inet6num:           fd9c:cab6:54f3:0000:0000:0000:0000:0000 - fd9c:cab6:54f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9c:cab6:54f3::/48
+netname:            XS4ME-NET-6
+admin-c:            XS4ME-DN42
+tech-c:             XS4ME-DN42
+mnt-by:             XS4ME-MNT
+nserver:            ns1.xs4me.dn42
+status:             ASSIGNED
+source:             DN42
