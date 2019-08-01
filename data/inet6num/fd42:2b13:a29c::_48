@@ -3,8 +3,8 @@ cidr:               fd42:2b13:a29c::/48
 netname:            HANEMILE-NETWORK
 descr:              hanemile's ipv6 network
 country:            DE
-admin-c:            hanemile-DN42
-tech-c:             hanemile-DN42
-mnt-by:             hanemile-MNT
+admin-c:            HANEMILE-DN42
+tech-c:             HANEMILE-DN42
+mnt-by:             HANEMILE-MNT
 status:             ASSIGNED
 source:             DN42
