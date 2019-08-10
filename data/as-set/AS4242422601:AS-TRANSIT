@@ -22,8 +22,6 @@ remarks:            ZHAOFENG-MNT
 members:            AS4242421926
 remarks:            UNES-MNT
 members:            AS4242421008
-remarks:            ZHAOFENG-MNT
-members:            AS4242421926
 remarks:            HESSNET-MNT
 members:            AS4242423934
 remarks:            JRB0001-MNT
@@ -146,8 +144,6 @@ remarks:            TECH9-MNT
 members:            AS4242421588
 remarks:            JHE-MNT
 members:            AS4242420177
-remarks:            TBSPACE-MNT
-members:            AS76190
 remarks:            RLKT-MNT
 members:            AS4242421994
 remarks:            NULLROUTE-MNT
@@ -164,4 +160,14 @@ remarks:            SBERNAUER-MNT
 members:            AS4242421297
 remarks:            RESETTRAP-MNT
 members:            AS4242422543
+remarks:            NETRAVNEN-MNT
+members:            AS4242420144
+remarks:            DIGILINK-MNT
+members:            AS4242420556
+remarks:            MOMIJI-MNT
+members:            AS4242423566
+remarks:            TI-MNT
+members:            AS4242423966
+remarks:            FICO-MNT
+members:            AS4242422773
 source:             DN42
