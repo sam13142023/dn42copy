@@ -1,4 +1,4 @@
-inetnum:            172.22.76.96 - 172.22.76.111
+inetnum:            172.22.76.96 - 172.22.76.127
 netname:            LANTIAN-IPV4
 remarks:            Peer with me at b980120@hotmail.com
 descr:              Peer with me at b980120@hotmail.com
@@ -9,5 +9,5 @@ mnt-by:             LANTIAN-MNT
 nserver:            ns1.lantian.dn42
 nserver:            ns2.lantian.dn42
 status:             ASSIGNED
-cidr:               172.22.76.96/28
+cidr:               172.22.76.96/27
 source:             DN42
