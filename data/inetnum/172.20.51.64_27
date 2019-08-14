@@ -1,5 +1,5 @@
-inetnum:            172.20.12.128 - 172.20.12.159
-cidr:               172.20.12.128/27
+inetnum:            172.20.51.64 - 172.20.51.95
+cidr:               172.20.51.64/27
 netname:            CITADEL-NETWORK
 nserver:            ns1.citadel.dn42
 country:            US
