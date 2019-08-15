@@ -6,7 +6,6 @@ country:            ES
 admin-c:            OPOTONIL-DN42
 tech-c:             OPOTONIL-DN42
 mnt-by:             LOCALNET-MNT
-mnt-by:             NIXNODES-MNT
 nserver:            ns1.localnet.dn42
 status:             ASSIGNED
 source:             DN42

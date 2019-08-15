@@ -6,7 +6,6 @@ country:            US
 nserver:            ns1.allowed.dn42
 admin-c:            EPOCH-DN42
 tech-c:             EPOCH-DN42
-mnt-by:             NIXNODES-MNT
 mnt-by:             EPOCH-MNT
 status:             ASSIGNED
 source:             DN42

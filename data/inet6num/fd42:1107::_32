@@ -1,9 +1,0 @@
-inet6num:           fd42:1107:0000:0000:0000:0000:0000:0000 - fd42:1107:ffff:ffff:ffff:ffff:ffff:ffff
-netname:            NIXNODES-NET
-country:            SI
-admin-c:            NIXNODES-DN42
-tech-c:             NIXNODES-DN42
-mnt-by:             NIXNODES-MNT
-status:             ALLOCATED
-cidr:               fd42:1107::/32
-source:             DN42

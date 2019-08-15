@@ -5,6 +5,4 @@ descr:              DN42 services range
 mnt-by:             DN42-MNT
 policy:             ask
 status:             ALLOCATED
-nserver:            ns1.nixnodes.dn42
-nserver:            ns2.nixnodes.dn42
 source:             DN42

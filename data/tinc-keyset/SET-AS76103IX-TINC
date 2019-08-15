@@ -1,7 +1,0 @@
-tinc-keyset:        SET-AS76103IX-TINC
-member:             AS76103IX-TINC
-member:             AS76103US-TINC
-member:             AS4242422703-TINC
-admin-c:            NIXNODES-DN42
-mnt-by:             NIXNODES-MNT
-source:             DN42

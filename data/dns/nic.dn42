@@ -1,8 +1,8 @@
 domain:             nic.dn42
 descr:              Network Information Center - DN42
-admin-c:            NIXNODES-DN42
-tech-c:             NIXNODES-DN42
-mnt-by:             NIXNODES-MNT
+admin-c:            XUU-DN42
+tech-c:             XUU-DN42
+mnt-by:             XUU-MNT
 nserver:            kapha.mtr.xuu.dn42
 nserver:            lavnana.sjc.xuu.dn42
 nserver:            rakta.fra.xuu.dn42

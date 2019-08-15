@@ -1,7 +1,0 @@
-tinc-keyset:        SET-1-DN42-TINC
-descr:              dn42 tinc cloud #1 keyset
-member:             UVES-TINC
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
-mnt-by:             NIXNODES-MNT
-source:             DN42
