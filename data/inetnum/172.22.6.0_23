@@ -7,6 +7,6 @@ admin-c:            RIPPERFOX-DN42
 tech-c:             RIPPERFOX-DN42
 mnt-by:             RIPPERFOX-MNT
 nserver:            ns1.proxity.dn42
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               172.22.6.0/23
 source:             DN42
