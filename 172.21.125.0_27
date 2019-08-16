@@ -1,0 +1,12 @@
+inetnum:            172.21.125.0 - 172.21.125.31
+netname:            HASHQ-NET
+descr:              HASHQ Network
+country:            DE
+admin-c:            HASHQ-DN42
+tech-c:             HASHQ-DN42
+mnt-by:             HASHQ-MNT
+nserver:            ns1.hashq.dn42
+nserver:            ns2.hashq.dn42
+status:             ASSIGNED
+cidr:               172.21.125.0/27
+source:             DN42
