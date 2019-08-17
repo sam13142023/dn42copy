@@ -43,14 +43,14 @@ remarks:            #
 remarks:            # Peering - TRANSIT
 remarks:            #
 mp-import:          afi any.unicast from AS-NETRAVNEN:AS-TRANSIT    accept   ANY
-mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-TRANSIT    announce ANY
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-TRANSIT    announce AS-NETRAVNEN:AS-NETRAVNEN AS-NETRAVNEN:AS-DOWNSTREAM
 remarks:            #
 remarks:            ###################################################
 remarks:            #
 remarks:            # Peering - PEER
 remarks:            #
 mp-import:          afi any.unicast from AS-NETRAVNEN:AS-PEER       accept   PeerAS
-mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-PEER       announce AS-NETRAVNEN:AS-NETRAVNEN
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-PEER       announce AS-NETRAVNEN:AS-NETRAVNEN AS-NETRAVNEN:AS-DOWNSTREAM
 remarks:            #
 remarks:            ###################################################
 remarks:            #
