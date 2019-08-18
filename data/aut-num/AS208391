@@ -1,16 +1,16 @@
-aut-num:            AS4242420144
+aut-num:            AS208391
 as-name:            NETRAVNEN
 member-of:          AS-NETRAVNEN:AS-NETRAVNEN
-member-of:          AS4242420144:AS-NETRAVNEN
+member-of:          AS208391:AS-NETRAVNEN
 org:                ORG-NETRAVNEN
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
-source:             DN42
+source:             RIPE
 remarks:            #
 remarks:            ###################################################
 remarks:            #
-remarks:            # AS4242420144
+remarks:            # AS208391
 remarks:            # E-mail, Peering, and Other request(s):
 remarks:            #                    dn42 () netravnen.de
 remarks:            #

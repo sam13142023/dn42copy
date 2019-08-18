@@ -1,5 +1,6 @@
 route:              172.22.128.0/27
 origin:             AS4242420144
+origin:             AS208391
 max-length:         27
 mnt-by:             NETRAVNEN-MNT
 source:             DN42
