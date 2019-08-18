@@ -1,4 +1,4 @@
-route:              172.21.74.80/28
+route:              172.21.74.64/27
 origin:             AS4242421775
 mnt-by:             XS4ME-MNT
 source:             DN42
