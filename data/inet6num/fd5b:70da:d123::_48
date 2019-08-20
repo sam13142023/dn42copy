@@ -1,8 +1,0 @@
-inet6num:           fd5b:70da:d123:0000:0000:0000:0000:0000 - fd5b:70da:d123:ffff:ffff:ffff:ffff:ffff
-netname:            SQUAREFLOW-NET
-admin-c:            SQUAREFLOW-DN42
-tech-c:             SQUAREFLOW-DN42
-mnt-by:             SQUAREFLOW-MNT
-status:             ASSIGNED
-cidr:               fd5b:70da:d123::/48
-source:             DN42
