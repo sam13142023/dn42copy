@@ -1,4 +1,4 @@
-inetnum:            172.22.111.64 - 172.22.111.96
+inetnum:            172.22.111.64 - 172.22.111.95
 cidr:               172.22.111.64/27
 netname:            LOTUST-DN42-INET4
 admin-c:            LOTUS-DN42
