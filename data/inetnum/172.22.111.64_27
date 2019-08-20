@@ -1,0 +1,8 @@
+inetnum:            172.22.111.64 - 172.22.111.96
+cidr:               172.22.111.64/27
+netname:            LOTUST-DN42-INET4
+admin-c:            LOTUS-DN42
+tech-c:             LOTUS-DN42
+mnt-by:             LOTUS-MNT
+status:             ASSIGNED
+source:             DN42
