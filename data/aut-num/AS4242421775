@@ -1,5 +1,14 @@
 aut-num:            AS4242421775
 as-name:            XS4ME-AS
+descr:              xs4me.dn42
+remarks:            --------------------------------------------------------
+remarks:            New peers welcome 
+remarks:            Open peering with Wireguard 
+remarks:            contact dn42@xs4me.net with your details
+remarks:            --------------------------------------------------------
+remarks:            Routing Policies:
+mp-import:          afi any.unicast from AS4242421775:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242421775:AS-TRANSIT announce ANY
 admin-c:            XS4ME-DN42
 tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
