@@ -1,4 +1,4 @@
-route6:             172.20.228.224/27
+route:              172.20.228.224/27
 origin:             AS4242422514
 max-length:         27
 mnt-by:             THARYROK-MNT
