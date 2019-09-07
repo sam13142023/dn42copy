@@ -1,4 +1,4 @@
-inet6num:           fd2f:bcd0:d600:0000:0000:0000:0000:0000 - fd42:4992:6a6d:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd2f:bcd0:d600:0:0:0:0:0 - fd2f:bcd0:d600:ffff:ffff:ffff:ffff:ffff
 cidr:               fd2f:bcd0:d600::/48
 netname:            SANTOST12-NETWORK
 descr:              santost12's ipv6 network
