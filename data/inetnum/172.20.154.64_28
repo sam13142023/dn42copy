@@ -7,4 +7,3 @@ mnt-by:             PN-MNT
 status:             ASSIGNED
 cidr:               172.20.154.64/28 
 source:             DN42
-
