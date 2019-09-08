@@ -5,5 +5,5 @@ admin-c:            PN-DN42
 tech-c:             PN-DN42
 mnt-by:             PN-MNT
 status:             ASSIGNED
-cidr:               172.20.154.64/28 
+cidr:               172.20.154.64/28
 source:             DN42
