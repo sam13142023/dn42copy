@@ -1,13 +1,13 @@
 inetnum:            172.23.0.0 - 172.23.255.255
 cidr:               172.23.0.0/16
 netname:            NET-BLK316-DN42
-descr:              The secondary DN42 IPv4 address block.
-remarks:            Not free for direct assignments, please use sub-allocated blocks
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
 nserver:            m.in-addr-servers.dn42
 nserver:            x.in-addr-servers.dn42
 nserver:            g.in-addr-servers.dn42
 status:             ALLOCATED
-policy:             reserved
+policy:             open
 org:                ORG-DN42
 mnt-by:             DN42-MNT
 source:             DN42

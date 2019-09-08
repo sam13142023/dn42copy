@@ -1,6 +1,8 @@
 inetnum:            172.20.0.0 - 172.20.255.255
 cidr:               172.20.0.0/16
 netname:            NET-BLK016-DN42
+descr:              DN42 native address space
+remarks:            Not free for direct assignments, please use sub-allocated blocks
 nserver:            m.in-addr-servers.dn42
 nserver:            x.in-addr-servers.dn42
 nserver:            g.in-addr-servers.dn42
