@@ -1,4 +1,10 @@
 as-set:             AS4242420144:AS-PEER
+remarks:            # JRB0001
+members:            AS4242420119
+remarks:            # Kioubit
+members:            AS4242423914
+remarks:            # hexa
+members:            AS4242420101
 mbrs-by-ref:        NETRAVNEN-MNT
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
