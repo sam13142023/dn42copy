@@ -1,0 +1,8 @@
+inet6num:           fd80:0000:0000:0000:0000:0000:0000:0000 - fd80:0000:0000:ffff:ffff:ffff:ffff:ffff
+admin-c:            CK-DN42
+tech-c:             CK-DN42
+mnt-by:             CK-MNT
+status:             ALLOCATED
+cidr:               fd80:0000:0000::/48
+netname:            ck ipv6 range fd80::/48 Network
+source:             DN42
