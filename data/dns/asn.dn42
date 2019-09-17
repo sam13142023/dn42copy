@@ -1,0 +1,6 @@
+domain:             asn.dn42
+admin-c:            XS4ME-DN42
+tech-c:             XS4ME-DN42
+mnt-by:             XS4ME-MNT
+nserver:            ns1.xs4me.dn42
+source:             DN42
