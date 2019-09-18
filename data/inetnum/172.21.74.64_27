@@ -6,4 +6,5 @@ mnt-by:             XS4ME-MNT
 status:             ASSIGNED
 cidr:               172.21.74.64/27
 nserver:            ns1.xs4me.dn42
+ds-rdata:           13984 8 2 330EA88F71D323ACC25D1119024BB1C9FDDC554301C8AF15A8C142FFA670B396
 source:             DN42
