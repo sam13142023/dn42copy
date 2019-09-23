@@ -2,11 +2,8 @@ inetnum:            172.22.128.0 - 172.22.191.255
 cidr:               172.22.128.0/18
 netname:            NET-BLK212818-DN42
 descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
 policy:             open
-remarks:            * please subscribe to the mailing-list in case you need to be contacted.
-remarks:            * default-allocation: /25, although a /23 is reserved for possible expansion.
-remarks:            * you are free to allocate up to /23 without further discussion, but please
-remarks:            * don't do by default.
 mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42

@@ -1,6 +1,6 @@
 inetnum:            172.21.64.0 - 172.21.127.255
-netname:            NET-BLK64118-DN42
 cidr:               172.21.64.0/18
+netname:            NET-BLK64118-DN42
 descr:              DN42 native address space
 remarks:            * Default allocation /27, never more than /24
 policy:             open

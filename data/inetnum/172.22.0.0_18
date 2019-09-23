@@ -2,11 +2,9 @@ inetnum:            172.22.0.0 - 172.22.63.255
 cidr:               172.22.0.0/18
 netname:            NET-BLK218-DN42
 descr:              DN42 native address space
+remarks:            * Reserved for allocations of /24 or larger, up to /21
+remarks:            * Please ask on the mailing list for allocations in this range
 policy:             ask
-remarks:            requirements for new allocations:
-remarks:            * MUST e-mail equinox <equinox@diac24.net>
-remarks:            * MUST have an internet-reachable contact e-mail address
-remarks:            * will be deleted if inactive for some period of time
 mnt-by:             DN42-MNT
 status:             ALLOCATED
 source:             DN42
