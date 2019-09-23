@@ -8,8 +8,4 @@ nserver:            bart.netravnen.dn42 172.20.128.81
 nserver:            bart.netravnen.dn42 fd00:aaaa:255:42::81
 nserver:            mary.netravnen.dn42 172.20.128.84
 nserver:            mary.netravnen.dn42 fd00:aaaa:255:42::84
-nserver:            lisa.netravnen.dn42 172.20.128.85
-nserver:            lisa.netravnen.dn42 fd00:aaaa:255:42::85
-nserver:            maggie.netravnen.dn42 172.20.128.86
-nserver:            maggie.netravnen.dn42 fd00:aaaa:255:42::86
 source:             DN42

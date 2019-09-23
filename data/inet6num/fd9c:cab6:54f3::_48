@@ -6,4 +6,5 @@ tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
 nserver:            ns1.xs4me.dn42
 status:             ASSIGNED
+ds-rdata:           17995 8 2 748FD66382B7AA15789F2EB63AD2D437EE5FDFAFAB77DD42732480A8E9317010
 source:             DN42

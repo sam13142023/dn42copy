@@ -33,6 +33,13 @@ remarks:            # - NO_ADVERTISE, RFC 1997
 remarks:            #
 remarks:            ###################################################
 remarks:            #
+remarks:            # Peering - FULLTABLE
+remarks:            #
+mp-import:          afi any.unicast from AS4242420144:AS-FULLTABLE   accept   ANY
+mp-export:          afi any.unicast to   AS4242420144:AS-FULLTABLE   announce ANY
+remarks:            #
+remarks:            ###################################################
+remarks:            #
 remarks:            # Peering - UPSTREAM
 remarks:            #
 mp-import:          afi any.unicast from AS-NETRAVNEN:AS-UPSTREAM   accept   ANY
