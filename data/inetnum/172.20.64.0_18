@@ -1,10 +1,8 @@
 inetnum:            172.20.64.0 - 172.20.127.255
 cidr:               172.20.64.0/18
 descr:              DN42 native address space
-remarks:            * Reserved for organisations (allocation up to /21)
-remarks:            ** Request address space by contacting an admin-c
-remarks:            ** Include your organisation handle in the request
-remarks:            ** Please Introduce yourself and your organisation on the ML before requesting address space
+remarks:            * Reserved for allocations larger than /23, up to /21
+remarks:            * Please ask on the mailing list for allocations in this range
 netname:            NET-BLK64018-DN42
 policy:             ask
 mnt-by:             DN42-MNT

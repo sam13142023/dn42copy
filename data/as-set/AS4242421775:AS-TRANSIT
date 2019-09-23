@@ -1,0 +1,21 @@
+as-set:             AS4242421775:AS-TRANSIT
+remarks:            BURBLE-MNT
+members:            AS4242422601
+remarks:            HESSNET-MNT / GRAFFEN-DN42
+members:            AS4242423934
+remarks:            KIOUBIT-MNT
+members:            AS4242423914
+remarks:            BZZ-MNT
+members:            AS4242420239
+remarks:            GXA-MNT
+members:            AS4242423602
+remarks:            SBERNAUER-MNT
+members:            AS4242421297
+remarks:            FLORIANB-MNT
+members:            AS4242422228
+remarks:            NETRAVNEN-MNT
+members:            AS4242420144
+admin-c:            XS4ME-DN42
+tech-c:             XS4ME-DN42
+mnt-by:             XS4ME-MNT
+source:             DN42

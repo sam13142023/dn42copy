@@ -1,0 +1,10 @@
+inet6num:           fd2f:bcd0:d600:0000:0000:0000:0000:0000 - fd2f:bcd0:d600:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2f:bcd0:d600::/48
+netname:            SANTOST12-NETWORK
+descr:              santost12's ipv6 network
+country:            US
+admin-c:            SANTOST12-DN42
+tech-c:             SANTOST12-DN42
+mnt-by:             SANTOST12-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,7 +1,8 @@
 inetnum:            172.20.128.0 - 172.20.191.255
 cidr:               172.20.128.0/18
-descr:              DN42 native address space
 netname:            NET-BLK128018-DN42
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
 policy:             open
 mnt-by:             DN42-MNT
 status:             ALLOCATED

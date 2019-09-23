@@ -1,7 +1,0 @@
-domain:             squareflow.dn42
-descr:              SquareFlow Communications Limited
-admin-c:            SQUAREFLOW-DN42
-tech-c:             SQUAREFLOW-DN42
-mnt-by:             SQUAREFLOW-MNT
-nserver:            ns1.squareflow.dn42 172.21.105.53
-source:             DN42

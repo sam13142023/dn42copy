@@ -1,0 +1,4 @@
+route6:             fd2f:bcd0:d600::/48
+origin:             AS4242420811
+mnt-by:             SANTOST12-MNT
+source:             DN42

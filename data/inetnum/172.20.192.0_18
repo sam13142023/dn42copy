@@ -1,8 +1,8 @@
 inetnum:            172.20.192.0 - 172.20.255.255
 cidr:               172.20.192.0/18
-descr:              DN42 native address space
-remarks:            * Max one /24 per person only allowed due to shortages
 netname:            NET-BLK192018-DN42
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
 policy:             open
 mnt-by:             DN42-MNT
 status:             ALLOCATED

@@ -1,9 +1,0 @@
-inetnum:            172.21.74.80 - 172.21.74.95
-netname:            XS4ME-N1
-admin-c:            XS4ME-DN42
-tech-c:             XS4ME-DN42
-mnt-by:             XS4ME-MNT
-status:             ASSIGNED
-cidr:               172.21.74.80/28
-nserver:            ns1.xs4me.dn42
-source:             DN42

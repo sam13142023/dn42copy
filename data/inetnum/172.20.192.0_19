@@ -1,9 +1,0 @@
-inetnum:            172.20.192.0 - 172.20.223.255
-cidr:               172.20.192.0/19
-descr:              DN42 native address space
-remarks:            * Default allocation /27, never more than /24
-netname:            NET-BLK192019-DN42
-policy:             open
-mnt-by:             DN42-MNT
-status:             ALLOCATED
-source:             DN42

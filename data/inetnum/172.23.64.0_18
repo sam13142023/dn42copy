@@ -1,9 +1,0 @@
-inetnum:            172.23.64.0 - 172.23.127.255
-netname:            NET-BLK36418-DN42
-descr:              DN42 native address space
-policy:             open
-remarks:            * One /24 per person only allowed due to shortages
-mnt-by:             DN42-MNT
-status:             ALLOCATED
-cidr:               172.23.64.0/18
-source:             DN42
