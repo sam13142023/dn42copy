@@ -1,0 +1,7 @@
+mntner:             BYTEREALM-MNT
+descr:              Byte Realm Maintenance Object
+admin-c:            CPAGE-DN42
+tech-c:             CPAGE-DN42
+mnt-by:             BYTEREALM-MNT
+source:             DN42
+auth:               pgp-fingerprint 21A7FBBD468FA0C3CBDE3A8D25CA5F5FEEECCB63
