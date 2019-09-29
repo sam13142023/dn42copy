@@ -3,5 +3,6 @@ admin-c:            XS4ME-DN42
 tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
 nserver:            ns1.xs4me.dn42
+nserver:            ns2.xs4me.dn42
 ds-rdata:           3715 8 2 C11E228BB26125A5BA1E43D5EBA82CE79D8B42767C55E32C904DF16F379DD32A
 source:             DN42

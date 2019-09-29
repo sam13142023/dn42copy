@@ -5,5 +5,7 @@ tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
 nserver:            ns1.xs4me.dn42 172.21.74.80
 nserver:            ns1.xs4me.dn42 fd9c:cab6:54f3::1
+nserver:            ns2.xs4me.dn42 172.21.74.88
+nserver:            ns2.xs4me.dn42 fd9c:cab6:54f3:1::1
 ds-rdata:           49084 8 2 F861E2272D488E14B7C8BDD62C594FBC50AB7A2C38DFB3DA1E69FFDBEC334CF4
 source:             DN42
