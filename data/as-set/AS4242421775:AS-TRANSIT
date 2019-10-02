@@ -15,6 +15,12 @@ remarks:            FLORIANB-MNT
 members:            AS4242422228
 remarks:            NETRAVNEN-MNT
 members:            AS4242420144
+remarks:            JRB0001-MNT
+members:            AS4242420119
+remarks:            TAILSNET-MNT
+members:            AS4242423621
+remarks:            CLEMENTPRIMOT-MNT
+members:            AS4242423169
 admin-c:            XS4ME-DN42
 tech-c:             XS4ME-DN42
 mnt-by:             XS4ME-MNT
