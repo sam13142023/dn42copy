@@ -4,4 +4,4 @@ admin-c:            Rhine-DN42
 tech-c:             Rhine-DN42
 mnt-by:             Rhine-MNT
 source:             DN42
-
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEnu4T2qMH2Qp4St8hAacmS0+4VzrqLCcZhqbVGP2dQn
