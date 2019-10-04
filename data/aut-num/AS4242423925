@@ -1,5 +1,6 @@
 aut-num:            AS4242423925
-as-name:            AS for Rhine BGP Network
+as-name:            Rhine-AS
+descr:              A Rhine ASN
 admin-c:            Rhine-DN42
 tech-c:             Rhine-DN42
 mnt-by:             Rhine-MNT
