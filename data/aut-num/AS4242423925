@@ -1,7 +1,7 @@
 aut-num:            AS4242423925
-as-name:            Rhine-AS
+as-name:            RHINE-AS
 descr:              A Rhine ASN
-admin-c:            Rhine-DN42
-tech-c:             Rhine-DN42
-mnt-by:             Rhine-MNT
+admin-c:            RHINE-DN42
+tech-c:             RHINE-DN42
+mnt-by:             RHINE-MNT
 source:             DN42
