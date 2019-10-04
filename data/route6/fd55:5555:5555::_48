@@ -1,5 +1,5 @@
 route6:             fd55:5555:5555::/48
-origin:             ASAS4242423925
+origin:             AS4242423925
 max-length:         48
 mnt-by:             RHINE-MNT
 source:             DN42
