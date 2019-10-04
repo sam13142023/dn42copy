@@ -1,0 +1,9 @@
+inet6num:           fd55:5555:5555:0000:0000:0000:0000:0000 - fd55:5555:5555:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:5555:5555::/48
+netname:            RHINE-NET-1
+admin-c:            RHINE-DN42
+tech-c:             RHINE-DN42
+mnt-by:             RHINE-MNT
+status:             ASSIGNED
+source:             DN42
+
