@@ -1,0 +1,9 @@
+inetnum:            172.23.50.0 - 172.23.50.63
+cidr:               172.23.50.0/26
+netname:            Rhine-NETWORK
+admin-c:            Rhine-DN42
+tech-c:             Rhine-DN42
+mnt-by:             Rhine-MNT
+status:             ASSIGNED
+source:             DN42
+
