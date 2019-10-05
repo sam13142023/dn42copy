@@ -1,4 +1,4 @@
-inetnum:            172.20.47.160 - 172.20.47.191 
+inetnum:            172.20.47.160 - 172.20.47.191
 cidr:               172.20.47.160/27
 netname:            CHUCKOGGY-NETWORK
 admin-c:            CHUCKOGGY-DN42
