@@ -1,0 +1,8 @@
+mntner:             ROUTEDBITS-MNT
+admin-c:            ORG-ROUTEDBITS-DN42
+tech-c:             ORG-ROUTEDBITS-DN42
+org:                ORG-ROUTEDBITS
+mnt-by:             ROUTEDBITS-MNT
+auth:               pgp-fingerprint 12B986AC4336D490B4F64BA4568646F0E0AC6F96
+auth:               pgp-fingerprint 21A7FBBD468FA0C3CBDE3A8D25CA5F5FEEECCB63
+source:             DN42
