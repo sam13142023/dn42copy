@@ -1,0 +1,7 @@
+as-set:             AS4242421050:AS-TRANSIT
+remarks:            BURBLE-MNT
+members:            AS4242422601
+admin-c:            NAPSTERBATER-DN42
+tech-c:             NAPSTERBATER-DN42
+mnt-by:             NAPSTERBATER-MNT
+source:             DN42
