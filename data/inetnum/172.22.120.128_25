@@ -1,0 +1,12 @@
+inetnum:            172.22.120.128 - 172.22.120.255
+netname:            RUIXIN-NETWORK
+descr:              RUIXIN-NETWORK
+country:            CN
+admin-c:            RUIXIN-DN42
+tech-c:             RUIXIN-DN42
+mnt-by:             RUIXIN-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+cidr:               172.22.120.128/25
+source:             DN42
