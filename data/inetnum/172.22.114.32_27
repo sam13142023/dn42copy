@@ -1,4 +1,4 @@
-inetnum:            172.22.114.32 - 172.22.114.32
+inetnum:            172.22.114.32 - 172.22.114.63
 cidr:               172.22.114.32/24
 netname:            RELIGHT-NETWORK
 admin-c:            RELIGHT-DN42
