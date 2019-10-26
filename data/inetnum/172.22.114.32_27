@@ -1,5 +1,5 @@
-inetnum:            172.31.90.0 - 172.31.90.255
-cidr:               172.31.90.0/24
+inetnum:            172.22.114.32 - 172.22.114.32
+cidr:               172.22.114.32/24
 netname:            RELIGHT-NETWORK
 admin-c:            RELIGHT-DN42
 tech-c:             RELIGHT-DN42
