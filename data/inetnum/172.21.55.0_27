@@ -4,4 +4,5 @@ netname:            RELIGHT-NETWORK
 admin-c:            RELIGHT-DN42
 tech-c:             RELIGHT-DN42
 mnt-by:             RELIGHT-MNT
+status:		    ASSIGNED
 source:             DN42
