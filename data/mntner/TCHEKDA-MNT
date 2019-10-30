@@ -1,0 +1,7 @@
+mntner:             TCHEKDA-MNT
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDkC/ku/KXTBUEPo57k08fHEE4TBlhRj1gPNyagA0aURQa0Otg6Nvle2IvfQCbGc5hCTekdYH+LRXWncVY/aj9N7cwWusrC5Jzj0gItqx0NRtLckBsi4T7nzjIfjiaHCeJhtC6uVmku32frcZCjq7QoLdE6j0eT3UCbqKBicnsG5cSeMvLEYirfzMednLHk4NwPR7b1pdU7K8ioKFZ4erk/2/kX3nSWT3s0cr1pjOhyXLdEuzig0S/n1cmmuLanovIqNp54qEdzZl5wIG7uGdxMmKl7P7ZhfTlV/oOwe8Y4i8w6+qLRiX1KGBYG4NpxkWHkWHTi66ATREXk+ejMntkD tchekda@debian
+descr:              TchekdaNet maintainer object
