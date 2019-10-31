@@ -1,0 +1,7 @@
+mntner:             TCHEKDA-MNT
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+source:             DN42
+auth:               pgp-fingerprint D6E2B381018BCE02B2300F07D304DE02C0BD7CC4
+descr:              TchekdaNet maintainer object
