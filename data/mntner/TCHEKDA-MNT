@@ -3,5 +3,5 @@ admin-c:            TCHEKDA-DN42
 tech-c:             TCHEKDA-DN42
 mnt-by:             TCHEKDA-MNT
 source:             DN42
-auth:               pgp-fingerprint D6E2B381018BCE02B2300F07D304DE02C0BD7CC4
+auth:               pgp-fingerprint 44CEA8DD3B3149CD62469D8FD0A007EDA4EADA0F
 descr:              TchekdaNet maintainer object
