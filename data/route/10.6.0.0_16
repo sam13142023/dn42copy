@@ -1,6 +1,0 @@
-route:              10.6.0.0/16
-origin:             AS65530
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: solingen
-mnt-by:             DN42-MNT
-source:             ICVPN
