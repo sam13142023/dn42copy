@@ -1,4 +1,4 @@
-inetnum:            172.22.177.65 - 172.22.177.78
+inetnum:            172.22.177.64 - 172.22.177.79
 cidr:               172.22.177.64/28
 netname:            ITUNALI-NETWORK
 admin-c:            ITUNALI-DN42
