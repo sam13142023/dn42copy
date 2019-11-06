@@ -1,6 +1,6 @@
-inetnum:            172.20.51.96 - 172.20.51.127
-cidr:               172.20.51.96/27
-netname:            BITCLOUD-NET-1
+inetnum:            172.20.188.0 - 172.20.188.255
+cidr:               172.20.188.0/24
+netname:            BITCLOUD-NETWORK
 admin-c:            BITCLOUD-DN42
 tech-c:             BITCLOUD-DN42
 mnt-by:             BITCLOUD-MNT
