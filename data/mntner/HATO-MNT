@@ -2,4 +2,5 @@ mntner:             HATO-MNT
 admin-c:            HATO-DN42
 tech-c:             HATO-DN42
 mnt-by:             HATO-MNT
+auth:               pgp-fingerprint 44806539A542EED63E2C3DE06030CBDD12945DF7
 source:             DN42
