@@ -1,5 +1,5 @@
 inetnum:            172.20.165.8 - 172.20.165.23
-cidr:               172.20.165.8_29
+cidr:               172.20.165.8/29
 netname:            HATO-NETWORK
 admin-c:            HATO-DN42
 tech-c:             HATO-DN42
