@@ -3,3 +3,4 @@ admin-c:            BITCLOUD-DN42
 tech-c:             BITCLOUD-DN42
 mnt-by:             BITCLOUD-MNT
 source:             DN42
+auth:               pgp-fingerprint 66461dc4254474f61e8be193ee696881cce79e2b
