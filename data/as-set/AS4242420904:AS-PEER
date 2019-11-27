@@ -1,0 +1,7 @@
+as-set:             AS4242420904:AS-PEER
+remarks:            JRB0001-MNT
+members:            AS4242420119
+admin-c:            Y525-DN42
+tech-c:             Y525-DN42
+mnt-by:             Y525-MNT
+source:             DN42
