@@ -1,5 +1,5 @@
 inetnum:            172.20.184.240 - 172.20.184.247
-cidr:               172.23.75.0/24
+cidr:               172.20.184.240/29
 netname:            SANTOST12-NETWORK
 admin-c:            SANTOST12-DN42
 tech-c:             SANTOST12-DN42
