@@ -1,4 +1,5 @@
 mntner:             BLEEN-MNT
+auth:               pgp-fingerprint F605 2575 74F4 9D55 FFC3 DBFF A6F9 6CB9 19B0 DFED
 admin-c:            BLEEN-DN42
 tech-c:             BLEEN-DN42
 mnt-by:             BLEEN-MNT
