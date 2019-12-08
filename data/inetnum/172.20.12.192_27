@@ -1,9 +1,9 @@
-inetnum:            172.20.12.128 - 172.20.12.159
+inetnum:            172.20.12.192 - 172.20.12.223
 netname:            MARAUN-NET
 country:            DE
 admin-c:            MARAUN-DN42
 tech-c:             MARAUN-DN42
 mnt-by:             MARAUN-MNT
 status:             ASSIGNED
-cidr:               172.20.12.128/27
+cidr:               172.20.12.192/27
 source:             DN42
