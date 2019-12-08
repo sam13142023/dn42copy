@@ -1,4 +1,5 @@
-inet6num:           fd5b:d2a7:0000:0000:0000:0000:0000:0000 - fd42:d2a7:ffff:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd5b:d2a7:0000:0000:0000:0000:0000:0000 - FD5B:D2A7:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF
+
 cidr:               fd42:d2a7::/32
 netname:            XSFMETT-NETWORK
 descr:              Network of LKH entertaining 
