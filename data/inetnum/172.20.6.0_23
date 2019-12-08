@@ -1,0 +1,8 @@
+inetnum:            172.20.6.0 - 172.20.7.255
+cidr:               172.20.6.0/23
+netname:            XSFMETT-NETWORK
+admin-c:            HAKO-DN42
+tech-c:             HAKO-DN42
+mnt-by:             HAKO-MNT
+status:             ASSIGNED
+source:             DN42
