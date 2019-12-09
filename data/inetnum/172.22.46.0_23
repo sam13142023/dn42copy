@@ -1,5 +1,5 @@
-inetnum:            172.22.46.0 - 172.22.47.255
-cidr:               172.23.46.0/23
+inetnum:            172.21.114.0 - 172.21.115.255
+cidr:               172.21.114.0/23
 netname:            XSFMETT-NETWORK
 admin-c:            HAKO-DN42
 tech-c:             HAKO-DN42
