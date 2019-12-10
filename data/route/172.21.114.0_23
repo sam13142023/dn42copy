@@ -1,1 +1,4 @@
-a
+route:              172.21.114.0/23
+origin:             AS4242421434
+mnt-by:             HAKO-MNT
+source:             DN42
