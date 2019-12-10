@@ -1,0 +1,6 @@
+route6:             fd70:08d1:afc7::/48
+origin:             AS4242423615
+max-length:         48
+mnt-by:             FUDNET-MNT
+source:             DN42
+
