@@ -4,3 +4,4 @@ admin-c:            HAKO-DN42
 tech-c:             HAKO-DN42
 mnt-by:             HAKO-MNT
 source:             DN42
+auth:               pgp-fingerprint A92314A5C2EF74082579D1D2E6669D85272D15DF
