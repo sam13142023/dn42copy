@@ -1,8 +1,8 @@
 inet6num:           fd00:118a:6565:0000:0000:0000:0000:0000 - fd00:118a:6565:ffff:ffff:ffff:ffff:ffff
-netname:            qpli920501-6
-admin-c:            qpli920501-DN42
-tech-c:             qpli920501-DN42
-mnt-by:             qpli920501-MNT
+netname:            QPLI920501-6
+admin-c:            QPLI920501-DN42
+tech-c:             QPLI920501-DN42
+mnt-by:             QPLI920501-MNT
 status:             ASSIGNED
 cidr:               fd00:118a:6565::/48
 country:            CN
