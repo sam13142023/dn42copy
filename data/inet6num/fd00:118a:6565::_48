@@ -1,9 +1,9 @@
-inet6num:           fd00:118a:6565:0000:0000:0000:0000:0000 - fd00:118a:6565:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd37:b948:9c2e:0000:0000:0000:0000:0000 - fd37:b948:9c2e:ffff:ffff:ffff:ffff:ffff
 netname:            QPLI920501-6
 admin-c:            QPLI920501-DN42
 tech-c:             QPLI920501-DN42
 mnt-by:             QPLI920501-MNT
 status:             ASSIGNED
-cidr:               fd00:118a:6565::/48
+cidr:               fd37:b948:9c2e::/48
 country:            CN
 source:             DN42
