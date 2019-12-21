@@ -6,3 +6,5 @@ tech-c:             NJD-DN42
 mnt-by:             NJD-MNT
 status:             ASSIGNED
 source:             DN42
+country:            FR
+nserver:            ns1.jourdain.dn42
