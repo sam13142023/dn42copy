@@ -1,0 +1,10 @@
+inetnum:            172.23.66.0 - 172.23.66.255
+cidr:               172.23.66.0/24
+netname:            NJD-NETWORK
+country:	    FR
+nserver:            ns1.njd.dn42
+admin-c:            NJD-DN42
+tech-c:             NJD-DN42
+mnt-by:             NJD-MNT
+status:             ASSIGNED
+source:             DN42
