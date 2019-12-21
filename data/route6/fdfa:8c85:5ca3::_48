@@ -1,6 +1,4 @@
 route6:             fdfa:8c85:5ca3::_48
-descr:              DN42 NJD Network at the end of the range
 origin:             AS4242420416
 mnt-by:             NJD-MNT
 source:             DN42
-
