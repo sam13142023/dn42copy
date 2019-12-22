@@ -1,4 +1,5 @@
 route:              172.23.66.0/24
 origin:             AS4242420416
 mnt-by:             NJD-MNT
+descr:              njd.dn42
 source:             DN42
