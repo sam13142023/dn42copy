@@ -2,5 +2,4 @@ mntner:             SUNNET-MNT
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAkkCR3fsTq4QRvC4qkgy3Iziuv4pKYEsnAaAetbnAsIkBJ+TR7NVQio0xDNqmnwT3ovtrzk4uNtzNKNdkk251HMZH9D8uieHzpKshR1kQlzU/1jENpJS5FNi/oQoJX4+7c5DCTBORMN5JUOV6fl5ezcy8zK4FFL1s1lpeSOOQ7zU=
 source:             DN42
