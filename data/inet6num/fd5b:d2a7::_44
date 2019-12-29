@@ -1,0 +1,10 @@
+inet6num:           fd5b:d2a7:0000:0000:0000:0000:0000:0000 - FD5B:D2A7:000F:FFFF:FFFF:FFFF:FFFF:FFFF
+cidr:               fd5b:d2a7::/44
+netname:            XSFMETT-NETWORK
+descr:              Network of LKH entertaining 
+country:            TH
+admin-c:            HAKO-DN42
+tech-c:             HAKO-DN42
+mnt-by:             HAKO-MNT
+status:             ASSIGNED
+source:             DN42
