@@ -1,5 +1,6 @@
 inet6num:           fdff:0000:fcd0:0000:0000:0000:0000:0000 - fdff:0000:fcd0:ffff:ffff:ffff:ffff:ffff
 netname:            PRAUSCHER-TRANSFER-IPV6
+nserver:            nameserver.prauscher.dn42
 descr:              Transfer network of prauscher
 country:            DE
 admin-c:            PRAUSCHER-DN42
