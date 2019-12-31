@@ -4,5 +4,5 @@ abuse-mailbox:      abuse@ffrgb.net
 mnt-by:             FFRGB-MNT
 admin-c:            MEPHISTO-DN42
 tech-c:             MEPHISTO-DN42
-auth:	            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6Ip37yfMxMXZ/9lMrtYV308ssVOn3zFtlymLpns3fSOevi+g+GkCwySKwnbJCsSPH6BMueVG1tyJUjORL9Nyse84tdW4ABTVfw2D473ajyTf+byNkr2cWmLoEa3gusbwSBXgADnfrt+ByWjysaVKp4fQ2QnfkF9No2Vdcj6pb4vn0q655P53xYziuT/JY416GAymylz1OJyzDHrv9UeWXV7HUvxsJgr+Xart0BBdRMdxKJ9CDYasFs6eD1SvOK8SZx9f143mrkBuiUhuHLphUDfq8xhu5XaldPf9yO0t4gNMUSWgy8tZNggzOQTY05dQ1uhToL2ScYY/zSSR+sNch cardno:000609622098
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6Ip37yfMxMXZ/9lMrtYV308ssVOn3zFtlymLpns3fSOevi+g+GkCwySKwnbJCsSPH6BMueVG1tyJUjORL9Nyse84tdW4ABTVfw2D473ajyTf+byNkr2cWmLoEa3gusbwSBXgADnfrt+ByWjysaVKp4fQ2QnfkF9No2Vdcj6pb4vn0q655P53xYziuT/JY416GAymylz1OJyzDHrv9UeWXV7HUvxsJgr+Xart0BBdRMdxKJ9CDYasFs6eD1SvOK8SZx9f143mrkBuiUhuHLphUDfq8xhu5XaldPf9yO0t4gNMUSWgy8tZNggzOQTY05dQ1uhToL2ScYY/zSSR+sNch cardno:000609622098
 source:             DN42
