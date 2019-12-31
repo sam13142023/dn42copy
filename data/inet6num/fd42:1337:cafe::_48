@@ -1,0 +1,10 @@
+inet6num:           fd42:1337:cafe:0000:0000:0000:0000:0000 - fd42:1337:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1337:cafe::/48
+netname:            FFRGB-NETWORK
+descr:              Network of FFRGB
+country:            DE
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+status:             ASSIGNED
+source:             DN42

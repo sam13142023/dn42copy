@@ -1,0 +1,5 @@
+route6:             fd42:1337:cafe::/48
+origin:             AS4242424423
+mnt-by:             FFRGB-MNT
+source:             DN42
+

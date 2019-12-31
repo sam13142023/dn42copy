@@ -1,0 +1,8 @@
+inetnum:            172.23.207.0 - 172.23.207.255
+cidr:               172.23.207.0/24
+netname:            FFRGB-NETWORK
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+status:             ASSIGNED
+source:             DN42
