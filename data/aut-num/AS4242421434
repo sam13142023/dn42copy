@@ -1,5 +1,6 @@
 aut-num:            AS4242421434
-as-name:            XSFM internal service
+as-name:            XSFM Networking Service
+org:                ORG-HAKO
 admin-c:            HAKO-DN42
 tech-c:             HAKO-DN42
 mnt-by:             HAKO-MNT
