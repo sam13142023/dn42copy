@@ -1,5 +1,5 @@
-inet6num:           fd42:1337:cafe:0000:0000:0000:0000:0000 - fd42:1337:cafe:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:1337:cafe::/48
+inet6num:           fd42:b60d:6174:0000:0000:0000:0000:0000 - fd42:b60d:6174:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:b60d:6174::/48
 netname:            FFRGB-NETWORK
 descr:              Network of FFRGB
 country:            DE
