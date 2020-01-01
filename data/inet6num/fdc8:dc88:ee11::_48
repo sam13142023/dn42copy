@@ -6,5 +6,6 @@ country:            CN
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT
+nserver:            ns1.sun.dn42
 status:             ASSIGNED
 source:             DN42
