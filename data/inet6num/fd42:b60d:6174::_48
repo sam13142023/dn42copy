@@ -1,0 +1,11 @@
+inet6num:           fd42:b60d:6174:0000:0000:0000:0000:0000 - fd42:b60d:6174:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:b60d:6174::/48
+org:                ORG-FFRGB
+netname:            FFRGB-TEST-NETWORK
+descr:              Testbed for FFRGB
+country:            DE
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+status:             ASSIGNED
+source:             DN42
