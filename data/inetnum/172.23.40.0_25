@@ -1,0 +1,10 @@
+inetnum:            172.23.40.0 - 172.23.40.127
+netname:            QLEAN-NETWORK
+descr:              QLEAN-NETWORK
+country:            CY
+admin-c:            QLEAN-DN42
+tech-c:             QLEAN-DN42
+mnt-by:             QLEAN-MNT
+status:             ALLOCATED
+cidr:               172.23.40.0/25
+source:             DN42

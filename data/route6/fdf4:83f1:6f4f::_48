@@ -1,0 +1,6 @@
+route6:             fdf4:83f1:6f4f::_48
+origin:             AS4242429995
+mnt-by:             QLEAN-MNT
+source:             DN42
+admin-c:            QLEAN-DN42
+tech-c:             QLEAN-DN42

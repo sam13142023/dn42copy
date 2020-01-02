@@ -1,0 +1,4 @@
+route:              172.23.40.0/25
+origin:             AS4242429995
+mnt-by:             QLEAN-MNT
+source:             DN42
