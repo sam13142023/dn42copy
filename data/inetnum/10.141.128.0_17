@@ -1,7 +1,0 @@
-inetnum:            10.141.128.0 - 10.141.255.255
-cidr:               10.141.128.0/17
-netname:            ICVPN-ENGELSKIRCHEN
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: engelskirchen
-mnt-by:             DN42-MNT
-source:             ICVPN

@@ -1,7 +1,0 @@
-inetnum:            10.69.0.0 - 10.69.255.255
-cidr:               10.69.0.0/16
-netname:            ICVPN-REMSCHEID
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: remscheid
-mnt-by:             DN42-MNT
-source:             ICVPN

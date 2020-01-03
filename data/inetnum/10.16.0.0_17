@@ -1,7 +1,0 @@
-inetnum:            10.16.0.0 - 10.16.127.255
-cidr:               10.16.0.0/17
-netname:            ICVPN-KUERTEN
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: kuerten
-mnt-by:             DN42-MNT
-source:             ICVPN

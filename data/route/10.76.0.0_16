@@ -1,6 +1,0 @@
-route:              10.76.0.0/16
-origin:             AS65530
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: leverkusen
-mnt-by:             DN42-MNT
-source:             ICVPN

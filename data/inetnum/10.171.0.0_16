@@ -1,7 +1,0 @@
-inetnum:            10.171.0.0 - 10.171.255.255
-cidr:               10.171.0.0/16
-netname:            ICVPN-VFNNRW
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: vfnnrw
-mnt-by:             DN42-MNT
-source:             ICVPN

@@ -1,7 +1,0 @@
-inetnum:            10.52.0.0 - 10.52.255.255
-cidr:               10.52.0.0/16
-netname:            ICVPN-WERMELSKIRCHEN
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: wermelskirchen
-mnt-by:             DN42-MNT
-source:             ICVPN

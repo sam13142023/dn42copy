@@ -1,7 +1,0 @@
-inet6num:           fddf:ebfd:a801:2261:0000:0000:0000:0000 - fddf:ebfd:a801:2261:ffff:ffff:ffff:ffff
-cidr:               fddf:ebfd:a801:2261::/64
-netname:            ICVPN-GUMMERSBACH
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: gummersbach
-mnt-by:             DN42-MNT
-source:             ICVPN

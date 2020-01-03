@@ -1,7 +1,0 @@
-inetnum:            10.206.0.0 - 10.206.255.255
-cidr:               10.206.0.0/16
-netname:            ICVPN-GRONAU
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: gronau
-mnt-by:             DN42-MNT
-source:             ICVPN

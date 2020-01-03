@@ -1,6 +1,0 @@
-route:              10.171.0.0/16
-origin:             AS65530
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: vfnnrw
-mnt-by:             DN42-MNT
-source:             ICVPN
