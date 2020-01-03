@@ -1,6 +1,0 @@
-route:              10.141.0.0/17
-origin:             AS65530
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: lindlar
-mnt-by:             DN42-MNT
-source:             ICVPN

@@ -1,7 +1,0 @@
-inet6num:           fddf:ebfd:a801:2266:0000:0000:0000:0000 - fddf:ebfd:a801:2266:ffff:ffff:ffff:ffff
-cidr:               fddf:ebfd:a801:2266::/64
-netname:            ICVPN-LINDLAR
-remarks:            Imported from icvpn-meta, do not edit!
-remarks:            File: lindlar
-mnt-by:             DN42-MNT
-source:             ICVPN
