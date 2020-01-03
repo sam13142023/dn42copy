@@ -1,6 +1,5 @@
 aut-num:            AS4242420515
-as-name:            QLEAN
-descr:              QLEAN-AS
+as-name:            QLEAN-AS
 admin-c:            QLEAN-DN42
 tech-c:             QLEAN-DN42
 mnt-by:             QLEAN-MNT
