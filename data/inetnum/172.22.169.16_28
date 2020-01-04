@@ -1,0 +1,8 @@
+inetnum:            172.22.169.16 - 172.22.169.31
+cidr:               172.22.169.16/28
+netname:            QINLONG-NETWORK
+admin-c:            QINLONG-DN42
+tech-c:             QINLONG-DN42
+mnt-by:             QINLONG-MNT
+status:             ASSIGNED
+source:             DN42
