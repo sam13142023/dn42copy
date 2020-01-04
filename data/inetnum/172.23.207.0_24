@@ -5,5 +5,7 @@ netname:            FFRGB-TEST-NETWORK
 admin-c:            MEPHISTO-DN42
 tech-c:             MEPHISTO-DN42
 mnt-by:             FFRGB-MNT
+nserver:            ns1.mephisto.dn42
+nserver:            ns2.mephisto.dn42
 status:             ASSIGNED
 source:             DN42
