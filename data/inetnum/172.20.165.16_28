@@ -1,5 +1,5 @@
-inetnum:            172.20.150.113 - 172.20.150.118
-cidr:               172.20.150.112/29
+inetnum:            172.20.165.16 - 172.20.19.31
+cidr:               172.20.165.16/28
 netname:            MISTERGEEK-NETWORK
 admin-c:            MISTERGEEK-DN42
 tech-c:             MISTERGEEK-DN42
