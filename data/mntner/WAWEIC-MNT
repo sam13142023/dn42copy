@@ -1,0 +1,7 @@
+mntner:             WAWEIC-MNT
+descr:              Waweic maintainer object
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP0IADaCV09FHXWjPZ5KO1cLZifFLLbsCXuJoWVqwXd9
+admin-c:            WAWEIC-DN42
+tech-c:             WAWEIC-DN42
+mnt-by:             WAWEIC-MNT
+source:             DN42
