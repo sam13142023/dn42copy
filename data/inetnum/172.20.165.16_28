@@ -1,6 +1,7 @@
 inetnum:            172.20.165.16 - 172.20.19.31
 cidr:               172.20.165.16/28
-netname:            MISTERGEEK-NETWORK
+netname:            MISTERGEEK-NET-1
+country:            FR
 admin-c:            MISTERGEEK-DN42
 tech-c:             MISTERGEEK-DN42
 mnt-by:             MISTERGEEK-MNT
