@@ -1,4 +1,4 @@
-route6:             fd2d:198a:07af:ceae::/48
-origin:             AS424241848
+route6:             fd2d:198a:07af:ceae::/64
+origin:             AS4242421848
 mnt-by:             MISTERGEEK-MNT
 source:             DN42
