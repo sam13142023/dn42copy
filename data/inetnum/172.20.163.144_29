@@ -1,0 +1,8 @@
+inetnum:            172.20.163.145 - 172.20.163.150
+cidr:               172.20.163.144/29
+netname:            MISTERGEEK-NETWORK
+admin-c:            MISTERGEEK-DN42
+tech-c:             MISTERGEEK-DN42
+mnt-by:             MISTERGEEK-MNT
+status:             ASSIGNED
+source:             DN42
