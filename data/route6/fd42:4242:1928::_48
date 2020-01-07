@@ -1,0 +1,4 @@
+route6:             fd42:4242:1928::/48
+origin:             AS4242421928
+mnt-by:             ESCAMBEAU-MNT
+source:             DN42

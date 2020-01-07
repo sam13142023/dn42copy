@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:1928:0000:0000:0000:0000:0000 - fd42:4242:1928:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1928::/48
+netname:            ESCAMBEAU-NETWORK
+descr:              Network of Escambeau
+country:            FR
+admin-c:            ESCAMBEAU-DN42
+tech-c:             ESCAMBEAU-DN42
+mnt-by:             ESCAMBEAU-MNT
+status:             ASSIGNED
+source:             DN42
+
+
