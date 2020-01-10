@@ -4,3 +4,4 @@ tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
 auth:               PGPKEY-08EBD2E8
 source:             DN42
+remarks:            pin-sha256:8WrwzsweMGE1IdznU0XIfAaIAmBS1PzzCQnPs7UEFLQ=
