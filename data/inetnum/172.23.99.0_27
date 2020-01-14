@@ -1,0 +1,9 @@
+inetnum:            172.23.99.0 - 172.23.99.31
+cidr:               172.23.99.0/27
+netname:            NICOLAS-NETWORK
+country:            FR
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+status:             ASSIGNED
+source:             DN42
