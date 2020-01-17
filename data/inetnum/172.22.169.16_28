@@ -4,5 +4,6 @@ netname:            QINLONG-NETWORK
 admin-c:            QINLONG-DN42
 tech-c:             QINLONG-DN42
 mnt-by:             QINLONG-MNT
+nserver:            ns1.qinlong.dn42
 status:             ASSIGNED
 source:             DN42
