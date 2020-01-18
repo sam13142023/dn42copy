@@ -1,0 +1,4 @@
+route:              172.23.35.192/27
+origin:             AS4242420677
+mnt-by:             NEVERLOCATE-MNT
+source:             DN42
