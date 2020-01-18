@@ -1,0 +1,7 @@
+domain:             nyaa.dn42
+admin-c:            SANTOST12-DN42
+tech-c:             SANTOST12-DN42
+mnt-by:             SANTOST12-MNT
+nserver:            ns1.nyaa.dn42 172.20.184.241
+nserver:            ns1.nyaa.dn42 fd43:6d1:3ee2::1
+source:             DN42
