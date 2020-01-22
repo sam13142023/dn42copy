@@ -6,21 +6,13 @@ mnt-by:             TCHEKDA-MNT
 source:             DN42
 descr:              Tchekda https://dn42.tchekda.fr
 remarks:            --------------------------------------------------------
-remarks:   
 remarks:            Always happy to peer with you ! Contact me for peering : contact@tchekda.fr
-remarks:   
 remarks:            --------------------------------------------------------
-remarks:   
 remarks:            Peering Info : 
-remarks:   
 remarks:             - Web site : https://dn42.tchekda.fr/
 remarks:             - Please use IPv6 or specify me that you are using IPv4
 remarks:             - Only Wireguard
-remarks:   
 remarks:            --------------------------------------------------------
-remarks:   
 remarks:            Peering Location : 
-remarks:   
 remarks:            peer.dn42.tchekda.fr (Paris)
-remarks:
 remarks:            --------------------------------------------------------
