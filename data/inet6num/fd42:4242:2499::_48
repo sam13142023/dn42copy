@@ -6,5 +6,6 @@ country:            FR
 admin-c:            NICOLAS-DN42
 tech-c:             NICOLAS-DN42
 mnt-by:             NICOLAS-MNT
+nserver:            ns1.NICOLAS.dn42
 status:             ASSIGNED
 source:             DN42
