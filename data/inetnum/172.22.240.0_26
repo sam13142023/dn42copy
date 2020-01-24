@@ -4,9 +4,6 @@ descr:              NETRAVNEN's Transfer Network
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42
 mnt-by:             NETRAVNEN-MNT
-nserver:            marty.netravnen.dn42
-nserver:            bart.netravnen.dn42
-nserver:            mary.netravnen.dn42
 status:             ASSIGNED
 cidr:               172.22.240.0/26
 source:             DN42

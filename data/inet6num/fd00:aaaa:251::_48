@@ -8,6 +8,3 @@ mnt-by:             NETRAVNEN-MNT
 status:             ASSIGNED
 cidr:               fd00:aaaa:251::/48
 source:             DN42
-nserver:            marty.netravnen.dn42
-nserver:            bart.netravnen.dn42
-nserver:            mary.netravnen.dn42
