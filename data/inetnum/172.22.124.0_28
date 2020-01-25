@@ -1,0 +1,8 @@
+inetnum:            172.22.124.0 - 172.22.124.15
+cidr:               172.22.124.0/28
+netname:            LIYUMIN-NETWORK
+admin-c:            LIYUMIN-DN42
+tech-c:             LIYUMIN-DN42
+mnt-by:             LIYUMIN-MNT
+status:             ASSIGNED
+source:             DN42
