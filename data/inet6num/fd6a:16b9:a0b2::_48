@@ -1,0 +1,10 @@
+inet6num:           fd6a:16b9:a0b2:0000:0000:0000:0000:0000 - fd6a:16b9:a0b2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6a:16b9:a0b2::/48
+netname:            XYZ479-NETWORK
+descr:              Network of XYZ479
+country:            JP
+admin-c:            XYZ479-DN42
+tech-c:             XYZ479-DN42
+mnt-by:             XYZ479-MNT
+status:             ASSIGNED
+source:             DN42
