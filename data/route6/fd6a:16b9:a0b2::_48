@@ -1,0 +1,5 @@
+route6:             fd6a:16b9:a0b2::/48
+origin:             AS4242420213
+max-length:         48
+mnt-by:             XYZ479-MNT
+source:             DN42
