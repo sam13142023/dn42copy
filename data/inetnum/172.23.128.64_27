@@ -1,0 +1,10 @@
+inetnum:            172.23.128.64 - 172.23.128.95
+cidr:               172.23.128.64/27
+netname:            NIA-NETWORK-CORE
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+org:                ORG-NIA
+status:             ASSIGNED
+nserver:            ns.nia.dn42
+source:             DN42
