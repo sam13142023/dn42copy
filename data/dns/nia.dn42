@@ -1,0 +1,7 @@
+domain:             nia.dn42
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+nserver:            ns.nia.dn42 fd00:1926:0817::2
+nserver:            ns.nia.dn42 172.20.158.129
+source:             DN42
