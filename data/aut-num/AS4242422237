@@ -1,5 +1,28 @@
 aut-num:            AS4242422237
-as-name:            AS for MUNSTERNET Network
+as-name:            MUNSTERNET-AS
+remarks:            
+remarks:            -------------------------------------------------------
+remarks:            Always looking for peers ! Contact munsternet@gmail.com
+remarks:            --------------------------------------------------------
+remarks:            Peering info:
+remarks:            - IPv6 only (no legacy IPv4)
+remarks:            - Tunnel protocol: Wireguard
+remarks:            --------------------------------------------------------
+remarks:            Peering locations:
+remarks:            - 2001:67c:1740:9005::25 (Paris, TH2)
+remarks:            - More to come soon...
+remarks:            --------------------------------------------------------
+remarks:            ROA records are checked and INVALID routes are filtered
+remarks:            (UNKNOWN to be also filtered soon)
+remarks:            
+mp-import:          afi any.unicast from AS4242422237:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422237:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242422237:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242422237:AS-PEER announce AS4242422237
+mp-import:          afi any.unicast from AS4242422237:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242422237:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS4242422237:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS4242422237:AS-UPSTREAM announce AS4242422237 AS4242422237:AS-DOWNSTREAM
 admin-c:            MUNSTERNET-DN42
 tech-c:             MUNSTERNET-DN42
 mnt-by:             MUNSTERNET-MNT
