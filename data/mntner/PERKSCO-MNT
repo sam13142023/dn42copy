@@ -1,0 +1,6 @@
+mntner:             PERKSCO-MNT
+admin-c:            JPERKS-DN42
+tech-c:             JPERKS-DN42
+mnt-by:             PERKSCO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOsSlrcnNfBIhJevy1sNKW+RySEWf0qK9OdkZILfHrK/
+source:             DN42
