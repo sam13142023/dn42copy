@@ -1,0 +1,15 @@
+as-set:             AS4242422227:AS-TRANSIT
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+remarks:            KIOUBIT-MNT
+members:            AS4242423914
+remarks:            TBSPACE-MNT
+members:            AS76190
+remarks:            SUNNET
+members:            AS4242423088
+remarks:            BURBLE-MNT
+members:            AS4242422601
+remarks:            TCHEKDA-MNT
+members:            AS4242421722
+source:             DN42
