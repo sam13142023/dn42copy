@@ -7,3 +7,4 @@ tech-c:             GATUNO-DN42
 mnt-by:             GATUNO-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.gatuno.dn42
