@@ -7,3 +7,4 @@ mnt-by:             GATUNO-MNT
 status:             ASSIGNED
 cidr:               172.22.122.0/27
 source:             DN42
+nserver:            ns1.gatuno.dn42
