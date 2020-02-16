@@ -1,0 +1,4 @@
+route:              172.20.48.128/27
+origin:             AS4242420181
+mnt-by:             MGL-MNT
+source:             DN42
