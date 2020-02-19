@@ -1,22 +1,40 @@
 aut-num:            AS4242421722
-as-name:            TchekdaNet
+as-name:            Tchekda
 admin-c:            TCHEKDA-DN42
 tech-c:             TCHEKDA-DN42
 mnt-by:             TCHEKDA-MNT
 source:             DN42
-descr:              Tchekda https://dn42.tchekda.fr
+descr:              Tchekda http://tchekda.dn42 | https://dn42.tchekda.fr
 remarks:            --------------------------------------------------------
 remarks:            Always happy to peer with you ! Contact me for peering : contact@tchekda.fr | IRC : Tchekda
-remarks:            Looking Glass : lg42.tchekda.dn42 | lg42.tchekda.fr
+remarks:            Looking Glass : http://lg42.tchekda.dn42 | https://lg42.tchekda.fr
 remarks:            --------------------------------------------------------
 remarks:            Peering Info :
 remarks:            - Web site : https://dn42.tchekda.fr/
-remarks:            - Only Wireguard
+remarks:            - Wireguard preferred
 remarks:            - Support Multi-Protocol over BGPv6
-remarks:            - Sending Full-Table
+remarks:            - Sending all known routes
 remarks:            --------------------------------------------------------
 remarks:            Peering Location :
-remarks:            peer.dn42.tchekda.fr (Paris, FR)
-remarks:            vps.dn42.tchekda.fr (Gravelines, FR) [Expires April 2020]
-remarks:            azure.dn42.tchekda.fr (US-EAST, US) [IPv4 only]
+remarks:            - peer.dn42.tchekda.fr (Paris, FR)
+remarks:            - vps.dn42.tchekda.fr (Gravelines, FR) [Expires April 2020]
+remarks:            - aws.dn42.tchekda.fr (Frankfurt, DE)
+remarks:            - azure.dn42.tchekda.fr (New-York, US) [IPv4 only]
+remarks:            - lax.dn42.tchekda.fr (Los Angeles, US)
+remarks:            --------------------------------------------------------
+remarks:            Peering Policy :
+remarks:            - At least one BGP session (IPv4 or IPv6). Multi-Protocol preferred
+remarks:            - Contact information in registry should be valid
+remarks:            - Having another peer is optional but recommended for redundancy
+remarks:            - Recommended to setup multiple peering in multiple locations for redundancy
+remarks:            - Long time error or network flooding will result in disabling the session
+remarks:            - Export filtering is recommended
+remarks:            --------------------------------------------------------
+remarks:            Routing Policy :
+remarks:            - Default :
+remarks:            - Export : All known routes
+remarks:            - Import : All ROA_VALID routes
+remarks:            - On Request :
+remarks:            - Export : Only my routes and/or peer routes
+remarks:            - Import : Only peer routes
 remarks:            --------------------------------------------------------
