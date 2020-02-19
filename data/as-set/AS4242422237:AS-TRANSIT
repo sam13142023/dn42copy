@@ -2,4 +2,20 @@ as-set:             AS4242422237:AS-TRANSIT
 admin-c:            MUNSTERNET-DN42
 tech-c:             MUNSTERNET-DN42
 mnt-by:             MUNSTERNET-MNT
+remarks:            JRB0001-MNT
+members:            AS4242420119
+remarks:            KIOUBIT-MNT
+members:            AS4242423914
+remarks:            MGL-MNT
+members:            AS4242420181
+remarks:            SIS-MNT
+members:            AS4242422950
+remarks:            TBSPACE-MNT
+members:            AS76190
+remarks:            TCHEKDA-MNT
+members:            AS4242421722
+remarks:            BLAZING-MNT (tobee)
+members:            AS4242420022
+remarks:            WXMN-MNT
+members:            AS4242422227
 source:             DN42
