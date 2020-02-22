@@ -1,10 +1,4 @@
 as-set:             AS4242420144:AS-TRANSIT
-remarks:            # HESSNET-MNT / GRAFFEN-DN42
-members:            AS4242423934
-remarks:            # DYNOS01-MNT / DYNOS01-DN42
-members:            AS4242423360
-remarks:            # mrxermon
-members:            AS4242423506
 mbrs-by-ref:        NETRAVNEN-MNT
 admin-c:            ORG-NETRAVNEN-DN42
 tech-c:             ORG-NETRAVNEN-DN42

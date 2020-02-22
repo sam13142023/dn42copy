@@ -1,0 +1,4 @@
+route6:             fd00:bad:f00d::/48
+origin:             AS4242420899
+mnt-by:             LOSER-MNT
+source:             DN42

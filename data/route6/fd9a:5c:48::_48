@@ -1,0 +1,5 @@
+route6:             fd9a:5c:48::/48
+origin:             AS4242420181
+max-length:         48
+mnt-by:             MGL-MNT
+source:             DN42

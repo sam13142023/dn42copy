@@ -1,0 +1,7 @@
+domain:             mgl.dn42
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+nserver:            ns1.mgl.dn42 172.20.48.129
+nserver:            ns1.mgl.dn42 fd9a:5c:48:53::1
+source:             DN42
