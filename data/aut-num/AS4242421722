@@ -32,9 +32,11 @@ remarks:            - Export filtering is recommended
 remarks:            --------------------------------------------------------
 remarks:            Routing Policy :
 remarks:            - Default :
-remarks:            - Export : All known routes
-remarks:            - Import : All ROA_VALID routes
+remarks:            |  - Export : All known routes
+remarks:            |  - Import : All ROA_VALID routes
+mp-import:          afi any.unicast from AS4242421722:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242421722:AS-TRANSIT announce ANY
 remarks:            - On Request :
-remarks:            - Export : Only my routes and/or peer routes
-remarks:            - Import : Only peer routes
+remarks:            |  - Export : Only my routes and/or peer routes
+remarks:            |  - Import : Only peer routes
 remarks:            --------------------------------------------------------
