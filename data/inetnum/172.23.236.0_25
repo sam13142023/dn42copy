@@ -1,7 +1,8 @@
 inetnum:            172.23.236.0 - 172.23.236.127
 netname:            TBSPACE-TRANSFERNET
 descr:              TBSPACE TRANSFERNET
-nserver:            ns1.loaderror.dn42
+nserver:            ns1.tbspace.de
+nserver:            ns2.tbspace.de
 country:            DE
 admin-c:            TBSPACE-DN42
 tech-c:             TBSPACE-DN42

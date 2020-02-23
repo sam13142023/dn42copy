@@ -1,7 +1,8 @@
 inetnum:            172.23.235.0 - 172.23.235.255
 netname:            TBSPACE-DE1
 descr:              TBSPACE VPS
-nserver:            ns1.loaderror.dn42
+nserver:            ns1.tbspace.de
+nserver:            ns2.tbspace.de
 country:            DE
 admin-c:            TBSPACE-DN42
 tech-c:             TBSPACE-DN42
