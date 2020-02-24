@@ -1,0 +1,9 @@
+inetnum:            172.22.122.32 - 172.22.122.63
+netname:            VULKAN-NETWORK
+country:            MX
+admin-c:            VULKAN-DN42
+tech-c:             VULKAN-DN42
+mnt-by:             VULKAN-MNT
+status:             ASSIGNED
+cidr:               172.22.122.32/27
+source:             DN42

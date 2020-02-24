@@ -1,0 +1,4 @@
+route:              172.22.122.32/27
+origin:             AS4242425674
+mnt-by:             VULKAN-MNT
+source:             DN42
