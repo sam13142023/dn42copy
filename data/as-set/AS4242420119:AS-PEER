@@ -1,5 +1,5 @@
 as-set:             AS4242420119:AS-PEER
-remarks:            WEITI-MNT
+members:            AS4242420144
 members:            AS4242423905
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
