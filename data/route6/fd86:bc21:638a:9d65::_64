@@ -1,4 +1,4 @@
-route:              fd86:bc21:638a:9d65::/64
-origin:             AS4242425674
+route6:             fd86:bc21:638a:9d65::/48
+origin:             AS4242420674
 mnt-by:             VULKAN-MNT
 source:             DN42
