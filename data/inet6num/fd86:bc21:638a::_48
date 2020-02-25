@@ -1,5 +1,5 @@
-inet6num:           fd86:bc21:638a:9d65:0000:0000:0000:0000 - fd86:bc21:638a:9d65:ffff:ffff:ffff:ffff
-cidr:               fd86:bc21:638a:9d65::/64
+inet6num:           fd86:bc21:638a:0000:0000:0000:0000:0000 - fd86:bc21:638a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:bc21:638a::/48
 netname:            VULKAN-NETWORK
 country:            MX
 admin-c:            VULKAN-DN42
