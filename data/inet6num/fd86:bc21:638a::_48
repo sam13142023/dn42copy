@@ -1,0 +1,9 @@
+inet6num:           fd86:bc21:638a:0000:0000:0000:0000:0000 - fd86:bc21:638a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:bc21:638a::/48
+netname:            VULKAN-NETWORK
+country:            MX
+admin-c:            VULKAN-DN42
+tech-c:             VULKAN-DN42
+mnt-by:             VULKAN-MNT
+status:             ASSIGNED
+source:             DN42
