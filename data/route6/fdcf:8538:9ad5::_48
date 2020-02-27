@@ -1,4 +1,4 @@
-route6:             fdcf:8538:9ad5:3a5f::/64
+route6:             fdcf:8538:9ad5::/48
 origin:             AS4242423914
 mnt-by:             KIOUBIT-MNT
 max-length:         64
