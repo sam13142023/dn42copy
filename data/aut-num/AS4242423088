@@ -1,6 +1,17 @@
 aut-num:            AS4242423088
 as-name:            SUNNET-AS
-remarks:            SUNNET-AS
+descr:              IPv4 and IPv6 dual-stack networks
+remarks:            New peers welcome and opening.
+remarks:            Peering details:
+remarks:            https://dn42.6700.cc (internet) http://sun.dn42 (DN42 network)
+remarks:            -------------------------------------------------------------------
+remarks:            Looking glass:
+remarks:            https://lg.dn42.6700.cc (internet) http://lg.sun.dn42 (DN42 network)
+remarks:            -------------------------------------------------------------------
+remarks:            POP nodes:
+remarks:            Asia Pacific:Hong Kong,CN - Singapore,SG - Tokyo,JP
+remarks:            North America:Los Angeles,California,US - San Jose,California,US - Buffalo,New York,US
+remarks:            Europe:London,UK - Frankfurt,Hesse,DE - Moscow,RU
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT
