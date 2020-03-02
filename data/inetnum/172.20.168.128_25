@@ -4,6 +4,7 @@ netname:            Niantic Network CN
 org:                ORG-NIA
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42
+nserver:            ns.nia.dn42
 mnt-by:             NIA-MNT
 status:             ASSIGNED
 source:             DN42

@@ -5,3 +5,19 @@ tech-c:             NIA-DN42
 mnt-by:             NIA-MNT
 org:                ORG-NIA
 source:             DN42
+remarks:            
+remarks:            +-----------------------------------------+
+remarks:            |             Niantic Network             |
+remarks:            +-----------------------------------------+
+remarks:            | Open for Peering                        |
+remarks:            | Peering Location at:                    |
+remarks:            |  - New York City                        |
+remarks:            |  - Los Angeles                          |
+remarks:            |  - Hong Kong                            |
+remarks:            |  - Romania                              |
+remarks:            |  - China(More priority to CERNET)       |
+remarks:            +-----------------------------------------+
+remarks:            | Contact: noc@nia.ac.cn                  |
+remarks:            | Web: https://net.nia.ac.cn/dn42-peer    |
+remarks:            | Looking Glass: https://net-lg.nia.ac.cn |
+remarks:            +-----------------------------------------+
