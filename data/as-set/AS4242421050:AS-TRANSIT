@@ -3,6 +3,8 @@ remarks:            BURBLE-MNT
 members:            AS4242422601
 remarks:            TCHEKDA-MNT
 members:            AS4242421722
+remarks:            MUNSTERNET-MNT
+members:            AS4242422237
 admin-c:            NAPSTERBATER-DN42
 tech-c:             NAPSTERBATER-DN42
 mnt-by:             NAPSTERBATER-MNT
