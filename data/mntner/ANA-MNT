@@ -1,4 +1,5 @@
 mntner:             ANA-MNT
+auth:               pgp-fingerprint 85E7AAB8C29DF38349405DC06F8DE44D59D7DBCC
 admin-c:            ANA-DN42
 tech-c:             ANA-DN42
 mnt-by:             ANA-MNT
