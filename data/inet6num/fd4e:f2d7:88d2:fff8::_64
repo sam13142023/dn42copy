@@ -1,4 +1,6 @@
-domain:             ffsaar
+inet6num:           fd4e:f2d7:88d2:fff8:0000:0000:0000:0000 - fd4e:f2d7:88d2:fff8:ffff:ffff:ffff:ffff
+cidr:               fd4e:f2d7:88d2:fff8::/64
+netname:            ICVPN-SAAR
 nserver:            1.193.24.10.ipv4.registry-sync.dn42
 nserver:            2.193.24.10.ipv4.registry-sync.dn42
 nserver:            3.193.24.10.ipv4.registry-sync.dn42
