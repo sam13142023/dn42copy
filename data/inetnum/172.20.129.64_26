@@ -1,10 +1,9 @@
 inetnum:            172.20.129.64 - 172.20.129.127
-netname:            ATR-HOSTS
-descr:              ATR Network for Private Hosts
+netname:            ATR-AsiaPasific
+descr:              ATR Network in Asia Pasific
 country:            CN
+country:            HK
 country:            JP
-country:            RU
-country:            US
 admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT

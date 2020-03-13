@@ -1,9 +1,7 @@
 inetnum:            172.20.231.192 - 172.20.231.223
-netname:            ATR-EDGE-AP
-descr:              ATR Edge Network in Asia Pasific Region
-country:            JP
-country:            CN
-country:            AU
+netname:            ATR-America
+descr:              ATR Network in America
+country:            US
 admin-c:            ALLENZ-DN42
 tech-c:             ALLENZ-DN42
 mnt-by:             ATR-MNT
