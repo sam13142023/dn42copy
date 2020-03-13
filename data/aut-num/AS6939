@@ -1,0 +1,7 @@
+aut-num:            AS6939
+as-name:            AnyNet-AS
+descr:              Andy Anycast Network
+mnt-by:             AndyNet-MNT
+admin-c:            AndyNet-DN42
+tech-c:             AndyNet-DN42
+source:             DN42
