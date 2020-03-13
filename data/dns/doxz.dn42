@@ -1,0 +1,6 @@
+domain:             doxz.dn42
+admin-c:            DOXZ-DN42
+tech-c:             DOXZ-DN42
+mnt-by:             DOXZ-MNT
+nserver:            ns1.doxz.dn42 172.22.159.37
+source:             DN42
