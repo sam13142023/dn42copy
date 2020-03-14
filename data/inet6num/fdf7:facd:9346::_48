@@ -7,4 +7,6 @@ admin-c:            ANDYNET-DN42
 tech-c:             ANDYNET-DN42
 mnt-by:             ANDYNET-MNT
 status:             ASSIGNED
+nserver:            ns1.andy.dn42
+nserver:            ns2.andy.dn42
 source:             DN42
