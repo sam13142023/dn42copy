@@ -7,4 +7,5 @@ tech-c:             MGL-DN42
 mnt-by:             MGL-MNT
 status:             ASSIGNED
 nserver:            ns1.mgl.dn42
+nserver:            ns2.mgl.dn42
 source:             DN42
