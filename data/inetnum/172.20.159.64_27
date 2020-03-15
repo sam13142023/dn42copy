@@ -6,5 +6,7 @@ country:            CN
 admin-c:            ANDYNET-DN42
 tech-c:             ANDYNET-DN42
 mnt-by:             ANDYNET-MNT
+nserver:            ns1.andy.dn42
+nserver:            ns2.andy.dn42
 status:             ASSIGNED
 source:             DN42
