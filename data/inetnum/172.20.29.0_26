@@ -1,7 +1,7 @@
-inetnum:            172.20.29.0 - 172.20.29.31
-cidr:               172.20.29.0/27
+inetnum:            172.20.29.0 - 172.20.29.63
+cidr:               172.20.29.0/26
 netname:            MGL-IPV4-2
-descr:              MGL IPv4 Network - Services
+descr:              MGL IPv4 Network
 admin-c:            MGL-DN42
 tech-c:             MGL-DN42
 mnt-by:             MGL-MNT

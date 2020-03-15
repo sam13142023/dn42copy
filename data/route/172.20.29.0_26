@@ -1,4 +1,4 @@
-route:              172.20.29.0/27
+route:              172.20.29.0/26
 origin:             AS4242420181
 max-length:         29
 mnt-by:             MGL-MNT
