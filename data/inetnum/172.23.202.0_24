@@ -7,5 +7,5 @@ tech-c:             PYROPETER-DN42
 status:             ASSIGNED
 nserver:            ns1.pyropeter.dn42
 cidr:               172.23.202.0/24
-mnt-by:             DUMMY-MNT
+mnt-by:             PYROPETER-MNT
 source:             DN42
