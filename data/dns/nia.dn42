@@ -2,7 +2,7 @@ domain:             nia.dn42
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42
 mnt-by:             NIA-MNT
-nserver:            ns.nia.dn42 fd00:1926:0817::2
+nserver:            ns.nia.dn42 fd00:1926:817:53::1
 nserver:            ns.nia.dn42 172.20.158.129
 ds-rdata:           12390 13 1 d9633930d4741adb9be4239d37ca808e506ec678
 ds-rdata:           12390 13 2 e9e9f059c4818e45721453455c256f0ff673fc69f7e643ee37b50aa77f689c26

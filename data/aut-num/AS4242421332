@@ -1,0 +1,18 @@
+aut-num:            AS4242421332
+as-name:            Niantic Network CN
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+org:                ORG-NIA
+source:             DN42
+remarks:            
+remarks:            +-----------------------------------------+
+remarks:            |          Niantic Network China          |
+remarks:            +-----------------------------------------+
+remarks:            | Open for Peering                        |
+remarks:            | Peering Location at:                    |
+remarks:            |  - Aliyun, Niaoyun, TencentCloud...     |
+remarks:            |  - CERNET (More priority)               |
+remarks:            +-----------------------------------------+
+remarks:            | Contact: noc@nia.ac.cn                  |
+remarks:            +-----------------------------------------+
