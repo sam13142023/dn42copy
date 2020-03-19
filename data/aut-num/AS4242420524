@@ -1,0 +1,7 @@
+aut-num:            AS4242420524
+as-name:            FNK-AS
+descr:              FNK's DN42 Network
+admin-c:            FNK-DN42
+tech-c:             FNK-DN42
+mnt-by:             FNK-MNT
+source:             DN42
