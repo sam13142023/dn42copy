@@ -1,7 +1,7 @@
 aut-num:            AS4242422128
-as-name:            Dekinw-AS
-descr:              AS for Dekinw DN42 Network
-admin-c:            DEKINW-DN42
-tech-c:             DEKINW-DN42
-mnt-by:             DEKINW-MNT
+as-name:            AMNET-DN42
+descr:              AS For Amnet Network Laboratory
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
 source:             DN42
