@@ -1,7 +1,0 @@
-domain:             dekinw.dn42
-nserver:            ns1.dekinw.dn42 172.23.239.30
-nserver:            ns2.dekinw.dn42 172.23.239.62
-admin-c:            DEKINW-DN42
-tech-c:             DEKINW-DN42
-mnt-by:             DEKINW-MNT
-source:             DN42
