@@ -1,7 +1,0 @@
-as-set:             AS-MORTZU
-descr:              mortzu ASN block
-admin-c:            MORTZU-DN42
-mnt-by:             MORTZU-MNT
-remarks:            as-block: 64792 - 64807
-members:            AS64794
-source:             DN42
