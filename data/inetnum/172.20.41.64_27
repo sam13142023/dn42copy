@@ -1,0 +1,9 @@
+inetnum:            172.20.41.64 - 172.20.41.95
+netname:            ASHCK-NETWORK
+country:            MX
+admin-c:            ASHCK-DN42
+tech-c:             ASHCK-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+cidr:               172.20.41.64/27
+source:             DN42
