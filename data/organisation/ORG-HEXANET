@@ -1,5 +1,6 @@
 organisation:       ORG-HEXANET
 org-name:           Hexanet
+remarks:            https://hexanet.dev
 admin-c:            HEXANET-DN42
 tech-c:             HEXANET-DN42
 mnt-by:             HEXANET-MNT
