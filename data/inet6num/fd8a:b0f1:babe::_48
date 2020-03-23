@@ -6,6 +6,6 @@ country:            SE
 admin-c:            PSM-DN42
 tech-c:             PSM-DN42
 mnt-by:             PSM-MNT
-nserver:	    ns1.psm.dn42
+nserver:            ns1.psm.dn42
 status:             ASSIGNED
 source:             DN42
