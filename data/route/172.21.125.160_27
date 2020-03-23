@@ -2,4 +2,3 @@ route:              172.21.125.160/27
 origin:             AS4242429991
 mnt-by:             VITALE-MNT
 source:             DN42
-
