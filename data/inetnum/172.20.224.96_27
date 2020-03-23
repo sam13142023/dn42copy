@@ -1,4 +1,4 @@
-inetnum:            172.20.224.97 - 172.20.224.127
+inetnum:            172.20.224.96 - 172.20.224.127
 netname:            LINSERVERS-Home
 descr:              Linservers Home
 country:            NL
@@ -7,5 +7,5 @@ tech-c:             JIMMY-DN42
 mnt-by:             LINSERVERS-MNT
 nserver:            ns1.linservers.dn42
 status:             ASSIGNED
-cidr:               172.20.224.97/27
+cidr:               172.20.224.96/27
 source:             DN42
