@@ -1,4 +1,3 @@
-
 route:              172.20.224.96/27
 origin:             AS4242421987
 mnt-by:             LINSERVERS-MNT
