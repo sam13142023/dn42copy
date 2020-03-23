@@ -5,4 +5,3 @@ mnt-by:             PSM-MNT
 nserver:            ns1.psm.dn42 172.20.190.82
 nserver:            ns1.psm.dn42 fd8a:b0f1:babe::82
 source:             DN42
-
