@@ -1,5 +1,5 @@
-inet6num:           fd95:bfa8:a5e2:2f28:0000:0000:0000:0000 - fd95:bfa8:a5e2:2f28:ffff:ffff:ffff:ffff
-cidr:               fd95:bfa8:a5e2:2f28::/64
+inet6num:           fd95:bfa8:a5e2:0000:0000:0000:0000:0000 - fd95:bfa8:a5e2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd95:bfa8:a5e2::/48
 netname:            CAXAP-NETWORK
 descr:              CAXAP Network
 country:            CN
