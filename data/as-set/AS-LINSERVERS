@@ -1,7 +1,7 @@
-mntner:             LINSERVERS-MNT
-descr:              Linservers Network
+as-set:             AS-LINSERVERS
+descr:              Linservers AS set
+members:            AS4242421987
 admin-c:            JIMMY-DN42
 tech-c:             JIMMY-DN42
-auth:               PGPKEY-5D015393
 mnt-by:             LINSERVERS-MNT
 source:             DN42
