@@ -1,0 +1,7 @@
+domain:             jerry.dn42
+admin-c:            JERRY-DN42
+tech-c:             JERRY-DN42
+mnt-by:             JERRY-MNT
+nserver:            ns1.jerry.dn42 172.20.51.97
+nserver:            ns1.jerry.dn42 fd07:0d34:7969::1
+source:             DN42
