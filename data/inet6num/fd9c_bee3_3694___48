@@ -1,0 +1,10 @@
+inet6num:           fd9c:bee3:3694:0000:0000:0000:0000:0000 - fd9c:bee3:3694:ffff:ffff:ffff:ffff:ffff
+netname:            WJZ-IPV6
+descr:              Peer with me at chain723@gmail.com
+country:            CN
+admin-c:            WJZ-DN42
+tech-c:             WJZ-DN42
+mnt-by:             WJZ-MNT
+status:             ASSIGNED
+cidr:               fd9c:bee3:3694::/48
+source:             DN42

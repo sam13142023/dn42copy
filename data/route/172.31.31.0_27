@@ -1,0 +1,5 @@
+route:              172.31.31.0/27
+descr:              Peer with me at chain723@gmail.com
+origin:             AS4242422547
+mnt-by:             WJZ-MNT
+source:             DN42

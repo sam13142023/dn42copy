@@ -1,0 +1,7 @@
+mntner:             WJZ-MNT
+admin-c:            WJZ-DN42
+tech-c:             WJZ-DN42
+mnt-by:             WJZ-MNT
+source:             DN42
+auth:               pgp-fingerprint 7C5428A37E9FF82250A6797A09A07F7F557CEE7A
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAx6Mp0QwkTUKIgb+Oo5U0QCGoIvhyBl1kfbuOGOksAd1qUmyCLcf8u2La31D0bdiUEffhf7m7fiK3lWhJH5cvml8bgrinoddNMNat76Jor3azTUIxdhR3LisEYjBRKkYrTbt+qmYW9yfdzfyej1JAGJVogeEXbXBF9oKWvvfUQ9KElcgvS8hO23j4AHAEc7blu1RnXj9t96lyfLLXpgX838pjtpg1bnNk4ZuSikTFcX7FCEdtVOmwk+ftJO0zIBCOVl6AWhJ/Dt+PdsOKf35QReMil9IgqICoB+mIRv45PrS3BCWImLJbzPiebLbjLBTXXbsSti2wrPed+CUVzHeOTQ== rsa 2048-031920
