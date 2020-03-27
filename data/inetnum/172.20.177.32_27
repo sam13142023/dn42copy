@@ -1,0 +1,8 @@
+inetnum:            172.20.177.32 - 172.20.177.63
+cidr:               172.20.177.32/27
+netname:            ZOTAN-NETWORK
+admin-c:            ZOTAN-DN42
+tech-c:             ZOTAN-DN42
+mnt-by:             ZOTAN-MNT
+status:             ASSIGNED
+source:             DN42
