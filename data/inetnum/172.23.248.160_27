@@ -1,4 +1,4 @@
-inetnum:            172.31.31.0 - 172.31.31.31
+inetnum:            172.23.248.160 - 172.23.248.191
 netname:            WJZ-IPV4
 remarks:            Peer with me at chain723@gmail.com
 descr:              Peer with me at chain723@gmail.com
@@ -7,5 +7,5 @@ admin-c:            WJZ-DN42
 tech-c:             WJZ-DN42
 mnt-by:             WJZ-MNT
 status:             ASSIGNED
-cidr:               172.31.31.0/27
+cidr:               172.23.248.160/27
 source:             DN42

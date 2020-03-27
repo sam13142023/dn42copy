@@ -1,4 +1,4 @@
-route:              172.31.31.0/27
+route:              172.23.248.160/27
 descr:              Peer with me at chain723@gmail.com
 origin:             AS4242422547
 mnt-by:             WJZ-MNT
