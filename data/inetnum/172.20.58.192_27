@@ -4,6 +4,7 @@ remarks:            Peer with me at xingchenglou@163.com
 netname:            FNK-DN42
 descr:              Peer with me at xingchenglou@163.com
 country:            CN
+nserver:            ns1.wsfnk.dn42
 admin-c:            FNK-DN42
 tech-c:             FNK-DN42
 mnt-by:             FNK-MNT

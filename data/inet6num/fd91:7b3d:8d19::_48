@@ -4,5 +4,6 @@ netname:            FNK-IPV6
 admin-c:            FNK-DN42
 tech-c:             FNK-DN42
 mnt-by:             FNK-MNT
+nserver:            ns1.wsfnk.dn42
 status:             ASSIGNED
 source:             DN42
