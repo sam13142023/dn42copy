@@ -1,7 +1,7 @@
 inet6num:           fdcf:8538:9ad5:0000:0000:0000:0000:0000 - fdcf:8538:9ad5:ffff:ffff:ffff:ffff:ffff
 cidr:               fdcf:8538:9ad5::/48
 netname:            KIOUBIT-NETWORK-IPV6
-nserver:            n2.kioubit.dn42
+nserver:            ns1.kioubit.dn42
 country:            GR
 status:             ASSIGNED
 admin-c:            KIOUBIT-DN42
