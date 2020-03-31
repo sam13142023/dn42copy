@@ -9,3 +9,6 @@ mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 cidr:               fdc1:31f:b14f::/48
 source:             DN42
+ds-rdata:           20591 13 1 d2f6244cebb9d05345ab27f6ab5ec347783e25a7
+ds-rdata:           20591 13 2 97ca6f9cfa7e07d69934fed6ddc2015d57819fc97ed8782ddd44c756c03a19fc
+ds-rdata:           20591 13 4 859b22c9d7644e8adf18e0187ef26c9c9faf4b317bc9dd73fb171a5397018f8c322b3d97ed695bafbdd974cde3fbc4a5
