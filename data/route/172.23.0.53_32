@@ -5,8 +5,10 @@ origin:             AS4242420123
 origin:             AS4242420122
 origin:             AS76198
 origin:             AS4242423723
+origin:             AS4242422601
 mnt-by:             KRSTN-MNT
 mnt-by:             BLAZING-MNT
 mnt-by:             XUU-MNT
 mnt-by:             GRMML-MNT
+mnt-by:             BURBLE-MNT
 source:             DN42
