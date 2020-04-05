@@ -1,14 +1,8 @@
 route:              172.23.0.53/32
-origin:             AS4242420022
+descr:              Anycast of *.recursive-servers.dn42.
+remarks:            XUU-MNT
 origin:             AS64737
-origin:             AS4242420123
-origin:             AS4242420122
-origin:             AS76198
-origin:             AS4242423723
+remarks:            BURBLE-MNT
 origin:             AS4242422601
-mnt-by:             KRSTN-MNT
-mnt-by:             BLAZING-MNT
-mnt-by:             XUU-MNT
-mnt-by:             GRMML-MNT
-mnt-by:             BURBLE-MNT
+mnt-by:             DN42-MNT
 source:             DN42
