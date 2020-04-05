@@ -1,0 +1,24 @@
+key-cert:           PGPKEY-081396F4
+method:             PGP
+fingerpr:           3197 BBD9 5137 E682 A597  17B4 34BB 2007 0813 96F4
+owner:              Max Mazurov <fox.cpp@disroot.org>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             mDMEWv3PWRYJKwYBBAHaRw8BAQdAFA33Dqcv7VW99hTHpv8afk4TUMIvqk0vO8lr
+certif:             XIla41W0IU1heCBNYXp1cm92IDxmb3guY3BwQGRpc3Jvb3Qub3JnPoiQBBMWCgA4
+certif:             FiEEMZe72VE35oKllxe0NLsgBwgTlvQFAlr9z1kCGwEFCwkIBwMFFQoJCAsFFgID
+certif:             AQACHgECF4AACgkQNLsgBwgTlvSAvQD/SXz15ClVqLI2//CDWM/Op3xPI9pQBgWK
+certif:             KXraLt1U+lMBANSiCX3Kze3y5b61/AJsD72F37SVcC/achjwJ08hgmsKuDMEWv3P
+certif:             pxYJKwYBBAHaRw8BAQdAxjz1w+JqGfnYFsu4A+sbb8XnGW1W9TUjt08XpFb5Pw6I
+certif:             9QQYFgoAJhYhBDGXu9lRN+aCpZcXtDS7IAcIE5b0BQJa/c+nAhsCBQkDwmcAAIEJ
+certif:             EDS7IAcIE5b0diAEGRYKAB0WIQTdG+p3m+IfluzMaDjnbZfM7ekLbAUCWv3PpwAK
+certif:             CRDnbZfM7ekLbPujAQDPmQg+59FR3ERg0c+JYgn39sIPLU5qN9z9xWcay4WQ5QEA
+certif:             3g9yE/yLupUg+vGaMCZ4iOANuom/mwpzYlyL6hEqngsErwEAj7zm0s47vSRf+JUA
+certif:             C6vxunp0QdVFqcmn2Ncog65mcvYA/ixhaU8aSI5z+WlMdBKMCi8ihjJta+moq7+U
+certif:             9P7yJ+EEuDgEWv3PxxIKKwYBBAGXVQEFAQEHQK+xEJ1guGJcd8D/r5JNm39srugx
+certif:             n2hwcBLtnpSPMe0qAwEIB4h+BBgWCgAmFiEEMZe72VE35oKllxe0NLsgBwgTlvQF
+certif:             Alr9z8cCGwwFCQPCZwAACgkQNLsgBwgTlvRfsQEA0+bZMEwNnuiAbooJGnTQDGC7
+certif:             M7KnS4O9b3m2nfgl7NYBAOBT8sDSp6Akgv+qTbReV+U3w6pCO8ESIPfufY0vNQkJ
+certif:             =fvAL
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             HEXANET-MNT
+source:             DN42
