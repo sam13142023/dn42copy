@@ -1,5 +1,6 @@
 aut-num:            AS4242421375
 as-name:            CHELNOK-AS
+org:                ORG-CHELNOK
 descr:              eri!'s AS
 mnt-by:             ERI-MNT
 admin-c:            ERI-DN42
