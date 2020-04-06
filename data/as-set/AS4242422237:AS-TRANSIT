@@ -2,6 +2,10 @@ as-set:             AS4242422237:AS-TRANSIT
 admin-c:            MUNSTERNET-DN42
 tech-c:             MUNSTERNET-DN42
 mnt-by:             MUNSTERNET-MNT
+remarks:            BURBLE-MNT
+members:            AS4242422601
+remarks:            SUNNET-MNT
+members:            AS4242423088
 remarks:            JRB0001-MNT
 members:            AS4242420119
 remarks:            KIOUBIT-MNT
@@ -32,4 +36,23 @@ remarks:            NIA-MNT
 members:            AS4242421331
 remarks:            SANTOST12-MNT
 members:            AS4242420661
+remarks:            NOP-MNT
+members:            AS4242421955
+remarks:            NARNIA--MNT
+members:            AS4242422037
+remarks:            TECH9-MNT
+members:            AS4242421588
+remarks:            FNK-MNT
+members:            AS4242420524
+remarks:            IEDON-MNT
+members:            AS4242422189
+remarks:            HEXANET-MNT
+members:            AS4242423078
+remarks:            DOXZ-MNT
+members:            AS4242422904
+remarks:            ZOTAN-MNT
+members:            AS4242422341
+remarks:            BURBLE-MNT
+remarks:            Global Route Collector
+members:            AS4242422602
 source:             DN42

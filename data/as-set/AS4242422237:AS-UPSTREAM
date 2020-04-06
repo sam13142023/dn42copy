@@ -2,8 +2,4 @@ as-set:             AS4242422237:AS-UPSTREAM
 admin-c:            MUNSTERNET-DN42
 tech-c:             MUNSTERNET-DN42
 mnt-by:             MUNSTERNET-MNT
-remarks:            BURBLE-MNT
-members:            AS4242422601
-remarks:            SUNNET-MNT
-members:            AS4242423088
 source:             DN42
