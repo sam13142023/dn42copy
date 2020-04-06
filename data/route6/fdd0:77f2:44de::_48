@@ -1,0 +1,5 @@
+route6:             fdd0:77f2:44de::/48
+origin:             AS4242422077
+max-length:         48
+mnt-by:             FEU-MNT
+source:             DN42
