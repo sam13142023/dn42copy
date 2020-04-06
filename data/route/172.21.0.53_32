@@ -1,4 +1,4 @@
-route:              172.22.0.53/32
+route:              172.21.0.53/32
 descr:              Recursive DNS Anycast - reserved for future use
 origin:             AS0
 mnt-by:             DN42-MNT
