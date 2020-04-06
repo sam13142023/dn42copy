@@ -1,5 +1,6 @@
 mntner:             ERI-MNT
 descr:              eri! maintains
+auth:               pgp-fingerprint 844267BA729E32B3329B9DBF59E238FC65F349F2
 admin-c:            ERI-DN42
 tech-c:             ERI-DN42
 mnt-by:             ERI-MNT
