@@ -1,0 +1,5 @@
+route:              172.20.4.104/27
+descr:              Peer with me at leomundspedoske@gmail.com
+origin:             AS4242420104
+mnt-by:             LEOMUND-MNT
+source:             DN42
