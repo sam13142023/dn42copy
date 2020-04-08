@@ -1,5 +1,5 @@
 inetnum:            172.23.35.64 - 172.23.35.127
-netname:            HIGHER-NET
+netname:            HIGHER-IPV4
 country:            CN
 admin-c:            HIGHER-DN42
 tech-c:             HIGHER-DN42
