@@ -1,4 +1,4 @@
-inetnum:            172.23.163.32-172.23.163.63
+inetnum:            172.23.163.32 - 172.23.163.63
 netname:            HANLIN-NETWORK
 descr:              Hanlin DN42 Network
 country:            CN
