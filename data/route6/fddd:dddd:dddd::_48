@@ -1,0 +1,5 @@
+route6:             ffddd:dddd:dddd::/48
+descr:              Alanyhq IPv6
+origin:             AS4242420916
+mnt-by:             ALANYHQ-MNT
+source:             DN42
