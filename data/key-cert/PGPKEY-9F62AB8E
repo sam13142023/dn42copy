@@ -1,0 +1,26 @@
+key-cert:           PGPKEY-9F62AB8E
+method:             PGP
+fingerpr:           A7BC F83E 5BF5 CB38 E617 37F4 88E3 E408 9F62 AB8E
+owner:              Hexawolf <hexawolf@hexanet.dev>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEXoVdKhYJKwYBBAHaRw8BAQdAIDFHjHm3KIv0wND2kLYDdFcH9phAEdfDKaFC
+certif:             ZhCrYPy0H0hleGF3b2xmIDxoZXhhd29sZkBoZXhhbmV0LmRldj6IlgQTFggAPhYh
+certif:             BKe8+D5b9cs45hc39Ijj5AifYquOBQJehV0qAhsBBQkJZgGABQsJCAcCBhUKCQgL
+certif:             AgQWAgMBAh4BAheAAAoJEIjj5AifYquOOMABAPm+WMbzZnWD3BCdFxHkOZfSyHVF
+certif:             zV4oGTj4Rab3oS4EAQCpluJ7aFEFpx/El34W59hPNE7oLeE7T1irh5kzlgYoDLgz
+certif:             BF6F8cEWCSsGAQQB2kcPAQEHQLhsiqgY3t/oYQFeviV+HgNjppXKOq1piX36vvXN
+certif:             2bX3iPUEGBYIACYWIQSnvPg+W/XLOOYXN/SI4+QIn2KrjgUCXoXxwQIbAgUJAeEz
+certif:             gACBCRCI4+QIn2KrjnYgBBkWCAAdFiEELmGKEcJoeg9O1ZtwIg5pGYoU0jIFAl6F
+certif:             8cEACgkQIg5pGYoU0jK/MgEAzG2cgSC44eZAVUrKRuG+SZxz4Y6M6jDBLhO6irKZ
+certif:             q2QBAKpYmIK8R2VLDwC4a9y4CxAdqa798eFFDII9r/61CL4Dp0gA/1NlWH8c0vq6
+certif:             YKv5Pp/3ux90htglZWUi/noQXuQZMQBpAQDghjWcMWvTAJA8ZSuNX8C81BVx02gb
+certif:             kwRSm5dZkFNbB7g4BF6F8f4SCisGAQQBl1UBBQEBB0A2UY6DWQQDjYvjnxG5PVgm
+certif:             W9hI84uz58TO1lr0DJUIYwMBCAeIfgQYFggAJhYhBKe8+D5b9cs45hc39Ijj5Aif
+certif:             YquOBQJehfH+AhsMBQkB4TOAAAoJEIjj5AifYquOBooA/3lNSz2wD6K1GfMVDsvR
+certif:             HNkApYVCcEwb5GMTe6xKnWJ7AQCfevVWgKpGFqHM7eZ2VqVUYHRlDyy6TGtTmEo4
+certif:             hmm5Bw==
+certif:             =9/zY
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             HEXANET-MNT
+source:             DN42

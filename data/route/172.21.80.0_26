@@ -1,0 +1,4 @@
+route:              172.21.80.0/26
+origin:             AS4242422077
+mnt-by:             FEU-MNT
+source:             DN42

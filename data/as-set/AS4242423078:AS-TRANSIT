@@ -1,0 +1,13 @@
+as-set:             AS4242423078:AS-TRANSIT
+remarks:            TAILSNET
+members:            AS4242423621
+remarks:            MUNSTERNET
+members:            AS4242422237
+remarks:            GRAFFEN
+members:            AS4242423934
+remarks:            XESXEN
+members:            AS4242423140
+remarks:            ZOTAN
+members:            AS4242422341
+mnt-by:             HEXANET-MNT
+source:             DN42

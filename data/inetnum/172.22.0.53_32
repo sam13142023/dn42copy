@@ -1,11 +1,7 @@
 inetnum:            172.22.0.53 - 172.22.0.53
 cidr:               172.22.0.53/32
-netname:            ANYCASTDNS-IP4NET
-descr:              DNS Cache IPv4 anycast network
-remarks:            Hosts on this network supply recursive DNS service.
-admin-c:            SOURIS-DN42
-admin-c:            FRITZ-DN42
-mnt-by:             XUU-MNT
-mnt-by:             FRITZ-MNT
-status:             ASSIGNED
+netname:            RECURSORS
+descr:              Recursive DNS Anycast - reserved for future use
+mnt-by:             DN42-MNT
+status:             ASSIGNED PI
 source:             DN42

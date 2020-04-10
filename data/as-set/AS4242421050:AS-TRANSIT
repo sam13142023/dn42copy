@@ -15,6 +15,12 @@ remarks:            IEDON-MNT
 members:            AS4242422189
 remarks:            SUNNET-MNT
 members:            AS4242423088
+remarks:            TRIS-MNT
+members:            AS4242422502
+remarks:            DOXZ-MNT
+members:            AS4242422904
+remarks:            GATUNO-MNT
+members:            AS4242420180
 admin-c:            NAPSTERBATER-DN42
 tech-c:             NAPSTERBATER-DN42
 mnt-by:             NAPSTERBATER-MNT
