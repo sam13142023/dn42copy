@@ -1,4 +1,4 @@
-inet6num:           fd00:0114:0514:0000:0000:0000:0000:0000 - fd00:114:514::ffff:ffff:ffff:ffff:ffff
+inet6num:           fd00:0114:0514:0000:0000:0000:0000:0000 - fd00:114:514:ffff:ffff:ffff:ffff:ffff
 netname:            ALANYHQ-NET-IPV6
 descr:              Alanyhq Networks IPv6
 country:            CN
