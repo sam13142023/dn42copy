@@ -1,5 +1,5 @@
 route:              172.22.123.0/24
-descr:              Alanyhq IPv4
+descr:              Alanyhq Networks IPv4
 origin:             AS4242420916
 mnt-by:             ALANYHQ-MNT
 source:             DN42
