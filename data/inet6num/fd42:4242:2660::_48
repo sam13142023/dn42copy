@@ -1,0 +1,13 @@
+inet6num:           fd42:4242:2660:0000:0000:0000:0000:0000 - fd42:4242:2660:ffff:ffff:ffff:ffff:ffff
+netname:            BREAKINGTIME-IPV6
+country:            CN
+admin-c:            BREAKINGTIME-DN42
+tech-c:             BREAKINGTIME-DN42
+mnt-by:             BREAKINGTIME-MNT
+nserver:            ns-627.awsdns-14.net
+nserver:            ns-105.awsdns-13.com
+nserver:            ns-1192.awsdns-21.org
+nserver:            ns-1879.awsdns-42.co.uk
+status:             ASSIGNED
+cidr:               fd42:4242:2660::/48
+source:             DN42

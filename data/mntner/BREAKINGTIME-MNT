@@ -1,0 +1,7 @@
+mntner:             BREAKINGTIME-MNT
+admin-c:            BREAKINGTIME-DN42
+tech-c:             BREAKINGTIME-DN42
+mnt-by:             BREAKINGTIME-MNT
+descr:              BreakingTime's FastNet
+source:             DN42
+auth:               pgp-fingerprint 96F9D4EA02660A5774FA1C778CD58773F0542E15
