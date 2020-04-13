@@ -1,4 +1,4 @@
-route6:             fd37:03b3:cae6:5158::/64
+route6:             fd37:03b3:cae6:5158::/48
 descr:              Peer with me at zhihuiyuze@qq.com And telegram is zhihuiyuze
 origin:             AS4242423747
 mnt-by:             ZHYZ-MNT
