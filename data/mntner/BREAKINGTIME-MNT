@@ -1,0 +1,6 @@
+mntner:             BREAKINGTIME-MNT
+admin-c:            BREAKINGTIME-DN42
+tech-c:             BREAKINGTIME-DN42
+mnt-by:             BREAKINGTIME-MNT
+source:             DN42
+auth:               pgp-fingerprint C4F2DC7CFDC99EEBFB004C506561DC79070D34CE
