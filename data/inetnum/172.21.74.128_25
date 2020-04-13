@@ -1,0 +1,11 @@
+inetnum:            172.21.64.0 - 172.21.127.255
+cidr:               172.21.64.0/18
+netname:            ZHYZ-DN42
+descr:              zhihuiyuze native address space
+remarks:            The ip segment of zhihuiyuze mail:zhihuiyuze@qq.com
+mnt-by:             ZHYZ-MNT
+status:             ALLOCATED
+source:             DN42
+country:            CN
+admin-c:            ZHYZ-DN42
+tech-c:             ZHYZ-DN42
