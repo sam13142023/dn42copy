@@ -4,7 +4,7 @@ netname:            ZHYZ-IPV4
 descr:              ZHYZ native address space
 remarks:            Peer with me at zhihuiyuze@qq.com.com
 mnt-by:             ZHYZ-MNT
-status:             ALLOCATED
+status:             ASSIGNED
 country:            CN
 admin-c:            ZHYZ-DN42
 tech-c:             ZHYZ-DN42
