@@ -1,5 +1,5 @@
 inet6num:           fd42:4242:2660:0000:0000:0000:0000:0000 - fd42:4242:2660:ffff:ffff:ffff:ffff:ffff
-netname:            HERTZ-IPV6
+netname:            HERTZ_IPV6_01
 country:            CN
 admin-c:            HERTZ-DN42
 tech-c:             HERTZ-DN42
