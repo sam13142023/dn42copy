@@ -1,0 +1,6 @@
+route6:             fd94:267a:f14e::/48
+max-length:         56
+descr:              This route6 object is maintained by HITLUG and is only for demonstration use.
+origin:             AS4242420985
+mnt-by:             BILL-MNT
+source:             DN42
