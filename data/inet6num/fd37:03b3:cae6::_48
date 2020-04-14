@@ -6,5 +6,5 @@ admin-c:            ZHYZ-DN42
 tech-c:             ZHYZ-DN42
 mnt-by:             ZHYZ-MNT
 status:             ASSIGNED
-cidr:               fd37:03b3:cae6:5158::/48
+cidr:               fd37:03b3:cae6::/48
 source:             DN42
