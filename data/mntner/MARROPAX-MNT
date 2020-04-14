@@ -2,5 +2,5 @@ mntner:             MARROPAX-MNT
 admin-c:            MARROPAX-DN42
 tech-c:             MARROPAX-DN42
 mnt-by:             MARROPAX-MNT
-auth:               pgp-fingerprint 307F88AC0E0ED36DDAB4AA99406A180E8D349C6
+auth:               pgp-fingerprint B307F88AC0E0ED36DDAB4AA99406A180E8D349C6
 source:             DN42
