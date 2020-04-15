@@ -1,0 +1,8 @@
+mntner:             BOLD-MNT
+admin-c:            BOLD-DN42
+tech-c:             BOLD-DN42
+mnt-by:             BOLD-MNT
+source:             DN42
+auth:               pgp-fingerprint 2E2C4799B143D2B464F390962C86458A81AC79E3
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDkt/SIdXQAl7Jo3/F+nPjN/Z/3GRbVzQ7dxdV+uAL+B8+uA9/FAvq+dty2YODtoIuxN+voiDxhtwd8Vyd6m/wMLKrxL5D/lQ+T/V/VZ0zRiaO0IM+VbtI4EL6XYSGO0YQfLkHysByPmqBuI3qMxlg0FZES92Eumhm3ZDB1txn10DN1sbKDr34wScAAHLD/KFe0WHkNfrUBw0D0g7hy91nFDZ9ctVOzom0PhjazBaTD7D87yRD6EZK0O/N8pjXmw2m9hL2+yrqss08p1eaEjH6lp/Ilx/sEXR9aIGdmFnNdB6c7OxDps4syg9KOiFpOtEGwLo8pI92DZLHwkqFN44LX
+remarks:            ss
