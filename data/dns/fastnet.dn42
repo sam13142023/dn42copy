@@ -1,9 +1,0 @@
-domain:             fastnet.dn42
-admin-c:            BREAKINGTIME-DN42
-tech-c:             BREAKINGTIME-DN42
-mnt-by:             BREAKINGTIME-MNT
-nserver:            ns-1672.awsdns-17.co.uk
-nserver:            ns-145.awsdns-18.com
-nserver:            ns-700.awsdns-23.net
-nserver:            ns-1382.awsdns-44.org
-source:             DN42

@@ -1,6 +1,7 @@
-aut-num:            AS4242422660
-as-name:            HERTZ NET
+domain:             hertz.dn42
 admin-c:            HERTZ-DN42
 tech-c:             HERTZ-DN42
 mnt-by:             HERTZ-MNT
+nserver:            ns-935.awsdns-52.net
+nserver:            ns-1255.awsdns-28.org
 source:             DN42
