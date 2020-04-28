@@ -1,0 +1,9 @@
+inetnum:            172.21.99.128 - 172.21.99.135
+netname:            OWENSRESEARCH-NETWORK
+country:            US
+admin-c:            OWENSRESEARCH-DN42
+tech-c:             OWENSRESEARCH-DN42
+mnt-by:             OWENSRESEARCH-MNT
+status:             ASSIGNED
+cidr:               172.21.99.128/29
+source:             DN42
