@@ -1,9 +1,0 @@
-inetnum:            172.21.112.32 - 172.21.112.63
-netname:            SKYLINE-NETWORK
-country:            MX
-admin-c:            SKYLINE-DN42
-tech-c:             SKYLINE-DN42
-mnt-by:             GATUNO-MNT
-status:             ASSIGNED
-cidr:               172.21.112.32/27
-source:             DN42
