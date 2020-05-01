@@ -1,5 +1,5 @@
-inetnum:            10.127.0.0 - 10.127.255.255
-cidr:               10.127.0.0/16
+inet6num:           fd10:0127:0000:0000:0000:0000:0000:0000 - fd10:0127:ffff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127::/32
 netname:            ICVPN-NEONETWORK
 nserver:            2.255.127.10.ipv4.registry-sync.dn42
 remarks:            Imported from icvpn-meta, do not edit!
