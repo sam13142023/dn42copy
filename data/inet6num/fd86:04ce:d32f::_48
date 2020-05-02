@@ -5,6 +5,6 @@ descr:              Network of AERONET
 country:            CN
 admin-c:            RACIME-DN42
 tech-c:             RACIME-DN42
-mnt-by:             AERONET-MNT
+mnt-by:             FRE-MNT
 status:             ASSIGNED
 source:             DN42
