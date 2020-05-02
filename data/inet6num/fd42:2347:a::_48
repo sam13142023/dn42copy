@@ -1,0 +1,10 @@
+inet6num:           fd42:2347:000a:0000:0000:0000:0000:0000 - fd42:2347:000a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2347:a::/48
+netname:            FOSSIBLE-NET
+descr:              Fossible.sh DN42 Research Network
+country:            ES
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+status:             ASSIGNED
+source:             DN42
