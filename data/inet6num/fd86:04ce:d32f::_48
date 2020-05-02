@@ -1,0 +1,10 @@
+inet6num:           fd86:04ce:d32f:0000:0000:0000:0000:0000 - fd86:04ce:d32f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:04ce:d32f::/48
+netname:            AERONET
+descr:              Network of AERONET
+country:            CN
+admin-c:            RACIME-DN42
+tech-c:             RACIME-DN42
+mnt-by:             AERONET-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd86:04ce:d32f::/48
+origin:             AS4242424000
+mnt-by:             FRE-MNT
+source:             DN42
