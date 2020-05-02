@@ -1,6 +1,12 @@
 aut-num:            AS4242422575
-as-name:            AS for ANDROW Network
+as-name:            ANDROW-AS
 admin-c:            ANDROW-DN42
 tech-c:             ANDROW-DN42
+descr:              Androw - https://www.androw.eu/
+remarks:            -------------------------------------------------------
+remarks:            Happy to peer with anyone
+remarks:            Wireguard only
+remarks:            All details available here: https://www.androw.eu/dn42/
+remarks:            -------------------------------------------------------
 mnt-by:             ANDROW-MNT
 source:             DN42
