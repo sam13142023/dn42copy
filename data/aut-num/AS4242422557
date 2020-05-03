@@ -1,0 +1,7 @@
+aut-num:            AS4242422557
+as-name:            LANTIAN-TESTBED-AS
+descr:              Lan Tian's Testing bed, not open to peering; see AS4242422547.
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+source:             DN42
