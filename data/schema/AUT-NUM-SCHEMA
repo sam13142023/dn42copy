@@ -20,3 +20,4 @@ key:                geo-loc    optional  multiple > [lat-c] [long-c] [name]
 key:                remarks    optional  multiple
 key:                source     required  single    lookup=dn42.registry
 mnt-by:             DN42-MNT
+source:             DN42

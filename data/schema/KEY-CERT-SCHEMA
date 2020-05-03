@@ -12,3 +12,4 @@ key:                tech-c       optional  multiple  lookup=dn42.person,dn42.rol
 key:                mnt-by       required  multiple  lookup=dn42.mntner
 key:                source       required  single
 mnt-by:             DN42-MNT
+source:             DN42

@@ -16,3 +16,4 @@ key:                address         optional   multiple
 key:                remarks         optional   multiple
 key:                source          required   single    lookup=dn42.registry
 mnt-by:             DN42-MNT
+source:             DN42
