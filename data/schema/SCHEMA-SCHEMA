@@ -10,6 +10,7 @@ key:                mnt-by   required  multiple    lookup=dn42.mntner > [mntner]
 key:                remarks  optional  multiple  > [text]...
 key:                source   required  single      lookup=dn42.registry
 mnt-by:             DN42-MNT
+source:             DN42
 remarks:            # option descriptions
 source:             DN42
                     Attribute names must match /[a-zA-Z]([a-zA-Z0-9_\-]*[a-zA-Z0-9])?/.
