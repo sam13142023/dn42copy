@@ -1,0 +1,4 @@
+route6:             fd42:4242:2660::/48
+origin:             AS4242422660
+mnt-by:             HERTZ-MNT
+source:             DN42

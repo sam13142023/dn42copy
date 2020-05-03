@@ -1,0 +1,9 @@
+inetnum:            172.21.106.96 - 172.21.106.127
+netname:            MARROPAX-NETWORK
+descr:              marropax
+admin-c:            MARROPAX-DN42
+tech-c:             MARROPAX-DN42
+mnt-by:             MARROPAX-MNT
+status:             ASSIGNED
+cidr:               172.21.106.96/27
+source:             DN42

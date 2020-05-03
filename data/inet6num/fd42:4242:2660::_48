@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2660:0000:0000:0000:0000:0000 - fd42:4242:2660:ffff:ffff:ffff:ffff:ffff
+netname:            HERTZ_IPV6_01
+country:            CN
+admin-c:            HERTZ-DN42
+tech-c:             HERTZ-DN42
+mnt-by:             HERTZ-MNT
+nserver:            ns-766.awsdns-31.net
+nserver:            ns-1474.awsdns-56.org
+status:             ASSIGNED
+cidr:               fd42:4242:2660::/48
+source:             DN42

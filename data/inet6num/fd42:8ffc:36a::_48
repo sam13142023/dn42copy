@@ -1,0 +1,9 @@
+inet6num:           fd42:8ffc:036a:0000:0000:0000:0000:0000 - fd42:8ffc:036a:ffff:ffff:ffff:ffff:ffff
+netname:            MARROPAX-NETWORK
+descr:              marropax
+admin-c:            MARROPAX-DN42
+tech-c:             MARROPAX-DN42
+mnt-by:             MARROPAX-MNT
+status:             ASSIGNED
+cidr:               fd42:8ffc:36a::/48
+source:             DN42

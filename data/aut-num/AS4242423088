@@ -9,13 +9,18 @@ remarks:            Looking glass:
 remarks:            https://lg.dn42.6700.cc - http://lg.sun.dn42
 remarks:            --------------------------------------------------------
 remarks:            POP nodes:
-remarks:            Asia Pacific:Hong Kong,CN - Singapore,SG 
-remarks:            
-remarks:            North America:Los Angeles,US - San Jose,US
-remarks:            k,US - Dallas,US
-remarks:            Europe:London,UK - Frankfurt,DE
-remarks:             - Moscow,RU
-remarks:            R - Milan,ITA
+remarks:            Asia Pacific:
+remarks:            Hong Kong,CN - Singapore,SG
+remarks:            Tokyo,JP - Sydney,AU - Mumbai,INA
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:            North America:
+remarks:            Los Angeles,US - San Jose,US
+remarks:            New York,US - Dallas,US
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:            Europe:
+remarks:            London,UK - Frankfurt,DE
+remarks:            Jena,DE - Moscow,RU
+remarks:            Reims,FR - Paris,FR - Milan,ITA
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT

@@ -1,6 +1,7 @@
 inetnum:            172.20.227.224 - 172.20.227.239
 cidr:               172.20.227.224/28
-netname:            CIP Network
+netname:            CIP-NETWORK
+country:            RO
 admin-c:            CIP-DN42
 tech-c:             CIP-DN42
 mnt-by:             CIP-MNT

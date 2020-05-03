@@ -1,0 +1,4 @@
+route:              172.21.106.96/27
+origin:             AS4242420880
+mnt-by:             MARROPAX-MNT
+source:             DN42

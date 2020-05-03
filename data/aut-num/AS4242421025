@@ -1,0 +1,8 @@
+aut-num:            AS4242421025
+as-name:            ICECAT-AS
+descr:              NextMoe Group Intermediate Access Project
+admin-c:            ICECAT-DN42
+tech-c:             ICECAT-DN42
+mnt-by:             ICECAT-MNT
+org:                ORG-NEXTMOE
+source:             DN42
