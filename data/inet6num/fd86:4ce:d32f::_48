@@ -1,5 +1,5 @@
 inet6num:           fd86:04ce:d32f:0000:0000:0000:0000:0000 - fd86:04ce:d32f:ffff:ffff:ffff:ffff:ffff
-cidr:               fd86:04ce:d32f::/48
+cidr:               fd86:4ce:d32f::/48
 netname:            FRE-CORE-NET6
 descr:              FRE CoreNetworks IPv6 Prefix
 country:            CN
