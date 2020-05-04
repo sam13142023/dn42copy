@@ -1,5 +1,0 @@
-route:              172.22.134.32/27
-descr:              This route object is maintained by HITLUG and is only for demonstration use.
-origin:             AS4242420985
-mnt-by:             BILL-MNT
-source:             DN42
