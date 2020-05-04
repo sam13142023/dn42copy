@@ -1,0 +1,8 @@
+mntner:             MNIHYC-MNT
+admin-c:            MNIHYC-DN42
+tech-c:             MNIHYC-DN42
+mnt-by:             MNIHYC-MNT
+source:             DN42
+auth:               pgp-fingerprint 23067C13B6AEBDD7C0BB567327F31700E751EC22
+auth:               ssh-rsa 
+remarks:            
