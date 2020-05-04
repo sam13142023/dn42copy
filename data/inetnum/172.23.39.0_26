@@ -1,4 +1,4 @@
-inetnum:            172.23.32.0 - 172.23.32.63
+inetnum:            172.23.39.0 - 172.23.39.63
 netname:            MNIHYC-IPV4
 descr:              mnihyc's IPv4 Network
 admin-c:            MNIHYC-DN42
@@ -7,5 +7,5 @@ status:             ASSIGNED
 nserver:            ns1.mnihyc.dn42
 mnt-by:             MNIHYC-MNT
 remarks:            Contact me at rmnihyc@gmail.com !!
-cidr:               172.23.32.0/26
+cidr:               172.23.39.0/26
 source:             DN42
