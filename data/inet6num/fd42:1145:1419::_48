@@ -1,7 +1,6 @@
 inet6num:           fd42:1145:1419:0000:0000:0000:0000:0000 - fd42:1145:1419:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:1145:1419::/48
 netname:            YURA-IPV6
-country:            AQ
 admin-c:            YURA-DN42
 tech-c:             YURA-DN42
 mnt-by:             MOE-MNT
