@@ -1,0 +1,10 @@
+inet6num:          fda2:2a3e:0ba9:9f91:0000:0000:0000:0000 - fda2:2a3e:0ba9:9f91:ffff:ffff:ffff:ffff
+cidr:              fda2:2a3e:0ba9:9f91::/64
+netname:           ADCEMK-NETWORK
+descr:             Network of ADCEMK
+country:           MX
+admin-c:           ADCEMK-DN42
+tech-c:            ADCEMK-DN42
+mnt-by:            ADCEMK-MNT
+status:            ASSIGNED
+source:            DN42
