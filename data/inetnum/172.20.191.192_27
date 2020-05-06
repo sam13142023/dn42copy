@@ -1,0 +1,10 @@
+inetnum:            172.20.191.192 - 172.20.191.223
+netname:            YURA-IPV4
+descr:              Yura Network IPv4
+country:            HK
+admin-c:            YURA-DN42
+tech-c:             YURA-DN42
+mnt-by:             MOE-MNT
+status:             ASSIGNED
+cidr:               172.20.191.192/27
+source:             DN42
