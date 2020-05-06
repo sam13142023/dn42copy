@@ -1,0 +1,15 @@
+as-set:             AS4242420151:AS-TRANSIT
+admin-c:            BAUEN1-DN42
+tech-c:             BAUEN1-DN42
+mnt-by:             BAUEN1-MNT
+remarks:            BURBLE-MNT
+members:            AS4242422601
+remarks:            SUNNET-MNT
+members:            AS4242423088
+remarks:            KIOUBIT-MNT
+members:            AS4242423914
+remarks:            ALWAYSLIVID-MNT
+members:            AS4242420799
+remarks:            GTDB-MNT
+members:            AS4242420254
+source:             DN42

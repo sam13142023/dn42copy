@@ -4,4 +4,7 @@ descr:              bauen1 testnetwork
 admin-c:            BAUEN1-DN42
 tech-c:             BAUEN1-DN42
 mnt-by:             BAUEN1-MNT
+remarks:            This AS is open for new peerings.
+mp-import:          afi any.unicast from AS4242420151:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242420151:AS-TRANSIT announce ANY
 source:             DN42
