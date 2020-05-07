@@ -1,0 +1,13 @@
+aut-num:            AS4242422464
+as-name:            Yura
+descr:              Yura Network
+admin-c:            YURA-DN42
+tech-c:             YURA-DN42
+mnt-by:             MOE-MNT
+remarks:            +-----------------------------------------+
+remarks:            |               Yura Network              |
+remarks:            +-----------------------------------------+
+remarks:            | Open for Peering                        |
+remarks:            | Contact: dn4242@etlgr.com               |
+remarks:            +-----------------------------------------+
+source:             DN42
