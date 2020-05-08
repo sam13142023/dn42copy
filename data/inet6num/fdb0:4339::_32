@@ -5,6 +5,6 @@ country:            DE
 admin-c:            IIIDEFIX-DN42
 tech-c:             IIIDEFIX-DN42
 mnt-by:             IIIDEFIX-MNT
-status:             ASSIGNED
+status:             ALLOCATED
 cidr:               fdb0:4339::/32
 source:             DN42
