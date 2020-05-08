@@ -1,0 +1,4 @@
+route:              172.20.162.16/28
+origin:             AS4242423928
+mnt-by:             ADCEMK-MNT
+source:             DN42

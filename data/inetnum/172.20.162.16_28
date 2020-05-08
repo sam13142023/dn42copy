@@ -1,0 +1,8 @@
+inetnum:            172.20.162.16 - 172.20.162.31
+cidr:               172.20.162.16/28
+netname:            ADCEMK-NETWORK
+admin-c:            ADCEMK-DN42
+tech-c:             ADCEMK-DN42
+mnt-by:             ADCEMK-MNT
+status:             ASSIGNED
+source:             DN42
