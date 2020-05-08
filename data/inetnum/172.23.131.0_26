@@ -6,6 +6,6 @@ admin-c:            IIIDEFIX-DN42
 tech-c:             IIIDEFIX-DN42
 mnt-by:             IIIDEFIX-MNT
 nserver:            ns1.iiidefix.dn42
-status:             ALLOCATED
+status:             ASSIGNED
 cidr:               172.23.131.0/26
 source:             DN42
