@@ -1,8 +1,0 @@
-inetnum:            10.127.2.0 - 10.127.2.255
-cidr:               10.127.2.0/24
-netname:            NeoSystem VMs
-admin-c:            NEO-CHEN-NEONETWORK
-tech-c:             NEO-CHEN-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

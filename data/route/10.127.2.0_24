@@ -1,8 +1,0 @@
-route:              10.127.2.0/24
-origin:             AS4201270000
-max-length:         29
-admin-c:            NEO-CHEN-NEONETWORK
-tech-c:             NEO-CHEN-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

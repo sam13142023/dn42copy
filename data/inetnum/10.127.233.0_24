@@ -1,8 +1,0 @@
-inetnum:            10.127.233.0 - 10.127.233.255
-cidr:               10.127.233.0/24
-netname:            Icecat-Mobile-devices
-admin-c:            ICECAT-NEONETWORK
-tech-c:             ICECAT-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK
