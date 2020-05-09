@@ -4,6 +4,7 @@ descr:              iiidefix defks1 prefix
 country:            DE
 admin-c:            IIIDEFIX-DN42
 tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
 mnt-by:             IIIDEFIX-MNT
 status:             ASSIGNED
 cidr:               fdb0:4339:168::/48

@@ -4,6 +4,7 @@ descr:              iiidefix ULA prefix
 country:            DE
 admin-c:            IIIDEFIX-DN42
 tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
 mnt-by:             IIIDEFIX-MNT
 nserver:            ns1.iiidefix.dn42
 status:             ALLOCATED
