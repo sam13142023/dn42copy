@@ -1,0 +1,8 @@
+route:              10.127.69.0/29
+origin:             AS4201270009
+max-length:         29
+admin-c:            SANTOST12-NEONETWORK
+tech-c:             SANTOST12-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
