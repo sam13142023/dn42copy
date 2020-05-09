@@ -4,6 +4,6 @@ admin-c:            IIIDEFIX-DN42
 tech-c:             IIIDEFIX-DN42
 org:                ORG-IIIDEFIX
 mnt-by:             IIIDEFIX-MNT
-nserver:            ns1.iiidefix.dn42 172.23.131.1
-nserver:            ns1.iiidefix.dn42 fdb0:4339:ffff::1
+nserver:            ns1.iiidefix.dn42 172.23.131.53
+nserver:            ns1.iiidefix.dn42 fdb0:4339:ffff::53
 source:             DN42
