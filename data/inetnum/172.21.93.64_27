@@ -1,7 +1,6 @@
-inet6num:           fd2e:b71f:7983:0000:0000:0000:0000:0000 - fd2e:b71f:7983:ffff:ffff:ffff:ffff:ffff
-cidr:               fd2e:b71f:7983::/48
+inetnum:            172.21.93.64 - 172.21.93.95
+cidr:               172.21.93.64/27
 netname:            DELTADELTA-NETWORK
-country:            FR
 admin-c:            DELTADELTA-DN42
 tech-c:             DELTADELTA-DN42
 mnt-by:             DELTADELTA-MNT
