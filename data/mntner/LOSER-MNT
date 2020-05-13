@@ -2,5 +2,5 @@ mntner:             LOSER-MNT
 admin-c:            LOSER-DN42
 tech-c:             LOSER-DN42
 mnt-by:             LOSER-MNT
-source:             DN42
-auth:               pgp-fingerprint B07F7B2BA50E7195B93947C32A62A6620366CDEC
+auth:               pgp-fingerprint 6AA6D68CFF98D947001125253015F429EEE5259F
+source:		    DN42
