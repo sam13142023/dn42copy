@@ -5,5 +5,7 @@ org:                ORG-NEXTMOE
 admin-c:            ICECAT-DN42
 tech-c:             ICECAT-DN42
 mnt-by:             ICECAT-MNT
+nserver:            ns1.jerry.dn42
+nserver:            ns.nia.dn42
 status:             ASSIGNED
 source:             DN42
