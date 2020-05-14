@@ -1,7 +1,7 @@
 aut-num:            AS4242423088
 as-name:            SUNNET
 descr:              Email: admin@6700.cc Telegram: tg126955 DN42 IRC: sunnet
-remarks:            New peers welcome and opening.
+remarks:            New peers welcome and open.
 remarks:            Peering details:
 remarks:            https://dn42.6700.cc - http://sun.dn42
 remarks:            --------------------------------------------------------
@@ -11,16 +11,18 @@ remarks:            --------------------------------------------------------
 remarks:            POP nodes:
 remarks:            Asia Pacific:
 remarks:            Hong Kong,CN - Singapore,SG
-remarks:            Tokyo,JP - Sydney,AU - Mumbai,INA
+remarks:            Tokyo,JP - Seoul,KR
+remarks:            Changhua,Taiwan - Sydney,AU - Mumbai,IN
 remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 remarks:            North America:
 remarks:            Los Angeles,US - San Jose,US
 remarks:            New York,US - Dallas,US
+remarks:            Miami,US - Beauharnois,CA
 remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 remarks:            Europe:
 remarks:            London,UK - Frankfurt,DE
-remarks:            Jena,DE - Moscow,RU
-remarks:            Reims,FR - Paris,FR - Milan,ITA
+remarks:            Amsterdam,NL - Moscow,RU
+remarks:            Paris,FR - Milan,IT - Stockholm,SE
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT
