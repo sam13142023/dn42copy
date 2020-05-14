@@ -1,5 +1,5 @@
 route6:             fd71:2bc7:20dc::/48
-origin:             AS42424299467
+origin:             AS4242423964
 max-length:         48
 remarks:            ARCH networking inc. (not really) main route thingy
 remarks:            // stupid shit below, don't blame me
