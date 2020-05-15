@@ -1,0 +1,5 @@
+route6:             fd88:8888:8888::/48
+origin:             AS4242420218
+max-length:         48
+mnt-by:             XKEY-MNT
+source:             DN42
