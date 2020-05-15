@@ -5,14 +5,24 @@ tech-c:             NIA-DN42
 mnt-by:             NIA-MNT
 org:                ORG-NIA
 source:             DN42
+mp-import:          afi any.unicast from AS-NIA:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-PEER announce AS-NIA
+mp-import:          afi any.unicast from AS-NIA:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-UPSTREAM announce AS-NIA AS-NIA:AS-DOWNSTREAM
 remarks:            
 remarks:            +-----------------------------------------+
 remarks:            |          Niantic Network China          |
 remarks:            +-----------------------------------------+
 remarks:            | Open for Peering                        |
+remarks:            |  (Peer Only in China)                   |
 remarks:            | Peering Location at:                    |
 remarks:            |  - Aliyun, Niaoyun, TencentCloud...     |
 remarks:            |  - CERNET (More priority)               |
 remarks:            +-----------------------------------------+
 remarks:            | Contact: noc@nia.ac.cn                  |
+remarks:            | Services: See AS4242421331              |
 remarks:            +-----------------------------------------+
