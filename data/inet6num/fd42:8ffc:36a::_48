@@ -6,4 +6,6 @@ tech-c:             MARROPAX-DN42
 mnt-by:             MARROPAX-MNT
 status:             ASSIGNED
 cidr:               fd42:8ffc:36a::/48
+nserver:            ns1.marropax.dn42
+nserver:            ns2.marropax.dn42
 source:             DN42
