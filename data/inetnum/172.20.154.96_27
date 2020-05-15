@@ -7,4 +7,3 @@ mnt-by:             BANTERNET-MNT
 status:             ASSIGNED
 cidr:               172.20.154.96/27
 source:             DN42
-

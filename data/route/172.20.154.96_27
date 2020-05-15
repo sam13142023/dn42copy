@@ -2,4 +2,3 @@ route:              172.20.154.96/27
 origin:             AS4242401337
 mnt-by:             NICKUK-MNT
 source:             DN42
-
