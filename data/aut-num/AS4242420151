@@ -1,6 +1,6 @@
 aut-num:            AS4242420151
-as-name:            BNET-AS
-descr:              bauen1 testnetwork
+as-name:            BAUEN1-AS
+descr:              bauen1 Network
 admin-c:            BAUEN1-DN42
 tech-c:             BAUEN1-DN42
 mnt-by:             BAUEN1-MNT
