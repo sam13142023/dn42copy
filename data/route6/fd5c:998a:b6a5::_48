@@ -1,4 +1,4 @@
-route6:             fd88:8888:8888::/48
+route6:             fd5c:998a:b6a5::/48
 origin:             AS4242420218
 max-length:         48
 mnt-by:             XKEY-MNT
