@@ -6,12 +6,6 @@ remarks:            | * Open peering policy                          |
 remarks:            | * Wireguard only                               |
 remarks:            | * IPv6 only network                            |
 remarks:            +------------------------------------------------+
-remarks:            | Locations:                                     |
-remarks:            | * alpha.hex.dn42                               |
-remarks:            |   Netherlands, Amsterdam. Online.net.          |
-remarks:            | * beta.hex.dn42                                |
-remarks:            |   France, Paris. Online.net.                   |
-remarks:            +------------------------------------------------+
 remarks:            | Full information at https://hexanet.dev/dn42/  |
 remarks:            +------------------------------------------------+
 admin-c:            HEXANET-DN42
