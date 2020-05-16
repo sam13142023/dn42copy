@@ -6,6 +6,7 @@ remarks:            Not free for direct assignments, please use sub-allocated bl
 nserver:            b.delegation-servers.dn42
 nserver:            j.delegation-servers.dn42
 nserver:            k.delegation-servers.dn42
+nserver:            h.delegation-servers.dn42
 ds-rdata:           64441 10 2 616c149633e93d963b0e8f738719630ea0a09f4aabe211b1fbb8fc9f51304027
 ds-rdata:           3096 10 2 6adf85efddf223c8747f1816b12b62feea0b9b1bdb65e7c809202f890a33740d
 status:             ALLOCATED

@@ -7,6 +7,7 @@ nserver:            k.delegation-servers.dn42 fdcf:8538:9ad5:1111::2
 nserver:            k.delegation-servers.dn42 172.20.14.34
 nserver:            j.delegation-servers.dn42 fd42:5d71:219:1:a526:d935:281e:22d6
 nserver:            j.delegation-servers.dn42 172.20.1.254
+nserver:            h.delegation-servers.dn42 fda6:2474:15a4::54
 ds-rdata:           64441 10 2 2b19d6fc6a6efa3218c61d84ad95a3c63b6ed988e2ae0bd7c8dcb91fe5ec7fa8
 ds-rdata:           3096 10 2 34a45a0dcd8bbf26f8ba466fed595f39858b6f3224d41210f90600689c810149
 org:                ORG-DN42
