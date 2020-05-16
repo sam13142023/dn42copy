@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:a1a1:0021:0000:0000:0000:0000 - fd10:0127:a1a1:0021:ffff:ffff:ffff:ffff
+cidr:               fd10:127:a1a1:21::/64
+netname:            alanyhq in Shanghai, CN
+admin-c:            ALANYHQ-NEONETWORK
+tech-c:             ALANYHQ-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

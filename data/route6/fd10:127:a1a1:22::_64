@@ -1,0 +1,8 @@
+route6:             fd10:127:a1a1:22::/64
+origin:             AS4201270022
+max-length:         64
+admin-c:            ALANYHQ-NEONETWORK
+tech-c:             ALANYHQ-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
