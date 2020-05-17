@@ -5,10 +5,7 @@ country:            CN
 admin-c:            ALANYHQ-DN42
 tech-c:             ALANYHQ-DN42
 mnt-by:             ALANYHQ-MNT
-nserver:            ns1.alanyhq-global.net
-nserver:            ns2.alanyhq-global.net
-nserver:            ns3.alanyhq-global.net
-nserver:            ns4.alanyhq-global.net
+nserver:            ns.alanyhq.dn42
 status:             ASSIGNED
 cidr:               fd00:114:514::/48
 source:             DN42
