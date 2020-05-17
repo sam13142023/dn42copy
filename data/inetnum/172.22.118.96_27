@@ -1,4 +1,4 @@
-inetnum:            172.22.118.69 - 172.22.118.127
+inetnum:            172.22.118.96 - 172.22.118.127
 cidr:               172.22.118.96/27
 netname:            KANGAROONET-NETWORK
 admin-c:            KANGAROONET-DN42
