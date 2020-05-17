@@ -1,4 +1,4 @@
-net6num:            fd6c:c6ed:38d5:0000:0000:0000:0000:0000 - fd6c:c6ed:38d5:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd6c:c6ed:38d5:0000:0000:0000:0000:0000 - fd6c:c6ed:38d5:ffff:ffff:ffff:ffff:ffff
 netname:            BYRON-IPV6
 descr:              Byron's IP space
 country:            CN
