@@ -1,0 +1,7 @@
+domain:             moecast.dn42
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+nserver:            ns1.moecast.dn42 172.23.89.1
+nserver:            ns1.moecast.dn42 fd89:35db:0fc0::1
+source:             DN42
