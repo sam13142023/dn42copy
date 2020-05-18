@@ -2,8 +2,8 @@ aut-num:            AS4242422601
 as-name:            BURBLE-AS
 descr:              burble.dn42 https://dn42.burble.com/
 remarks:            --------------------------------------------------------
-                    New peers welcome; check the dn42 peerfinder to find
-                    your nearest node then contact dn42@burble.com
+                    New peers are welcome however a few restrictions apply
+                    Please check https://dn42.burble.com/peering for details
                     --------------------------------------------------------
                     https://dn42.burble.com/  (peering details)
                     https://lg.burble.com/    (looking glass)
