@@ -1,6 +1,7 @@
 domain:             caesia.dn42
 admin-c:            INRIN-DN42
-tech-c:             GATUNO-DN42
+tech-c:             INRIN-DN42
 mnt-by:             CAESIA-MNT
-nserver:            ns1.gatuno.dn42
+nserver:            ns1.caesia.dn42 fdde:4869:4062:53::
+nserver:            ns1.caesia.dn42 172.20.172.30
 source:             DN42

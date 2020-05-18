@@ -1,7 +1,5 @@
-route:              172.20.172.16/28
-origin:             AS4242421231
+as-set:             AS4242421231:AS-DOWNSTREAM
 admin-c:            INRIN-DN42
 tech-c:             INRIN-DN42
-pingable:           172.20.172.17
 mnt-by:             CAESIA-MNT
 source:             DN42

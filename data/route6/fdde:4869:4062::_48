@@ -1,4 +1,8 @@
 route6:             fdde:4869:4062::/48
 origin:             AS4242421231
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+pingable:           fdde:4869:4062::1
+pingable:           fdde:4869:4062::
 mnt-by:             CAESIA-MNT
 source:             DN42
