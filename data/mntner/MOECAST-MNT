@@ -1,0 +1,6 @@
+mntner:             MOECAST-MNT
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+source:             DN42
+auth:               pgp-fingerprint A04C56688622E1D51DB4ED5D263BDBB7ECAB32E4
