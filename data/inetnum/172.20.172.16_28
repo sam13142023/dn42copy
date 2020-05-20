@@ -2,9 +2,11 @@ inetnum:            172.20.172.16 - 172.20.172.31
 cidr:               172.20.172.16/28
 netname:            CAESIA-NETWORK
 descr:              CAESIA IPv4 NET
+nserver:            ns1.caesia.dn42
 country:            DE
 admin-c:            INRIN-DN42
 tech-c:             INRIN-DN42
+zone-c:             INRIN-DN42
 mnt-by:             CAESIA-MNT
 status:             ASSIGNED
 source:             DN42
