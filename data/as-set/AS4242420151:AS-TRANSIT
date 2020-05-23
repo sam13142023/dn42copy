@@ -24,4 +24,8 @@ remarks:            HESSNET-MNT
 members:            AS4242423934
 remarks:            NIA-MNT
 members:            AS4242421331
+remarks:            HEXANET-MNT
+members:            AS4242423078
+remarks:            MAX-MNT
+members:            AS4242421307
 source:             DN42
