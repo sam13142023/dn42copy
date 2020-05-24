@@ -1,5 +1,5 @@
 inet6num:           fded:e0fd:05fe:0000:0000:0000:0000:0000 - fded:e0fd:05fe:ffff:ffff:ffff:ffff:ffff
-cidr:               fded:e0fd:05fe::/48
+cidr:               fded:e0fd:5fe::/48
 netname:            E1MO-NET-1
 admin-c:            E1MO-DN42
 tech-c:             E1MO-DN42
