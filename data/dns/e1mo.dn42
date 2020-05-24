@@ -1,0 +1,7 @@
+domain:             foo.dn42
+admin-c:            FOO-DN42
+tech-c:             FOO-DN42
+mnt-by:             FOO-MNT
+nserver:            ns1.e1mo.dn42 172.20.229.161
+nserver:            ns1.e1mo.dn42 fded:e0fd:05fe::1
+source:             DN42
