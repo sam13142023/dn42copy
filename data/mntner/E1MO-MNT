@@ -2,5 +2,5 @@ mntner:             E1MO-MNT
 admin-c:            E1MO-DN42
 tech-c:             E1MO-DN42
 mnt-by:             E1MO-MNT
-auth:               pgp-D32F65B7
+auth:               PGPKEY-D32F65B7
 source:             DN42
