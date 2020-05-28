@@ -1,7 +1,6 @@
 person:             alanyhq
 nic-hdl:            ALANYHQ-NEONETWORK
-contact:            telegram:@alanyhq
-contact:            irc:alanyhq
+contact:            telegram: alanyhq
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK

@@ -1,0 +1,8 @@
+inetnum:            10.127.89.3 - 10.127.89.3
+cidr:               10.127.89.3/32
+netname:            chenx97-conoha
+admin-c:            CHENX97-NEONETWORK
+tech-c:             CHENX97-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

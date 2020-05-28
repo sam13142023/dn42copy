@@ -1,5 +1,7 @@
-person:             Septs
+person:             septs
 nic-hdl:            SEPTS-NEONETWORK
+contact:            github: septs
+contact:            telegram: septs
 e-mail:             bgp@septs.email
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
