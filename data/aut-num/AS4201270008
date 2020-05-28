@@ -1,5 +1,6 @@
 aut-num:            AS4201270008
 as-name:            MagicNeko
+descr:              MagicNeko Network Internet exchange
 admin-c:            ICECAT-NEONETWORK
 tech-c:             ICECAT-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
