@@ -1,9 +1,0 @@
-inet6num:           fdd1:0b48:88fb:fac5:0000:0000:0000:0000 - fdd1:0b48:88fb:fac5:ffff:ffff:ffff:ffff
-cidr:               fdd1:b48:88fb:fac5::/64
-netname:            ASHCK-Network
-country:            MX
-admin-c:            ASHCK-DN42
-tech-c:             ASHCK-DN42
-mnt-by:             GATUNO-MNT
-status:             ASSIGNED
-source:             DN42
