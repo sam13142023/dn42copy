@@ -1,0 +1,8 @@
+inetnum:            172.20.21.128 - 172.20.21.159
+cidr:               172.20.21.128/27
+netname:            SNH-NETWORK
+admin-c:            SNH-DN42
+tech-c:             SNH-DN42
+mnt-by:             SNH-MNT
+status:             ASSIGNED
+source:             DN42
