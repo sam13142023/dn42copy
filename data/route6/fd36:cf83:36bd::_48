@@ -1,0 +1,5 @@
+route6:             fd36:cf83:36bd::/48
+origin:             AS4242420270
+max-length:         48
+mnt-by:             SNH-MNT
+source:             DN42

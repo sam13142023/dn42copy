@@ -1,0 +1,8 @@
+inet6num:           fd36:cf83:36bd:0000:0000:0000:0000:0000 - fd36:cf83:36bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd36:cf83:36bd::/48
+netname:            SNH-NETWORK
+admin-c:            SNH-DN42
+tech-c:             SNH-DN42
+mnt-by:             SNH-MNT
+status:             ASSIGNED
+source:             DN42
