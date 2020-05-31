@@ -1,0 +1,7 @@
+mntner:             MALINDEX-MNT
+admin-c:            MALINDEX-DN42
+tech-c:             MALINDEX-DN42
+mnt-by:             MALINDEX-MNT
+source:             DN42
+auth:               pgp-fingerprint 47BF2BA5F1546C4F
+remarks:            
