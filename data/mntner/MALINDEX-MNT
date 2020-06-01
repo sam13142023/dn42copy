@@ -2,5 +2,5 @@ mntner:             MALINDEX-MNT
 admin-c:            MALINDEX-DN42
 tech-c:             MALINDEX-DN42
 mnt-by:             MALINDEX-MNT
-auth:               pgp-fingerprint 508F78350F40EFDBD03B9F3947BF2BA5F1546C4F
+auth:               pgp-fingerprint 10B0FFEFF2D8263A9B5987D418B67B0FDF8E4CF1
 source:             DN42
