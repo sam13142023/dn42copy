@@ -1,0 +1,10 @@
+inet6num:           fd00:0bad:b33f:0000:0000:0000:0000:0000 - fd00:0bad:b33f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:bad:b33f::/48
+netname:            ECOR-NETWORK
+descr:              Network of ECOR
+country:            US
+admin-c:            DFF3BC-DN42
+tech-c:             DFF3BC-DN42
+mnt-by:             ECOR-MNT
+status:             ASSIGNED
+source:             DN42

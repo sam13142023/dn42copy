@@ -1,0 +1,5 @@
+route6:             fd00:bad:b33f::/48
+origin:             AS4242422575
+max-length:         48
+mnt-by:             ECOR-MNT
+source:             DN42
