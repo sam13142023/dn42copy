@@ -3,5 +3,6 @@ as-name:            ECOR-AS
 admin-c:            DFF3BC-DN42
 tech-c:             DFF3BC-DN42
 descr:              ECOR AS
+org:                ORG-ECOR
 mnt-by:             ECOR-MNT
 source:             DN42

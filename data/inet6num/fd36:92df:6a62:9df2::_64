@@ -6,5 +6,6 @@ country:            US
 admin-c:            DFF3BC-DN42
 tech-c:             DFF3BC-DN42
 mnt-by:             ECOR-MNT
+org:                ORG-ECOR
 status:             ASSIGNED
 source:             DN42
