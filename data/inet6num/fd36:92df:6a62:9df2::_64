@@ -1,5 +1,5 @@
-inet6num:           fd00:0bad:b33f:0000:0000:0000:0000:0000 - fd00:0bad:b33f:ffff:ffff:ffff:ffff:ffff
-cidr:               fd00:bad:b33f::/48
+inet6num:           fd36:92df:6a62:9df2:0000:0000:0000:0000 - fd36:92df:6a62:9df2:ffff:ffff:ffff:ffff
+cidr:               fd36:92df:6a62:9df2::/64
 netname:            ECOR-NETWORK
 descr:              Network of ECOR
 country:            US
