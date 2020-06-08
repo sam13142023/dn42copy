@@ -258,6 +258,8 @@ class TestSchema(unittest.TestCase):
             schema = SchemaDOM()
             schema.parse(dom)
 
+            self.assertTrue(schema.valid)
+
             schemas[schema.ref] = schema
 
         files = []
@@ -266,6 +268,9 @@ class TestSchema(unittest.TestCase):
         for (fname, text) in test_files:
             dom = FileDOM(src=fname)
             dom.parse(text.splitlines())
+
+            self.assertTrue(dom.valid)
+            self.assertEqual(str(dom), text)
 
             files.append(dom)
 
