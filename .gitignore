@@ -1,5 +1,7 @@
 _MTN
 lib/
 whoisd/
-utils/
-!utils/schema-check/*.py
+/utils/
+!/utils/schema-check
+!/utils/registry
+__pycache__
