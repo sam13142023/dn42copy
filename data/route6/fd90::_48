@@ -1,0 +1,5 @@
+route6:             fd90::/48
+origin:             AS4242428208
+max-length:         48
+mnt-by:             NEVLEZAY-MNT
+source:             DN42

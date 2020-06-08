@@ -1,0 +1,10 @@
+inet6num:           fd90:0000:0000:0000:0000:0000:0000:0000 - fd90:0000:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd90::/48
+netname:            NEVLEZAY-NETWORK
+descr:              Network of Ne-vlezay80
+country:            AB
+admin-c:            NEVLEZAY-DN42
+tech-c:             NEVLEZAY-DN42
+mnt-by:             NEVLEZAY-MNT
+status:             ASSIGNED
+source:             DN42
