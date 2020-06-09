@@ -1,8 +1,7 @@
-inet6num:           fd90:0000:0000:0000:0000:0000:0000:0000 - fd90:0000:0000:ffff:ffff:ffff:ffff:ffff
-cidr:               fd90::/48
+inet6num:           fd91:9191:9191:0000:0000:0000:0000:0000 - fd91:9191:9191:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:9191:9191::/48
 netname:            NEVLEZAY-NETWORK
 descr:              Network of Ne-vlezay80
-country:            AB
 admin-c:            NEVLEZAY-DN42
 tech-c:             NEVLEZAY-DN42
 mnt-by:             NEVLEZAY-MNT
