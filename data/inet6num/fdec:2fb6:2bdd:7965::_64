@@ -1,0 +1,9 @@
+inet6num:           fdec:2fb6:2bdd:7965:0000:0000:0000:0000 - fdec:2fb6:2bdd:7965:ffff:ffff:ffff:ffff
+cidr:               fdec:2fb6:2bdd:7965::/64
+netname:            DKJoker-IPV6
+admin-c:            DKJoker-DN42
+tech-c:             DKJoker-DN42
+mnt-by:             DKJoker-MNT
+nserver:            ns1.dkjoker.dn42
+status:             ASSIGNED
+source:             DN42
