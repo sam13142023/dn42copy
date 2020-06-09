@@ -1,0 +1,5 @@
+route6:             fd42:8ffc:36a::/48
+origin:             AS4242420880
+max-length:         48
+mnt-by:             MARROPAX-MNT
+source:             DN42

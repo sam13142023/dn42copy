@@ -24,7 +24,8 @@
 1100  permit  172.20.0.0/14    21      29      # dn42 main net
 
 2001  permit  10.100.0.0/14    14      32      # chaosvpn
-2002  permit  10.0.0.0/8       15      24      # freifunk/chaosvpn
+2002  permit  10.127.0.0/16    16      32      # neonetwork
+2003  permit  10.0.0.0/8       15      24      # freifunk
 
 3001  permit  172.31.0.0/16    16      32      # chaosvpn
 

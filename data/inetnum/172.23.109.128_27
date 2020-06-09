@@ -1,5 +1,6 @@
 inetnum:            172.23.109.128 - 172.23.109.159
 cidr:               172.23.109.128/27
+country:            TR
 netname:            LOSER-NETWORK
 admin-c:            LOSER-DN42
 tech-c:             LOSER-DN42

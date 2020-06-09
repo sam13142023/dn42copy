@@ -2,12 +2,13 @@ aut-num:            AS4242422601
 as-name:            BURBLE-AS
 descr:              burble.dn42 https://dn42.burble.com/
 remarks:            --------------------------------------------------------
-remarks:            New peers welcome; check the dn42 peerfinder to find
-remarks:            your nearest node then contact dn42@burble.com
-remarks:            --------------------------------------------------------
-remarks:            https://dn42.burble.com/  (peering details)
-remarks:            https://lg.burble.com/    (looking glass)
-remarks:            --------------------------------------------------------
+                    New peers are welcome however a few restrictions apply
+                    Please check https://dn42.burble.com/peering for details
+                    --------------------------------------------------------
+                    https://dn42.burble.com/  (peering details)
+                    https://lg.burble.com/    (looking glass)
+                    --------------------------------------------------------
++
 remarks:            Routing Policies:
 mp-import:          afi any.unicast from AS4242422601:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS4242422601:AS-TRANSIT announce ANY

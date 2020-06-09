@@ -1,6 +1,7 @@
 inetnum:            172.20.158.128 - 172.20.158.191
 cidr:               172.20.158.128/26
-netname:            Niantic Network Core
+netname:            NIA-NET-CORE
+descr:              Niantic Network Core
 org:                ORG-NIA
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42

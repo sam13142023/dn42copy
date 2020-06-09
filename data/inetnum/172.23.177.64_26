@@ -1,6 +1,6 @@
 inetnum:            172.23.177.64 - 172.23.177.127
 netname:            LINSERVERS-DC
-descr:              Linservers Datacenter
+descr:              Linservers DBC
 country:            NL
 admin-c:            JIMMY-DN42
 tech-c:             JIMMY-DN42

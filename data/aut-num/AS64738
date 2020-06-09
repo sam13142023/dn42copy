@@ -1,55 +1,6 @@
 aut-num:            AS64738
 as-name:            WELTERDE-AS
 descr:              welterde's AS
-remarks:            ------< IPv6 downstream >---------------------------------------------
-remarks:            <<<<<<hex.fal2>>>>>> sigi via openvpn over VDSL
-mp-group:           id sigi-vdsl
-                    node hex.fal2.welterde.net
-                    afi ipv6.unicast
-                    as AS64739
-                    interface sigi.adq
-                    local fdef:5d0d:ee12:3:1:2:fce3:36
-                    remote fdef:5d0d:ee12:3:1:2:fce3:42
-mp-peer:            id _:sigi-vdsl
-                    ACTION in 64738:2012 community:append
-                    ACCEPT SIGI-SIXXS-IP6NET
-                    ANNOUNCE ANY
-remarks:            <<<<<<gandalf.fal1>>>>>> helios-eve
-mp-group:           id helios-eve
-                    node gandalf.fal1.welterde.net
-                    as AS64794
-                    interface helios.eve
-                    ACTION in 64738:2013 community:append
-                    ANNOUNCE ANY
-                    ACCEPT ANY
-mp-peer:            id _:helios-eve
-                    afi ipv6.unicast
-                    local openvpn-helios-eve.tunnel.gandalf.fal1.welterde.net
-                    remote fdef:5d0d:ee12:3:1:1:fd1a:42
-mp-peer:            id helios-eve-ip4:helios-eve
-                    afi ipv4.unicast
-                    local 172.22.255.0
-                    remote 172.22.255.1
-remarks:            <<<<<<gandalf.fal1>>>>>> neoraider-chaos
-mp-group:           id neoraider-chaos
-                    node gandalf.fal1.welterde.net
-                    as AS64784
-                    interface neoraider.chaos
-                    local openvpn-neoraider-chaos.tunnel.gandalf.fal1.welterde.net
-                    remote welterde-gw.chaos.universe-factory.net
-                    ACTION in 64738:2013 community:append
-                    ACCEPT ANY
-                    ANNOUNCE ANY
-mp-peer:            id _:neoraider-chaos
-                    afi ipv6.unicast
-mp-peer:            id _:neoraider-chaos
-                    afi ipv4.unicast
-remarks:            ------< tinc42 IX >---------------------------------------------------
-remarks:            ------[ common ]------------------------------------------------------
-mp-group:           id tinc42-ix
-                    node hex.fal2.welterde.net
-                    interface tinc42
-                    local tinc-tinc42.tunnel.hex.fal2.welterde.net
 remarks:            ------[ peers ]-------------------------------------------------------
 remarks:            more route information goes here
 remarks:            ------< IPv6 communities >--------------------------------------------

@@ -1,5 +1,5 @@
 person:             ALLO
-contact:            mailto:foo@bar.de
+contact:            irc:allo@hackint
 nic-hdl:            ALLO-DN42
-mnt-by:             DUMMY-MNT
+mnt-by:             ALLO-MNT
 source:             DN42

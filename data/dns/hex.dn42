@@ -4,8 +4,8 @@ tech-c:             HEXANET-DN42
 descr:              HEXANET Network
 org:                ORG-HEXANET
 mnt-by:             HEXANET-MNT
-nserver:            ns1.hex.dn42 fda6:2474:15a4::1
-nserver:            ns2.hex.dn42 fda6:2474:15a4::2
+nserver:            ns1.hex.dn42 fda6:2474:15a4:445e::1
+nserver:            ns2.hex.dn42 fda6:2474:15a4:22f7::1
 ds-rdata:           47871 15 2 0e57df94f53f8f7e904bcb71543833b74ed90993367c80b2b39f6090a570c8b5
 ds-rdata:           47871 15 4 8bad58d45005d62258116d784f4e4bfa05379549290329e85729cd5ca9fee20c7d29942aed5dfb2892dc55eaa93646b3
 source:             DN42

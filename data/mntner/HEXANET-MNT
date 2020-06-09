@@ -1,10 +1,10 @@
 mntner:             HEXANET-MNT
-descr:              HEXANET Network Maintenance Object
+descr:              Hexanet Network Maintenance Object
 admin-c:            HEXANET-DN42
 tech-c:             HEXANET-DN42
 org:                ORG-HEXANET
 mnt-by:             HEXANET-MNT
-auth:               PGPKEY-6E7422C7
+auth:               PGPKEY-9F62AB8E
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINc6jLGJm2cLtJu45nKn8Z6MYAdwiegUZ4St8KEjRG/r
 remarks:            pin-sha256:xgj9tRg3OwvCWIRLRXrpom1teOvaNiH1boGMQPbZj34=
 source:             DN42

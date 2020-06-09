@@ -1,0 +1,9 @@
+domain:             marropax.dn42
+admin-c:            MARROPAX-DN42
+tech-c:             MARROPAX-DN42
+mnt-by:             MARROPAX-MNT
+nserver:            ns1.marropax.dn42 172.21.106.97
+nserver:            ns1.marropax.dn42 fd42:8ffc:36a:1::1
+nserver:            ns2.marropax.dn42 172.21.106.113
+nserver:            ns2.marropax.dn42 fd42:8ffc:36a:17::1
+source:             DN42

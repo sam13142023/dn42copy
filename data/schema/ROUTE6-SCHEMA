@@ -12,3 +12,4 @@ key:                source      required  single    lookup=dn42.registry
 key:                pingable    optional  multiple
 key:                max-length  optional  single
 mnt-by:             DN42-MNT
+source:             DN42

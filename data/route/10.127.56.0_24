@@ -1,0 +1,8 @@
+route:              10.127.56.0/24
+origin:             AS4201270004
+max-length:         29
+admin-c:            FRANK-NEONETWORK
+tech-c:             FRANK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

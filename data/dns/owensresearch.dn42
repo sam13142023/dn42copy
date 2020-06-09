@@ -1,0 +1,7 @@
+domain:             owensresearch.dn42
+descr:              owensresearch.dn42 https://owensresearch.org/
+admin-c:            OWENSRESEARCH-DN42
+tech-c:             OWENSRESEARCH-DN42
+mnt-by:             OWENSRESEARCH-MNT
+nserver:            ns1.owensresearch.dn42 172.21.99.134
+source:             DN42

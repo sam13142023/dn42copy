@@ -5,6 +5,14 @@ tech-c:             NIA-DN42
 mnt-by:             NIA-MNT
 org:                ORG-NIA
 source:             DN42
+mp-import:          afi any.unicast from AS-NIA:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-PEER announce AS-NIA
+mp-import:          afi any.unicast from AS-NIA:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-UPSTREAM announce AS-NIA AS-NIA:AS-DOWNSTREAM
 remarks:            
 remarks:            +-----------------------------------------+
 remarks:            |             Niantic Network             |
@@ -17,10 +25,14 @@ remarks:            |  - London                               |
 remarks:            |  - Singapore                            |
 remarks:            |  - Hong Kong                            |
 remarks:            |  - Romania                              |
-remarks:            |  - China(More priority to CERNET)       |
+remarks:            |  - Tokyo                                |
+remarks:            |  - France (Unstable)                    |
+remarks:            |  - Korea (Unstable)                     |
+remarks:            |  - China (See AS4242421332)             |
 remarks:            +-----------------------------------------+
 remarks:            | Contact: noc@nia.ac.cn                  |
 remarks:            | Peer: https://net.nia.ac.cn/dn42-peer   |
 remarks:            | Looking Glass: https://lg.nia.dn42      |
 remarks:            | Anycast Whois: whois.nia.dn42           |
+remarks:            | Network Info: https://info.nia.dn42     |
 remarks:            +-----------------------------------------+

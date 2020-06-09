@@ -2,7 +2,7 @@ aut-num:            AS4242422237
 as-name:            MUNSTERNET-AS
 remarks:            
 remarks:            -------------------------------------------------------
-remarks:            Always looking for peers ! Contact munsternet@gmail.com
+remarks:            Always looking for peers: see https://dn42.munsternet.eu
 remarks:            --------------------------------------------------------
 remarks:            Peering info:
 remarks:            - IPv4 or IPv6 clearnet, but IPv6 only DN42
@@ -14,7 +14,7 @@ remarks:            - ch-zrh01.dn42.munsternet.eu (Switzerland, Zürich, ZH5)
 remarks:            - ch-zrh02.dn42.munsternet.eu (Switzerland, Zürich, ZH2)
 remarks:            - ca-bhs01.dn42.munsternet.eu (Canada, Beauharnois, BHS005)
 remarks:            - sg-sin01.dn42.munsternet.eu (Singapore, Singapore, SGP1)
-remarks:            - More to come soon...
+remarks:            - More to come...
 remarks:            --------------------------------------------------------
 remarks:            
 remarks:            INVALID and UNKNOWN ROA records are filtered

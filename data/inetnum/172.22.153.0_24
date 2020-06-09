@@ -8,3 +8,4 @@ mnt-by:             PRAUSCHER-MNT
 status:             ASSIGNED
 cidr:               172.22.153.0/24
 source:             DN42
+nserver:            stuart.prauscher.dn42
