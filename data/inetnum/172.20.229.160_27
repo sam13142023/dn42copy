@@ -1,4 +1,4 @@
-inetnum:            172.20.229.160-172.20.229.191
+inetnum:            172.20.229.160 - 172.20.229.191
 cidr:               172.20.229.160/27
 netname:            E1MO-NETWORK
 admin-c:            E1MO-DN42

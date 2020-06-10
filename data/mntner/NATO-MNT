@@ -1,6 +1,7 @@
 mntner:             NATO-MNT
-descr:              Maho Morichika
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+descr:              Nato Morichika
+admin-c:            NATO-DN42
+tech-c:             NATO-DN42
 mnt-by:             NATO-MNT
+auth:               pgp-fingerprint E8F687F1BDD7522159B5CB05978E4B558819DF80
 source:             DN42

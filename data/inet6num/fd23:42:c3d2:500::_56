@@ -6,7 +6,7 @@ org:                ORG-C3D2
 admin-c:            ASTRO-DN42
 tech-c:             ASTRO-DN42
 mnt-by:             ASTRO-MNT
-nserver:            ns.c3d2.de
+nserver:            dns.serv.zentralwerk.org
 status:             ALLOCATED
 cidr:               fd23:42:c3d2:500::/56
 source:             DN42
