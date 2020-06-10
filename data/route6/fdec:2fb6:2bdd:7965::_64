@@ -1,5 +1,5 @@
 route6:             fdec:2fb6:2bdd:7965::/64
 origin:             AS4242420529
 max-length:         64
-mnt-by:             DKJoker-MNT
+mnt-by:             DKJOKER-MNT
 source:             DN42
