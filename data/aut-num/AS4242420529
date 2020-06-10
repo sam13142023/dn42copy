@@ -1,6 +1,6 @@
-aut-num:	AS4242420529
-as-name:	DKJoker-AS
-admin-c: 	DKJoker-DN42
-tech-c: 	DKJoker-DN42
-mnt-by: 	DKJoker-MNT
-source: 	DN42
+aut-num:            AS4242420529
+as-name:            DKJoker-AS
+admin-c:            DKJoker-DN42
+tech-c:             DKJoker-DN42
+mnt-by:             DKJoker-MNT
+source:             DN42
