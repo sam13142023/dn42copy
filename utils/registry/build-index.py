@@ -188,6 +188,7 @@ def run(path: str = "."):
         netindex.append((v[0],
                          net.network.network_address.exploded,
                          net.network.broadcast_address.exploded,
+                         net.network.prefixlen,
                          net.policy, net.status, ",".join(net.mnters)))
 
     print("Writing .netindex", file=sys.stderr)

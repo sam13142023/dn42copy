@@ -79,8 +79,7 @@ class TestFileDOM(unittest.TestCase):
 
         s = inspect.cleandoc(s)+"\n"
 
-        dom = FileDOM()
-        dom.parse(s.splitlines())
+        dom = FileDOM(text=s.splitlines())
 
         cidr = dom.get("cidr").as_net
         self.assertEqual(cidr.compressed, "fd00::/8")
@@ -102,8 +101,7 @@ class TestFileDOM(unittest.TestCase):
 
         s = inspect.cleandoc(s)+"\n"
 
-        dom = FileDOM()
-        dom.parse(s.splitlines())
+        dom = FileDOM(text=s.splitlines())
 
         cidr = dom.get("cidr").as_net
         self.assertEqual(cidr.compressed, "172.20.0.0/14")

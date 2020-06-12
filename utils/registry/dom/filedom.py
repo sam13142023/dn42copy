@@ -70,7 +70,10 @@ class Row(NamedTuple):
 class FileDOM:
     """Parses a reg file"""
 
-    def __init__(self, src: Optional[str] = None, ns: Optional[str] = "dn42"):
+    def __init__(self,
+                 text: Optional[Sequence[str]] = None,
+                 src: Optional[str] = None,
+                 ns: Optional[str] = "dn42"):
         self.valid = False
         self.dom = []  # type: List[Row]
         self.keys = {}  # type: Dict[str, int]
@@ -79,7 +82,10 @@ class FileDOM:
         self.src = src
         self.ns = ns
 
-    def parse(self, input_str: Sequence[str], src: Optional[str] = None):
+        if text is not None:
+            self.parse(text, src=src)
+
+    def parse(self, text: Sequence[str], src: Optional[str] = None):
         """Parse an input string generator"""
         dom = []
         keys = {}
@@ -89,7 +95,7 @@ class FileDOM:
         self.valid = False
         self.src = self.src if src is None else src
 
-        for lineno, i in enumerate(input_str, 1):
+        for lineno, i in enumerate(text, 1):
             # print(lineno, i)
             if re.match(r'[ \t]', i):
                 if len(dom) == 0:
@@ -150,6 +156,12 @@ class FileDOM:
     @property
     def name(self) -> str:
         """return the friendly name for file"""
+        if self.schema in ("inetnum", "inet6num"):
+            return self.get("cidr").value
+
+        if self.schema in ("person", "role"):
+            return self.get("nic-hdl").value
+
         if len(self.dom) < 1:
             return "none"
 
@@ -217,7 +229,6 @@ class FileDOM:
 def read_file(fn: str) -> FileDOM:
     """Parses FileDOM from file"""
     with open(fn, mode='r', encoding='utf-8') as f:
-        dom = FileDOM(src=fn)
-        dom.parse(f.readlines())
+        dom = FileDOM(src=fn, text=f.readlines())
 
         return dom

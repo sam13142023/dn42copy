@@ -58,7 +58,9 @@ class State:
 
 class SchemaDOM:
     """Schema DOM"""
-    def __init__(self, src: Optional[str] = None):
+    def __init__(self,
+                 dom: Optional[FileDOM] = None,
+                 src: Optional[str] = None):
         self.valid = False
         self.name = None
         self.ref = None
@@ -68,6 +70,9 @@ class SchemaDOM:
         self._schema = {}  # type: Dict[str, Set[str]]
         self._spec = {}  # type: Dict[str, str]
         self._links = {}  # type: Dict[str, List[str]]
+
+        if dom is not None:
+            self.parse(dom)
 
     @property
     def links(self) -> Dict[str, List[str]]:
@@ -224,10 +229,9 @@ class SchemaDOM:
 def read_file(src: str) -> SchemaDOM:
     """Parses SchemaDOM from file"""
     with open(src, mode='r', encoding='utf-8') as f:
-        dom = FileDOM(src=src)
-        dom.parse(f.readlines())
+        dom = FileDOM(src=src, text=f.readlines())
 
-        return SchemaDOM().parse(dom)
+        return SchemaDOM(dom=dom)
 
 
 def inetnum_check(state: State, dom: FileDOM) -> State:
