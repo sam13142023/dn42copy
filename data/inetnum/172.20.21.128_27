@@ -6,5 +6,4 @@ tech-c:             SNH-DN42
 mnt-by:             SNH-MNT
 status:             ASSIGNED
 nserver:            ns1.snh.dn42
-nserver:            ns2.snh.dn42
 source:             DN42
