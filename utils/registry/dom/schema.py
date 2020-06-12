@@ -71,6 +71,7 @@ class SchemaDOM:
 
     @property
     def links(self) -> Dict[str, List[str]]:
+        "return schema links"
         return self._links
 
     def parse(self, f: FileDOM):

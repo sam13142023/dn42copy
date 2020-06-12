@@ -2,7 +2,6 @@
 
 import inspect
 import unittest
-from pprint import pprint
 
 from .schema import SchemaDOM
 from .filedom import FileDOM

@@ -44,7 +44,7 @@ class NetRecord:
     @property
     def object_type(self) -> str:
         """object type"""
-        return "inetnum" if V4_NET.network.supernet_of(self.network) \
+        return "inetnum" if V4_NET.supernet_of(self.network) \
             else "inet6num"
 
     @property
