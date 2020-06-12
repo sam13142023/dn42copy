@@ -2,13 +2,13 @@
 
 import re
 from dataclasses import dataclass
-from typing import Sequence, NamedTuple, List, Dict, Optional, Union
-import ipaddress
+from typing import Sequence, NamedTuple, List, Dict, Optional, Tuple, Union
+from ipaddress import ip_network, IPv4Network, IPv6Network
 
 import log
 
 
-@dataclass
+@dataclass(frozen=True)
 class Value:
     """Dom Value"""
     value: str
@@ -19,22 +19,34 @@ class Value:
     def __str__(self) -> str:
         return self.value
 
+    @property
     def lines(self) -> List[str]:
         """return value split into lines"""
         return self.value.splitlines()
 
+    @property
     def fields(self) -> List[str]:
         """return value split into fields"""
         return self.value.split()
 
-    def as_ip(self) -> Union[ipaddress.IPv4Address, ipaddress.IPv6Address]:
-        """return value as an ip address"""
-        return ipaddress.ip_address(self.value)
-
-    def as_net(self) -> Union[ipaddress.IPv4Network, ipaddress.IPv6Network]:
+    @property
+    def as_net(self) -> Union[IPv4Network, IPv6Network]:
         """return value as an ip network"""
-        return ipaddress.ip_network(self.value)
+        return ip_network(self.value)
 
+    @property
+    def as_net6(self) -> IPv6Network:
+        """return value as an ip network"""
+        net = ip_network(self.value)
+
+        if isinstance(net, IPv6Network):
+            return net
+
+        n = net
+        return ip_network(
+            f"::FFFF:{n.network_address}/{n.prefixlen + 96}")
+
+    @property
     def as_key(self) -> str:
         """Format as key name"""
         return self.value.replace("/", "_").replace(" ", "")
@@ -47,6 +59,7 @@ class Row(NamedTuple):
     lineno: int
     src: str = None
 
+    @property
     def loc(self) -> str:
         """format as location"""
         s = f"{self.src} Line {self.lineno} "
@@ -57,14 +70,14 @@ class Row(NamedTuple):
 class FileDOM:
     """Parses a reg file"""
 
-    def __init__(self, src: Optional[str] = None):
+    def __init__(self, src: Optional[str] = None, ns: Optional[str] = "dn42"):
         self.valid = False
         self.dom = []  # type: List[Row]
         self.keys = {}  # type: Dict[str, int]
         self.multi = {}  # type: Dict[str, int]
         self.mntner = []  # type: List[str]
-        self.schema = None  # type: Optional[str]
         self.src = src
+        self.ns = ns
 
     def parse(self, input_str: Sequence[str], src: Optional[str] = None):
         """Parse an input string generator"""
@@ -73,7 +86,7 @@ class FileDOM:
         multi = {}
         mntner = []
         last_multi = None
-        self.valid = True
+        self.valid = False
         self.src = self.src if src is None else src
 
         for lineno, i in enumerate(input_str, 1):
@@ -81,7 +94,6 @@ class FileDOM:
             if re.match(r'[ \t]', i):
                 if len(dom) == 0:
                     log.error(f"File {src} does not parse properly")
-                    self.valid = False
                     return
 
                 dom[-1][1] += "\n" + i.strip()
@@ -121,11 +133,43 @@ class FileDOM:
             if dom[-1][0] == 'mnt-by':
                 mntner.append(dom[-1][1])
 
-        self.dom = [Row(k, Value(v), n) for k, v, n in dom]
+        self.dom = [Row(k, Value(v), n, self.src) for k, v, n in dom]
         self.keys = keys
         self.multi = multi
         self.mntner = mntner
-        self.schema = self.dom[0].key
+        self.valid = True
+
+    @property
+    def schema(self) -> str:
+        """return the schema name for file"""
+        if len(self.dom) < 0:
+            return "none"
+
+        return self.dom[0].key
+
+    @property
+    def name(self) -> str:
+        """return the friendly name for file"""
+        if len(self.dom) < 1:
+            return "none"
+
+        fields = self.dom[0].value.fields
+        if len(fields) < 1:
+            return "none"
+
+        return fields[0]
+
+    @property
+    def rel(self) -> str:
+        "generate rel for schema ref"
+        return f"{self.ns}.{self.schema}"
+
+    @property
+    def index(self) -> Tuple[Tuple[str, str], Tuple[str, str]]:
+        """generate index key/value pair"""
+        name = self.src.split("/")[-1].replace("_", "/")
+        return ((f"{self.ns}.{self.schema}", name),
+                (self.src, ",".join(self.mntner)))
 
     def __str__(self):
         length = 19
@@ -134,7 +178,7 @@ class FileDOM:
                 length = len(i.key) + 2
         s = ""
         for i in self.dom:
-            sp = i.value.lines()
+            sp = i.value.lines
 
             s += i.key + ":" + " " * (length - len(i.key)) + sp[0] + "\n"
             for m in sp[1:]:
@@ -173,4 +217,7 @@ class FileDOM:
 def read_file(fn: str) -> FileDOM:
     """Parses FileDOM from file"""
     with open(fn, mode='r', encoding='utf-8') as f:
-        return FileDOM().parse(f.readlines())
+        dom = FileDOM(src=fn)
+        dom.parse(f.readlines())
+
+        return dom

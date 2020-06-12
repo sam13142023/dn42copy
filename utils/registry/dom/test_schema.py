@@ -2,6 +2,7 @@
 
 import inspect
 import unittest
+from pprint import pprint
 
 from .schema import SchemaDOM
 from .filedom import FileDOM
@@ -274,11 +275,11 @@ class TestSchema(unittest.TestCase):
 
             files.append(dom)
 
-            name = dom.src.split("/")[-1].replace("_", "/")
-            idx[(f"dn42.{dom.schema}", name)] = (dom.src, ",".join(dom.mntner))
+            key, value = dom.index
+            idx[key] = value
 
         for dom in files:
-            s = schemas["dn42." + dom.schema]
+            s = schemas[f"{dom.ns}.{dom.schema}"]
             state = s.check_file(dom, idx)
 
             self.assertTrue(state)

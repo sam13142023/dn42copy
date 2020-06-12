@@ -82,7 +82,7 @@ class TestFileDOM(unittest.TestCase):
         dom = FileDOM()
         dom.parse(s.splitlines())
 
-        cidr = dom.get("cidr").as_net()
+        cidr = dom.get("cidr").as_net
         self.assertEqual(cidr.compressed, "fd00::/8")
         self.assertEqual(
             cidr.exploded, "fd00:0000:0000:0000:0000:0000:0000:0000/8")
@@ -105,7 +105,7 @@ class TestFileDOM(unittest.TestCase):
         dom = FileDOM()
         dom.parse(s.splitlines())
 
-        cidr = dom.get("cidr").as_net()
+        cidr = dom.get("cidr").as_net
         self.assertEqual(cidr.compressed, "172.20.0.0/14")
         self.assertEqual(
             cidr.exploded, "172.20.0.0/14")

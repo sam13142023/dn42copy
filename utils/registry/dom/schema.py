@@ -1,22 +1,19 @@
 """Schema DOM"""
 import re
 from dataclasses import dataclass, field
-from enum import Enum
-from typing import Optional, List, Tuple
+from enum import Enum, auto
+from typing import Optional, List, Tuple, Dict, Set
 
 import log
 
 from .filedom import FileDOM, Row
 
 
-SCHEMA_NAMESPACE = "dn42."
-
-
 class Level(Enum):
     """State error level"""
-    info = 1
-    warning = 2
-    error = 3
+    info = auto()
+    warning = auto()
+    error = auto()
 
 
 @dataclass
@@ -39,11 +36,11 @@ class State:
         """print out state info"""
         for (level, row, msg) in self.msgs:
             if level == Level.info:
-                log.info(f"{row.loc()} {msg}")
+                log.info(f"{row.loc} {msg}")
             elif level == Level.warning:
-                log.warning(f"{row.loc()} {msg}")
+                log.warning(f"{row.loc} {msg}")
             elif level == Level.error:
-                log.error(f"{row.loc()} {msg}")
+                log.error(f"{row.loc} {msg}")
 
     def info(self, r: Row, s: str):
         """Add warning"""
@@ -68,11 +65,16 @@ class SchemaDOM:
         self.primary = None
         self.type = None
         self.src = src
-        self.schema = {}
+        self._schema = {}  # type: Dict[str, Set[str]]
+        self._spec = {}  # type: Dict[str, str]
+        self._links = {}  # type: Dict[str, List[str]]
+
+    @property
+    def links(self) -> Dict[str, List[str]]:
+        return self._links
 
     def parse(self, f: FileDOM):
         """Parse a FileDOM into a SchemaDOM"""
-
         self.src = self.src if f.src is None else f.src
 
         schema = {}
@@ -85,20 +87,20 @@ class SchemaDOM:
             if row.key != 'key':
                 continue
 
-            lines = row.value.fields()
+            lines = row.value.fields
             key = lines.pop(0)
 
             schema[key] = set()
             for i in lines:
                 if i == ">":
                     break
-
                 schema[key].add(i)
-
+                if i.startswith("lookup="):
+                    self._links[key] = i.split("=", 2)[1].split(",")
             schema = self._process_schema(schema)
 
         self.valid = True
-        self.schema = schema
+        self._schema = schema
         return schema
 
     def _process_schema(self, schema):
@@ -140,20 +142,20 @@ class SchemaDOM:
         state = self._check_file_values(state, f, lookups)
         state = inetnum_check(state, f)
 
-        print("CHECK\t%-54s\t%s\tMNTNERS: %s" %
-              (f.src, state, ','.join(f.mntner)))
+        print("CHECK\t%-10s\t%-44s\t%s\tMNTNERS: %s" %
+              (f.schema, f.src.split("/")[-1], state, ','.join(f.mntner)))
 
         return state
 
     def _check_file_structure(self, state: State, f: FileDOM) -> State:
-        for k, v in self.schema.items():
+        for k, v in self._schema.items():
             row = Row(k, "", 0, f.src)
             if 'required' in v and k not in f.keys:
                 state.error(row, "not found and is required")
             elif 'recommend' in v and k not in f.keys:
                 state.info(row, "not found and is recommended")
 
-            if 'schema' in v and SCHEMA_NAMESPACE + f.dom[0].key != self.ref:
+            if 'schema' in v and f"{f.ns}.{f.dom[0].key}" != self.ref:
                 state.error(row, "not found and is required as the first line")
 
             if 'single' in v and k in f.keys and len(f.keys[k]) > 1:
@@ -173,7 +175,7 @@ class SchemaDOM:
                            lookups: Optional[List[Tuple[str, str]]] = None
                            ) -> State:
         for row in f.dom:
-            c = row.value.as_key()
+            c = row.value.as_key
 
             src = "None" if f.src is None else f.src
             if row.key == self.primary and not src.endswith(c):
@@ -183,16 +185,17 @@ class SchemaDOM:
 
             if row.key.startswith("x-"):
                 state.info(row, "is user defined")
+                continue
 
-            elif row.key not in self.schema:
+            if row.key not in self._schema:
                 state.error(row, "not in schema")
                 continue
-            else:
-                if 'deprecate' in self.schema[row.key]:
-                    state.info(row, "was found and is deprecated")
 
-                if lookups is not None:
-                    state = self._check_file_lookups(state, row, lookups)
+            if 'deprecate' in self._schema[row.key]:
+                state.info(row, "was found and is deprecated")
+
+            if lookups is not None:
+                state = self._check_file_lookups(state, row, lookups)
 
         return state
 
@@ -201,18 +204,19 @@ class SchemaDOM:
                             row: Row,
                             lookups: List[Tuple[str, str]] = None
                             ) -> State:
-        for o in self.schema[row.key]:
-            if o.startswith("lookup="):
-                refs = o.split("=", 2)[1].split(",")
-                val = row.value.fields()[0]
-                found = False
-                for ref in refs:
-                    if (ref, val) in lookups:
-                        found = True
-                if not found:
-                    state.error(row,
-                                f"references object {val} " +
-                                f"in {refs} but does not exist.")
+        if row.key not in self._links:
+            return state
+
+        refs = self._links[row.key]
+        val = row.value.fields[0]
+        found = False
+        for ref in refs:
+            if (ref, val) in lookups:
+                found = True
+        if not found:
+            state.error(row,
+                        f"{row.key} references object {val} " +
+                        f"in {refs} but does not exist.")
         return state
 
 
@@ -228,7 +232,7 @@ def read_file(src: str) -> SchemaDOM:
 def inetnum_check(state: State, dom: FileDOM) -> State:
     """Sanity Check for checking the inet[6]num value"""
     if dom.schema == "inetnum" or dom.schema == "inet6num":
-        cidr = dom.get("cidr").as_net()
+        cidr = dom.get("cidr").as_net
         Lnet = cidr.network_address.exploded
         Hnet = cidr.broadcast_address.exploded
 
