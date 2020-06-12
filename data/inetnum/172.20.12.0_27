@@ -1,0 +1,10 @@
+inetnum:            172.20.12.0 - 172.20.12.31
+cidr:               172.20.12.0/27
+netname:            YI-NET-001
+descr:              YI-NET-001
+country:            TW
+admin-c:            YI-DN42
+tech-c:             YI-DN42
+mnt-by:             YI-MNT
+status:             ASSIGNED
+source:             DN42
