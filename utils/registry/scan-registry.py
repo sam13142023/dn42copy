@@ -62,6 +62,7 @@ def run(path: str = "."):
         s = schemas.get(dom.rel)
         if s is None:
             print(f"{dom.src} schema not found for {dom.rel}")
+            continue
 
         status = s.check_file(dom, lookups)
         status.print()

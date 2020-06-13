@@ -1,0 +1,9 @@
+schema:             NAMESPACE-SCHEMA
+ref:                dn42.schema
+key:                namespace     required single   primary schema > [name]
+key:                ns-schema     required single   > [schema]
+key:                ns-owner      required single   > [schema]
+key:                default-owner optional single   lookup=dn42.mntner  > [mntner]
+key:                network-owner optional multiple > [parent-schema] [child-schema]
+mnt-by:             DN42-MNT
+source:             DN42

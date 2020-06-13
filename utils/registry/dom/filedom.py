@@ -148,8 +148,8 @@ class FileDOM:
     @property
     def schema(self) -> str:
         """return the schema name for file"""
-        if len(self.dom) < 0:
-            return "none"
+        if len(self.dom) < 1:
+            return None
 
         return self.dom[0].key
 
