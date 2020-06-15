@@ -1,0 +1,9 @@
+inetnum:            172.20.0.0 - 172.20.0.31
+netname:            MARLIN-IPV4
+country:            CN
+admin-c:            MARLIN-DN42
+tech-c:             MARLIN-DN42
+mnt-by:             MARLIN-MNT
+status:             ASSIGNED
+cidr:               172.20.0.0/27
+source:             DN42
