@@ -1,4 +1,4 @@
-route6:             fdef:f40f:1337:cafe::_64
+route6:             fdef:f40f:1337:cafe::/64
 origin:             AS4242423189
 mnt-by:             MARLIN-MNT
 source:             DN42
