@@ -1,0 +1,4 @@
+route:              172.22.124.16/28
+origin:             AS4242420180
+mnt-by:             GATUNO-MNT
+source:             DN42
