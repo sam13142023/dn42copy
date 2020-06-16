@@ -1,0 +1,10 @@
+inet6num:           fd42:4999:abcd:0000:0000:0000:0000:0000 - fd42:4999:abcd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4999:abcd::/48
+netname:            MARLIN-NETWORK
+descr:              Network of MARLIN
+country:            CN
+admin-c:            MARLIN-DN42
+tech-c:             MARLIN-DN42
+mnt-by:             MARLIN-MNT
+status:             ASSIGNED
+source:             DN42
