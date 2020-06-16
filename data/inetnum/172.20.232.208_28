@@ -1,5 +1,5 @@
-inetnum:            10.12.14.0 - 10.12.14.31
-cidr:               10.12.14.0_27
+inetnum:            172.20.232.208 - 172.20.232.223
+cidr:               172.20.232.208_28
 netname:            YI-NET-001
 descr:              YI-NET-001
 country:            TW
