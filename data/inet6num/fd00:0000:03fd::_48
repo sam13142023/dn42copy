@@ -1,5 +1,5 @@
-inet6num:           fd42:4999:abcd:0000:0000:0000:0000:0000 - fd42:4999:abcd:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:4999:abcd::/48
+inet6num:           fd00:0000:03fd:0000:0000:0000:0000:0000 - fd00:0000:03fd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:0000:03fd::/48
 netname:            MARLIN-NETWORK
 descr:              Network of MARLIN
 country:            CN
