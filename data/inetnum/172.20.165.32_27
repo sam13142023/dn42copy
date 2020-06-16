@@ -1,10 +1,10 @@
-inetnum:            172.20.7.32 - 172.20.7.63
+inetnum:            172.20.165.32 - 172.20.165.63
 netname:            MARLIN-IPV4
 country:            CN
 descr:              Peer with me at wangweimingooo@gmail.com
 admin-c:            MARLIN-DN42
 tech-c:             MARLIN-DN42
-mnt-by:             DN42-MNT
+mnt-by:             MARLIN-MNT
 status:             ASSIGNED
-cidr:               172.20.7.32/27
+cidr:               172.20.165.32/27
 source:             DN42
