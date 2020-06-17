@@ -1,0 +1,6 @@
+domain:             yi.dn42
+nserver:            dns1.yi.dn42 172.22.189.96
+admin-c:            YI-DN42
+tech-c:             YI-DN42
+mnt-by:             YI-MNT
+source:             DN42
