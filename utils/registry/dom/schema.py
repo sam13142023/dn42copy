@@ -70,6 +70,7 @@ class SchemaDOM:
         self._schema = {}  # type: Dict[str, Set[str]]
         self._spec = {}  # type: Dict[str, str]
         self._links = {}  # type: Dict[str, List[str]]
+        self._dom = dom
 
         if dom is not None:
             self.parse(dom)
@@ -82,6 +83,7 @@ class SchemaDOM:
     def parse(self, f: FileDOM):
         """Parse a FileDOM into a SchemaDOM"""
         self.src = self.src if f.src is None else f.src
+        self._dom = f
 
         schema = {}
         for row in f.dom:
@@ -224,6 +226,9 @@ class SchemaDOM:
                         f"{row.key} references object {val} " +
                         f"in {refs} but does not exist.")
         return state
+
+    def __str__(self) -> str:
+        return self._dom.__str__()
 
 
 def read_file(src: str) -> SchemaDOM:

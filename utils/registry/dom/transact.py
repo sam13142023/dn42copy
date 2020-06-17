@@ -53,3 +53,10 @@ class TransactDOM():
                 continue
 
             buffer.append(line)
+
+    def __str__(self) -> str:
+        s = f".BEGIN {self.mntner}\n"
+        s += "\n".join({f"DELETE {i}" for i in self.delete})
+        s += "...\n".join({str(record) for record in self.files})
+        s += ".END"
+        return s

@@ -5,5 +5,9 @@ default-owner:    DN42-MNT
 network-owner:    inet6num inet6num
 network-owner:    inet6num route
 network-owner:    inet6num inetnum
-network-owner:    inetnum inetnum
-network-owner:    inetnum route
+network-owner:    inetnum  inetnum
+network-owner:    inetnum  route
+primary-key:      inetnum  cidr
+primary-key:      inet6num cidr
+primary-key:      person   nic-hdl
+primary-key:      role     nic-hdl
