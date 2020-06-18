@@ -1,0 +1,6 @@
+mntner:             WILLY-MNT
+admin-c:            WILLY-DN42
+tech-c:             WILLY-DN42
+mnt-by:             WILLY-MNT
+auth:               pgp-fingerprint CBAC E67A B168 36AF F172  FD6C 40AF F482 903E 8C61
+source:             DN42
