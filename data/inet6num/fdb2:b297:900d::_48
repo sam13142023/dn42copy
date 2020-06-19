@@ -1,10 +1,10 @@
 inet6num:           fdb2:b297:900d:0000:0000:0000:0000:0000 - fdb2:b297:900d:ffff:ffff:ffff:ffff:ffff
 cidr:               fdb2:b297:900d::/48
-netname:            LIYUMIN-NETWORK
-descr:              Network of LIYUMIN
+netname:            GCC-NETWORK
+descr:              Network of Cirrocumulus Cloud
 country:            CN
-admin-c:            LIYUMIN-DN42
-tech-c:             LIYUMIN-DN42
-mnt-by:             LIYUMIN-MNT
+admin-c:            LIYUMI-DN42
+tech-c:             LIYUMI-DN42
+mnt-by:             GCC-MNT
 status:             ASSIGNED
 source:             DN42
