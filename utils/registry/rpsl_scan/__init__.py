@@ -1,6 +1,13 @@
 """RSPL Scan
 ============
 
+Usage: rspl scan [options]
+
+Options:
+--scan-dir=<dir>       Scan given directory
+--scan-file=<file>     Scan given file
+--add-index            Add scanned items to lookup table
+
 """
 
 import os
