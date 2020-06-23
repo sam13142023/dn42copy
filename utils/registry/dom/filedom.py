@@ -2,10 +2,13 @@
 
 import re
 from dataclasses import dataclass
-from typing import Sequence, NamedTuple, List, Dict, Optional, Tuple, Union
+from typing import Sequence, NamedTuple, List, \
+    Dict, Optional, Tuple, Union, Generator, TypeVar
 from ipaddress import ip_network, IPv4Network, IPv6Network
 
 import log
+
+F = TypeVar("F", bound="FileDOM")
 
 
 @dataclass(frozen=True)
@@ -210,6 +213,13 @@ class FileDOM:
 
         return self.dom[self.keys[key][index]].value
 
+    def get_all(self, key) -> Generator[str, None, None]:
+        "Get all values for a key"
+        if key not in self.keys:
+            return
+        for i in self.keys[key]:
+            yield self.dom[i].value
+
     def put(self, key, value, index=0, append=False):
         """Put a value"""
         if key not in self.keys:
@@ -225,10 +235,10 @@ class FileDOM:
         if index not in self.keys[key]:
             self.keys[key].append(i)
 
+    @staticmethod
+    def from_file(fn: str) -> F:
+        """Parses FileDOM from file"""
+        with open(fn, mode='r', encoding='utf-8') as f:
+            dom = FileDOM(src=fn, text=f.readlines())
 
-def read_file(fn: str) -> FileDOM:
-    """Parses FileDOM from file"""
-    with open(fn, mode='r', encoding='utf-8') as f:
-        dom = FileDOM(src=fn, text=f.readlines())
-
-        return dom
+            return dom

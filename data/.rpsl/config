@@ -1,0 +1,16 @@
+namespace:          dn42
+schema:             schema
+owners:             mntner
+default-owner:      DN42-MNT
+primary-key:        person nic-hdl
+primary-key:        role nic-hdl
+primary-key:        inetnum cidr
+primary-key:        inet6num cidr
+network-owner:      inet6num inet6num
+network-owner:      inet6num inetnum
+network-owner:      inetnum inetnum
+network-owner:      inetnum route
+network-owner:      inet6num route6
+mnt-by:             DN42-MNT
+source:             DN42
+

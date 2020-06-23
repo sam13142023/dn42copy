@@ -2,7 +2,7 @@
 
 from ipaddress import ip_network, IPv6Network
 from dataclasses import dataclass
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Tuple, Optional, Generator
 
 NET = IPv6Network
 V6_NET = ip_network("::/0")
@@ -113,24 +113,25 @@ class NetTree:
     def write_csv(self, fn: str = ".netindex"):
         "write tree to csv"
         with open(fn, "w") as f:
-            f.writelines({line+"\n" for line in self._lines()})
+            f.writelines(self._lines())
 
     def __str__(self) -> str:
-        return "\n".join(self._lines())
+        return "".join(self._lines())
 
-    def _lines(self) -> List[str]:
-        for v in self.tree.values():
+    def _lines(self) -> Generator[str, None, None]:
+        for v in sorted(
+                sorted(self.tree.values(), key=lambda x: x.index),
+                key=lambda x: x.level):
+
+            net_addr = v.net.network.network_address.exploded
+            net_pfx = v.net.network.prefixlen
             yield (
                 "|".join([str(i) for i in (
-                    v.index,
-                    v.parent,
-                    v.level,
-                    v.net.network.network_address.exploded,
-                    v.net.network.prefixlen,
-                    v.net.object_type,
-                    v.net.object_name,
+                    f"{v.index:04d}|{v.parent:04d}|{v.level:04d}",
+                    net_addr,
+                    net_pfx,
                     v.net.policy,
                     v.net.status,
-                    ",".join(v.net.mnters),
-                    )])
-            )
+                    v.net.object_type,
+                    v.net.object_name,
+                    )]) + "\n")
