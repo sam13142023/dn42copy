@@ -70,7 +70,7 @@ def run(args: List[str], env: Dict[str, str]) -> int:
     for schema in schema_set.schemas:
         schemas[schema.ref] = schema
 
-    def file_gen():
+    def file_gen(path):
         if opts.scan_dir is not None:
             path = os.path.join(env.get("WORKING_DIR"), opts.scan_dir)
         elif opts.scan_file is not None:
@@ -81,11 +81,11 @@ def run(args: List[str], env: Dict[str, str]) -> int:
 
     if opts.add_index:
         print("Add scanned items to lookup index...", file=sys.stderr)
-        for dom in file_gen():
+        for dom in file_gen(path):
             key, value = dom.index
             lookups[key] = value
 
-    for dom in file_gen():
+    for dom in file_gen(path):
         s = schemas.get(dom.rel)
         if s is None:
             print(f"{dom.src} schema not found for {dom.rel}")
