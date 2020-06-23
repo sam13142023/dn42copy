@@ -64,4 +64,4 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         status = s.check_file(dom, lookups=lookups)
         status.print()
     print(status)
-    return 0 if status is True else 1
+    return 0 if status else 1
