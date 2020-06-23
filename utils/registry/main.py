@@ -70,6 +70,8 @@ def run() -> int:
     working_dir = os.getcwd()
     working_dir = os.environ.get("WORKING_DIR", working_dir)
     prog_dir = os.path.dirname(os.path.realpath(__file__))
+    rpsl_dir = os.environ.get("RPSL_DIR", working_dir)
+    rpsl_dir = find_rpsl(rpsl_dir)
 
     cmd, args = shift(shift(sys.argv)[1])
 
@@ -90,7 +92,7 @@ def run() -> int:
     return pkg.run(args, {
         "WORKING_DIR": working_dir,
         "BIN_DIR": prog_dir,
-        "RPSL_DIR": find_rpsl(working_dir),
+        "RPSL_DIR": rpsl_dir,
         })
 
 

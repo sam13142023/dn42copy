@@ -146,6 +146,8 @@ class FileDOM:
         self.keys = keys
         self.multi = multi
         self.mntner = mntner
+        if self.src is None:
+            self.src = f"{self.schema}/{self.name}"
         self.valid = True
 
     @property
