@@ -5,7 +5,7 @@ import os
 import sys
 from typing import Dict
 
-from dom.filedom import FileDOM, read_file
+from dom.filedom import FileDOM
 from dom.schema import SchemaDOM
 
 
@@ -19,7 +19,7 @@ def index_files(path: str):
             if f[0] == ".":
                 continue
 
-            dom = read_file(os.path.join(root, f))
+            dom = FileDOM.from_file(os.path.join(root, f))
 
             yield dom
 
@@ -44,9 +44,7 @@ def run(path: str = "."):
         files.append(dom)
 
         if dom.schema == "schema":
-            schema = SchemaDOM()
-            schema.parse(dom)
-
+            schema = SchemaDOM(dom)
             schemas[schema.ref] = schema
 
         if i % 120 == 0:

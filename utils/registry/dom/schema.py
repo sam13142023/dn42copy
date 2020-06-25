@@ -2,11 +2,13 @@
 import re
 from dataclasses import dataclass, field
 from enum import Enum, auto
-from typing import Optional, List, Tuple, Dict, Set
+from typing import Optional, List, Tuple, Dict, Set, TypeVar
 
 import log
 
 from .filedom import FileDOM, Row
+
+DOM = TypeVar("DOM", bound="FileDOM")
 
 
 class Level(Enum):
@@ -59,7 +61,7 @@ class State:
 class SchemaDOM:
     """Schema DOM"""
     def __init__(self,
-                 dom: Optional[FileDOM] = None,
+                 dom: FileDOM,
                  src: Optional[str] = None):
         self.valid = False
         self.name = None
@@ -70,10 +72,8 @@ class SchemaDOM:
         self._schema = {}  # type: Dict[str, Set[str]]
         self._spec = {}  # type: Dict[str, str]
         self._links = {}  # type: Dict[str, List[str]]
-        self._dom = dom
-
-        if dom is not None:
-            self.parse(dom)
+        self.dom = dom
+        self.parse(dom)
 
     @property
     def links(self) -> Dict[str, List[str]]:
@@ -230,13 +230,13 @@ class SchemaDOM:
     def __str__(self) -> str:
         return self._dom.__str__()
 
+    @staticmethod
+    def from_file(src: str) -> DOM:
+        """Parses SchemaDOM from file"""
+        with open(src, mode='r', encoding='utf-8') as f:
+            dom = FileDOM(src=src, text=f.readlines())
 
-def read_file(src: str) -> SchemaDOM:
-    """Parses SchemaDOM from file"""
-    with open(src, mode='r', encoding='utf-8') as f:
-        dom = FileDOM(src=src, text=f.readlines())
-
-        return SchemaDOM(dom=dom)
+            return SchemaDOM(dom=dom)
 
 
 def inetnum_check(state: State, dom: FileDOM) -> State:

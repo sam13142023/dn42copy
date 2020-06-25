@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+import sys
+from main import run
+
+if __name__ == '__main__':
+    code = run()
+    sys.exit(code)
