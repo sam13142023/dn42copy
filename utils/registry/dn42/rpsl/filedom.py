@@ -251,6 +251,8 @@ def index_files(path: str) -> FileDOM:
         if root == path:
             continue
         if root.endswith(".rpsl"):
+            dom = FileDOM.from_file(os.path.join(root, "config"))
+            yield dom
             continue
 
         for f in files:

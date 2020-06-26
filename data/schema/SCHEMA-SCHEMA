@@ -1,15 +1,24 @@
 schema:             SCHEMA-SCHEMA
+namespace:          dn42
+primary-key:        inetnum  cidr
+primary-key:        inet6num cidr
+primary-key:        role     nic-hdl
+primary-key:        person   nic-hdl
+namespace-owners:   mntner
 ref:                dn42.schema
-key:                schema   required  single    primary schema > [name]
-key:                ref      required  single    > [schema]
-key:                key      required  multiple  > [key-name]
-                    {required|optional|recommend|deprecate}
-                    {single|multiple} {primary|} {schema|}
-                    lookup=str '>' [spec]...
-key:                mnt-by   required  multiple    lookup=dn42.mntner > [mntner]
-key:                remarks  optional  multiple  > [text]...
-key:                source   required  single      lookup=dn42.registry
-key:                network-owner optional multiple > [parent-schema]
+key:                schema           required single   primary schema > [name]
+key:                ref              required single   > [schema]
+key:                namespace        required single
+key:                primary-key      optional multiple > [schema] [key]
+key:                namespace-owners required single   > [schema]
+key:                mnt-by           required multiple   lookup=dn42.mntner > [mntner]
+key:                remarks          optional multiple > [text]...
+key:                source           required single     lookup=dn42.registry
+key:                network-owner    optional multiple > [parent-schema]
+key:                key              required multiple > [key-name]
+                                     {required|optional|recommend|deprecate}
+                                     {single|multiple} {primary|} {schema|}
+                                     lookup= '>' [spec]...
 mnt-by:             DN42-MNT
 source:             DN42
 remarks:            # option descriptions

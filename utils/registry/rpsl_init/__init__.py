@@ -44,12 +44,12 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         return 1
 
     rpsl_dir = env.get("WORKING_DIR")
-    schema_dir = os.path(rpsl_dir, "schema")
+    schema_dir = os.path.join(rpsl_dir, "schema")
 
     network_owners, primary_keys = {}, {}
     if os.path.exists(schema_dir):
         network_owners, primary_keys = _parse_schema(schema_dir)
-
+    print(rpsl_dir)
     rpsl = Config.build(path=rpsl_dir,
                         namespace=opts.namespace,
                         schema=opts.schema,

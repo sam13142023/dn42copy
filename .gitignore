@@ -3,7 +3,4 @@ lib/
 whoisd/
 __pycache__
 
-/data/.rpsl/index
-/data/.rpsl/links
-/data/.rpsl/nettree
-/data/.rpsl/schema
+/data/.rpsl

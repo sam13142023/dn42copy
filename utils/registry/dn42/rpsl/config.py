@@ -26,12 +26,12 @@ class Config:
     @property
     def schema(self) -> str:
         "Get schema type name"
-        return self._dom.get("schema", default="schema").value
+        return self._dom.get("namespace-schema", default="schema").value
 
     @property
     def owners(self) -> str:
         "Get owner type name"
-        return self._dom.get("owner", default="mntner").value
+        return self._dom.get("namespace-owner", default="mntner").value
 
     @property
     def source(self) -> str:
@@ -120,10 +120,10 @@ class Config:
         "Build config from parameters"
         FileDOM.namespace = namespace
         dom = FileDOM()
-        dom.src = os.path.join(path, "config")
+        dom.src = os.path.join(path, ".rpsl/config")
         dom.put("namespace", namespace)
-        dom.put("schema", schema)
-        dom.put("owners", owners)
+        dom.put("namespace-schema", schema)
+        dom.put("namespace-owners", owners)
         dom.put("default-owner", default_owner)
         for (k, v) in primary_keys:
             dom.put("primary-key", f"{k} {v}", append=True)
