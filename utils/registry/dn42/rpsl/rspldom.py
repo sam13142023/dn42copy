@@ -78,7 +78,12 @@ class RPSL:
     def load_file(self, fn: str) -> FileDOM:
         "load file"
         fn = os.path.join(self._config.path, fn)
-        return FileDOM.from_file(fn)
+        fo = FileDOM.from_file(fn)
+        fo.namespace = self._config.namespace
+        fo.primary_keys = self._config.primary_keys
+
+        return fo
 
     def links(self, key: Tuple[str, str]) -> List[Tuple[str, str]]:
+        "get links"
         return self._links.get(key, [])

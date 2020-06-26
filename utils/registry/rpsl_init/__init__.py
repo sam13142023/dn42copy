@@ -25,10 +25,8 @@ Group = TypeVar("Group", set, tuple)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--namespace", type=str, default=None)
-parser.add_argument("--schema", type=str, default="schema")
 parser.add_argument("--owners", type=str, default="mntner")
-parser.add_argument("--default-owner", type=str, default="DN42-MNT")
-parser.add_argument("--source", type=str, default="DN42")
+parser.add_argument("--schema", type=str, default="schema")
 parser.add_argument("--force", action='store_true')
 
 
@@ -44,18 +42,18 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         return 1
 
     rpsl_dir = env.get("WORKING_DIR")
-    schema_dir = os.path.join(rpsl_dir, "schema")
+    schema_dir = os.path.join(rpsl_dir, opts.schema)
+    network_owners, primary_keys, dir_name = {}, {}, {}
 
-    network_owners, primary_keys = {}, {}
     if os.path.exists(schema_dir):
-        network_owners, primary_keys = _parse_schema(schema_dir)
-    print(rpsl_dir)
+        ns, network_owners, primary_keys, dir_name = \
+            _parse_schema(schema_dir, opts.namespace)
+
     rpsl = Config.build(path=rpsl_dir,
-                        namespace=opts.namespace,
+                        namespace=ns,
                         schema=opts.schema,
                         owners=opts.owners,
-                        source=opts.source,
-                        default_owner=opts.default_owner,
+                        dir_name=dir_name,
                         network_owners=network_owners,
                         primary_keys=primary_keys)
 
@@ -75,17 +73,27 @@ def _read_schemas(path: str) -> Generator[SchemaDOM, None, None]:
             yield schema
 
 
-def _parse_schema(path: str) -> Tuple[Group, Group]:
+def _parse_schema(path: str, ns: str) -> Tuple[str, Group, Group, Group]:
     schemas = _read_schemas(path)
 
+    namespace = ns
     network_owner = set()  # type: Set[str, str]
     primary_key = set()  # type: Set[str, str]
+    dir_name = set()  # type: Set[str, str]
 
     for s in schemas:
+        if s.type == "schema":
+            if s.namespace != namespace:
+                namespace = s.namespace
+
         for i in s.dom.get_all("network-owner"):
             network_owner.add((s.type, i.value))
+
+        d = s.dom.get("dir-name")
+        if d is not None:
+            dir_name.add((s.type, d.value))
 
         if s.primary != s.type:
             primary_key.add((s.type, s.primary))
 
-    return network_owner, primary_key
+    return namespace, network_owner, primary_key, dir_name

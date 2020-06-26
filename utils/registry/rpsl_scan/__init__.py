@@ -40,7 +40,7 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         return 1
 
     rpsl = RPSL(config)
-    files = _file_gen(path, opts, wd=env.get("WORKING_DIR"))
+    files = _file_gen(path, opts, wd=env.get("WORKING_DIR"), config=config)
 
     if opts.add_index:
         files, g = [], files
@@ -56,11 +56,11 @@ def run(args: List[str], env: Dict[str, str]) -> int:
     return 0 if status else 1
 
 
-def _file_gen(path, opts: argparse.Namespace, wd: str):
+def _file_gen(path, opts: argparse.Namespace, wd: str, config: Config):
     if opts.scan_dir is not None:
         path = os.path.join(wd, opts.scan_dir)
     elif opts.scan_file is not None:
         path = os.path.join(wd, opts.scan_file)
         return TransactDOM.from_file(path).files
 
-    return index_files(path)
+    return index_files(path, config.namespace, config.primary_keys)

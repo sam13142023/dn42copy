@@ -38,7 +38,9 @@ def run(args: List[str], env: Dict[str, str]) -> int:
 
     print(r"Reading Files...", end="\r", flush=True, file=sys.stderr)
 
-    idx = index_files(path)
+    idx = index_files(path,
+                      namespace=config.namespace,
+                      primary_keys=config.primary_keys)
     lookup, schemas, files, nets = build_index(idx, rspl=config)
 
     print(

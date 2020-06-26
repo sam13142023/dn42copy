@@ -80,6 +80,15 @@ class SchemaDOM:
         "return schema links"
         return self._links
 
+    @property
+    def namespace(self) -> str:
+        "get namespace"
+        ns = "default"
+        ref = self._dom.get("ref")
+        if ref is not None:
+            ns = ref.value.split(".")[0]
+        return ns
+
     def parse(self, f: FileDOM):
         """Parse a FileDOM into a SchemaDOM"""
         self.src = self.src if f.src is None else f.src

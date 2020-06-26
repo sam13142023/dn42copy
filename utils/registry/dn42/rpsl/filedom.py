@@ -74,9 +74,6 @@ class Row(NamedTuple):
 class FileDOM:
     """Parses a reg file"""
 
-    namespace: str = "dn42"
-    primary_keys: Dict[str, str] = {}
-
     def __init__(self,
                  text: Optional[Sequence[str]] = None,
                  src: Optional[str] = None):
@@ -85,6 +82,9 @@ class FileDOM:
         self.keys = {}  # type: Dict[str, int]
         self.multi = {}  # type: Dict[str, int]
         self.mntner = []  # type: List[str]
+        self.namespace = ""
+        self.primary_key = ""
+
         self.src = src
 
         if text is not None:
@@ -145,6 +145,8 @@ class FileDOM:
                 mntner.append(dom[-1][1])
 
         self.dom = [Row(k, Value(v), n, self.src) for k, v, n in dom]
+        if len(self.dom) > 1:
+            self.primary_key = self.dom[0].key
         self.keys = keys
         self.multi = multi
         self.mntner = mntner
@@ -163,8 +165,8 @@ class FileDOM:
     @property
     def name(self) -> str:
         """return the friendly name for file"""
-        if self.schema in FileDOM.primary_keys:
-            return self.get(FileDOM.primary_keys[self.schema]).value
+        if self.primary_key != "":
+            return self.get(self.primary_key).value
 
         if len(self.dom) < 1:
             return "none"
@@ -178,13 +180,13 @@ class FileDOM:
     @property
     def rel(self) -> str:
         "generate rel for schema ref"
-        return f"{FileDOM.namespace}.{self.schema}"
+        return f"{self.namespace}.{self.schema}"
 
     @property
     def index(self) -> Tuple[Tuple[str, str], Tuple[str, str]]:
         """generate index key/value pair"""
         name = self.src.split("/")[-1].replace("_", "/")
-        return ((f"{FileDOM.namespace}.{self.schema}", name),
+        return ((f"{self.namespace}.{self.schema}", name),
                 (self.src, ",".join(self.mntner)))
 
     def __str__(self):
@@ -195,7 +197,9 @@ class FileDOM:
         s = ""
         for i in self.dom:
             sp = i.value.lines
-
+            if len(sp) == 0:
+                s += i.key + ":" + " " * (length - len(i.key)) + "\n"
+                continue
             s += i.key + ":" + " " * (length - len(i.key)) + sp[0] + "\n"
             for m in sp[1:]:
                 if m == "":
@@ -245,16 +249,17 @@ class FileDOM:
             return dom
 
 
-def index_files(path: str) -> FileDOM:
+def index_files(path: str,
+                namespace: str,
+                primary_keys: Dict[str, str]) -> FileDOM:
     """generate list of dom files"""
     for root, _, files in os.walk(path):
         if root == path:
             continue
         if root.endswith(".rpsl"):
-            dom = FileDOM.from_file(os.path.join(root, "config"))
-            yield dom
             continue
 
         for f in files:
             dom = FileDOM.from_file(os.path.join(root, f))
+            dom.namespace = namespace
             yield dom

@@ -1,16 +1,15 @@
 schema:             SCHEMA-SCHEMA
-namespace:          dn42
+ref:                dn42.schema
 primary-key:        inetnum  cidr
 primary-key:        inet6num cidr
 primary-key:        role     nic-hdl
 primary-key:        person   nic-hdl
-namespace-owners:   mntner
-ref:                dn42.schema
+owners:             mntner
 key:                schema           required single   primary schema > [name]
 key:                ref              required single   > [schema]
-key:                namespace        required single
 key:                primary-key      optional multiple > [schema] [key]
-key:                namespace-owners required single   > [schema]
+key:                dir-name         optional single
+key:                owners           optional single   > [schema]
 key:                mnt-by           required multiple   lookup=dn42.mntner > [mntner]
 key:                remarks          optional multiple > [text]...
 key:                source           required single     lookup=dn42.registry
