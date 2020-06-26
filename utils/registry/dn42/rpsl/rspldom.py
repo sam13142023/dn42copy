@@ -19,7 +19,8 @@ class RPSL:
         self._config = config
         self._files = {}  # type: Dict[Tuple[str, str], str]
         self._lookup = {}  # type: Dict[str, List[Tuple[str, str]]]
-        self._links = {}  # type: Dict[Tuple[str, str], List[Tuple[str, str]]]
+        self._links = {}  \
+            # type: Dict[Tuple[str, str], List[Tuple[str, str, str]]]
         self._nettree = None  # type: NetTree
         self._schema = {}  # type: Dict[str, SchemaDOM]
         self._load_index()
@@ -36,8 +37,9 @@ class RPSL:
             for line in fd.readlines():
                 sp = line.strip().split(sep="|")
                 key = (sp[0], sp[1])
-                self._links[key] = self._lookup.get(key, [])
-                self._links[key].append((sp[2], sp[3]))
+                arr = self._links.get(key, [])
+                arr.append((sp[2], sp[3], sp[4]))
+                self._links[key] = arr
 
         self._nettree = NetTree.read_csv(self._config.nettree_file)
 
@@ -71,9 +73,16 @@ class RPSL:
         if schema is None:
             keys = self._lookup.get(text, [])
 
+        related = set()
+
         for i in keys:
             yield self.load_file(self._files[i])
-            print(self.links(i))
+            for link in self.links(i):
+                key = (link[1], link[2])
+                related.add(key)
+
+        for i in related:
+            yield self.load_file(self._files[i])
 
     def load_file(self, fn: str) -> FileDOM:
         "load file"

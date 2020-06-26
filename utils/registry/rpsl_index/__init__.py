@@ -27,9 +27,8 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         return 1
 
     config = Config.from_path(path)
-    if not os.path.exists(config.index_file) or \
-            not os.path.exists(config.schema_file):
-        print("RPSL index files not found. do `rpsl index`?", file=sys.stderr)
+    if not os.path.exists(config.config_file):
+        print("RPSL config files not found. do `rpsl init`?", file=sys.stderr)
         return 1
 
     if not os.path.isdir(config.schema_dir):
@@ -150,7 +149,7 @@ def generate_links(
     for (link, refs) in links.items():
         d = dom.get(link)
         if d is None:
-            return
+            continue
 
         found = False
         for ref in refs:

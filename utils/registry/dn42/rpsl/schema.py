@@ -9,6 +9,7 @@ import log
 from .filedom import FileDOM, Row
 
 DOM = TypeVar("DOM", bound="FileDOM")
+STATE = TypeVar("STATE", bound="State")
 
 
 class Level(Enum):
@@ -33,6 +34,11 @@ class State:
 
     def __str__(self) -> str:
         return "PASS" if self.state else "FAIL"
+
+    def extend(self, state: STATE):
+        "apply state to state"
+        self.msgs.extend(state.msgs)
+        self.state = state.state
 
     def print_msgs(self):
         """print out state info"""
@@ -156,16 +162,18 @@ class SchemaDOM:
         if state is None:
             state = State()
 
+        file_state = State()
         if not f.valid:
-            state.error(Row("", "", 0, f.src), "file does not parse")
+            file_state.error(Row("", "", 0, f.src), "file does not parse")
 
-        state = self._check_file_structure(state, f)
-        state = self._check_file_values(state, f, lookups)
-        state = inetnum_check(state, f)
+        file_state = self._check_file_structure(file_state, f)
+        file_state = self._check_file_values(file_state, f, lookups)
+        file_state = inetnum_check(file_state, f)
 
         print("CHECK\t%-10s\t%-44s\t%s\tMNTNERS: %s" %
-              (f.schema, f.src.split("/")[-1], state, ','.join(f.mntner)))
+              (f.schema, f.src.split("/")[-1], file_state, ','.join(f.mntner)))
 
+        state.extend(file_state)
         return state
 
     def _check_file_structure(self, state: State, f: FileDOM) -> State:

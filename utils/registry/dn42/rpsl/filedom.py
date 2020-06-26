@@ -262,4 +262,6 @@ def index_files(path: str,
         for f in files:
             dom = FileDOM.from_file(os.path.join(root, f))
             dom.namespace = namespace
+            if dom.schema in primary_keys:
+                dom.primary_key = primary_keys[dom.schema]
             yield dom
