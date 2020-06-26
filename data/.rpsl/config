@@ -13,4 +13,3 @@ network-owner:      inetnum route
 network-owner:      inet6num route6
 mnt-by:             DN42-MNT
 source:             DN42
-
