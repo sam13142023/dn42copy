@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"run main code"
 
 import sys
 from main import run

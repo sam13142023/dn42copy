@@ -9,29 +9,37 @@ Usage: rspl index
 import os
 import sys
 
-from typing import Dict, Generator, List, Set, Tuple
+from typing import Dict, Generator, List, Set, Tuple, Sequence
 
-from dom.filedom import FileDOM
-from dom.schema import SchemaDOM
-from dom.nettree import NetTree, NetRecord
-from dom.transact import TransactDOM
-from dom.rspl import RPSLConfig
+from dn42.rpsl import FileDOM, SchemaDOM, TransactDOM, NetTree, \
+    NetRecord, Config, index_files
+from dn42.utils import remove_prefix
 
 
 def run(args: List[str], env: Dict[str, str]) -> int:
     "rspl index"
-
     _ = args
 
-    path = env.get("WORKING_DIR")
+    path = env.get("RPSL_DIR")
+    if path is None:
+        print("RPSL directory not found. do `rpsl init` or set RPSL_DIR",
+              file=sys.stderr)
+        return 1
 
-    if not os.path.isdir(os.path.join(path, "schema")):
+    config = Config.from_path(path)
+    if not os.path.exists(config.index_file) or \
+            not os.path.exists(config.schema_file):
+        print("RPSL index files not found. do `rpsl index`?", file=sys.stderr)
+        return 1
+
+    if not os.path.isdir(config.schema_dir):
         print("schema directory not found in path", file=sys.stderr)
         sys.exit(1)
 
     print(r"Reading Files...", end="\r", flush=True, file=sys.stderr)
+
     idx = index_files(path)
-    lookup, schemas, files, nets = build_index(idx)
+    lookup, schemas, files, nets = build_index(idx, rspl=config)
 
     print(
         f"Reading Files: done! files: {len(files)}" +
@@ -83,41 +91,15 @@ class NotRPSLPath(Exception):
     "error raised if unable to determine RPSL root"
 
 
-def index_files(path: str) -> Generator[FileDOM, None, None]:
-    """generate list of dom files"""
-    path = os.path.abspath(path)
-    rpsl = os.path.join(path, ".rpsl/config")
-    while not os.path.exists(rpsl):
-        if path == "/":
-            break
-        path = os.path.dirname(path)
-        rpsl = os.path.join(path, ".rpsl/config")
-
-    if not os.path.exists(rpsl):
-        raise NotRPSLPath()
-
-    yield FileDOM.from_file(rpsl)
-
-    for root, _, files in os.walk(path):
-        if root == path:
-            continue
-        if root.endswith(".rpsl"):
-            continue
-
-        for f in files:
-            dom = FileDOM.from_file(os.path.join(root, f))
-            yield dom
-
-
 def build_index(
-        idx: Generator[FileDOM, None, None]
+        idx: Sequence[FileDOM],
+        rspl: Config,
     ) -> Tuple[
         Set[Tuple[str, str]],
         Dict[str, SchemaDOM],
         List[FileDOM],
         List[NetRecord]]:
     "build index for files"
-    rspl = RPSLConfig.default()
     lookup = set()  # type: Set[Tuple[str, str]]
     schemas = {}  # type: Dict[str, SchemaDOM]
     files = []  # type: List[FileDOM]
@@ -136,10 +118,6 @@ def build_index(
         lookup.add(key)
         files.append(dom)
 
-        if dom.schema == "namespace":
-            rspl = RPSLConfig.from_dom(dom)
-            net_types = rspl.network_parents
-
         if dom.schema == rspl.schema:
             schema = SchemaDOM(dom)
             schemas[schema.ref] = schema
@@ -147,7 +125,6 @@ def build_index(
         if dom.schema in net_types:
             nets.append(NetRecord(
                 dom.get("cidr").as_net6,
-                dom.mntner,
                 dom.get("policy", default="closed"),
                 dom.get("status", default="ASSIGNED"),
             ))
@@ -181,10 +158,3 @@ def generate_links(
 
         if not found:
             print(f"{dom.name} missing link {link} {d.value}")
-
-
-def remove_prefix(text, prefix):
-    "remove the prefix"
-    if text.startswith(prefix):
-        return text[len(prefix):]
-    return text

@@ -34,7 +34,7 @@ class State:
     def __str__(self) -> str:
         return "PASS" if self.state else "FAIL"
 
-    def print(self):
+    def print_msgs(self):
         """print out state info"""
         for (level, row, msg) in self.msgs:
             if level == Level.info:
@@ -139,9 +139,13 @@ class SchemaDOM:
 
         return schema
 
-    def check_file(self, f: FileDOM, lookups=None) -> State:
+    def check_file(self,
+                   f: FileDOM,
+                   lookups=None,
+                   state: Optional[State] = None) -> State:
         """Check a FileDOM for correctness(tm)"""
-        state = State()
+        if state is None:
+            state = State()
 
         if not f.valid:
             state.error(Row("", "", 0, f.src), "file does not parse")
@@ -163,7 +167,7 @@ class SchemaDOM:
             elif 'recommend' in v and k not in f.keys:
                 state.info(row, "not found and is recommended")
 
-            if 'schema' in v and f"{f.ns}.{f.dom[0].key}" != self.ref:
+            if 'schema' in v and f"{f.namespace}.{f.dom[0].key}" != self.ref:
                 state.error(row, "not found and is required as the first line")
 
             if 'single' in v and k in f.keys and len(f.keys[k]) > 1:

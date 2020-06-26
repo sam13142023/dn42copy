@@ -1,6 +1,7 @@
 """FileDOM parse and formating"""
 
 import re
+import os
 from dataclasses import dataclass
 from typing import Sequence, NamedTuple, List, \
     Dict, Optional, Tuple, Union, Generator, TypeVar
@@ -8,7 +9,7 @@ from ipaddress import ip_network, IPv4Network, IPv6Network
 
 import log
 
-F = TypeVar("F", bound="FileDOM")
+DOM = TypeVar("DOM", bound="FileDOM")
 
 
 @dataclass(frozen=True)
@@ -73,17 +74,18 @@ class Row(NamedTuple):
 class FileDOM:
     """Parses a reg file"""
 
+    namespace: str = "dn42"
+    primary_keys: Dict[str, str] = {}
+
     def __init__(self,
                  text: Optional[Sequence[str]] = None,
-                 src: Optional[str] = None,
-                 ns: Optional[str] = "dn42"):
+                 src: Optional[str] = None):
         self.valid = False
         self.dom = []  # type: List[Row]
         self.keys = {}  # type: Dict[str, int]
         self.multi = {}  # type: Dict[str, int]
         self.mntner = []  # type: List[str]
         self.src = src
-        self.ns = ns
 
         if text is not None:
             self.parse(text, src=src)
@@ -161,11 +163,8 @@ class FileDOM:
     @property
     def name(self) -> str:
         """return the friendly name for file"""
-        if self.schema in ("inetnum", "inet6num"):
-            return self.get("cidr").value
-
-        if self.schema in ("person", "role"):
-            return self.get("nic-hdl").value
+        if self.schema in FileDOM.primary_keys:
+            return self.get(FileDOM.primary_keys[self.schema]).value
 
         if len(self.dom) < 1:
             return "none"
@@ -179,13 +178,13 @@ class FileDOM:
     @property
     def rel(self) -> str:
         "generate rel for schema ref"
-        return f"{self.ns}.{self.schema}"
+        return f"{FileDOM.namespace}.{self.schema}"
 
     @property
     def index(self) -> Tuple[Tuple[str, str], Tuple[str, str]]:
         """generate index key/value pair"""
         name = self.src.split("/")[-1].replace("_", "/")
-        return ((f"{self.ns}.{self.schema}", name),
+        return ((f"{FileDOM.namespace}.{self.schema}", name),
                 (self.src, ",".join(self.mntner)))
 
     def __str__(self):
@@ -237,10 +236,23 @@ class FileDOM:
         if index not in self.keys[key]:
             self.keys[key].append(i)
 
-    @staticmethod
-    def from_file(fn: str) -> F:
+    @classmethod
+    def from_file(cls, fn: str) -> DOM:
         """Parses FileDOM from file"""
         with open(fn, mode='r', encoding='utf-8') as f:
-            dom = FileDOM(src=fn, text=f.readlines())
+            dom = cls(src=fn, text=f.readlines())
 
             return dom
+
+
+def index_files(path: str) -> FileDOM:
+    """generate list of dom files"""
+    for root, _, files in os.walk(path):
+        if root == path:
+            continue
+        if root.endswith(".rpsl"):
+            continue
+
+        for f in files:
+            dom = FileDOM.from_file(os.path.join(root, f))
+            yield dom

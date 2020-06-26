@@ -2,18 +2,18 @@
 
 from ipaddress import ip_network, IPv6Network
 from dataclasses import dataclass
-from typing import Dict, List, Tuple, Optional, Generator
+from typing import Dict, List, Tuple, Optional, Generator, TypeVar
 
 NET = IPv6Network
 V6_NET = ip_network("::/0")
 V4_NET = ip_network("::ffff:0.0.0.0/96")
+NT = TypeVar("NT", bound="NetTree")
 
 
 @dataclass
 class NetRecord:
     "Network Record"
     network: NET
-    mnters: List[str]
     policy: str
     status: str
 
@@ -135,3 +135,26 @@ class NetTree:
                     v.net.object_type,
                     v.net.object_name,
                     )]) + "\n")
+
+    @classmethod
+    def read_csv(cls, fn) -> NT:
+        "read tree from csv"
+        inttree = {}  # type: Dict[int, NetRecord]
+        with open(fn) as fd:
+            for line in fd.readlines():
+                sp = line.split(sep="|")
+                if len(sp) != 9:
+                    continue
+                net = ip_network(f"{sp[3]}/{sp[4]}")
+                rec = NetRecord(net, sp[5], sp[6])
+                lis = NetList(sp[0], sp[1], sp[2], rec, [])
+                inttree[sp[0]] = lis
+                if sp[0] != sp[1]:
+                    inttree[sp[1]].nets.append(net)
+        nettree = {}
+        for v in inttree.values():
+            nettree[v.net.network] = v
+
+        c = cls()
+        c.tree = NetTree
+        return c

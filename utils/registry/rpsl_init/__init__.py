@@ -18,9 +18,10 @@ import os.path
 import argparse
 from typing import List, Dict, Generator, Tuple, Set, TypeVar
 
-from dom.rspl import RPSLConfig
-from dom.filedom import FileDOM
-from dom.schema import SchemaDOM
+from dn42.rpsl import Config, FileDOM, SchemaDOM
+
+Group = TypeVar("Group", set, tuple)
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--namespace", type=str, default=None)
@@ -43,15 +44,20 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         return 1
 
     rpsl_dir = env.get("WORKING_DIR")
-    rpsl = RPSLConfig(root=rpsl_dir,
-                      namespace=opts.namespace,
-                      schema=opts.schema,
-                      owners=opts.owners,
-                      source=opts.source,
-                      default_owner=opts.default_owner)
+    schema_dir = os.path(rpsl_dir, "schema")
 
-    if os.path.exists(rpsl.schema_dir):
-        rpsl.network_owner, rpsl.primary_key = _parse_schema(rpsl.schema_dir)
+    network_owners, primary_keys = {}, {}
+    if os.path.exists(schema_dir):
+        network_owners, primary_keys = _parse_schema(schema_dir)
+
+    rpsl = Config.build(path=rpsl_dir,
+                        namespace=opts.namespace,
+                        schema=opts.schema,
+                        owners=opts.owners,
+                        source=opts.source,
+                        default_owner=opts.default_owner,
+                        network_owners=network_owners,
+                        primary_keys=primary_keys)
 
     os.makedirs(os.path.dirname(rpsl.config_file), exist_ok=True)
     with open(rpsl.config_file, "w") as f:
@@ -69,9 +75,6 @@ def _read_schemas(path: str) -> Generator[SchemaDOM, None, None]:
             yield schema
 
 
-Group = TypeVar("Group", set, tuple)
-
-
 def _parse_schema(path: str) -> Tuple[Group, Group]:
     schemas = _read_schemas(path)
 
@@ -85,5 +88,4 @@ def _parse_schema(path: str) -> Tuple[Group, Group]:
         if s.primary != s.type:
             primary_key.add((s.type, s.primary))
 
-    print(network_owner)
     return network_owner, primary_key
