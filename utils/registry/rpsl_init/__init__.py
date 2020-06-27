@@ -19,6 +19,7 @@ import argparse
 from typing import List, Dict, Generator, Tuple, Set, TypeVar
 
 from dn42.rpsl import Config, FileDOM, SchemaDOM
+import rpsl_index
 
 Group = TypeVar("Group", set, tuple)
 
@@ -62,6 +63,8 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         print(rpsl, file=f)
 
     print(f"Created: {rpsl.config_file}", file=sys.stderr)
+    rpsl_index.run(args, env)
+
     return 0
 
 

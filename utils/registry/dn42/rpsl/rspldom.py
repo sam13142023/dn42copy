@@ -82,6 +82,8 @@ class RPSL:
                 related.add(key)
 
         for i in related:
+            if i in keys:
+                continue
             yield self.load_file(self._files[i])
 
     def load_file(self, fn: str) -> FileDOM:
