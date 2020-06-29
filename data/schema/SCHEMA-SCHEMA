@@ -15,9 +15,9 @@ key:                remarks          optional multiple > [text]...
 key:                source           required single     lookup=dn42.registry
 key:                network-owner    optional multiple > [parent-schema]
 key:                key              required multiple > [key-name]
-                                     {required|optional|recommend|deprecate}
-                                     {single|multiple} {primary|} {schema|}
-                                     lookup= '>' [spec]...
+                    {required|optional|recommend|deprecate}
+                    {single|multiple} {primary|} {schema|}
+                    lookup= '>' [spec]...
 mnt-by:             DN42-MNT
 source:             DN42
 remarks:            # option descriptions
