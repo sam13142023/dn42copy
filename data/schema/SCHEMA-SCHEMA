@@ -17,7 +17,7 @@ key:                network-owner    optional multiple > [parent-schema]
 key:                key              required multiple > [key-name]
                                      {required|optional|recommend|deprecate}
                                      {single|multiple} {primary|} {schema|}
-                                     lookup= '>' [spec]...
+                                     lookup=str '>' [spec]...
 mnt-by:             DN42-MNT
 source:             DN42
 remarks:            # option descriptions
