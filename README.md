@@ -7,4 +7,3 @@
 6. Bonus: add your pgp fingerprint to your MNT `auth:      pgp-fingerprint  <pgp-fingerprint>` [[See XUU-MNT example](data/mntner/XUU-MNT)]
 7. ???
 8. Profit!
-
