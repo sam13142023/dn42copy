@@ -1,0 +1,4 @@
+route:              172.21.67.192/27
+origin:             AS4242422092
+mnt-by:             P3BK4C-MNT
+source:             DN42

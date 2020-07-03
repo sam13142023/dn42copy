@@ -1,0 +1,10 @@
+inet6num:           fd42:2092:2092:0000:0000:0000:0000:0000 - fd42:2092:2092:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2092:2092::/48
+netname:            P3BK4C-NETWORK
+descr:              Network of P3BK4C
+country:            GR
+admin-c:            P3BK4C-DN42
+tech-c:             P3BK4C-DN42
+mnt-by:             P3BK4C-MNT
+status:             ASSIGNED
+source:             DN42
