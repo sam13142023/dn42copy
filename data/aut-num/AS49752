@@ -1,7 +1,7 @@
-aut-num:	AS49752
-as-name:	REDPANDANETWORK-AS
-descr:		Red Panda Network
-admin-c:	REDP-DN42
-tech-c:		REDP-DN42
-mnt-by:		REDPANDA-MNT
-source:		DN42
+aut-num:            AS49752
+as-name:            REDPANDANETWORK-AS
+descr:              Red Panda Network
+admin-c:            REDP-DN42
+tech-c:             REDP-DN42
+mnt-by:             REDPANDA-MNT
+source:             DN42
