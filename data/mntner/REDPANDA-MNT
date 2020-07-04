@@ -1,0 +1,6 @@
+mntner:             REDPANDA-MNT
+admin-c:            REDP-DN42
+tech-c:             REDP-DN42
+mnt-by:             REDPANDA-MNT
+auth:               pgp-fingerprint 9B91F44036C04F172D7E2C4227A401F86B85D0BC
+source:             DN42

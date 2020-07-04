@@ -1,0 +1,13 @@
+inet6num:	fd02:685f:edac:0000:0000:0000:0000:0000 - fd02:685f:edad:0000:0000:0000:0000:0000
+cidr:		fd02:685f:edac::/47
+netname:	REDPANDANETWORK-V6
+org:		ORG-REDPANDANETWORK
+descr:		Red Panda Network - IPv6 allocation
+country:	EU
+admin-c:	REDP-DN42
+tech-c:		REDP-DN42
+status:		ALLOCATED-BY-RIR
+nserver:	ns1.tyrasuki.dn42
+nserver:	ns2.tyrasuki.dn42
+mnt-by:		REDPANDA-MNT
+source:		DN42
