@@ -7,6 +7,6 @@ admin-c:            REDP-DN42
 tech-c:             REDP-DN42
 nserver:            ns1.tyrasuki.dn42
 nserver:            ns2.tyrasuki.dn42
-status:             ALLOCATED PI
+status:             ASSIGNED PI
 mnt-by:             REDPANDA-MNT
 source:             DN42
