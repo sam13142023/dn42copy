@@ -5,7 +5,6 @@ country:            DE
 admin-c:            PYROPETER-DN42
 tech-c:             PYROPETER-DN42
 status:             ASSIGNED
-nserver:            ns1.pyropeter.dn42
 cidr:               fda1:d26b:7461::/48
-mnt-by:             DUMMY-MNT
+mnt-by:             PYROPETER-MNT
 source:             DN42
