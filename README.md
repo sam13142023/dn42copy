@@ -1,12 +1,15 @@
+*This repo is https://git.dn42.dev/dn42/registry  
+If you are using a different url, please update as soon as possible*
+
 # Guide for creating a Pull Request
 
-1. ***Create a local clone of the registry***
+1. **Create a local clone of the registry**
 
 ```sh
 git clone git@git.dn42.dev:dn42/registry.git
 ```
 
-2. ***Create a branch for your changes***
+2. **Create a branch for your changes**
 
 The name of the branch ***must*** follow a specific format:
 `<username>-YYYYMMDD/<name>`  
@@ -26,7 +29,9 @@ git checkout -b burble-20200704/mychange
 git push --set-upstream origin burble-20200704/mychange
 ```
 
-3. ***Make your changes on your new branch***
+*Note that it can take up to 10 minutes after registering as a new user before you get permission to create the new branch*
+
+3. **Make your changes on your new branch**
 
 See the [getting started](https://dn42.dev/howto/Getting-Started) guide in the [Wiki](https://dn42.dev) for more information.
 
@@ -43,7 +48,7 @@ git add .
 git commit
 ```
 
-4. ***Push your changes back to the registry***
+4. **Push your changes back to the registry**
 
 Remember to squash your commits and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).  
 It is also good practice to rebase your work on top of any other changes that may have happened on the master branch.
@@ -73,7 +78,7 @@ git rebase -i -S origin/master
 git push --force
 ```
 
-5. ***Create a pull request***
+5. **Create a pull request**
 
 In the gitea GUI, select your branch, check your changes again for a final time and then hit the 'Pull Request' button.
 
