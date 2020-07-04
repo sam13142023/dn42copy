@@ -1,8 +1,8 @@
-inet6num:           fd02:685f:edac:0000:0000:0000:0000:0000 - fd02:685f:edad:ffff:ffff:ffff:ffff:ffff
-cidr:               fd02:685f:edac::/47
+inet6num:           fd02:685f:edac:0000:0000:0000:0000:0000 - fd02:685f:edac:ffff:ffff:ffff:ffff:ffff
+cidr:               fd02:685f:edac::/48
 netname:            REDPANDANETWORK-V6
 org:                ORG-REDPANDANETWORK
-descr:              Red Panda Network - IPv6 allocation
+descr:              Red Panda Network - IPv6 assignment
 country:            EU
 admin-c:            REDP-DN42
 tech-c:             REDP-DN42

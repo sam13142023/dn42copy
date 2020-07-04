@@ -1,5 +1,5 @@
-route6:             fd02:685f:edac::/47
+route6:             fd02:685f:edac::/48
 origin:             AS49752
-max-length:         48
+max-length:         64
 mnt-by:             REDPANDA-MNT
 source:             DN42
