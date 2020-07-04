@@ -2,6 +2,6 @@ mntner:             W1KL4S-MNT
 admin-c:            W1KL4S-DN42
 tech-c:             W1KL4S-DN42
 mnt-by:             W1KL4S-MNT
-auth:               pgp-fingerprint 0520E1E9942F365B838A5A2B4D23BFA98644479C
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHA+JLd3+Zmd/xWY6P7Vhf/OXxYZn1DH4GQxOpxf+wL8
+auth:               pgp-fingerprint A0D657BA57C0032BAF816019EC32889AB463A9D9 
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN7Kv0ztWZKTpUr/CS2MlhLSrH7Y5A/E7I9AUk/tgWdv 
 source:             DN42
