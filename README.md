@@ -84,6 +84,14 @@ In the gitea GUI, select your branch, check your changes again for a final time 
 
 If you are using SSH authentication, please post the full commit hash that you signed and SSH signature in to the PR comments.
 
+Your changes will now go through automatic checking and then manual review by the registry maintainers. 
+
+6. **Making updates**
+
+If you need to change your PR to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again.  
+Please remember to do this for every update. 
+
+
 # Gitea Usage
 
 The DN42 registry is a community resource for *your* benefit.  
