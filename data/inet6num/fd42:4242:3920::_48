@@ -3,8 +3,8 @@ cidr:               fd42:4242:3920::/48
 netname:            KEBE-NET
 descr:              KEBE Network
 country:            NL
-admin-c:            KEVINB-DN42
-tech-c:             KEVINB-DN42
+admin-c:            KEBE-DN42
+tech-c:             KEBE-DN42
 mnt-by:             KEBE-MNT
 status:             ASSIGNED
 source:             DN42
