@@ -1,0 +1,6 @@
+mntner:             SM-MNT
+admin-c:            SM-DN42
+tech-c:             SM-DN42
+mnt-by:             SM-MNT
+auth:               pgp-fingerprint CAA4C38744A72685C6DD23439DBA4FB293131B6E
+source:             DN42

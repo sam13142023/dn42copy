@@ -1,0 +1,5 @@
+route6:             fdaa:0d0e:147f::/48
+origin:             AS213021
+max-length:         48
+mnt-by:             SM-MNT
+source:             DN42
