@@ -1,4 +1,4 @@
-route6:             fdaa:0d0e:147f::/48
+route6:             fdaa:d0e:147f::/48
 origin:             AS213021
 max-length:         48
 mnt-by:             SM-MNT
