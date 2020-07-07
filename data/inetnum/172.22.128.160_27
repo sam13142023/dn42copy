@@ -1,5 +1,5 @@
-inetnum:            172.20.140.128 - 172.20.140.159
-cidr:               172.20.140.128/27
+inetnum:            172.22.128.160 - 172.22.128.191
+cidr:               172.22.128.160/27
 netname:            HEXXNET-V4-NET-1
 country:            GB
 admin-c:            HEXXNET-DN42
