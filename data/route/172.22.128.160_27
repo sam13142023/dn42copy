@@ -1,4 +1,4 @@
-route:              172.20.140.128/27
+route:              172.22.128.160/27
 origin:             AS4242420225
 mnt-by:             HEXXNET-MNT
 source:             DN42
