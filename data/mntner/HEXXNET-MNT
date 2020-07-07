@@ -3,4 +3,4 @@ admin-c:            HEXXNET-DN42
 tech-c:             HEXXNET-DN42
 mnt-by:             HEXXNET-MNT
 source:             DN42
-auth:               pgp-fingerprint 2E7F6045036BD4B65B2DB3FC83D33FABEA2800F3
+auth:               pgp-fingerprint 24F7557955DAB31998BD92015D24C1AFE8981618
