@@ -1,4 +1,4 @@
-route6:             fd42:2092:2092::/48
+route6:             fd63:672f:38e7::/48
 origin:             AS4242422092
 max-length:         48
 mnt-by:             P3BK4C-MNT
