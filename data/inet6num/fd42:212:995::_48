@@ -1,5 +1,5 @@
-inet6num:           fd42:4242:2990:0000:0000:0000:0000:0000 - fd42:4242:2990:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:4242:2990::/48
+inet6num:           fd42:0212:0995:0000:0000:0000:0000:0000 - fd42:0212:0995:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:212:995::/48
 netname:            TAN-IPV6
 descr:              IPv6 Address Space for TAN
 country:            SG
