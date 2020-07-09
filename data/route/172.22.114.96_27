@@ -1,0 +1,4 @@
+route:              172.22.114.96/27
+origin:             AS213021
+mnt-by:             SM-MNT
+source:             DN42

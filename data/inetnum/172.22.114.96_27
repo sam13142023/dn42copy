@@ -1,0 +1,9 @@
+inetnum:            172.22.114.96 - 172.22.114.127
+netname:            SAMIPSOLUTIONS-IPV4-BLOCK
+country:            FI
+admin-c:            SM-DN42
+tech-c:             SM-DN42
+mnt-by:             SM-MNT
+status:             ASSIGNED
+cidr:               172.22.114.96/27
+source:             DN42
