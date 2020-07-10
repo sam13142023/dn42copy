@@ -4,8 +4,7 @@ descr:              welterde's infrastructure ULA net
 admin-c:            WELTERDE-DN42
 tech-c:             WELTERDE-DN42
 status:             ASSIGNED
-nserver:            a.ns.welterde.net
-nserver:            ns1.welterde.dn42
+nserver:            ns1.any.welterde.dn42
 cidr:               fdef:5d0d:ee12::/48
-mnt-by:             DUMMY-MNT
+mnt-by:             WELTERDE-MNT
 source:             DN42
