@@ -1,5 +1,5 @@
-inet6num:           fd42:2092:2092:0000:0000:0000:0000:0000 - fd42:2092:2092:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:2092:2092::/48
+inet6num:           fd63:672f:38e7:0000:0000:0000:0000:0000 - fd63:672f:38e7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd63:672f:38e7::/48
 netname:            P3BK4C-NETWORK
 descr:              Network of P3BK4C
 country:            GR

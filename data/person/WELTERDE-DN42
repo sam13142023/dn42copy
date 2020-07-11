@@ -1,6 +1,6 @@
 person:             Tassilo Schweyer
-contact:            mailto:dn42@welterde.de
-contact:            xmpp:welterde@jabber.welterde.de
+e-mail:             dn42@welterde.de
 nic-hdl:            WELTERDE-DN42
-mnt-by:             DUMMY-MNT
+mnt-by:             WELTERDE-MNT
+nick:               welterde
 source:             DN42
