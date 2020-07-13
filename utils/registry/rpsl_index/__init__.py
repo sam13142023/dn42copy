@@ -40,12 +40,13 @@ def run(args: List[str], env: Dict[str, str]) -> int:
     idx = index_files(path,
                       namespace=config.namespace,
                       primary_keys=config.primary_keys)
-    lookup, schemas, files, nets = build_index(idx, rspl=config)
+    lookup, schemas, files, nets, routes = build_index(idx, rspl=config)
 
     print(
         f"Reading Files: done! files: {len(files)}" +
         f" schemas: {len(schemas)}" +
         f" networks: {len(nets)}",
+        f" routes: {len(routes)}",
         file=sys.stderr)
 
     print("Writing .rpsl/index", file=sys.stderr)
@@ -71,7 +72,7 @@ def run(args: List[str], env: Dict[str, str]) -> int:
                           file=link_out)
 
     print("Generate .rpsl/nettree", file=sys.stderr)
-    tree = NetTree(nets)
+    tree = NetTree(nets, routes)
 
     print("Writing .rpsl/nettree", file=sys.stderr)
     tree.write_csv(".rpsl/nettree")
@@ -105,17 +106,19 @@ def build_index(
     schemas = {}  # type: Dict[str, SchemaDOM]
     files = []  # type: List[FileDOM]
     nets = []  # type: List[NetRecord]
+    routes = []  # type: List[NetRecord]
 
     print(r"Reading Files...", end="\r", flush=True, file=sys.stderr)
 
     net_types = rspl.network_parents
+    net_leafs = rspl.network_children
 
     for (i, dom) in enumerate(idx):
         if not dom.valid:
             print("E", end="", flush=True)
             continue
 
-        key, _ = dom.index
+        key = dom.index
         lookup.add(key)
         files.append(dom)
 
@@ -130,14 +133,23 @@ def build_index(
                 dom.get("status", default="ASSIGNED"),
             ))
 
+        if dom.schema in net_leafs:
+            routes.append(NetRecord(
+                dom.get(dom.primary_key).as_net6,
+                dom.get("policy", default="none"),
+                dom.get("status", default="none"),
+                True,
+            ))
+
         if i % 120 == 0:
             print(
                 f"Reading Files: files: {len(files)}" +
                 f" schemas: {len(schemas)} " +
                 f" networks: {len(nets)}",
+                f" routes: {len(routes)}",
                 end="\r", flush=True, file=sys.stderr)
 
-    return (lookup, schemas, files, nets)
+    return (lookup, schemas, files, nets, routes)
 
 
 def generate_links(
@@ -147,15 +159,12 @@ def generate_links(
         ) -> Generator[Tuple[str, str, str], None, None]:
     "print file links out to file"
     for (link, refs) in links.items():
-        d = dom.get(link)
-        if d is None:
-            continue
+        for d in dom.get_all(link):
+            found = False
+            for ref in refs:
+                if (ref, d.value) in lookup:
+                    found = True
+                    yield (link, ref, d)
 
-        found = False
-        for ref in refs:
-            if (ref, d.value) in lookup:
-                found = True
-                yield (link, ref, d)
-
-        if not found:
-            print(f"{dom.name} missing link {link} {d.value}")
+            if not found:
+                print(f"{dom.name} missing link {link} {d.value}")

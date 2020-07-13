@@ -6,7 +6,7 @@ from typing import Optional, List, Tuple, Dict, Set, TypeVar
 
 import log
 
-from .filedom import FileDOM, Row
+from .file import FileDOM, Row
 
 DOM = TypeVar("DOM", bound="FileDOM")
 STATE = TypeVar("STATE", bound="State")
