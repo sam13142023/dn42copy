@@ -1,0 +1,8 @@
+inetnum:            10.127.69.8 - 10.127.69.15
+cidr:               10.127.69.8/29
+netname:            santost12
+admin-c:            TYLER-NEONETWORK
+tech-c:             TYLER-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
