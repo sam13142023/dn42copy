@@ -6,7 +6,7 @@ import os.path
 from dataclasses import dataclass
 from typing import Dict, Set, Tuple, Optional, TypeVar
 
-from .filedom import FileDOM
+from .file import FileDOM
 
 
 C = TypeVar('C', bound='Config')
@@ -65,6 +65,11 @@ class Config:
     def network_parents(self) -> Set[str]:
         "return network parents"
         return set(self.network_owners.values())
+
+    @property
+    def network_children(self) -> Set[str]:
+        "return network children"
+        return set(self.network_owners.keys()) - self.network_parents
 
     @property
     def schema_dir(self) -> str:

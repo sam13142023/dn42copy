@@ -63,6 +63,7 @@ def run(args: List[str], env: Dict[str, str]) -> int:
         print(rpsl, file=f)
 
     print(f"Created: {rpsl.config_file}", file=sys.stderr)
+    env["RPSL_DIR"] = rpsl_dir
     rpsl_index.run(args, env)
 
     return 0
