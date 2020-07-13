@@ -1,0 +1,5 @@
+route6:             fd42:2092:2092::/48
+origin:             AS4242422092
+max-length:         48
+mnt-by:             P3BK4C-MNT
+source:             DN42

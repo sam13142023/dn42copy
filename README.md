@@ -1,3 +1,9 @@
+# THE REGISTRY HAS MOVED
+https://git.dn42.dev/dn42/registry
+
+UPDATE YOUR BOOKMARKS.
+THIS COPY WILL BE GOING AWAY SOON.
+
 # Tips for a successful Pull Request
 1. Bonus: Randomly generate IPv6 prefix for new allocations to avoid RFC4193 section 3.2. violation ([script](https://git.dn42.us/dn42/repo-utils/src/master/ulagen.py))
 2. Squash your commits -- Keep the changes simple to read.
