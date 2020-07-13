@@ -3,4 +3,5 @@ admin-c:            JASTRUP-DN42
 tech-c:             JASTRUP-DN42
 mnt-by:             BITBAKERS-MNT
 auth:               pgp-fingerprint 82380827805E7C1C0BAF37C28A1B645730313ECD
+auth:               PGPKEY-30313ECD
 source:             DN42

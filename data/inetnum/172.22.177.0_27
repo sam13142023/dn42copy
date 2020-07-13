@@ -1,0 +1,12 @@
+inetnum:            172.22.177.0 - 172.22.177.31
+cidr:               172.22.177.0/27
+netname:            REDPANDANETWORK-LEGACY
+org:                ORG-REDPANDANETWORK
+descr:              Red Panda Network - Legacy allocation
+admin-c:            REDP-DN42
+tech-c:             REDP-DN42
+nserver:            ns1.tyrasuki.dn42
+nserver:            ns2.tyrasuki.dn42
+status:             ASSIGNED PI
+mnt-by:             REDPANDA-MNT
+source:             DN42

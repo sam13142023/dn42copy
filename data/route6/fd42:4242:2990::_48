@@ -1,5 +1,0 @@
-route6:             fd42:4242:2990::/48
-origin:             AS4242422990
-max-length:         48
-mnt-by:             TAN-MNT
-source:             DN42
