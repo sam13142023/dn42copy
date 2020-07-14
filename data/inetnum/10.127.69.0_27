@@ -1,5 +1,5 @@
-inetnum:            10.127.69.0 - 10.127.69.7
-cidr:               10.127.69.0/29
+inetnum:            10.127.69.0 - 10.127.69.31
+cidr:               10.127.69.0/27
 netname:            santost12
 admin-c:            TYLER-NEONETWORK
 tech-c:             TYLER-NEONETWORK
