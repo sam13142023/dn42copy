@@ -1,10 +1,10 @@
-inetnum:            172.20.29.64 - 172.20.29.79
-netname:            HERTZ_IPV4_01
+inet6num:           fd5a:2663:7b48:0000:0000:0000:0000:0000 - fd5a:2663:7b48:ffff:ffff:ffff:ffff:ffff
+netname:            HERTZ_IPV6_01
 country:            CN
 admin-c:            HERTZ-DN42
 tech-c:             HERTZ-DN42
 mnt-by:             HERTZ-MNT
 nserver:            ns.hertz.dn42
 status:             ASSIGNED
-cidr:               172.20.29.64/28
+cidr:               fd5a:2663:7b48::/48
 source:             DN42
