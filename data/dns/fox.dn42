@@ -3,7 +3,8 @@ admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 descr:              Foxes
 mnt-by:             KOALA-MNT
-nserver:            h.delegation-servers.dn42 fda6:2474:15a4::54
+mnt-by:             HEXANET-MNT
+nserver:            h.delegation-servers.dn42
 ds-rdata:           28104 15 2 d58969c6a8371cb5a37e04071833319175669f4092e5f276482186489ee0a3c9
 ds-rdata:           28104 15 4 69fbf6cef10b4cb3df71d9e38865e6264502e94fb635f9f69aa5baf5f109360233a40aaa076836200d087368542956f1
 source:             DN42

@@ -3,7 +3,8 @@ admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 descr:              Rawr IMMA Drop Bear
 mnt-by:             KOALA-MNT
-nserver:            h.delegation-servers.dn42 fda6:2474:15a4::54
+mnt-by:             HEXANET-MNT
+nserver:            h.delegation-servers.dn42
 ds-rdata:           63771 15 2 6741668fcd31dcd9015d53edac53a50d77a509d986c876424db883895749a108
 ds-rdata:           63771 15 4 254572571e1f213a9df9d87f33564f7c10e7c138774398f3a7880d30134ae855d0a536a6c8ecfb1180e3afa7590917ee
 source:             DN42
