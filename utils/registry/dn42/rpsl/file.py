@@ -55,6 +55,15 @@ class Value:
         """Format as key name"""
         return self.value.replace("/", "_").replace(" ", "")
 
+    @property
+    def as_spec(self) -> List[str]:
+        "get the spec definition"
+        fields = self.fields
+        i = fields.index(">")
+        if i is None:
+            return []
+        return fields[i:]
+
 
 class Row(NamedTuple):
     """DOM Row"""
@@ -183,11 +192,10 @@ class FileDOM:
         return f"{self.namespace}.{self.schema}"
 
     @property
-    def index(self) -> Tuple[Tuple[str, str], Tuple[str, str]]:
+    def index(self) -> Tuple[str, str]:
         """generate index key/value pair"""
         name = self.src.split("/")[-1].replace("_", "/")
-        return ((f"{self.namespace}.{self.schema}", name),
-                (self.src, ",".join(self.mntner)))
+        return f"{self.namespace}.{self.schema}", name
 
     def __str__(self):
         length = 19

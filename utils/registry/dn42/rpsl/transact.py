@@ -2,7 +2,7 @@
 
 from typing import Sequence, List, Optional, Tuple, TypeVar
 
-from .filedom import FileDOM
+from .file import FileDOM
 from .schema import SchemaDOM
 
 DOM = TypeVar("DOM", bound="TransactDOM")

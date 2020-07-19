@@ -1,4 +1,4 @@
-*This repo is https://git.dn42.dev/dn42/registry  
+*This repo is https://git.dn42.dev/dn42/registry
 If you are using a different url, please update as soon as possible*
 
 # Guide for creating a Pull Request
@@ -12,9 +12,9 @@ git clone git@git.dn42.dev:dn42/registry.git
 2. **Create a branch for your changes**
 
 The name of the branch ***must*** follow a specific format:
-`<username>-YYYYMMDD/<name>`  
- - `<username>` is your gitea username.  
- - `YYYYMMDD` is the current date.  
+`<username>-YYYYMMDD/<name>`
+ - `<username>` is your gitea username.
+ - `YYYYMMDD` is the current date.
  - `<name>` is a descriptive name for your change.
 
 The branch must be created in the registry on the date described in the branch name, so create the branch and push it to the registry immediately.
@@ -50,7 +50,7 @@ git commit
 
 4. **Push your changes back to the registry**
 
-Remember to squash your commits and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).  
+Remember to squash your commits and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).
 It is also good practice to rebase your work on top of any other changes that may have happened on the master branch.
 
 ```sh
@@ -60,7 +60,7 @@ git fetch origin master
 
 # ensure you are using your new branch
 
-git checkout burble-20200704/mychange 
+git checkout burble-20200704/mychange
 
 # rebase your branch on top of the master
 #
@@ -84,17 +84,17 @@ In the gitea GUI, select your branch, check your changes again for a final time 
 
 If you are using SSH authentication, please post the full commit hash that you signed and SSH signature in to the PR comments.
 
-Your changes will now go through automatic checking and then manual review by the registry maintainers. 
+Your changes will now go through automatic checking and then manual review by the registry maintainers.
 
 6. **Making updates**
 
-If you need to change your PR to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again.  
-Please remember to do this for every update. 
+If you need to change your PR to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again.
+Please remember to do this for every update.
 
 
 # Gitea Usage
 
-The DN42 registry is a community resource for *your* benefit.  
+The DN42 registry is a community resource for *your* benefit.
 Whilst registered users are free to create and use their own repositories, please be considerate in your usage.
 
  - Repositories should be related to DN42
@@ -103,9 +103,9 @@ Whilst registered users are free to create and use their own repositories, pleas
 
 # Data Privacy
 
-Gitea and the DN42 registry contains personal information for users who are registered in DN42; this information is stored in Canada and viewable by any registered member. In addition, anyone with access to the repository is able to make their own copies of the registry, which they may then process or transfer in arbitrary ways. You must assume that all data entered in to the registry cannot be kept private and will be made publically available. 
+Gitea and the DN42 registry contains personal information for users who are registered in DN42; this information is stored in Canada and viewable by any registered member. In addition, anyone with access to the repository is able to make their own copies of the registry, which they may then process or transfer in arbitrary ways. You must assume that all data entered in to the registry cannot be kept private and will be made publically available.
 
-Any personal information stored in the registry is optional and voluntarily provided by you. Whilst the registry maintainers will make best efforts to update or delete personal data, you must accept that the technical restrictions of git may make this impossible and that your information will likely have been distributed beyond the control of the registry maintainers.  
+Any personal information stored in the registry is optional and voluntarily provided by you. Whilst the registry maintainers will make best efforts to update or delete personal data, you must accept that the technical restrictions of git may make this impossible and that your information will likely have been distributed beyond the control of the registry maintainers.
 
 If this is not acceptable for you, you must not upload your personal details to the registry.
 

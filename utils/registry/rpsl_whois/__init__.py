@@ -6,10 +6,10 @@ Usage: rpsl whois [text]
 """
 
 import sys
-from ipaddress import ip_network
-from typing import List, Dict, Optional
+from itertools import chain
+from typing import List, Dict, Optional, Set, Tuple
 
-from dn42.rpsl import RPSL, Config
+from dn42.rpsl import RPSL, Config, FileDOM, as_net6
 from dn42.utils import shift, exists
 
 
@@ -41,15 +41,46 @@ def run(args: List[str], env: Dict[str, str]) -> int:
 
     ip = None
     try:
-        ip = ip_network(text)
+        ip = as_net6(text)
     except ValueError:
         pass
 
-    if ip is not None:
-        print(f"Searching network {text}...")
-        return 0
+    principle = []  # type: List[FileDOM]
+    related_nets = []  # type: List[FileDOM]
+    related_idx = set()  # type: Set[Tuple[str, str]]
 
-    for dom in rpsl.find(text, schema):
+    if ip is not None:
+        print(f"# Searching network {text}...")
+        nets = list(rpsl.find_network(text))
+        last_net = nets[-1]
+        dom = rpsl.load_file(str(last_net.net))
+        principle.append(dom)
+        related_idx.add(dom.index)
+        ok, route = last_net.in_routes(ip)
+        if ok:
+            dom = rpsl.load_file(str(route))
+            principle.append(dom)
+            related_idx.add(dom.index)
+
+        for net in nets[:-1]:
+            dom = rpsl.load_file(str(net.net))
+            related_nets.append(dom)
+    else:
+        for dom in rpsl.find(text, schema):
+            principle.append(dom)
+            related_idx.add(dom.index)
+
+    print("# Found objects")
+    for dom in principle:
         print(dom)
 
+    if len(related_nets) > 0:
+        print("# Related Networks")
+        for dom in related_nets:
+            print(dom)
+
+    print("# Related objects")
+    lis = set(chain.from_iterable(rpsl.related(i) for i in related_idx))
+    for dom in rpsl.load_files(sorted(lis)):
+        print(dom)
     return 0

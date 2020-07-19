@@ -1,4 +1,4 @@
-route:              10.127.8.184/29
+route:              10.127.8.160/27
 origin:             AS4201270007
 max-length:         29
 admin-c:            STAPH-NEONETWORK

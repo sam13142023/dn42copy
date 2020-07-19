@@ -1,10 +1,10 @@
 "RPSL"
 
 import os.path
-from typing import Dict, List, Tuple, TypeVar, Optional, Generator
+from typing import Dict, List, Tuple, TypeVar, Optional, Sequence
 
-from .filedom import FileDOM
-from .nettree import NetTree
+from .file import FileDOM
+from .nettree import NetTree, NetList
 from .schema import SchemaDOM, State
 from .transact import TransactDOM
 from .config import Config
@@ -49,7 +49,7 @@ class RPSL:
 
     def append_index(self, dom: FileDOM):
         "append files to index"
-        key, value = dom.index
+        key, value = dom.index, (dom.src, ",".join(dom.mntner))
         self._lookup[key] = value
 
     def scan_files(self, files: List[FileDOM]) -> State:
@@ -67,24 +67,35 @@ class RPSL:
 
     def find(self,
              text: str,
-             schema: Optional[str] = None) -> Generator[FileDOM, None, None]:
+             schema: Optional[str] = None) -> Sequence[str]:
         "Find files that match text and schema"
         keys = [(schema, text)]
         if schema is None:
             keys = self._lookup.get(text, [])
 
+        return [self._files[i] for i in keys]
+
+    def related(
+            self,
+            key: Tuple[str, str]) -> Sequence[str]:
+        "Get files related to file"
         related = set()
+        for link in self.links(key):
+            key = (link[1], link[2])
+            related.add(key)
 
-        for i in keys:
-            yield self.load_file(self._files[i])
-            for link in self.links(i):
-                key = (link[1], link[2])
-                related.add(key)
+        return [self._files[i] for i in related]
 
-        for i in related:
-            if i in keys:
-                continue
-            yield self.load_file(self._files[i])
+    def find_network(self, ip: str) -> Sequence[NetList]:
+        """Find Network in index
+
+        Args:
+            ip (str): ip address
+
+        Returns:
+            Generator[NetList, None, None]: generator of netlists
+        """
+        return self._nettree.find_tree(ip)
 
     def load_file(self, fn: str) -> FileDOM:
         "load file"
@@ -95,6 +106,14 @@ class RPSL:
 
         return fo
 
+    def load_files(self, fns: Sequence[str]) -> Sequence[NetList]:
+        for fn in fns:
+            yield self.load_file(fn)
+
     def links(self, key: Tuple[str, str]) -> List[Tuple[str, str]]:
         "get links"
         return self._links.get(key, [])
+
+    def schema(self, name: str) -> SchemaDOM:
+        "get schema"
+        return self._schema.get(name)
