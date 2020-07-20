@@ -1,0 +1,7 @@
+domain:             sm.dn42
+admin-c:            SM-DN42
+tech-c:             SM-DN42
+mnt-by:             SM-MNT
+nserver:            ns1.sm.dn42 172.22.114.102
+nserver:            ns1.sm.dn42 fdaa:d0e:147f:1a00:d065:36ff:fefe:335f
+source:             DN42
