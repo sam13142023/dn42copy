@@ -5,7 +5,5 @@ admin-c:            KEVIN-DN42
 tech-c:             KEVIN-DN42
 mnt-by:             KEVIN-MNT
 country:            TW
-nserver:            ns1.yi.dn42
-nserver:            ns2.yi.dn42
 status:             ASSIGNED
 source:             DN42
