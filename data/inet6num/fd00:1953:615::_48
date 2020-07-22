@@ -5,7 +5,7 @@ descr:              Core IPv6 Network of Arg Network
 country:            CN
 admin-c:            ARG-DN42
 tech-c:             ARG-DN42
-org:                ORG-ARG
 mnt-by:             ARG-MNT
+nserver:            ns.nia.dn42
 status:             ASSIGNED
 source:             DN42

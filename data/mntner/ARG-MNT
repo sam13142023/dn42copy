@@ -4,4 +4,4 @@ admin-c:            ARG-DN42
 tech-c:             ARG-DN42
 mnt-by:             ARG-MNT
 source:             DN42
-auth:               pgp-fingerprint 8DC6E09C30441D5F
+auth:               pgp-fingerprint BDF14A59875B117B6FFCD55C8DC6E09C30441D5F
