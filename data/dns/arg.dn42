@@ -2,6 +2,5 @@ domain:             arg.dn42
 admin-c:            ARG-DN42
 tech-c:             ARG-DN42
 mnt-by:             ARG-MNT
-nserver:            ns.nia.dn42 172.20.158.129
-nserver:            ns.nia.dn42 fd00:1926:817:53::1
+nserver:            ns.nia.dn42
 source:             DN42
