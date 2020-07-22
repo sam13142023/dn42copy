@@ -1,6 +1,6 @@
-aut-num:            AS4201270008
-as-name:            MagicNeko Experimental Network
-descr:              MagicNeko Network
+inetnum:            10.127.237.0 - 10.127.237.255
+cidr:               10.127.237.0/24
+netname:            MagicNeko IX (Will not broadcast)
 admin-c:            ICECAT-NEONETWORK
 tech-c:             ICECAT-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
