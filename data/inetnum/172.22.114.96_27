@@ -4,6 +4,7 @@ country:            FI
 admin-c:            SM-DN42
 tech-c:             SM-DN42
 mnt-by:             SM-MNT
+nserver:            ns1.sm.dn42
 status:             ASSIGNED
 cidr:               172.22.114.96/27
 source:             DN42
