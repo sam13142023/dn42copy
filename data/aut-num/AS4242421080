@@ -3,4 +3,6 @@ as-name:            JLU5-AS
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42
 mnt-by:             JLU5-MNT
+remarks:            Open peering with Wireguard, see https://jlu5.com/dn42 for
+remarks:            details and contact info
 source:             DN42
