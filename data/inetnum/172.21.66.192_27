@@ -4,6 +4,7 @@ descr:              BitBakers Services
 country:            NO
 admin-c:            JASTRUP-DN42
 tech-c:             JASTRUP-DN42
+remarks:            #BITBAKERS#
 mnt-by:             BITBAKERS-MNT
 nserver:            ns1.bit.dn42
 nserver:            ns2.bit.dn42
