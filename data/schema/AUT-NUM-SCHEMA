@@ -19,5 +19,6 @@ key:                mp-default optional  multiple
 key:                geo-loc    optional  multiple > [lat-c] [long-c] [name]
 key:                remarks    optional  multiple
 key:                source     required  single    lookup=dn42.registry
+primary-match:      AS[0-9]+
 mnt-by:             DN42-MNT
 source:             DN42

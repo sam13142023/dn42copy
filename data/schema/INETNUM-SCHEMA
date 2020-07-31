@@ -18,6 +18,7 @@ key:                mnt-routes  optional  multiple  lookup=dn42.mntner
 key:                org         optional  single    lookup=dn42.organisation
 key:                remarks     optional  multiple
 key:                source      required  single    lookup=dn42.registry
+primary-match:      [0-9\.]+/[0-9]+
 network-owner:      inet6num
 network-owner:      inetnum
 mnt-by:             DN42-MNT

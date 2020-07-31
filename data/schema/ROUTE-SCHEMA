@@ -11,6 +11,7 @@ key:                remarks     optional  multiple
 key:                source      required  single    lookup=dn42.registry
 key:                pingable    optional  multiple
 key:                max-length  optional  single
+primary-match:      [0-9\.]+/[0-9]+
 network-owner:      inetnum
 mnt-by:             DN42-MNT
 source:             DN42

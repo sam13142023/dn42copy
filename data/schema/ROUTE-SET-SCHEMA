@@ -10,5 +10,6 @@ key:                admin-c      optional  multiple  lookup=dn42.person,dn42.rol
 key:                tech-c       optional  multiple  lookup=dn42.person,dn42.role
 key:                remarks      optional  multiple
 key:                source       required  single    lookup=dn42.registry
+primary-match:      RS-[0-9A-Z-]+
 mnt-by:             DN42-MNT
 source:             DN42

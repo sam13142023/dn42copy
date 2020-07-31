@@ -15,5 +15,6 @@ key:                fax-no          optional   multiple
 key:                address         optional   multiple
 key:                remarks         optional   multiple
 key:                source          required   single    lookup=dn42.registry
+primary-match:      [0-9A-Z-]+-DN42 [0-9A-Z-]+-NEONETWORK
 mnt-by:             DN42-MNT
 source:             DN42

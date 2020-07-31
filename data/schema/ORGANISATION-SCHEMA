@@ -18,5 +18,6 @@ key:                language       optional  multiple
 key:                remarks        optional  multiple
 key:                address        optional  multiple
 key:                source         required  single    lookup=dn42.registry
+primary-match:      ORG-[0-9A-Z-]+
 mnt-by:             DN42-MNT
 source:             DN42
