@@ -8,6 +8,6 @@ key:                admin-c    optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c     optional  multiple  lookup=dn42.person,dn42.role
 key:                remarks    optional  multiple
 key:                source     required  single    lookup=dn42.registry
-primary-match:      AS[0-9]{1,8}-AS[0-9]{1,8}
+primary-match:      AS[0-9]{1,11}-AS[0-9]{1,11}
 mnt-by:             DN42-MNT
 source:             DN42
