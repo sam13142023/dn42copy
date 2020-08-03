@@ -12,6 +12,17 @@ key:                country    optional   single
 key:                ds-rdata   optional   multiple
 key:                remarks    optional   multiple
 key:                source     required   single    lookup=dn42.registry
-primary-match:      [0-9a-z-]+.dn42 dn42 ff[0-9a-z]+ adm fmie hack helgo icvpn mueritz neo rzl 020
+primary-match:      [0-9a-z-]{1,58}.dn42
+                    dn42
+                    ff[0-9a-z]{0,8}
+                    adm
+                    fmie
+                    hack
+                    helgo
+                    icvpn
+                    mueritz
+                    neo
+                    rzl
+                    020
 mnt-by:             DN42-MNT
 source:             DN42

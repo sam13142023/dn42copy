@@ -11,6 +11,6 @@ key:                abuse-mailbox   optional   multiple
 key:                descr           optional   single
 key:                remarks         optional   multiple
 key:                source          required   single    lookup=dn42.registry
-primary-match:      [0-9A-Z-]+-DN42
+primary-match:      [0-9A-Z-]+-[0-9A-Z]+
 mnt-by:             DN42-MNT
 source:             DN42

@@ -7,5 +7,6 @@ key:                mnt-by     required  multiple  lookup=dn42.mntner
 key:                admin-c    optional  multiple  lookup=dn42.person,dn42.role
 key:                tech-c     optional  multiple  lookup=dn42.person,dn42.role
 key:                source     required  single    lookup=dn42.registry
+primary-match:      [A-Z0-9]+
 mnt-by:             DN42-MNT
 source:             DN42
