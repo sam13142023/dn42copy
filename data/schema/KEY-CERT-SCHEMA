@@ -12,6 +12,6 @@ key:                tech-c       optional  multiple  lookup=dn42.person,dn42.rol
 key:                mnt-by       required  multiple  lookup=dn42.mntner
 key:                source       required  single
 primary-match:      PGPKEY-[0-9A-F]{8}
-                    MTN-[0-9A-Z-]{1,58}
+primary-match:      MTN-[0-9A-Z-]{1,58}
 mnt-by:             DN42-MNT
 source:             DN42

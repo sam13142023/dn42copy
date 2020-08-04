@@ -14,7 +14,7 @@ key:                mnt-by           required multiple   lookup=dn42.mntner > [m
 key:                remarks          optional multiple > [text]...
 key:                source           required single     lookup=dn42.registry
 key:                network-owner    optional multiple > [parent-schema]
-key:                primary-match    optional single   > [match]...
+key:                primary-match    required multiple > [match]
 key:                key              required multiple > [key-name]
                     {required|optional|recommend|deprecate}
                     {single|multiple} {primary|} {schema|}
