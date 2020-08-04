@@ -1,0 +1,13 @@
+inetnum:            172.31.88.0 - 172.31.88.63
+netname:            VICTORY-IPV4
+remarks:            Peer with me at 22981096@qq.com
+descr:              Peer with me at 22981096@qq.com
+country:            CN
+admin-c:            VICTORY-DN42
+tech-c:             VICTORY-DN42
+mnt-by:             VICTORY-MNT
+nserver:            ns1.victory.dn42
+nserver:            ns2.victory.dn42
+status:             ASSIGNED
+cidr:               172.31.88.0/26
+source:             DN42
