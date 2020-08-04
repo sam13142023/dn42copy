@@ -1,4 +1,4 @@
-inetnum:            172.31.2.128 - 172.31.2.191
+inetnum:            172.20.191.160 - 172.20.191.191
 netname:            VICTORY-IPV4
 remarks:            Peer with me at 22981096@qq.com
 descr:              Peer with me at 22981096@qq.com
@@ -9,5 +9,5 @@ mnt-by:             VICTORY-MNT
 nserver:            ns1.victory.dn42
 nserver:            ns2.victory.dn42
 status:             ASSIGNED
-cidr:               172.31.2.128/26
+cidr:               172.20.191.160/27
 source:             DN42
