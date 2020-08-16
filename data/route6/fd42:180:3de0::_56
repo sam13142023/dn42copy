@@ -1,4 +1,5 @@
-route6:             fd42:180:3de0::/48
+route6:             fd42:180:3de0::/56
+descr:              DN42 DNS Masters
 remarks:            JRB0001-MNT
 origin:             AS4242420119
 remarks:            YAMAKAJA-MNT
