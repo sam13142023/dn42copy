@@ -1,4 +1,4 @@
-inet6num:           fd4f:4e49:4f4e:0000:0000:0000:0000:0000 - ffd4f:4e49:4f4e:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd4f:4e49:4f4e:0000:0000:0000:0000:0000 - fd4f:4e49:4f4e:ffff:ffff:ffff:ffff:ffff
 cidr:               fd4f:4e49:4f4e::/48
 netname:            ONION-NET-V3
 descr:              Tor-Onion Proxy Service V3
