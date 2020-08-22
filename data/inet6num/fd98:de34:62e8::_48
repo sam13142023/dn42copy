@@ -1,4 +1,4 @@
-inet6num:           fd98:de34:62e8:0000:0000:0000:0000:0000 -  fd98:de34:62e8:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd98:de34:62e8:0000:0000:0000:0000:0000 - fd98:de34:62e8:ffff:ffff:ffff:ffff:ffff
 cidr:               fd98:de34:62e8::/48
 netname:            pomoke-network
 descr:              inet6 of pomoke
