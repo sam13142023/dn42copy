@@ -1,5 +1,5 @@
 inet6num:           fd49:05b5:b737:0000:0000:0000:0000:0000 - fd49:05b5:b737:ffff:ffff:ffff:ffff:ffff
-cidr:               fd49:05b5:b737::/48
+cidr:               fd49:5b5:b737::/48
 netname:            TRUEWINTER-NETWORK
 descr:              Network of TRUEWINER
 country:            ZA
