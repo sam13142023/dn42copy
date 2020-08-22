@@ -1,0 +1,9 @@
+aut-num:            AS4242422135
+as-name:            ONION-NET-AS
+admin-c:            THEQ-DN42
+descr:              Tor-Onion Proxy Service
+remarks:            Virtual AS for Multihoming
+remarks:            If you self hosting a onion proxy contact me
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+source:             DN42
