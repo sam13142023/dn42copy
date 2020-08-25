@@ -1,9 +1,0 @@
-domain:             tyrasuki.dn42
-admin-c:            REDP-DN42
-tech-c:             REDP-DN42
-nserver:            ns1.tyrasuki.dn42 172.22.177.31
-nserver:            ns1.tyrasuki.dn42 fd02:685f:edac:ffff::
-nserver:            ns2.tyrasuki.dn42 172.22.177.30
-nserver:            ns2.tyrasuki.dn42 fd02:685f:edac:eeee::
-mnt-by:             REDPANDA-MNT
-source:             DN42

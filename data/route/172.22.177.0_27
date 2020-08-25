@@ -1,4 +1,0 @@
-route:              172.22.177.0/27
-origin:             AS49752
-mnt-by:             REDPANDA-MNT
-source:             DN42
