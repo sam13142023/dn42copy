@@ -1,4 +1,4 @@
-inetnum:            172.22.105.144 - 172.22.105.159
+inetnum:            172.21.105.144 - 172.21.105.159
 netname:            RVALUE-IPV4
 remarks:            IPv4 block 1 for KOISHI-AS
 descr:              IPv4 block 1 for KOISHI-AS
@@ -7,5 +7,5 @@ admin-c:            RVALUE-DN42
 tech-c:             RVALUE-DN42
 mnt-by:             RVALUE-MNT
 status:             ASSIGNED
-cidr:               172.22.105.144/28
+cidr:               172.21.105.144/28
 source:             DN42
