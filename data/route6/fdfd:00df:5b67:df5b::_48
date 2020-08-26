@@ -2,6 +2,4 @@ route6:             fdfd:00df:5b67:df5b::/48
 origin:             AS4242423347
 max-length:         56
 mnt-by:             SM-MNT
-nserver:            ns1.sm.dn42
-nserver:            ns2.sm.dn42
 source:             DN42
