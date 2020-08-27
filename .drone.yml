@@ -1,0 +1,12 @@
+---
+kind: pipeline
+type: exec
+name: env_test
+
+steps:
+ - name: env_script
+   commands:
+    - /usr/local/bin/env.sh
+   when:
+     event: pull
+
