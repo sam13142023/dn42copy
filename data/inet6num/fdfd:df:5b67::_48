@@ -1,0 +1,10 @@
+inet6num:           fdfd:00df:5b67:0000:0000:0000:0000:0000 - fdfd:00df:5b67:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:df:5b67::/48
+netname:            FI-TurkuHacklab-DN42-1
+country:            FI
+org:                ORG-TKUHACKLAB
+mnt-by:             SM-MNT
+nserver:            ns1.sm.dn42
+nserver:            ns2.sm.dn42
+status:             ASSIGNED
+source:             DN42

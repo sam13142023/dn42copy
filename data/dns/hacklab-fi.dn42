@@ -1,0 +1,5 @@
+domain:             hacklab-fi.dn42
+nserver:            ns1.sm.dn42
+nserver:            ns2.sm.dn42
+mnt-by:             SM-MNT
+source:             DN42
