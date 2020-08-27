@@ -4,9 +4,10 @@ type: exec
 name: env_test
 
 steps:
- - name: env_script
-   commands:
-    - /usr/local/bin/env.sh
-   when:
-     event: pull
+- name: env_script
+  commands:
+  - /usr/local/bin/env.sh
 
+trigger:
+  event:
+  - pull_request
