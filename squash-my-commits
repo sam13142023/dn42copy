@@ -1,0 +1,57 @@
+#!/bin/sh
+##########################################################################
+#
+# This script will automatically bring the local git branch up to date
+# with any changes in the main registry repository and will then squash
+# the local changes together in to a single commit
+#
+# use './squash-my-commits -S' to sign the result with your pgp key
+#
+##########################################################################
+do_sign="$1"
+
+# check for dn42registry remote, and add if missing
+git remote -v | grep dn42registry > /dev/null 2>&1
+if [ "$?" -ne 0 ]
+then
+    reg='git@git.dn42.dev:dn42/registry.git'
+    echo "Adding dn42registry remote: $reg"
+    git remote add dn42registry "$reg"
+fi
+
+# fail on errors from here onwards
+set -e
+
+# ensure the local branch is up to date 
+echo "Rebasing local changes against the registry master"
+git fetch dn42registry master
+git rebase dn42registry/master
+
+# find number of local commits
+count=$(git rev-list --count HEAD ^dn42registry/master)
+
+# if there are less then 2 local commits, there's nothing to do
+if [ "$count" -lt 2 ]
+then
+    echo "$count local commits found, no squash is required"
+    exit 0
+fi
+
+echo "Squashing $count commits ..."
+
+# construct a new comment based on previous commits
+comment="squashed commit:
+
+$(git log --oneline HEAD ^dn42registry/master)"
+
+# and finally squash
+git reset --soft dn42registry/master
+git commit $do_sign -m "$comment"
+
+echo "---"
+git log -n 1 --show-signature
+echo "---"
+
+echo "Remember to push your changes using: git push --force"
+##########################################################################
+# end of file
