@@ -3,11 +3,13 @@ If you are using a different url, please update as soon as possible*
 
 # Guide for creating a Pull Request
 
-1. **Create a local clone of the registry**
+1. **Create a local clone of the registry repository**
 
 ```sh
 git clone git@git.dn42.dev:dn42/registry.git
 ```
+
+*You do not need to fork the registry repository. New users are provisioned as collaborators, allowing everyone permission to create new branches in the main registry repository. Note that this process can take up to 10 minutes after logging in as a new user.*
 
 2. **Create a branch for your changes**
 
@@ -29,8 +31,6 @@ git checkout -b foo-20200704/mychange
 git push --set-upstream origin foo-20200704/mychange
 ```
 
-*Note that it can take up to 10 minutes after registering as a new user before you get permission to create the new branch*
-
 3. **Make your changes on your new branch**
 
 See the [getting started](https://dn42.dev/howto/Getting-Started) guide in the [Wiki](https://dn42.dev) for more information.
@@ -50,8 +50,17 @@ git commit
 
 4. **Push your changes back to the registry**
 
-Remember to squash your commits and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).  
+You must squash multiple commits together and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).  
 It is also good practice to rebase your work on top of any other changes that may have happened on the master branch.
+
+The registry contains a script that will automatically rebase and squash your commits:
+
+```sh
+./squash-my-commits
+git push --force
+```
+
+or you can do it manually:
 
 ```sh
 # make sure your local copy of the master is up to date
@@ -88,14 +97,14 @@ Your changes will now go through automatic checking and then manual review by th
 
 6. **Making updates**
 
-If you need to change your PR to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again.  
-Please remember to do this for every update. 
+If you need to make changes to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again. **You must do this for every update**.
 
+Do not close and re-open a new pull request, any changes you make on your branch will be automatically updated in the PR. Creating a new PR loses all the history and makes tracking changes harder.
 
 # Gitea Usage
 
-The DN42 registry is a community resource for *your* benefit.  
-Whilst registered users are free to create and use their own repositories, please be considerate in your usage.
+The DN42 registry is a community resource for *your* benefit.
+Registered users are free to create and use their own repositories and use the Drone CI tools, but please be considerate in your usage.
 
  - Repositories should be related to DN42
  - Do not create tools that make regular, automated, push changes to repositories unless agreed with the registry maintainers
