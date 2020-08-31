@@ -1,8 +1,7 @@
 inetnum:            172.23.147.0 - 172.23.147.255
 netname:            NET-CHIANTOS-DN42
 descr:              Chiantos Main IP Block
-country:            FR
-nserver:            haruhi.chiantos.dn42
+nserver:            ns0.chiantos.dn42
 admin-c:            KANKAN-DN42
 tech-c:             KANKAN-DN42
 mnt-by:             KANKAN-MNT
