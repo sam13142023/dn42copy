@@ -3,6 +3,7 @@ cidr:               fd42:1145:1419::/48
 netname:            YURA-IPV6
 admin-c:            YURA-DN42
 tech-c:             YURA-DN42
+nserver:            ns1.moecast.dn42
 mnt-by:             MOE-MNT
 status:             ASSIGNED
 source:             DN42

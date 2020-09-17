@@ -4,10 +4,15 @@ descr:              Yura Network
 admin-c:            YURA-DN42
 tech-c:             YURA-DN42
 mnt-by:             MOE-MNT
-remarks:            +-----------------------------------------+
-remarks:            |               Yura Network              |
-remarks:            +-----------------------------------------+
-remarks:            | Open for Peering                        |
-remarks:            | Contact: dn4242@etlgr.com               |
-remarks:            +-----------------------------------------+
+remarks:            +-------------------------------------------+
+remarks:            |                Yura Network               |
+remarks:            +-------------------------------------------+
+remarks:            | Open for Peering                          |
+remarks:            |                                           |
+remarks:            | We have pop in West America               |
+remarks:            |                East Asia and Europe       |
+remarks:            |                                           |
+remarks:            | Contact: dn4242@etlgr.com                 |
+remarks:            | Telegram: @noc2464                        |
+remarks:            +-------------------------------------------+
 source:             DN42
