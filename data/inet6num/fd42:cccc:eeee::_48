@@ -1,0 +1,9 @@
+inet6num:           fd42:cccc:eeee:0000:0000:0000:0000:0000 - fd42:cccc:eeee:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:cccc:eeee::/48
+netname:            NET-TRIHOP-001
+country:            US
+admin-c:            TRIHOP-DN42
+tech-c:             TRIHOP-DN42
+mnt-by:             TRIHOP-MNT
+status:             ASSIGNED
+source:             DN42

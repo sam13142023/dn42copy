@@ -1,0 +1,5 @@
+route6:             fd42:cccc:eeee::/48
+descr:              NET-TRIHOP-001
+origin:             AS4242420750
+mnt-by:             TRIHOP-MNT
+source:             DN42
