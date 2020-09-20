@@ -1,10 +1,8 @@
-inetnum:            10.127.255.53 - 10.127.255.53
-cidr:               10.127.255.53/32
-netname:            JerryXiao-Anycast4
+inetnum:            10.127.8.64 - 10.127.8.127
+cidr:               10.127.8.64/26
+netname:            JerryXiao-School
 admin-c:            JERRYXIAO-NEONETWORK
-admin-c:            STAPH-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
-tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK

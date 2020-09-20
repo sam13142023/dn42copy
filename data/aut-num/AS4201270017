@@ -1,6 +1,6 @@
 aut-num:            AS4201270017
 as-name:            Cain's Home Network
-descr:              NextMoe GUser
+remarks:            NextMoe GUser
 admin-c:            CAINSAKURA-NEONETWORK
 tech-c:             CAINSAKURA-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

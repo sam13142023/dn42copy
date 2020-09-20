@@ -1,10 +1,8 @@
-inetnum:            10.127.255.53 - 10.127.255.53
-cidr:               10.127.255.53/32
-netname:            JerryXiao-Anycast4
+route:              10.127.8.64/26
+max-length:         29
+origin:             AS4201270006
 admin-c:            JERRYXIAO-NEONETWORK
-admin-c:            STAPH-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
-tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK
