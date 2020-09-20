@@ -1,6 +1,6 @@
 route:              10.127.7.0/24
-origin:             AS4201270007
 max-length:         29
+origin:             AS4201270007
 admin-c:            STAPH-NEONETWORK
 tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

@@ -1,6 +1,7 @@
 route:              10.127.124.0/29
-origin:             AS209557
 max-length:         29
+origin:             AS209557
+origin:             AS4242421214
 admin-c:            STEVEYI-NEONETWORK
 tech-c:             STEVEYI-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

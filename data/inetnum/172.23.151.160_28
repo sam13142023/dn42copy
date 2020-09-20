@@ -1,4 +1,4 @@
-inetnum:            172.23.151.160 -172.23.151.175
+inetnum:            172.23.151.160 - 172.23.151.175
 cidr:               172.23.151.160/28
 netname:            RAITO-NETWORK
 admin-c:            RAITO-DN42
