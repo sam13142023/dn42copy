@@ -1,6 +1,23 @@
 aut-num:            AS4242422092
-as-name:            AS for P3BK4C Network
+as-name:            P3BK4C DN42 Network
 admin-c:            P3BK4C-DN42
 tech-c:             P3BK4C-DN42
 mnt-by:             P3BK4C-MNT
+remarks:            -----------------------------------------------------
+remarks:            |                P3BK4C DN42 NETWORK                |
+remarks:            -----------------------------------------------------
+remarks:            |                                                   |
+remarks:            |  PEERING: OPEN (feel free to contact me)          |
+remarks:            |                                                   |
+remarks:            |  E-mail.........: dn42@pebkac.gr                  |
+remarks:            |  IRC............: tomkap                          |
+remarks:            |  Info...........: https://dn42.pebkac.gr/         |
+remarks:            |  Looking Glass..: https://dn42.pebkac.gr/lg/      |
+remarks:            |                                                   |
+remarks:            |---------------------------------------------------|
+remarks:            |                 Peering Locations                 |
+remarks:            |---------------------------------------------------|
+remarks:            |  EU: Athens, Greece                               |
+remarks:            |                                                   |
+remarks:            -----------------------------------------------------
 source:             DN42
