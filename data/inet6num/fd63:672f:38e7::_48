@@ -1,10 +1,12 @@
 inet6num:           fd63:672f:38e7:0000:0000:0000:0000:0000 - fd63:672f:38e7:ffff:ffff:ffff:ffff:ffff
 cidr:               fd63:672f:38e7::/48
-netname:            P3BK4C-NETWORK
-descr:              Network of P3BK4C
+netname:            NET-P3BK4C-V6-000
+descr:              P3BK4C IPv6 Network
 country:            GR
 admin-c:            P3BK4C-DN42
 tech-c:             P3BK4C-DN42
 mnt-by:             P3BK4C-MNT
+nserver:            ns1.pebkac.dn42
+nserver:            ns2.pebkac.dn42
 status:             ASSIGNED
 source:             DN42
