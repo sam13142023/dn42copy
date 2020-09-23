@@ -2,9 +2,7 @@ inet6num:           fd10:0127:ffff:0053:0000:0000:0000:0000 - fd10:0127:ffff:005
 cidr:               fd10:127:ffff:53::/64
 netname:            JerryXiao-Anycast6
 admin-c:            JERRYXIAO-NEONETWORK
-admin-c:            STAPH-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
-tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK
