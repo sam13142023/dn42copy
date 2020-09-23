@@ -2,13 +2,10 @@ route:              10.127.255.2/32
 max-length:         32
 origin:             AS4201270000
 origin:             AS4201270006
-origin:             AS4201270007
 admin-c:            JERRYXIAO-NEONETWORK
 admin-c:            NEO-CHEN-NEONETWORK
-admin-c:            STAPH-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
 tech-c:             NEO-CHEN-NEONETWORK
-tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK

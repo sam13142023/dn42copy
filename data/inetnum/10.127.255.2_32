@@ -3,10 +3,8 @@ cidr:               10.127.255.2/32
 netname:            ucbvax
 admin-c:            JERRYXIAO-NEONETWORK
 admin-c:            NEO-CHEN-NEONETWORK
-admin-c:            STAPH-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
 tech-c:             NEO-CHEN-NEONETWORK
-tech-c:             STAPH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK
