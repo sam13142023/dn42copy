@@ -1,0 +1,8 @@
+inetnum:            172.20.149.16 - 172.20.149.31
+cidr:               172.20.149.16/28
+netname:            VILLISEK-NETWORK
+admin-c:            VILLISEK-DN42
+tech-c:             VILLISEK-DN42
+mnt-by:             VILLISEK-MNT
+status:             ASSIGNED
+source:             DN42
