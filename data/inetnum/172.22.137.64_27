@@ -1,4 +1,4 @@
-inetnum:            172.22.137.64 -172.22.137.95
+inetnum:            172.22.137.64 - 172.22.137.95
 cidr:               172.22.137.64/27
 netname:            PCO-NETWORK
 org:                ORG-PCO
