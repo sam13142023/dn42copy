@@ -6,5 +6,6 @@ admin-c:            FL-DN42
 tech-c:             FL-DN42
 mnt-by:             FL-MNT
 status:             ASSIGNED
+nserver:            ns.fl.dn42
 cidr:               172.22.105.64/27
 source:             DN42
