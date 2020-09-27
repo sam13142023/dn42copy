@@ -1,6 +1,6 @@
-inetnum:            10.127.255.53 - 10.127.255.53
-cidr:               10.127.255.53/32
-netname:            anycast-auth-4
+inetnum:            10.127.255.54 - 10.127.255.54
+cidr:               10.127.255.54/32
+netname:            anycast-recur-4
 admin-c:            JERRYXIAO-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
