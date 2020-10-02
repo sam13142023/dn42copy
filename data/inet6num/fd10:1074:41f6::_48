@@ -7,5 +7,5 @@ tech-c:             ALLO-DN42
 status:             ASSIGNED
 nserver:            ns.allo.dn42
 cidr:               fd10:1074:41f6::/48
-mnt-by:             DUMMY-MNT
+mnt-by:             ALLO-MNT
 source:             DN42
