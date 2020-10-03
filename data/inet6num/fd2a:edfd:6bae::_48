@@ -1,4 +1,4 @@
-inet6num:           fd2a:edfd:6bae:0000:0000:0000:0000:0000-fd2a:edfd:6bae:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd2a:edfd:6bae:0000:0000:0000:0000:0000 - fd2a:edfd:6bae:ffff:ffff:ffff:ffff:ffff
 cidr:               fd2a:edfd:6bae::/48
 netname:            NET-TRIHOP-001
 country:            US
