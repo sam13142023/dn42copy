@@ -1,6 +1,6 @@
-inet6num:           fd29:612d:9dd1:0000:0000:0000:0000:0000 - fd29:612d:9dd1:ffff:ffff:ffff:ffff:ffff
-cidr:               fd29:612d:9dd1::/48
-netname:            TOPSARUN-IPV6-NETWORK
+inetnum:            172.20.42.160 - 172.20.42.191
+cidr:               172.20.42.160/27
+netname:            TOPSARUN-IPV4-NETWORK
 descr:              Peer with me at sarun.hub@gmail.com
 country:            TH
 admin-c:            TOPSARUN-DN42
