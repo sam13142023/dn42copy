@@ -17,21 +17,29 @@ remarks:
 remarks:            +-----------------------------------------+
 remarks:            |             Niantic Network             |
 remarks:            +-----------------------------------------+
+remarks:            | Niantic Network is maintained by        |
+remarks:            |  Strategic Explorations (AS207268).     |
+remarks:            | We also welcome peers in clearnet.      |
+remarks:            +-----------------------------------------+
 remarks:            | Open for Peering                        |
 remarks:            | Peering Location at:                    |
 remarks:            |  - New York City                        |
 remarks:            |  - Los Angeles                          |
+remarks:            |  - Vancouver                            |
 remarks:            |  - London                               |
 remarks:            |  - Singapore                            |
 remarks:            |  - Hong Kong                            |
 remarks:            |  - Romania                              |
 remarks:            |  - Tokyo                                |
-remarks:            |  - France (Unstable)                    |
 remarks:            |  - Korea (Unstable)                     |
+remarks:            |  - Luxembourg (Unstable)                |
+remarks:            |  - Taiwan (Unstable)                    |
+remarks:            |  - Seattle (Unstable)                   |
+remarks:            |  - Fremont (Unstable)                   |
 remarks:            |  - China (See AS4242421332)             |
 remarks:            +-----------------------------------------+
-remarks:            | Contact: noc@nia.ac.cn                  |
-remarks:            | Peer: https://net.nia.ac.cn/dn42-peer   |
+remarks:            | Contact: dn42@strexp.net                |
+remarks:            | Knowledge Base: https://kb.strexp.net   |
 remarks:            | Looking Glass: https://lg.nia.dn42      |
 remarks:            | Anycast Whois: whois.nia.dn42           |
 remarks:            | Network Info: https://info.nia.dn42     |
