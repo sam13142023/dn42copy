@@ -7,4 +7,5 @@ admin-c:            FRALINSKY-DN42
 tech-c:             FRALINSKY-DN42
 mnt-by:             FRALINSKY-MNT
 status:             ASSIGNED
+nserver:            ns.fralinsky.dn42
 source:             DN42
