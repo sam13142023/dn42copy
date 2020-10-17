@@ -1,0 +1,7 @@
+domain:             xnoe.dn42
+admin-c:            XNOE-DN42
+tech-c:             XNOE-DN42
+mnt-by:             XNOE-MNT
+nserver:            rin.ns.xnoe.dn42	172.20.224.193
+nserver:            rin.ns.xnoe.dn42	fd9d:d085:ba76::2
+source:             DN42
