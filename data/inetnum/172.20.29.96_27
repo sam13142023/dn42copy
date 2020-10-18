@@ -1,5 +1,5 @@
-inetnum:            172.20.29.96 - 172.20.29.111
-cidr:               172.20.29.96/28
+inetnum:            172.20.29.96 - 172.20.29.127
+cidr:               172.20.29.96/27
 netname:            WP140Z-DN42
 admin-c:            WP140Z-DN42
 tech-c:             WP140Z-DN42
