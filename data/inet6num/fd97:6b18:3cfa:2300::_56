@@ -1,0 +1,9 @@
+inet6num:           fd97:6b18:3cfa:2300:0000:0000:0000:0000 - fd97:6b18:3cfa:23ff:ffff:ffff:ffff:ffff
+cidr:               fd97:6b18:3cfa:2300::/56
+netname:            NET-SERVIDORESLOCOS
+country:            MX
+admin-c:            DCHAVEZ-DN42
+tech-c:             DCHAVEZ-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42

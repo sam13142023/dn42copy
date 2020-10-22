@@ -1,0 +1,9 @@
+inetnum:            172.20.177.96 - 172.20.177.127
+netname:            NET-SERVIDORESLOCOS
+country:            MX
+admin-c:            DCHAVEZ-DN42
+tech-c:             DCHAVEZ-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+cidr:               172.20.177.96/27
+source:             DN42
