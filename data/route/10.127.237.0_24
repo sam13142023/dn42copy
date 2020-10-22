@@ -1,8 +1,8 @@
 route:              10.127.237.0/24
 max-length:         29
 origin:             AS4201270008
-admin-c:            ICECAT-NEONETWORK
-tech-c:             ICECAT-NEONETWORK
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK
