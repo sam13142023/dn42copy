@@ -1,4 +1,4 @@
-inet6num:           fdce:0d01:12e5:0000:0000:0000:0000:0000-fdce:0d01:12e5:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdce:0d01:12e5:0000:0000:0000:0000:0000 - fdce:0d01:12e5:ffff:ffff:ffff:ffff:ffff
 cidr:               fdce:d01:12e5::/48
 netname:            W4XZR-1-NETWORK
 descr:              Network of W4XZR-1
