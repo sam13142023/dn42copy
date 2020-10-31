@@ -1,9 +1,9 @@
 person:             Jan Brand
-remarks:            Peering via Wireguard jan+dn42-peering@brand-web.net
-contact:            twitter: @uffsalot
+contact:            dn42@brand-web.net
 www:                https://dn42.brand-web.net
-www:                https://www.biocrafting.net
-e-mail:             jan+dn42@brand-web.net
+www:                https://brand-web.net
+www:                https://biocrafting.net
+e-mail:             dn42@brand-web.net
 nic-hdl:            UFFSALOT-DN42
 mnt-by:             UFFSALOT-MNT
 source:             DN42
