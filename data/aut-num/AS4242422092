@@ -3,21 +3,24 @@ as-name:            P3BK4C DN42 Network
 admin-c:            P3BK4C-DN42
 tech-c:             P3BK4C-DN42
 mnt-by:             P3BK4C-MNT
-remarks:            -----------------------------------------------------
-remarks:            |                P3BK4C DN42 NETWORK                |
-remarks:            -----------------------------------------------------
-remarks:            |                                                   |
-remarks:            |  PEERING: OPEN (feel free to contact me)          |
-remarks:            |                                                   |
-remarks:            |  E-mail.........: dn42@pebkac.gr                  |
-remarks:            |  IRC............: tomkap                          |
-remarks:            |  Info...........: https://dn42.pebkac.gr/         |
-remarks:            |  Looking Glass..: https://dn42.pebkac.gr/lg/      |
-remarks:            |                                                   |
-remarks:            |---------------------------------------------------|
-remarks:            |                 Peering Locations                 |
-remarks:            |---------------------------------------------------|
-remarks:            |  EU: Athens, Greece                               |
-remarks:            |                                                   |
-remarks:            -----------------------------------------------------
+remarks:            +---------------------------------------------+
+remarks:            |     ____ _____ ____  _  __    _    ____     |
+remarks:            |    |  _ \___ /| __ )| |/ /   / \  / ___|    |
+remarks:            |    | |_) ||_ \|  _ \| ' /   / _ \| |        |
+remarks:            |    |  __/___) | |_) | . \  / ___ \ |___     |
+remarks:            |    |_|  |____/|____/|_|\_\/_/   \_\____|    |
+remarks:            |    ******************* DN42 Network ****    |
+remarks:            +---------------------------------------------+
+remarks:            |                                             |
+remarks:            | E-mail.........: dn42@pebkac.gr             |
+remarks:            | IRC............: tomkap                     |
+remarks:            | Info...........: https://dn42.pebkac.gr/    |
+remarks:            | Looking Glass..: https://dn42.pebkac.gr/lg/ |
+remarks:            |                                             |
+remarks:            |---------------------------------------------|
+remarks:            |            - Peering Locations -            |
+remarks:            |---------------------------------------------|
+remarks:            | Athens, GR / Amsterdam, NL / Paris, FR      |
+remarks:            | New York (NJ), USA / ...more TBA            |
+remarks:            +---------------------------------------------+
 source:             DN42
