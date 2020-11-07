@@ -3,5 +3,5 @@ admin-c:            MARAUN-DN42
 tech-c:             MARAUN-DN42
 mnt-by:             MARAUN-MNT
 nserver:            ns1.maraun.dn42 172.20.12.194
-nserver:            ns1.maraun.dn42 fdb3:4cc3:3bfb:7830::2
+nserver:            ns1.maraun.dn42 fdb3:4cc3:3bfb::194
 source:             DN42
