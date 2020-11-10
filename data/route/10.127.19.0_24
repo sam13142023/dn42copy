@@ -1,6 +1,6 @@
-inetnum:            10.127.19.96 - 10.127.19.127
-cidr:               10.127.19.96/27
-netname:            cupkappu
+route:              10.127.19.0/24
+max-length:         29
+origin:             AS4201270019
 admin-c:            CUPKAPPU-NEONETWORK
 tech-c:             CUPKAPPU-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
