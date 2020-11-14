@@ -2,8 +2,8 @@ inet6num:           fda6:2474:15a4:0000:0000:0000:0000:0000 - fda6:2474:15a4:fff
 cidr:               fda6:2474:15a4::/48
 netname:            HEXANET-NETWORK
 descr:              HEXANET Network
-admin-c:            HEXANET-DN42
-tech-c:             HEXANET-DN42
+admin-c:            HEXAWOLF-DN42
+tech-c:             FOXCPP-DN42
 org:                ORG-HEXANET
 country:            UA
 nserver:            ns1.hex.dn42
