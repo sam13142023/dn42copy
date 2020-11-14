@@ -1,8 +1,8 @@
 domain:             acme.dn42
 admin-c:            ZOTAN-DN42
-admin-c:            HEXANET-DN42
+admin-c:            HEXAWOLF-DN42
 tech-c:             ZOTAN-DN42
-tech-c:             HEXANET-DN42
+tech-c:             FOXCPP-DN42
 mnt-by:             ZOTAN-MNT
 mnt-by:             HEXANET-MNT
 nserver:            ns1.zotan.dn42
