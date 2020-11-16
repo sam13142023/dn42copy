@@ -1,0 +1,7 @@
+domain:             lorkep.dn42
+admin-c:            AASG-DN42
+tech-c:             AASG-DN42
+mnt-by:             AASG-MNT
+nserver:            behemoth.lorkep.dn42 fde0:9750:6d9d:a440:b894:f02c:e9b4:e8dc
+ds-rdata:           56730 15 2 8E291366DE947D110E027D2D11FEB9871193C0369456AA51B475D07EF9DC9EB7
+source:             DN42
