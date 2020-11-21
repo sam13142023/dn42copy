@@ -4,7 +4,6 @@ country:            CA
 admin-c:            FLAMESRUNNER-DN42
 tech-c:             FLAMESRUNNER-DN42
 mnt-by:             FLAMESRUNNER-MNT
-nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               172.20.131.32/27
 source:             DN42
