@@ -6,6 +6,6 @@ country:            NL
 admin-c:            SPARCIE-DN42
 tech-c:             SPARCIE-DN42
 mnt-by:             SPARCIE-MNT
-nserver:            ns.SPARCIENET.dn42
+nserver:            ns.sparcienet.dn42
 status:             ALLOCATED
 source:             DN42

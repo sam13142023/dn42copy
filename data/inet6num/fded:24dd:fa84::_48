@@ -5,7 +5,7 @@ country:            AT
 admin-c:            DRATHIR-DN42
 tech-c:             DRATHIR-DN42
 mnt-by:             DRATHIR-MNT
-nserver:            NS1.DRATHIR.DN42
+nserver:            ns1.drathir.dn42
 status:             ALLOCATED
 cidr:               fded:24dd:fa84::/48
 source:             DN42
