@@ -5,7 +5,7 @@ country:            VG
 admin-c:            GOTTESHAND-DN42
 tech-c:             GOTTESHAND-DN42
 mnt-by:             SPRINGFIELD-MNT
-nserver:            NS3.WELTERDE.DN42
+nserver:            ns3.welterde.dn42
 status:             ASSIGNED
 cidr:               172.22.241.0/24
 source:             DN42

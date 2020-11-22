@@ -4,7 +4,6 @@ country:            CA
 admin-c:            MADYODA-DN42
 tech-c:             MADYODA-DN42
 mnt-by:             PHYSTRAX-MNT
-nserver:            dummy.dn42
 status:             ASSIGNED
 cidr:               172.20.246.0/27
 source:             DN42

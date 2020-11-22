@@ -5,7 +5,6 @@ country:            US
 admin-c:            TLV-DN42
 tech-c:             TLV-DN42
 mnt-by:             TLV-MNT
-nserver:            DUMMY.DN42
 status:             ALLOCATED
 cidr:               fd0e:3ef5:d69e::/48
 source:             DN42
