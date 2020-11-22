@@ -3,7 +3,8 @@ cidr:               fde0:9750:6d9d::/48
 netname:            LORKEP
 descr:              LORKEP Long-Range Interconnect
 country:            BR
-nserver:            behemoth.lorkep.dn42
+nserver:            ns1.lorkep.dn42
+nserver:            ns2.lorkep.dn42
 admin-c:            AASG-DN42
 tech-c:             AASG-DN42
 mnt-by:             AASG-MNT
