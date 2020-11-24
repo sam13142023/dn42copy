@@ -1,6 +1,6 @@
-route:              10.127.69.0/27
-max-length:         29
-origin:             AS4201270009
+inetnum:            10.127.39.0 - 10.127.39.31
+cidr:               10.127.39.0/27
+netname:            santost12
 admin-c:            TYLER-NEONETWORK
 tech-c:             TYLER-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
