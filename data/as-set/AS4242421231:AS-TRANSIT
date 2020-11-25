@@ -4,8 +4,6 @@ tech-c:             INRIN-DN42
 mnt-by:             CAESIA-MNT
 remarks:            KIOUBIT-MNT
 members:            AS4242423914
-remarks:            TCHEKDA-MNT
-members:            AS4242421722
 remarks:            ZOTAN-MNT
 members:            AS4242422341
 remarks:            WXMN-MNT
@@ -22,8 +20,6 @@ remarks:            MGL-MNT
 members:            AS4242420181
 remarks:            HEXANET-MNT
 members:            AS4242423078
-remarks:            ALANYHQ-MNT
-members:            AS4242420916
 remarks:            DUMMY-MNT
 members:            AS64739
 source:             DN42
