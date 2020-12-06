@@ -1,4 +1,4 @@
-inetnum:            172.22.137.128-172.22.137.159
+inetnum:            172.22.137.128 - 172.22.137.159
 cidr:               172.22.137.128/27
 netname:            CARAK-NET
 descr:              carak.fr DN42 experimental network
