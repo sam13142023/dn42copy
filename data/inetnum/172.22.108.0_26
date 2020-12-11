@@ -1,7 +1,7 @@
-inetnum:            172.20.229.112 - 172.20.229.127
-cidr:               172.20.229.112/28
-netname:            JLU5-NET
-descr:              jlu5.dn42 backbone network
+inetnum:            172.22.108.0 - 172.22.108.63
+cidr:               172.22.108.0/26
+netname:            JLU5-NET-2
+descr:              jlu5.dn42 services and R&D network
 country:            CA
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42
