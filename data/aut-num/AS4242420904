@@ -1,5 +1,12 @@
 aut-num:            AS4242420904
-as-name:            Y525
+as-name:            AS-Y525
+remarks:            ************************************************************
+remarks:            * Peering info:                                            *
+remarks:            *   Open for peering, visit https://dn42.y525.gq for info! *
+remarks:            *   Tunnel Protocol: Wireguard                             *
+remarks:            *   BGP tool: bird2                                        *
+remarks:            *   IPv6 only                                              *
+remarks:            ************************************************************
 admin-c:            Y525-DN42
 tech-c:             Y525-DN42
 mnt-by:             Y525-MNT
