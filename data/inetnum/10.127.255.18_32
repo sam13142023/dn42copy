@@ -1,6 +1,6 @@
 inetnum:            10.127.255.18 - 10.127.255.18
 cidr:               10.127.255.18/32
-netname:            Video encoding node(Anycast)
+netname:            icecat-video
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
