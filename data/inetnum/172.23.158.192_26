@@ -5,6 +5,5 @@ admin-c:            MARSHY-DN42
 tech-c:             MARSHY-DN42
 mnt-by:             MARSHY-MNT
 nserver:            ns1.marshy.dn42
-nserver:            ns2.marshy.dn42
 status:             ASSIGNED
 source:             DN42
