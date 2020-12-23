@@ -1,0 +1,10 @@
+inet6num:           fdde:c0de:0925:0000:0000:0000:0000:0000 - fdde:c0de:0925:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:c0de:925::/48
+netname:            YUETAU-NETWORK
+descr:              Network of YuetAu
+country:            HK
+admin-c:            YUETAU-DN42
+tech-c:             YUETAU-DN42
+mnt-by:             YUETAU-MNT
+status:             ASSIGNED
+source:             DN42
