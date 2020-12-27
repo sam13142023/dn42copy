@@ -1,0 +1,9 @@
+inetnum:            172.20.233.128 - 172.20.233.159
+cidr:               172.20.233.128/27
+netname:            NICHOLASCW-NETWORK
+admin-c:            NICHOLASCW-DN42
+tech-c:             NICHOLASCW-DN42
+mnt-by:             NICHOLASCW-MNT
+status:             ASSIGNED
+nserver:            ns1.nicholascw.dn42
+source:             DN42
