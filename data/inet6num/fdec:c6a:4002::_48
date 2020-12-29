@@ -8,4 +8,5 @@ mnt-by:             ARNIE97-MNT
 status:             ASSIGNED
 nserver:            ns1.moerail.dn42
 nserver:            ns2.moerail.dn42
+nserver:            ns3.moerail.dn42
 source:             DN42
