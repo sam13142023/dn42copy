@@ -1,6 +1,8 @@
 inetnum:            172.20.233.128 - 172.20.233.159
 cidr:               172.20.233.128/27
 netname:            NICHOLASCW-NETWORK
+descr:              Core Network of NICHOLASCW
+country:            US
 admin-c:            NICHOLASCW-DN42
 tech-c:             NICHOLASCW-DN42
 mnt-by:             NICHOLASCW-MNT
