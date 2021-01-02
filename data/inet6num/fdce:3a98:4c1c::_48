@@ -6,5 +6,6 @@ country:            DE
 admin-c:            CPERRIN-DN42
 tech-c:             CPERRIN-DN42
 mnt-by:             CPERRIN-MNT
+nserver:            ns01.cperrin.dn42
 status:             ASSIGNED
 source:             DN42
