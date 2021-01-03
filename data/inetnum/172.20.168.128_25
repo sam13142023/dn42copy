@@ -1,6 +1,8 @@
 inetnum:            172.20.168.128 - 172.20.168.255
 cidr:               172.20.168.128/25
-netname:            Niantic Network CN
+netname:            NIA-NET-CN
+descr:              Niantic Network CN
+country:            CN
 org:                ORG-NIA
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42
