@@ -6,7 +6,7 @@ country:            HK
 admin-c:            YUETAU-DN42
 tech-c:             YUETAU-DN42
 mnt-by:             YUETAU-MNT
-nserver:            ns1.yuetau.net
-nserver:            ns2.yuetau.net
+nserver:            ns1.yuetau.dn42
+nserver:            ns2.yuetau.dn42
 status:             ASSIGNED
 source:             DN42
