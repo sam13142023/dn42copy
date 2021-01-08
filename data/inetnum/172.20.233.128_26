@@ -1,5 +1,5 @@
-inetnum:            172.20.233.128 - 172.20.233.159
-cidr:               172.20.233.128/27
+inetnum:            172.20.233.128 - 172.20.233.191
+cidr:               172.20.233.128/26
 netname:            NICHOLASCW-NETWORK
 descr:              Core Network of NICHOLASCW
 country:            US
