@@ -1,6 +1,7 @@
-aut-num:            AS4242422833
-as-name:            Xnoe AS
+domain:             xnopyt.dn42
 admin-c:            XNOE-DN42
 tech-c:             XNOE-DN42
 mnt-by:             XNOE-MNT
+nserver:            rin.ns.xnoe.dn42
+nserver:            rin.ns.xnoe.dn42
 source:             DN42
