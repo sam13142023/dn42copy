@@ -2,6 +2,6 @@ domain:             androw.dn42
 admin-c:            ANDROW-DN42
 tech-c:             ANDROW-DN42
 mnt-by:             ANDROW-MNT
-nserver:            ns1.gatuno.dn42 172.22.122.9
-nserver:            ns1.gatuno.dn42 fd42:470:f0ef::9
+nserver:            ns2.androw.dn42 172.23.186.34
+nserver:            ns2.androw.dn42 fd45:1b93:dddf::2
 source:             DN42
