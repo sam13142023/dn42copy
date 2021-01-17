@@ -5,6 +5,8 @@ country:            CA
 admin-c:            YUUTAW-DN42
 tech-c:             YUUTAW-DN42
 mnt-by:             YUUTAW-MNT
+nserver:            ns1.yuuta.dn42
+nserver:            ns2.yuuta.dn42
 status:             ASSIGNED
 cidr:               fd3f:a1f1:54ed::/48
 source:             DN42
