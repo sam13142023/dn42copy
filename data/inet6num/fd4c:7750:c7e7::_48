@@ -7,4 +7,6 @@ admin-c:            EASTBOUND-DN42
 tech-c:             EASTBOUND-DN42
 mnt-by:             EASTBOUND-MNT
 status:             ASSIGNED
+nserver:            ns1.eb.dn42
+nserver:            ns2.eb.dn42
 source:             DN42
