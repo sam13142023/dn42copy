@@ -1,4 +1,4 @@
-route:              172.23.105.0/27
+route:              172.23.105.0/26
 descr:              Peer with me at peering.yuuta.moe
 origin:             AS4242422980
 mnt-by:             YUUTAW-MNT
