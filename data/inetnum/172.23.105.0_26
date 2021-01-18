@@ -1,4 +1,4 @@
-inetnum:            172.23.105.0 - 172.23.105.31
+inetnum:            172.23.105.0 - 172.23.105.63
 netname:            YUUTAW-IPV4
 remarks:            Peer with me at peering.yuuta.moe
 descr:              Peer with me at peering.yuuta.moe
@@ -9,5 +9,5 @@ mnt-by:             YUUTAW-MNT
 nserver:            ns1.yuuta.dn42
 nserver:            ns2.yuuta.dn42
 status:             ASSIGNED
-cidr:               172.23.105.0/27
+cidr:               172.23.105.0/26
 source:             DN42
