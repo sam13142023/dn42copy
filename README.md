@@ -9,7 +9,7 @@ If you are using a different url, please update as soon as possible*
 git clone git@git.dn42.dev:dn42/registry.git
 ```
 
-*You do not need to fork the registry repository. New users are provisioned as collaborators, allowing everyone permission to create new branches in the main registry repository. Note that this process can take up to 10 minutes after logging in as a new user.*
+*You do not need to fork the registry repository. New users are provisioned as collaborators, allowing everyone permission to create new branches in the main registry repository. Note that this process is triggered on first login as a new user and can take up to 10 minutes. If you get permission denied trying to create a branch then log out and back in to your gitea account then retry after a few minutes.*
 
 2. **Create a branch for your changes**
 
