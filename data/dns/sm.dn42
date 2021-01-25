@@ -1,9 +1,0 @@
-domain:             sm.dn42
-admin-c:            SM-DN42
-tech-c:             SM-DN42
-mnt-by:             SM-MNT
-nserver:            ns1.sm.dn42 172.22.114.124
-nserver:            ns1.sm.dn42 fdaa:d0e:147f:1a00::53
-nserver:            ns2.sm.dn42 172.22.114.125
-nserver:            ns2.sm.dn42 fdaa:d0e:147f:2a00::53
-source:             DN42
