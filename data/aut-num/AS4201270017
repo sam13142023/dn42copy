@@ -1,8 +1,0 @@
-aut-num:            AS4201270017
-as-name:            Mcnetwork (MagicNeko other networks)
-remarks:            Transition the Mcnetwork community network into an intermediate ASN of the BGP network
-admin-c:            ICECAT-NEONETWORK
-tech-c:             ICECAT-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

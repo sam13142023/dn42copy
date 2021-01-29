@@ -1,8 +1,0 @@
-inetnum:            10.127.235.0 - 10.127.235.255
-cidr:               10.127.235.0/24
-netname:            Icecat Global Tunnel Address (OpenVPN)
-admin-c:            MAGICNEKO-NEONETWORK
-tech-c:             MAGICNEKO-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

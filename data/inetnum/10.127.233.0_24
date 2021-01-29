@@ -1,6 +1,6 @@
 inetnum:            10.127.233.0 - 10.127.233.255
 cidr:               10.127.233.0/24
-netname:            Icecat Residential network occupation address
+netname:            MagicNeko-CN office node(name:liqingge)
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
