@@ -7,4 +7,5 @@ admin-c:            RHM-DN42
 tech-c:             RHM-DN42
 mnt-by:             RHM-MNT
 status:             ASSIGNED
+nserver:            ns.rhmn.dn42
 source:             DN42
