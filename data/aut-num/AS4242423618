@@ -1,15 +1,13 @@
 aut-num:            AS4242423618
-as-name:            Jerry AS
-descr:              Jerry Networks
+as-name:            Jerry-AS
+descr:              Jerry Network
 remarks:            +-------------------------------------------------+
-remarks:            |                  Jerry Networks                 |
+remarks:            |                  Jerry Network                  |
 remarks:            +-------------------------------------------------+
-remarks:            | * Nodes for peering:                            |
-remarks:            |   - Tokyo, Japan           (tyo1.jp.jerry.dn42) |
-remarks:            |   - Shanghai, China        (sh1.cn.jerry.dn42)  |
-remarks:            |   - HongKong, China        (hk2.cn.jerry.dn42)  |
-remarks:            |   - Amsterdam, Netherlands (ams1.nl.jerry.dn42) |
-remarks:            |   - San Jose, CA, USA      (sjc1.us.jerry.dn42) |
+remarks:            | * Peering                                       |
+remarks:            |   - New peers are always welcome                |
+remarks:            |   - Node information and peering policy at      |
+remarks:            |   - https://jerryxiao.cc/dn42                   |
 remarks:            +-------------------------------------------------+
 remarks:            | * Feel free to contact me:                      |
 remarks:            |   - IRC:   JerryXiao@hackint                    |
