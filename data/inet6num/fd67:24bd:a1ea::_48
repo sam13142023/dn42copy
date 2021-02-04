@@ -6,5 +6,6 @@ country:            DE
 admin-c:            LITSCHI-DN42
 tech-c:             LITSCHI-DN42
 mnt-by:             LITSCHI-MNT
+nserver:            ns1.litschi.dn42
 status:             ASSIGNED
 source:             DN42
