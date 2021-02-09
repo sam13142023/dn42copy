@@ -7,6 +7,6 @@ country:            RO
 admin-c:            04DCO-DN42
 tech-c:             04DCO-DN42
 mnt-by:             04DCO-MNT
-nserver:            ns0.04dco.d42
+nserver:            ns0.04dco.dn42
 status:             ASSIGNED
 source:             DN42
