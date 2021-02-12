@@ -1,0 +1,7 @@
+domain:             jot23.dn42
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+nserver:            coen.jot23.dn42 fddd:fdef:2ea1:8000::1
+nserver:            boholt.jot23.dn42 fddd:fdef:2ea1::1
+source:             DN42
