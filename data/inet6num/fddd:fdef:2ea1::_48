@@ -6,4 +6,6 @@ admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT
 status:             ASSIGNED
+nserver:            coen.jot23.dn42
+nserver:            boholt.jot23.dn42
 source:             DN42
