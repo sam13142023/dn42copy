@@ -1,6 +1,6 @@
 inet6num:           fddd:fdef:2ea1:0000:0000:0000:0000:0000 - fddd:fdef:2ea1:ffff:ffff:ffff:ffff:ffff
 cidr:               fddd:fdef:2ea1::/48
-netname:            JOT23-NET-6
+netname:            JOT23-HOME-NET
 country:            PL
 admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
