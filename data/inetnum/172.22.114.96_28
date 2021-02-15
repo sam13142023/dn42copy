@@ -1,0 +1,8 @@
+inetnum:            172.22.114.96 - 172.22.114.111
+cidr:               172.22.114.96/28
+netname:            MAXNET-R
+admin-c:            MAXC-DN42
+tech-c:             MAXC-DN42
+mnt-by:             MAXC-MNT
+status:             ASSIGNED
+source:             DN42
