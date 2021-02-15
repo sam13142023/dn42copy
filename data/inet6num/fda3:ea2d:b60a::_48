@@ -1,0 +1,10 @@
+inet6num:           fda3:ea2d:b60a:0000:0000:0000:0000:0000 - fda3:ea2d:b60a:ffff:ffff:ffff:ffff:ffff
+cidr:               fda3:ea2d:b60a::/48
+netname:            MAXNET-R
+descr:              MAXNET Research Network
+country:            HK
+admin-c:            MAXC-DN42
+tech-c:             MAXC-DN42
+mnt-by:             MAXC-MNT
+status:             ASSIGNED
+source:             DN42
