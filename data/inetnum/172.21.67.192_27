@@ -5,7 +5,6 @@ country:            GR
 admin-c:            P3BK4C-DN42
 tech-c:             P3BK4C-DN42
 mnt-by:             P3BK4C-MNT
-nserver:            ns1.pebkac.dn42
-nserver:            ns2.pebkac.dn42
+nserver:            dns.pebkac.dn42
 status:             ASSIGNED
 source:             DN42
