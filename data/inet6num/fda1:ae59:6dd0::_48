@@ -1,0 +1,11 @@
+inet6num:           fda1:ae59:6dd0:0000:0000:0000:0000:0000 - fda1:ae59:6dd0:ffff:ffff:ffff:ffff:ffff
+cidr:               fda1:ae59:6dd0::/48
+netname:            FIXMIX-NET-42V6A
+descr:              fixmix Network DN42 IPv6 A
+org:                ORG-FIXMIX
+country:            GB
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+status:             ASSIGNED
+source:             DN42
