@@ -1,0 +1,11 @@
+inetnum:            172.22.66.32 - 172.22.66.63
+cidr:               172.22.66.32/27
+netname:            FIXMIX-NET-42V4A
+descr:              fixmix Network DN42 IPv4 A
+org:                ORG-FIXMIX
+country:            GB
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+status:             ASSIGNED
+source:             DN42

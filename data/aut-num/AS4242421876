@@ -1,0 +1,8 @@
+aut-num:            AS4242421876
+as-name:            FIXMIX-DN42-AS
+descr:              fixmix AS on DN42
+org:                ORG-FIXMIX
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+source:             DN42
