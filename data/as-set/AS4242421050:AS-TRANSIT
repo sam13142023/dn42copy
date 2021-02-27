@@ -39,6 +39,8 @@ remarks:            MOECAST-MNT
 members:            AS4242420604
 remarks:            EASTBOUND-MNT
 members:            AS4242422633
+remarks:            LSS233-MNT
+members:            AS4242421826
 admin-c:            NAPSTERBATER-DN42
 tech-c:             NAPSTERBATER-DN42
 mnt-by:             NAPSTERBATER-MNT
