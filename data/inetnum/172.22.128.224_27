@@ -7,5 +7,6 @@ admin-c:            MBG18-DN42
 tech-c:             MBG18-DN42
 mnt-by:             NUXIS-MNT
 org:                ORG-NUXIS
+nserver:            ns.nuxis.dn42
 status:             ASSIGNED
 source:             DN42
