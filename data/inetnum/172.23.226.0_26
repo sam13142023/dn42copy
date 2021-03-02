@@ -1,5 +1,5 @@
-inetnum:            172.23.226.0 - 172.23.226.31
-cidr:               172.23.226.0/27
+inetnum:            172.23.226.0 - 172.23.226.63
+cidr:               172.23.226.0/26
 netname:            ILEMONRAIN-DN42-NET
 country:            CN
 descr:              iLemonrain DN42 Network
