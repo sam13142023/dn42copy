@@ -1,7 +1,31 @@
 aut-num:            AS4242421876
-as-name:            FIXMIX-DN42-AS
-descr:              fixmix AS on DN42
+as-name:            FIXMIX-AS-42
+descr:              fixmix Network on DN42
 org:                ORG-FIXMIX
+mp-import:          afi any.unicast from AS-FIXMIX-42:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-FIXMIX-42:AS-TRANSIT announce ANY
+remarks:            +------------------------------------------+
+remarks:            |          fixmix Network on DN42          |
+remarks:            +------------------------------------------+
+remarks:            | * Open Peering Policy                    |
+remarks:            | * Nodes Available for Peering:           |
+remarks:            |   - New York City, United States         |
+remarks:            |   - Los Angeles, United States           |
+remarks:            |   - Chicago, United States               |
+remarks:            |   - Nuremberg, Germany                   |
+remarks:            |   - Amsterdam, Netherlands               |
+remarks:            |   - Moscow, Russia                       |
+remarks:            |   - Tokyo, Japan                         |
+remarks:            |   - Singapore                            |
+remarks:            |   - Hong Kong, China                     |
+remarks:            |   - Shanghai, China                      |
+remarks:            | * Info Page: https://dn42.fixmix.tech    |
+remarks:            | * Looking Glass: https://lg.fixmix.tech  |
+remarks:            | * Contact:                               |
+remarks:            |   - Email: network@fixmix.tech           |
+remarks:            |   - IRC: p0tat05 @ hackint               |
+remarks:            |   - Telegram: @p0tat05                   |
+remarks:            +------------------------------------------+
 admin-c:            DL-DN42
 tech-c:             FIXMIX-NO-DN42
 mnt-by:             DL-MNT
