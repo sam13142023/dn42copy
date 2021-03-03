@@ -3,27 +3,27 @@ as-name:            Yura
 descr:              Yura Network
 admin-c:            YURA-DN42
 tech-c:             YURA-DN42
-remarks:            +--------------------------------------------+
-remarks:            |                Yura Network                |
-remarks:            +--------------------------------------------+
-remarks:            | Open for Peering                           |
-remarks:            |                                            |
-remarks:            | We have pop in West & East America         |
-remarks:            |                East Asia and Europe        |
-remarks:            |                                            |
-remarks:            | Availability Zones: Las Vegas, Tokyo,      |
-remarks:            |            Vancouver, Hong Kong, Taiwan,   |
-remarks:            |            Frankfurt, New York             |
-remarks:            |                                            |
-remarks:            |                                            |
-remarks:            | Recommended connection methods: Wireguard, |
-remarks:            |              GRE, Internet IXP, DN42 IXP,  |
-remarks:            |          VM Providers' LAN, Cross Connect  |
-remarks:            |                                            |
-remarks:            |                                            |
-remarks:            | Contact: dn4242@etlgr.com                  |
-remarks:            | Telegram: @noc2464                         |
-remarks:            +--------------------------------------------+
+remarks:            +----------------------------------------------+
+remarks:            |                 Yura Network                 |
+remarks:            +----------------------------------------------+
+remarks:            |  Open for Peering                            |
+remarks:            |                                              |
+remarks:            |  We have pop in West & East America          |
+remarks:            |                 East Asia and Europe         |
+remarks:            |                                              |
+remarks:            |  Availability Zones: Las Vegas, Tokyo,       |
+remarks:            |             Vancouver, Hong Kong, Taiwan,    |
+remarks:            |             Frankfurt, New York, Amsterdam   |
+remarks:            |                                              |
+remarks:            |                                              |
+remarks:            |  Recommended connection methods: Wireguard,  |
+remarks:            |               GRE, Internet IXP, DN42 IXP,   |
+remarks:            |           VM Providers' LAN, Cross Connect   |
+remarks:            |                                              |
+remarks:            |                                              |
+remarks:            |  Contact: dn4242@etlgr.com                   |
+remarks:            |  Telegram: @noc2464 (preferred)              |
+remarks:            +----------------------------------------------+
 remarks:            
 remarks:            Please feel free to contact us at any time.
 remarks:            
@@ -62,7 +62,7 @@ remarks:            1.1.2 Originated Routes
 remarks:            
 remarks:            Where we originate the route.
 remarks:            
-remarks:            Region                                  Community
+remarks:            Region                                      Community
 remarks:            -----------------------------------------------------
 remarks:            Europe                                       64511:41
 remarks:            North America (East Coast)                   64511:42
@@ -104,11 +104,33 @@ remarks:            2. Control communities
 remarks:            
 remarks:            Communities customers can use to control the behavior of our network
 remarks:            
-remarks:            2.1 Manipulate advertisements by region:
+remarks:            2.1 Set local preference:
+remarks:            
+remarks:            Change local preference
+remarks:            
+remarks:            2.1.1 Global:
+remarks:            
+remarks:            Set local preference in all the regions:
+remarks:            
+remarks:            Description                                         LPREF Large Community
+remarks:            ----------------------------------------------------------------------------
+remarks:            -99 below no region community peers in all regions     1  4242422464:510:1
+remarks:            -90 below no region community peers in all regions    10  4242422464:510:10
+remarks:            -20 below no region community peers in all regions    80  4242422464:510:80
+remarks:            Equal to no region community peers in all regions    100  4242422464:510:100
+remarks:            
+remarks:            Please ONLY set local preference community for the route originated by you
+remarks:            Please DO NOT send others routes with these communities
+remarks:            
+remarks:            Description                                 LPREF  Community
+remarks:            -------------------------------------------------------------
+remarks:            Graceful BGP Session Shutdown (RFC8326)         0  65535:0
+remarks:            
+remarks:            2.2 Manipulate advertisements by region:
 remarks:            
 remarks:            Manipulate advertisements to peers by region
 remarks:            
-remarks:            2.1 Regionally:
+remarks:            2.2.1 Regionally:
 remarks:            
 remarks:            Manipulate advertisements on BGP sessions with peers in one of the region
 remarks:            
@@ -119,7 +141,7 @@ remarks:            Set 1 x prepend in Region XX                        42424224
 remarks:            Set 2 x prepends in Region XX                       4242422464:502:XX
 remarks:            Set 3 x prepends in Region XX                       4242422464:503:XX
 remarks:            
-remarks:            2.1.1 Example: North America peers only
+remarks:            2.2.1.1 Example: North America peers only
 remarks:            
 remarks:            Manipulate advertisements on BGP sessions with peers in North America (East Coast)
 remarks:            
@@ -130,7 +152,7 @@ remarks:            Set 1 x prepend in North America (East Coast)       42424224
 remarks:            Set 2 x prepends in North America (East Coast)      4242422464:502:42
 remarks:            Set 3 x prepends in North America (East Coast)      4242422464:503:42
 remarks:            
-remarks:            2.2 Manipulate advertisements by peer:
+remarks:            2.3 Manipulate advertisements by peer:
 remarks:            
 remarks:            Manipulate advertisements on BGP sessions with the peer in all regions
 remarks:            
@@ -143,23 +165,23 @@ remarks:            Set 1 x prepend to AS64496       4242422464:601:64496
 remarks:            Set 2 x prepends to AS64496      4242422464:602:64496
 remarks:            Set 3 x prepends to AS64496      4242422464:603:64496
 remarks:            
-remarks:            2.3 Blackholing:
+remarks:            2.4 Blackholing:
 remarks:            
 remarks:            Drop all packets destined to the prefix (/32 IPv4 and /128 IPv6 only)
 remarks:            
-remarks:            2.3.1 Global:
+remarks:            2.4.1 Global:
 remarks:            
 remarks:            Drop all packets in all the regions
 remarks:            
 remarks:            Description                                    Community
 remarks:            --------------------------------------------------------
-remarks:            Blackhole                                     65535:666
+remarks:            Blackhole                                      65535:666
 remarks:            
-remarks:            2.4 Do not export to region
+remarks:            2.5 Do not export to region
 remarks:            
 remarks:            Do not export prefixes to specificed regions
 remarks:            
-remarks:            2.4.1 All other regions
+remarks:            2.5.1 All other regions
 remarks:            
 remarks:            Do not export prefixes to other regions than that customer is connected to
 remarks:            
@@ -167,7 +189,7 @@ remarks:            Description                              Large Community
 remarks:            ---------------------------------------------------------
 remarks:            Do not export to other regions           4242422464:539:0
 remarks:            
-remarks:            2.4.2 All other countries
+remarks:            2.5.2 All other countries
 remarks:            
 remarks:            Do not export prefixes to other countries than that customer is connected (selected locations only)
 remarks:            
