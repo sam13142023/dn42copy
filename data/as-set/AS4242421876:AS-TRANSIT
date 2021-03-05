@@ -1,8 +1,14 @@
 as-set:             AS4242421876:AS-TRANSIT
 mbrs-by-ref:        DL-MNT
 remarks:            -----------------------------
+members:            AS64738
+remarks:            welterde
+remarks:            -----------------------------
 members:            AS76190
 remarks:            TBSPACE
+remarks:            -----------------------------
+members:            AS4242420119
+remarks:            JRB0001
 remarks:            -----------------------------
 members:            AS4242420197
 remarks:            n0emis
@@ -12,6 +18,9 @@ remarks:            iLemonrain DN42 Network
 remarks:            -----------------------------
 members:            AS4242420604
 remarks:            Moecast Network
+remarks:            -----------------------------
+members:            AS4242420780
+remarks:            UFFSALOT
 remarks:            -----------------------------
 members:            AS4242420827
 remarks:            LORKEP
@@ -30,6 +39,9 @@ remarks:            JLU5
 remarks:            -----------------------------
 members:            AS4242421288
 remarks:            NICHOLASCW Network
+remarks:            -----------------------------
+members:            AS4242421331
+remarks:            Niantic Network
 remarks:            -----------------------------
 members:            AS4242421488
 remarks:            KOALA
