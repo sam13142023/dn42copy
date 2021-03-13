@@ -1,5 +1,5 @@
-inetnum:            172.20.149.64 - 172.20.149.71
-cidr:               172.20.149.64/29
+inetnum:            172.20.149.64 - 172.20.149.95
+cidr:               172.20.149.64/27
 netname:            SZCZOT3K-DN42
 country:            PL
 admin-c:            SZCZOT3K-DN42
