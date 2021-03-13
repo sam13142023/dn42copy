@@ -1,0 +1,5 @@
+route6:             fdf7:e7a3:4888::/48
+origin:             AS4242420335
+max-length:         48
+mnt-by:             LARRY-MNT
+source:             DN42
