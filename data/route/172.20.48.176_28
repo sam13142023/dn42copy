@@ -1,0 +1,4 @@
+route:              172.20.48.176/28
+origin:             AS4242420406
+mnt-by:             KEVER-MNT
+source:             DN42
