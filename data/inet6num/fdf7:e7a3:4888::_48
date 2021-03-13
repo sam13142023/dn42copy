@@ -1,0 +1,10 @@
+inet6num:           fdf7:e7a3:4888:0000:0000:0000:0000:0000 - fdf7:e7a3:4888:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf7:e7a3:4888::/48
+netname:            LARRY-NETWORK
+descr:              Network v6 of LARRY
+country:            RU
+admin-c:            LARRY-DN42
+tech-c:             LARRY-DN42
+mnt-by:             LARRY-MNT
+status:             ASSIGNED
+source:             DN42
