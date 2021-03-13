@@ -1,0 +1,10 @@
+inetnum:            172.20.48.176 - 172.20.48.191
+cidr:               172.20.48.176/28
+netname:            KEVER-NETWORK
+admin-c:            KEVER-DN42
+tech-c:             KEVER-DN42
+mnt-by:             KEVER-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.kever.dn42
+nserver:            ns2.kever.dn42

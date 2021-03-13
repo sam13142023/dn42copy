@@ -1,0 +1,10 @@
+inet6num:           fdb8:90b8:5ba6:9d0d:0000:0000:0000:0000 - fdb8:90b8:5ba6:9d0d:ffff:ffff:ffff:ffff
+cidr:               fdb8:90b8:5ba6:9d0d::/64
+netname:            KEVER-NETWORK
+descr:              Network of KEVER
+country:            NL
+admin-c:            KEVER-DN42
+tech-c:             KEVER-DN42
+mnt-by:             KEVER-MNT
+status:             ASSIGNED
+source:             DN42

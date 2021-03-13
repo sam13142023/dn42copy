@@ -1,0 +1,5 @@
+route6:             fdb8:90b8:5ba6:9d0d::/64
+origin:             AS4242420406
+max-length:         64
+mnt-by:             KEVER-MNT
+source:             DN42

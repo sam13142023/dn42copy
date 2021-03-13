@@ -1,0 +1,9 @@
+domain:             kever.dn42
+admin-c:            KEVER-DN42
+tech-c:             KEVER-DN42
+mnt-by:             KEVER-MNT
+nserver:            ns1.kever.dn42 172.20.48.180
+nserver:            ns1.kever.dn42 fdb8:90b8:5ba6:9d0d::53
+nserver:            ns2.kever.dn42 172.20.48.181
+nserver:            ns2.kever.dn42 fdb8:90b8:5ba6:9d0d::54
+source:             DN42
