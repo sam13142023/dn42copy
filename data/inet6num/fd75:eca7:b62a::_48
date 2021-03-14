@@ -1,0 +1,10 @@
+inet6num:           fd75:eca7:b62a:0000:0000:0000:0000:0000 - fd75:eca7:b62a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:eca7:b62a::/48
+netname:            BLUESYS-NETWORK
+descr:              IPv6 Network for BlueSys
+country:            DE
+admin-c:            BLUEMEDIA-DN42
+tech-c:             BLUEMEDIA-DN42
+mnt-by:             BLUESYS-MNT
+status:             ASSIGNED
+source:             DN42

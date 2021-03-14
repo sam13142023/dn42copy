@@ -1,0 +1,10 @@
+inetnum:            172.22.167.80 - 172.22.167.95
+cidr:               172.22.167.80/28
+netname:            BLUESYS-NETWORK
+descr:              IPv4 Network for BlueSys
+country:            DE
+admin-c:            BLUEMEDIA-DN42
+tech-c:             BLUEMEDIA-DN42
+mnt-by:             BLUESYS-MNT
+status:             ASSIGNED
+source:             DN42
