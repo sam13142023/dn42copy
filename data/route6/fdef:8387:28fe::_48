@@ -1,0 +1,5 @@
+route6:             fdef:8387:28fe::/48
+origin:             AS4242423486
+max-length:         48
+mnt-by:             ECC83-MNT
+source:             DN42

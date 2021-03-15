@@ -1,0 +1,9 @@
+inetnum:            172.22.129.48 - 172.22.129.63
+cidr:               172.22.129.48/28
+netname:            ECC83-NETWORK
+admin-c:            ECC83-DN42
+tech-c:             ECC83-DN42
+mnt-by:             ECC83-MNT
+status:             ASSIGNED
+nserver:            ns1.ecc83.dn42
+source:             DN42

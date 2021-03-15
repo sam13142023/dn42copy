@@ -1,0 +1,11 @@
+inet6num:           fdef:8387:28fe:0000:0000:0000:0000:0000 - fdef:8387:28fe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:8387:28fe::/48
+netname:            ECC83-NETWORK
+descr:              Network of ECC83
+country:            ES
+admin-c:            ECC83-DN42
+tech-c:             ECC83-DN42
+mnt-by:             ECC83-MNT
+status:             ASSIGNED
+nserver:            ns1.ecc83.dn42
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             ecc83.dn42
+admin-c:            ECC83-DN42
+tech-c:             ECC83-DN42
+mnt-by:             ECC83-MNT
+nserver:            ns1.ecc83.dn42 172.22.129.62
+nserver:            ns1.ecc83.dn42 fdef:8387:28fe:cafe::1
+source:             DN42
