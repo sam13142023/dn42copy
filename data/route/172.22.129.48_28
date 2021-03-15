@@ -1,0 +1,4 @@
+route:              172.22.129.48/28
+origin:             AS4242423486
+mnt-by:             ECC83-MNT
+source:             DN42
