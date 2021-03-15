@@ -3,5 +3,5 @@ descr:              YI
 admin-c:            YI-DN42
 tech-c:             YI-DN42
 mnt-by:             YI-MNT
-auth:               pgp-fingerprint 427F0DFE90E2AE146C1740C1DC0FD24FF11880AF
+auth:               pgp-fingerprint D78EAC205347D16D58A2B27B114AA514776DBEAF
 source:             DN42
