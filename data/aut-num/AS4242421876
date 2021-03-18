@@ -1,36 +1,44 @@
 aut-num:            AS4242421876
-as-name:            FIXMIX-AS-42
-descr:              fixmix Network on DN42
+as-name:            FIXMIX-AS-DN42
+descr:              fixmix DN42 Network
 org:                ORG-FIXMIX
-mp-import:          afi any.unicast from AS-FIXMIX-42:AS-TRANSIT accept ANY
-mp-export:          afi any.unicast to AS-FIXMIX-42:AS-TRANSIT announce ANY
-mp-import:          afi any.unicast from AS-FIXMIX-42:AS-DOWNSTREAM accept PeerAS
-mp-export:          afi any.unicast to AS-FIXMIX-42:AS-DOWNSTREAM announce ANY
-remarks:            +----------------------------------------------+
-remarks:            |            fixmix Network on DN42            |
-remarks:            +----------------------------------------------+
-remarks:            | * Tier 3 Operator certified by info.nia.dn42 |
-remarks:            | * Open Peering Policy                        |
-remarks:            | * Nodes Available for Peering:               |
-remarks:            |   - New York City, United States             |
-remarks:            |   - Los Angeles, United States               |
-remarks:            |   - Chicago, United States                   |
-remarks:            |   - Nuremberg, Germany                       |
-remarks:            |   - Amsterdam, Netherlands                   |
-remarks:            |   - Moscow, Russia                           |
-remarks:            |   - Tokyo, Japan                             |
-remarks:            |   - Singapore                                |
-remarks:            |   - Hong Kong, China                         |
-remarks:            |   - Shanghai, China                          |
-remarks:            | * Info Page: https://dn42.fixmix.network     |
-remarks:            |              https://fixmix.dn42             |
-remarks:            | * Looking Glass: https://lg42.fixmix.network |
-remarks:            |                  https://lg.fixmix.dn42      |
-remarks:            | * Contact:                                   |
-remarks:            |   - Email: ops@fixmix.network                |
-remarks:            |   - IRC: p0tat05 @ hackint                   |
-remarks:            |   - Telegram: @p0tat05                       |
-remarks:            +----------------------------------------------+
+member-of:          AS-FIXMIX42
+mp-import:          afi any.unicast from AS-FIXMIX42:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-FIXMIX42:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-FIXMIX42:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-FIXMIX42:AS-DOWNSTREAM announce ANY
+remarks:            ╔══════════════════════════════════════════════╗
+remarks:            ║  fixmix DN42 Network     ·     AS4242421876  ║
+remarks:            ║══════════════════════════════════════════════║
+remarks:            ║ * Tier 3 Operator certified by info.nia.dn42 ║
+remarks:            ║ * Open Peering Policy                        ║
+remarks:            ║══════════════════════════════════════════════║
+remarks:            ║ * 14 Nodes Available for Peering:            ║
+remarks:            ║   - New York City, United States             ║
+remarks:            ║   - Los Angeles, United States               ║
+remarks:            ║   - Chicago, United States                   ║
+remarks:            ║   - Las Vegas, United States                 ║
+remarks:            ║   - Nuremberg, Germany                       ║
+remarks:            ║   - Frankfurt, Germany                       ║
+remarks:            ║   - Amsterdam 1/2, Netherlands               ║
+remarks:            ║   - Moscow, Russia                           ║
+remarks:            ║   - Tokyo, Japan                             ║
+remarks:            ║   - Singapore                                ║
+remarks:            ║   - Hong Kong, China                         ║
+remarks:            ║   - Shanghai, China                          ║
+remarks:            ║   - Auckland, New Zealand                    ║
+remarks:            ║══════════════════════════════════════════════║
+remarks:            ║ * Info Page: https://dn42.fixmix.network     ║
+remarks:            ║              https://fixmix.dn42             ║
+remarks:            ║ * Looking Glass: https://lg42.fixmix.network ║
+remarks:            ║                  https://lg.fixmix.dn42      ║
+remarks:            ║══════════════════════════════════════════════║
+remarks:            ║ * Contact:                                   ║
+remarks:            ║   - Email: ops@fixmix.network                ║
+remarks:            ║            davidliu@dmail.dn42 (D-Mail)      ║
+remarks:            ║   - IRC: p0tat05 @ hackint                   ║
+remarks:            ║   - Telegram: @p0tat05                       ║
+remarks:            ╚══════════════════════════════════════════════╝
 admin-c:            DL-DN42
 tech-c:             FIXMIX-NO-DN42
 mnt-by:             DL-MNT

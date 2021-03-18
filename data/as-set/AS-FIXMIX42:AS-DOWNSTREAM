@@ -1,6 +1,5 @@
-as-set:             AS-FIXMIX-42:AS-DOWNSTREAM
-descr:              fixmix Technologies Ltd - DN42 Downstream as-set
-mbrs-by-ref:        DL-MNT
+as-set:             AS-FIXMIX42:AS-DOWNSTREAM
+descr:              fixmix Technologies Ltd | DN42 Downstream as-set
 members:            AS4242421876:AS-DOWNSTREAM
 members:            AS211876:AS-DOWNSTREAM
 admin-c:            DL-DN42

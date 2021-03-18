@@ -1,0 +1,7 @@
+as-set:             AS-FIXMIX42
+descr:              fixmix Technologies Ltd | DN42 Self as-set
+mbrs-by-ref:        DL-MNT
+members:            AS4242421876
+members:            AS211876
+mnt-by:             DL-MNT
+source:             DN42
