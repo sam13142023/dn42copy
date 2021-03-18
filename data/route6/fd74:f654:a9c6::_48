@@ -1,0 +1,5 @@
+route6:             fd74:f654:a9c6::/48
+origin:             AS4242421257
+max-length:         48
+mnt-by:             SXQ-MNT
+source:             DN42
