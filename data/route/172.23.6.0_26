@@ -1,0 +1,5 @@
+route:              172.23.6.0/26
+descr:              MiaoTony's MeowNet, peer with me at dn42@miaotony.xyz
+origin:             AS4242422688
+mnt-by:             MIAOTONY-MNT
+source:             DN42

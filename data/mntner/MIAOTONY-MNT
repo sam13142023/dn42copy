@@ -1,0 +1,8 @@
+mntner:             MIAOTONY-MNT
+admin-c:            MIAOTONY-DN42
+tech-c:             MIAOTONY-DN42
+mnt-by:             MIAOTONY-MNT
+source:             DN42
+auth:               pgp-fingerprint E69EFF09726BDA318BE95DAA020921FE312A15B1
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOEwQmg2Gcp3bBYyJ6NezkW1j1lhjNBW7LTG6wlTHAzk
+remarks:            Meow~ Blog at https://miaotony.xyz
