@@ -1,0 +1,11 @@
+inetnum:            172.20.42.192 - 172.20.42.223
+netname:            ESONHUGH-IPV4
+remarks:            Peer with me at esonhughoutside@gmail.com
+descr:              Peer with me at esonhughoutside@gmail.com
+country:            CN
+admin-c:            ESONHUGH-DN42
+tech-c:             ESONHUGH-DN42
+mnt-by:             ESONHUGH-MNT
+status:             ASSIGNED
+cidr:               172.20.42.192/27
+source:             DN42
