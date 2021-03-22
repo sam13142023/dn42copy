@@ -10,10 +10,10 @@ mp-export:          afi any.unicast to AS-FIXMIX42:AS-DOWNSTREAM announce ANY
 remarks:            ╔══════════════════════════════════════════════╗
 remarks:            ║  fixmix DN42 Network     ·     AS4242421876  ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * Tier 3 Operator certified by info.nia.dn42 ║
+remarks:            ║ * Tier 2 Network certified by info.nia.dn42  ║
 remarks:            ║ * Open Peering Policy                        ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * 15 Nodes Available for Peering:            ║
+remarks:            ║ * 17 Nodes Available for Peering:            ║
 remarks:            ║   - New York City, United States             ║
 remarks:            ║   - Los Angeles, United States               ║
 remarks:            ║   - Chicago, United States                   ║
@@ -26,6 +26,7 @@ remarks:            ║   - Tokyo, Japan                             ║
 remarks:            ║   - Singapore                                ║
 remarks:            ║   - Hong Kong 1/2, China                     ║
 remarks:            ║   - Shanghai, China                          ║
+remarks:            ║   - Shenyang 1/2, China (dynip)              ║
 remarks:            ║   - Auckland, New Zealand                    ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Info Page: https://dn42.fixmix.network     ║
@@ -35,11 +36,10 @@ remarks:            ║                  https://lg.fixmix.dn42      ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Contact:                                   ║
 remarks:            ║   - Email: ops@fixmix.network                ║
-remarks:            ║            davidliu@dmail.dn42 (D-Mail)      ║
 remarks:            ║   - IRC: p0tat05 @ hackint                   ║
 remarks:            ║   - Telegram: @p0tat05                       ║
 remarks:            ╚══════════════════════════════════════════════╝
 admin-c:            DL-DN42
-tech-c:             FIXMIX-NO-DN42
+tech-c:             DL-DN42
 mnt-by:             DL-MNT
 source:             DN42

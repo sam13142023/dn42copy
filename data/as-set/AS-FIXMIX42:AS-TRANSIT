@@ -1,8 +1,8 @@
 as-set:             AS-FIXMIX42:AS-TRANSIT
-descr:              fixmix Technologies Ltd | DN42 Transit as-set
+descr:              fixmix Technologies DN42 Transit as-set
 members:            AS4242421876:AS-TRANSIT
 members:            AS211876:AS-TRANSIT
 admin-c:            DL-DN42
-tech-c:             FIXMIX-NO-DN42
+tech-c:             DL-DN42
 mnt-by:             DL-MNT
 source:             DN42

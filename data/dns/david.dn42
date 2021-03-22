@@ -1,0 +1,9 @@
+domain:             david.dn42
+descr:              David Zhixu Liu
+nserver:            ns1.fixmix.dn42
+nserver:            ns2.fixmix.dn42
+nserver:            ns3.fixmix.dn42
+admin-c:            DL-DN42
+tech-c:             DL-DN42
+mnt-by:             DL-MNT
+source:             DN42

@@ -12,6 +12,9 @@ remarks:            ════════════════════
 members:            AS4242420140
 remarks:            Yangfl Network
 remarks:            ══════════════════════════════
+members:            AS4242420151
+remarks:            bauen1 Network
+remarks:            ══════════════════════════════
 members:            AS4242420180
 remarks:            Gatuno Network
 remarks:            ══════════════════════════════
@@ -30,8 +33,14 @@ remarks:            ════════════════════
 members:            AS4242420780
 remarks:            UFFSALOT
 remarks:            ══════════════════════════════
+members:            AS4242420817
+remarks:            Ciel's Naive AS
+remarks:            ══════════════════════════════
 members:            AS4242420827
 remarks:            LORKEP
+remarks:            ══════════════════════════════
+members:            AS4242420904
+remarks:            Y525
 remarks:            ══════════════════════════════
 members:            AS4242420925
 remarks:            YuetAu Core Network
@@ -45,8 +54,14 @@ remarks:            ════════════════════
 members:            AS4242421080
 remarks:            JLU5
 remarks:            ══════════════════════════════
+members:            AS4242421181
+remarks:            Main ASN from ne-vlezay80
+remarks:            ══════════════════════════════
 members:            AS4242421228
 remarks:            Yellowlm Networks (Experimental-dn42)
+remarks:            ══════════════════════════════
+members:            AS4242421273
+remarks:            spencercw
 remarks:            ══════════════════════════════
 members:            AS4242421288
 remarks:            NICHOLASCW Network
@@ -90,8 +105,14 @@ remarks:            ════════════════════
 members:            AS4242422189
 remarks:            iEdon Networks
 remarks:            ══════════════════════════════
+members:            AS4242422225
+remarks:            MARAUN
+remarks:            ══════════════════════════════
 members:            AS4242422237
 remarks:            MUNSTERNET
+remarks:            ══════════════════════════════
+members:            AS4242422244
+remarks:            icez network
 remarks:            ══════════════════════════════
 members:            AS4242422334
 remarks:            NICONEIKOWORKS
@@ -117,8 +138,14 @@ remarks:            ════════════════════
 members:            AS4242422717
 remarks:            HUJK
 remarks:            ══════════════════════════════
+members:            AS4242423073
+remarks:            PATERNOT
+remarks:            ══════════════════════════════
 members:            AS4242423088
 remarks:            SUNNET
+remarks:            ══════════════════════════════
+members:            AS4242423124
+remarks:            SZCZOT3K
 remarks:            ══════════════════════════════
 members:            AS4242423240
 remarks:            NUREX
@@ -142,6 +169,6 @@ members:            AS4242423914
 remarks:            Kioubit Network
 remarks:            ══════════════════════════════
 admin-c:            DL-DN42
-tech-c:             FIXMIX-NO-DN42
+tech-c:             DL-DN42
 mnt-by:             DL-MNT
 source:             DN42
