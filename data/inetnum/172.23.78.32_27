@@ -1,0 +1,10 @@
+inetnum:            172.23.78.32 - 172.23.78.63
+cidr:               172.23.78.32/27
+netname:            SPACEFOX-NETWORK
+admin-c:            SPACEFOX-DN42
+tech-c:             SPACEFOX-DN42
+mnt-by:             SPACEFOX-MNT
+status:             ASSIGNED
+nserver:            ns1.spacefox.dn42
+nserver:            ns2.spacefox.dn42
+source:             DN42
