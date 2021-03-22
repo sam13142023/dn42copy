@@ -1,0 +1,9 @@
+domain:             spacefox.dn42
+admin-c:            SPACEFOX-DN42
+tech-c:             SPACEFOX-DN42
+mnt-by:             SPACEFOX-MNT
+nserver:            ns1.spacefox.dn42 172.23.78.60
+nserver:            ns1.spacefox.dn42 fd94:278b:14c8:53::1
+nserver:            ns2.spacefox.dn42 172.23.78.61
+nserver:            ns2.spacefox.dn42 fd94:278b:14c8:53::2
+source:             DN42

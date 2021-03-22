@@ -1,0 +1,4 @@
+route:              172.23.78.32/27
+origin:             AS4242421930
+mnt-by:             SPACEFOX-MNT
+source:             DN42

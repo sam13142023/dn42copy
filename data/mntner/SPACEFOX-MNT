@@ -1,0 +1,6 @@
+mntner:             SPACEFOX-MNT
+admin-c:            SPACEFOX-DN42
+tech-c:             SPACEFOX-DN42
+mnt-by:             SPACEFOX-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDVQj0v+PzFr+Tqm7lb5qlIvoPqrsbFcl5V987wgDmxdTt3sLZW01iXwpKU/2ELZ3LL93DdLLHQyrQCNh5ybEr1WWGvEsb0nbHwP9w4o4dE1eSrlGT+ocxDWw/GwXWN63PWm59J/m/4BW4rEl8NFx/0ykyYP4AwkkxeYO5BwXRYCiJ5h/k5jPIiwLl8rXE62MhIvn9n1Gh3mSnnqKg5CFVdRj06ZGt3f85OaJfhIHWugZFtrAOck4fhp/Y/jswVf40sYNX7FQOH2UUQT5c5b4O285Oj+gDE95aQp0mJ4uPywaVwA5jEwyLAEoSmuEq/wJgJuNLrcRK0BdSOjQAInpfj/UPkN4LUe+lIEtC8W+cmfNU3TmG7+9DYUA8iBIVmdbcIz5RZJ/JFvULkIO+ngweTFdvZRFfcPnLcFkd3/10EDQdEuC9/kyu26ju0guZPwzi5bYrLmWIs8gCNNeuff7prvYmRnScf7kwT67mDgnI9KpxONTwfQfW2uQ0h3VEMfTk=
+source:             DN42

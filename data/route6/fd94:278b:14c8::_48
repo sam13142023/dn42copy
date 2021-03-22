@@ -1,0 +1,5 @@
+route6:             fd94:278b:14c8::/48
+origin:             AS4242421930
+max-length:         48
+mnt-by:             SPACEFOX-MNT
+source:             DN42
