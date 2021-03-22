@@ -1,0 +1,14 @@
+aut-num:            AS4242422688
+as-name:            MIAOTONY-AS
+descr:              MiaoTony's MeowNet, peer with me at dn42@miaotony.xyz
+admin-c:            MIAOTONY-DN42
+tech-c:             MIAOTONY-DN42
+mnt-by:             MIAOTONY-MNT
+source:             DN42
+remarks:            --------------------------------------------
+remarks:            |      MeowNet - Open to peer with you     |
+remarks:            |                                          |
+remarks:            |         Email: dn42@miaotony.xyz         |
+remarks:            |      Telegram: https://t.me/meow233      |
+remarks:            |       Website: https://miaotony.xyz      |
+remarks:            --------------------------------------------

@@ -1,0 +1,18 @@
+inet6num:           fd00:feed:0ca7:0000:0000:0000:0000:0000 - fd00:feed:0ca7:ffff:ffff:ffff:ffff:ffff
+netname:            MeowNet-IPV6
+descr:              MiaoTony's MeowNet, peer with me at dn42@miaotony.xyz
+country:            CN
+admin-c:            MIAOTONY-DN42
+tech-c:             MIAOTONY-DN42
+mnt-by:             MIAOTONY-MNT
+nserver:            ns1.meow.dn42
+status:             ASSIGNED
+cidr:               fd00:feed:ca7::/48
+source:             DN42
+remarks:            --------------------------------------------
+remarks:            |      MeowNet - Open to peer with you     |
+remarks:            |                                          |
+remarks:            |         Email: dn42@miaotony.xyz         |
+remarks:            |      Telegram: https://t.me/meow233      |
+remarks:            |       Website: https://miaotony.xyz      |
+remarks:            --------------------------------------------

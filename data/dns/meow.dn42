@@ -1,0 +1,8 @@
+domain:             meow.dn42
+admin-c:            MIAOTONY-DN42
+tech-c:             MIAOTONY-DN42
+mnt-by:             MIAOTONY-MNT
+nserver:            ns1.meow.dn42 172.23.6.6
+nserver:            ns1.meow.dn42 fd00:feed:ca7::6
+remarks:            DNS hosted by MeowNet
+source:             DN42

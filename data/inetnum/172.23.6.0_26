@@ -1,0 +1,18 @@
+inetnum:            172.23.6.0 - 172.23.6.63
+cidr:               172.23.6.0/26
+netname:            MeowNet-IPV4
+descr:              MiaoTony's MeowNet, peer with me at dn42@miaotony.xyz
+country:            CN
+admin-c:            MIAOTONY-DN42
+tech-c:             MIAOTONY-DN42
+nserver:            ns1.meow.dn42
+status:             ASSIGNED
+mnt-by:             MIAOTONY-MNT
+source:             DN42
+remarks:            --------------------------------------------
+remarks:            |      MeowNet - Open to peer with you     |
+remarks:            |                                          |
+remarks:            |         Email: dn42@miaotony.xyz         |
+remarks:            |      Telegram: https://t.me/meow233      |
+remarks:            |       Website: https://miaotony.xyz      |
+remarks:            --------------------------------------------
