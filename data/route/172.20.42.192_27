@@ -1,0 +1,5 @@
+route:              172.20.42.192/27
+descr:              Peer with me at esonhughoutside@gmail.com
+origin:             AS4242422239
+mnt-by:             ESONHUGH-MNT
+source:             DN42

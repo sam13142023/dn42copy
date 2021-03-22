@@ -1,0 +1,7 @@
+mntner:             ESONHUGH-MNT
+admin-c:            ESONHUGH-DN42
+tech-c:             ESONHUGH-DN42
+mnt-by:             ESONHUGH-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDGPZE1R1od+UvUIyxXomZJdTjC+j6b8qYxGxqPHcXHjaN7Rcl8+Yta91axACNgTBndMKKiHwreak6dhVESf1hCOMeEOSWFqILfJPeXnK+R5duCWOym+5Qbus8kyPudEpg2N+jIijmrxkWFN32LptwEhtZDbf8AQ/s3zjvVJPhQz4SzaVtzvHxJ3LIGhW2c0LgPLtcmyAtoQPly3nKXUa5iNlR1U9gSgigdhWdY3AfQEHHtxQ+rLjYBHkTex+UZ6zW3sXeqw4Y5n4RYMUm9p1Hy7vnPcLnd11e0iwkjrZoiEGEMvt63r/TkFSzpaIQavSdyIMuckk1D67pYw6/hTx41DTySE1RhqQKxZSZ57cZKl21W+dwG++1Z+eux1PEH+mu9MOtRdxT/vRNev2nj4ZYefxt09YuYEy4wFOJgucqSdGknyZ6SEswTeqE3XAt3pt9PZBdQxUlFM8RmfI/oiYWZ8v4jXjIkw26QDuLcVjvIZqR2GCMA6dED/I9VenD7DqE= esonhughoutside@gmail.com
+remarks:            ssh sha256 is SHA256:K6JQ1b5EEbbMmkuuTGuxwbg1XWiAflsUuSGXEgi7bgw 
