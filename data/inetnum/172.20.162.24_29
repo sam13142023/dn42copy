@@ -1,0 +1,9 @@
+inetnum:            172.20.162.24 - 172.20.162.31
+netname:            PWDDING-IPV4
+country:            CN
+admin-c:            PWDDING-DN42
+tech-c:             PWDDING-DN42
+mnt-by:             PWDDING-MNT
+status:             ASSIGNED
+cidr:               172.20.162.24/29
+source:             DN42
