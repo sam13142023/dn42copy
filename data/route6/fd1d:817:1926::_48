@@ -1,0 +1,5 @@
+route6:             fd1d:817:1926::/48
+origin:             AS4242420644
+max-length:         48
+mnt-by:             RINKOQWQ-MNT
+source:             DN42
