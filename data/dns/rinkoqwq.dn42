@@ -1,0 +1,7 @@
+domain:             rinkoqwq.dn42
+admin-c:            RINKOQWQ-DN42
+tech-c:             RINKOQWQ-DN42
+mnt-by:             RINKOQWQ-MNT
+nserver:            ns1.rinkoqwq.dn42 172.23.110.1
+nserver:            ns1.rinkoqwq.dn42 fd1d:817:1926::1
+source:             DN42

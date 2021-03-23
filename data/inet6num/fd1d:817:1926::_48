@@ -1,0 +1,9 @@
+inet6num:           fd1d:0817:1926:0000:0000:0000:0000:0000 - fd1d:0817:1926:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1d:817:1926::/48
+netname:            RINKOQWQ-NETWORK
+descr:              Network of RINKOQWQ
+admin-c:            RINKOQWQ-DN42
+tech-c:             RINKOQWQ-DN42
+mnt-by:             RINKOQWQ-MNT
+status:             ASSIGNED
+source:             DN42

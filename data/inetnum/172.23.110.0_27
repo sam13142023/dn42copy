@@ -1,0 +1,8 @@
+inetnum:            172.23.110.0 - 172.23.110.31
+netname:            RINKOQWQ-NET
+admin-c:            RINKOQWQ-DN42
+tech-c:             RINKOQWQ-DN42
+mnt-by:             RINKOQWQ-MNT
+status:             ASSIGNED
+cidr:               172.23.110.0/27
+source:             DN42
