@@ -1,0 +1,4 @@
+route:              172.20.162.24/29
+origin:             AS4242422249
+mnt-by:             PWDDING-MNT
+source:             DN42

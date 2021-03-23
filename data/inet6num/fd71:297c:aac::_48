@@ -1,0 +1,9 @@
+inet6num:           fd71:297c:0aac:0000:0000:0000:0000:0000 - fd71:297c:0aac:ffff:ffff:ffff:ffff:ffff
+netname:            PWDDING-IPV6
+country:            CN
+admin-c:            PWDDING-DN42
+tech-c:             PWDDING-DN42
+mnt-by:             PWDDING-MNT
+status:             ASSIGNED
+cidr:               fd71:297c:aac::/48
+source:             DN42
