@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:aa66:0000:0000:0000:0000:0000 - fd10:0127:aa66:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:aa66::/48
+netname:            FIXMIX-NET-NEOV6A
+admin-c:            DAVID-LIU-NEONETWORK
+tech-c:             DAVID-LIU-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

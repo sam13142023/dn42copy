@@ -1,0 +1,10 @@
+route6:             fd10:127:aa66::/48
+max-length:         64
+origin:             AS211876
+origin:             AS4201270021
+origin:             AS4242421876
+admin-c:            DAVID-LIU-NEONETWORK
+tech-c:             DAVID-LIU-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,8 @@
+aut-num:            AS4201270021
+as-name:            FIXMIX-AS-NEONETWORK
+remarks:            fixmix NeoNetwork Network
+admin-c:            DAVID-LIU-NEONETWORK
+tech-c:             DAVID-LIU-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
