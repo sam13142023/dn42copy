@@ -3,4 +3,5 @@ admin-c:            NEX-DN42
 tech-c:             NEX-DN42
 mnt-by:             NEX-MNT
 auth:               pgp-fingerprint 3E28CC62B1E061FD7D2CCEFE8222F5BC816ECDC4
+remarks:            pin-sha256:0ie9rG+ts0dht4XXWLkty6wIUaadJHAgBZZdeaF0l80=
 source:             DN42
