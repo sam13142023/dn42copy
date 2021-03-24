@@ -1,0 +1,6 @@
+mntner:             ZEPH-MNT
+admin-c:            ZEPH-DN42
+tech-c:             ZEPH-DN42
+mnt-by:             ZEPH-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDG2iXQCWDYPFlqCwK877BdhU9VDwXPgyfm1lXecgabaIk18q1G945hOF8RCwxCXrQfTgqX0wY/KnbdHMUe36WCUN69pV2pqOzVgQSPBYqIdneEdaJUkhSbF67a0aPjCdq4sArZjflwcqaTIxuQ4K9i1T++QZ5KZMzO/Euz6PeWNNSVXlwl8cl5DHLXyVjGmlhinBLYRZwCfQIPF04sL6I7N61yUQyG0X+FmdnFyMqYx/IKm3ka4nfVoSZsAvh6z3el/7r5CAQ/8sBSiPsjTwqdOpGcBdN1/4yyxvStf7vtWIOoKpjOVNhW8Cl29nbBb9rLfaW4ekinmGlCZ761L7pj

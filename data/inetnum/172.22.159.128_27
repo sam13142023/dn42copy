@@ -1,0 +1,12 @@
+inetnum:            172.22.159.128 - 172.22.159.159
+netname:            ZEPH-IPV4
+remarks:            Zephs Space
+descr:              Zephs Space
+country:            DE
+admin-c:            ZEPH-DN42
+tech-c:             ZEPH-DN42
+mnt-by:             ZEPH-MNT
+nserver:            ns1.zeph.dn42
+status:             ASSIGNED
+cidr:               172.22.159.128/27
+source:             DN42

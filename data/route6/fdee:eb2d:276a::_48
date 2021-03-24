@@ -1,0 +1,5 @@
+route6:             fdee:eb2d:276a::/48
+descr:              Zephs Network
+origin:             AS4242420801
+mnt-by:             ZEPH-MNT
+source:             DN42
