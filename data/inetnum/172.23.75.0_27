@@ -1,0 +1,11 @@
+inetnum:            172.23.75.0 - 172.23.75.31
+netname:            KUTOUAKIRA-IPV4
+remarks:            Peer with me at kutouakira@outlook.com
+descr:              Peer with me at kutouakira@outlook.com
+country:            CN
+admin-c:            KUTOUAKIRA-DN42
+tech-c:             KUTOUAKIRA-DN42
+mnt-by:             KUTOUAKIRA-MNT
+status:             ASSIGNED
+cidr:               172.23.75.0/27
+source:             DN42

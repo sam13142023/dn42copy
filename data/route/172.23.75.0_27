@@ -1,0 +1,5 @@
+route:              172.23.75.0/27
+descr:              Peer with me at kutouakira@outlook.com
+origin:             AS4242422375
+mnt-by:             KUTOUAKIRA-MNT
+source:             DN42
