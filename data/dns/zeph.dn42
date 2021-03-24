@@ -1,0 +1,7 @@
+domain:             zeph.dn42
+admin-c:            ZEPH-DN42
+tech-c:             ZEPH-DN42
+mnt-by:             ZEPH-MNT
+nserver:            ns1.zeph.dn42 172.22.159.129
+nserver:            ns1.zeph.dn42 fdee:eb2d:276a::1
+source:             DN42
