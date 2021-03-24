@@ -1,7 +1,10 @@
 person:             Outvi V
-contact:            i@outv.im
-contact:            keybase: outloudvi
-contact:            mastodon: @outvi@moe.cat
+contact:            i+noc@outv.im
+contact:            mastodon: @ov@social.outv.im
+contact:            irc: outloudvi@hackint
+contact:            telegram: @outvi
+pgp-fingerprint:    7A9543829E475D7D3826B08DA725CB57CA65CAFE
+remarks:            For peering: https://yukipedia.cf/dn42.html
 nic-hdl:            LIBREHS-DN42
 mnt-by:             LIBREHS-MNT
 source:             DN42
