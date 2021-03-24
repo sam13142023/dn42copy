@@ -1,0 +1,10 @@
+inet6num:           fd28:d639:e958:0000:0000:0000:0000:0000 - fd28:d639:e958:ffff:ffff:ffff:ffff:ffff
+netname:            KUTOUAKIRA-IPV6
+descr:              Peer with me at kutouakira@outlook.com
+country:            CN
+admin-c:            KUTOUAKIRA-DN42
+tech-c:             KUTOUAKIRA-DN42
+mnt-by:             KUTOUAKIRA-MNT
+status:             ASSIGNED
+cidr:               fd28:d639:e958::/48
+source:             DN42
