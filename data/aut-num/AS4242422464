@@ -21,13 +21,25 @@ remarks:            |               GRE, Internet IXP, DN42 IXP,   |
 remarks:            |           VM Providers' LAN, Cross Connect   |
 remarks:            |                                              |
 remarks:            |                                              |
-remarks:            |  Contact: dn4242@etlgr.com                   |
+remarks:            |  Contact: dn42@msgsafe.io                    |
 remarks:            |  Telegram: @noc2464 (preferred)              |
 remarks:            +----------------------------------------------+
 remarks:            
 remarks:            Please feel free to contact us at any time.
 remarks:            
 remarks:            Tier 2 Network Certified by NIA-MNT
+remarks:            
+remarks:            We especially welcome peer with the following qualifications:
+remarks:            
+remarks:            1.With ROA filtering.
+remarks:            2.Have PTR records.
+remarks:            3.Have Route Origin Community.
+remarks:            4.Routing based on region and latency community.
+remarks:            5.If it is a global network, announce both a largest prefix and
+remarks:            more specific prefixes of that region at the same time.
+remarks:            6.Only create one session when Multiprotocol BGP is used.
+remarks:            7.Polite and passionate.
+remarks:            
 remarks:            
 remarks:            -----------------------------------------------------
 remarks:            Communities

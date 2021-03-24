@@ -1,5 +1,5 @@
-inetnum:            172.20.191.192 - 172.20.191.223
-cidr:               172.20.191.192/27
+inetnum:            172.20.191.192 - 172.20.191.255
+cidr:               172.20.191.192/26
 netname:            YURA-IPV4
 descr:              Yura Network IPv4
 admin-c:            YURA-DN42
