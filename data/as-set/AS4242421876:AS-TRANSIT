@@ -57,6 +57,9 @@ remarks:            ════════════════════
 members:            AS4242421181
 remarks:            Main ASN from ne-vlezay80
 remarks:            ══════════════════════════════
+members:            AS4242421220
+remarks:            litschi's AS
+remarks:            ══════════════════════════════
 members:            AS4242421228
 remarks:            Yellowlm Networks (Experimental-dn42)
 remarks:            ══════════════════════════════
@@ -90,6 +93,9 @@ remarks:            ════════════════════
 members:            AS4242421826
 remarks:            Lss233's Primary Network
 remarks:            ══════════════════════════════
+members:            AS4242421926
+remarks:            Naive Network
+remarks:            ══════════════════════════════
 members:            AS4242421955
 remarks:            NOP
 remarks:            ══════════════════════════════
@@ -111,6 +117,9 @@ remarks:            ════════════════════
 members:            AS4242422237
 remarks:            MUNSTERNET
 remarks:            ══════════════════════════════
+members:            AS4242422239
+remarks:            ESONHUGH
+remarks:            ══════════════════════════════
 members:            AS4242422244
 remarks:            icez network
 remarks:            ══════════════════════════════
@@ -122,6 +131,9 @@ remarks:            Yura Network
 remarks:            ══════════════════════════════
 members:            AS4242422520
 remarks:            YFsama
+remarks:            ══════════════════════════════
+members:            AS4242422526
+remarks:            ANILLC
 remarks:            ══════════════════════════════
 members:            AS4242422547
 remarks:            Lan Tian's Main Network
@@ -135,8 +147,17 @@ remarks:            ════════════════════
 members:            AS4242422633
 remarks:            EASTBOUND
 remarks:            ══════════════════════════════
+members:            AS4242422688
+remarks:            MiaoTony's MeowNet
+remarks:            ══════════════════════════════
 members:            AS4242422717
 remarks:            HUJK
+remarks:            ══════════════════════════════
+members:            AS4242422980
+remarks:            YUUTAW
+remarks:            ══════════════════════════════
+members:            AS4242423012
+remarks:            nex private AS
 remarks:            ══════════════════════════════
 members:            AS4242423073
 remarks:            PATERNOT
@@ -157,7 +178,7 @@ members:            AS4242423618
 remarks:            Jerry Network
 remarks:            ══════════════════════════════
 members:            AS4242423735
-remarks:            CPERINN Network
+remarks:            CPERRIN Network
 remarks:            ══════════════════════════════
 members:            AS4242423847
 remarks:            THEQ
