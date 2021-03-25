@@ -1,0 +1,11 @@
+inet6num:           fd80:96c2:e41e:3dcc:0000:0000:0000:0000 - fd80:96c2:e41e:3dcc:ffff:ffff:ffff:ffff
+netname:            LIKI4-IPV6
+descr:              Peer with me at chrislikaiyuan@outlook.com
+country:            CN
+admin-c:            LIKI4-DN42
+tech-c:             LIKI4-DN42
+mnt-by:             LIKI4-MNT
+status:             ASSIGNED
+cidr:               fd80:96c2:e41e:3dcc::/64
+source:             DN42
+remarks:            AS4242420927

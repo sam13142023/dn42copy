@@ -1,0 +1,11 @@
+inetnum:            172.21.77.32 - 172.21.77.63
+netname:            LIKI4-IPV4
+remarks:            Peer with me at chrislikaiyuan@outlook.com
+descr:              Peer with me at chrislikaiyuan@outlook.com
+country:            CN
+admin-c:            LIKI4-DN42
+tech-c:             LIKI4-DN42
+mnt-by:             LIKI4-MNT
+status:             ASSIGNED
+cidr:               172.21.77.32/27
+source:             DN42
