@@ -1,0 +1,5 @@
+route6:             fd16:f8dc:08ef::/48
+origin:             AS4242420062
+max-length:         48
+mnt-by:             PLETT-MNT
+source:             DN42
