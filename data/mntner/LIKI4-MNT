@@ -1,0 +1,8 @@
+mntner:             LIKI4-MNT
+admin-c:            LIKI4-DN42
+tech-c:             LIKI4-DN42
+mnt-by:             LIKI4-MNT
+source:             DN42
+auth:               pgp-fingerprint C73E6FD9BD7F0B730EE0AB588B94801E9D24543D
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDMPGN1O7REynEreeq8AcnUAt2rq1oPQSc9UCKRWeINlFHAanuoRQI42fbI85tQGx+fSS/xk3c+YDUCmW/4/lmmNjPpa7pZxy3rxX5eJExn6Ieogc1QAshVHakkpnZeGKQCel3z8GFqRjuIicHxp7binjgxSAwGHxxSiEG2VmbMkFDgZEmBaIAZdIqVfVzvBM0YMnCYAzkGX7Oqj/RCdVVixWGU8nSrhWeoaCqVWS52Qu77XI9nFSU0G04dKsBc6hmyjIoihpnhnjZVOeUi2Y9ZClUsVErBVUHN2aT4oK9AKZ3b50pvlyecjICww95nyzKtD/gSVQvdP2VV7g+H6hvix1xRSV5QSpZpudvewtM+TnoImkPy364VfDkV/d352NNZo1swcw4po8I/o71z3FO+56omeEWJrRVjS1X5669T0scGjGlIW+rNrHDABUaMimCrO2DdP3RD4wui313+fwZlhEf+Kyj7yZurPk8Xm0s+CJomjqOnWZkejZiXxmbEoUM=
+remarks:            Liki4Switch
