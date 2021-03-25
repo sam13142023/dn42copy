@@ -2,4 +2,5 @@ mntner:             PLETT-MNT
 admin-c:            PLETT-DN42
 tech-c:             PLETT-DN42
 mnt-by:             PLETT-MNT
+auth:               PGPKEY-368F528D
 source:             DN42

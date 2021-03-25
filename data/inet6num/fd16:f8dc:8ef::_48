@@ -1,0 +1,10 @@
+inet6num:           fd16:f8dc:08ef:0000:0000:0000:0000:0000 - fd16:f8dc:08ef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd16:f8dc:8ef::/48
+netname:            PLETT-NETWORK
+descr:              plett's network
+country:            GB
+admin-c:            PLETT-DN42
+tech-c:             PLETT-DN42
+mnt-by:             PLETT-MNT
+status:             ASSIGNED
+source:             DN42
