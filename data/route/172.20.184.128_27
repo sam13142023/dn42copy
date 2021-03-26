@@ -1,0 +1,4 @@
+route:              172.20.184.128/27
+origin:             AS4242420540
+mnt-by:             ALEXSTUDER-MNT
+source:             DN42

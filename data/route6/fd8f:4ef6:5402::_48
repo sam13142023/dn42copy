@@ -1,0 +1,4 @@
+route6:             fd8f:4ef6:5402::/48
+origin:             AS4242420540
+mnt-by:             ALEXSTUDER-MNT
+source:             DN42
