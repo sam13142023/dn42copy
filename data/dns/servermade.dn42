@@ -1,0 +1,7 @@
+domain:             servermade.dn42
+nserver:            n1.servermade.dn42 172.20.172.121
+nserver:            n2.servermade.dn42 172.20.172.122
+admin-c:            CAFECAFE-DN42
+tech-c:             CAFECAFE-DN42
+mnt-by:             SERVERMADE-MNT
+source:             DN42

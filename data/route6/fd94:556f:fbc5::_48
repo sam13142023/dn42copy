@@ -1,0 +1,5 @@
+route6:             fd94:556f:fbc5::/48
+origin:             AS4242423770
+max-length:         48
+mnt-by:             SERVERMADE-MNT
+source:             DN42
