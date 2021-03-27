@@ -1,0 +1,10 @@
+inet6num:           fd8f:4ef6:5402:0000:0000:0000:0000:0000 - fd8f:4ef6:5402:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8f:4ef6:5402::/48
+netname:            ALEXSTUDER-NETWORK
+descr:              Network for Alex Studer
+country:            US
+admin-c:            ALEXSTUDER-DN42
+tech-c:             ALEXSTUDER-DN42
+mnt-by:             ALEXSTUDER-MNT
+status:             ASSIGNED
+source:             DN42

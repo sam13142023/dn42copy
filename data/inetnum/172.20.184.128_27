@@ -1,0 +1,8 @@
+inetnum:            172.20.184.128 - 172.20.184.159
+cidr:               172.20.184.128/27
+netname:            ALEXSTUDER-NETWORK
+admin-c:            ALEXSTUDER-DN42
+tech-c:             ALEXSTUDER-DN42
+mnt-by:             ALEXSTUDER-MNT
+status:             ASSIGNED
+source:             DN42
