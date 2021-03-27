@@ -1,5 +1,8 @@
 as-set:             AS4242421876:AS-TRANSIT
 remarks:            ══════════════════════════════
+members:            AS62396
+remarks:            Marcels AS
+remarks:            ══════════════════════════════
 members:            AS64738
 remarks:            welterde
 remarks:            ══════════════════════════════
@@ -27,11 +30,20 @@ remarks:            ════════════════════
 members:            AS4242420406
 remarks:            KEVER Network
 remarks:            ══════════════════════════════
+members:            AS4242420428
+remarks:            hax404's as
+remarks:            ══════════════════════════════
 members:            AS4242420604
 remarks:            Moecast Network
 remarks:            ══════════════════════════════
+members:            AS4242420737
+remarks:            TrueWinter Network
+remarks:            ══════════════════════════════
 members:            AS4242420780
 remarks:            UFFSALOT
+remarks:            ══════════════════════════════
+members:            AS4242420801
+remarks:            Zeph's network
 remarks:            ══════════════════════════════
 members:            AS4242420817
 remarks:            Ciel's Naive AS
@@ -48,14 +60,23 @@ remarks:            ════════════════════
 members:            AS4242420977
 remarks:            Moerail Network
 remarks:            ══════════════════════════════
+members:            AS4242421037
+remarks:            LIBREHOUSE
+remarks:            ══════════════════════════════
 members:            AS4242421050
 remarks:            NAPSTERBATERs Network
+remarks:            ══════════════════════════════
+members:            AS4242421055
+remarks:            TMWAWPL network
 remarks:            ══════════════════════════════
 members:            AS4242421080
 remarks:            JLU5
 remarks:            ══════════════════════════════
 members:            AS4242421181
 remarks:            Main ASN from ne-vlezay80
+remarks:            ══════════════════════════════
+members:            AS4242421199
+remarks:            JOT23 GLOBAL
 remarks:            ══════════════════════════════
 members:            AS4242421220
 remarks:            litschi's AS
@@ -83,6 +104,9 @@ remarks:            w1kl4s Network
 remarks:            ══════════════════════════════
 members:            AS4242421588
 remarks:            TECH9 Core Network
+remarks:            ══════════════════════════════
+members:            AS4242421592
+remarks:            CAMELUSFERUS
 remarks:            ══════════════════════════════
 members:            AS4242421722
 remarks:            Tchekda
@@ -152,6 +176,9 @@ remarks:            MiaoTony's MeowNet
 remarks:            ══════════════════════════════
 members:            AS4242422717
 remarks:            HUJK
+remarks:            ══════════════════════════════
+members:            AS4242422942
+remarks:            Ytrizja Network
 remarks:            ══════════════════════════════
 members:            AS4242422980
 remarks:            YUUTAW
