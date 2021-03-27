@@ -1,0 +1,4 @@
+route:              172.21.67.232/29
+origin:             AS4242422093
+mnt-by:             THATGUY-MNT
+source:             DN42
