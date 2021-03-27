@@ -1,0 +1,8 @@
+inet6num:           fdfc:732b:1fa2:0000:0000:0000:0000:0000 - fdfc:732b:1fa2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:732b:1fa2::/48
+netname:            FMEPNET-IP6NET
+admin-c:            FMEPNET-DN42
+tech-c:             FMEPNET-DN42
+mnt-by:             FMEPNET-MNT
+status:             ASSIGNED
+source:             DN42
