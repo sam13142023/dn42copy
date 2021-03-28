@@ -1,5 +1,5 @@
-route:              172.23.89.0/27
-max-length:         29
+route6:             fd89:35db:fc1::/63
 origin:             AS4242420604
+max-length:         64
 mnt-by:             MOECAST-MNT
 source:             DN42

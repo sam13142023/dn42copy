@@ -1,0 +1,9 @@
+inetnum:            172.23.89.240 - 172.23.89.255
+netname:            MOECAST-NET
+descr:              Moecast Network Probe IPv4
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+status:             ASSIGNED
+cidr:               172.23.89.240/28
+source:             DN42
