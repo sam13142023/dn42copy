@@ -1,0 +1,4 @@
+route6:             fdfc:732b:1fa2::/48
+origin:             AS4242423703
+mnt-by:             FMEPNET-MNT
+source:             DN42
