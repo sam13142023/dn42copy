@@ -1,0 +1,10 @@
+inetnum:            172.22.118.160 - 172.22.118.191
+cidr:               172.22.118.160/27
+netname:            JEYCE-NETWORK
+admin-c:            JEYCE-DN42
+tech-c:             JEYCE-DN42
+mnt-by:             JEYCE-MNT
+status:             ASSIGNED
+nserver:            ns1.jeyce.dn42
+nserver:            ns2.jeyce.dn42
+source:             DN42

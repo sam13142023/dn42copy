@@ -1,0 +1,4 @@
+route:              172.22.118.160/27
+origin:             AS4242420229
+mnt-by:             JEYCE-MNT
+source:             DN42

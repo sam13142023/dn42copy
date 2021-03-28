@@ -1,0 +1,10 @@
+inet6num:           fd55:3eeb:fd5f:0000:0000:0000:0000:0000 - fd55:3eeb:fd5f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:3eeb:fd5f::/48
+netname:            JEYCE-NETWORK
+admin-c:            JEYCE-DN42
+tech-c:             JEYCE-DN42
+mnt-by:             JEYCE-MNT
+status:             ASSIGNED
+nserver:            ns1.jeyce.dn42
+nserver:            ns2.jeyce.dn42
+source:             DN42
