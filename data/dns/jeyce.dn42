@@ -1,0 +1,9 @@
+domain:             jeyce.dn42
+admin-c:            JEYCE-DN42
+tech-c:             JEYCE-DN42
+mnt-by:             JEYCE-MNT
+nserver:            ns1.jeyce.dn42 172.22.118.161
+nserver:            ns1.jeyce.dn42 fd55:3eeb:fd5f:53::1
+nserver:            ns2.jeyce.dn42 172.22.118.163
+nserver:            ns2.jeyce.dn42 fd55:3eeb:fd5f:53::2
+source:             DN42

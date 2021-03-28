@@ -1,0 +1,6 @@
+mntner:             JEYCE-MNT
+admin-c:            JEYCE-DN42
+tech-c:             JEYCE-DN42
+mnt-by:             JEYCE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAbjiMJsI87Fv66Am66bsG5DM3H+RoORvbApqcvKOxqu7UAroHIGlR/bRgELPcFtOvJuePyasSfzVVYZa1punmApukPW4JIy32cAnPuWaVQR3ZVM0A/kmCV1UYbG3eIhCFpU64hodXD0ud3scumIlj4gFRQhSKKf2HdUUqBIOr8In0ytuXrBog227ZAOk6NFNkrywfzWBg/+qC6ZFp3bKpZwixuyJecI+lnWjIqBy4jgBO5JN+Zg4xJRHChxuEN4IGLOvTAbYT2B3yBxxer42ITNWQrDhcNc4av1MzI57+WOmy4N9C5maM70PQmiCmJdbD1oAm2WSAVPfzvTizJyPjjQMcwxFEI7NMr6Rst0Wu1du/5Zg6i2sJ1c++d7MfXYOKCS0RfoeWJ39wkQId+tPK+q6HYd4hb6wcZ9zifXsyyVahY8NrArohjPf57i+VlsVP+gjMrVXdXCoSH8BFyLtsNmRF+oq7mP6tZFf0uQMROwtr0Q5KAQaKCMLphILMOTM=
+source:             DN42
