@@ -1,0 +1,5 @@
+route:              172.23.162.64/27
+descr:              ANTOINE-NICOLAS
+origin:             AS4242422095
+mnt-by:             ATOLRN-MNT
+source:             DN42

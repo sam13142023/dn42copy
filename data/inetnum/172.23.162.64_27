@@ -1,0 +1,9 @@
+inetnum:            172.23.162.64 - 172.23.162.95
+cidr:               172.23.162.64/27
+netname:            ANTOINE-NICOLAS
+country:            FR
+admin-c:            ATOLRN-DN42
+tech-c:             ATOLRN-DN42
+mnt-by:             ATOLRN-MNT
+status:             ASSIGNED
+source:             DN42
