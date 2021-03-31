@@ -1,0 +1,7 @@
+mntner:             XINZHAO-MNT
+admin-c:            XINZHAO-DN42
+tech-c:             XINZHAO-DN42
+mnt-by:             XINZHAO-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQNuKFZP34+C4CEeRr9cSq0B1weq07tF1kYrWphffaKROCcS6St0Sp7ZrkVB5vBmJG9T52srEHNlS6GOpyCUDU5JyyVRxvFCM3hIhrrCWWyYiHcoxey7P7pvoueifvITpu9nq2o4GHRE2fiRwKDCMRWotnALnBKfmW6rq97LMBXvMfVApHhlweF3D85Z6DQah6dRYxibrJDckGqo6Zt4AIQrR8DvOK7Qo8jStp9HRsr9kL5+AT8RDyyPh3Dh4/4OR4zC/ayEjog4gUi01pdsHU2PwRt9ho7zdNV7Sk5L+brTSGF7vulG9g2Fm1VEvaKhtYrFx5CmTQjPtKZ1/i9+LD
+auth:               pgp-fingerprint EB1F1374B9B6D98BA512E1D494DAA9D38E12B48B

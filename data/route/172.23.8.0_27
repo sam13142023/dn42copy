@@ -1,0 +1,5 @@
+route:              172.23.8.0/27
+descr:              Please send peering request to ioalzx@zha0.top.
+origin:             AS4242421306
+mnt-by:             XINZHAO-MNT
+source:             DN42
