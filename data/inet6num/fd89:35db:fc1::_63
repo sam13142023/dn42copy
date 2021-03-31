@@ -1,0 +1,9 @@
+inet6num:           fd89:35db:0fc1:0000:0000:0000:0000:0000 - fd89:35db:0fc1:0001:ffff:ffff:ffff:ffff
+cidr:               fd89:35db:fc1::/63
+netname:            MOECAST-NET
+descr:              Moecast DN42 Probe IPv6
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+status:             ASSIGNED
+source:             DN42

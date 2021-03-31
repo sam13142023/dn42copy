@@ -1,4 +1,4 @@
-route:              172.23.89.0/27
+route:              172.23.89.240/28
 max-length:         29
 origin:             AS4242420604
 mnt-by:             MOECAST-MNT
