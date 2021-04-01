@@ -1,0 +1,12 @@
+inet6num:           fdf3:d483:8617:0000:0000:0000:0000:0000 - fdf3:d483:8617:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:d483:8617::/48
+netname:            SERVERFUEL6-NETWORK
+descr:              ServerFuel's IPv6 Network
+country:            CA
+admin-c:            SERVERFUEL-DN42
+tech-c:             SERVERFUEL-DN42
+mnt-by:             SERVERFUEL-MNT
+nserver:            ns1.serverfuel.dn42
+nserver:            ns2.serverfuel.dn42
+status:             ASSIGNED
+source:             DN42

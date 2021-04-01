@@ -1,0 +1,4 @@
+route:              172.20.32.160/27
+origin:             AS4242420976
+mnt-by:             SERVERFUEL-MNT
+source:             DN42
