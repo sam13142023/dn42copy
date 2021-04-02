@@ -1,0 +1,10 @@
+inetnum:            172.23.8.0 - 172.23.8.31
+cidr:               172.23.8.0/27
+netname:            XINZHAO-IPV4-01
+descr:              XINZHAO DN42 Research IPv4 Block
+country:            CN
+admin-c:            XINZHAO-DN42
+tech-c:             XINZHAO-DN42
+mnt-by:             XINZHAO-MNT
+status:             ASSIGNED
+source:             DN42

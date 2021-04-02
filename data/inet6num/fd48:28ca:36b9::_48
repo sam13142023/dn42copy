@@ -1,0 +1,10 @@
+inet6num:           fd48:28ca:36b9:0000:0000:0000:0000:0000 - fd48:28ca:36b9:ffff:ffff:ffff:ffff:ffff
+netname:            XINZHAO-IPV6-01
+descr:              XINZHAO DN42 Research IPv6 Block
+country:            CN
+admin-c:            XINZHAO-DN42
+tech-c:             XINZHAO-DN42
+mnt-by:             XINZHAO-MNT
+status:             ASSIGNED
+cidr:               fd48:28ca:36b9::/48
+source:             DN42
