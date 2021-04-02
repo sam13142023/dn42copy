@@ -1,0 +1,7 @@
+mntner:             PPPWAW-MNT
+admin-c:            PPPWAW-DN42
+tech-c:             PPPWAW-DN42
+mnt-by:             PPPWAW-MNT
+source:             DN42
+auth:               pgp-fingerprint 8042CF7CCDDFB91912835DA74991DA1541CBDDDD
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHynjOCNvBTB6SFkTjtE7UoCLiKtD84qSJoPYj77jSKwlgrWCd/8MU3n4QXqnc0/MpYpheAhw2F0B0wGK12rmgaukhQ12IjU4adHbP0C8udkMhFPQNLUflch9Sd+MH3zFoAZ9YGyhbWVCyP4FTWn/ucsw8VWXQ/ZhzY2B0BWKEXWyYG+vO64RDLaFc/bI8tC1xQuKLrKn9ZvS1Nw29+FQeB0bXbxvwS3c1aFyaDkOFSY5EqG2S/cZclAE95neXhw4U0hAxVrwre1E3vRewpdnn23/Th47KHhRvWnahprn2AJr2yiFauuV3EkY6wOJ7cNSA+sdgsKrRLwHKM67LIuRp

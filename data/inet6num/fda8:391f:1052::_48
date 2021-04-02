@@ -1,0 +1,10 @@
+inet6num:           fda8:391f:1052:0000:0000:0000:0000:0000 - fda8:391f:1052:ffff:ffff:ffff:ffff:ffff
+netname:            PPPWAW-IPV6
+descr:              welcome to contant me at pppwaw@pppwaw.top
+country:            CN
+admin-c:            PPPWAW-DN42
+tech-c:             PPPWAW-DN42
+mnt-by:             PPPWAW-MNT
+status:             ASSIGNED
+cidr:               fda8:391f:1052::/48
+source:             DN42
