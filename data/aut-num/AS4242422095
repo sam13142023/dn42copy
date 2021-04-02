@@ -1,0 +1,7 @@
+aut-num:            AS4242422095
+as-name:            ATOLRN-AS
+admin-c:            ATOLRN-DN42
+tech-c:             ATOLRN-DN42
+descr:              Hello
+mnt-by:             ATOLRN-MNT
+source:             DN42

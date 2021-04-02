@@ -1,0 +1,7 @@
+domain:             antoine.dn42
+admin-c:            ATOLRN-DN42
+tech-c:             ATOLRN-DN42
+mnt-by:             ATOLRN-MNT
+nserver:            ns2.antoine.dn42 172.23.186.34
+nserver:            ns2.antoine.dn42 fd45:1b93:dddf::2
+source:             DN42

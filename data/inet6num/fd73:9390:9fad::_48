@@ -1,0 +1,10 @@
+inet6num:           fd73:9390:9fad:0000:0000:0000:0000:0000 - fd73:9390:9fad:ffff:ffff:ffff:ffff:ffff
+cidr:               fd73:9390:9fad::/48
+netname:            ANTOINE-NICOLAS
+descr:              Network of Antoine and Nicolas
+country:            FR
+admin-c:            ATOLRN-DN42
+tech-c:             ATOLRN-DN42
+mnt-by:             ATOLRN-MNT
+status:             ASSIGNED
+source:             DN42
