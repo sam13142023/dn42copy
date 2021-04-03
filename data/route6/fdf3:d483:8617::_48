@@ -1,0 +1,5 @@
+route6:             fdf3:d483:8617::/48
+origin:             AS4242420976
+max-length:         48
+mnt-by:             SERVERFUEL-MNT
+source:             DN42

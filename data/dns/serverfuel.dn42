@@ -1,0 +1,9 @@
+domain:             serverfuel.dn42
+admin-c:            SERVERFUEL-DN42
+tech-c:             SERVERFUEL-DN42
+mnt-by:             SERVERFUEL-MNT
+nserver:            ns1.serverfuel.dn42 172.20.32.161
+nserver:            ns1.serverfuel.dn42 fdf3:d483:8617:40::61
+nserver:            ns2.serverfuel.dn42 172.20.32.162
+nserver:            ns2.serverfuel.dn42 fdf3:d483:8617:40::62
+source:             DN42
