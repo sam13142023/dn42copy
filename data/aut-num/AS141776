@@ -1,6 +1,10 @@
 aut-num:            AS141776
-as-name:            BAOSHUO-AS-AP
+as-name:            Baoshuo DN42 Network
 descr:              Baoshuo DN42 Network
+remarks:            --------------------------------
+remarks:            Baoshuo DN42 Network
+remarks:            https://as141776.net/dn42.html
+remarks:            --------------------------------
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42
 mnt-by:             BAOSHUO-MNT
