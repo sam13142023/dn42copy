@@ -1,0 +1,5 @@
+route6:             fdbb:7278:face::/48
+origin:             AS141776
+max-length:         48
+mnt-by:             BAOSHUO-MNT
+source:             DN42
