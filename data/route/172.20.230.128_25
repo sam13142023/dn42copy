@@ -1,0 +1,4 @@
+route:              172.20.230.128/25
+origin:             AS4242423151
+mnt-by:             ASHAW-MNT
+source:             DN42

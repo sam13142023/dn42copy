@@ -1,0 +1,10 @@
+inet6num:           fdc4:b438:8c09:0000:0000:0000:0000:0000 - fdc4:b438:8c09:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc4:b438:8c09::/48
+netname:            ASHAW-NETWORK
+descr:              Network of ASHAW
+country:            GB
+admin-c:            ASHAW-DN42
+tech-c:             ASHAW-DN42
+mnt-by:             ASHAW-MNT
+status:             ASSIGNED
+source:             DN42
