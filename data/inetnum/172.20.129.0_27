@@ -1,7 +1,7 @@
 inetnum:            172.20.129.0 - 172.20.129.31
 netname:            BURBLE-DN42-SVCS
 descr:              burble.dn42 Services - https://dn42.burble.com/
-country:            UK
+country:            GB
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
 mnt-by:             BURBLE-MNT
