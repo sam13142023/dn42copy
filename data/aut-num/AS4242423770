@@ -1,5 +1,18 @@
 aut-num:            AS4242423770
 as-name:            SERVERMADE-AS
+remarks:            For peerings, contact me at:
+remarks:                dn42.registry @at@ periloso.com
+remarks:            
+remarks:            +-------------------------------------------------+
+remarks:            | AS4242423770    Peering locations               |
+remarks:            +-------------------------------------------------+
+remarks:            | Name      | Location           | Provider       |
+remarks:            +-------------------------------------------------+
+remarks:            | fr-rbx01  | EU-FR, Roubaix     | OVH            |
+remarks:            | fr-gra01  | EU-FR, Gravelines  | OVH            |
+remarks:            | fi-hel01  | EU-FI, Helsinki    | Hetzner        |
+remarks:            +-------------------------------------------------+
+remarks:                                                               
 admin-c:            CAFECAFE-DN42
 tech-c:             CAFECAFE-DN42
 mnt-by:             SERVERMADE-MNT
