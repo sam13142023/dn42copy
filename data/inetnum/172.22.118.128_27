@@ -1,9 +1,10 @@
-inetnum:            172.20.172.120 - 172.20.172.127
-cidr:               172.20.172.120/29
-netname:            SERVERMADE-FR-001
+inetnum:            172.22.118.128 - 172.22.118.159
+netname:            SERVERMADE-NETWORK
 country:            FR
 admin-c:            CAFECAFE-DN42
 tech-c:             CAFECAFE-DN42
 mnt-by:             SERVERMADE-MNT
+nserver:            ns-01.servermade.dn42
 status:             ASSIGNED
+cidr:               172.22.118.128/27
 source:             DN42

@@ -1,6 +1,6 @@
 inet6num:           fd94:556f:fbc5:0000:0000:0000:0000:0000 - fd94:556f:fbc5:ffff:ffff:ffff:ffff:ffff
 cidr:               fd94:556f:fbc5::/48
-netname:            SERVERMADE-FR-001
+netname:            SERVERMADE-NETWORK
 country:            FR
 admin-c:            CAFECAFE-DN42
 tech-c:             CAFECAFE-DN42
