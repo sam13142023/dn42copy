@@ -43,7 +43,7 @@ See the [getting started](https://dn42.dev/howto/Getting-Started) guide in the [
   - `./check-pol origin/master MNTNER-MNT`
 
 ```sh
-$EDITOR mychanges
+$EDITOR <change some stuff>
 git add .
 git commit
 ```
