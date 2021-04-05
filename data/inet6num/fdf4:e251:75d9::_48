@@ -1,0 +1,11 @@
+inet6num:           fdf4:e251:75d9:0000:0000:0000:0000:0000 - fdf4:e251:75d9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:e251:75d9::/48
+netname:            TAAVI-HOME-NET-V6-1
+descr:              IPv6 block for TAAVI-HOME
+country:            FI
+admin-c:            TAAVI-DN42
+tech-c:             TAAVI-DN42
+mnt-by:             TAAVI-MNT
+status:             ASSIGNED
+nserver:            ns01.taavi.dn42
+source:             DN42
