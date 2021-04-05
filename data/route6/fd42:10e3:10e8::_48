@@ -1,0 +1,5 @@
+route6:             fd42:10e3:10e8::/48
+origin:             AS4242420853
+max-length:         48
+mnt-by:             JOSUAH-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             JOSUAH-MNT
+admin-c:            JOSUAH-DN42
+tech-c:             JOSUAH-DN42
+mnt-by:             JOSUAH-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGBg7fp6lddAYfpjw0Ulo43Hk25aC+x7rVC8ebkcSrXX josuah@corax.z0.is
+source:             DN42

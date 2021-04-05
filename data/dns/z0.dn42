@@ -1,0 +1,7 @@
+domain:             z0.dn42
+admin-c:            JOSUAH-DN42
+tech-c:             JOSUAH-DN42
+mnt-by:             JOSUAH-MNT
+nserver:            ns1.z0.dn42 fd42:10e3:10e8:53::1
+nserver:            ns2.z0.dn42 fd42:10e3:10e8:53::2
+source:             DN42
