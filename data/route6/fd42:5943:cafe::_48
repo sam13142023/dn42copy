@@ -1,0 +1,4 @@
+route6:             fd42:5943:cafe::/48
+origin:             AS4242423308
+mnt-by:             TESTNET-MNT
+source:             DN42

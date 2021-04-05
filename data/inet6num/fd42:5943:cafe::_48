@@ -1,0 +1,10 @@
+inet6num:           fd42:5943:cafe:0000:0000:0000:0000:0000 - fd42:5943:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            TESTNET-IPV6-NETWORK
+descr:              TestNet CN IPV6 Block
+country:            CN
+admin-c:            TESTNET-DN42
+tech-c:             TESTNET-DN42
+mnt-by:             TESTNET-MNT
+status:             ASSIGNED
+cidr:               fd42:5943:cafe::/48
+source:             DN42
