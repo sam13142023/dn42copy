@@ -3,4 +3,7 @@ as-name:            TAAVI-AS
 admin-c:            TAAVI-DN42
 tech-c:             TAAVI-DN42
 mnt-by:             TAAVI-MNT
+remarks:            Open for peering, see https://taavi.wtf/dn42 for details.
+remarks:            Current locations:
+remarks:            * Helsinki, FI.
 source:             DN42
