@@ -9,6 +9,9 @@ remarks:            ════════════════════
 members:            AS76190
 remarks:            TBSPACE
 remarks:            ══════════════════════════════
+members:            AS141776
+remarks:            Baoshuo DN42 Network
+remarks:            ══════════════════════════════
 members:            AS4242420119
 remarks:            JRB0001
 remarks:            ══════════════════════════════
@@ -57,6 +60,9 @@ remarks:            ════════════════════
 members:            AS4242420925
 remarks:            YuetAu Core Network
 remarks:            ══════════════════════════════
+members:            AS4242420927
+remarks:            LIKI4
+remarks:            ══════════════════════════════
 members:            AS4242420977
 remarks:            Moerail Network
 remarks:            ══════════════════════════════
@@ -93,6 +99,9 @@ remarks:            ════════════════════
 members:            AS4242421288
 remarks:            NICHOLASCW Network
 remarks:            ══════════════════════════════
+members:            AS4242421306
+remarks:            XINZHAO
+remarks:            ══════════════════════════════
 members:            AS4242421331
 remarks:            Niantic Network
 remarks:            ══════════════════════════════
@@ -104,6 +113,12 @@ remarks:            KOALA
 remarks:            ══════════════════════════════
 members:            AS4242421516
 remarks:            w1kl4s Network
+remarks:            ══════════════════════════════
+members:            AS4242421530
+remarks:            Zoddo
+remarks:            ══════════════════════════════
+members:            AS4242421541
+remarks:            pelethiec's lab network
 remarks:            ══════════════════════════════
 members:            AS4242421588
 remarks:            TECH9 Core Network
@@ -132,6 +147,9 @@ remarks:            ════════════════════
 members:            AS4242422037
 remarks:            Narnia
 remarks:            ══════════════════════════════
+members:            AS4242422049
+remarks:            PPPWAW
+remarks:            ══════════════════════════════
 members:            AS4242422092
 remarks:            P3BK4C DN42 Network
 remarks:            ══════════════════════════════
@@ -152,6 +170,9 @@ remarks:            icez network
 remarks:            ══════════════════════════════
 members:            AS4242422334
 remarks:            NICONEIKOWORKS
+remarks:            ══════════════════════════════
+members:            AS4242422375
+remarks:            Kutou Akira's Network
 remarks:            ══════════════════════════════
 members:            AS4242422464
 remarks:            Yura Network
@@ -203,6 +224,9 @@ remarks:            SZCZOT3K
 remarks:            ══════════════════════════════
 members:            AS4242423240
 remarks:            NUREX
+remarks:            ══════════════════════════════
+members:            AS4242423270
+remarks:            TAAVI
 remarks:            ══════════════════════════════
 members:            AS4242423315
 remarks:            Unknown Technology Solutions
