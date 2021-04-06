@@ -1,0 +1,9 @@
+inetnum:            172.23.99.64 - 172.23.99.95
+cidr:               172.23.99.64/27
+netname:            TESTNET-NETWORK
+country:            CN
+admin-c:            TESTNET-DN42
+tech-c:             TESTNET-DN42
+mnt-by:             TESTNET-MNT
+status:             ASSIGNED
+source:             DN42

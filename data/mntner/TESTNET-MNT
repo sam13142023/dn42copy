@@ -1,0 +1,6 @@
+mntner:             TESTNET-MNT
+admin-c:            TESTNET-DN42
+tech-c:             TESTNET-DN42
+mnt-by:             TESTNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINYVaYaGzzWMO+xTHo/EQB+myQy5HvJl0qj08DpXOlWo
+source:             DN42
