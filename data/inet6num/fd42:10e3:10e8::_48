@@ -1,0 +1,12 @@
+inet6num:           fd42:10e3:10e8:0000:0000:0000:0000:0000 - fd42:10e3:10e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:10e3:10e8::/48
+netname:            DN42-Z0-NETWORK
+descr:              DN42-HYAKU-OKU
+country:            FR
+admin-c:            JOSUAH-DN42
+tech-c:             JOSUAH-DN42
+mnt-by:             JOSUAH-MNT
+status:             ASSIGNED
+nserver:            ns1.z0.dn42
+nserver:            ns2.z0.dn42
+source:             DN42
