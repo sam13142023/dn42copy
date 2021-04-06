@@ -1,0 +1,7 @@
+mntner:             QFW-MNT
+descr:              QFW's bgp test network
+admin-c:            QFW-DN42
+tech-c:             QFW-DN42
+mnt-by:             QFW-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM9oXAHBITMT8X93vWFg1Ge7636zvQ3V1JPqHMvwLQxQ ubuntu@ubuntu-virtual-machine
+source:             DN42
