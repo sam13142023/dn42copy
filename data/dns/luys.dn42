@@ -4,5 +4,7 @@ tech-c:             LUYS-DN42
 mnt-by:             LUYS-MNT
 org:                ORG-LUYS
 nserver:            ns1.luys.dn42 172.20.53.251
+nserver:            ns1.luys.dn42 fdf1:3daf:c397::53:1
 nserver:            ns2.luys.dn42 172.20.53.252
+nserver:            ns2.luys.dn42 fdf1:3daf:c397::53:2
 source:             DN42
