@@ -1,0 +1,8 @@
+inetnum:            172.23.78.128 - 172.23.78.159
+cidr:               172.23.78.128/27
+netname:            QFW-ipv4
+admin-c:            QFW-DN42
+tech-c:             QFW-DN42
+mnt-by:             QFW-MNT
+status:             ASSIGNED
+source:             DN42

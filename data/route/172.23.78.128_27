@@ -1,0 +1,4 @@
+route:              172.23.78.128/27
+origin:             AS4242423033
+mnt-by:             QFW-MNT
+source:             DN42

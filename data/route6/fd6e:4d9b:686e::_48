@@ -1,0 +1,5 @@
+route6:             fd6e:4d9b:686e::/48
+descr:              QFW-NETWORK
+origin:             AS4242423033
+mnt-by:             QFW-MNT
+source:             DN42
