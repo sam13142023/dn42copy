@@ -1,0 +1,5 @@
+route6:             fdf2:453f:2c7f::/48
+origin:             AS4242423599
+max-length:         48
+mnt-by:             MLYY-MNT
+source:             DN42

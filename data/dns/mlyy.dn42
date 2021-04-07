@@ -1,0 +1,7 @@
+domain:             mlyy.dn42
+admin-c:            MLYY-DN42
+tech-c:             MLYY-DN42
+mnt-by:             MLYY-MNT
+nserver:            ns1.mlyy.dn42 172.23.48.97
+nserver:            ns1.mlyy.dn42 fdf2:453f:2c7f:4242::1
+source:             DN42
