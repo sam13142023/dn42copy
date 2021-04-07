@@ -1,0 +1,11 @@
+inet6num:           fdf2:453f:2c7f:0000:0000:0000:0000:0000 - fdf2:453f:2c7f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf2:453f:2c7f::/48
+netname:            MLYY-NETWORK
+descr:              Network of MLYY
+country:            US
+admin-c:            MLYY-DN42
+tech-c:             MLYY-DN42
+mnt-by:             MLYY-MNT
+status:             ASSIGNED
+nserver:            ns1.mlyy.dn42
+source:             DN42

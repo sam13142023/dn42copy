@@ -1,0 +1,6 @@
+mntner:             MLYY-MNT
+admin-c:            MLYY-DN42
+tech-c:             MLYY-DN42
+mnt-by:             MLYY-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOTahTPP0/0vwcQ1Dg6uLDaL4Fyimgl4w7r7lhHois2I
+source:             DN42

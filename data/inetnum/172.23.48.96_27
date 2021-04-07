@@ -1,0 +1,9 @@
+inetnum:            172.23.48.96 - 172.23.48.127
+cidr:               172.23.48.96/27
+netname:            MLYY-NETWORK
+admin-c:            MLYY-DN42
+tech-c:             MLYY-DN42
+mnt-by:             MLYY-MNT
+status:             ASSIGNED
+nserver:            ns1.mlyy.dn42
+source:             DN42
