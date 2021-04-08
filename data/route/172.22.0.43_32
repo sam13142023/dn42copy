@@ -6,4 +6,6 @@ origin:             AS4242423723
 mnt-by:             KRSTN-MNT
 origin:             AS4242422601
 mnt-by:             BURBLE-MNT
+origin:             AS4242423270
+mnt-by:             TAAVI-MNT
 source:             DN42
