@@ -1,0 +1,4 @@
+route:              172.20.150.128/28
+origin:             AS4242421535
+mnt-by:             KAAASS-MNT
+source:             DN42
