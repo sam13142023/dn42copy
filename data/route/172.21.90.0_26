@@ -1,0 +1,5 @@
+route:              172.21.90.0/26
+descr:              Peer with me at hikuwo@gmail.com
+origin:             AS4242421018
+mnt-by:             YUN-MNT
+source:             DN42
