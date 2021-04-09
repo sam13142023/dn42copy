@@ -1,0 +1,12 @@
+inet6num:           fd08:93f3:b7eb:0000:0000:0000:0000:0000 - fd08:93f3:b7eb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd08:93f3:b7eb::/48
+netname:            KAAASS-IPV6
+descr:              Network of KAAAsS
+country:            CN
+admin-c:            KAAASS-DN42
+tech-c:             KAAASS-DN42
+mnt-by:             KAAASS-MNT
+status:             ASSIGNED
+nserver:            ns1.kaaass.dn42
+nserver:            ns2.kaaass.dn42
+source:             DN42

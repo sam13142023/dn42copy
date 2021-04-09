@@ -1,0 +1,5 @@
+route6:             fd08:93f3:b7eb::/48
+origin:             AS4242421535
+max-length:         48
+mnt-by:             KAAASS-MNT
+source:             DN42

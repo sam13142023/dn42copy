@@ -1,0 +1,9 @@
+domain:             kaaass.dn42
+admin-c:            KAAASS-DN42
+tech-c:             KAAASS-DN42
+mnt-by:             KAAASS-MNT
+nserver:            ns1.kaaass.dn42 172.20.150.129
+nserver:            ns1.kaaass.dn42 fd08:93f3:b7eb:53::1
+nserver:            ns2.kaaass.dn42 172.20.150.130
+nserver:            ns2.kaaass.dn42 fd08:93f3:b7eb:53::2
+source:             DN42

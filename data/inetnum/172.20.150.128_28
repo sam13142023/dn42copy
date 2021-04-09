@@ -1,0 +1,10 @@
+inetnum:            172.20.150.128 - 172.20.150.143
+cidr:               172.20.150.128/28
+netname:            KAAASS-IPV4
+admin-c:            KAAASS-DN42
+tech-c:             KAAASS-DN42
+mnt-by:             KAAASS-MNT
+status:             ASSIGNED
+nserver:            ns1.kaaass.dn42
+nserver:            ns2.kaaass.dn42
+source:             DN42
