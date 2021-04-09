@@ -7,4 +7,6 @@ admin-c:            YUEKIS-DN42
 tech-c:             YUEKIS-DN42
 mnt-by:             YUEKIS-MNT
 status:             ASSIGNED
+nserver:            ns1.tkn.dn42
+nserver:            ns2.tkn.dn42
 source:             DN42

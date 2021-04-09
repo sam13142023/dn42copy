@@ -1,0 +1,9 @@
+domain:             tkn.dn42
+admin-c:            YUEKIS-DN42
+tech-c:             YUEKIS-DN42
+mnt-by:             YUEKIS-MNT
+nserver:            ns1.tkn.dn42 fdd0:448d:1447:1::
+nserver:            ns2.tkn.dn42 fdd0:448d:1447:2::
+nserver:            ns1.tkn.dn42 172.20.51.128
+nserver:            ns2.tkn.dn42 172.20.51.129
+source:             DN42
