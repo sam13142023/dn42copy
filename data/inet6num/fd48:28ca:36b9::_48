@@ -7,4 +7,7 @@ tech-c:             XINZHAO-DN42
 mnt-by:             XINZHAO-MNT
 status:             ASSIGNED
 cidr:               fd48:28ca:36b9::/48
+nserver:            ns1.ioalzx.dn42
+nserver:            ns2.ioalzx.dn42
+nserver:            ns3.ioalzx.dn42
 source:             DN42
