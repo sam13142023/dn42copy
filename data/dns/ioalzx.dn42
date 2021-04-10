@@ -1,0 +1,11 @@
+domain:             ioalzx.dn42
+admin-c:            XINZHAO-DN42
+tech-c:             XINZHAO-DN42
+mnt-by:             XINZHAO-MNT
+nserver:            ns1.ioalzx.dn42 172.23.8.17
+nserver:            ns1.ioalzx.dn42 fd48:28ca:36b9:2:feed::1
+nserver:            ns2.ioalzx.dn42 172.23.8.4
+nserver:            ns2.ioalzx.dn42 fd48:28ca:36b9:4::1
+nserver:            ns3.ioalzx.dn42 172.23.8.25
+nserver:            ns3.ioalzx.dn42 fd48:28ca:36b9:1:faad::1
+source:             DN42
