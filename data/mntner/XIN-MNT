@@ -4,4 +4,5 @@ org:                ORG-XIN
 admin-c:            XIN-DN42
 tech-c:             XIN-DN42
 mnt-by:             XIN-MNT
+remarks:            pin-sha256:fE6conQ1Ih6qiJs+NDD/balqi9wRK31SLlVNhaFp7ww=
 source:             DN42
