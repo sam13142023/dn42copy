@@ -66,6 +66,9 @@ remarks:            ════════════════════
 members:            AS4242420977
 remarks:            Moerail Network
 remarks:            ══════════════════════════════
+members:            AS4242421018
+remarks:            YUN
+remarks:            ══════════════════════════════
 members:            AS4242421032
 remarks:            RADIONOISE
 remarks:            ══════════════════════════════
@@ -227,6 +230,9 @@ remarks:            NUREX
 remarks:            ══════════════════════════════
 members:            AS4242423270
 remarks:            TAAVI
+remarks:            ══════════════════════════════
+members:            AS4242423308
+remarks:            TestNet DN42 Network
 remarks:            ══════════════════════════════
 members:            AS4242423315
 remarks:            Unknown Technology Solutions
