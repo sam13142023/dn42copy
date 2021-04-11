@@ -1,0 +1,7 @@
+domain:             baoshuo.dn42
+nserver:            ns1.baoshuo.dn42 172.23.250.65
+nserver:            ns1.baoshuo.dn42 fdbb:7278:face::1
+mnt-by:             BAOSHUO-MNT
+admin-c:            BAOSHUO-DN42
+tech-c:             BAOSHUO-DN42
+source:             DN42
