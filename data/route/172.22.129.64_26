@@ -1,0 +1,4 @@
+route:              172.22.129.64/26
+origin:             AS4242423152
+mnt-by:             TATK-MNT
+source:             DN42

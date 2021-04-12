@@ -1,0 +1,4 @@
+route6:             fdb2:e864:673e::/48
+origin:             AS4242423152
+mnt-by:             TATK-MNT
+source:             DN42

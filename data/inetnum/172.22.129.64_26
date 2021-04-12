@@ -1,0 +1,9 @@
+inetnum:            172.22.129.64 - 172.22.129.127
+cidr:               172.22.129.64/26
+netname:            TATK-NETWORK
+admin-c:            TATK-DN42
+tech-c:             TATK-DN42
+mnt-by:             TATK-MNT
+status:             ASSIGNED
+country:            GB
+source:             DN42
