@@ -1,5 +1,6 @@
 inetnum:            172.22.167.96 - 172.22.167.127
 cidr:               172.22.167.96/27
+nserver:            ns1.an.dn42
 netname:            ANILLC-NETWORK
 admin-c:            ANILLC-DN42
 tech-c:             ANILLC-DN42
