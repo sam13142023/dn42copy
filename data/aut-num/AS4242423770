@@ -13,6 +13,9 @@ remarks:            | fr-gra01  | EU-FR, Gravelines | OVH     (soon!) |
 remarks:            | fi-hel01  | EU-FI, Helsinki   | Hetzner (soon!) |
 remarks:            +-------------------------------------------------+
 remarks:                                                               
+remarks:            Routing Policies:
+mp-import:          afi any.unicast from AS4242423770:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242423770:AS-TRANSIT announce ANY
 admin-c:            CAFECAFE-DN42
 tech-c:             CAFECAFE-DN42
 mnt-by:             SERVERMADE-MNT
