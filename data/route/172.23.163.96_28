@@ -1,0 +1,4 @@
+route:              172.23.163.96/28
+origin:             AS4242421202
+mnt-by:             YESTERDAY17-MNT
+source:             DN42

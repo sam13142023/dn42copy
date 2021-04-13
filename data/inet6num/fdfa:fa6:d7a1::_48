@@ -1,0 +1,12 @@
+inet6num:           fdfa:0fa6:d7a1:0000:0000:0000:0000:0000 - fdfa:0fa6:d7a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfa:fa6:d7a1::/48
+netname:            MMF-NETWORK
+descr:              MMF Network
+country:            CN
+admin-c:            YESTERDAY17-DN42
+tech-c:             YESTERDAY17-DN42
+mnt-by:             YESTERDAY17-MNT
+status:             ASSIGNED
+nserver:            ns1.mmf.dn42
+nserver:            ns2.mmf.dn42
+source:             DN42

@@ -1,0 +1,11 @@
+aut-num:            AS4242421202
+as-name:            MMF-AS
+descr:              MMF Network
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,
+remarks:            if necessary, please send email to mmf@mmf.moe
+remarks:            --------------------------------------------------------
+admin-c:            YESTERDAY17-DN42
+tech-c:             YESTERDAY17-DN42
+mnt-by:             YESTERDAY17-MNT
+source:             DN42
