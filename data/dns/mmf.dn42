@@ -1,0 +1,9 @@
+domain:             mmf.dn42
+admin-c:            YESTERDAY17-DN42
+tech-c:             YESTERDAY17-DN42
+mnt-by:             YESTERDAY17-MNT
+nserver:            ns1.mmf.dn42 172.23.163.97
+nserver:            ns1.mmf.dn42 fdfa:fa6:d7a1::1
+nserver:            ns2.mmf.dn42 172.23.163.98
+nserver:            ns2.mmf.dn42 fdfa:fa6:d7a1::2
+source:             DN42

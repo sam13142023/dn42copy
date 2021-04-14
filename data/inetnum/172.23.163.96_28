@@ -1,0 +1,12 @@
+inetnum:            172.23.163.96 - 172.23.163.111
+cidr:               172.23.163.96/28
+netname:            MMF-NETWORK
+descr:              MMF Network
+country:            CN
+admin-c:            YESTERDAY17-DN42
+tech-c:             YESTERDAY17-DN42
+mnt-by:             YESTERDAY17-MNT
+status:             ASSIGNED
+nserver:            ns1.mmf.dn42
+nserver:            ns2.mmf.dn42
+source:             DN42
