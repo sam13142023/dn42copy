@@ -1,0 +1,13 @@
+inetnum:            172.20.59.112 - 172.20.59.119
+netname:            TATERLI-NETWORK
+remarks:            Peer with me at admin@taterli.com
+descr:              Peer with me at admin@taterli.com
+country:            CN
+admin-c:            TATERLI-DN42
+tech-c:             TATERLI-DN42
+mnt-by:             TATERLI-MNT
+nserver:            ns1.taterli.dn42
+nserver:            ns2.taterli.dn42
+status:             ASSIGNED
+cidr:               172.20.59.112/29
+source:             DN42
