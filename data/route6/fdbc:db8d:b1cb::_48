@@ -1,0 +1,5 @@
+route6:             fdbc:db8d:b1cb::/48
+descr:              On-campus Experimental Network
+origin:             AS4242421240
+mnt-by:             MONICA-MNT
+source:             DN42

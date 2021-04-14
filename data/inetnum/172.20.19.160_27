@@ -1,0 +1,13 @@
+inetnum:            172.20.19.160 - 172.20.19.191
+netname:            MONICA-IPV4
+remarks:            On-campus Experimental Network
+descr:              On-campus Experimental Network
+country:            HK
+admin-c:            MONICA-DN42
+tech-c:             MONICA-DN42
+mnt-by:             MONICA-MNT
+nserver:            ns1.monica.dn42
+nserver:            ns2.monica.dn42
+status:             ASSIGNED
+cidr:               172.20.19.160/27
+source:             DN42
