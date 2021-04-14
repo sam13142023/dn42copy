@@ -1,0 +1,7 @@
+mntner:             MONICA-MNT
+admin-c:            MONICA-DN42
+tech-c:             MONICA-DN42
+mnt-by:             MONICA-MNT
+source:             DN42
+auth:               pgp-fingerprint 2E7667F40B6F0CDEB498ECE428E4A5C34D13E19D
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE0OZn+XN4yOb8WxB0AlSBLSXMNxRDOoEmk4I/XSpm9p

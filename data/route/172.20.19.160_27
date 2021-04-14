@@ -1,0 +1,5 @@
+route:              172.20.19.160/27
+descr:              On-campus Experimental Network
+origin:             AS4242421240
+mnt-by:             MONICA-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdbc:db8d:b1cb:0000:0000:0000:0000:0000 - fdbc:db8d:b1cb:ffff:ffff:ffff:ffff:ffff
+netname:            MONICA-IPV6
+descr:              On-campus Experimental Network
+country:            HK
+admin-c:            MONICA-DN42
+tech-c:             MONICA-DN42
+mnt-by:             MONICA-MNT
+nserver:            ns1.monica.dn42
+nserver:            ns2.monica.dn42
+status:             ASSIGNED
+cidr:               fdbc:db8d:b1cb::/48
+source:             DN42
