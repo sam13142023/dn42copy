@@ -7,4 +7,6 @@ mnt-by:             JERRY-MNT
 status:             ASSIGNED
 nserver:            ns1.jerry.dn42
 nserver:            ns2.jerry.dn42
+nserver:            ns3.jerry.dn42
+ds-rdata:           60450 13 2 0FA8EB7FBDC4BFDC6C47D0A9B6B93270BF38254307E547172EE158A5D929FA15
 source:             DN42

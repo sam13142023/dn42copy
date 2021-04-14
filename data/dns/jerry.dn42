@@ -6,4 +6,7 @@ nserver:            ns1.jerry.dn42 172.20.51.97
 nserver:            ns1.jerry.dn42 fd07:d34:7969::1
 nserver:            ns2.jerry.dn42 172.20.51.120
 nserver:            ns2.jerry.dn42 fd07:d34:7969:100::1
+nserver:            ns3.jerry.dn42 172.20.51.112
+nserver:            ns3.jerry.dn42 fd07:d34:7969:200::1
+ds-rdata:           58538 13 2 50D4A69F7C6FC9F07EFCFDF8C781A38A06275F8F3ED376264BF373C9CA326F89
 source:             DN42
