@@ -1,0 +1,5 @@
+route:              172.20.59.112/29
+descr:              Peer with me at admin@taterli.com
+origin:             AS4242423446
+mnt-by:             TATERLI-MNT
+source:             DN42
