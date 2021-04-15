@@ -1,7 +1,7 @@
 inet6num:           fd42:e621:0000:0000:0000:0000:0000:0000 - fd42:e621:0000:ffff:ffff:ffff:ffff:ffff
-netname:            Koala-IPV6
+netname:            e621
 descr:              Koala
-country:            SG
+country:            JP
 admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
