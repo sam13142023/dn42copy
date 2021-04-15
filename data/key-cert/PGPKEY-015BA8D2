@@ -1,0 +1,19 @@
+key-cert:           PGPKEY-015BA8D2
+method:             PGP
+fingerpr:           C225 7ED1 7852 3214 1C4D  AD6D 44BB F66A 015B A8D2
+owner:              Zolfa DN42 <dn42@zolfa.nl>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEYHisfRYJKwYBBAHaRw8BAQdAdR4PiOXxWIcqvVOKBhi7kfY8TVlkX/je110Y
+certif:             HefjtUS0GlpvbGZhIERONDIgPGRuNDJAem9sZmEubmw+iJYEExYIAD4WIQTCJX7R
+certif:             eFIyFBxNrW1Eu/ZqAVuo0gUCYHisfQIbAwUJA8JnAAULCQgHAgYVCgkICwIEFgID
+certif:             AQIeAQIXgAAKCRBEu/ZqAVuo0mYVAP46skd83NXi4n0FtpTuB7fP5+flHkcyhtiN
+certif:             kyUwo81+NgD/cj/h2WW2ZPNBJlY2uMuIWhl+HU3wS0UndO4usCfqAQW4OARgeKx9
+certif:             EgorBgEEAZdVAQUBAQdAXL9CcR1ukI87Ye8fZXalYdHjCnlfFkvSYvGquW/0PTYD
+certif:             AQgHiH4EGBYIACYWIQTCJX7ReFIyFBxNrW1Eu/ZqAVuo0gUCYHisfQIbDAUJA8Jn
+certif:             AAAKCRBEu/ZqAVuo0lgXAQCV05sC6xMu/rKYCvAgFkFQz7IQhWkbpIxqiMgTWzkD
+certif:             VwD/bWixIrWa/93ixqevKZPVerwTUohXtl1yrjaRsqv3JAo=
+certif:             =v5eg
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             ZOLFA-MNT
+source:             DN42

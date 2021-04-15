@@ -1,0 +1,7 @@
+domain:             zolfa.dn42
+admin-c:            ZOLFA-DN42
+tech-c:             ZOLFA-DN42
+mnt-by:             ZOLFA-MNT
+nserver:            ns1.zolfa.dn42 fdf3:37e1:8d2c:f000::1
+nserver:            ns2.zolfa.dn42 fdf3:37e1:8d2c:f000::2
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdf3:37e1:8d2c:0000:0000:0000:0000:0000 - fdf3:37e1:8d2c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:37e1:8d2c::/48
+netname:            ZOLFA-NETWORK
+descr:              Network of ZOLFA
+country:            FR
+admin-c:            ZOLFA-DN42
+tech-c:             ZOLFA-DN42
+mnt-by:             ZOLFA-MNT
+nserver:            ns1.zolfa.dn42
+nserver:            ns2.zolfa.dn42
+status:             ASSIGNED
+source:             DN42
