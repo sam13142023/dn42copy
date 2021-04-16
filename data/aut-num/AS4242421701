@@ -1,0 +1,12 @@
+aut-num:            AS4242421701
+as-name:            CDNET-AS
+descr:              CDNet.dn42 https://dn42.cdnet.bid
+remarks:            --------------------------------------------------------
+                    This is ASN is maintained by CDNet folks to learn BGP.
+                    --------------------------------------------------------
+                    Please check https://dn42.cdnet.bid/ for more details.
+                    --------------------------------------------------------
+admin-c:            CDNET-DN42
+tech-c:             CDNET-DN42
+mnt-by:             CDNET-MNT
+source:             DN42

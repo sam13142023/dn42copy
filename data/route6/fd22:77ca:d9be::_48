@@ -1,0 +1,4 @@
+route6:             fd22:77ca:d9be::/48
+origin:             AS4242421701
+mnt-by:             CDNET-MNT
+source:             DN42
