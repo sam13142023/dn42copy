@@ -5,6 +5,6 @@ country:            PL
 admin-c:            SZCZOT3K-DN42
 tech-c:             SZCZOT3K-DN42
 mnt-by:             SZCZOT3K-MNT
-nserver:            ns1.szczot3k.dn42
+nserver:            ns.anycast.szczot3k.dn42
 status:             ASSIGNED
 source:             DN42
