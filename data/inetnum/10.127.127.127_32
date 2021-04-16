@@ -1,0 +1,8 @@
+inetnum:            10.127.127.127 - 10.127.127.127
+cidr:               10.127.127.127/32
+netname:            Yura Neo Anycast
+admin-c:            YURA-NEONETWORK
+tech-c:             YURA-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
