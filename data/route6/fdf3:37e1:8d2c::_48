@@ -1,0 +1,5 @@
+route6:             fdf3:37e1:8d2c::/48
+origin:             AS4242421042
+max-length:         56
+mnt-by:             ZOLFA-MNT
+source:             DN42
