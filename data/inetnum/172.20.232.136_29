@@ -1,0 +1,9 @@
+inetnum:            172.20.232.136 - 172.20.232.143
+cidr:               172.20.232.136/29
+netname:            SANQUILMAS-NETWORK
+admin-c:            SANQUILMAS-DN42
+tech-c:             SANQUILMAS-DN42
+mnt-by:             GATUNO-MNT
+mnt-by:             SANQUILMAS-MNT
+status:             ASSIGNED
+source:             DN42
