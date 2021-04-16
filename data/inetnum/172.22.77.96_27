@@ -1,0 +1,9 @@
+inetnum:            172.22.77.96 - 172.22.77.127
+cidr:               172.22.77.96/27
+netname:            CDNET-NET4
+descr:              CDNet DN42 IPv4 block
+admin-c:            CDNET-DN42
+tech-c:             CDNET-DN42
+mnt-by:             CDNET-MNT
+status:             ASSIGNED
+source:             DN42

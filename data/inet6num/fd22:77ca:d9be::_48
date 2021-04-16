@@ -1,0 +1,10 @@
+inet6num:           fd22:77ca:d9be:0000:0000:0000:0000:0000 - fd22:77ca:d9be:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:77ca:d9be::/48
+netname:            CDNET-NETWORK
+descr:              CDNET DN42 IPv6 Network
+country:            CN
+admin-c:            CDNET-DN42
+tech-c:             CDNET-DN42
+mnt-by:             CDNET-MNT
+status:             ASSIGNED
+source:             DN42
