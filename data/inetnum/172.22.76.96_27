@@ -13,9 +13,9 @@ nserver:            ns2.lantian.dn42
 nserver:            ns3.lantian.dn42
 nserver:            ns4.lantian.dn42
 nserver:            ns5.lantian.dn42
-ds-rdata:           8488 13 1 bde2d96218c9602ec80d72262e4a065ad836a840
-ds-rdata:           8488 13 2 3eb3cbcb916c1ace1376529ddf67ef3ae37ceb67c24c90edd62cdbe699000b3d
-ds-rdata:           8488 13 4 877586405b312ef1b15db409b37e2df99b01e4d47bbb4d9677d389775848c4d9ae0882d8aeb092421ae9d5a18b7ce365
+ds-rdata:           27416 13 1 1E662EE4BE7A8D9EE6FAED9EB142170A72D9556E
+ds-rdata:           27416 13 2 C385A73F8623F00CB7BB13C5900EFEA0072BA1766D93C8ABB81E1CE2D787AF48
+ds-rdata:           27416 13 4 114902D2CA639EE403B9179F37AD3AEEEA2FAF00A19C0CDEA7DC1E40E9AA4E4291A3E63092E9DCCDAFEB40D112B9F606
 status:             ASSIGNED
 cidr:               172.22.76.96/27
 source:             DN42
