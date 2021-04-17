@@ -1,4 +1,4 @@
-inetnum:            172.21.114.0 - 172.21.114.15
+inetnum:            172.21.114.0 - 172.21.114.31
 netname:            PPPWAW-IPV4
 remarks:            welcome to contant me at pppwaw@pppwaw.top
 descr:              welcome to contant me at pppwaw@pppwaw.top
@@ -7,5 +7,5 @@ admin-c:            PPPWAW-DN42
 tech-c:             PPPWAW-DN42
 mnt-by:             PPPWAW-MNT
 status:             ASSIGNED
-cidr:               172.21.114.0/28
+cidr:               172.21.114.0/27
 source:             DN42

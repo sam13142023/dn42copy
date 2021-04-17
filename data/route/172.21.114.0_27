@@ -1,4 +1,4 @@
-route:              172.21.114.0/28
+route:              172.21.114.0/27
 descr:              welcome to contant me at pppwaw@pppwaw.top
 origin:             AS4242422049
 mnt-by:             PPPWAW-MNT
