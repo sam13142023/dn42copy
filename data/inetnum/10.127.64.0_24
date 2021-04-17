@@ -1,0 +1,8 @@
+inetnum:            10.127.64.0 - 10.127.64.255
+cidr:               10.127.64.0/24
+netname:            MOECAST-EXP-NET
+admin-c:            LIANGJW-NEONETWORK
+tech-c:             LIANGJW-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
