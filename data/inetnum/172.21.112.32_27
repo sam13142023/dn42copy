@@ -1,0 +1,11 @@
+inetnum:            172.21.112.32 - 172.21.112.63
+netname:            MASN-IPV4
+remarks:            Info at mariogar1979@gmail.com
+descr:              Info at mariogar1979@gmail.com
+country:            BR
+admin-c:            MASN-DN42
+tech-c:             MASN-DN42
+mnt-by:             MASN-MNT
+status:             ASSIGNED
+cidr:               172.21.112.32/27
+source:             DN42
