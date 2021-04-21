@@ -1,0 +1,10 @@
+inet6num:           fd83:b5b8:d749:0000:0000:0000:0000:0000 - fd83:b5b8:d749:ffff:ffff:ffff:ffff:ffff
+netname:            MADER-IPV6
+descr:              Peer with me at 0x4qewj@gmail.com
+country:            CN
+admin-c:            MADER-DN42
+tech-c:             MADER-DN42
+mnt-by:             MADER-MNT
+status:             ASSIGNED
+cidr:               fd83:b5b8:d749::/48
+source:             DN42
