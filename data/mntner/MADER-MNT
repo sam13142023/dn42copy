@@ -1,0 +1,6 @@
+mntner:             MADER-MNT
+admin-c:            MADER-DN42
+tech-c:             MADER-DN42
+mnt-by:             MADER-MNT
+source:             DN42
+auth:               pgp-fingerprint 82ADC321F9B4E91E61A770790BE29FAB04E25D5D

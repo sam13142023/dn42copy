@@ -1,0 +1,11 @@
+inetnum:            172.21.106.192 - 172.21.106.223
+netname:            MADER-IPV4
+remarks:            Peer with me at 0x4qewj@gmail.com
+descr:              Peer with me at 0x4qewj@gmail.com
+country:            CN
+admin-c:            MADER-DN42
+tech-c:             MADER-DN42
+mnt-by:             MADER-MNT
+status:             ASSIGNED
+cidr:               172.21.106.192/27
+source:             DN42
