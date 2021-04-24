@@ -1,5 +1,5 @@
 aut-num:            AS4242421876
-as-name:            FIXMIX-AS-DN42
+as-name:            FIXMIX-42
 descr:              fixmix DN42 Network
 org:                ORG-FIXMIX
 member-of:          AS-FIXMIX42
@@ -13,20 +13,21 @@ remarks:            ║═══════════════════
 remarks:            ║ * Tier 2 Network certified by info.nia.dn42  ║
 remarks:            ║ * Open Peering Policy                        ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * 17 Nodes Available for Peering:            ║
-remarks:            ║   - New York City, United States             ║
-remarks:            ║   - Los Angeles, United States               ║
-remarks:            ║   - Chicago, United States                   ║
-remarks:            ║   - Las Vegas, United States                 ║
+remarks:            ║ * 18 Nodes Available for Peering:            ║
 remarks:            ║   - Nuremberg, Germany                       ║
 remarks:            ║   - Frankfurt, Germany                       ║
-remarks:            ║   - Amsterdam 1/2, Netherlands               ║
+remarks:            ║   - Amsterdam, Netherlands (*2)              ║
 remarks:            ║   - Moscow, Russia                           ║
+remarks:            ║   - Los Angeles, United States               ║
+remarks:            ║   - New York City, United States             ║
+remarks:            ║   - Chicago, United States                   ║
+remarks:            ║   - Las Vegas, United States                 ║
+remarks:            ║   - Vancouver, Canada                        ║
+remarks:            ║   - Hong Kong, China (*2)                    ║
 remarks:            ║   - Tokyo, Japan                             ║
 remarks:            ║   - Singapore                                ║
-remarks:            ║   - Hong Kong 1/2, China                     ║
 remarks:            ║   - Shanghai, China                          ║
-remarks:            ║   - Shenyang 1/2, China                      ║
+remarks:            ║   - Shenyang, China (*2)                     ║
 remarks:            ║   - Auckland, New Zealand                    ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Info Page: bit.ly/1876-info    (external)  ║
