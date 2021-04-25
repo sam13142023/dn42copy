@@ -1,0 +1,5 @@
+route6:             fd42:defe:c8ed::/48
+origin:             AS4242422457
+max-length:         48
+mnt-by:             ASTROANAX-MNT
+source:             DN42

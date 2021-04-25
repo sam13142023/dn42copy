@@ -1,0 +1,10 @@
+inet6num:           fd42:defe:c8ed:0000:0000:0000:0000:0000 - fd42:defe:c8ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:defe:c8ed::/48
+netname:            ASTROANAX-NETWORK
+descr:              astroanax's dn42 network
+country:            IN
+admin-c:            ASTROANAX-DN42
+tech-c:             ASTROANAX-DN42
+mnt-by:             ASTROANAX-MNT
+status:             ASSIGNED
+source:             DN42
