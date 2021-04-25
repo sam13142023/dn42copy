@@ -1,0 +1,7 @@
+inetnum:            10.101.66.16 - 10.101.66.31
+cidr:               10.101.66.16/28
+netname:            CHAOSVPN-TRIO
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,7 @@
+inet6num:           fd42:0064:0654:0000:0000:0000:0000:0000 - fd42:0064:0654:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:64:654::/48
+netname:            CHAOSVPN-AAA-VPNHUB1
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

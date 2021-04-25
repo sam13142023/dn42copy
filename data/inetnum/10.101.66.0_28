@@ -1,0 +1,7 @@
+inetnum:            10.101.66.0 - 10.101.66.15
+cidr:               10.101.66.0/28
+netname:            CHAOSVPN-DUO
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN
