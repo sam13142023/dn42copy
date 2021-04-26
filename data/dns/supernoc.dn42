@@ -1,0 +1,7 @@
+domain:             supernoc.dn42
+admin-c:            SNOC-DN42
+tech-c:             SNOC-DN42
+mnt-by:             SNOC-MNT
+nserver:            ns1.supernoc.dn42 172.20.163.97
+nserver:            ns1.supernoc.dn42 fd2c:2fa3:62f1:1::1
+source:             DN42
