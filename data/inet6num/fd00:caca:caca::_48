@@ -1,0 +1,10 @@
+inet6num:           fd00:caca:caca:0000:0000:0000:0000:0000 - fd00:caca:caca:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:caca:caca::/48
+netname:            JLXIP-NETWORK
+descr:              Network for jlxip
+country:            ES
+admin-c:            JLXIP-DN42
+tech-c:             JLXIP-DN42
+mnt-by:             JLXIP-MNT
+status:             ASSIGNED
+source:             DN42

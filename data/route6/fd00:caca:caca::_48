@@ -1,0 +1,5 @@
+route6:             fd00:caca:caca::/48
+origin:             AS4242422896
+max-length:         48
+mnt-by:             JLXIP-MNT
+source:             DN42
