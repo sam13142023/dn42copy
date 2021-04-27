@@ -4,4 +4,5 @@ tech-c:             SNOC-DN42
 mnt-by:             SNOC-MNT
 nserver:            ns1.supernoc.dn42 172.20.163.97
 nserver:            ns1.supernoc.dn42 fd2c:2fa3:62f1:1::1
+ds-rdata:           28971 13 2 E30AF2C527371941501751AD189390248CFF521C47739DCA10E999D4E8C804B3
 source:             DN42
