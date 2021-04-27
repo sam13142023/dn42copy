@@ -10,7 +10,9 @@ mp-export:          afi any.unicast to AS-FIXMIX42:AS-DOWNSTREAM announce ANY
 remarks:            ╔══════════════════════════════════════════════╗
 remarks:            ║  fixmix DN42 Network     ·     AS4242421876  ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * Tier 2 Network certified by info.nia.dn42  ║
+remarks:            ║ * Tier 1 Network certified by info.nia.dn42  ║
+remarks:            ║ * Direct connections to 90+ networks         ║
+remarks:            ║   including Freifunk ICVPN & ChaosVPN        ║
 remarks:            ║ * Open Peering Policy                        ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * 18 Nodes Available for Peering:            ║
@@ -30,10 +32,10 @@ remarks:            ║   - Shanghai, China                          ║
 remarks:            ║   - Shenyang, China (*2)                     ║
 remarks:            ║   - Auckland, New Zealand                    ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * Info Page: bit.ly/1876-info    (external)  ║
-remarks:            ║              fixmix.dn42         (DN42)      ║
-remarks:            ║ * Looking Glass: bit.ly/1876-lg  (external)  ║
-remarks:            ║                  lg.fixmix.dn42  (DN42)      ║
+remarks:            ║ * Info Page: fixmix.dn42         (DN42)      ║
+remarks:            ║              bit.ly/1876-info    (external)  ║
+remarks:            ║ * Looking Glass: lg.fixmix.dn42  (DN42)      ║
+remarks:            ║                  bit.ly/1876-lg  (external)  ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Contact:                                   ║
 remarks:            ║   - Email: ops@fixmix.network                ║
