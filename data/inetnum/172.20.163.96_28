@@ -7,3 +7,4 @@ mnt-by:             SNOC-MNT
 status:             ASSIGNED
 source:             DN42
 nserver:            ns1.supernoc.dn42
+ds-rdata:           38543 13 2 F14CFD051F1F49DF1F06F429125FD9ECF9A0C448CA858B4F457DB6A4400FD4DD
