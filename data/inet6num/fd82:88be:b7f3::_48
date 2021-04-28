@@ -1,0 +1,11 @@
+inet6num:           fd82:88be:b7f3:0000:0000:0000:0000:0000 - fd82:88be:b7f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd82:88be:b7f3::/48
+netname:            DGT-NETWORK
+descr:              Network of DGT
+country:            UK
+admin-c:            DGT-DN42
+tech-c:             DGT-DN42
+mnt-by:             DGT-MNT
+nserver:            ns1.dgt.dn42
+status:             ASSIGNED
+source:             DN42

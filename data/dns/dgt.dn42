@@ -1,0 +1,6 @@
+domain:             dgt.dn42
+admin-c:            DGT-DN42
+tech-c:             DGT-DN42
+mnt-by:             DGT-MNT
+nserver:            ns1.dgt.dn42 fd82:88be:b7f3::53
+source:             DN42
