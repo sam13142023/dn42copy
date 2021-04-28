@@ -3,10 +3,6 @@ descr:              fixmix Technologies DN42 Downstream as-set
 remarks:            ══════════════════════════════
 members:            AS4242421876:AS-DOWNSTREAM
 remarks:            ══════════════════════════════
-remarks:            AS4201270021:AS-DOWNSTREAM
-remarks:            ══════════════════════════════
-members:            AS211876:AS-DOWNSTREAM
-remarks:            ══════════════════════════════
 admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT
