@@ -6,6 +6,7 @@ org:                ORG-FIXMIX
 nserver:            ns1.fixmix.dn42
 nserver:            ns2.fixmix.dn42
 nserver:            ns3.fixmix.dn42
+ds-rdata:           43174 7 2 DCD156A84D2D02E984FD73B683322B2350C9B82516953EE04B6B3C98F5294686
 admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT
