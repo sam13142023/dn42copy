@@ -1,0 +1,8 @@
+inetnum:            172.23.109.224 - 172.23.109.231
+cidr:               172.23.109.224/29
+netname:            JLXIP-NETWORK4
+admin-c:            JLXIP-DN42
+tech-c:             JLXIP-DN42
+mnt-by:             JLXIP-MNT
+status:             ASSIGNED
+source:             DN42

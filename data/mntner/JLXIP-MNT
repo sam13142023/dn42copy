@@ -1,0 +1,6 @@
+mntner:             JLXIP-MNT
+admin-c:            JLXIP-DN42
+tech-c:             JLXIP-DN42
+mnt-by:             JLXIP-MNT
+auth:               pgp-fingerprint 36F83BE351A68EA30E3290BDE3175C004A92F7DF
+source:             DN42
