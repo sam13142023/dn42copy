@@ -1,0 +1,6 @@
+mntner:             DGT-MNT
+admin-c:            DGT-DN42
+tech-c:             DGT-DN42
+mnt-by:             DGT-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAg9cxKqn00jpo0sCc80YHctbJIZQgFEdd8hHeSDuLq9
+source:             DN42
