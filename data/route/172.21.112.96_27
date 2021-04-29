@@ -1,0 +1,4 @@
+route:              172.21.112.96/27
+origin:             AS4242421801
+mnt-by:             VVIDIC-MNT
+source:             DN42

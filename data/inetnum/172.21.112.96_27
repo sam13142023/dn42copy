@@ -1,0 +1,8 @@
+inetnum:            172.21.112.96 - 172.21.112.127
+cidr:               172.21.112.96/27
+netname:            VVIDIC-NETWORK
+admin-c:            VVIDIC-DN42
+tech-c:             VVIDIC-DN42
+mnt-by:             VVIDIC-MNT
+status:             ASSIGNED
+source:             DN42

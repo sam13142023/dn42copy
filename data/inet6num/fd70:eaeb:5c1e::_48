@@ -1,0 +1,10 @@
+inet6num:           fd70:eaeb:5c1e:0000:0000:0000:0000:0000 - fd70:eaeb:5c1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:eaeb:5c1e::/48
+netname:            VVIDIC-NETWORK
+descr:              Network of VVIDIC
+country:            HR
+admin-c:            VVIDIC-DN42
+tech-c:             VVIDIC-DN42
+mnt-by:             VVIDIC-MNT
+status:             ASSIGNED
+source:             DN42
