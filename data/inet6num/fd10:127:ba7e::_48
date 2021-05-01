@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:ba7e:0000:0000:0000:0000:0000 - fd10:0127:ba7e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:ba7e::/48
+netname:            lilydjwg
+admin-c:            LILYDJWG-NEONETWORK
+tech-c:             LILYDJWG-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

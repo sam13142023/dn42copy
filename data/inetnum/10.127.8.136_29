@@ -1,0 +1,8 @@
+inetnum:            10.127.8.136 - 10.127.8.143
+cidr:               10.127.8.136/29
+netname:            lilydjwg
+admin-c:            LILYDJWG-NEONETWORK
+tech-c:             LILYDJWG-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
