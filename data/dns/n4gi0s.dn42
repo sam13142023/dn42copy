@@ -1,0 +1,8 @@
+domain:             n4gi0s.dn42
+descr:              N4gi0s DNS
+admin-c:            N4GI0S-DN42
+tech-c:             N4GI0S-DN42
+mnt-by:             N4GI0S-MNT
+nserver:            ns1.n4gi0s.dn42 172.22.66.97
+nserver:            ns1.n4gi0s.dn42 fd6b:d585:9b1e:d775::1
+source:             DN42

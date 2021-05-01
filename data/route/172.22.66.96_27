@@ -1,0 +1,4 @@
+route:              172.22.66.96/27
+origin:             AS4242421311
+mnt-by:             N4GI0S-MNT
+source:             DN42
