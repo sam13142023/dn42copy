@@ -1,0 +1,9 @@
+inetnum:            172.22.66.96 - 172.22.66.127
+cidr:               172.22.66.96/27
+netname:            N4GI0S-V4-NET-1
+country:            DE
+admin-c:            N4GI0S-DN42
+tech-c:             N4GI0S-DN42
+mnt-by:             N4GI0S-MNT
+status:             ASSIGNED
+source:             DN42
