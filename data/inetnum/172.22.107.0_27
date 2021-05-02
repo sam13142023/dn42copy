@@ -1,0 +1,11 @@
+inetnum:            172.22.107.0 - 172.22.107.31
+netname:            MYL7-IPV4
+country:            CN
+admin-c:            MYL7-DN42
+tech-c:             MYL7-DN42
+mnt-by:             MYL7-MNT
+nserver:            ns1.myl.dn42
+nserver:            ns2.myl.dn42
+status:             ASSIGNED
+cidr:               172.22.107.0/27
+source:             DN42

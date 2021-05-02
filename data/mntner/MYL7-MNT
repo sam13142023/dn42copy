@@ -1,0 +1,7 @@
+mntner:             MYL7-MNT
+admin-c:            MYL7-DN42
+tech-c:             MYL7-DN42
+mnt-by:             MYL7-MNT
+source:             DN42
+auth:               pgp-fingerprint A74C0EAF8DB7502D7D51F9BE04F1013B67177C88
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZBbSFzrOZqLHYKVbCyAyoXpx9g8Me/pWsmEp0Pj2MqTGxw9yTQK0Tyf9ks6LGAjJyvqmEJ9P7DOSvO/DAYMYCaweYdv+pFeI4WgRqxEECfWovaY13h3+rUsxPFOS1mamOrOiSX70Pa5RjOjdiBgGIwxJxA5qa78NUGhyBJVNccCWCFecIsujDldw7YavyyRvZEGeT7XNHaVDOYA1gmNGrPp8DeOQ55bMfTp3wP+MCg9IcsiugUe5lIVHEIx3n2tBoB/IuqJdy2AiZO2aKx0Cj2OA03lGe66b01hMVrrG4UJc5/Yn01SQgvvCmqlFQdyDeIjI4OJrVmgeiMk7hi6XRFNXb/VQbLegWS6cOWuHpg/7eA3TtSR85UgDxXrHwTH1m2R2ioZIyFwaq7Ke9wha/IffMRsSsCKj/dPj/l5yY4hIDeReEURoNXI100ldazsKF24cytXUxVulgGf1jpxHiHjcwx+oH9tcjnvEg5rj8Bi9WVFdFKjcyJ6i54onnoX608qvAqBvReC/I2Bv4CKmyFO7c65Bhgr7OrujLJNxWh7lygnXMyadmAJlw469zuFB3ZZ6QH3sHJyuuyOL6xrOWioa1UJ5qsgNj2KdgmybiQaOaj7D0qmBDhfBFvfoTObsjbIwrsxq8UNZrVdluwKGN8d2vynWoOrwJ1n8hWACISQ== myl@dell

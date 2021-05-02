@@ -1,0 +1,4 @@
+route:              172.22.107.0/27
+origin:             AS4242420245
+mnt-by:             MYL7-MNT
+source:             DN42

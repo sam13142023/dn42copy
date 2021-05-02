@@ -1,0 +1,11 @@
+inet6num:           fd02:2d97:1ccf:0000:0000:0000:0000:0000 - fd02:2d97:1ccf:ffff:ffff:ffff:ffff:ffff
+netname:            MYL7-IPV6
+country:            CN
+admin-c:            MYL7-DN42
+tech-c:             MYL7-DN42
+mnt-by:             MYL7-MNT
+nserver:            ns1.myl.dn42
+nserver:            ns2.myl.dn42
+status:             ASSIGNED
+cidr:               fd02:2d97:1ccf::/48
+source:             DN42

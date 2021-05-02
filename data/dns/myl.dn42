@@ -1,0 +1,9 @@
+domain:             myl.dn42
+admin-c:            MYL7-DN42
+tech-c:             MYL7-DN42
+mnt-by:             MYL7-MNT
+nserver:            ns1.myl.dn42 172.22.107.1
+nserver:            ns1.myl.dn42 fd02:2d97:1ccf:53::1
+nserver:            ns2.myl.dn42 172.22.107.2
+nserver:            ns2.myl.dn42 fd02:2d97:1ccf:53::2
+source:             DN42
