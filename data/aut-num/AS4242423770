@@ -1,19 +1,137 @@
 aut-num:            AS4242423770
 as-name:            SERVERMADE-AS
-remarks:            For peerings, contact me at:
-remarks:                dn42.registry @at@ periloso.com
 remarks:            
-remarks:            +-------------------------------------------------+
-remarks:            | AS4242423770    Peering locations               |
-remarks:            +-------------------------------------------------+
-remarks:            | Name      | Location          | Provider        |
-remarks:            +-------------------------------------------------+
-remarks:            | fr-rbx01  | EU-FR, Roubaix    | OVH             |
-remarks:            | fr-gra01  | EU-FR, Gravelines | OVH     (soon!) |
-remarks:            | fi-hel01  | EU-FI, Helsinki   | Hetzner (soon!) |
-remarks:            +-------------------------------------------------+
-remarks:                                                               
-remarks:            Routing Policies:
+remarks:            +--------------------------------------------------+
+remarks:            |                ServerMade Network                |
+remarks:            |                Peering locations                 |
+remarks:            +--------------------------------------------------+
+remarks:            | Open for Peering.                                |
+remarks:            | Contact: dn42.registry @at@ periloso.com         |
+remarks:            | Accepted connection methods: Wireguard           |
+remarks:            |                                                  |
+remarks:            +--------------------------------------------------+
+remarks:            | Name  | Location                | Provider       |
+remarks:            +--------------------------------------------------+
+remarks:            | rbx1  | Roubaix, France, EU     | OVH            |
+remarks:            | hel1  | Helsinki, Finland, EU   | Hetzner        |
+remarks:            | nbg1  | Nuremberg, Germany, EU  | Hetzner        |
+remarks:            | bhs1  | Beauharnois, Quebec, CA | OVH            |
+remarks:            | gra1  | Gravelines, France, EU  | OVH (soon!)    |
+remarks:            +--------------------------------------------------+
+remarks:            | To ping a node, the full address can be used:    |
+remarks:            | <name>.dn42.servermade.com                       |
+remarks:            | Ex: rbx1.dn42.servermade.com                     |
+remarks:            |                                                  |
+remarks:            +--------------------------------------------------+
+remarks:            | Peering details are easily retrieved using dig:  |
+remarks:            | dig TXT <name>.dn42.servermade.com               |
+remarks:            |                                                  |
+remarks:            +--------------------------------------------------+
+remarks:            
+remarks:            We appreciate the following:
+remarks:            
+remarks:            1. ROA filtering
+remarks:            2. Route Origin Community
+remarks:            3. Routing based on region and latency community
+remarks:            4. Only create one session if Multiprotocol BGP is
+remarks:            supported
+remarks:            5. Polite and passionate
+remarks:            
+remarks:            
+remarks:            ----------------------------------------------------
+remarks:            Communities
+remarks:            ----------------------------------------------------
+remarks:            1. DN42 BGP communities
+remarks:            Standard DN42 Communities are sent to our peers as
+remarks:            advised in the DN42 wiki.
+remarks:            
+remarks:            Latency                                    Community
+remarks:            ----------------------------------------------------
+remarks:            Between 0ms and 2.7ms                        64511:1
+remarks:            Between 2.7ms and 7.3ms                      64511:2
+remarks:            Between 7.3ms and 20ms                       64511:3
+remarks:            Between 20ms and 55ms                        64511:4
+remarks:            Between 55ms and 148ms                       64511:5
+remarks:            Between 148ms and 403ms                      64511:6
+remarks:            Between 403ms and 1097ms                     64511:7
+remarks:            Between 1097ms and 2981ms                    64511:8
+remarks:            Above 2981ms                                 64511:9
+remarks:            
+remarks:            Bandwidth                                  Community
+remarks:            ----------------------------------------------------
+remarks:            Between 0.1mbit and 1mbit                   64511:21
+remarks:            Between 1mbit and 10mbit                    64511:22
+remarks:            Between 10mbit and 100mbit                  64511:23
+remarks:            Between 100mbit and 1000mbit                64511:24
+remarks:            Above 1000mbit                              64511:25
+remarks:            
+remarks:            Encryption                                 Community
+remarks:            ----------------------------------------------------
+remarks:            Not encrypted                               64511:31
+remarks:            Encrypted with unsafe VPN                   64511:32
+remarks:            Encrypted with safe VPN (without PFS)       64511:33
+remarks:            Encrypted with safe VPN (with PFS)          64511:34
+remarks:            
+remarks:            Region Originating the route               Community
+remarks:            ----------------------------------------------------
+remarks:            Europe                                      64511:41
+remarks:            North America (East Coast)                  64511:42
+remarks:            North America (Central)                     64511:43
+remarks:            North America (West Coast)                  64511:44
+remarks:            Central America                             64511:45
+remarks:            South America (East Coast)                  64511:46
+remarks:            South America (West Coast)                  64511:47
+remarks:            Africa North (above Sahara)                 64511:48
+remarks:            Africa South (below Sahara)                 64511:49
+remarks:            South Asia                                  64511:50
+remarks:            Southeast Asia                              64511:51
+remarks:            Northeast Asia                              64511:52
+remarks:            Pacific                                     64511:53
+remarks:            
+remarks:            2. Large communities
+remarks:            2.1 Route Preference
+remarks:            The Local Preference assigned to this route.
+remarks:            
+remarks:            Value                                Large Community
+remarks:            ----------------------------------------------------
+remarks:            Self Originated                     4242423770:1:500
+remarks:            
+remarks:            2.2 Region Receiving Route
+remarks:            Region where we received this route.
+remarks:            
+remarks:            Region Receiving Route               Large Community
+remarks:            ----------------------------------------------------
+remarks:            Europe                             4242423770:101:41
+remarks:            North America (East Coast)         4242423770:101:42
+remarks:            North America (Central)            4242423770:101:43
+remarks:            North America (West Coast)         4242423770:101:44
+remarks:            Central America                    4242423770:101:45
+remarks:            South America (East Coast)         4242423770:101:46
+remarks:            South America (West Coast)         4242423770:101:47
+remarks:            Africa North (above Sahara)        4242423770:101:48
+remarks:            Africa South (below Sahara)        4242423770:101:49
+remarks:            South Asia                         4242423770:101:50
+remarks:            Southeast Asia                     4242423770:101:51
+remarks:            Northeast Asia                     4242423770:101:52
+remarks:            Pacific                            4242423770:101:53
+remarks:            
+remarks:            2.3 Route Received by NodeID
+remarks:            Internal NodeID who received this route.
+remarks:            The NodeID is created from our node IPv4 address.
+remarks:            Ex: 172.22.118.133 becomes PeerID 22118133.
+remarks:            
+remarks:            Description                          Large Community
+remarks:            ----------------------------------------------------
+remarks:            PeerID                       4242423770:103:(PeerID)
+remarks:            
+remarks:            2.4 Informational Codes
+remarks:            Additional communities, used for troubleshooting.
+remarks:            
+remarks:            Description                          Large Community
+remarks:            ----------------------------------------------------
+remarks:            Route Received from ASN        4242423770:1002:(ASN)
+remarks:            Route Sent to ASN              4242423770:1003:(ASN)
+remarks:            
 mp-import:          afi any.unicast from AS4242423770:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS4242423770:AS-TRANSIT announce ANY
 admin-c:            CAFECAFE-DN42
