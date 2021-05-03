@@ -1,5 +1,6 @@
 aut-num:            AS4242423343
-as-name:            AS for BlueSys Network
+as-name:            BLUESYS-AS
+descr:              bluemedia.dn42 https://dn42.bluemedia.dev
 admin-c:            BLUEMEDIA-DN42
 tech-c:             BLUEMEDIA-DN42
 mnt-by:             BLUESYS-MNT

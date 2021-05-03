@@ -1,0 +1,8 @@
+domain:             bluemedia.dn42
+descr:              bluemedia.dn42 https://dn42.bluemedia.dev/
+admin-c:            BLUEMEDIA-DN42
+tech-c:             BLUEMEDIA-DN42
+mnt-by:             BLUESYS-MNT
+nserver:            ns1.bluemedia.dn42 172.22.167.90
+nserver:            ns1.bluemedia.dn42 fd75:eca7:b62a:40::53
+source:             DN42
