@@ -6,5 +6,6 @@ country:            DE
 admin-c:            BLUEMEDIA-DN42
 tech-c:             BLUEMEDIA-DN42
 mnt-by:             BLUESYS-MNT
+nserver:            ns1.bluemedia.dn42
 status:             ASSIGNED
 source:             DN42
