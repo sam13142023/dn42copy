@@ -5,5 +5,6 @@ country:            DE
 admin-c:            N4GI0S-DN42
 tech-c:             N4GI0S-DN42
 mnt-by:             N4GI0S-MNT
+nserver:            ns1.n4gi0s.dn42
 status:             ASSIGNED
 source:             DN42
