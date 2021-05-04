@@ -1,0 +1,9 @@
+inet6num:           fdb8:946a:bc01:0000:0000:0000:0000:0000 - fdb8:946a:bc01:ffff:ffff:ffff:ffff:ffff
+netname:            HINATAKATO-IPV6
+country:            CN
+admin-c:            HINATAKATO-DN42
+tech-c:             HINATAKATO-DN42
+mnt-by:             HINATAKATO-MNT
+status:             ASSIGNED
+cidr:               fdb8:946a:bc01::/48
+source:             DN42
