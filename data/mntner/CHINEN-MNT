@@ -1,0 +1,6 @@
+mntner:             CHINEN-MNT
+admin-c:            CHINEN-DN42
+tech-c:             CHINEN-DN42
+mnt-by:             CHINEN-MNT
+auth:               pgp-fingerprint 2180DE31AFFA31D015D4B149D7EA17CAE741ECBE
+source:             DN42
