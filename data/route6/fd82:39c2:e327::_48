@@ -1,0 +1,5 @@
+route6:             fd82:39c2:e327::/48
+origin:             AS4242421567
+max-length:         64
+mnt-by:             CHINEN-MNT
+source:             DN42
