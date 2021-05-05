@@ -1,0 +1,10 @@
+inetnum:            172.23.162.96 - 172.23.162.127
+cidr:               172.23.162.96/27
+netname:            GHASTINGS-IPV4
+descr:              Peer with me at gareth+dn42@netgs.co.uk
+country:            UK
+admin-c:            GHASTINGS-DN42
+tech-c:             GHASTINGS-DN42
+mnt-by:             GHASTINGS-MNT
+status:             ASSIGNED
+source:             DN42

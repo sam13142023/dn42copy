@@ -1,0 +1,5 @@
+route:              172.23.162.96/27
+descr:              GHASTINGS-IPV4
+origin:             AS4242423937
+mnt-by:             GHASTINGS-MNT
+source:             DN42
