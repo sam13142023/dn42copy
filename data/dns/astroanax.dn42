@@ -1,0 +1,7 @@
+domain:             astroanax.dn42
+admin-c:            ASTROANAX-DN42
+tech-c:             ASTROANAX-DN42
+mnt-by:             ASTROANAX-MNT
+nserver:            ns1.astroanax.dn42 172.21.112.65
+nserver:            ns1.astroanax.dn42 fd42:defe:c8ed::1
+source:             DN42
