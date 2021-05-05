@@ -8,3 +8,4 @@ tech-c:             ASTROANAX-DN42
 mnt-by:             ASTROANAX-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.astroanax.dn42
