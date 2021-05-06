@@ -1,0 +1,8 @@
+domain:             nevlezay.dn42
+descr:              nevlezay.dn42 domain
+admin-c:            NEVLEZAY-DN42
+tech-c:             NEVLEZAY-DN42
+mnt-by:             NEVLEZAY-MNT
+nserver:            ns1.nevlezay.dn42 172.23.158.33
+nserver:            ns1.nevlezay.dn42 fd91:9191:9191::1
+source:             DN42
