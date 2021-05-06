@@ -1,4 +1,4 @@
-route:              172.23.215.224/29
+route:              172.23.215.224/27
 origin:             AS4242423724
 mnt-by:             HINATAKATO-MNT
 source:             DN42
