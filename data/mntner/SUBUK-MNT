@@ -1,0 +1,6 @@
+mntner:             SUBUK-MNT
+admin-c:            SUBUK-DN42
+tech-c:             SUBUK-DN42
+mnt-by:             SUBUK-MNT
+auth:               pgp-fingerprint 92A7ADCBEF3F8362A87879B79F36E284DF51FB58
+source:             DN42

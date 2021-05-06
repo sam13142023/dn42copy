@@ -1,0 +1,6 @@
+domain:             subuk.dn42
+admin-c:            SUBUK-DN42
+tech-c:             SUBUK-DN42
+mnt-by:             SUBUK-MNT
+nserver:            ns1.subuk.dn42 172.20.6.113
+source:             DN42
