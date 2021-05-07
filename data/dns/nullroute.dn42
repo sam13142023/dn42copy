@@ -1,0 +1,8 @@
+domain:             nullroute.dn42
+admin-c:            GRAWITY-DN42
+tech-c:             GRAWITY-DN42
+mnt-by:             NULLROUTE-MNT
+nserver:            ns1.nullroute.dn42 172.20.158.3
+nserver:            ns1.nullroute.dn42 fd42:2606:32f4::3
+ds-rdata:           39232 13 2 8EC4E7DB1C743BFF333442E3B54E9AC66C332D3268DCE73914EF58D3BF842BA1
+source:             DN42
