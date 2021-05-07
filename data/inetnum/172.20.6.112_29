@@ -1,0 +1,11 @@
+inetnum:            172.20.6.112 - 172.20.6.119
+cidr:               172.20.6.112/29
+netname:            SUBUK-NET
+descr:              subuk
+country:            RU
+admin-c:            SUBUK-DN42
+tech-c:             SUBUK-DN42
+mnt-by:             SUBUK-MNT
+status:             ASSIGNED
+nserver:            ns1.subuk.dn42
+source:             DN42
