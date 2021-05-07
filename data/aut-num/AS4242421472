@@ -1,0 +1,7 @@
+aut-num:            AS4242421472
+as-name:            HACKFRONT-AS
+descr:              Hackfront DN42 AS
+admin-c:            HACKFRONT-DN42
+tech-c:             HACKFRONT-DN42
+mnt-by:             HACKFRONT-MNT
+source:             DN42
