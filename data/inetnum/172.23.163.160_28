@@ -1,0 +1,11 @@
+inetnum:            172.23.163.160 - 172.23.163.175
+netname:            TOMDANG-IPV4
+remarks:            Peer with me at tomdang@naivetomcat.cn
+descr:              Peer with me at tomdang@naivetomcat.cn
+country:            CN
+admin-c:            TOMDANG-DN42
+tech-c:             TOMDANG-DN42
+mnt-by:             TOMDANG-MNT
+status:             ASSIGNED
+cidr:               172.23.163.160/28
+source:             DN42
