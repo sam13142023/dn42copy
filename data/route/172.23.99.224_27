@@ -1,0 +1,4 @@
+route:              172.23.99.224/27
+origin:             AS4242420449
+mnt-by:             YELLOWCAT-MNT
+source:             DN42
