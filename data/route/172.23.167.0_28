@@ -1,0 +1,4 @@
+route:              172.23.167.0/28
+origin:             AS4242421472
+mnt-by:             HACKFRONT-MNT
+source:             DN42

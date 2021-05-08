@@ -1,0 +1,10 @@
+inet6num:           fd00:4861:636b:0000:0000:0000:0000:0000 - fd00:4861:636b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:4861:636b::/48
+netname:            HACKFRONT-NET
+descr:              Hackfront DN42 network
+country:            IT
+admin-c:            HACKFRONT-DN42
+tech-c:             HACKFRONT-DN42
+mnt-by:             HACKFRONT-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd00:4861:636b::/48
+origin:             AS4242421472
+max-length:         48
+mnt-by:             HACKFRONT-MNT
+source:             DN42
