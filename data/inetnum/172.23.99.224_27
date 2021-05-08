@@ -1,0 +1,10 @@
+inetnum:            172.23.99.224 - 172.23.99.255
+netname:            YELLOWCAT-DN42
+admin-c:            YELLOWCAT-DN42
+tech-c:             YELLOWCAT-DN42
+mnt-by:             YELLOWCAT-MNT
+status:             ASSIGNED
+cidr:               172.23.99.224/27
+nserver:            ns1.yellowcat.dn42
+nserver:            ns2.yellowcat.dn42
+source:             DN42

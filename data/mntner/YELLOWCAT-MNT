@@ -1,0 +1,8 @@
+mntner:             YELLOWCAT-MNT
+descr:              YELLOWCAT Maintainer Object
+auth:               pgp-fingerprint 3A791A106D21A4DC1AFD2B2A45F628C3ECA8A163
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfT2TGNs3LFlnUW8dCVNNRrnq1KWdShHynXowVbb/hFrPy9MCHUcUUZa+JAToUwOecRDfbHsdxXL0KILue2Es25IyUzoYR8zP1NZ7AcxLvwLyDFQlepZzokFdb2N1fy9BCxHUR4pFPd5L8tkuNzHbuo7R3oZGf1+ko2OxkGEKOdnYu6I2mCNBgz+4r9+9d2DV4O+WFIvxzMcofBqjqFq5PjIsMhofVWopT8sg3QvXEJaTI3maJPZow9GqacqFE+ZH1+KQH5n+bJZ5GwtFVSgt1Arq+JLDwuPs9TNpBnSOG7o+Z0KwCD8xmBjxlofKq2isB3PEglMD24oUgpEl1sVibs2usND/kgCI0PEo0HAS+TQLMwwmOaLEfeYyMC27Gh7UyJUhLn2YnCgBxV2LThJnARpEe+cORIfCzayU+EgnZ1nZ7myalYFOSaMUHod3JRIXTzd1jGjyI7fCJAFfIb4l72uFgTnERBsbwIkjtgaMo4u+m54xTQfmqsCdBZttHBz8=
+admin-c:            YELLOWCAT-DN42
+tech-c:             YELLOWCAT-DN42
+mnt-by:             YELLOWCAT-MNT
+source:             DN42

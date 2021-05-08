@@ -1,0 +1,10 @@
+inet6num:           fd91:a6bc:1969:0000:0000:0000:0000:0000 - fd91:a6bc:1969:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:a6bc:1969::/48
+netname:            YELLOWCAT-DN42
+admin-c:            YELLOWCAT-DN42
+tech-c:             YELLOWCAT-DN42
+mnt-by:             YELLOWCAT-MNT
+nserver:            ns1.yellowcat.dn42
+nserver:            ns2.yellowcat.dn42
+status:             ASSIGNED
+source:             DN42

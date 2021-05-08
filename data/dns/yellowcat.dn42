@@ -1,0 +1,10 @@
+domain:             yellowcat.dn42
+descr:              YellowCat
+admin-c:            YELLOWCAT-DN42
+tech-c:             YELLOWCAT-DN42
+mnt-by:             YELLOWCAT-MNT
+nserver:            ns1.yellowcat.dn42 172.23.99.245
+nserver:            ns2.yellowcat.dn42 172.23.99.246
+nserver:            ns1.yellowcat.dn42 fd91:a6bc:1969:18ae::1
+nserver:            ns2.yellowcat.dn42 fd91:a6bc:1969:18ae::2
+source:             DN42
