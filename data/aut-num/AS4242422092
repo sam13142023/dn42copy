@@ -1,7 +1,7 @@
 aut-num:            AS4242422092
 as-name:            P3BK4C DN42 Network
-admin-c:            P3BK4C-DN42
-tech-c:             P3BK4C-DN42
+admin-c:            TOMKAP-DN42
+tech-c:             TOMKAP-DN42
 mnt-by:             P3BK4C-MNT
 remarks:            +--------------------------------------------+
 remarks:            |     ____ _____ ____  _  ___  _    ____     |
@@ -23,6 +23,6 @@ remarks:            |--------------------------------------------|
 remarks:            |           - Peering Locations -            |
 remarks:            |--------------------------------------------|
 remarks:            | Athens, GR / Amsterdam, NL / Paris, FR     |
-remarks:            | New York (NJ), USA /              more TBA |
+remarks:            | Vienna, AT / New York (NJ), USA            |
 remarks:            +--------------------------------------------+
 source:             DN42
