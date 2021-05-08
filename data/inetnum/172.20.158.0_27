@@ -5,4 +5,5 @@ tech-c:             GRAWITY-DN42
 mnt-by:             NULLROUTE-MNT
 status:             ASSIGNED PA
 cidr:               172.20.158.0/27
+nserver:            ns1.nullroute.dn42
 source:             DN42
