@@ -1,0 +1,5 @@
+route6:             fd66:e907:881c::/48
+origin:             AS4242420407
+max-length:         48
+mnt-by:             HAYWO-MNT
+source:             DN42

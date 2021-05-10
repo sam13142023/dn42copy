@@ -1,0 +1,4 @@
+route:              172.20.172.120/29
+origin:             AS4242420407
+mnt-by:             HAYWO-MNT
+source:             DN42
