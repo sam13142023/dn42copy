@@ -1,0 +1,8 @@
+inetnum:            172.20.172.120 - 172.20.172.127
+cidr:               172.20.172.120/29
+netname:            HAYWO-NETWORK
+admin-c:            HAYWO-DN42
+tech-c:             HAYWO-DN42
+mnt-by:             HAYWO-MNT
+status:             ASSIGNED
+source:             DN42

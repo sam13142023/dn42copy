@@ -1,0 +1,10 @@
+inet6num:           fd66:e907:881c:0000:0000:0000:0000:0000 - fd66:e907:881c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:e907:881c::/48
+netname:            HayWo-NETWORK
+descr:              Network of HayWo
+country:            DE
+admin-c:            HAYWO-DN42
+tech-c:             HAYWO-DN42
+mnt-by:             HAYWO-MNT
+status:             ASSIGNED
+source:             DN42
