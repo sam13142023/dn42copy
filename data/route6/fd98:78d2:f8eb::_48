@@ -1,0 +1,5 @@
+route6:             fd98:78d2:f8eb::/48
+origin:             AS4242422390
+max-length:         48
+mnt-by:             BEYERM-MNT
+source:             DN42

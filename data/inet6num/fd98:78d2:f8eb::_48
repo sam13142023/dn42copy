@@ -1,0 +1,10 @@
+inet6num:           fd98:78d2:f8eb:0000:0000:0000:0000:0000 - fd98:78d2:f8eb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd98:78d2:f8eb::/48
+netname:            BEYERM-NETWORK
+descr:              Network of BEYERM
+country:            DE
+admin-c:            BEYERM-DN42
+tech-c:             BEYERM-DN42
+mnt-by:             BEYERM-MNT
+status:             ASSIGNED
+source:             DN42
