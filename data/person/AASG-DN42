@@ -1,9 +1,9 @@
 person:             Aluísio Augusto Silva Gonçalves
 nic-hdl:            AASG-DN42
 e-mail:             dn42@aasg.name
-contact:            matrix:user/aasg:aasg.name
-contact:            irc:~aasg@chat.freenode.net
-contact:            irc:~aasg@irc.hackint.org
+contact:            irc:aasg@irc.hackint.org
+contact:            https://matrix.to/#/@aasg:aasg.name
+contact:            https://t.me/LORKEP_aasg
 www:                https://aasg.name
 pgp-fingerprint:    7FDB17B3C29B5BA6E5A98BB29FAA63E097506D9D
 mnt-by:             AASG-MNT

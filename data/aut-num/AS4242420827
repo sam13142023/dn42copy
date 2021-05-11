@@ -1,7 +1,9 @@
 aut-num:            AS4242420827
-as-name:            LORKEP
-remarks:            Open peering via WireGuard (and possibly others).
-remarks:            See AASG-DN42 for contact information.
+as-name:            LLYN
+descr:              Lorkep LLYN
+remarks:            Updated network information, including peering details and
+remarks:            offered services, is available at https://llyn.lorkep.trade
+remarks:            or https://llyn.lorkep.dn42.
 admin-c:            AASG-DN42
 tech-c:             AASG-DN42
 mnt-by:             AASG-MNT
