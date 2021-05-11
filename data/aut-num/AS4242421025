@@ -1,19 +1,15 @@
 aut-num:            AS4242421025
-as-name:            NextMoe Neo-Network Intermediate Access Project
-descr:              NextMoe Group Intermediate Access Project
+as-name:            AS-CATSTAR
+descr:              CatStar Network Access Project
 remarks:            ----------------------------------------------------------
-remarks:            The intermediate access engineering service provided
-remarks:            for NeoNetwork is currently in the test period
-remarks:            if you need peer-to-peer interconnection
-remarks:            please look for Telegram@fakeicecat
-remarks:            The ASN is the only upstream of 4201270008
+remarks:            
 remarks:            ----------------------------------------------------------
 mp-import:          afi ipv4.unicast from AS-ANY accept ANY
-mp-export:          afi ipv4.unicast to AS-ANY   announce AS-HENTAI
+mp-export:          afi ipv4.unicast to AS-ANY   announce AS-MAGICNEKO
 mp-import:          afi ipv6.unicast from AS-ANY accept ANY
-mp-export:          afi ipv6.unicast to AS-ANY   announce AS-HENTAI
-admin-c:            ICECAT-DN42
+mp-export:          afi ipv6.unicast to AS-ANY   announce AS-MAGICNEKO
+admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             ICECAT-DN42
 mnt-by:             ICECAT-MNT
-org:                ORG-NEXTMOE
+org:                ORG-MAGICNEKO
 source:             DN42

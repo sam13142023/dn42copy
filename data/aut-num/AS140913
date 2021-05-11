@@ -1,14 +1,14 @@
 aut-num:            AS140913
-as-name:            Hentai Network
+as-name:            HENTAI-AS-AP
 descr:              Hentai Network
 remarks:            ----------------------------------------------------------
 mp-import:          afi ipv4.unicast from AS-ANY accept ANY
-mp-export:          afi ipv4.unicast to AS-ANY   announce AS-HENTAI
+mp-export:          afi ipv4.unicast to AS-ANY   announce AS-MAGICNEKO
 mp-import:          afi ipv6.unicast from AS-ANY accept ANY
-mp-export:          afi ipv6.unicast to AS-ANY   announce AS-HENTAI
+mp-export:          afi ipv6.unicast to AS-ANY   announce AS-MAGICNEKO
 remarks:            ----------------------------------------------------------
-admin-c:            ICECAT-DN42
+admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             ICECAT-DN42
 mnt-by:             ICECAT-MNT
-org:                ORG-NEXTMOE
+org:                ORG-MAGICNEKO
 source:             APNIC
