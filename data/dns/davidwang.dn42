@@ -1,0 +1,10 @@
+domain:             davidwang.dn42
+descr:              www.kirinou.top
+admin-c:            DAVIDWANG-DN42
+tech-c:             DAVIDWANG-DN42
+mnt-by:             DAVIDWANG-MNT
+nserver:            ns1.davidwang.dn42 172.23.241.65
+nserver:            ns2.davidwang.dn42 172.23.241.66
+nserver:            ns1.davidwang.dn42 fdb9:af86:5168::1
+nserver:            ns2.davidwang.dn42 fdb9:af86:5168::2
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdb9:af86:5168:0000:0000:0000:0000:0000 - fdb9:af86:5168:ffff:ffff:ffff:ffff:ffff
+netname:            DAVIDWANG-IPV6
+descr:              www.kirinou.top
+country:            CN
+admin-c:            DAVIDWANG-DN42
+tech-c:             DAVIDWANG-DN42
+mnt-by:             DAVIDWANG-MNT
+nserver:            ns1.davidwang.dn42
+nserver:            ns2.davidwang.dn42
+status:             ASSIGNED
+cidr:               fdb9:af86:5168::/48
+source:             DN42
