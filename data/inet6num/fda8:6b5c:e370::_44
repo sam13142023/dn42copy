@@ -1,0 +1,10 @@
+inet6num:           fda8:6b5c:e370:0000:0000:0000:0000:0000 - fda8:6b5c:e37f:ffff:ffff:ffff:ffff:ffff
+netname:            NAIVETOMCAT-GLOBAL-NETWORK-V6
+descr:              Peer with me at tomdang@naivetomcat.cn
+country:            CN
+admin-c:            TOMDANG-DN42
+tech-c:             TOMDANG-DN42
+mnt-by:             TOMDANG-MNT
+status:             ASSIGNED
+cidr:               fda8:6b5c:e370::/44
+source:             DN42
