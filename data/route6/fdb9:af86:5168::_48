@@ -1,0 +1,5 @@
+route6:             fdb9:af86:5168::/48
+descr:              www.kirinou.top
+origin:             AS4242423115
+mnt-by:             DAVIDWANG-MNT
+source:             DN42

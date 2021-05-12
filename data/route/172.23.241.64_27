@@ -1,0 +1,5 @@
+route:              172.23.241.64/27
+descr:              www.kirinou.top
+origin:             AS4242423115
+mnt-by:             DAVIDWANG-MNT
+source:             DN42
