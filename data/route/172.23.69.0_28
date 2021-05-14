@@ -1,0 +1,4 @@
+route:              172.23.69.0/28
+origin:             AS4242422030
+mnt-by:             AKANET-MNT
+source:             DN42
