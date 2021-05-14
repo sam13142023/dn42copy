@@ -1,0 +1,8 @@
+inetnum:            172.20.62.128 - 172.20.62.135
+cidr:               172.20.62.128/29
+netname:            TECHBUTTS-NETWORK
+admin-c:            CRAP-DN42
+tech-c:             CRAP-DN42
+mnt-by:             TECHBUTTS-MNT
+status:             ASSIGNED
+source:             DN42
