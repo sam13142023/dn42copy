@@ -1,0 +1,6 @@
+domain:             icp.dn42
+admin-c:            PPPWAW-DN42
+tech-c:             PPPWAW-DN42
+mnt-by:             PPPWAW-MNT
+nserver:            ns.pppwaw.dn42
+source:             DN42

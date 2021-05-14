@@ -7,4 +7,5 @@ tech-c:             PPPWAW-DN42
 mnt-by:             PPPWAW-MNT
 status:             ASSIGNED
 cidr:               fda8:391f:1052::/48
+nserver:            ns.pppwaw.dn42
 source:             DN42
