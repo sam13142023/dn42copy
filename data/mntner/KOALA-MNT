@@ -4,4 +4,5 @@ tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
 source:             DN42
 auth:               pgp-fingerprint F5EC83B433A35C8CDF5B66568FBCE429B9AB90F4
-remarks:            Koala AS4242421488
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMG24O3fTCUFqpG6OVTj5FmzkMouVFpDALfvRp7Ov4+
+descr:              AS4242421488 Maintenance Object
