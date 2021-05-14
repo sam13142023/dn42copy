@@ -1,0 +1,15 @@
+inet6num:           fdff:074f:e962:0000:0000:0000:0000:0000 - fdff:074f:e962:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:74f:e962::/48
+netname:            Fox-and-Bear
+descr:              Fox and Bear Network
+admin-c:            KOALA-DN42
+tech-c:             KOALA-DN42
+mnt-by:             KOALA-MNT
+admin-c:            TAILSNET-DN42
+tech-c:             TAILSNET-DN42
+mnt-by:             TAILSNET-MNT
+org:                ORG-FAB
+country:            US
+nserver:            ns1.koala.dn42
+status:             ASSIGNED
+source:             DN42

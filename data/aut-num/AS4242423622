@@ -1,11 +1,10 @@
-domain:             fox.dn42
-descr:              Foxes
-org:                ORG-FAB
+aut-num:            AS4242423622
+as-name:            Fox and Bear Network
 admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
 admin-c:            TAILSNET-DN42
 tech-c:             TAILSNET-DN42
 mnt-by:             TAILSNET-MNT
-nserver:            ns1.koala.dn42
+org:                ORG-FAB
 source:             DN42

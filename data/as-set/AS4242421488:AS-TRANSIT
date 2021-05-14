@@ -1,8 +1,14 @@
 as-set:             AS4242421488:AS-TRANSIT
+remarks:            ANDROW
+members:            AS4242422575
 remarks:            CCCDA
 members:            AS4242420101
 remarks:            FIXMIX
 members:            AS4242421876
+remarks:            HENTAI
+members:            AS140913
+remarks:            HERTZ
+members:            AS4242421353
 remarks:            ILEMONRAIN
 members:            AS4242420226
 remarks:            JERRY
@@ -35,6 +41,8 @@ remarks:            TAILSNET
 members:            AS4242423621
 remarks:            TBSPACE
 members:            AS4242423088
+remarks:            TCHEKDA
+members:            AS4242421722
 remarks:            TECH9
 members:            AS4242421588
 remarks:            YELLOWLM

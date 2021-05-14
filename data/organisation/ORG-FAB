@@ -1,11 +1,9 @@
-domain:             fox.dn42
-descr:              Foxes
-org:                ORG-FAB
+organisation:       ORG-FAB
+org-name:           Fox and Bear
 admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
 admin-c:            TAILSNET-DN42
 tech-c:             TAILSNET-DN42
 mnt-by:             TAILSNET-MNT
-nserver:            ns1.koala.dn42
 source:             DN42
