@@ -1,0 +1,5 @@
+route6:             fdfe:2803:3a37::/48
+origin:             AS4242422030
+max-length:         48
+mnt-by:             AKANET-MNT
+source:             DN42

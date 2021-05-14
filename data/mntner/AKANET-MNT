@@ -1,0 +1,6 @@
+mntner:             AKANET-MNT
+admin-c:            AKANET-DN42
+tech-c:             AKANET-DN42
+mnt-by:             AKANET-MNT
+auth:               pgp-fingerprint 1873EF3AA8BD2D15A3EAE56813F544EEFE6C2F68
+source:             DN42
