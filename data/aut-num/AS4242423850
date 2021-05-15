@@ -1,12 +1,12 @@
 aut-num:            AS4242423850
-as-name:            YZUCRC-AS
+as-name:            GEEKNET
 remarks:            --------------------------------------------------------
-remarks:            Welcome to establish peers, server in Taiwan.
-remarks:            Please send email to s1030361@mail.yzu.edu.tw
+remarks:            Welcome to establish peers, PoPs in Taiwan and Hongkong.
+remarks:            Please send email to peering@geeknetworks.com.au
 remarks:            --------------------------------------------------------
-descr:              Yuan Ze University Communications Research Center Network
-admin-c:            XINYUAN-DN42
-tech-c:             XINYUAN-DN42
-org:                ORG-YZUCRC
-mnt-by:             XINYUAN-MNT
+descr:              Geek Networks
+admin-c:            TONYLEE-DN42
+tech-c:             TONYLEE-DN42
+org:                ORG-GEEKNET
+mnt-by:             TONYLEE-MNT
 source:             DN42

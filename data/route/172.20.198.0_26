@@ -1,7 +1,7 @@
 route:              172.20.198.0/26
-descr:              Yuan Ze University Communications Research Center Network
+descr:              Geek Networks Route
 origin:             AS4242423850
-admin-c:            XINYUAN-DN42
-tech-c:             XINYUAN-DN42
-mnt-by:             XINYUAN-MNT
+admin-c:            TONYLEE-DN42
+tech-c:             TONYLEE-DN42
+mnt-by:             TONYLEE-MNT
 source:             DN42
