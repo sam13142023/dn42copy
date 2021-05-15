@@ -1,7 +1,6 @@
-route6:             fd19:d101:719a::/48
-descr:              Geek Networks Route
-origin:             AS4242423850
+mntner:             TONYLEE-MNT
 admin-c:            TONYLEE-DN42
 tech-c:             TONYLEE-DN42
 mnt-by:             TONYLEE-MNT
 source:             DN42
+auth:               pgp-fingerprint 04880AC61BB1B1320E23C2461A273320DDA258C1
