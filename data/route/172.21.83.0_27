@@ -1,5 +1,5 @@
-route:              172.21.67.192/27
-descr:              NET-P3BK4C-000
+route:              172.21.83.0/27
+descr:              NET-P3BK4C-001
 origin:             AS4242422092
 max-length:         27
 mnt-by:             P3BK4C-MNT
