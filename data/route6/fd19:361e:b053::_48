@@ -1,0 +1,5 @@
+route6:             fd19:361e:b053::/48
+descr:              Route for IMWWW-NETWORK
+origin:             AS4242421822
+mnt-by:             IMWWW-MNT
+source:             DN42
