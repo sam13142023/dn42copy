@@ -5,6 +5,9 @@
 # with any changes in the main registry repository and will then squash
 # the local changes together in to a single commit
 #
+# If the script fails to work, PRs for fixes are always welcome
+# and you can always squash your commits manually
+#
 # use './squash-my-commits -S' to sign the result with your pgp key
 #
 ##########################################################################
@@ -13,16 +16,20 @@ usage()
 {
     echo "Usage: $0 [options]"
     echo 'Options:'
-    echo ' -S,      sign the result with your pgp key'
-    echo ' --push,  force push result'
-    echo ' --ssh,   use ssh to fetch from the registry'
-    echo ' --https, use https to fetch from the registry'
+    echo ' -S,       sign the result with your pgp key'
+    echo ' --push,   force push result'
+    echo ' --ssh,    use ssh to fetch from the registry'
+    echo ' --https,  use https to fetch from the registry'
+    echo ' --verify, check only'
     echo 'Environment variables:'
     echo ' DN42_REG_URL, set the registry URL to use'
 }
 
 ##########################################################################
 # parse arguments
+
+do_push=0
+verify_only=0
 
 for arg
 do
@@ -41,6 +48,9 @@ do
         --https)
             echo 'Forcing use of HTTPS to fetch from registry'
             reg_proto="https"
+            ;;
+        --verify)
+            verify_only=1
             ;;
         --help)
             usage
@@ -100,22 +110,28 @@ fi
 
 ##########################################################################
 
-# ensure the local branch is up to date 
-echo 'Rebasing local changes against the registry master'
-git fetch dn42registry master
-if [ $? -ne 0 ]
+if [ "$verify_only" -ne 1 ]
 then
-    echo 'ERROR: Failed to fetch registry master branch'
-    echo 'Hint: you can use --ssh/--https to force use of ssh or https'
-    echo 'If all else fails, you can also set the DN42_REG_URL'
-    echo 'environment variable to directly specify the URL to fetch'
-    exit 1
+
+    # ensure the local branch is up to date 
+    echo 'Rebasing local changes against the registry master'
+    git fetch dn42registry master
+    if [ $? -ne 0 ]
+    then
+        echo 'ERROR: Failed to fetch registry master branch'
+        echo 'Hint: you can use --ssh/--https to force use of ssh or https'
+        echo 'If all else fails, you can also set the DN42_REG_URL'
+        echo 'environment variable to directly specify the URL to fetch'
+        exit 1
+    fi
+    
+    # fail on errors from here onwards
+    set -e
+    
+    git rebase dn42registry/master
+else
+    set -e
 fi
-
-# fail on errors from here onwards
-set -e
-
-git rebase dn42registry/master
 
 ##########################################################################
 
@@ -127,6 +143,12 @@ if [ "$count" -lt 2 ]
 then
     echo "$count local commits found, no squash is required"
     exit 0
+fi
+
+if [ "$verify_only" -eq 1 ]
+then
+    echo "$count local commits found"
+    exit 1
 fi
 
 echo 'Squashing $count commits ...'
@@ -153,7 +175,8 @@ then
     echo 'Force pushing changes'
     git push --force
 else
-    echo 'Remember to push your changes using: git push --force'
+    echo 'Remember to sign your commit: ./sign-my-commit FOO-MNT'
+    echo 'and then push your changes using: git push --force'
 fi
 
 ##########################################################################

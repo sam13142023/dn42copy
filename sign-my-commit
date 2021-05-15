@@ -1,0 +1,404 @@
+#!/bin/sh
+##########################################################################
+#
+# This script will attempt to sign your commit using one of the
+# authentication methods in your mntner record.
+#
+# If the script fails to work, PRs for fixes are always welcome
+# and you can always sign your commit manually as detailed in the
+# DN42 wiki: https://dn42.dev/howto/Registry-Authentication
+#
+# do './sign-my-commit --help' to get usage information
+#
+##########################################################################
+
+usage()
+{
+    echo "Usage: $0 [options] MNTNER"
+    echo 'Generic options:'
+    echo ' --pgp,    sign using your PGP key'
+    echo ' --ssh,    sign using your ssh key'
+    echo ' --push,   force push result'
+    echo ' --verify, check existing signature is correct'
+    echo ' --help,   display this message'
+    echo 'SSH specific options:'
+    echo ' --key,    (required for signing) specify SSH private key file to use'
+}
+
+##########################################################################
+# defaults
+
+DO_PUSH=0
+AUTH_METHOD=''
+MNTNER=''
+SSH_KEYFILE=''
+VERIFY_ONLY=0
+
+##########################################################################
+# parse arguments
+
+while [ -n "$1" ]
+do
+    case "$1" in
+
+        --pgp)
+            AUTH_METHOD='pgp'
+            ;;
+        --ssh)
+            AUTH_METHOD='ssh'
+            ;;
+        --force)
+            DO_PUSH=1
+            ;;
+        --key)
+            shift
+            SSH_KEYFILE="$1"
+            ;;
+        --verify)
+            VERIFY_ONLY=1
+            ;;
+        --help)
+            usage
+            exit 0
+            ;;
+        *)
+            if [ -z "$MNTNER" ]
+            then
+                MNTNER=$1
+            else
+                echo "ERROR: Unknown option: $1"
+                usage
+                exit 1
+            fi
+            ;;
+        
+    esac
+
+    shift
+done
+
+##########################################################################
+# initial sanity checks
+
+# if verifying only, try to guess some info from the existing sig
+if [ "$VERIFY_ONLY" -eq 1 ]
+then
+    if [ -z "$MNTNER" ]
+    then
+        MNTNER=$(git log -n 1 --format=format:%B | \
+                     grep '^### mntner:' | \
+                     cut -d':' -f2 | tr -d ' ')
+        if [ -n "$MNTNER" ]
+        then
+            echo "Found mntner $MNTNER from signature"
+        fi
+    fi
+
+    if [ -z "$AUTH_METHOD" ]
+    then
+        AUTH_METHOD=$(git log -n 1 --format=format:%B | \
+                          grep '^### method:' | \
+                          cut -d':' -f2 | tr -d ' ')
+        if [ -n "$AUTH_METHOD" ]
+        then
+            echo "Using $AUTH_METHOD auth method from signature"
+        fi
+    fi
+fi
+
+# check that a mntner has been specified and exists
+if [ -z "${MNTNER}" ]
+then
+    usage
+    exit 1
+fi
+
+if [ ! -f "data/mntner/${MNTNER}" ]
+then
+    echo "ERROR: mntner '${MNTNER}' not found"
+    exit 1
+fi
+
+if [ "$VERIFY_ONLY" -ne 1 ]
+then
+
+    # check for untracked or uncommitted changes
+    if [ -n "$(git status --porcelain)" ]
+    then
+        echo "ERROR: git worktree has unstaged or uncommitted changes"
+        echo "This script can only be run once your commit is completed"
+        echo "---"
+        git status
+        exit 1
+    fi
+    
+    # check that the commit has been squashed
+    ./squash-my-commits --verify 
+    if [ $? -ne 0 ]
+    then
+        echo "ERROR: Ensure your commits are squashed before signing"
+        echo "Run the included script: ./squash-my-commits"
+        exit 1
+    fi
+    
+    # check for an existing signature
+    git log -n 1 --format=format:%B 2>&1 | grep '^### DN42 Signature' > /dev/null
+    if [ $? -eq 0 ]
+    then
+        echo "ERROR: The last commit appears to already be signed"
+        echo "---"
+        git log -n 1 --show-signature
+        exit 1
+    fi
+    
+fi
+
+##########################################################################
+# helper functions
+
+guess_auth_method()
+{
+    # look for the first auth method in the mntner object
+    method=$(grep '^auth' "data/mntner/${MNTNER}" | \
+                 head -n 1 | tr -s ' ' | cut -d' ' -f2 | cut -d'-' -f1)
+    # didn't find anything ?
+    if [ -z "$method" ]
+    then
+        echo "Unable to find mntner auth method for ${MNTNER}"
+        echo "Try specifying the method manually"
+        usage
+        exit 1
+    fi
+
+    case "$method" in
+        pgp)
+            AUTH_METHOD='pgp'
+            ;;
+        PGPKEY)
+            AUTH_METHOD='pgp'
+            ;;
+        ssh)
+            AUTH_METHOD='ssh'
+            ;;
+        *)
+            echo "ERROR: Auth method is unknown or unimplemented"
+            exit 1
+    esac
+}
+
+
+##########################################################################
+# PGP signing function
+
+sign_pgp()
+{
+    # check first if there is already a signature
+    git log -n 1 --show-signature | grep "^gpg" > /dev/null 2>&1
+    if [ $? -eq 0 ]
+    then
+        echo "ERROR: The last commit appears to already be signed."
+        echo "---"
+        git log -n 1 --show-signature
+        exit 1
+    fi
+
+    # create a new comment with some additional metadata
+    comment="$(git log -n 1 --format=format:%B)
+
+### DN42 Signature
+### method: pgp
+### mntner: $MNTNER
+"
+
+    # PGP signing is straightforward
+    git commit --amend --no-edit -S -m "$comment"
+
+    # assuming it's actually configured properly ....
+    if [ $? -ne 0 ]
+    then
+        echo "ERROR: failed to sign commit"
+        echo "Have you configured git with your PGP key ?"
+        echo "For example, to configure your key globally:"
+        echo " - Find your key using: gpg --list-keys"
+        echo " - Then add it to git:  " \
+             "git config --global user.signingkey <FPRINT>"
+        exit 1
+    fi
+}
+
+##########################################################################
+# verify PGP signature
+
+verify_pgp()
+{
+    echo "Verifying PGP signature"
+
+    # find the current commit hash
+    hash=$(git log -n 1 --format=format:%H)
+
+    # requires git 2.5
+    git verify-commit "$hash"
+    if [ $? -ne 0 ]
+    then
+        echo "ERROR: failed to verify PGP signature"
+        exit 1
+    fi
+    echo " - PGP signature verified ok"
+
+    # extract the fingerprint of the key that was successful
+    prints=$(git verify-commit --raw "$hash" 2>&1 | \
+                 grep "VALIDSIG" | cut -f3,12 -d' ')
+    for print in $prints
+    do
+        grep "^auth" data/mntner/${MNTNER} | grep -i $print > /dev/null 2>&1
+        if [ $? -eq 0 ]
+        then
+            echo " - matched with auth attribute for $MNTNER"
+            echo "Successfully verified PGP signature"
+            return
+        fi
+    done
+
+    echo "ERROR: unable to match key fingerprint with mntner: $MNTNER"
+    exit 1
+}
+
+##########################################################################
+# SSH signing function
+
+sign_ssh()
+{
+    # check for ssh-keygen signing capability
+    ssh-keygen -Y sign 2>&1 | grep 'missing namespace' > /dev/null
+    if [ $? -ne 0 ]
+    then
+        echo "ERROR: This script requires the key signing capability " \
+             "from OpenSSH ssh-keygen > version 8"
+        echo "---"
+        ssh -V
+        exit 1
+    fi
+
+    if [ -z "$SSH_KEYFILE" ]
+    then
+        echo "ERROR: You must specify your SSH private key " \
+             "using --key"
+        exit 1
+    fi
+    
+    # find the current commit hash
+    hash=$(git log -n 1 --format=format:%H)
+
+    # create the signature
+    sig=$(echo "$hash" | ssh-keygen -Y sign -n dn42 -f "$SSH_KEYFILE")
+
+    comment="$(git log -n 1 --format=format:%B)
+
+### DN42 Signature
+### method: ssh
+### mntner: $MNTNER
+### text: $hash 
+$sig
+"
+
+    # update the commit with the sig
+    git commit --amend --no-edit -m "$comment"
+}
+
+##########################################################################
+# verify SSH signature
+
+verify_ssh()
+{
+    echo "Verifying SSH signature"
+
+    # create a temporary files for the 'allowed' keys file and signature
+    afile=$(mktemp)
+    sfile=$(mktemp)
+    
+    # extract and reformat the temp keys in to the allowed file
+    grep '^auth' "data/mntner/${MNTNER}" | tr -s ' ' | cut -d' ' -f2- | \
+        grep '^ssh-' | sed "s/^/${MNTNER} /" > "$afile"
+
+    # extract the signed text from the git comment
+    text=$(git log -n 1 --format=format:%B | grep '^### text:' |
+               cut -d':' -f2 | tr -d ' ')
+
+    # extract the SSH signature from the comment
+    begin="-----BEGIN SSH SIGNATURE-----"
+    end="-----END SSH SIGNATURE-----"
+    git log -n 1 --format=format:%B | \
+        sed "/^$begin\$/,/^$end\$/!d" > "$sfile"
+
+    # and finally verify
+    echo "$text" | ssh-keygen -Y verify -f "$afile" \
+                              -n dn42 -I $MNTNER -s "$sfile"
+    # grab the result and then clean up
+    result=$?
+    rm -f "$afile" "$sfile"
+
+    # did it work ?
+    if [ $result -eq 0 ]
+    then
+        echo "Successfully verified SSH sigature"
+    else
+        echo "ERROR: signature verification failed"
+        exit 1
+    fi
+}
+
+
+##########################################################################
+# body of the script starts here
+
+if [ -z "$AUTH_METHOD" ]
+then
+    echo "Attempting to guess auth method from the mntner object"
+    guess_auth_method
+fi
+
+# decide what to do
+case "$AUTH_METHOD" in
+    pgp)
+        if [ "$VERIFY_ONLY" -ne 1 ]
+        then
+            echo "Signing using PGP key"
+            sign_pgp
+        fi
+        verify_pgp
+    ;;
+    ssh)
+        if [ "$VERIFY_ONLY" -ne 1 ]
+        then
+            echo "Signing using SSH key"
+            sign_ssh
+        fi
+        verify_ssh
+    ;;
+    *)
+        echo "ERROR: Unknown or unimplemented auth method: $AUTH_METHOD"
+        exit 1
+    ;;
+esac
+
+##########################################################################
+# all done, tidy up
+
+if [ "$VERIFY_ONLY" -eq 1 ]
+then
+    exit 0
+fi
+
+# push changes if requested
+if [ "$DO_PUSH" -eq 1 ]
+then
+    echo 'Force pushing changes'
+    git push --force
+else
+    echo 'Remember to push your changes using: git push --force'
+fi
+
+exit 0
+
+##########################################################################
+# end of file
