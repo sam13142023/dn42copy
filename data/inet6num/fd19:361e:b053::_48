@@ -1,0 +1,10 @@
+inet6num:           fd19:361e:b053:0000:0000:0000:0000:0000 - fd19:361e:b053:ffff:ffff:ffff:ffff:ffff
+cidr:               fd19:361e:b053::/48
+netname:            IMWWW-NETWORK
+descr:              Network of IMWWW
+country:            CN
+admin-c:            IMWWW-DN42
+tech-c:             IMWWW-DN42
+mnt-by:             IMWWW-MNT
+status:             ASSIGNED
+source:             DN42

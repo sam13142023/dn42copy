@@ -1,0 +1,7 @@
+aut-num:            AS4242421822
+as-name:            IMWWW-AS
+descr:              Peer with me at imwww@live.com
+admin-c:            IMWWW-DN42
+tech-c:             IMWWW-DN42
+mnt-by:             IMWWW-MNT
+source:             DN42

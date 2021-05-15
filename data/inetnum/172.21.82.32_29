@@ -1,0 +1,11 @@
+inetnum:            172.21.82.32 - 172.21.82.39
+netname:            IMWWW-IPV4
+remarks:            Peer with me at imwww@live.com
+descr:              Peer with me at imwww@live.com
+country:            CN
+admin-c:            IMWWW-DN42
+tech-c:             IMWWW-DN42
+mnt-by:             IMWWW-MNT
+status:             ASSIGNED
+cidr:               172.21.82.32/29
+source:             DN42

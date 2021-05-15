@@ -1,0 +1,5 @@
+route:              172.21.82.32/29
+descr:              Peer with me at imwww@live.com
+origin:             AS4242421822
+mnt-by:             IMWWW-MNT
+source:             DN42
