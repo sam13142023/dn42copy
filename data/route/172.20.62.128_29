@@ -1,0 +1,4 @@
+route:              172.20.62.128/29
+origin:             AS4242422822
+mnt-by:             TECHBUTTS-MNT
+source:             DN42
