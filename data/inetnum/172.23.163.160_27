@@ -6,6 +6,7 @@ country:            CN
 admin-c:            TOMDANG-DN42
 tech-c:             TOMDANG-DN42
 mnt-by:             TOMDANG-MNT
+nserver:            ns1.naivetomcat.dn42
 status:             ASSIGNED
 cidr:               172.23.163.160/27
 source:             DN42
