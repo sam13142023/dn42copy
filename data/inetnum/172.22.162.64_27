@@ -1,0 +1,9 @@
+inetnum:            172.22.162.64 - 172.22.162.95
+netname:            HINATAKATO-IPV4
+country:            CN
+admin-c:            HINATAKATO-DN42
+tech-c:             HINATAKATO-DN42
+mnt-by:             HINATAKATO-MNT
+status:             ASSIGNED
+cidr:               172.22.162.64/27
+source:             DN42
