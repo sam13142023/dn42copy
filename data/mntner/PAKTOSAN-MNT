@@ -1,0 +1,6 @@
+mntner:             PAKTOSAN-MNT
+admin-c:            PAKTOSAN-DN42
+tech-c:             PAKTOSAN-DN42
+mnt-by:             PAKTOSAN-MNT
+auth:               pgp-fingerprint 50C4FD14066C45A6C376A9AFB1A76130EF9E88E1
+source:             DN42

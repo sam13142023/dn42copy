@@ -1,0 +1,8 @@
+aut-num:            AS4242423881
+as-name:            Paktosan Networks
+remarks:            Contact as4242423881@paktosan.de for peering.
+remarks:            I only use WireGuard for tunneling.
+admin-c:            PAKTOSAN-DN42
+tech-c:             PAKTOSAN-DN42
+mnt-by:             PAKTOSAN-MNT
+source:             DN42

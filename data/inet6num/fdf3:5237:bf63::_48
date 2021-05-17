@@ -1,0 +1,9 @@
+inet6num:           fdf3:5237:bf63:0000:0000:0000:0000:0000 - fdf3:5237:bf63:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:5237:bf63::/48
+netname:            PAKTOSAN-NETWORK
+country:            DE
+admin-c:            PAKTOSAN-DN42
+tech-c:             PAKTOSAN-DN42
+mnt-by:             PAKTOSAN-MNT
+status:             ASSIGNED
+source:             DN42
