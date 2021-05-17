@@ -1,0 +1,9 @@
+inet6num:           fd6d:a81f:f2da:c11d:0000:0000:0000:0000 - fd6d:a81f:f2da:c11d:ffff:ffff:ffff:ffff
+cidr:               fd6d:a81f:f2da:c11d::/64
+netname:            ROLAND-TESTNET-V6
+country:            HU
+admin-c:            ROLAND-DN42
+tech-c:             ROLAND-DN42
+mnt-by:             ROLAND-MNT
+status:             ASSIGNED
+source:             DN42
