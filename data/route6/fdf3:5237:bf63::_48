@@ -1,0 +1,5 @@
+route6:             fdf3:5237:bf63::/48
+origin:             AS4242423881
+max-length:         48
+mnt-by:             PAKTOSAN-MNT
+source:             DN42
