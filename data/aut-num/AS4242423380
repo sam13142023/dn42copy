@@ -1,0 +1,7 @@
+aut-num:            AS4242423380
+as-name:            ROLAND-AS
+descr:              Roland test AS
+admin-c:            ROLAND-DN42
+tech-c:             ROLAND-DN42
+mnt-by:             ROLAND-MNT
+source:             DN42

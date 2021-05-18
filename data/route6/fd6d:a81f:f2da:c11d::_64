@@ -1,0 +1,4 @@
+route6:             fd6d:a81f:f2da:c11d::/64
+origin:             AS4242423380
+source:             DN42
+mnt-by:             ROLAND-MNT
