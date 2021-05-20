@@ -1,0 +1,4 @@
+route:              172.22.186.96/28
+origin:             AS4242423969
+mnt-by:             FSNX-MNT
+source:             DN42
