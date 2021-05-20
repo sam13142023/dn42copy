@@ -1,0 +1,5 @@
+route6:             fd88:28f7:a86d::/48
+descr:              NwN Network IPv6 Backbone Route
+origin:             AS4242420344
+mnt-by:             NWNTEK-MNT
+source:             DN42

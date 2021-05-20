@@ -1,0 +1,5 @@
+route:              172.23.110.96/27
+descr:              NwN Network IPv4 Backbone Route
+origin:             AS4242420344
+mnt-by:             NWNTEK-MNT
+source:             DN42
