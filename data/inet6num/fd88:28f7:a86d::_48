@@ -1,0 +1,11 @@
+inet6num:           fd88:28f7:a86d:0000:0000:0000:0000:0000 - fd88:28f7:a86d:ffff:ffff:ffff:ffff:ffff
+netname:            NwN_Network_IPv6_Backbone_Network
+descr:              NwN Network IPv6 Block
+country:            CN
+admin-c:            NWNTEK-DN42
+tech-c:             NWNTEK-DN42
+mnt-by:             NWNTEK-MNT
+status:             ASSIGNED
+cidr:               fd88:28f7:a86d::/48
+source:             DN42
+remarks:            NwN Network IPv6 Block

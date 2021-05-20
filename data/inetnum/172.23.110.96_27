@@ -1,0 +1,11 @@
+inetnum:            172.23.110.96 - 172.23.110.127
+cidr:               172.23.110.96/27
+descr:              NwN Network IPv4 Block
+country:            CN
+netname:            NwN_Network_IPv4_Backbone_Network
+admin-c:            NWNTEK-DN42
+tech-c:             NWNTEK-DN42
+mnt-by:             NWNTEK-MNT
+status:             ASSIGNED
+source:             DN42
+remarks:            NwN Network IPv4 Block

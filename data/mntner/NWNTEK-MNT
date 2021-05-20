@@ -1,0 +1,7 @@
+mntner:             NWNTEK-MNT
+admin-c:            NWNTEK-DN42
+tech-c:             NWNTEK-DN42
+mnt-by:             NWNTEK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGAH0h1AyfEoahL/P4ai+DXm95tQDv5h0KAzF6dh30fE
+source:             DN42
+remarks:            NwN Network Maintainer
