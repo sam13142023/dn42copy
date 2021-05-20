@@ -1,0 +1,9 @@
+inet6num:           fd5b:4834:643a:7c41:0000:0000:0000:0000 - fd5b:4834:643a:7c41:ffff:ffff:ffff:ffff
+cidr:               fd5b:4834:643a:7c41::/64
+netname:            1AGO-NET
+admin-c:            TIJG-DN42
+tech-c:             TIJG-DN42
+org:                ORG-1AGO
+mnt-by:             1AGO-MNT
+status:             ASSIGNED
+source:             DN42

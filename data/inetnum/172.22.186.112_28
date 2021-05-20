@@ -1,0 +1,9 @@
+inetnum:            172.22.186.112 - 172.22.186.127
+cidr:               172.22.186.112/28
+netname:            1AGO-NETWORK
+admin-c:            TIJG-DN42
+tech-c:             TIJG-DN42
+mnt-by:             1AGO-MNT
+org:                ORG-1AGO
+status:             ASSIGNED
+source:             DN42

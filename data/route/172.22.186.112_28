@@ -1,0 +1,4 @@
+route:              172.22.186.112/28
+origin:             AS4242420306
+mnt-by:             1AGO-MNT
+source:             DN42
