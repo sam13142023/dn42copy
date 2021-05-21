@@ -1,0 +1,10 @@
+inet6num:           fd20:3f3a:6046:0000:0000:0000:0000:0000 - fd20:3f3a:6046:ffff:ffff:ffff:ffff:ffff
+cidr:               fd20:3f3a:6046::/48
+netname:            GUSTAVO6046-NET6
+descr:              Gustavo6046's IPv6 subnet
+country:            BR
+admin-c:            GUSTAVO6046-DN42
+tech-c:             GUSTAVO6046-DN42
+mnt-by:             GUSTAVO6046-MNT
+status:             ASSIGNED
+source:             DN42

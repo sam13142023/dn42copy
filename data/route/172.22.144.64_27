@@ -1,0 +1,4 @@
+route:              172.22.144.64/27
+origin:             AS4242423646
+mnt-by:             GUSTAVO6046-MNT
+source:             DN42
