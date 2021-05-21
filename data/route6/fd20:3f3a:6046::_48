@@ -1,0 +1,5 @@
+route6:             fd20:3f3a:6046::/48
+origin:             AS4242423646
+max-length:         48
+mnt-by:             GUSTAVO6046-MNT
+source:             DN42

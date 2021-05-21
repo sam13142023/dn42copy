@@ -1,0 +1,8 @@
+mntner:             GUSTAVO6046-MNT
+descr:              Gustavo6046 in dn42
+admin-c:            GUSTAVO6046-DN42
+tech-c:             GUSTAVO6046-DN42
+mnt-by:             GUSTAVO6046-MNT
+source:             DN42
+auth:               pgp-fingerprint 82216B90A98446CE2FB17A423F0E10138B8FB9C6
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHMn9oqbVTtV1b14RY2P6Eg4VJC8vyjNJS3u7DNKBHZl
