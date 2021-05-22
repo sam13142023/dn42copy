@@ -1,0 +1,11 @@
+aut-num:            AS4242420247
+as-name:            BAOSHUO-AS-DN42
+descr:              Baoshuo DN42 Network
+remarks:            --------------------------------
+remarks:            Baoshuo DN42 Network
+remarks:            https://as141776.net/dn42.html
+remarks:            --------------------------------
+admin-c:            BAOSHUO-DN42
+tech-c:             BAOSHUO-DN42
+mnt-by:             BAOSHUO-MNT
+source:             DN42
