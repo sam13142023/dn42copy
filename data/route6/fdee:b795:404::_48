@@ -1,0 +1,5 @@
+route6:             fdee:b795:404::/48
+origin:             AS4242422421
+max-length:         48
+mnt-by:             JEDAYOSHI-MNT
+source:             DN42

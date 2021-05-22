@@ -1,0 +1,4 @@
+route:              172.22.188.64/26
+origin:             AS204446
+mnt-by:             HELLOMOUSE-MNT
+source:             DN42

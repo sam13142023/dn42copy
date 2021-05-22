@@ -1,0 +1,5 @@
+route6:             fd80:443f:c80c::/48
+origin:             AS204446
+max-length:         48
+mnt-by:             HELLOMOUSE-MNT
+source:             DN42

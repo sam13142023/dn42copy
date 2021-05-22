@@ -1,0 +1,9 @@
+mntner:             HELLOMOUSE-MNT
+descr:              Hellomouse
+admin-c:            JEDAYOSHI-DN42
+tech-c:             JEDAYOSHI-DN42
+mnt-by:             HELLOMOUSE-MNT
+mnt-by:             JEDAYOSHI-MNT
+auth:               pgp-fingerprint 1A0C8B7355F777833CED73418060B288C274219D
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDUY2KCRcd2BKspnvFYhMcIPvn7EbsYMEQd7Ur25NxZ/qLeOiC4lxFcVLGYdNcrZ7ju8htfNH3CKbPapdeDfHTT8eJqoAX4ymNrM/1lwz/OJQrRoE6z9LZdxIBrgCPho3FrgQw87MRpuGwu6qRQsqooON/Pa4vws1yEnLcpXo/cBnf0SaMy2HMfokUJ+xIG3EDo+xQP6Fpylmsu0KU7N1WYAg5Q/yj4hlYHbE5SJHYJvjstQ9GwbT7ryaaX1OLYfdCZtkm9DhspWz22XsNKpEspT2I3513rtf7w8BsasAndheEG45MMNq+xjgjBuidN3AyZwMVwp4PfRu/m+MYTKsoxg/2LX+oAKIyy5swZTUxFoqcCjpDSfTzYOi8wkeXY55Dda7loZV3lManndUedG5kbd0/ErU7aFJkvlPdZVcosWK4Ap6TaUPqZYYQB6ClVgFNIA1KMCciyw9OlsONk0+cScpK8Guld50DPDinHV3yfKTyt9tBPLUEY9cvFY6xICZ6NzfNWXZn40W/23kwgOBvb6UhFZHcAyNCYAC2v5wIVaqQRM48jB049ZG6xWDqOOVuBsrqElkK8mfKDhz+FdrdNXXtZg64J3A4a0s9q8/KZTOmqb6I5sYJHyt/QEvkjYpoSebii4sMoGPnA+2z6QI2bdKs2jgPfycMfwd4FarsVLw==
+source:             DN42
