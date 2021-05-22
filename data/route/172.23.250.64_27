@@ -1,4 +1,5 @@
 route:              172.23.250.64/27
 origin:             AS141776
+origin:             AS4242420247
 mnt-by:             BAOSHUO-MNT
 source:             DN42
