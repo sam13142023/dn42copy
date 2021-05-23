@@ -1,0 +1,10 @@
+inet6num:           fd37:c7f3:5bf7:0000:0000:0000:0000:0000 - fd37:c7f3:5bf7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd37:c7f3:5bf7::/48
+netname:            JHEWITT-NETWORK
+descr:              Network of JHEWITT
+country:            UK
+admin-c:            JHEWITT-DN42
+tech-c:             JHEWITT-DN42
+mnt-by:             JHEWITT-MNT
+status:             ASSIGNED
+source:             DN42
