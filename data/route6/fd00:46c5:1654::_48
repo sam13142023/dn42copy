@@ -1,0 +1,5 @@
+route6:             fd00:46c5:1654::/48
+descr:              Peer with me at zengyan@mails.lingxun.tech
+origin:             AS4242423710
+mnt-by:             LINGXUN-MNT
+source:             DN42

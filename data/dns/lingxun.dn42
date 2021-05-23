@@ -1,0 +1,9 @@
+domain:             lingxun.dn42
+admin-c:            LINGXUN-DN42
+tech-c:             LINGXUN-DN42
+mnt-by:             LINGXUN-MNT
+nserver:            ns1.lingxun.dn42 172.23.9.61
+nserver:            ns1.lingxun.dn42 fd00:46c5:1654::8bfe:c606:ba01
+nserver:            ns2.lingxun.dn42 172.23.9.62
+nserver:            ns2.lingxun.dn42 fd00:46c5:1654::fc23:cf26:ba02
+source:             DN42

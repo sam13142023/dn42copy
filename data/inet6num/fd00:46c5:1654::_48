@@ -1,0 +1,12 @@
+inet6num:           fd00:46c5:1654:0000:0000:0000:0000:0000 - fd00:46c5:1654:ffff:ffff:ffff:ffff:ffff
+netname:            LINGXUN-IPV6
+descr:              Peer with me at zengyan@mails.lingxun.tech
+country:            CN
+admin-c:            LINGXUN-DN42
+tech-c:             LINGXUN-DN42
+mnt-by:             LINGXUN-MNT
+nserver:            ns1.lingxun.dn42
+nserver:            ns2.lingxun.dn42
+status:             ASSIGNED
+cidr:               fd00:46c5:1654::/48
+source:             DN42
