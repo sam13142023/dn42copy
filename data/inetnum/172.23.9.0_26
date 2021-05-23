@@ -1,0 +1,13 @@
+inetnum:            172.23.9.0 - 172.23.9.63
+cidr:               172.23.9.0/26
+netname:            LINGXUN-IPV4
+remarks:            Peer with me at zengyan@mails.lingxun.tech
+descr:              Peer with me at zengyan@mails.lingxun.tech
+country:            CN
+admin-c:            LINGXUN-DN42
+tech-c:             LINGXUN-DN42
+mnt-by:             LINGXUN-MNT
+nserver:            ns1.lingxun.dn42
+nserver:            ns2.lingxun.dn42
+status:             ASSIGNED
+source:             DN42

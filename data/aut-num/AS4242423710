@@ -1,0 +1,7 @@
+aut-num:            AS4242423710
+as-name:            LINGXUN-AS
+descr:              lingxun.tech DN42 AS
+admin-c:            LINGXUN-DN42
+tech-c:             LINGXUN-DN42
+mnt-by:             LINGXUN-MNT
+source:             DN42
