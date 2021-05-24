@@ -1,0 +1,5 @@
+route:              172.23.13.8/29
+origin:             AS4242421469
+max-length:         29
+mnt-by:             JHEWITT-MNT
+source:             DN42

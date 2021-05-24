@@ -1,0 +1,5 @@
+route6:             fd37:c7f3:5bf7::/48
+origin:             AS4242421469
+max-length:         48
+mnt-by:             JHEWITT-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.13.8 - 172.23.13.15
+cidr:               172.23.13.8/29
+netname:            JHEWITT-NETWORK
+admin-c:            JHEWITT-DN42
+tech-c:             JHEWITT-DN42
+mnt-by:             JHEWITT-MNT
+status:             ASSIGNED
+source:             DN42
