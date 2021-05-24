@@ -1,0 +1,10 @@
+domain:             nwn.dn42
+descr:              NwN Network Primary Domain
+admin-c:            NWNTEK-DN42
+tech-c:             NWNTEK-DN42
+mnt-by:             NWNTEK-MNT
+nserver:            ns1.nwn.dn42 172.23.110.110
+nserver:            ns1.nwn.dn42 fdbc:f9dc:67ad::110
+nserver:            ns2.nwn.dn42 172.23.110.120
+nserver:            ns2.nwn.dn42 fdbc:f9dc:67ad::120
+source:             DN42

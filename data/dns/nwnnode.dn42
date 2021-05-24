@@ -1,0 +1,8 @@
+domain:             nwnnode.dn42
+descr:              NwN Network Node Domain
+admin-c:            NWNTEK-DN42
+tech-c:             NWNTEK-DN42
+mnt-by:             NWNTEK-MNT
+nserver:            ns1.nwn.dn42
+nserver:            ns2.nwn.dn42
+source:             DN42
