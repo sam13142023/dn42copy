@@ -1,0 +1,10 @@
+route:              10.127.60.0/24
+max-length:         29
+origin:             AS141776
+origin:             AS4201270017
+origin:             AS4242420247
+admin-c:            REN-BAOSHUO-NEONETWORK
+tech-c:             REN-BAOSHUO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

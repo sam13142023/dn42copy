@@ -1,0 +1,7 @@
+route6:             fd0d:4cea:23::/112
+max-length:         112
+origin:             AS64654
+descr:              CHAOSVPN-ARGV0X17
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

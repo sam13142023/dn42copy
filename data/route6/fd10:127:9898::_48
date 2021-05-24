@@ -1,0 +1,10 @@
+route6:             fd10:127:9898::/48
+max-length:         64
+origin:             AS141776
+origin:             AS4201270017
+origin:             AS4242420247
+admin-c:            REN-BAOSHUO-NEONETWORK
+tech-c:             REN-BAOSHUO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

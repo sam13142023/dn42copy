@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:9898:0000:0000:0000:0000:0000 - fd10:0127:9898:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:9898::/48
+netname:            BAOSHUO-NEO-V6-1
+admin-c:            REN-BAOSHUO-NEONETWORK
+tech-c:             REN-BAOSHUO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
