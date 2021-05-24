@@ -1,0 +1,10 @@
+inet6num:           fdc3:c927:4566:0000:0000:0000:0000:0000 - fdc3:c927:4566:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:c927:4566::/48
+netname:            THEOTHERTOM-NETWORK
+descr:              RoW - DN42
+country:            UK
+admin-c:            THEOTHERTOM-DN42
+tech-c:             THEOTHERTOM-DN42
+mnt-by:             THEOTHERTOM-MNT
+status:             ASSIGNED
+source:             DN42
