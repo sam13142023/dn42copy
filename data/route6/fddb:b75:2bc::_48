@@ -1,0 +1,5 @@
+route6:             fddb:b75:2bc::/48
+origin:             AS4242423695
+max-length:         48
+mnt-by:             MSC-MNT
+source:             DN42

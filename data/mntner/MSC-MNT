@@ -1,0 +1,6 @@
+mntner:             MSC-MNT
+admin-c:            MSC-DN42
+tech-c:             MSC-DN42
+mnt-by:             MSC-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPXU6nmG5Zu41fV5sG/EjGsmCzLd2YU46W+hflNICMAw
+source:             DN42

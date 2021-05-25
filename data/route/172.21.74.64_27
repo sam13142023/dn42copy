@@ -1,0 +1,4 @@
+route:              172.21.74.64/27
+origin:             AS4242423695
+mnt-by:             MSC-MNT
+source:             DN42
