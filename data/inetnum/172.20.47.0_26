@@ -6,6 +6,6 @@ admin-c:            NEO-DN42
 tech-c:             NEO-DN42
 mnt-by:             NEO-MNT
 status:             ASSIGNED
-nserver:            ns1.n.dn42
+nserver:            ns2.androw.dn42
 cidr:               172.20.47.0/26
 source:             DN42
