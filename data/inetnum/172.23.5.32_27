@@ -1,0 +1,8 @@
+inetnum:            172.23.5.32 - 172.23.5.63
+cidr:               172.23.5.32/27
+netname:            MADDNESS-NETWORK
+admin-c:            MADDNESS-DN42
+tech-c:             MADDNESS-DN42
+mnt-by:             MADDNESS-MNT
+status:             ASSIGNED
+source:             DN42

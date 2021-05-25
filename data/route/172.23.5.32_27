@@ -1,0 +1,4 @@
+route:              172.23.5.32/27
+origin:             AS4242420413
+mnt-by:             MADDNESS-MNT
+source:             DN42
