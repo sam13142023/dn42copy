@@ -1,0 +1,4 @@
+route:              172.23.24.32/27
+origin:             AS4242421964
+mnt-by:             SPF-MNT
+source:             DN42
