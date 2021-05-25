@@ -1,0 +1,9 @@
+domain:             maxsonic.dn42
+admin-c:            MSC-DN42
+tech-c:             MSC-DN42
+mnt-by:             MSC-MNT
+nserver:            ns1.maxsonic.dn42 172.21.74.65
+nserver:            ns1.maxsonic.dn42 fddb:b75:2bc:cafe::1
+nserver:            ns2.maxsonic.dn42 172.21.74.66
+nserver:            ns2.maxsonic.dn42 fddb:b75:2bc:cafe::2
+source:             DN42

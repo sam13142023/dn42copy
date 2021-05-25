@@ -1,0 +1,8 @@
+inetnum:            172.21.74.64 - 172.21.74.95
+cidr:               172.21.74.64/27
+netname:            MSC-NETWORK
+admin-c:            MSC-DN42
+tech-c:             MSC-DN42
+mnt-by:             MSC-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fddb:0b75:02bc:0000:0000:0000:0000:0000 - fddb:0b75:02bc:ffff:ffff:ffff:ffff:ffff
+cidr:               fddb:b75:2bc::/48
+netname:            MSC-NETWORK
+descr:              Network of MSC
+country:            FR
+admin-c:            MSC-DN42
+tech-c:             MSC-DN42
+mnt-by:             MSC-MNT
+status:             ASSIGNED
+source:             DN42
