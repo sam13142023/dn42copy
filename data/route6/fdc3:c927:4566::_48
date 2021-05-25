@@ -1,0 +1,5 @@
+route6:             fdc3:c927:4566::/48
+origin:             AS4242421509
+max-length:         48
+mnt-by:             THEOTHERTOM-MNT
+source:             DN42
