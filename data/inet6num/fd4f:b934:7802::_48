@@ -1,0 +1,10 @@
+inet6num:           fd4f:b934:7802:0000:0000:0000:0000:0000 - fd4f:b934:7802:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4f:b934:7802::/48
+netname:            SPF-NETWORK
+descr:              Network of Southparkfan
+country:            NL
+admin-c:            SPF-DN42
+tech-c:             SPF-DN42
+mnt-by:             SPF-MNT
+status:             ASSIGNED
+source:             DN42

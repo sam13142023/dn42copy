@@ -1,0 +1,5 @@
+route6:             fd4f:b934:7802::/48
+origin:             AS4242421964
+max-length:         48
+mnt-by:             SPF-MNT
+source:             DN42
