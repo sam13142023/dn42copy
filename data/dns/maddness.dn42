@@ -1,0 +1,9 @@
+domain:             maddness.dn42
+admin-c:            MADDNESS-DN42
+tech-c:             MADDNESS-DN42
+mnt-by:             MADDNESS-MNT
+nserver:            ns1.maddness.dn42 172.23.5.33
+nserver:            ns1.maddness.dn42 fd9b:3774:d2fa::1
+nserver:            ns2.maddness.dn42 172.23.5.34
+nserver:            ns2.maddness.dn42 fd9b:3774:d2fa::2
+source:             DN42
