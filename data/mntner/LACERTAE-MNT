@@ -1,0 +1,6 @@
+mntner:             LACERTAE-MNT
+admin-c:            LACERTAE-DN42
+tech-c:             LACERTAE-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIVhjNlTJ021BO+jxXRNf8FOrFvYgs+HV+fqq/nhByhh
+mnt-by:             LACERTAE-MNT
+source:             DN42

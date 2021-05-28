@@ -1,0 +1,8 @@
+inetnum:            172.20.128.104 - 172.20.128.111
+netname:            LACERTAE4-DN42
+admin-c:            LACERTAE-DN42
+tech-c:             LACERTAE-DN42
+mnt-by:             LACERTAE-MNT
+status:             ASSIGNED
+cidr:               172.20.128.104/29
+source:             DN42
