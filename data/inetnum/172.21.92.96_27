@@ -1,0 +1,11 @@
+inetnum:            172.21.92.96 - 172.21.92.127
+netname:            LAEVATEIN-IPV4
+remarks:            Peer with me at fish_magic@ftmc.me
+descr:              Peer with me at fish_magic@ftmc.me
+country:            CN
+admin-c:            LAEVATEIN-DN42
+tech-c:             LAEVATEIN-DN42
+mnt-by:             LAEVATEIN-MNT
+status:             ASSIGNED
+cidr:               172.21.92.96/27
+source:             DN42
