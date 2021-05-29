@@ -1,0 +1,11 @@
+inet6num:           fd4c:6516:94e0:0000:0000:0000:0000:0000 - fd4c:6516:94e0:ffff:ffff:ffff:ffff:ffff
+netname:            BEEGEEPEE-IPV6
+descr:              Peer with me at kevrwells@gmail.com
+country:            DE
+admin-c:            BEEGEEPEE-DN42
+tech-c:             BEEGEEPEE-DN42
+mnt-by:             BEEGEEPEE-MNT
+nserver:            ns1.beegeepee.dn42
+status:             ASSIGNED
+cidr:               fd4c:6516:94e0::/48
+source:             DN42
