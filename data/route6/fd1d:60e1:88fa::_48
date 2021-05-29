@@ -1,0 +1,5 @@
+route6:             fd1d:60e1:88fa::/48
+descr:              Peer with me at fish_magic@ftmc.me
+origin:             AS4242420601
+mnt-by:             LAEVATEIN-MNT
+source:             DN42
