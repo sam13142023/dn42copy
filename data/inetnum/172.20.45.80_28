@@ -1,0 +1,12 @@
+inetnum:            172.20.45.80 - 172.20.45.95
+netname:            BEEGEEPEE-IPV4
+remarks:            Peer with me at kevrwells@gmail.com
+descr:              Peer with me at kevrwells@gmail.com
+country:            DE
+admin-c:            BEEGEEPEE-DN42
+tech-c:             BEEGEEPEE-DN42
+mnt-by:             BEEGEEPEE-MNT
+nserver:            ns1.beegeepee.dn42
+status:             ASSIGNED
+cidr:               172.20.45.80/28
+source:             DN42

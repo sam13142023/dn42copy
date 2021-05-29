@@ -1,0 +1,7 @@
+domain:             beegeepee.dn42
+admin-c:            BEEGEEPEE-DN42
+tech-c:             BEEGEEPEE-DN42
+mnt-by:             BEEGEEPEE-MNT
+nserver:            ns1.beegeepee.dn42 172.20.45.81
+nserver:            ns1.beegeepee.dn42 fd4c:6516:94e0::
+source:             DN42
