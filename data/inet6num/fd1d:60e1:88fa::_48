@@ -1,0 +1,10 @@
+inet6num:           fd1d:60e1:88fa:0000:0000:0000:0000:0000 - fd1d:60e1:88fa:ffff:ffff:ffff:ffff:ffff
+netname:            LAEVATEIN-IPV6
+descr:              Peer with me at fish_magic@ftmc.me
+country:            CN
+admin-c:            LAEVATEIN-DN42
+tech-c:             LAEVATEIN-DN42
+mnt-by:             LAEVATEIN-MNT
+status:             ASSIGNED
+cidr:               fd1d:60e1:88fa::/48
+source:             DN42
