@@ -1,0 +1,10 @@
+inet6num:           fd9e:bcbd:0088:0000:0000:0000:0000:0000 - fd9e:bcbd:0088:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:bcbd:88::/48
+netname:            KEVIN335200-IPV6
+descr:              Peer with me at 1kevin335200@gmail.com
+country:            DE
+admin-c:            KEVIN335200-DN42
+tech-c:             KEVIN335200-DN42
+mnt-by:             KEVIN335200-MNT
+status:             ASSIGNED
+source:             DN42
