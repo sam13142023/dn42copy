@@ -1,0 +1,5 @@
+route6:             fd9e:bcbd:88::/48
+origin:             AS4242423352
+max-length:         48
+mnt-by:             KEVIN335200-MNT
+source:             DN42

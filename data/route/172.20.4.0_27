@@ -1,0 +1,4 @@
+route:              172.20.4.0/27
+origin:             AS4242423352
+mnt-by:             KEVIN335200-MNT
+source:             DN42

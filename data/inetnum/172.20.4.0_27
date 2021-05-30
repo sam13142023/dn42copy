@@ -1,0 +1,8 @@
+inetnum:            172.20.4.0 - 172.20.4.31
+cidr:               172.20.4.0/27
+netname:            KEVIN335200-IPV4
+admin-c:            KEVIN335200-DN42
+tech-c:             KEVIN335200-DN42
+mnt-by:             KEVIN335200-MNT
+status:             ASSIGNED
+source:             DN42
