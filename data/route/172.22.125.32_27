@@ -1,0 +1,5 @@
+route:              172.22.125.32/27
+origin:             AS4242422256
+max-length:         29
+mnt-by:             AFILINI-MNT
+source:             DN42

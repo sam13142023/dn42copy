@@ -1,0 +1,10 @@
+inet6num:           fdad:baa4:7742:0000:0000:0000:0000:0000 - fdad:baa4:7742:ffff:ffff:ffff:ffff:ffff
+cidr:               fdad:baa4:7742::/48
+netname:            AFILINI-IPV6-0
+descr:              afilini's IPv6 block #0
+country:            IT
+admin-c:            AFILINI-DN42
+tech-c:             AFILINI-DN42
+mnt-by:             AFILINI-MNT
+status:             ASSIGNED
+source:             DN42
