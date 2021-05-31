@@ -1,0 +1,10 @@
+inet6num:           fdbc:f9dc:0332:0000:0000:0000:0000:0000 - fdbc:f9dc:0332:ffff:ffff:ffff:ffff:ffff
+netname:            RIP-IPV6
+descr:              Jerry's IP space
+country:            CN
+admin-c:            RIP-DN42
+tech-c:             RIP-DN42
+mnt-by:             RIP-MNT
+status:             ASSIGNED
+cidr:               fdbc:f9dc:332::/48
+source:             DN42

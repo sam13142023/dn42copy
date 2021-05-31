@@ -1,0 +1,5 @@
+route:              172.23.110.128/27
+descr:              Peer with me at admin@ripe.games
+origin:             AS4242422553
+mnt-by:             RIP-MNT
+source:             DN42
