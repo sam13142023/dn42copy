@@ -1,0 +1,7 @@
+aut-num:            AS4242422553
+as-name:            RIP-AS
+descr:              Peer with me at admin@ripe.games
+admin-c:            RIP-DN42
+tech-c:             RIP-DN42
+mnt-by:             RIP-MNT
+source:             DN42

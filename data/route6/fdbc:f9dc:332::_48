@@ -1,0 +1,5 @@
+route6:             fdbc:f9dc:332::/48
+descr:              Jerry's IP space
+origin:             AS4242422553
+mnt-by:             RIP-MNT
+source:             DN42
