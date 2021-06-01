@@ -1,0 +1,7 @@
+mntner:             NUEVO-MNT
+admin-c:            NUEVO-DN42
+tech-c:             NUEVO-DN42
+mnt-by:             NUEVO-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCy2AukRvRVhUDIyi5gQvzuwXUX7aW8jSDES1Firom9MXWGTo0eJKKkP7HzSzV6uPuZWK5ZUpeazZb80U+LKwsGeE6uOpGjABWgOZCzlDI7qsms90JlTraeaPfOY8RBT/YTE6fmqD81HOkdR3NB/rrSBn9G4P71sFWNl4+3sp6u5SHkSXmZDzVc0fVHI1uUgGV63ebCFeHEA5OmPN2VgpvItkeXQLQEF0RutCuzA6h8xetaVogrqn81JQ1MFBot27gK6ih2rgkb108O6zwDalkrAVyiZt//+gpOc+bc5U1N5x6vP097+jiVLUmzZTOPMXCxOvt5yZB3YhK41zGUkMDFXdYcgxQ5eSOu5KDwVJq4pXQK7CBNwN6P6IVZjpvhDSLV/WdR3z3HL/1hhqp1gMaZ2jkGJP8K51hs4G6uEJfqDc+ChEihdoKPPkLffdKtkWDDxQ0+drN4FFj0yF0WNISOaKMi6cea6r7cIb5y4HUhUBGIuA3VBl2RimmLlcFVWmtOh9FpQUOp7Drqhl+mOn+wgwsUBCAPZPpchiDu9R2P2obdnTYCEPSrrKIU1btx9hdEPvdPGxum0wKuYWW9hu+yySqgaYydhMf3k8wRNtflFynIsSZNRZtpUNnHQXLJVaMEGjSwSokfwnRL8bQUDagBCyz4OywJEGnZVcevSJAlxw== kianakaslnna6@gmail.com
+auth:               PGPKEY-7249C03C
