@@ -1,0 +1,11 @@
+inetnum:            172.20.184.240 - 172.20.184.255
+netname:            NUEVO-IPV4
+remarks:            nuevo:kianakaslanna6@gmail.com
+descr:              nuevo:kianakaslanna6@gmail.com
+country:            CN
+admin-c:            NUEVO-DN42
+tech-c:             NUEVO-DN42
+mnt-by:             NUEVO-MNT
+status:             ASSIGNED
+cidr:               172.20.184.240/28
+source:             DN42

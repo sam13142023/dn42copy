@@ -1,0 +1,10 @@
+inet6num:           fde4:486f:416f:0000:0000:0000:0000:0000 - fde4:486f:416f:ffff:ffff:ffff:ffff:ffff
+netname:            NUEVO-IPV6
+descr:              nuevo : kianakaslanna6@gmail.com
+country:            CN
+admin-c:            NUEVO-DN42
+tech-c:             NUEVO-DN42
+mnt-by:             NUEVO-MNT
+status:             ASSIGNED
+cidr:               fde4:486f:416f::/48
+source:             DN42
