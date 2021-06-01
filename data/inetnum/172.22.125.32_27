@@ -1,0 +1,10 @@
+inetnum:            172.22.125.32 - 172.22.125.63
+cidr:               172.22.125.32/27
+netname:            AFILINI-IPV4-0
+descr:              afilini's IPv4 block #0
+country:            IT
+admin-c:            AFILINI-DN42
+tech-c:             AFILINI-DN42
+mnt-by:             AFILINI-MNT
+status:             ASSIGNED
+source:             DN42
