@@ -1,9 +1,11 @@
 inetnum:            172.22.172.32 - 172.22.172.63
 netname:            NEO-NET-UA-CA
+descr:              NEO Experimental Network AS4242421123
 country:            US
 admin-c:            NEO-DN42
 tech-c:             NEO-DN42
 mnt-by:             NEO-MNT
 status:             ASSIGNED
+nserver:            ns2.m.dn42
 cidr:               172.22.172.32/27
 source:             DN42

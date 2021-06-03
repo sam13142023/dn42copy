@@ -1,0 +1,7 @@
+domain:             m.dn42
+descr:              domain for neo network
+admin-c:            NEO-DN42
+tech-c:             NEO-DN42
+mnt-by:             NEO-MNT
+nserver:            ns2.m.dn42 172.22.172.32
+source:             DN42
