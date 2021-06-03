@@ -5,6 +5,7 @@ descr:              Hackfront DN42 network
 country:            IT
 admin-c:            HACKFRONT-DN42
 tech-c:             HACKFRONT-DN42
+nserver:            ns1.hackfront.dn42
 mnt-by:             HACKFRONT-MNT
 status:             ASSIGNED
 source:             DN42

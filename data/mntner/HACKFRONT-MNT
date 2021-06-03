@@ -3,5 +3,6 @@ descr:              Hackfront
 admin-c:            HACKFRONT-DN42
 tech-c:             HACKFRONT-DN42
 auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+J6whA0Z9UrQingmUthUgE7Yrwn1nv9+rLYufGODPBw+Nxgl79+j0RLkWktGWeYML9MeIw7+SZ+bWJptDZJ5vId48lwv4RfGQiQ1G73tsMWmwTSw7hfYZY38F6eXfKgBt6JMvbgCuATcqDrke46DHLEghWLpKvAJ0vVIhU0z6d5zagPhpu5u5WrQd1Ty5qs2+CizSieCk/rqQKAcUFDisFJPOW8Al3VeLp1JZ7NsIkNqoLLrqZTs6AcdCdA/VBk4ftUD3p1f7tDtdHLWwqUs6wrLLMmm4gdvyFFJ1EZnMpudzzzG6Z/GoW3IGhDqrLdwIQgDgaSwvdGk7BDC6kKHwMB9QZNO47ehhXEwa1jzx//k/kXgpVJ7V93ZQiP3d5rC5yji2GksNgkvbXuV9oHZl7BJ0AitShStQlLi/07TgM7JkwwgleSy7KYB5IxsAo5ywEeNYGuaKyU3QD15aeMClLhFPjtKGZ2Kjv9BgOMkz+ldD5QnrBMF2AL83WklQk4JB6RMDl3h0PBNHQ00AJ0Yo/qLQ5o/HvWiZ7bQXtsx4dqqZMM2NToqG9ai3BGbPLUC6+7qUVl+7Lf2S4V2NKdT7/FfwKN8dfB65RcP80duuFVXcsgKT9sY/w3167pSkj0tAgrm8+OWbL/Mf4Lx6jf23Uz5FPA8ZYC5WszPCH6En7w== Hackfront@DN42
+remarks:            pin-sha256:0X+S8cbaYXmGjCG1BVV0gI6uTbgijwP8L9L1ySLuYdg=
 mnt-by:             HACKFRONT-MNT
 source:             DN42
