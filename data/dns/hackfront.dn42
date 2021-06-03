@@ -1,0 +1,7 @@
+domain:             hackfront.dn42
+admin-c:            HACKFRONT-DN42
+tech-c:             HACKFRONT-DN42
+mnt-by:             HACKFRONT-MNT
+nserver:            ns1.hackfront.dn42 172.23.167.2
+nserver:            ns1.hackfront.dn42 fd00:4861:636b::2
+source:             DN42
