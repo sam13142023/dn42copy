@@ -1,0 +1,7 @@
+domain:             p1mnl.dn42
+admin-c:            P1MNL-DN42
+tech-c:             P1MNL-DN42
+mnt-by:             P1MNL-MNT
+nserver:            ns1.p1mnl.dn42 172.20.164.250
+nserver:            ns1.p1mnl.dn42 fdf8:f2e5:897e::fff0
+source:             DN42

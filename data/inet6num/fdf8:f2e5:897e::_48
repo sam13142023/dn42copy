@@ -1,0 +1,11 @@
+inet6num:           fdf8:f2e5:897e:0000:0000:0000:0000:0000 - fdf8:f2e5:897e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:f2e5:897e::/48
+netname:            P1MNL-NETWORK
+descr:              Network of P1MNL
+country:            NL
+admin-c:            P1MNL-DN42
+tech-c:             P1MNL-DN42
+mnt-by:             P1MNL-MNT
+status:             ASSIGNED
+nserver:            ns1.p1mnl.dn42
+source:             DN42

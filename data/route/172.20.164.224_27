@@ -1,0 +1,4 @@
+route:              172.20.164.224/27
+origin:             AS4242420290
+mnt-by:             P1MNL-MNT
+source:             DN42
