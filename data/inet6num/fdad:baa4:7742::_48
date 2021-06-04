@@ -6,5 +6,6 @@ country:            IT
 admin-c:            AFILINI-DN42
 tech-c:             AFILINI-DN42
 mnt-by:             AFILINI-MNT
+nserver:            ns1.afilini.dn42
 status:             ASSIGNED
 source:             DN42
