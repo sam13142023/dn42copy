@@ -1,0 +1,11 @@
+inet6num:           fd49:0277:0042:0000:0000:0000:0000:0000-fd49:0277:0042:ffff:ffff:ffff:ffff:ffff
+cidr:               fd49:277:42::/48
+netname:            IWARP-DN42-IP6-NETWORK
+descr:              IWARP DN42 IPv6 Network
+country:            CN
+admin-c:            YUX-DN42
+tech-c:             YUX-DN42
+org:                ORG-IWARP
+mnt-by:             IWARP-MNT
+status:             ASSIGNED
+source:             DN42

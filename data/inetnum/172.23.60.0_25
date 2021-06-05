@@ -1,0 +1,9 @@
+inetnum:            172.23.60.0 - 172.23.60.127
+cidr:               172.23.60.0/25
+netname:            IWARP-DN42-IP4-NETWORK
+admin-c:            YUX-DN42
+tech-c:             YUX-DN42
+mnt-by:             IWARP-MNT
+org:                ORG-IWARP
+status:             ASSIGNED
+source:             DN42

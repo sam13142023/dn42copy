@@ -1,0 +1,8 @@
+mntner:             IWARP-MNT
+admin-c:            YUX-DN42
+tech-c:             YUX-DN42
+org:                ORG-IWARP
+mnt-by:             IWARP-MNT
+auth:               pgp-fingerprint C1907229F1A6887550AD90A51ECBCCF8B5D891FD
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBvne6K4dmLQFMBtc7++y2OWPvz0wxJ2iVDw+wRNn4eoldy02nfseA7TT8xx4ZFltrDSxkTUs66vD1yQtf6TYQQJ1yV/HpFlyExT/pVO3EqZ/RxU7s2mnj4ZmJK7YAaPNMv7R0i9fsNOPPjUZagF++ethBCgn7w/sVjcJUlKzaYYEskOWt1IVQZ0vS/0JcwPcA7o/JyPsVqfY6vnKRsA1kqWwmzU2trwHzVggmhfFOVYVgR9m3RAaAN9h8XZXMJZi+rN3SUKC5AauFsm0EG2iuDvbvYqPP5rhl7bGZOb+vhk08rqdekqDz4XAvIil8VWuQLVbravP59LoKIJVoGBPPY7ozI+D2NfvzNLaOdKuUaInLuGKFGzj0+OGvtposlINgcElCkZErd3j0RRSLlQdABNPpgb8fcVFyLyDFef8kxrG+iNpRUzPE365ZcslmYsfws6xLO0V6BOmy7ION/3Ex5I70MZUv63663PgHuPcx0OFqmk78Z6uwoOx2Fy4BSfU=
+source:             DN42
