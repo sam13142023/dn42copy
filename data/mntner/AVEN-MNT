@@ -1,0 +1,6 @@
+mntner:             AVEN-MNT
+admin-c:            AVEN-DN42
+tech-c:             AVEN-DN42
+mnt-by:             AVEN-MNT
+source:             DN42
+auth:               pgp-fingerprint 511259251126E00C71536537B22BF10E759A205C

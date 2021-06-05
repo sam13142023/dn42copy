@@ -1,0 +1,9 @@
+inet6num:           fd5a:09fd:324f:0000:0000:0000:0000:0000 - fd5a:09fd:324f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5a:9fd:324f::/48
+netname:            AVEN-V6-NET-1
+country:            FR
+admin-c:            AVEN-DN42
+tech-c:             AVEN-DN42
+mnt-by:             AVEN-MNT
+status:             ASSIGNED
+source:             DN42
