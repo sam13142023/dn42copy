@@ -7,5 +7,6 @@ admin-c:            YUX-DN42
 tech-c:             YUX-DN42
 org:                ORG-IWARP
 mnt-by:             IWARP-MNT
+nserver:            ns1.iwarp.dn42
 status:             ASSIGNED
 source:             DN42

@@ -1,0 +1,8 @@
+domain:             iwarp.dn42
+admin-c:            YUX-DN42
+tech-c:             YUX-DN42
+org:                ORG-IWARP
+mnt-by:             IWARP-MNT
+nserver:            ns1.iwarp.dn42 172.23.60.53
+nserver:            ns1.iwarp.dn42 fd49:277:42:53::1
+source:             DN42
