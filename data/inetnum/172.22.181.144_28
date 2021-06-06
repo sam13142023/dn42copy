@@ -1,0 +1,9 @@
+inetnum:            172.22.181.144 - 172.22.181.159
+cidr:               172.22.181.144/28
+netname:            AVEN-V4-NET-1
+country:            FR
+admin-c:            AVEN-DN42
+tech-c:             AVEN-DN42
+mnt-by:             AVEN-MNT
+status:             ASSIGNED
+source:             DN42
