@@ -1,0 +1,4 @@
+route:              172.23.78.160/27
+origin:             AS4242421377
+mnt-by:             THELASTFREEDOM-MNT
+source:             DN42

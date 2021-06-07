@@ -1,0 +1,10 @@
+inet6num:           fd55:ab27:becc:0000:0000:0000:0000:0000 - fd55:ab27:becc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:ab27:becc::/48
+netname:            THELASTFREEDOM-IPV6-0
+descr:              TheLastFreeDom AS IPv6 block #0
+country:            FR
+admin-c:            THELASTFREEDOM-DN42
+tech-c:             THELASTFREEDOM-DN42
+mnt-by:             THELASTFREEDOM-MNT
+status:             ASSIGNED
+source:             DN42

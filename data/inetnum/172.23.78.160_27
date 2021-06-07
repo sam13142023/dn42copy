@@ -1,0 +1,10 @@
+inetnum:            172.23.78.160 - 172.23.78.191
+cidr:               172.23.78.160/27
+netname:            THELASTFREEDOM-IPV4-0
+descr:              TheLastFreeDom AS IPv4 block #0
+country:            FR
+admin-c:            THELASTFREEDOM-DN42
+tech-c:             THELASTFREEDOM-DN42
+mnt-by:             THELASTFREEDOM-MNT
+status:             ASSIGNED
+source:             DN42
