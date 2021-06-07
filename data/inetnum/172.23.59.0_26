@@ -1,0 +1,8 @@
+inetnum:            172.23.59.0 - 172.23.59.63
+cidr:               172.23.59.0/26
+netname:            GALDB-NETWORK
+admin-c:            FCI001-DN42
+tech-c:             FCI001-DN42
+mnt-by:             FCI001-MNT
+status:             ASSIGNED
+source:             DN42
