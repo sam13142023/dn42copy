@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0030:0000:0000:0000:0000:0000 - fd10:0127:0030:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:30::/48
+netname:            IWARP-NEO-IP6-NETWORK
+admin-c:            YUX-ZHU-NEONETWORK
+tech-c:             YUX-ZHU-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
