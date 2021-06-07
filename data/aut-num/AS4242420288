@@ -1,7 +1,13 @@
 aut-num:            AS4242420288
 as-name:            IWARP-DN42
+descr:              IWARP DN42 Network
 admin-c:            YUX-DN42
 tech-c:             YUX-DN42
 org:                ORG-IWARP
 mnt-by:             IWARP-MNT
 source:             DN42
+remarks:            +-----------------------------------------------------------+
+remarks:            |                    IWARP DN42 Network                     |
+remarks:            | Feel free to ask peering!                                 |
+remarks:            | See https://dn42.iwarp.org for details and contact info.  |
+remarks:            +-----------------------------------------------------------+
