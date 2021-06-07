@@ -1,0 +1,8 @@
+inet6num:           fd11:acac:961d:0000:0000:0000:0000:0000 - fd11:acac:961d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:acac:961d::/48
+netname:            Thomas's DN42 Network
+admin-c:            THOMAS405-DN42
+tech-c:             THOMAS405-DN42
+status:             ASSIGNED
+mnt-by:             THOMAS405-MNT
+source:             DN42

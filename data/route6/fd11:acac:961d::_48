@@ -1,0 +1,5 @@
+route6:             fd11:acac:961d::/48
+descr:              THOMAS's DN42 Network
+origin:             AS4242420213
+mnt-by:             THOMAS405-MNT
+source:             DN42
