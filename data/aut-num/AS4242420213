@@ -1,0 +1,7 @@
+aut-num:            AS4242420213
+as-name:            THOMAS405-AS
+descr:              Thomas Network Backbone
+admin-c:            THOMAS405-DN42
+tech-c:             THOMAS405-DN42
+mnt-by:             THOMAS405-MNT
+source:             DN42

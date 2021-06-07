@@ -1,0 +1,8 @@
+inetnum:            172.22.76.32 - 172.22.76.63
+netname:            Thomas's DN42 Network
+admin-c:            THOMAS405-DN42
+tech-c:             THOMAS405-DN42
+status:             ASSIGNED
+cidr:               172.22.76.32/27
+mnt-by:             THOMAS405-MNT
+source:             DN42
