@@ -1,0 +1,11 @@
+inetnum:            172.23.8.32 - 172.23.8.63
+netname:            AQUAEMOON-IPV4
+remarks:            Peer MidAutumnMoon midautumn0moon@gmail.com
+descr:              Peer MidAutumnMoon midautumn0moon@gmail.com
+country:            CN
+admin-c:            MIDAUTUMNMOON-DN42
+tech-c:             MIDAUTUMNMOON-DN42
+mnt-by:             MIDAUTUMNMOON-MNT
+status:             ASSIGNED
+cidr:               172.23.8.32/27
+source:             DN42

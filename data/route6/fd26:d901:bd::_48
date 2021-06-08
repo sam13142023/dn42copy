@@ -1,0 +1,5 @@
+route6:             fd26:d901:bd::/48
+descr:              Peer AS4242422401 at midautumn0moon@gmail.com
+origin:             AS4242422401
+mnt-by:             MIDAUTUMNMOON-MNT
+source:             DN42
