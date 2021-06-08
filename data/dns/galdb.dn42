@@ -1,0 +1,7 @@
+domain:             galdb.dn42
+admin-c:            FCI001-DN42
+tech-c:             FCI001-DN42
+mnt-by:             FCI001-MNT
+nserver:            ns1.galdb.dn42 172.23.59.1
+nserver:            ns1.galdb.dn42 fdcb:b595:2ddf::1:1
+source:             DN42

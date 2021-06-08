@@ -1,0 +1,11 @@
+inet6num:           fdcb:b595:2ddf:0000:0000:0000:0000:0000 - fdcb:b595:2ddf:ffff:ffff:ffff:ffff:ffff
+netname:            FCI001-IPV6
+descr:              Peer with me at sadan9@gmail.com
+country:            CN
+admin-c:            FCI001-DN42
+tech-c:             FCI001-DN42
+mnt-by:             FCI001-MNT
+nserver:            ns1.galdb.dn42
+status:             ASSIGNED
+cidr:               fdcb:b595:2ddf::/48
+source:             DN42

@@ -5,4 +5,5 @@ admin-c:            FCI001-DN42
 tech-c:             FCI001-DN42
 mnt-by:             FCI001-MNT
 status:             ASSIGNED
+nserver:            ns1.galdb.dn42
 source:             DN42
