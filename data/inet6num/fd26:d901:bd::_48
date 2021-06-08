@@ -1,0 +1,10 @@
+inet6num:           fd26:d901:00bd:0000:0000:0000:0000:0000 - fd26:d901:00bd:ffff:ffff:ffff:ffff:ffff
+netname:            AQUAEMOON-IPV6
+descr:              Peer AS4242422401 at midautumn0moon@gmail.com
+country:            CN
+admin-c:            MIDAUTUMNMOON-DN42
+tech-c:             MIDAUTUMNMOON-DN42
+mnt-by:             MIDAUTUMNMOON-MNT
+status:             ASSIGNED
+cidr:               fd26:d901:bd::/48
+source:             DN42
