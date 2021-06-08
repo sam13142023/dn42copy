@@ -1,0 +1,8 @@
+inetnum:            172.20.232.152 - 172.20.232.159
+cidr:               172.20.232.152/29
+netname:            JohanHerreraRamirez-NETWORK
+admin-c:            JOHANRAMIREZ-DN42
+tech-c:             JOHANRAMIREZ-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42
