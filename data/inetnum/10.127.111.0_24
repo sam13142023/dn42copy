@@ -1,0 +1,8 @@
+inetnum:            10.127.111.0 - 10.127.111.255
+cidr:               10.127.111.0/24
+netname:            kskb
+admin-c:            KSKB-NEONETWORK
+tech-c:             KSKB-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
