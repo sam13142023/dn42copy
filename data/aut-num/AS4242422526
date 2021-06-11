@@ -1,6 +1,7 @@
 aut-num:            AS4242422526
-as-name:            AS-ANILLC
+as-name:            ANILLC-AS
 admin-c:            ANILLC-DN42
 tech-c:             ANILLC-DN42
 mnt-by:             ANILLC-MNT
+remarks:            See details at https://anillc.cn/networking for peering
 source:             DN42
