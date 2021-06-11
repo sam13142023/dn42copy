@@ -1,0 +1,8 @@
+inetnum:            172.23.4.64 - 172.23.4.127
+cidr:               172.23.4.64/26
+netname:            WZQ-NETWORK
+admin-c:            WZQ-DN42
+tech-c:             WZQ-DN42
+mnt-by:             WZQ-MNT
+status:             ASSIGNED
+source:             DN42
