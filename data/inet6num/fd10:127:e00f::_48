@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:e00f:0000:0000:0000:0000:0000 - fd10:0127:e00f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:e00f::/48
+netname:            kskb
+admin-c:            KSKB-NEONETWORK
+tech-c:             KSKB-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
