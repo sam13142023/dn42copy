@@ -1,5 +1,6 @@
 route6:             fd49:277:42::/48
 origin:             AS4242420288
+origin:             AS4201270030
 max-length:         48
 mnt-by:             IWARP-MNT
 source:             DN42

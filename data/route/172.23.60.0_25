@@ -1,4 +1,5 @@
 route:              172.23.60.0/25
 origin:             AS4242420288
+origin:             AS4201270030
 mnt-by:             IWARP-MNT
 source:             DN42
