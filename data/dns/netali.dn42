@@ -1,0 +1,7 @@
+domain:             netali.dn42
+admin-c:            NETALI-DN42
+tech-c:             NETALI-DN42
+mnt-by:             NETALI-MNT
+nserver:            ns1.netali.dn42 fd1f:ce1e:ff42:53::1
+nserver:            ns2.netali.dn42 fd1f:ce1e:ff42:53::2
+source:             DN42
