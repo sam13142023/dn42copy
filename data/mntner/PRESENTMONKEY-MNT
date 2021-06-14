@@ -1,0 +1,6 @@
+mntner:             PRESENTMONKEY-MNT
+admin-c:            PRESENTMONKEY-DN42
+tech-c:             PRESENTMONKEY-DN42
+mnt-by:             PRESENTMONKEY-MNT
+source:             DN42
+auth:               pgp-fingerprint 04CC33ABD0C779983CAA315BB9A6806CE5327F8D

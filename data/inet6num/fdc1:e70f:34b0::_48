@@ -1,0 +1,10 @@
+inet6num:           fdc1:e70f:34b0:0000:0000:0000:0000:0000 - fdc1:e70f:34b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc1:e70f:34b0::/48
+netname:            PRESENTMONKEY-NETWORK
+descr:              PresentMonkey's v6 network
+country:            US
+admin-c:            PRESENTMONKEY-DN42
+tech-c:             PRESENTMONKEY-DN42
+mnt-by:             PRESENTMONKEY-MNT
+status:             ASSIGNED
+source:             DN42

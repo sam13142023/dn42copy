@@ -1,0 +1,5 @@
+route6:             fdc1:e70f:34b0::/48
+origin:             AS4242422810
+max-length:         48
+mnt-by:             PRESENTMONKEY-MNT
+source:             DN42
