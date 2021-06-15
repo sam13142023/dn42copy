@@ -5,6 +5,7 @@ country:            CN
 admin-c:            RIP-DN42
 tech-c:             RIP-DN42
 mnt-by:             RIP-MNT
+nserver:            ns1.rip.dn42
 status:             ASSIGNED
 cidr:               172.23.110.128/27
 source:             DN42

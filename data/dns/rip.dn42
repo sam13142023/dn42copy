@@ -1,0 +1,7 @@
+domain:             rip.dn42
+admin-c:            RIP-DN42
+tech-c:             RIP-DN42
+mnt-by:             RIP-MNT
+nserver:            ns1.rip.dn42 172.23.110.128
+nserver:            ns1.rip.dn42 fdbc:f9dc:0332::1
+source:             DN42
