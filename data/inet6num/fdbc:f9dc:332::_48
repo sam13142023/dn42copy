@@ -5,6 +5,7 @@ country:            CN
 admin-c:            RIP-DN42
 tech-c:             RIP-DN42
 mnt-by:             RIP-MNT
+nserver:            ns1.rip.dn42
 status:             ASSIGNED
 cidr:               fdbc:f9dc:332::/48
 source:             DN42
