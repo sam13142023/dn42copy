@@ -1,0 +1,8 @@
+inetnum:            172.23.84.32 - 172.23.84.63
+cidr:               172.23.84.32/27
+netname:            PRESENTMONKEY-NETWORK
+admin-c:            PRESENTMONKEY-DN42
+tech-c:             PRESENTMONKEY-DN42
+mnt-by:             PRESENTMONKEY-MNT
+status:             ASSIGNED
+source:             DN42
