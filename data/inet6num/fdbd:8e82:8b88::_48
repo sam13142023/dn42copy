@@ -1,10 +1,12 @@
 inet6num:           fdbd:8e82:8b88:0000:0000:0000:0000:0000 - fdbd:8e82:8b88:ffff:ffff:ffff:ffff:ffff
 netname:            RADIONOISE-IPV6
-descr:              KANOJOWATOTEMOKAWAI OKANEOAGETE
+descr:              Misaka13514's IPv6 block
+remarks:            You may refer to https://dn42.atri.tk for details.
 country:            JP
 admin-c:            RADIONOISE-DN42
 tech-c:             RADIONOISE-DN42
 mnt-by:             RADIONOISE-MNT
+nserver:            ns1.misaka.dn42
 status:             ASSIGNED
 cidr:               fdbd:8e82:8b88::/48
 source:             DN42

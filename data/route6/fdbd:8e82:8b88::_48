@@ -1,5 +1,6 @@
 route6:             fdbd:8e82:8b88::/48
-descr:              KANOJOWATOTEMOKAWAI OKANEOAGETE
+descr:              Misaka13514's IPv6 route
+remarks:            You may refer to https://dn42.atri.tk for details.
 origin:             AS4242421032
 mnt-by:             RADIONOISE-MNT
 source:             DN42

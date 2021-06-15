@@ -1,6 +1,7 @@
 aut-num:            AS4242421032
-as-name:            RADIONOISE-AS
-descr:              KANOJOWATOTEMOKAWAI OKANEOAGETE
+as-name:            RadioNoise
+descr:              Misaka13514's autonomous system
+remarks:            You may refer to https://dn42.atri.tk for details.
 admin-c:            RADIONOISE-DN42
 tech-c:             RADIONOISE-DN42
 mnt-by:             RADIONOISE-MNT
