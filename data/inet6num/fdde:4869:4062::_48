@@ -1,0 +1,14 @@
+inet6num:           fdde:4869:4062:0000:0000:0000:0000:0000 - fdde:4869:4062:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:4869:4062::/48
+netname:            CAESIA-NETWORK
+descr:              Caesia IPv6 DN42 NET
+country:            DE
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+zone-c:             INRIN-DN42
+mnt-by:             CAESIA-MNT
+status:             ASSIGNED
+nserver:            ns1.caesia.dn42
+ds-rdata:           17599 13 2 75110ff3b8a6bc0066b085ba895bb3cd3b67ef0bfa05bc73f099a325f5c9c54c
+ds-rdata:           17599 13 4 9e52d5487010d70dea92d4e5c8b49d35e80c10c225b84cd753f5813119f481abc09bff8b7953464848fda9c2f6f2440d
+source:             DN42

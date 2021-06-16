@@ -1,6 +1,6 @@
 aut-num:            AS4242421231
 as-name:            CAESIA
-descr:              caesia.dn42 - http://dn42.caesia.net
+descr:              caesia.dn42 - http://caesia.dn42 - https://dn42.caesia.net
 mp-import:          afi any.unicast from AS4242421231:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS4242421231:AS-TRANSIT announce ANY
 mp-import:          afi any.unicast from AS4242421231:AS-DOWNSTREAM accept PeerAS

@@ -1,0 +1,42 @@
+key-cert:           PGPKEY-D863CE10
+method:             PGP
+fingerpr:           CB00 1241 0C3B 0B59 2773  CA9F 7D86 782D D863 CE10
+owner:              Inrin <inrin@caesia.net>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEXhAIgxYJKwYBBAHaRw8BAQdA7CRmIets6L9NG3wPB3jXQ7YziJClNyY/BwaE
+certif:             sOs5O460GElucmluIDxpbnJpbkBjYWVzaWEubmV0PoiZBBMWCgBBAhsDBQsJCAcD
+certif:             BRUKCQgLBRYCAwEAAh4BAheAAhkBFiEEywASQQw7C1knc8qffYZ4LdhjzhAFAmAd
+certif:             OWwFCQPuZGkACgkQfYZ4LdhjzhBvBwEA1TiDwO7Q1iOf/yxkXaJyQ3g0zQHqtn0x
+certif:             A/qqRfKIOoUA/3kOJEsQLfWZTg9ynSEHAWFM9zQvolQyD/tjYwuqH9sFiJkEExYK
+certif:             AEECGwMFCQHhM4AFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AWIQTLABJBDDsLWSdz
+certif:             yp99hngt2GPOEAUCXsmTvgIZAQAKCRB9hngt2GPOEAEOAP4pHRMn/q613TAKgnjM
+certif:             QhhYs0w6Ok0llLgUGbHCyx4IXwEA/AkXsT/2MNkD+ahsAJzj170PUAJIx4vBeCmN
+certif:             FgQsgAe0F0lucmluIDxkbjQyQGNhZXNpYS5uZXQ+iJYEExYKAD4CGwMFCwkIBwMF
+certif:             FQoJCAsFFgIDAQACHgECF4AWIQTLABJBDDsLWSdzyp99hngt2GPOEAUCYB05cAUJ
+certif:             A+5kaQAKCRB9hngt2GPOEIl8AP9sxzOLH8AenJHRNmdneBYLQ4v3lxZmMczTjGFX
+certif:             q52tCAD7BJe3zLDzylA8X/+55Rux7P3jSo2xYYEvE+tZliSdjwyIlgQTFgoAPgIb
+certif:             AwUJAeEzgAULCQgHAwUVCgkICwUWAgMBAAIeAQIXgBYhBMsAEkEMOwtZJ3PKn32G
+certif:             eC3YY84QBQJeyZO+AAoJEH2GeC3YY84QNa0A/RlYyQzOyhtL7Lp+UxTSrpzDCn09
+certif:             BbsXIhmnv7DP0aPZAQCNxXflM6lYrsCBaDqRlgRG36ZpoN5CxTCZdgL2VaNSC4iW
+certif:             BBMWCgA+FiEEywASQQw7C1knc8qffYZ4LdhjzhAFAl6zbNUCGwMFCQHhM4AFCwkI
+certif:             BwMFFQoJCAsFFgIDAQACHgECF4AACgkQfYZ4LdhjzhDL6QEA07DOqYXW8tVCzgB7
+certif:             No9/FW/lkZvIdilUxIVsSLj4o0cA/026qGESpGlW5ZLX1y5k9gfxHeDjcmVGkXH2
+certif:             bW6kMoQOtBhpbnJpbiA8aW5yaW5AY2Flc2lhLm5ldD6IlgQTFgoAPhYhBMsAEkEM
+certif:             OwtZJ3PKn32GeC3YY84QBQJeEAiDAhsDBQkB4TOABQsJCAcDBRUKCQgLBRYCAwEA
+certif:             Ah4BAheAAAoJEH2GeC3YY84QKJwBAO0TohFq9wrZwyDtUsMizWnR2TQgINUIDUEK
+certif:             DQ7W2T+8AP9pbSyt7+ZPuHH1XOgmooLJNgEfAVWGeLEqLG79lcEBBYiZBBMWCgBB
+certif:             AhsDBQkB4TOABQsJCAcDBRUKCQgLBRYCAwEAAh4BAheAFiEEywASQQw7C1knc8qf
+certif:             fYZ4LdhjzhAFAl7CojQCGQEACgkQfYZ4LdhjzhCDfgD/eueSsAjjGefvAiAcUUYZ
+certif:             YJDsg0o/zB4c5nT/mUpaN6sA/1y4ROdUxJtNuP62iF2Gx829I4juNSRox9os7vsX
+certif:             0oQHuDgEXhAIgxIKKwYBBAGXVQEFAQEHQIjgQf0xegNpi9qqbtc7S3NBg3pvXWc5
+certif:             Qm6z2RJPkuRrAwEIB4h+BBgWCgAmFiEEywASQQw7C1knc8qffYZ4LdhjzhAFAl4Q
+certif:             CIMCGwwFCQHhM4AACgkQfYZ4LdhjzhDCOwEAjVU3oQcI9O/sZI8gvy8fMP1BJph/
+certif:             yy9fQR8UnOe+HIMA/1lfmUdBKhkHweAp/nqfiFEdZCy6LUFEsdfay9wMNMMK
+certif:             =mxZP
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+remarks:            Also available via DANE, WKD and keyserver
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+mnt-by:             CAESIA-MNT
+source:             DN42
