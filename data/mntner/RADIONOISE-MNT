@@ -1,7 +1,9 @@
 mntner:             RADIONOISE-MNT
 admin-c:            RADIONOISE-DN42
 tech-c:             RADIONOISE-DN42
+auth:               pgp-fingerprint C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F
 auth:               pgp-fingerprint AB5CD3C77BC25F512FEDB86126D4961CAB312A83
 mnt-by:             RADIONOISE-MNT
 source:             DN42
-remarks:            KANOJOWATOTEMOKAWAI OKANEOAGETE
+descr:              Misaka13514
+remarks:            You may refer to https://dn42.atri.tk for details.

@@ -1,10 +1,12 @@
 inetnum:            172.23.10.0 - 172.23.10.31
 netname:            RADIONOISE-IPV4
-remarks:            KANOJOWATOTEMOKAWAI OKANEOAGETE
+descr:              Misaka13514's IPv4 block
+remarks:            You may refer to https://dn42.atri.tk for details.
 country:            JP
 admin-c:            RADIONOISE-DN42
 tech-c:             RADIONOISE-DN42
 mnt-by:             RADIONOISE-MNT
+nserver:            ns1.misaka.dn42
 status:             ASSIGNED
 cidr:               172.23.10.0/27
 source:             DN42
