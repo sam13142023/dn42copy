@@ -1,0 +1,8 @@
+domain:             caesia.dn42
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+mnt-by:             CAESIA-MNT
+nserver:            ns1.caesia.dn42 fdde:4869:4062:d115::1151
+ds-rdata:           61490 13 2 733c524996753d02449b2c60919e320d14388240ec89e5cb6dac299611c5709a
+ds-rdata:           61490 13 4 20a87e059132f95de16b76e3b544f4415aea9a30845a057c203cb0515de79e315af35641216b1663216a22f9a0c1a4b1
+source:             DN42
