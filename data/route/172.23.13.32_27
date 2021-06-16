@@ -1,4 +1,4 @@
-route:              172.23.13.8/29
+route:              172.23.13.32/27
 origin:             AS4242421469
 max-length:         29
 mnt-by:             JHEWITT-MNT
