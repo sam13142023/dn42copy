@@ -1,0 +1,5 @@
+route6:             fda0:3d4f:a414::/48
+origin:             AS4242420439
+max-length:         48
+mnt-by:             DAVIDNULLSWORTH-MNT
+source:             DN42

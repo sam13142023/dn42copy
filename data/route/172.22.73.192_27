@@ -1,0 +1,4 @@
+route:              172.22.73.192/27
+origin:             AS4242420439
+mnt-by:             DAVIDNULLSWORTH-MNT
+source:             DN42
