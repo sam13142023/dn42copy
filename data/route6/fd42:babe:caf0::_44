@@ -1,0 +1,8 @@
+route6:             fd42:babe:caf0::/44
+descr:              IPv6 Network of NEO-AS
+remarks:            NEO-AS
+origin:             AS4242421123
+remarks:            NEO-AS Test Net
+origin:             AS4242421121
+mnt-by:             NEO-MNT
+source:             DN42
