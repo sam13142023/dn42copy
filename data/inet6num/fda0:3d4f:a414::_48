@@ -1,0 +1,10 @@
+inet6num:           fda0:3d4f:a414:0000:0000:0000:0000:0000 - fda0:3d4f:a414:ffff:ffff:ffff:ffff:ffff
+cidr:               fda0:3d4f:a414::/48
+netname:            DAVIDNULLSWORTH-NETWORK
+descr:              David Nullsworth IPV6
+country:            IE
+admin-c:            DAVIDNULLSWORTH-DN42
+tech-c:             DAVIDNULLSWORTH-DN42
+mnt-by:             DAVIDNULLSWORTH-MNT
+status:             ASSIGNED
+source:             DN42
