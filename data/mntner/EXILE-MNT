@@ -2,5 +2,6 @@ mntner:             EXILE-MNT
 descr:              Exile-Tek
 admin-c:            EXILE-DN42
 tech-c:             EXILE-DN42
+auth:               E8054144C9009094ABECE958DEF8E5531F48E0EA
 mnt-by:             EXILE-MNT
 source:             DN42

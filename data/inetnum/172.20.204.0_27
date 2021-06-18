@@ -1,0 +1,10 @@
+inetnum:            172.20.204.0 - 172.20.204.31
+netname:            EXILE-TECH
+country:            GB
+admin-c:            EXILE-DN42
+tech-c:             EXILE-DN42
+mnt-by:             EXILE-MNT
+nserver:            ns1.exile.dn42
+status:             ASSIGNED
+cidr:               172.20.204.0/27
+source:             DN42
