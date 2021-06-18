@@ -1,0 +1,4 @@
+route:              172.23.24.128/27
+origin:             AS4242423812
+mnt-by:             FWLB-MNT
+source:             DN42

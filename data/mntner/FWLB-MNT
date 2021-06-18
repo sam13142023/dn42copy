@@ -1,0 +1,6 @@
+mntner:             FWLB-MNT
+admin-c:            FWLB-DN42
+tech-c:             FWLB-DN42
+mnt-by:             FWLB-MNT
+source:             DN42
+auth:               pgp-fingerprint 09E7EE62F9EDD004E322BF1F7F3FA7812BF39BB1
