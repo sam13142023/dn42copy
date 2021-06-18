@@ -1,0 +1,8 @@
+inetnum:            172.23.24.128 - 172.23.24.159
+cidr:               172.23.24.128/27
+netname:            FWLB-NETWORK
+admin-c:            FWLB-DN42
+tech-c:             FWLB-DN42
+mnt-by:             FWLB-MNT
+status:             ASSIGNED
+source:             DN42
