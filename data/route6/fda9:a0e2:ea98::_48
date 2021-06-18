@@ -1,0 +1,5 @@
+route6:             fda9:a0e2:ea98::/48
+origin:             AS4242423940
+max-length:         48
+mnt-by:             RVB-MNT
+source:             DN42

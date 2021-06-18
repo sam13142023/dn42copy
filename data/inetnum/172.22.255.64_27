@@ -1,0 +1,9 @@
+inetnum:            172.22.255.64 - 172.22.255.95
+cidr:               172.22.255.64/27
+netname:            RVB-NETWORK
+org:                ORG-RVB
+admin-c:            RVB-DN42
+tech-c:             RVB-DN42
+mnt-by:             RVB-MNT
+status:             ASSIGNED
+source:             DN42
