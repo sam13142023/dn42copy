@@ -1,0 +1,4 @@
+route:              172.22.255.64/27
+origin:             AS4242423940
+mnt-by:             RVB-MNT
+source:             DN42

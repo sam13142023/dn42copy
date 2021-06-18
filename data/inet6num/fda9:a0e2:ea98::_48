@@ -1,0 +1,11 @@
+inet6num:           fda9:a0e2:ea98:0000:0000:0000:0000:0000 - fda9:a0e2:ea98:ffff:ffff:ffff:ffff:ffff
+cidr:               fda9:a0e2:ea98::/48
+netname:            RVB-NETWORK
+descr:              Network of RVB
+org:                ORG-RVB
+country:            NL
+admin-c:            RVB-DN42
+tech-c:             RVB-DN42
+mnt-by:             RVB-MNT
+status:             ASSIGNED
+source:             DN42
