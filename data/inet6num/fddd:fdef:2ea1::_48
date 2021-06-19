@@ -8,5 +8,5 @@ mnt-by:             TOMKEP-MNT
 status:             ASSIGNED
 nserver:            ns1.jot23.dn42
 nserver:            ns2.jot23.dn42
-ds-rdata:           43090 8 2 392197929956632157256a66c2b9ac8da16adbbdb1264dc737840762f3308894
+ds-rdata:           42397 8 2 951ce08f915447d47846d52914286714cba38dd4288101f671ff9e3109bb56ea
 source:             DN42
