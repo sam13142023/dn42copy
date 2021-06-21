@@ -1,5 +1,6 @@
-aut-num:            AS4201270012
-as-name:            Yhi Interconnection
+route:              10.127.5.16/28
+max-length:         29
+origin:             AS4201270012
 admin-c:            JUNDE-YHI-NEONETWORK
 tech-c:             JUNDE-YHI-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
