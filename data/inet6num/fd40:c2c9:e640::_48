@@ -1,0 +1,9 @@
+inet6num:           fd40:c2c9:e640:0000:0000:0000:0000:0000 - fd40:c2c9:e640:ffff:ffff:ffff:ffff:ffff
+netname:            NEKONEKONYA-IPV6
+descr:              Peer with me at sarahrainchan@gmail.com
+admin-c:            NEKONEKONYA-DN42
+tech-c:             NEKONEKONYA-DN42
+mnt-by:             NEKONEKONYA-MNT
+status:             ASSIGNED
+cidr:               fd40:c2c9:e640::/48
+source:             DN42
