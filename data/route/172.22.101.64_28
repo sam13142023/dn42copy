@@ -1,0 +1,5 @@
+route:              172.22.101.64/28
+descr:              Peer with me at sarahrainchan@gmail.com
+origin:             AS4242422817
+mnt-by:             NEKONEKONYA-MNT
+source:             DN42
