@@ -1,0 +1,9 @@
+inet6num:           fda5:a8a8:9989:0000:0000:0000:0000:0000 - fda5:a8a8:9989:ffff:ffff:ffff:ffff:ffff
+cidr:               fda5:a8a8:9989::/48
+netname:            MATWOLF-IPV6-POOL01-NETWORK
+country:            IT
+admin-c:            MATWOLF-DN42
+tech-c:             MATWOLF-DN42
+mnt-by:             MATWOLF-MNT
+status:             ASSIGNED
+source:             DN42
