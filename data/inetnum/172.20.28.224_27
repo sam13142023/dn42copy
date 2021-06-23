@@ -1,0 +1,8 @@
+inetnum:            172.20.28.224 - 172.20.28.255
+cidr:               172.20.28.224/27
+netname:            MATWOLF-IPV4-POOL01-NETWORK
+admin-c:            MATWOLF-DN42
+tech-c:             MATWOLF-DN42
+mnt-by:             MATWOLF-MNT
+status:             ASSIGNED
+source:             DN42
