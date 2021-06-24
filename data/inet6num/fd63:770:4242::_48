@@ -1,0 +1,11 @@
+inet6num:           fd63:0770:4242:0000:0000:0000:0000:0000 - fd63:0770:4242:ffff:ffff:ffff:ffff:ffff
+cidr:               fd63:770:4242::/48
+netname:            SOCIALEO-IPV6
+descr:              IPv6 Network for AS-SOCIALEO
+country:            FR
+admin-c:            THOMASMAZAUD-DN42
+tech-c:             THOMASMAZAUD-DN42
+org:                ORG-SOCIALEO
+mnt-by:             SOCIALEO-MNT
+status:             ASSIGNED
+source:             DN42
