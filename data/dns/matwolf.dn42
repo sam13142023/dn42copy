@@ -1,0 +1,7 @@
+domain:             matwolf.dn42
+admin-c:            MATWOLF-DN42
+tech-c:             MATWOLF-DN42
+mnt-by:             MATWOLF-MNT
+nserver:            ns1.matwolf.dn42 172.20.28.240
+nserver:            ns1.matwolf.dn42 fda5:a8a8:9989::1:1
+source:             DN42
