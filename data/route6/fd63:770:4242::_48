@@ -1,0 +1,5 @@
+route6:             fd63:770:4242::/48
+origin:             AS4242421422
+max-length:         48
+mnt-by:             SOCIALEO-MNT
+source:             DN42

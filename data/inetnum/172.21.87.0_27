@@ -1,0 +1,9 @@
+inetnum:            172.21.87.0 - 172.21.87.31
+cidr:               172.21.87.0/27
+netname:            SOCIALEO-IPV4
+admin-c:            THOMASMAZAUD-DN42
+tech-c:             THOMASMAZAUD-DN42
+org:                ORG-SOCIALEO
+mnt-by:             SOCIALEO-MNT
+status:             ASSIGNED
+source:             DN42
