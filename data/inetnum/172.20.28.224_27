@@ -5,4 +5,5 @@ admin-c:            MATWOLF-DN42
 tech-c:             MATWOLF-DN42
 mnt-by:             MATWOLF-MNT
 status:             ASSIGNED
+nserver:            ns1.matwolf.dn42
 source:             DN42
