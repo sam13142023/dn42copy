@@ -1,0 +1,9 @@
+inetnum:            172.23.177.0 - 172.23.177.15
+netname:            THUNFISCH-NET
+country:            DE
+admin-c:            THUNFISCH-DN42
+tech-c:             THUNFISCH-DN42
+mnt-by:             THUNFISCH-MNT
+status:             ASSIGNED
+cidr:               172.23.177.0/28
+source:             DN42
