@@ -1,0 +1,4 @@
+route:              172.20.177.96/27
+origin:             AS4242420284
+mnt-by:             SNAILZ-MNT
+source:             DN42

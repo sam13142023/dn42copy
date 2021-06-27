@@ -1,0 +1,9 @@
+inetnum:            172.20.177.96 - 172.20.177.127
+cidr:               172.20.177.96/27
+netname:            SNAILZ-NETWORK
+country:            FR
+admin-c:            SNAILZ-DN42
+tech-c:             SNAILZ-DN42
+mnt-by:             SNAILZ-MNT
+status:             ASSIGNED
+source:             DN42
