@@ -1,0 +1,11 @@
+inet6num:           fd3a:b115:b1ed:0000:0000:0000:0000:0000 - fd3a:b115:b1ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3a:b115:b1ed::/48
+netname:            BASTELNET-IPV6-1
+descr:              Network of bastelfreak
+country:            DE
+admin-c:            BASTELFREAK-DN42
+tech-c:             BASTELFREAK-DN42
+mnt-by:             BASTELFREAK-MNT
+status:             ASSIGNED
+nserver:            dns02.rackmonkey.de
+source:             DN42

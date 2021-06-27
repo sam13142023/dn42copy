@@ -1,0 +1,11 @@
+inetnum:            172.20.246.128 - 172.20.246.159
+cidr:               172.20.246.128/27
+netname:            BASTELNET-IPV4-1
+descr:              Network of bastelfreak
+country:            DE
+admin-c:            BASTELFREAK-DN42
+tech-c:             BASTELFREAK-DN42
+mnt-by:             BASTELFREAK-MNT
+status:             ASSIGNED
+nserver:            dns02.rackmonkey.de
+source:             DN42
