@@ -1,0 +1,9 @@
+inet6num:           fdf1:5237:00dd:0000:0000:0000:0000:0000 - fdf1:5237:00dd:ffff:ffff:ffff:ffff:ffff
+netname:            THUNFISCH-IPV6
+country:            DE
+admin-c:            THUNFISCH-DN42
+tech-c:             THUNFISCH-DN42
+mnt-by:             THUNFISCH-MNT
+status:             ASSIGNED
+cidr:               fdf1:5237:dd::/48
+source:             DN42

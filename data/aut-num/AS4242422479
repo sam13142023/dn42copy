@@ -1,0 +1,13 @@
+aut-num:            AS4242422479
+as-name:            THUNFISCH-AS
+descr:              thunfisch's tiny net
+remarks:            happy to peer with others!
+remarks:            location:
+remarks:            Münster, Germany
+remarks:            contact:
+remarks:            email: post-dn42@jankoppe.de
+remarks:            irc: thunfisch@hackint, thunfisch@liberachat, thunfisch@oftc
+admin-c:            THUNFISCH-DN42
+tech-c:             THUNFISCH-DN42
+mnt-by:             THUNFISCH-MNT
+source:             DN42
