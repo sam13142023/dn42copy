@@ -1,0 +1,5 @@
+route6:             fd3a:b115:b1ed::/48
+origin:             AS4242423668
+max-length:         48
+mnt-by:             BASTELFREAK-MNT
+source:             DN42

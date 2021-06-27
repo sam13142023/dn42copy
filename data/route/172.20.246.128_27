@@ -1,0 +1,4 @@
+route:              172.20.246.128/27
+origin:             AS4242423668
+mnt-by:             BASTELFREAK-MNT
+source:             DN42
