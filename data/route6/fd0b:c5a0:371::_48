@@ -1,0 +1,5 @@
+route6:             fd0b:c5a0:371::/48
+origin:             AS4242422478
+max-length:         48
+mnt-by:             INVARION-MNT
+source:             DN42

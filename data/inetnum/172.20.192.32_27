@@ -1,0 +1,8 @@
+inetnum:            172.20.192.32 - 172.20.192.63
+cidr:               172.20.192.32/27
+netname:            INVARION-NETWORK
+admin-c:            INVARION-DN42
+tech-c:             INVARION-DN42
+mnt-by:             INVARION-MNT
+status:             ASSIGNED
+source:             DN42
