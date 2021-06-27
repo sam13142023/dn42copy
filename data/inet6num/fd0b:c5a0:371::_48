@@ -1,0 +1,10 @@
+inet6num:           fd0b:c5a0:0371:0000:0000:0000:0000:0000 - fd0b:c5a0:0371:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:c5a0:371::/48
+netname:            INVARION-NETWORK
+descr:              Network of Invarion
+country:            FR
+admin-c:            INVARION-DN42
+tech-c:             INVARION-DN42
+mnt-by:             INVARION-MNT
+status:             ASSIGNED
+source:             DN42

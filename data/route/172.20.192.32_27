@@ -1,0 +1,4 @@
+route:              172.20.192.32/27
+origin:             AS4242422478
+mnt-by:             INVARION-MNT
+source:             DN42
