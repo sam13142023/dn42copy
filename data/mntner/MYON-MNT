@@ -1,0 +1,6 @@
+mntner:             MYON-MNT
+admin-c:            MYON-DN42
+tech-c:             MYON-DN42
+mnt-by:             MYON-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmA5UsElUgeeoGc42ERUm7+VPvY174mf9uS210vZh5f
+source:             DN42

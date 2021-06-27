@@ -1,0 +1,7 @@
+domain:             myon.dn42
+admin-c:            MYON-DN42
+tech-c:             MYON-DN42
+mnt-by:             MYON-MNT
+nserver:            ns.myon.dn42 172.22.177.81
+nserver:            ns.myon.dn42 fd60:3124:f80c:53::1
+source:             DN42

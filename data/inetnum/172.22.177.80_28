@@ -1,0 +1,11 @@
+inetnum:            172.22.177.80 - 172.22.177.95
+cidr:               172.22.177.80/28
+netname:            MYONNET-V4
+descr:              MyonNET IPv4
+country:            JP
+admin-c:            MYON-DN42
+tech-c:             MYON-DN42
+mnt-by:             MYON-MNT
+status:             ASSIGNED
+nserver:            ns.myon.dn42
+source:             DN42

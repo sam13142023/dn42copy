@@ -1,0 +1,11 @@
+inet6num:           fd60:3124:f80c:0000:0000:0000:0000:0000 - fd60:3124:f80c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd60:3124:f80c::/48
+netname:            MYONNET-V6
+descr:              MyonNET IPv6
+country:            JP
+admin-c:            MYON-DN42
+tech-c:             MYON-DN42
+mnt-by:             MYON-MNT
+status:             ASSIGNED
+nserver:            ns.myon.dn42
+source:             DN42
