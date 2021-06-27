@@ -1,0 +1,5 @@
+route6:             fd60:3124:f80c::/48
+origin:             AS4242420639
+max-length:         48
+mnt-by:             MYON-MNT
+source:             DN42
