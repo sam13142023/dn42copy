@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:1332:0000:0000:0000:0000:0000 - fd10:0127:1332:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:1332::/48
+netname:            NetUnion-IPv6
+admin-c:            YUKARI-NEONETWORK
+tech-c:             YUKARI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
