@@ -1,0 +1,10 @@
+inet6num:           fd68:c13a:2df3:0000:0000:0000:0000:0000 - fd68:c13a:2df3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd68:c13a:2df3::/48
+netname:            MARIANAJ-NETWORK
+descr:              Network of MARIANAJ
+country:            MX
+admin-c:            MARIANAJ-DN42
+tech-c:             MARIANAJ-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42
