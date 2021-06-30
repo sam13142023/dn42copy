@@ -1,0 +1,8 @@
+inetnum:            172.20.232.176 - 172.20.232.183
+cidr:               172.20.232.176/29
+netname:            MARIANAJ-NETWORK
+admin-c:            MARIANAJ-DN42
+tech-c:             MARIANAJ-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42
