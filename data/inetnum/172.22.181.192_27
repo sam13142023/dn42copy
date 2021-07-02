@@ -6,6 +6,7 @@ admin-c:            PLASMA-DN42
 tech-c:             PLASMA-DN42
 mnt-by:             PLASMATRIX-MNT
 nserver:            ns1.plasmatrix.dn42
+nserver:            ns2.plasmatrix.dn42
 status:             ASSIGNED
 cidr:               172.22.181.192/27
 source:             DN42
