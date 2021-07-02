@@ -1,0 +1,5 @@
+route6:             fda4:fb6e:a084::/48
+origin:             AS4242421587
+descr:              DevBen Network
+mnt-by:             DEVBEN-MNT
+source:             DN42

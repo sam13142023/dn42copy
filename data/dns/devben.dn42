@@ -2,6 +2,6 @@ domain:             devben.dn42
 admin-c:            DEVBEN-DN42
 tech-c:             DEVBEN-DN42
 mnt-by:             DEVBEN-MNT
-nserver:            ns1.devben.dn42 172.21.89.193
-nserver:            ns2.devben.dn42 172.21.89.194
+nserver:            ns1.devben.dn42 172.20.195.5
+nserver:            ns2.devben.dn42 172.20.195.4
 source:             DN42

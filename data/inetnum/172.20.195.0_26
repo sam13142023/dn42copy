@@ -1,5 +1,5 @@
-inetnum:            172.21.89.192 - 172.21.89.255
-cidr:               172.21.89.192/26
+inetnum:            172.20.195.0 - 172.20.195.63
+cidr:               172.20.195.0/26
 netname:            DEVBEN-NETWORK
 admin-c:            DEVBEN-DN42
 tech-c:             DEVBEN-DN42

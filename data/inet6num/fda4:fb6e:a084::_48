@@ -1,0 +1,10 @@
+inet6num:           fda4:fb6e:a084:0000:0000:0000:0000:0000 - fda4:fb6e:a084:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:fb6e:a084::/48
+netname:            DEVBEN-NETWORK
+descr:              Network of DEVBEN
+country:            FR
+admin-c:            DEVBEN-DN42
+tech-c:             DEVBEN-DN42
+mnt-by:             DEVBEN-MNT
+status:             ASSIGNED
+source:             DN42
