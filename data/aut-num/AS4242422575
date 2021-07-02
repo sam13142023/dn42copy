@@ -3,22 +3,16 @@ as-name:            ANDROW-AS
 admin-c:            ANDROW-DN42
 tech-c:             ANDROW-DN42
 descr:              Androw - https://www.androw.eu/
-remarks:            -------------------------------------------------------
+remarks:            ------------------------------------------------------
 remarks:            Happy to peer with anyone
 remarks:            Wireguard only
 remarks:            IPv4/IPv6
 remarks:            We're also on clearnet as AS212519
 remarks:            All details available here: https://www.androw.eu/net/
-remarks:            -------------------------------------------------------
+remarks:            ------------------------------------------------------
 remarks:            Routing Policies:
-mp-import:          afi any.unicast from AS4242422575:AS-TRANSIT accept ANY
-mp-export:          afi any.unicast to AS4242422575:AS-TRANSIT announce ANY
-mp-import:          afi any.unicast from AS4242422575:AS-PEER accept PeerAS
-mp-export:          afi any.unicast to AS4242422575:AS-PEER announce AS4242422575
-mp-import:          afi any.unicast from AS4242422575:AS-DOWNSTREAM accept PeerAS
-mp-export:          afi any.unicast to AS4242422575:AS-DOWNSTREAM announce ANY
-mp-import:          afi any.unicast from AS4242422575:AS-UPSTREAM accept ANY
-mp-export:          afi any.unicast to AS4242422575:AS-UPSTREAM announce AS4242422575 AS4242422575:AS-DOWNSTREAM
-remarks:            -------------------------------------------------------
+mp-import:          afi any.unicast from ANY accept ANY
+mp-export:          afi any.unicast to ANY announce ANY
+remarks:            ------------------------------------------------------
 mnt-by:             ANDROW-MNT
 source:             DN42
