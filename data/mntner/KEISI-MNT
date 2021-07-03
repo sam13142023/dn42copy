@@ -2,4 +2,6 @@ mntner:             KEISI-MNT
 admin-c:            KEISI-DN42
 tech-c:             KEISI-DN42
 mnt-by:             KEISI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJNNel6GpZn/mA15of6hmKh6RNskSBn2l/Xwc1shK+l9
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGrwfww6xoIMwaWlXgfZDvmxVPOwHZUN3vAHuZhFkKQA
 source:             DN42
