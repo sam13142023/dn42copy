@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:2322:0000:0000:0000:0000:0000 - fd42:4242:2322:ffff:ffff:ffff:ffff:ffff
+netname:            PLASMATRIX-AS-IPV6
+descr:              Plasmatrix Autonomous System IPv6
+country:            DE
+admin-c:            PLASMA-DN42
+tech-c:             PLASMA-DN42
+mnt-by:             PLASMATRIX-MNT
+nserver:            ns1.plasmatrix.dn42
+nserver:            ns2.plasmatrix.dn42
+status:             ASSIGNED
+cidr:               fd42:4242:2322::/48
+source:             DN42
