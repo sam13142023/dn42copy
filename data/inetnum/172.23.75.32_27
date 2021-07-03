@@ -1,0 +1,11 @@
+inetnum:            172.23.75.32 - 172.23.75.63
+cidr:               172.23.75.32/27
+netname:            HRNZNET-IPV4-1
+admin-c:            HRNZ-DN42
+tech-c:             HRNZ-DN42
+mnt-by:             HRNZ-MNT
+status:             ASSIGNED
+nserver:            ns.hrnz.li
+ds-rdata:           58714 13 2 1d745bf3cc21d6a050e5cf3a49ab139ca96d50d0c57521beaa7c99a663de259c
+ds-rdata:           58714 13 4 47206b8e359b60fc803210e900af50154f64415ffb4eeaf98137127a84643d9e9df658e8448b887803ed3a63461e4b96
+source:             DN42

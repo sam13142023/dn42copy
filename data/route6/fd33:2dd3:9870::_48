@@ -1,0 +1,5 @@
+route6:             fd33:2dd3:9870::/48
+origin:             AS4242422273
+max-length:         48
+mnt-by:             HRNZ-MNT
+source:             DN42
