@@ -1,0 +1,13 @@
+inet6num:           fd33:2dd3:9870:0000:0000:0000:0000:0000 - fd33:2dd3:9870:ffff:ffff:ffff:ffff:ffff
+cidr:               fd33:2dd3:9870::/48
+netname:            HRNZNET-IPV6-1
+descr:              Network of HRNZ
+country:            DE
+admin-c:            HRNZ-DN42
+tech-c:             HRNZ-DN42
+mnt-by:             HRNZ-MNT
+status:             ASSIGNED
+nserver:            ns.hrnz.li
+ds-rdata:           5881 13 2 70c7a93a6e8c3e950ac7bf3cf25465202bb76acf430314ebfd745888b4a0cdb0
+ds-rdata:           5881 13 4 d76fede3f46fe785c7e9dbcb9645f41426518a94f16f4310a6b2e622567e28b03dc294b41b76a62fbd5ce35b17f766ce
+source:             DN42

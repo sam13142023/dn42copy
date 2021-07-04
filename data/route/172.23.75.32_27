@@ -1,0 +1,4 @@
+route:              172.23.75.32/27
+origin:             AS4242422273
+mnt-by:             HRNZ-MNT
+source:             DN42
