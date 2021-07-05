@@ -1,5 +1,6 @@
 route6:             fd42:4242:2322::/48
 origin:             AS4242422322
+max-length:         48
 admin-c:            PLASMA-DN42
 tech-c:             PLASMA-DN42
 mnt-by:             PLASMATRIX-MNT
