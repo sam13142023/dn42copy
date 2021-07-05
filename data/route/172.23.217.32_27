@@ -1,0 +1,4 @@
+route:              172.23.217.32/27
+origin:             AS4242422696
+mnt-by:             LUKAS2511-MNT
+source:             DN42
