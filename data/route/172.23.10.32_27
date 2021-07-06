@@ -1,0 +1,5 @@
+route:              172.23.10.32/27
+descr:              Peer with me at TG @cokemine
+origin:             AS4242422116
+mnt-by:             COKEMINE-MNT
+source:             DN42

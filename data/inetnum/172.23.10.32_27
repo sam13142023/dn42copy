@@ -1,0 +1,13 @@
+inetnum:            172.23.10.32 - 172.23.10.63
+netname:            HOTARU-IPV4
+remarks:            Peer with me at TG @cokemine
+descr:              Peer with me at TG @cokemine
+country:            HK
+admin-c:            COKEMINE-DN42
+tech-c:             COKEMINE-DN42
+mnt-by:             COKEMINE-MNT
+nserver:            ns1.cokemine.dn42
+nserver:            ns2.cokemine.dn42
+status:             ASSIGNED
+cidr:               172.23.10.32/27
+source:             DN42
