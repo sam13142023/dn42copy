@@ -1,0 +1,7 @@
+mntner:             LUKAS2511-MNT
+admin-c:            LUKAS2511-DN42
+tech-c:             LUKAS2511-DN42
+mnt-by:             LUKAS2511-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH7W3NIGeEGRHu63+dP7s6M5/s0uHODI4QV2Y1yOzDEq
+auth:               pgp-fingerprint 3C2F2605E078A1E18F4793909C4DBE6CF438F333
+source:             DN42

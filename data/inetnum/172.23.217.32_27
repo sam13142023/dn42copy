@@ -1,0 +1,10 @@
+inetnum:            172.23.217.32 - 172.23.217.63
+cidr:               172.23.217.32/27
+country:            DE
+netname:            LUKAS2511-NETWORK
+admin-c:            LUKAS2511-DN42
+tech-c:             LUKAS2511-DN42
+mnt-by:             LUKAS2511-MNT
+status:             ASSIGNED
+nserver:            ns1.lukas2511.dn42
+source:             DN42
