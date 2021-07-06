@@ -1,0 +1,7 @@
+mntner:             COKEMINE-MNT
+admin-c:            COKEMINE-DN42
+tech-c:             COKEMINE-DN42
+mnt-by:             COKEMINE-MNT
+source:             DN42
+auth:               pgp-fingerprint 15BE158364C7E3AD63C29760B59419146D2A78A2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDkVfyUBwpkm+8rABIkUQawG/oJELyOaiyz1vD3VHgnFaawBWS6QzTbX4WZgk5vhsGf3LVyKps5yxNq40JrC5rN2/hVWh4ro54gOId0aiY1vj5tB/qySqe+Tp39i2ivB0UxtJct6r6o3SWqwL4evx3np41E+xDWP0GNCGeKdsPz0XqWsuYg+AU/QPQxIpmEdLqiq8NGk0xrK9VTMI8Gho5ruwWiwbi9ZC3CpMBGfLUcevk4EOSa5RkA23NjjrQGkiUHmJ0Q8fJ/TaOjDSuapAMdK71YzR4TGElQE6CjC1XOKZsTGLGS7OLsvtAIYzKhZEPzcAo++9ZsBP0f4Sh08k/vDcgjZibq8Jo7LiwQr6d8ZKByCf/vL/RdOzGqBxQYTYbVlTOzYuDlnye6w1zsWChhYVxX5JO6ZHg3YuH7gDxIWzbAwcYnZnEbDQY/kFNFruGNfewU6qacR++zteI9vhS+17eR3KG/lRHF7Nx4T2d4qLY7ywVyT+7JmRh1Z2lXDIk=

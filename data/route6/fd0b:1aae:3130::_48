@@ -1,0 +1,5 @@
+route6:             fd0b:1aae:3130::/48
+descr:              Peer with me at TG @cokemine
+origin:             AS4242422116
+mnt-by:             COKEMINE-MNT
+source:             DN42

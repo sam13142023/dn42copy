@@ -1,0 +1,12 @@
+inet6num:           fd0b:1aae:3130:0000:0000:0000:0000:0000 - fd0b:1aae:3130:ffff:ffff:ffff:ffff:ffff
+netname:            HOTARU-IPV6
+descr:              Peer with me at TG @cokemine
+country:            HK
+admin-c:            COKEMINE-DN42
+tech-c:             COKEMINE-DN42
+mnt-by:             COKEMINE-MNT
+nserver:            ns1.cokemine.dn42
+nserver:            ns2.cokemine.dn42
+status:             ASSIGNED
+cidr:               fd0b:1aae:3130::/48
+source:             DN42

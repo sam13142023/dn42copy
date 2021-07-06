@@ -1,0 +1,7 @@
+aut-num:            AS4242422116
+as-name:            HOTARU-AS
+descr:              Peer with me at TG @cokemine
+admin-c:            COKEMINE-DN42
+tech-c:             COKEMINE-DN42
+mnt-by:             COKEMINE-MNT
+source:             DN42
