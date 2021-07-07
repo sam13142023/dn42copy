@@ -1,9 +1,11 @@
 mntner:             RADIONOISE-MNT
 admin-c:            RADIONOISE-DN42
 tech-c:             RADIONOISE-DN42
-auth:               pgp-fingerprint C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F
-auth:               pgp-fingerprint AB5CD3C77BC25F512FEDB86126D4961CAB312A83
 mnt-by:             RADIONOISE-MNT
 source:             DN42
+auth:               pgp-fingerprint C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F
+auth:               pgp-fingerprint AB5CD3C77BC25F512FEDB86126D4961CAB312A83
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE80f5jwMgXOMXIdo3iq6BKK2JzThHy5b3MQ8UEXJvrA openpgp:0x1A59A85D
 descr:              Misaka13514
 remarks:            You may refer to https://dn42.atri.tk for details.
+remarks:            pin-sha256:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
