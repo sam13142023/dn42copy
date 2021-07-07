@@ -1,0 +1,8 @@
+mntner:             GURUCAMP-GB-MNT
+descr:              GuruCamp
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJv9pOnMGpYCBhXECDtiA7oOLO7AEmg7Pa83MJp9CUQD
+auth:               pgp-fingerprint 8E8BCA35AB690AFCCE34A9710AED9D525217CDB0
+admin-c:            LIFEHOME-DN42
+tech-c:             LIFEHOME-DN42
+mnt-by:             GURUCAMP-GB-MNT
+source:             DN42

@@ -1,9 +1,26 @@
 inetnum:            172.20.208.0 - 172.20.208.255
 cidr:               172.20.208.0/24
-netname:            DIVISION-NET
+netname:            GURUCAMP-NET
 country:            HK
+descr:              GuruCamp Service Network - Infrastructure
+policy:             ask
+remarks:            ----------
+remarks:            This block is wide utilized for GuruCamp Service Network.
+remarks:            (PA allocation available, dn42@guru.camp)
+remarks:            
+remarks:            NOTE:
+remarks:            Certain prefix has been reserved for specific
+remarks:            infrastructure, you should ask before applying
+remarks:            or registering any prefixes inside this block.
+remarks:            
+remarks:            WARNING:
+remarks:            Please be advised that all newly found rogue and/or
+remarks:            unrecognized routes will be blackholed on all
+remarks:            GuruCamp networks for at least 96 hours.
+remarks:            ----------
+org:                ORG-GURUCAMP
 admin-c:            LIFEHOME-DN42
 tech-c:             LIFEHOME-DN42
-mnt-by:             LIFEDIO-MNT
+mnt-by:             GURUCAMP-GB-MNT
 status:             ALLOCATED PI
 source:             DN42
