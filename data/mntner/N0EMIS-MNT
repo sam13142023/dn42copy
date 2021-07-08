@@ -3,4 +3,5 @@ admin-c:            N0EMIS-DN42
 tech-c:             N0EMIS-DN42
 mnt-by:             N0EMIS-MNT
 auth:               PGPKEY-3B824745
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEcOPtW5FWNIdlMQFoqeyA1vHw+cA8ft8oXSbXPzQNL9
 source:             DN42
