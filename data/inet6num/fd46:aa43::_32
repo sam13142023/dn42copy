@@ -1,15 +1,26 @@
 inet6num:           fd46:aa43:0000:0000:0000:0000:0000:0000 - fd46:aa43:ffff:ffff:ffff:ffff:ffff:ffff
-netname:            DIVISION-NET
-descr:              The Division Network - AUTHORISED USE ONLY
-policy:             ask
-remarks:            This block will be reserved for future expansion.
-remarks:            You may ask for PA allocation.
+cidr:               fd46:aa43::/32
+netname:            GURUCAMP-NET
 country:            HK
-org:                ORG-LIFEDIO
+descr:              GuruCamp Service Network - Infrastructure
+policy:             ask
+remarks:            ----------
+remarks:            This block is wide utilized for GuruCamp Service Network.
+remarks:            (PA allocation available, dn42@guru.camp)
+remarks:            
+remarks:            NOTE:
+remarks:            Certain prefix has been reserved for specific
+remarks:            infrastructure, you should ask before applying
+remarks:            or registering any prefixes inside this block.
+remarks:            
+remarks:            WARNING:
+remarks:            Please be advised that all newly found rogue and/or
+remarks:            unrecognized routes will be blackholed on all
+remarks:            GuruCamp networks for at least 96 hours.
+remarks:            ----------
+org:                ORG-GURUCAMP
 admin-c:            LIFEHOME-DN42
 tech-c:             LIFEHOME-DN42
-mnt-by:             LIFEDIO-MNT
-nserver:            ns-division.lifeho.me
+mnt-by:             GURUCAMP-GB-MNT
 status:             ALLOCATED PI
-cidr:               fd46:aa43::/32
 source:             DN42

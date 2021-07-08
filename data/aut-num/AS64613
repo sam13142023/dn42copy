@@ -1,8 +1,8 @@
 aut-num:            AS64613
-as-name:            DIVISION-AS
-descr:              Division-NET AS
-org:                ORG-LIFEDIO
+as-name:            GURUCAMP-AS
+descr:              GURUCAMP-NET AS
+org:                ORG-GURUCAMP
 admin-c:            LIFEHOME-DN42
 tech-c:             LIFEHOME-DN42
-mnt-by:             LIFEDIO-MNT
+mnt-by:             GURUCAMP-GB-MNT
 source:             DN42

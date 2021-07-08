@@ -1,4 +1,4 @@
-route:              172.20.208.0/24
+route:              172.20.208.128/25
 origin:             AS64613
 mnt-by:             GURUCAMP-GB-MNT
 source:             DN42

@@ -1,5 +1,5 @@
 route6:             fd46:aa43::/32
-descr:              The Division Network
+descr:              GuruCamp Service Network - Infrastructure
 origin:             AS64613
-mnt-by:             LIFEDIO-MNT
+mnt-by:             GURUCAMP-GB-MNT
 source:             DN42
