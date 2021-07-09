@@ -1,0 +1,8 @@
+inetnum:            172.20.31.96 - 172.20.31.127
+cidr:               172.20.31.96/27
+netname:            KZHAO921-NETWORK
+admin-c:            KZHAO921-DN42
+tech-c:             KZHAO921-DN42
+mnt-by:             KZHAO921-MNT
+status:             ASSIGNED
+source:             DN42
