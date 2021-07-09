@@ -1,0 +1,9 @@
+mntner:             MASSAR-MNT
+descr:              massar.dn42 https://dn42.ch
+admin-c:            MASSAR-DN42
+tech-c:             MASSAR-DN42
+auth:               pgp-fingerprint 48E82BD43B4A622E405C3A3529AA2852333E7C23
+auth:               PGPKEY-333E7C23
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDGGAbEmBFM/7EH0wQsqYBWVw2Gsu7rGVwyNEdmgZP9U
+mnt-by:             MASSAR-MNT
+source:             DN42

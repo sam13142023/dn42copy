@@ -1,0 +1,15 @@
+aut-num:            AS4242420577
+as-name:            MASSAR-AS
+descr:              massar.dn42 https://dn42.ch/
+remarks:            --------------------------------------------------------
+                    Peering welcome, see homepage for details
+                    --------------------------------------------------------
+                    DN42    : https://massar.dn42/
+                    Internet: https://dn42.ch/
+                    --------------------------------------------------------
+                    DN42 ASN: AS4242420577 = Internet ASN AS57777
+                    --------------------------------------------------------
+admin-c:            MASSAR-DN42
+tech-c:             MASSAR-DN42
+mnt-by:             MASSAR-MNT
+source:             DN42

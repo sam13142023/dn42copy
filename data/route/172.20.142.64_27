@@ -1,0 +1,7 @@
+route:              172.20.142.64/27
+max-length:         27
+descr:              massar.dn42 https://dn42.ch/
+origin:             AS4242420577
+pingable:           172.20.142.65
+mnt-by:             MASSAR-MNT
+source:             DN42
