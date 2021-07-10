@@ -1,0 +1,10 @@
+inet6num:           fdfd:0470:b85d:0000:0000:0000:0000:0000 - fdfd:0470:b85d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:470:b85d::/48
+netname:            PUNKNIUM-NETWORK
+descr:              Network of PUNKNIUM
+country:            US
+admin-c:            PUNKNIUM-DN42
+tech-c:             PUNKNIUM-DN42
+mnt-by:             PUNKNIUM-MNT
+status:             ASSIGNED
+source:             DN42
