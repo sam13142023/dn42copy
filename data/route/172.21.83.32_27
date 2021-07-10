@@ -1,0 +1,4 @@
+route:              172.21.83.32/27
+origin:             AS4242420192
+mnt-by:             KEISI-MNT
+source:             DN42
