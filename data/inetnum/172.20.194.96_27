@@ -1,0 +1,8 @@
+inetnum:            172.20.194.96 - 172.20.194.127
+cidr:               172.20.194.96/27
+netname:            NAUSLEX-NETWORK
+admin-c:            SYNK-DN42
+tech-c:             SYNK-DN42
+mnt-by:             SYNK-MNT
+status:             ASSIGNED
+source:             DN42

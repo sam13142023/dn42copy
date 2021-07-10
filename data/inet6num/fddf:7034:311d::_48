@@ -1,0 +1,10 @@
+inet6num:           fddf:7034:311d:0000:0000:0000:0000:0000 - fddf:7034:311d:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:7034:311d::/48
+netname:            NASULEX-NETWORK
+descr:              Network of Nasulex
+country:            CA
+admin-c:            SYNK-DN42
+tech-c:             SYNK-DN42
+mnt-by:             SYNK-MNT
+status:             ASSIGNED
+source:             DN42

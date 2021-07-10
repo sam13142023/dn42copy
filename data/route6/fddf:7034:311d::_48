@@ -1,0 +1,5 @@
+route6:             fddf:7034:311d::/48
+origin:             AS4242422658
+max-length:         48
+mnt-by:             SYNK-MNT
+source:             DN42
