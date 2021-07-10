@@ -1,0 +1,4 @@
+route:              172.20.194.96/27
+origin:             AS4242422658
+mnt-by:             SYNK-MNT
+source:             DN42
