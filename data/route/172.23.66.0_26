@@ -1,0 +1,6 @@
+route:              172.23.66.0/26
+origin:             AS4242421876
+origin:             AS4201270021
+origin:             AS211876
+mnt-by:             DL-MNT
+source:             DN42
