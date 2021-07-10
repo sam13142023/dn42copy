@@ -1,0 +1,8 @@
+inetnum:            172.20.44.32 - 172.20.44.63
+cidr:               172.20.44.32/27
+netname:            PUNKNIUM-NETWORK
+admin-c:            PUNKNIUM-DN42
+tech-c:             PUNKNIUM-DN42
+mnt-by:             PUNKNIUM-MNT
+status:             ASSIGNED
+source:             DN42
