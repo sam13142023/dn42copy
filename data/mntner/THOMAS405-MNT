@@ -4,3 +4,4 @@ tech-c:             THOMAS405-DN42
 mnt-by:             THOMAS405-MNT
 source:             DN42
 auth:               pgp-fingerprint FCFE8CB23C9C3A2D1E8C7B97732DD4C91F9B4335
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9dm1Wa+tZdaOKiqYaGRy5HlqnUPtTYVrtnxMGXVhvCwI542ZiQvvTQsCoQL1ucwmbw5ZhxEknq1u5jAeefNtTBpfyIdlvsRB2/3Zoh2bAu1pyGxM8av0zV9Glejg9N2yWUuXI4qSsorkLzcq+bZd/ilCyLWJGD93ltkEda4PRCEk1Cr6LMPAGDh39r6GKosAUVrIyq9d6JOphJl7xVphnK8JK9L41XYU8fsHIsY4vZZkh7wepMVHrChRapcq3dT6pbrLowHynXDhZQ08a0MP1+fnqVZZ+9LrtCTzv34p3b1wCvgiFAnmsrXqGYQTfjqI3sjgUVTJJ52Em2kylxqd4OuIb6hW6WhjBHtr/hjt03YwmiYa333dKiJbZHd9h1k/ZL10asGA0Tvapk70bYcmKd1DpKrucmEOYZbA+JPo55SO3mtbjKHkTv5WUjY9yfV5GJq8wneNhGp6JgaLzVvkYySeBTuqYBAXIeFON+86f8/F0HXnyMuXm3ba6PdzXBY0=

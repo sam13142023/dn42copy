@@ -1,0 +1,8 @@
+domain:             as4242420213.dn42
+descr:              AS4242420213 Domain
+admin-c:            THOMAS405-DN42
+tech-c:             THOMAS405-DN42
+mnt-by:             THOMAS405-MNT
+nserver:            ns1.as4242420213.dn42 172.22.76.33
+nserver:            ns1.as4242420213.dn42 fd11:acac:961d::1
+source:             DN42

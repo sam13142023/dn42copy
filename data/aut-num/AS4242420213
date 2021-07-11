@@ -1,6 +1,9 @@
 aut-num:            AS4242420213
 as-name:            THOMAS405-AS
 descr:              Thomas Network Backbone
+remarks:            --------------------------------------------------------
+remarks:            Visit http://as4242420213.dn42 for details
+remarks:            --------------------------------------------------------
 admin-c:            THOMAS405-DN42
 tech-c:             THOMAS405-DN42
 mnt-by:             THOMAS405-MNT
