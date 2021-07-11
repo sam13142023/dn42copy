@@ -1,0 +1,4 @@
+route:              172.22.151.32/27
+origin:             AS4242422035
+mnt-by:             LOPPERMANN-MNT
+source:             DN42
