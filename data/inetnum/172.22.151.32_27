@@ -1,0 +1,10 @@
+inetnum:            172.22.151.32 - 172.22.151.63
+netname:            LOPPERMANN-NETWORK
+descr:              LOPPERMANN-NETWORK
+country:            DE
+admin-c:            LOPPERMANN-DN42
+tech-c:             LOPPERMANN-DN42
+mnt-by:             LOPPERMANN-MNT
+status:             ASSIGNED
+cidr:               172.22.151.32/27
+source:             DN42
