@@ -1,0 +1,7 @@
+mntner:             IKS-MNT
+admin-c:            IKS-DN42
+tech-c:             IKS-DN42
+mnt-by:             IKS-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDIXRSsMj1upmfkZ1+C8J2bNodhcbipf4HHu4BOAKdPmQFrktTthSAknieo/0tnpUwDUSiilHgJ77yUxY9yVM2IU6Qs4CWGlMYDorUPXMP6k0T16CSvkuHJ4Yw2px6Evu0N2D6rS0XmaYNl39lbjNr/CQryrORRtR11TfwAprOIQblMPz/aGzL++0ZM+rD9CceC+yc9LPsTcXzgsU2Rlu6wn2Rt2JkDgZvEgqGsZs1aKHDd1O5qLRg+K5piAc/wh6dNHrAMG/o50ELSqUJ6mGvVEgBmuGJo2HbVAOajZAUL3zleeiyCLK1Hove7DR8zwhWeBK8mX4VqFR2zhLRh8UN1
+remarks:            null

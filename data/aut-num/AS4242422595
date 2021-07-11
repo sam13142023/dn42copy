@@ -1,0 +1,7 @@
+aut-num:            AS4242422595
+as-name:            IKS-AS
+descr:              Peer with me at noc@olinkcloud.cn or i@iks.moe.
+admin-c:            IKS-DN42
+tech-c:             IKS-DN42
+mnt-by:             IKS-MNT
+source:             DN42

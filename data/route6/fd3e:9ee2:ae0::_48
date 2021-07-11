@@ -1,0 +1,5 @@
+route6:             fd3e:9ee2:ae0::/48
+descr:              Peer with me at noc@olinkcloud.cn
+origin:             AS4242422595
+mnt-by:             IKS-MNT
+source:             DN42
