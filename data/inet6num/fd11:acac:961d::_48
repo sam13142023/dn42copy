@@ -5,4 +5,5 @@ admin-c:            THOMAS405-DN42
 tech-c:             THOMAS405-DN42
 status:             ASSIGNED
 mnt-by:             THOMAS405-MNT
+nserver:            ns1.as4242420213.dn42
 source:             DN42
