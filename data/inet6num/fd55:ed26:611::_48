@@ -1,0 +1,8 @@
+inet6num:           fd55:ed26:0611:0000:0000:0000:0000:0000 - fd55:ed26:0611:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:ed26:611::/48
+netname:            KZHAO921-V6-1
+admin-c:            KZHAO921-DN42
+tech-c:             KZHAO921-DN42
+mnt-by:             KZHAO921-MNT
+status:             ASSIGNED
+source:             DN42
