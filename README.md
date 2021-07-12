@@ -16,7 +16,7 @@ git clone git@git.dn42.dev:dn42/registry.git
 The name of the branch ***must*** follow a specific format:
 `<username>-YYYYMMDD/<name>`  
  - `<username>` is your gitea username.  
- - `YYYYMMDD` is the current date.  
+ - `YYYYMMDD` is the current date (UTC).  
  - `<name>` is a descriptive name for your change.
 
 The branch must be created in the registry on the date described in the branch name, so create the branch and push it to the registry immediately.
