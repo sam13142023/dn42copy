@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2239:0000:0000:0000:0000:0000 - fd42:4242:2239:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2239::/48
+netname:            ESONHUGH-IPV6
+descr:              Network of ESONHUGH
+country:            CN
+admin-c:            ESONHUGH-DN42
+tech-c:             ESONHUGH-DN42
+mnt-by:             ESONHUGH-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns.esonhugh.dn42
