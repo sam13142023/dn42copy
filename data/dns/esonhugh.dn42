@@ -1,0 +1,7 @@
+domain:             esonhugh.dn42
+admin-c:            ESONHUGH-DN42
+tech-c:             ESONHUGH-DN42
+mnt-by:             ESONHUGH-MNT
+nserver:            ns.esonhugh.dn42 172.20.42.193
+nserver:            ns.esonhugh.dn42 fd42:4242:2239::1
+source:             DN42

@@ -9,3 +9,4 @@ mnt-by:             ESONHUGH-MNT
 status:             ASSIGNED
 cidr:               172.20.42.192/27
 source:             DN42
+nserver:            ns.esonhugh.dn42
