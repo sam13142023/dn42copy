@@ -3,7 +3,10 @@ as-name:            BAOSHUO-AS-DN42
 descr:              Baoshuo DN42 Network
 remarks:            --------------------------------
 remarks:            Baoshuo DN42 Network
-remarks:            https://as141776.net/dn42.html
+remarks:            https://dn42.as141776.net
+remarks:            --------------------------------
+remarks:            Looking Glass
+remarks:            https://lg.dn42.as141776.net
 remarks:            --------------------------------
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42
