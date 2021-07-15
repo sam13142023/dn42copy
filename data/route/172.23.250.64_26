@@ -1,4 +1,4 @@
-route:              172.23.250.64/27
+route:              172.23.250.64/26
 origin:             AS141776
 origin:             AS4242420247
 mnt-by:             BAOSHUO-MNT

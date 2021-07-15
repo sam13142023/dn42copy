@@ -1,8 +1,8 @@
-inetnum:            172.23.250.64 - 172.23.250.95
-cidr:               172.23.250.64/27
-netname:            BAOSHUO-DN42-V4-1
+inetnum:            172.23.250.64 - 172.23.250.127
+cidr:               172.23.250.64/26
+netname:            BAOSHUO-DN42-V4
 nserver:            ns1.baoshuo.dn42
-descr:              IPv4 block 1 for Baoshuo DN42 Network
+descr:              IPv4 block for Baoshuo DN42 Network
 country:            CN
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42
