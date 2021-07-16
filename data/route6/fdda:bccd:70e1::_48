@@ -1,0 +1,5 @@
+route6:             fdda:bccd:70e1::/48
+descr:              ARIEL-DN42-ANYCAST
+origin:             AS4242423361
+mnt-by:             ARIELS-MNT
+source:             DN42

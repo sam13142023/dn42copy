@@ -1,0 +1,9 @@
+inetnum:            172.22.135.96 - 172.22.135.127
+netname:            ARIEL-NETWORK-DN42-IPV4
+descr:              ARIEL NETWORK DN42 IPV4 BLOCK 1
+admin-c:            ARIELS-DN42
+tech-c:             ARIELS-DN42
+mnt-by:             ARIELS-MNT
+cidr:               172.22.135.96/27
+source:             DN42
+status:             ASSIGNED

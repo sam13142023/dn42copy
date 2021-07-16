@@ -1,0 +1,10 @@
+inet6num:           fdda:bccd:70e1:0000:0000:0000:0000:0000 - fdda:bccd:70e1:ffff:ffff:ffff:ffff:ffff
+netname:            ARIEL-NETWORK-DN42-IPV6
+descr:              ARIEL NETWORK DN42 IPV6 BLOCK 1
+country:            CN
+admin-c:            ARIELS-DN42
+tech-c:             ARIELS-DN42
+mnt-by:             ARIELS-MNT
+cidr:               fdda:bccd:70e1::/48
+source:             DN42
+status:             ASSIGNED

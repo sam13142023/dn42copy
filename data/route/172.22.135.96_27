@@ -1,0 +1,5 @@
+route:              172.22.135.96/27
+descr:              ARIEL-DN42-ANYCAST
+origin:             AS4242423361
+mnt-by:             ARIELS-MNT
+source:             DN42
