@@ -1,0 +1,5 @@
+route6:             fdf4:f031:64d8::/48
+origin:             AS4242421967
+max-length:         48
+mnt-by:             SAKRIKO-MNT
+source:             DN42

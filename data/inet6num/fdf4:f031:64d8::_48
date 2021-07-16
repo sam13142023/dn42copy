@@ -1,0 +1,10 @@
+inet6num:           fdf4:f031:64d8:0000:0000:0000:0000:0000 - fdf4:f031:64d8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:f031:64d8::/48
+netname:            SAKRIKO-NETWORK
+descr:              SAKRIKO Network
+country:            DE
+admin-c:            SAKRIKO-DN42
+tech-c:             SAKRIKO-DN42
+mnt-by:             SAKRIKO-MNT
+status:             ASSIGNED
+source:             DN42
