@@ -1,0 +1,4 @@
+route:              172.23.2.32/27
+origin:             AS4242422423
+mnt-by:             INDIGO-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             no42.dn42
+descr:              No42 Networks
+admin-c:            NO42-DN42
+tech-c:             NO42-DN42
+mnt-by:             INDIGO-MNT
+org:                ORG-NO42
+nserver:            ns1.no42.dn42 172.23.2.33
+nserver:            ns1.no42.dn42 fdf4:37e:100::1
+source:             DN42
