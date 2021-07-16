@@ -1,0 +1,7 @@
+domain:             sakriko.dn42
+admin-c:            SAKRIKO-DN42
+tech-c:             SAKRIKO-DN42
+mnt-by:             SAKRIKO-MNT
+nserver:            ns1.sakriko.dn42 fdf4:f031:64d8::1
+nserver:            ns2.sakriko.dn42 fdf4:f031:64d8::2
+source:             DN42
