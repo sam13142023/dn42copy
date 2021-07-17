@@ -1,0 +1,11 @@
+inetnum:            172.23.2.32 - 172.23.2.63
+cidr:               172.23.2.32/27
+netname:            NET-IPV4-NO42
+descr:              No42 Experimental Network IPv4
+country:            DE
+org:                ORG-NO42
+admin-c:            NO42-DN42
+tech-c:             NO42-DN42
+mnt-by:             INDIGO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdf4:037e:0100:0000:0000:0000:0000:0000 - fdf4:037e:0100:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IPV6-NO42
+descr:              No42 Experimental Network IPv6
+country:            DE
+org:                ORG-NO42
+admin-c:            NO42-DN42
+tech-c:             NO42-DN42
+mnt-by:             INDIGO-MNT
+status:             ASSIGNED
+cidr:               fdf4:37e:100::/48
+source:             DN42
