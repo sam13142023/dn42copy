@@ -1,0 +1,12 @@
+aut-num:            AS4242422488
+as-name:            BGTMBGSOF1-AS
+remarks:            * Experimental Research Project on Latency and Bandwidth across Mesh Networks
+remarks:            * Open Peering Policy
+remarks:            * Suspected illegal traffic will be dropped by systemic algorithms
+remarks:            * Traffic may be throttled for fair usage
+remarks:            * IPSec+GRE Currently Supported
+remarks:            * Location: Bulgaria, Sofia
+admin-c:            BOBGOESTOMARS-DN42
+tech-c:             BOBGOESTOMARS-DN42
+mnt-by:             BOBGOESTOMARS-MNT
+source:             DN42

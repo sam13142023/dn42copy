@@ -1,0 +1,10 @@
+inetnum:            172.20.150.160 - 172.20.150.191
+cidr:               172.20.150.160/27
+netname:            BGTM-BGSOF1-NETWORK
+admin-c:            BOBGOESTOMARS-DN42
+tech-c:             BOBGOESTOMARS-DN42
+mnt-by:             BOBGOESTOMARS-MNT
+status:             ASSIGNED
+nserver:            ns1.bobgoestomars.dn42
+nserver:            ns2.bobgoestomars.dn42
+source:             DN42

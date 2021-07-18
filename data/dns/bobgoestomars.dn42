@@ -1,0 +1,9 @@
+domain:             bobgoestomars.dn42
+admin-c:            BOBGOESTOMARS-DN42
+tech-c:             BOBGOESTOMARS-DN42
+mnt-by:             BOBGOESTOMARS-MNT
+nserver:            ns1.bobgoestomars.dn42 192.20.150.162
+nserver:            ns1.bobgoestomars.dn42 fd25:d00:a93::53:1
+nserver:            ns2.bobgoestomars.dn42 172.20.150.163
+nserver:            ns2.bobgoestomars.dn42 fd25:d00:a93::53:2
+source:             DN42

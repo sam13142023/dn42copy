@@ -1,0 +1,4 @@
+route:              172.20.150.160/27
+origin:             AS4242422488
+mnt-by:             BOBGOESTOMARS-MNT
+source:             DN42

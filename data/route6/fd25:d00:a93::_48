@@ -1,0 +1,5 @@
+route6:             fd25:d00:a93::/48
+origin:             AS4242422488
+max-length:         48
+mnt-by:             BOBGOESTOMARS-MNT
+source:             DN42
