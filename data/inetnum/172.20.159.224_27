@@ -1,0 +1,8 @@
+inetnum:            172.20.159.224 - 172.20.159.255
+cidr:               172.20.159.224/27
+netname:            FMEPNET-IP4NET
+admin-c:            FMEPNET-DN42
+tech-c:             FMEPNET-DN42
+mnt-by:             FMEPNET-MNT
+status:             ASSIGNED
+source:             DN42
