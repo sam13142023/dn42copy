@@ -1,0 +1,10 @@
+inetnum:            172.22.189.160 - 172.22.189.191
+cidr:               172.22.189.160/27
+netname:            JONES-IPV4
+remarks:            Open for peering! dn42-peering@alexjones.radio
+descr:              Open for peering! dn42-peering@alexjones.radio
+admin-c:            JONES-DN42
+tech-c:             JONES-DN42
+mnt-by:             JONES-MNT
+status:             ASSIGNED
+source:             DN42

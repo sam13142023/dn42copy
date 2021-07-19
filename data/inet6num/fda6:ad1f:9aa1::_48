@@ -1,0 +1,9 @@
+inet6num:           fda6:ad1f:9aa1:0000:0000:0000:0000:0000 - fda6:ad1f:9aa1:ffff:ffff:ffff:ffff:ffff
+cidr:               fda6:ad1f:9aa1::/48
+netname:            JONES-IPV6
+descr:              Open for peering! dn42-peering@alexjones.radio
+admin-c:            JONES-DN42
+tech-c:             JONES-DN42
+mnt-by:             JONES-MNT
+status:             ASSIGNED
+source:             DN42
