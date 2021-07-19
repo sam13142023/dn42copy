@@ -1,0 +1,4 @@
+route:              172.20.159.224/27
+origin:             AS4242423703
+mnt-by:             FMEPNET-MNT
+source:             DN42
