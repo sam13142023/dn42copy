@@ -1,0 +1,8 @@
+inetnum:            172.22.128.48 - 172.22.128.63
+cidr:               172.22.128.48/28
+netname:            CON-NETWORK
+admin-c:            CON-DN42
+tech-c:             CON-DN42
+mnt-by:             CON-MNT
+status:             ASSIGNED
+source:             DN42
