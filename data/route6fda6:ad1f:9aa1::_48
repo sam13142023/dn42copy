@@ -1,0 +1,5 @@
+route6:             fda6:ad1f:9aa1::/48
+descr:              Open for peering! dn42-peering@alexjones.radio
+origin:             AS4242423186
+mnt-by:             JONES-MNT
+source:             DN42

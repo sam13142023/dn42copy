@@ -1,0 +1,6 @@
+mntner:             JONES-MNT
+admin-c:            JONES-DN42
+tech-c:             JONES-DN42
+mnt-by:             JONES-MNT
+source:             DN42
+auth:               pgp-fingerprint 4DFA8D494FE75533091F31C37ECAC99B7CC57ED4

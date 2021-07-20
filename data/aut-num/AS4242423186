@@ -1,0 +1,7 @@
+aut-num:            AS4242423186
+as-name:            JONES-AS
+descr:              Open for peering! dn42-peering@alexjones.radio
+admin-c:            JONES-DN42
+tech-c:             JONES-DN42
+mnt-by:             JONES-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.189.160/27
+descr:              Open for peering! dn42-peering@alexjones.radio
+origin:             AS4242423186
+mnt-by:             JONES-MNT
+source:             DN42
