@@ -1,0 +1,9 @@
+inet6num:           fd88:bdbd:8c4b:0000:0000:0000:0000:0000 - fd88:bdbd:8c4b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:bdbd:8c4b::/48
+netname:            CON-NETWORK
+descr:              Network of CON
+admin-c:            CON-DN42
+tech-c:             CON-DN42
+mnt-by:             CON-MNT
+status:             ASSIGNED
+source:             DN42

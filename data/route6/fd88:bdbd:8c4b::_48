@@ -1,0 +1,5 @@
+route6:             fd88:bdbd:8c4b::/48
+origin:             AS4242421920
+max-length:         48
+mnt-by:             CON-MNT
+source:             DN42
