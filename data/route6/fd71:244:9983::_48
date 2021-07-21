@@ -1,0 +1,5 @@
+route6:             fd71:244:9983::/48
+origin:             AS4242422895
+max-length:         48
+mnt-by:             WINTERFOX-MNT
+source:             DN42
