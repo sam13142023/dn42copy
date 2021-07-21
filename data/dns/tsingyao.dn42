@@ -1,0 +1,9 @@
+domain:             tsingyao.dn42
+admin-c:            TSINGYAO-DN42
+tech-c:             TSINGYAO-DN42
+mnt-by:             TSINGYAO-MNT
+nserver:            ns1.tsingyao.dn42 172.22.150.1
+nserver:            ns1.tsingyao.dn42 fdfb:d500:a158::1
+nserver:            ns2.tsingyao.dn42 172.22.150.2
+nserver:            ns2.tsingyao.dn42 fdfb:d500:a158::2
+source:             DN42
