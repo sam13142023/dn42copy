@@ -1,0 +1,4 @@
+route:              172.23.7.32/27
+origin:             AS4242421618
+mnt-by:             VOOLIK-MNT
+source:             DN42

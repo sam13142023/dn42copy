@@ -1,0 +1,11 @@
+inet6num:           fd72:d0d0:6e0b:0000:0000:0000:0000:0000 - fd72:d0d0:6e0b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd72:d0d0:6e0b::/48
+netname:            VOOLIK-NET
+country:            EE
+admin-c:            VOOLIK-DN42
+tech-c:             VOOLIK-DN42
+mnt-by:             VOOLIK-MNT
+status:             ASSIGNED
+nserver:            ns1.voolik.dn42
+nserver:            ns2.voolik.dn42
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             voolik.dn42
+admin-c:            VOOLIK-DN42
+tech-c:             VOOLIK-DN42
+mnt-by:             VOOLIK-MNT
+nserver:            ns1.voolik.dn42 172.23.7.33
+nserver:            ns1.voolik.dn42 fd72:d0d0:6e0b:53::1
+nserver:            ns2.voolik.dn42 172.23.7.34
+nserver:            ns2.voolik.dn42 fd72:d0d0:6e0b:53::2
+source:             DN42
