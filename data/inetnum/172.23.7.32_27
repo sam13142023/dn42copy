@@ -1,0 +1,10 @@
+inetnum:            172.23.7.32 - 172.23.7.63
+cidr:               172.23.7.32/27
+netname:            VOOLIK-NET
+admin-c:            VOOLIK-DN42
+tech-c:             VOOLIK-DN42
+mnt-by:             VOOLIK-MNT
+status:             ASSIGNED
+nserver:            ns1.voolik.dn42
+nserver:            ns2.voolik.dn42
+source:             DN42
