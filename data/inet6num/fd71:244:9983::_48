@@ -1,0 +1,10 @@
+inet6num:           fd71:0244:9983:0000:0000:0000:0000:0000 - fd71:0244:9983:ffff:ffff:ffff:ffff:ffff
+cidr:               fd71:244:9983::/48
+netname:            WINTERFOX-IP6-NET
+country:            US
+admin-c:            WINTERFOX-DN42
+tech-c:             WINTERFOX-DN42
+mnt-by:             WINTERFOX-MNT
+org:                ORG-WINTERFOX
+status:             ASSIGNED
+source:             DN42

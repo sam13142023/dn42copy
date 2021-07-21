@@ -1,0 +1,9 @@
+inetnum:            172.23.183.32 - 172.23.183.63
+cidr:               172.23.183.32/27
+netname:            WINTERFOX-IP4-NET
+admin-c:            WINTERFOX-DN42
+tech-c:             WINTERFOX-DN42
+mnt-by:             WINTERFOX-MNT
+org:                ORG-WINTERFOX
+status:             ASSIGNED
+source:             DN42
