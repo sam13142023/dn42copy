@@ -1,0 +1,9 @@
+inetnum:            172.22.76.64 - 172.22.76.95
+netname:            SPARROWHE-IPV4
+country:            CN
+admin-c:            SPARROWHE-DN42
+tech-c:             SPARROWHE-DN42
+mnt-by:             SPARROWHE-MNT
+status:             ASSIGNED
+cidr:               172.22.76.64/27
+source:             DN42
