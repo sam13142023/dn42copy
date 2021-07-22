@@ -1,0 +1,7 @@
+mntner:             TSINGYAO-MNT
+admin-c:            TSINGYAO-DN42
+tech-c:             TSINGYAO-DN42
+mnt-by:             TSINGYAO-MNT
+auth:               pgp-fingerprint DD515D58188FBD2F9AF484F8AD04D02E24AC52C9
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDB3nHmq/VxwbPGn+qarvZcipbklQRf0oBBh0JSWVk0DTzgggQSs2e/00XJG50Eyz6tqvDpVlWFvFMmDJMeOnOVcc8tFxKF67mrZGZCGb9FvhYl75bG/FW9wbh+/E2ele24v4ae7ON+sprxtbbjjtLrA5LgnV5929eCssjlTIGYqYHqcBFAjW6w7XMmv+Ru7dQsnj0eLhvIOhUkzPvjIYu0ledNWeMq6S85UKwkSRURlrxarJR6SFztZ28OtNqBC6neATVfXf9whK9skkd9TqzxeNmMebDxyl/FwEGeG1HHqQNU4xiXUqHhhoM+U8cocPt6VvEP5WHd5xehLltYfED+T/6R5CGDw96VOYR/xqGoQexYzLjL0aOyLDyYUYQ3FexT9B7iErFIp/StXBlRSuxEFVltl+OsTxrRxbnqDiiNXz4fKHjsewv/r4ZphGGV93DXrAwwOGHLhRRRkcrxbPGBStbCDQShNJ2oM+AZNHlt2h77xay+UXBCeIofeyrb+t0Wb86Xg7HVWk1scrUsWfWQ/b8qgh9vldJk9noj9l+rjwifPPUqMR9g0TFcOdNd4zJrrQ6iWoVhJ2Hw51hVfgo0kmcYcCULAeTzT2FYkr343mxyTrseqCmF+vF7XPvWXYukDUmkPsTlbvsLqh3YvoS3hVn5eYmzBHbJJZKc5XtcLQ==
+source:             DN42

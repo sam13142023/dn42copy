@@ -1,0 +1,13 @@
+inetnum:            172.22.155.0 - 172.22.155.63
+cidr:               172.22.155.0/26
+netname:            TSINGYAO-IPV4
+remarks:            Peer with me at yujintong@126.com
+descr:              TsingYao Network
+country:            CN
+admin-c:            TSINGYAO-DN42
+tech-c:             TSINGYAO-DN42
+mnt-by:             TSINGYAO-MNT
+nserver:            ns1.tsingyao.dn42
+nserver:            ns2.tsingyao.dn42
+status:             ASSIGNED
+source:             DN42
