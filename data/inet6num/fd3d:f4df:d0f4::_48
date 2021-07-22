@@ -1,0 +1,9 @@
+inet6num:           fd3d:f4df:d0f4:0000:0000:0000:0000:0000 - fd3d:f4df:d0f4:ffff:ffff:ffff:ffff:ffff
+netname:            SPARROWHE-IPV6
+country:            CN
+admin-c:            SPARROWHE-DN42
+tech-c:             SPARROWHE-DN42
+mnt-by:             SPARROWHE-MNT
+status:             ASSIGNED
+cidr:               fd3d:f4df:d0f4::/48
+source:             DN42
