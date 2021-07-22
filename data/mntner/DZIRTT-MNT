@@ -1,0 +1,7 @@
+mntner:             DZIRTT-MNT
+descr:              dzirtt-mnt
+admin-c:            DZIRTT-DN42
+tech-c:             DZIRTT-DN42
+mnt-by:             DZIRTT-MNT
+source:             DN42
+auth:               PGPKEY-44D1A3CD

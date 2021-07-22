@@ -1,0 +1,5 @@
+route6:             fd21:4a1d:5885::/48
+origin:             AS4242420615
+max-length:         48
+mnt-by:             DZIRTT-MNT
+source:             DN42
