@@ -1,0 +1,10 @@
+inet6num:           fdee:ba42:7e41:0000:0000:0000:0000:0000 - fdee:ba42:7e41:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:ba42:7e41::/48
+netname:            DN42-SIAL-NETWORK
+descr:              sial's net first prefix
+country:            BG
+admin-c:            SIAL-DN42
+tech-c:             SIAL-DN42
+mnt-by:             SIAL-MNT
+status:             ASSIGNED
+source:             DN42
