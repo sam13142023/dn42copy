@@ -1,0 +1,8 @@
+inet6num:           fd21:4a1d:5885:0000:0000:0000:0000:0000 - fd21:4a1d:5885:ffff:ffff:ffff:ffff:ffff
+netname:            dzirtt-local-NET6
+cidr:               fd21:4a1d:5885::/48
+admin-c:            DZIRTT-DN42
+tech-c:             DZIRTT-DN42
+mnt-by:             DZIRTT-MNT
+status:             ASSIGNED
+source:             DN42

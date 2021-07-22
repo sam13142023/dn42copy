@@ -1,0 +1,4 @@
+route:              172.23.99.96/27
+origin:             AS4242420615
+mnt-by:             DZIRTT-MNT
+source:             DN42

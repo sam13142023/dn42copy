@@ -1,0 +1,8 @@
+inetnum:            172.23.99.96 - 172.23.99.127
+cidr:               172.23.99.96/27
+netname:            dzirtt-local-NET
+admin-c:            DZIRTT-DN42
+tech-c:             DZIRTT-DN42
+mnt-by:             DZIRTT-MNT
+status:             ASSIGNED
+source:             DN42
