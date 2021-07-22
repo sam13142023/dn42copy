@@ -3,3 +3,5 @@ admin-c:            FOOKER-DN42
 tech-c:             FOOKER-DN42
 mnt-by:             FOOKER-MNT
 source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK2nkarN0+uSuP5sGwDCb9KRu+FCjO/+da4VypGanPUZ
+auth:               pgp-fingerprint 3237CA7A1744B4DCE96B409FB4C3BF012D9B26BE
