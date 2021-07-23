@@ -1,0 +1,10 @@
+domain:             winterfox.dn42
+admin-c:            WINTERFOX-DN42
+tech-c:             WINTERFOX-DN42
+mnt-by:             WINTERFOX-MNT
+org:                ORG-WINTERFOX
+nserver:            ns1.winterfox.dn42 172.23.183.40
+nserver:            ns1.winterfox.dn42 fd71:244:9983:a::1
+nserver:            ns2.winterfox.dn42 172.23.183.41
+nserver:            ns2.winterfox.dn42 fd71:244:9983:a::2
+source:             DN42

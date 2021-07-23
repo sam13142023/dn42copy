@@ -6,4 +6,6 @@ tech-c:             WINTERFOX-DN42
 mnt-by:             WINTERFOX-MNT
 org:                ORG-WINTERFOX
 status:             ASSIGNED
+nserver:            ns1.winterfox.dn42
+nserver:            ns2.winterfox.dn42
 source:             DN42
