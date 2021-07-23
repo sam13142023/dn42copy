@@ -1,7 +1,8 @@
 domain:             maglab.dn42
-descr:              Magrathea Laboratorires e.V.
+descr:              Magrathea Laboratories e.V.
 admin-c:            MAJOR-DN42
 tech-c:             MAJOR-DN42
 mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
 nserver:            ns1.maglab.dn42 172.23.172.1
 source:             DN42
