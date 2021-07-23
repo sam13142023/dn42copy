@@ -1,0 +1,8 @@
+inetnum:            172.20.44.16 - 172.20.44.31
+cidr:               172.20.44.16/28
+netname:            SIAL-NETWORK
+admin-c:            SIAL-DN42
+tech-c:             SIAL-DN42
+mnt-by:             SIAL-MNT
+status:             ASSIGNED
+source:             DN42

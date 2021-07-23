@@ -1,0 +1,6 @@
+route6:             fdee:ba42:7e41::/48
+descr:              sial's ipv6 net
+origin:             AS4242420026
+max-length:         48
+mnt-by:             SIAL-MNT
+source:             DN42
