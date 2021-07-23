@@ -1,0 +1,4 @@
+route:              172.23.193.64/27
+origin:             AS4242420521
+mnt-by:             BATNZ-MNT
+source:             DN42

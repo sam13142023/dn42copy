@@ -1,0 +1,5 @@
+route6:             fdf7:a7f0:7ed::/48
+origin:             AS4242420521
+max-length:         48
+mnt-by:             BATNZ-MNT
+source:             DN42

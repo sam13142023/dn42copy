@@ -1,0 +1,11 @@
+inetnum:            172.23.193.64 - 172.23.193.95
+cidr:               172.23.193.64/27
+netname:            HL-NETWORK
+descr:              Hackland Network
+country:            NZ
+org:                ORG-HL
+admin-c:            BATNZ-DN42
+tech-c:             BATNZ-DN42
+mnt-by:             BATNZ-MNT
+status:             ASSIGNED
+source:             DN42
