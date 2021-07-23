@@ -1,0 +1,11 @@
+inet6num:           fdf7:a7f0:07ed:0000:0000:0000:0000:0000 - fdf7:a7f0:07ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf7:a7f0:7ed::/48
+netname:            HL-NETWORK
+descr:              Hackland Network
+country:            NZ
+org:                ORG-HL
+admin-c:            BATNZ-DN42
+tech-c:             BATNZ-DN42
+mnt-by:             BATNZ-MNT
+status:             ASSIGNED
+source:             DN42
