@@ -1,0 +1,9 @@
+inet6num:           fd98:e7e5:7d1b:0000:0000:0000:0000:0000 - fd98:e7e5:7d1b:ffff:ffff:ffff:ffff:ffff
+netname:            ALEXCUI-IPV6
+country:            CN
+admin-c:            ALEXCUI-DN42
+tech-c:             ALEXCUI-DN42
+mnt-by:             ALEXCUI-MNT
+status:             ASSIGNED
+cidr:               fd98:e7e5:7d1b::/48
+source:             DN42

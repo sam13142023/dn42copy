@@ -1,0 +1,9 @@
+inetnum:            172.22.128.96 - 172.22.128.127
+netname:            ALEXCUI-IPV4
+country:            CN
+admin-c:            ALEXCUI-DN42
+tech-c:             ALEXCUI-DN42
+mnt-by:             ALEXCUI-MNT
+status:             ASSIGNED
+cidr:               172.22.128.96/27
+source:             DN42
