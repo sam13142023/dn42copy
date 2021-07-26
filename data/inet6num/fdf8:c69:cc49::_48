@@ -1,0 +1,10 @@
+inet6num:           fdf8:0c69:cc49:0000:0000:0000:0000:0000 - fdf8:0c69:cc49:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:c69:cc49::/48
+netname:            HAGRID-NETWORK
+descr:              Paradise Circus
+country:            CZ
+admin-c:            HAGRID-DN42
+tech-c:             HAGRID-DN42
+mnt-by:             HAGRID-MNT
+status:             ASSIGNED
+source:             DN42
