@@ -1,0 +1,6 @@
+domain:             gay.dn42
+admin-c:            SPARROWHE-DN42
+tech-c:             SPARROWHE-DN42
+mnt-by:             SPARROWHE-MNT
+nserver:            ns1.sparrowhe.dn42
+source:             DN42
