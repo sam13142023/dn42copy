@@ -1,0 +1,7 @@
+domain:             sparrowhe.dn42
+admin-c:            SPARROWHE-DN42
+tech-c:             SPARROWHE-DN42
+mnt-by:             SPARROWHE-MNT
+nserver:            ns1.sparrowhe.dn42 172.22.76.67
+nserver:            ns1.sparrowhe.dn42 fd3d:f4df:d0f4::3
+source:             DN42
