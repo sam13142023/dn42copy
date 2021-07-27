@@ -1,0 +1,11 @@
+inet6num:           fd4e:a4d9:1add:0000:0000:0000:0000:0000 - fd4e:a4d9:1add:ffff:ffff:ffff:ffff:ffff
+netname:            RZL-DN42-IP6NET
+descr:              RaumZeitLabor dn42 network
+country:            DE
+org:                ORG-RZL
+status:             ASSIGNED
+cidr:               fd4e:a4d9:1add::/48
+mnt-by:             LUTOMA-MNT
+mnt-by:             DOCSTEEL-MNT
+mnt-by:             HAX404-MNT
+source:             DN42
