@@ -1,0 +1,8 @@
+inetnum:            172.23.223.32 - 172.23.223.63
+cidr:               172.23.223.32/27
+netname:            HAGRID-NETWORK
+admin-c:            HAGRID-DN42
+tech-c:             HAGRID-DN42
+mnt-by:             HAGRID-MNT
+status:             ASSIGNED
+source:             DN42

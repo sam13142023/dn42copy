@@ -1,0 +1,6 @@
+mntner:             HAGRID-MNT
+admin-c:            HAGRID-DN42
+tech-c:             HAGRID-DN42
+mnt-by:             HAGRID-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINlabfl9lfp7nOO9F2P+kwiICvDT+RswZPC4+g1FtA9M
+source:             DN42
