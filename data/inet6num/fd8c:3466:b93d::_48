@@ -1,0 +1,8 @@
+inet6num:           fd8c:3466:b93d:0000:0000:0000:0000:0000 - fd8c:3466:b93d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8c:3466:b93d::/48
+netname:            MROETHKE-NETWORK
+admin-c:            MROETHKE-DN42
+tech-c:             MROETHKE-DN42
+mnt-by:             MROETHKE-MNT
+status:             ASSIGNED
+source:             DN42
