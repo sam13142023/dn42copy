@@ -1,0 +1,5 @@
+route6:             fd8c:3466:b93d::/48
+origin:             AS4242420939
+max-length:         48
+mnt-by:             MROETHKE-MNT
+source:             DN42

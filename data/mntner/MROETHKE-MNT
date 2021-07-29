@@ -1,0 +1,6 @@
+mntner:             MROETHKE-MNT
+admin-c:            MROETHKE-DN42
+tech-c:             MROETHKE-DN42
+mnt-by:             MROETHKE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOK0bqS7St8qadDfb6hqw8Ycsv7HCFLLGDolDiSlu72Y
+source:             DN42
