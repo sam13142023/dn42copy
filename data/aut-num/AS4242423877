@@ -1,0 +1,7 @@
+aut-num:            AS4242423877
+as-name:            SAKURA-AS
+descr:              Peer with me at insightfy@gmail.com
+admin-c:            SAKURA-DN42
+tech-c:             SAKURA-DN42
+mnt-by:             SAKURA-MNT
+source:             DN42
