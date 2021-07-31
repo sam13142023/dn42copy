@@ -1,0 +1,10 @@
+inetnum:            172.20.237.64 - 172.20.237.95
+netname:            SAKURA-NETWORK
+descr:              SAKURA-NETWORK
+country:            JP
+admin-c:            SAKURA-DN42
+tech-c:             SAKURA-DN42
+mnt-by:             SAKURA-MNT
+status:             ASSIGNED
+cidr:               172.20.237.64/27
+source:             DN42

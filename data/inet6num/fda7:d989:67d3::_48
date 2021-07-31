@@ -1,0 +1,10 @@
+inet6num:           fda7:d989:67d3:0000:0000:0000:0000:0000 - fda7:d989:67d3:ffff:ffff:ffff:ffff:ffff
+netname:            SAKURA-IPV6
+descr:              Peer with me at insightfy@gmail.com
+country:            JP
+admin-c:            SAKURA-DN42
+tech-c:             SAKURA-DN42
+mnt-by:             SAKURA-MNT
+status:             ASSIGNED
+cidr:               fda7:d989:67d3::/48
+source:             DN42
