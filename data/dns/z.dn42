@@ -1,0 +1,6 @@
+domain:             z.dn42
+mnt-by:             ZENITHAL-MNT
+nserver:            ns1.z.dn42 fd55:a814:708c::1
+nserver:            ns1.z.dn42 172.21.113.250
+nserver:            ns2.z.dn42 fd55:a814:708c:11::1
+source:             DN42
