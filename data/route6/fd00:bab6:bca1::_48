@@ -1,0 +1,5 @@
+route6:             fd00:bab6:bca1::/48
+origin:             AS4242421512
+max-length:         48
+mnt-by:             KF-MNT
+source:             DN42

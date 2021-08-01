@@ -1,0 +1,10 @@
+inet6num:           fd00:bab6:bca1:0000:0000:0000:0000:0000 - fd00:bab6:bca1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:bab6:bca1::/48
+netname:            KF-NETWORK
+descr:              Network of kf
+country:            DE
+admin-c:            KF-DN42
+tech-c:             KF-DN42
+mnt-by:             KF-MNT
+status:             ASSIGNED
+source:             DN42
