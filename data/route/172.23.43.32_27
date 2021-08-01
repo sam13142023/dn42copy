@@ -1,0 +1,4 @@
+route:              172.23.43.32/27
+origin:             AS4242423477
+mnt-by:             STORMYS-MNT
+source:             DN42

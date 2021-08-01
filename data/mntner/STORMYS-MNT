@@ -1,0 +1,6 @@
+mntner:             STORMYS-MNT
+admin-c:            STORMYS-DN42
+tech-c:             STORMYS-DN42
+mnt-by:             STORMYS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILu8tRARtfP1MaA/nGGGEe1fQlrL/wy8TQfidRic53od
+source:             DN42
