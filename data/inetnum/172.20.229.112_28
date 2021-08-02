@@ -6,6 +6,6 @@ country:            CA
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42
 mnt-by:             JLU5-MNT
-nserver:            ns1.jlu5.dn42
+nserver:            ns.highdef.dn42
 status:             ASSIGNED
 source:             DN42
