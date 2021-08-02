@@ -1,0 +1,5 @@
+route6:             fddd:c100:ac0a::/48
+origin:             AS4242423477
+max-length:         48
+mnt-by:             STORMYS-MNT
+source:             DN42

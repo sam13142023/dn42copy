@@ -1,0 +1,10 @@
+inet6num:           fddd:c100:ac0a:0000:0000:0000:0000:0000 - fddd:c100:ac0a:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:c100:ac0a::/48
+netname:            STORMYS-NETWORK
+descr:              Network of STORMYS
+country:            FR
+admin-c:            STORMYS-DN42
+tech-c:             STORMYS-DN42
+mnt-by:             STORMYS-MNT
+status:             ASSIGNED
+source:             DN42

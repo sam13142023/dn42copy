@@ -1,0 +1,8 @@
+inetnum:            172.23.43.32 - 172.23.43.63
+cidr:               172.23.43.32/27
+netname:            STORMYS-NETWORK
+admin-c:            STORMYS-DN42
+tech-c:             STORMYS-DN42
+mnt-by:             STORMYS-MNT
+status:             ASSIGNED
+source:             DN42
