@@ -1,0 +1,10 @@
+inetnum:            172.21.121.96 - 172.21.121.127
+netname:            IGONICNET-NET
+descr:              IGONICNET INET4 PREFIX
+country:            US
+admin-c:            IGONICNET-DN42
+tech-c:             IGONICNET-DN42
+mnt-by:             IGONICNET-MNT
+status:             ASSIGNED
+cidr:               172.21.121.96/27
+source:             DN42
