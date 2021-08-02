@@ -4,3 +4,4 @@ tech-c:             ZENITHAL-DN42
 mnt-by:             ZENITHAL-MNT
 source:             DN42
 auth:               pgp-fingerprint 1127F188280AE3123619332987E17EEF9B18B6C9
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMDfaXEyFsDbvxdHTX3p4h9LyZKHTDHke5y/6CzFrypO
