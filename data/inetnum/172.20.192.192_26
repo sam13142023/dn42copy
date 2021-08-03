@@ -1,0 +1,9 @@
+inetnum:            172.20.192.192 - 172.20.192.255
+cidr:               172.20.192.192/26
+netname:            PEER1NG-V4-NET-1
+admin-c:            TNKOCH-DN42
+tech-c:             TNKOCH-DN42
+mnt-by:             TNKOCH-MNT
+org:                ORG-PEER1NG
+status:             ASSIGNED
+source:             DN42
