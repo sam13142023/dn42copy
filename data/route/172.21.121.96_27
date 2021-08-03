@@ -1,0 +1,4 @@
+route:              172.21.121.96/27
+origin:             AS4242422691
+mnt-by:             IGONICNET-MNT
+source:             DN42

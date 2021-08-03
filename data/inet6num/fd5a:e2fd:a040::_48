@@ -1,0 +1,10 @@
+inet6num:           fd5a:e2fd:a040:0000:0000:0000:0000:0000 - fd5a:e2fd:a040:ffff:ffff:ffff:ffff:ffff
+netname:            IGONICNET-INET6-NET
+descr:              IGONICNET INET6 PREFIX
+country:            US
+admin-c:            IGONICNET-DN42
+tech-c:             IGONICNET-DN42
+mnt-by:             IGONICNET-MNT
+status:             ASSIGNED
+cidr:               fd5a:e2fd:a040::/48
+source:             DN42
