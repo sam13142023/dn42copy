@@ -1,0 +1,6 @@
+mntner:             TNKOCH-MNT
+admin-c:            TNKOCH-DN42
+tech-c:             TNKOCH-DN42
+mnt-by:             TNKOCH-MNT
+source:             DN42
+auth:               pgp-fingerprint 9EE8D7CE86990213FB75CA97E5D5DCBE8200839B

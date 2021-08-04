@@ -1,0 +1,8 @@
+domain:             peer1ng.dn42
+admin-c:            TNKOCH-DN42
+tech-c:             TNKOCH-DN42
+mnt-by:             TNKOCH-MNT
+org:                ORG-PEER1NG
+nserver:            ns1.peer1ng.dn42 172.20.192.193
+nserver:            ns1.peer1ng.dn42 fd0b:fad4:fff6::1
+source:             DN42

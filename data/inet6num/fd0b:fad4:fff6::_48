@@ -1,0 +1,10 @@
+inet6num:           fd0b:fad4:fff6:0000:0000:0000:0000:0000 - fd0b:fad4:fff6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:fad4:fff6::/48
+netname:            PEER1NG-V6-NET-1
+country:            DE
+admin-c:            TNKOCH-DN42
+tech-c:             TNKOCH-DN42
+mnt-by:             TNKOCH-MNT
+org:                ORG-PEER1NG
+status:             ASSIGNED
+source:             DN42
