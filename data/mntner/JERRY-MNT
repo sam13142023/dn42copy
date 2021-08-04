@@ -2,5 +2,6 @@ mntner:             JERRY-MNT
 admin-c:            JERRY-DN42
 tech-c:             JERRY-DN42
 mnt-by:             JERRY-MNT
-auth:               pgp-fingerprint 186242204A2EC70438E9CE3B9D9CE43650FF2BAA
+auth:               pgp-fingerprint 5FC9AD5B960AD6F626E218DD22618F758B5BE2E5
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDdmWPOaUk+l4PPXbiJ0JWqRjGmm6S6RvCp459H6Usm6oIeAHCbw4hmr+7GbODgXUo7yL2NoYnLpWa/emAVuveWDaCt88fdK+9D16oOPUrwph3TImtJUAixJpxwhkaSZdk+vuGn4WF5bdqqtEwlHlXm4izDkv6QzpqNxENqy6J/DQ8UehEYcOQjZUqrjDl8VrQ2jAclqdzZVvQ3pyaLh1tJ8rSb52ucYK8EcRRIDtor+DVC0X5mrID5cwW6V+589pVFZG0C/zpw0Mp5O5Rhwm6Y4sX+oPw012/x6Nvx1nJudgXrXka1ZiQDdQj8ECxG5bUBkHIvEPuvbWyrYVA9IVsupU6Y64FliTDDCqDi5u10SfaszoRVG40iYUHS2pd7U2dUAUkvVNZBI3jvrRNyHQ+oFDVpYAKymnrSKKJnbIRJBuhun9mmXoEgNy5995BLLZc46yxUI0+Hv2I+9Hi/3bsHbIwjt/D7mvm0waVv5GbHTJYFq6MHRlBRGcn7U3hHWrp2U6rdZLa+nZCzZdJQQYvziDTPb7G98e82js573g9RQJ/ROKezi96x/n5WzoVhcbETM7d4wucTeRTRH3/tPNHU/5wq81uJK30Ztwzss0rC+fv7cGeQoET0uQWJy2Mc8YicuCUPbHfLEQrhEAxjp4eroSV9xSNBIfEyDrqy8qWMiw==
 source:             DN42
