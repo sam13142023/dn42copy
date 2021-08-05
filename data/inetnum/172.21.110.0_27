@@ -1,0 +1,11 @@
+inetnum:            172.21.110.0 - 172.21.110.31
+netname:            AYAHUASEC-IPV4
+remarks:            Contact me at shsx5543@live.com
+descr:              Contact me at shsx5543@live.com
+country:            CN
+admin-c:            AYAHUASEC-DN42
+tech-c:             AYAHUASEC-DN42
+mnt-by:             AYAHUASEC-MNT
+status:             ASSIGNED
+cidr:               172.21.110.0/27
+source:             DN42
