@@ -1,5 +1,7 @@
 route:              172.23.250.64/26
+descr:              Baoshuo DN42 Network IPv4 Block
 origin:             AS141776
 origin:             AS4242420247
+origin:             AS4201270017
 mnt-by:             BAOSHUO-MNT
 source:             DN42
