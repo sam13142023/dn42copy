@@ -1,0 +1,10 @@
+inet6num:           fd25:a1e5:bee4:0000:0000:0000:0000:0000 - fd25:a1e5:bee4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd25:a1e5:bee4::/48
+netname:            JOELH-DN42-NET
+descr:              Joel's DN42 Lab
+country:            US
+admin-c:            JOELH-DN42
+tech-c:             JOELH-DN42
+mnt-by:             JOELH-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd25:a1e5:bee4::/48
+origin:             AS4242421720
+max-length:         48
+mnt-by:             JOELH-MNT
+source:             DN42
