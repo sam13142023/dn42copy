@@ -1,0 +1,9 @@
+inetnum:            172.23.182.0 - 172.23.182.31
+cidr:               172.23.182.0/27
+netname:            DIYPIANDCO-V4-NET-1
+country:            FR
+admin-c:            DIYPIANDCO-DN42
+tech-c:             DIYPIANDCO-DN42
+mnt-by:             DIYPIANDCO-MNT
+status:             ASSIGNED
+source:             DN42

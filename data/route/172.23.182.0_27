@@ -1,0 +1,4 @@
+route:              172.23.182.0/27
+origin:             AS4242421908
+mnt-by:             DIYPIANDCO-MNT
+source:             DN42
