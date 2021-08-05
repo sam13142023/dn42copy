@@ -1,0 +1,8 @@
+inetnum:            172.22.68.32 - 172.22.68.63
+cidr:               172.22.68.32/27
+netname:            WIKIBAO-NETWORK
+admin-c:            WIKIBAO-DN42
+tech-c:             WIKIBAO-DN42
+mnt-by:             WIKIBAO-MNT
+status:             ASSIGNED
+source:             DN42

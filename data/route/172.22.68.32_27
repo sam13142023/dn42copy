@@ -1,0 +1,4 @@
+route:              172.22.68.32/27
+origin:             AS4242421088
+mnt-by:             WIKIBAO-MNT
+source:             DN42
