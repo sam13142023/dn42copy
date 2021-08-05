@@ -1,0 +1,9 @@
+inet6num:           fd18:0a20:2b25:0000:0000:0000:0000:0000 - fd18:0a20:2b25:ffff:ffff:ffff:ffff:ffff
+cidr:               fd18:a20:2b25::/48
+netname:            DIYPIANDCO-V6-NET-1
+country:            FR
+admin-c:            DIYPIANDCO-DN42
+tech-c:             DIYPIANDCO-DN42
+mnt-by:             DIYPIANDCO-MNT
+status:             ASSIGNED
+source:             DN42
