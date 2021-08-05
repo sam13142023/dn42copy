@@ -1,0 +1,10 @@
+inet6num:           fd64:1430:d42a:0000:0000:0000:0000:0000 - fd64:1430:d42a:ffff:ffff:ffff:ffff:ffff
+netname:            AYAHUASEC-IPV6
+descr:              Contact me at shsx5543@live.com
+country:            CN
+admin-c:            AYAHUASEC-DN42
+tech-c:             AYAHUASEC-DN42
+mnt-by:             AYAHUASEC-MNT
+status:             ASSIGNED
+cidr:               fd64:1430:d42a::/48
+source:             DN42
