@@ -1,6 +1,8 @@
 route6:             fdbb:7278:face::/48
+descr:              Baoshuo DN42 Network IPv6 Block
 origin:             AS141776
 origin:             AS4242420247
-max-length:         48
+origin:             AS4201270017
+max-length:         56
 mnt-by:             BAOSHUO-MNT
 source:             DN42

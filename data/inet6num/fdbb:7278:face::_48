@@ -1,8 +1,8 @@
 inet6num:           fdbb:7278:face:0000:0000:0000:0000:0000 - fdbb:7278:face:ffff:ffff:ffff:ffff:ffff
 cidr:               fdbb:7278:face::/48
-netname:            BAOSHUO-DN42-V6-1
+netname:            BAOSHUO-DN42-V6
 nserver:            ns1.baoshuo.dn42
-descr:              IPv6 block 1 for Baoshuo DN42 Network
+descr:              Baoshuo DN42 Network IPv6 Block
 country:            CN
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42

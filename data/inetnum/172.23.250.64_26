@@ -2,7 +2,7 @@ inetnum:            172.23.250.64 - 172.23.250.127
 cidr:               172.23.250.64/26
 netname:            BAOSHUO-DN42-V4
 nserver:            ns1.baoshuo.dn42
-descr:              IPv4 block for Baoshuo DN42 Network
+descr:              Baoshuo DN42 Network IPv4 Block
 country:            CN
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42
