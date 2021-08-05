@@ -1,0 +1,10 @@
+inet6num:           fd7a:2af9:2828:0000:0000:0000:0000:0000 - fd7a:2af9:2828:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7a:2af9:2828::/48
+netname:            WIKIBAO-NETWORK
+descr:              Network of wikibao
+country:            CN
+admin-c:            WIKIBAO-DN42
+tech-c:             WIKIBAO-DN42
+mnt-by:             WIKIBAO-MNT
+status:             ASSIGNED
+source:             DN42
