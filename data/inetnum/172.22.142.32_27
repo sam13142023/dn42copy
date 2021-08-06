@@ -1,0 +1,10 @@
+inetnum:            172.22.142.32 - 172.22.142.63
+netname:            YADOMIN-NET
+descr:              Peer with me dn42@yadom.in
+country:            CN
+admin-c:            YADOMIN-DN42
+tech-c:             YADOMIN-DN42
+mnt-by:             YADOMIN-MNT
+status:             ASSIGNED
+cidr:               172.22.142.32/27
+source:             DN42
