@@ -1,0 +1,10 @@
+inet6num:           fda2:776d:5c5c:0000:0000:0000:0000:0000 - fda2:776d:5c5c:ffff:ffff:ffff:ffff:ffff
+netname:            YADOMIN-NET
+descr:              Peer with me dn42@yadom.in
+country:            CN
+admin-c:            YADOMIN-DN42
+tech-c:             YADOMIN-DN42
+mnt-by:             YADOMIN-MNT
+status:             ASSIGNED
+cidr:               fda2:776d:5c5c::/48
+source:             DN42

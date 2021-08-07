@@ -1,0 +1,5 @@
+route6:             fda2:776d:5c5c::/48
+descr:              Peer with me dn42@yadom.in
+origin:             AS4242423032
+mnt-by:             YADOMIN-MNT
+source:             DN42

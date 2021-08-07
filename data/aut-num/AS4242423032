@@ -1,0 +1,7 @@
+aut-num:            AS4242423032
+as-name:            YADOMIN-AS
+descr:              Peer with dn42@yadom.in
+admin-c:            YADOMIN-DN42
+tech-c:             YADOMIN-DN42
+mnt-by:             YADOMIN-MNT
+source:             DN42

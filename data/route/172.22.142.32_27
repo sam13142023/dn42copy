@@ -1,0 +1,5 @@
+route:              172.22.142.32/27
+descr:              Peer with me dn42@yadom.in
+origin:             AS4242423032
+mnt-by:             YADOMIN-MNT
+source:             DN42
