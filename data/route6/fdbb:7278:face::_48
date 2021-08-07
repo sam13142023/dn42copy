@@ -3,6 +3,6 @@ descr:              Baoshuo DN42 Network IPv6 Block
 origin:             AS141776
 origin:             AS4242420247
 origin:             AS4201270017
-max-length:         56
+max-length:         64
 mnt-by:             BAOSHUO-MNT
 source:             DN42
