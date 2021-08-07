@@ -1,0 +1,4 @@
+route:              172.22.73.160/27
+origin:             AS4242420760
+mnt-by:             EVONET-MNT
+source:             DN42

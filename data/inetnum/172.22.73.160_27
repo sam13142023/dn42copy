@@ -1,0 +1,8 @@
+inetnum:            172.22.73.160 - 172.22.73.191
+cidr:               172.22.73.160/27
+netname:            EVONET-NETWORK
+admin-c:            EVONET-DN42
+tech-c:             EVONET-DN42
+mnt-by:             EVONET-MNT
+status:             ASSIGNED
+source:             DN42

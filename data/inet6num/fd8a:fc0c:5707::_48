@@ -1,0 +1,10 @@
+inet6num:           fd8a:fc0c:5707:0000:0000:0000:0000:0000 - fd8a:fc0c:5707:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8a:fc0c:5707::/48
+netname:            EVONET-NETWORK
+descr:              Network of EVONET
+country:            DE
+admin-c:            EVONET-DN42
+tech-c:             EVONET-DN42
+mnt-by:             EVONET-MNT
+status:             ASSIGNED
+source:             DN42
