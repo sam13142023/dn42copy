@@ -1,0 +1,6 @@
+mntner:             EVONET-MNT
+admin-c:            EVONET-DN42
+tech-c:             EVONET-DN42
+mnt-by:             EVONET-MNT
+auth:               pgp-fingerprint 70BF53AF60E1D6D1DDF622BF7AEC7A87659A3290
+source:             DN42
