@@ -3,5 +3,5 @@ as-name:            ANILLC-AS
 admin-c:            ANILLC-DN42
 tech-c:             ANILLC-DN42
 mnt-by:             ANILLC-MNT
-remarks:            See details at https://anillc.cn/networking for peering
+remarks:            See details at https://ani.llc/networking for peering
 source:             DN42
