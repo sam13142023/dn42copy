@@ -1,8 +1,6 @@
-route:              10.127.60.0/24
-max-length:         29
-origin:             AS141776
-origin:             AS4201270017
-origin:             AS4242420247
+inetnum:            10.127.17.0 - 10.127.17.255
+cidr:               10.127.17.0/24
+netname:            BAOSHUO-NEO-V4-1
 admin-c:            REN-BAOSHUO-NEONETWORK
 tech-c:             REN-BAOSHUO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
