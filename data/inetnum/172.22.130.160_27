@@ -1,0 +1,8 @@
+inetnum:            172.22.130.160 - 172.22.130.191
+cidr:               172.22.130.160/27
+netname:            DOCTOR-NETWORK
+admin-c:            DOCTOR-DN42
+tech-c:             DOCTOR-DN42
+mnt-by:             DOCTOR-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdd8:56ab:1866:0000:0000:0000:0000:0000 - fdd8:56ab:1866:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd8:56ab:1866::/48
+netname:            DOCTOR-NETWORK
+descr:              Network of DOCTOR-DN42
+country:            DE
+admin-c:            DOCTOR-DN42
+tech-c:             DOCTOR-DN42
+mnt-by:             DOCTOR-MNT
+status:             ASSIGNED
+source:             DN42
