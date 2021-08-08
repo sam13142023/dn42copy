@@ -1,0 +1,5 @@
+route6:             fdd8:56ab:1866::/48
+origin:             AS4242421610
+max-length:         48
+mnt-by:             DOCTOR-MNT
+source:             DN42

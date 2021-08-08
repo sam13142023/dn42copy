@@ -1,0 +1,4 @@
+route:              172.22.130.160/27
+origin:             AS4242421610
+mnt-by:             DOCTOR-MNT
+source:             DN42
