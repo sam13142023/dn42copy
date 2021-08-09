@@ -1,6 +1,7 @@
 route:              10.127.99.0/24
 max-length:         29
 origin:             AS4201270099
+origin:             AS4242423699
 admin-c:            TSINGYAO-NEONETWORK
 tech-c:             TSINGYAO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
