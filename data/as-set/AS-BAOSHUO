@@ -1,6 +1,12 @@
 as-set:             AS-BAOSHUO
+remarks:            +--------------------------+
+remarks:            |   Baoshuo DN42 Network   |
+remarks:            |                          |
+remarks:            | https://dn42.baoshuo.ren |
+remarks:            +--------------------------+
 members:            AS141776
 members:            AS4242420247
+members:            AS4201270017
 admin-c:            BAOSHUO-DN42
 tech-c:             BAOSHUO-DN42
 mnt-by:             BAOSHUO-MNT

@@ -1,4 +1,4 @@
-route6:             fdbb:7278:face::/48
+route6:             fd42:4242:247::/48
 descr:              Baoshuo DN42 Network IPv6 Block
 origin:             AS141776
 origin:             AS4242420247
