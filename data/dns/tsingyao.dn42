@@ -2,8 +2,10 @@ domain:             tsingyao.dn42
 admin-c:            TSINGYAO-DN42
 tech-c:             TSINGYAO-DN42
 mnt-by:             TSINGYAO-MNT
-nserver:            ns1.tsingyao.dn42 172.22.150.1
-nserver:            ns1.tsingyao.dn42 fdfb:d500:a158::1
-nserver:            ns2.tsingyao.dn42 172.22.150.2
-nserver:            ns2.tsingyao.dn42 fdfb:d500:a158::2
+country:            CN
+nserver:            ns1.dnswol.dn42
+nserver:            ns2.dnswol.dn42
+ds-rdata:           993 14 1 80decaec82e2daa6ceb512c58c0883fcb66b59bb
+ds-rdata:           993 14 2 9c3efe8f9f674f97fc6b64cb45005cdc5924f2acd637563c0ad080bfb8592f8d
+ds-rdata:           993 14 4 baa0c8941d52e25900d09c1effbac5b88fe97ac35de4074a7e539071fece7958f346e8236269dcac42f4867a1f33c05b
 source:             DN42
