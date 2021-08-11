@@ -1,4 +1,5 @@
 route:              172.20.192.192/26
 origin:             AS210969
+origin:             AS4242422259
 mnt-by:             TNKOCH-MNT
 source:             DN42
