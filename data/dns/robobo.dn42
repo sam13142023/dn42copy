@@ -1,0 +1,7 @@
+domain:             robobo.dn42
+admin-c:            ROBOBO-DN42
+tech-c:             ROBOBO-DN42
+mnt-by:             ROBOBO-MNT
+nserver:            ns1.robobo.dn42 172.23.5.3
+nserver:            ns1.robobo.dn42 fd75:fd19:617d::3
+source:             DN42
