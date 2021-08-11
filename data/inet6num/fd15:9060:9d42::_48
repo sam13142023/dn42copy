@@ -1,0 +1,10 @@
+inet6num:           fd15:9060:9d42:0000:0000:0000:0000:0000 - fd15:9060:9d42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd15:9060:9d42::/48
+netname:            SUNBREAD-IPV6
+descr:              Sunbread IPv6 Network
+country:            CN
+admin-c:            SUNBREAD-DN42
+tech-c:             SUNBREAD-DN42
+mnt-by:             SUNBREAD-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.62.160/27
+origin:             AS4242420924
+mnt-by:             SUNBREAD-MNT
+source:             DN42
