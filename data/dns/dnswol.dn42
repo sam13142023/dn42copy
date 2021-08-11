@@ -1,0 +1,13 @@
+domain:             dnswol.dn42
+admin-c:            TSINGYAO-DN42
+tech-c:             TSINGYAO-DN42
+mnt-by:             TSINGYAO-MNT
+country:            CN
+nserver:            ns1.dnswol.dn42 172.22.155.50
+nserver:            ns1.dnswol.dn42 fd42:4242:3699:32::1
+nserver:            ns2.dnswol.dn42 172.22.155.51
+nserver:            ns2.dnswol.dn42 fd42:4242:3699:33::1
+ds-rdata:           6346 14 1 0580e5e10c8354b24c9213e2c2085b4c1b470c76
+ds-rdata:           6346 14 2 28f4a24ff4a2d885dafa06e777ba78853a44c239e1322d2e189c408b66837df0
+ds-rdata:           6346 14 4 438f67eed9f8873b68c57eb7507177849607bfa90167e765580e96d9ba8a873a7600747991a347a7654f73f78fbdef88
+source:             DN42

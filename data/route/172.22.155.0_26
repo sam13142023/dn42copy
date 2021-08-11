@@ -1,5 +1,6 @@
 route:              172.22.155.0/26
 descr:              Peer with me at yujintong@126.com
 origin:             AS4242423699
+origin:             AS4201270099
 mnt-by:             TSINGYAO-MNT
 source:             DN42
