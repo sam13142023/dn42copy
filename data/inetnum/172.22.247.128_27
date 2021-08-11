@@ -1,0 +1,8 @@
+inetnum:            172.22.247.128 - 172.22.247.159
+cidr:               172.22.247.128/27
+netname:            SNOW-NET-2
+admin-c:            SNOW-DN42
+tech-c:             SNOW-DN42
+mnt-by:             SNOW-MNT
+status:             ASSIGNED
+source:             DN42
