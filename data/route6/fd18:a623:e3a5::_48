@@ -1,0 +1,5 @@
+route6:             fd18:a623:e3a5::/48
+origin:             AS4242421902
+max-length:         48
+mnt-by:             DPOQUET-MNT
+source:             DN42

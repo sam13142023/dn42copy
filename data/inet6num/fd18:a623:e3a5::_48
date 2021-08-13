@@ -1,0 +1,8 @@
+inet6num:           fd18:a623:e3a5:0000:0000:0000:0000:0000 - fd18:a623:e3a5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd18:a623:e3a5::/48
+netname:            CAFEINA-NET
+admin-c:            DPOQUET-DN42
+tech-c:             DPOQUET-DN42
+mnt-by:             DPOQUET-MNT
+status:             ASSIGNED
+source:             DN42
