@@ -1,0 +1,8 @@
+inet6num:           fd0c:3cf7:8002:0000:0000:0000:0000:0000 - fd0c:3cf7:8002:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0c:3cf7:8002::/48
+netname:            SNOW-NET-1
+admin-c:            SNOW-DN42
+tech-c:             SNOW-DN42
+mnt-by:             SNOW-MNT
+status:             ASSIGNED
+source:             DN42

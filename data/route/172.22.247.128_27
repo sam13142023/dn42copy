@@ -1,0 +1,4 @@
+route:              172.22.247.128/27
+origin:             AS4242422808
+mnt-by:             SNOW-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             SNOW-MNT
+admin-c:            SNOW-DN42
+tech-c:             SNOW-DN42
+mnt-by:             SNOW-MNT
+auth:               pgp-fingerprint 96BD73741D182C51FE161DDC716053928D56CBEF
+source:             DN42

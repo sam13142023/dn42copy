@@ -1,0 +1,4 @@
+route6:             fd0c:3cf7:8002::/48
+origin:             AS4242422808
+mnt-by:             SNOW-MNT
+source:             DN42
