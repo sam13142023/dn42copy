@@ -1,0 +1,8 @@
+aut-num:            AS142642
+as-name:            ATONAL-AS-AP
+descr:              Atonal System DN42
+remarks:            AS142642
+admin-c:            ACE-DN42
+tech-c:             ACE-DN42
+mnt-by:             ACE-MNT
+source:             APNIC
