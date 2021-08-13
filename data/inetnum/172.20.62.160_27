@@ -1,0 +1,9 @@
+inetnum:            172.20.62.160 - 172.20.62.191
+cidr:               172.20.62.160/27
+netname:            SUNBREAD-IPV4
+descr:              Sunbread IPv4 Network
+admin-c:            SUNBREAD-DN42
+tech-c:             SUNBREAD-DN42
+mnt-by:             SUNBREAD-MNT
+status:             ASSIGNED
+source:             DN42

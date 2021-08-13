@@ -1,0 +1,5 @@
+route6:             fd15:9060:9d42::/48
+origin:             AS4242420924
+max-length:         48
+mnt-by:             SUNBREAD-MNT
+source:             DN42

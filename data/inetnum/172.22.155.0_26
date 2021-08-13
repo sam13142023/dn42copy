@@ -7,7 +7,10 @@ country:            CN
 admin-c:            TSINGYAO-DN42
 tech-c:             TSINGYAO-DN42
 mnt-by:             TSINGYAO-MNT
-nserver:            ns1.tsingyao.dn42
-nserver:            ns2.tsingyao.dn42
+nserver:            ns1.dnswol.dn42
+nserver:            ns2.dnswol.dn42
+ds-rdata:           64881 14 1 dde14d2235541be75cbf9a8359fe1b65b587a1d0
+ds-rdata:           64881 14 2 f319a479db36ed32476a99432af057a746d4eaee54e4257d431b760705d11f44
+ds-rdata:           64881 14 4 5585b19b34eec6b32b73da10dd1ed98bc0a11578d6dde0a221d864f9630b66ffc4198edd6a625924b7a310f9de88d86b
 status:             ASSIGNED
 source:             DN42
