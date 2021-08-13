@@ -6,5 +6,6 @@ country:            SE
 admin-c:            ROBOBO-DN42
 tech-c:             ROBOBO-DN42
 mnt-by:             ROBOBO-MNT
+nserver:            ns1.robobo.dn42
 status:             ASSIGNED
 source:             DN42
