@@ -1,0 +1,12 @@
+inetnum:            172.23.75.64 - 172.23.75.127
+netname:            ACE-DN42-IPv4
+remarks:            Peer with me at tg:@Ace_Rye_Skywalker
+descr:              Peer with me at tg:@Ace_Rye_Skywalker
+country:            CN
+admin-c:            ACE-DN42
+tech-c:             ACE-DN42
+mnt-by:             ACE-MNT
+nserver:            ns.atonal.dn42
+status:             ASSIGNED
+cidr:               172.23.75.64/26
+source:             DN42

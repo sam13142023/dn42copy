@@ -1,0 +1,7 @@
+mntner:             ACE-MNT
+admin-c:            ACE-DN42
+tech-c:             ACE-DN42
+mnt-by:             ACE-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINWYRcON8etMRsnxqptXpcvUxkW9tVvYSaJb9VXDzg7b Reply_M@iCloud.com
+remarks:            ACE

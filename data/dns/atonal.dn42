@@ -1,0 +1,7 @@
+domain:             atonal.dn42
+admin-c:            ACE-DN42
+tech-c:             ACE-DN42
+mnt-by:             ACE-MNT
+nserver:            ns1.atonal.dn42 172.23.75.64
+nserver:            ns1.atonal.dn42 fd98:7769:12c8::
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd98:7769:12c8:0000:0000:0000:0000:0000 - fd98:7769:12c8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd98:7769:12c8::/48
+netname:            ACE-DN42-IPv6
+descr:              Peer with me at tg:@Ace_Rye_Skywalker
+country:            CN
+admin-c:            ACE-DN42
+tech-c:             ACE-DN42
+mnt-by:             ACE-MNT
+nserver:            ns.atonal.dn42
+status:             ASSIGNED
+source:             DN42
