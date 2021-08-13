@@ -1,0 +1,9 @@
+inetnum:            172.23.173.32 - 172.23.173.63
+cidr:               172.23.173.32/27
+netname:            STEVENSUN-NETWORK
+admin-c:            STEVENSUN-DN42
+tech-c:             STEVENSUN-DN42
+mnt-by:             STEVENSUN-MNT
+status:             ASSIGNED
+country:            CN
+source:             DN42
