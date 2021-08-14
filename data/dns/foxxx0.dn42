@@ -1,0 +1,8 @@
+domain:             foxxx0.dn42
+descr:              foxxx0's tinker place
+admin-c:            FOXXX0-DN42
+tech-c:             FOXXX0-DN42
+mnt-by:             FOXXX0-MNT
+nserver:            ns.foxxx0.dn42 172.22.169.193
+nserver:            ns.foxxx0.dn42 fd23:15eb:6969::53
+source:             DN42
