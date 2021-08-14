@@ -1,0 +1,11 @@
+inet6num:           fd23:15eb:6969:0000:0000:0000:0000:0000 - fd23:15eb:6969:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:15eb:6969::/48
+netname:            FOXNET-IPV6-1
+descr:              Network of foxxx0
+country:            DE
+admin-c:            FOXXX0-DN42
+tech-c:             FOXXX0-DN42
+mnt-by:             FOXXX0-MNT
+status:             ASSIGNED
+nserver:            ns.foxxx0.dn42
+source:             DN42
