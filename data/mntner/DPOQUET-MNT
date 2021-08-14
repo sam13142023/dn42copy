@@ -1,0 +1,6 @@
+mntner:             DPOQUET-MNT
+admin-c:            DPOQUET-DN42
+tech-c:             DPOQUET-DN42
+mnt-by:             DPOQUET-MNT
+auth:               pgp-fingerprint 4688A60C5C92312E5D095599699AB60FDE16ED53
+source:             DN42
