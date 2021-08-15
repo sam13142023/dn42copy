@@ -4,5 +4,6 @@ netname:            CAFEINA-NET
 admin-c:            DPOQUET-DN42
 tech-c:             DPOQUET-DN42
 mnt-by:             DPOQUET-MNT
+nserver:            ns1.cafeina.dn42
 status:             ASSIGNED
 source:             DN42
