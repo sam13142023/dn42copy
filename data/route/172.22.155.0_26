@@ -1,6 +1,18 @@
 route:              172.22.155.0/26
-descr:              Peer with me at yujintong@126.com
 origin:             AS4242423699
 origin:             AS4201270099
+origin:             AS210903
 mnt-by:             TSINGYAO-MNT
 source:             DN42
+descr:              TsingYao Network
+remarks:            Tsingyao http://www.tsingyao.dn42 | https://dn42.tsingyao.pub
+remarks:            --------------------------------------------------------
+remarks:            Always happy to peer with you ! Contact me for peering :
+remarks:            email: yujintong@126.com | Telegram : yujintong
+remarks:            Looking Glass : http://lg.tsingyao.dn42 | https://lg.tsingyao.pub
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Web site : https://dn42.tsingyao.pub/
+remarks:            - Wireguard preferred
+remarks:            - Support Multi-Protocol over BGPv6
+remarks:            --------------------------------------------------------
