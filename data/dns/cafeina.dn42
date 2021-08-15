@@ -1,0 +1,7 @@
+domain:             cafeina.dn42
+admin-c:            DPOQUET-DN42
+tech-c:             DPOQUET-DN42
+mnt-by:             DPOQUET-MNT
+nserver:            ns1.cafeina.dn42 172.20.195.165
+nserver:            ns1.cafeina.dn42 fd18:a623:e3a5:1000:53::5
+source:             DN42
