@@ -4,6 +4,7 @@ netname:            PEER1NG-V4-NET-1
 admin-c:            TNKOCH-DN42
 tech-c:             TNKOCH-DN42
 mnt-by:             TNKOCH-MNT
+nserver:            ns1.peer1ng.dn42
 org:                ORG-PEER1NG
 status:             ASSIGNED
 source:             DN42
