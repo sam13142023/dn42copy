@@ -1,12 +1,9 @@
 domain:             fixmix.dn42
-descr:              fixmix Technologies Ltd
+descr:              fixmix Technologies
 org:                ORG-FIXMIX
-nserver:            ns1.fixmix.dn42 172.22.66.59
-nserver:            ns1.fixmix.dn42 fda1:ae59:6dd0:11::
-nserver:            ns2.fixmix.dn42 172.22.66.54
-nserver:            ns2.fixmix.dn42 fda1:ae59:6dd0:21::
-nserver:            ns3.fixmix.dn42 172.22.66.52
-nserver:            ns3.fixmix.dn42 fda1:ae59:6dd0:31::
+nserver:            ns1.potato.dn42
+nserver:            ns2.potato.dn42
+nserver:            ns3.potato.dn42
 ds-rdata:           6918 7 2 DBC977B574BFAA2AC76D58EF1D756F925123A2569F479C98EAC7819D5C3CE72A
 admin-c:            DL-DN42
 tech-c:             DL-DN42

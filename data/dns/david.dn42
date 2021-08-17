@@ -1,8 +1,8 @@
 domain:             david.dn42
 descr:              David Zhixu Liu
-nserver:            ns1.fixmix.dn42
-nserver:            ns2.fixmix.dn42
-nserver:            ns3.fixmix.dn42
+nserver:            ns1.potato.dn42
+nserver:            ns2.potato.dn42
+nserver:            ns3.potato.dn42
 ds-rdata:           1246 7 2 AA981AF0F0A4F25A515AD4C10231D04044E144DC59E91F9C66E90894B7EEE252
 admin-c:            DL-DN42
 tech-c:             DL-DN42

@@ -1,7 +1,9 @@
-as-set:             AS-FIXMIX42:AS-TRANSIT
-descr:              fixmix Technologies DN42 Transit as-set
+as-set:             AS-POTATO:AS-DOWNSTREAM
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
+remarks:            Leaf (unidirectional transit) Peers
 remarks:            ══════════════════════════════
-members:            AS4242421876:AS-TRANSIT
+members:            AS4242421876:AS-DOWNSTREAM
 remarks:            ══════════════════════════════
 admin-c:            DL-DN42
 tech-c:             DL-DN42

@@ -1,44 +1,68 @@
 aut-num:            AS4242421876
-as-name:            FIXMIX-42
-descr:              fixmix DN42 Network
-org:                ORG-FIXMIX
-member-of:          AS-FIXMIX42
-mp-import:          afi any.unicast from AS-FIXMIX42:AS-TRANSIT accept ANY
-mp-export:          afi any.unicast to AS-FIXMIX42:AS-TRANSIT announce ANY
-mp-import:          afi any.unicast from AS-FIXMIX42:AS-DOWNSTREAM accept PeerAS
-mp-export:          afi any.unicast to AS-FIXMIX42:AS-DOWNSTREAM announce ANY
+as-name:            POTATO-42
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
+member-of:          AS-POTATO
+mp-import:          afi any.unicast from AS-POTATO:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-POTATO:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-POTATO:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-POTATO:AS-DOWNSTREAM announce ANY
 remarks:            ╔══════════════════════════════════════════════╗
-remarks:            ║  fixmix DN42 Network     ·     AS4242421876  ║
+remarks:            ║  PotatoNet @ DN42              AS4242421876  ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Tier 1 Network certified by info.nia.dn42  ║
-remarks:            ║ * Direct connections to 90+ networks         ║
+remarks:            ║ * Direct connections to 90+ networks,        ║
 remarks:            ║   including Freifunk ICVPN & ChaosVPN        ║
-remarks:            ║ * Open Peering Policy                        ║
+remarks:            ║ * Open peering policy                        ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * 18 Nodes Available for Peering:            ║
-remarks:            ║   - Nuremberg, Germany                       ║
-remarks:            ║   - Frankfurt, Germany                       ║
-remarks:            ║   - Amsterdam, Netherlands (*2)              ║
-remarks:            ║   - Moscow, Russia                           ║
-remarks:            ║   - Los Angeles, United States               ║
-remarks:            ║   - New York City, United States             ║
-remarks:            ║   - Chicago, United States                   ║
-remarks:            ║   - Las Vegas, United States                 ║
-remarks:            ║   - Vancouver, Canada                        ║
-remarks:            ║   - Hong Kong, China (*2)                    ║
-remarks:            ║   - Tokyo, Japan                             ║
-remarks:            ║   - Singapore                                ║
-remarks:            ║   - Shanghai, China                          ║
-remarks:            ║   - Shenyang, China (*2)                     ║
-remarks:            ║   - Auckland, New Zealand                    ║
+remarks:            ║ * 35 nodes available for peering:            ║
+remarks:            ║  > Europe                                    ║
+remarks:            ║   - 101 Nuremberg, DE                        ║
+remarks:            ║   - 102 Frankfurt, DE                        ║
+remarks:            ║   - 103 Amsterdam, NL                        ║
+remarks:            ║   - 104 Bissen, LU                           ║
+remarks:            ║   - 105 Vitry-sur-Seine, FR                  ║
+remarks:            ║   - 106 Rome, IT                             ║
+remarks:            ║   - 107 Falkenstein, DE                      ║
+remarks:            ║   - 108 Falkenstein, DE                      ║
+remarks:            ║   - 109 Haarlem, NL                          ║
+remarks:            ║   - 110 Haarlem, NL                          ║
+remarks:            ║   - 111 Dronten, NL                          ║
+remarks:            ║   - 112 Dusseldorf, DE                       ║
+remarks:            ║  > North America                             ║
+remarks:            ║   - 201 Los Angeles, US                      ║
+remarks:            ║   - 202 New York City, US                    ║
+remarks:            ║   - 203 Chicago, US                          ║
+remarks:            ║   - 204 Las Vegas, US                        ║
+remarks:            ║   - 205 Vancouver, CA                        ║
+remarks:            ║   - 206 Central Illinois, US                 ║
+remarks:            ║   - 207 Fremont, US                          ║
+remarks:            ║   - 208 Kansas City, US                      ║
+remarks:            ║   - 209 Miami, US                            ║
+remarks:            ║  > Asia                                      ║
+remarks:            ║   - 301 Hong Kong, CN                        ║
+remarks:            ║   - 302 Hong Kong, CN                        ║
+remarks:            ║   - 303 Tokyo, JP                            ║
+remarks:            ║   - 304 Singapore, SG                        ║
+remarks:            ║   - 305 Shanghai, CN                         ║
+remarks:            ║   - 306 Shenyang, CN                         ║
+remarks:            ║   - 307 Shenyang, CN                         ║
+remarks:            ║   - 308 Guangzhou, CN                        ║
+remarks:            ║   - 309 Seoul, KR                            ║
+remarks:            ║   - 310 Khabarovsk, RU                       ║
+remarks:            ║   - 311 Shenyang, CN                         ║
+remarks:            ║   - 312 Hangzhou, CN                         ║
+remarks:            ║   - 313 Wuhan, CN                            ║
+remarks:            ║  > Oceania                                   ║
+remarks:            ║   - 401 Auckland, NZ                         ║
 remarks:            ║══════════════════════════════════════════════║
-remarks:            ║ * Info Page: fixmix.dn42         (DN42)      ║
+remarks:            ║ * Info Page: potato.dn42         (DN42)      ║
 remarks:            ║              bit.ly/1876-info    (external)  ║
-remarks:            ║ * Looking Glass: lg.fixmix.dn42  (DN42)      ║
+remarks:            ║ * Looking Glass: lg.potato.dn42  (DN42)      ║
 remarks:            ║                  bit.ly/1876-lg  (external)  ║
 remarks:            ║══════════════════════════════════════════════║
 remarks:            ║ * Contact:                                   ║
-remarks:            ║   - Email: ops@fixmix.network                ║
+remarks:            ║   - Email: operations@potatonet.dliu.me      ║
 remarks:            ║   - IRC: p0tat05 @ hackint                   ║
 remarks:            ║   - Telegram: @p0tat05                       ║
 remarks:            ╚══════════════════════════════════════════════╝

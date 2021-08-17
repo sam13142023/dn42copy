@@ -1,7 +1,6 @@
-aut-num:            AS211876
-as-name:            FIXMIX-GEN
-descr:              fixmix Technologies
-org:                ORG-FIXMIX
+aut-num:            AS17830
+as-name:            POTATO-AS-AP
+descr:              David Liu aka PotatoNet
 member-of:          AS-POTATO
 remarks:            ╔═════════════════════════════════════╗
 remarks:            ║          PotatoNet @ DN42           ║
@@ -11,4 +10,4 @@ remarks:            ╚═══════════════════
 admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT
-source:             RIPE
+source:             APNIC
