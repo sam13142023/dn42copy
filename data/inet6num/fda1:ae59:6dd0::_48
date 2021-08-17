@@ -1,11 +1,12 @@
 inet6num:           fda1:ae59:6dd0:0000:0000:0000:0000:0000 - fda1:ae59:6dd0:ffff:ffff:ffff:ffff:ffff
 cidr:               fda1:ae59:6dd0::/48
-netname:            FIXMIX-NET6-42A
-descr:              fixmix Technologies DN42 IPv6 Block
-org:                ORG-FIXMIX
-nserver:            ns1.fixmix.dn42
-nserver:            ns2.fixmix.dn42
-nserver:            ns3.fixmix.dn42
+netname:            POTATO-42-NET6-A
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
+country:            CN
+nserver:            ns1.potato.dn42
+nserver:            ns2.potato.dn42
+nserver:            ns3.potato.dn42
 ds-rdata:           62409 7 2 7F387E646C5472025CA83D74025267824D6D9D6F0F5FCEBAF11330A690BE6328
 admin-c:            DL-DN42
 tech-c:             DL-DN42

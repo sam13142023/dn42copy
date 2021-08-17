@@ -1,8 +1,10 @@
-as-set:             AS-FIXMIX42
-descr:              fixmix Technologies DN42 as-set
+as-set:             AS-POTATO
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
 mbrs-by-ref:        DL-MNT
 members:            AS4242421876
 members:            AS4201270021
+members:            AS17830
 members:            AS211876
 admin-c:            DL-DN42
 tech-c:             DL-DN42

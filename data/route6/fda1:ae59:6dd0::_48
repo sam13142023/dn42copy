@@ -1,6 +1,9 @@
 route6:             fda1:ae59:6dd0::/48
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
 origin:             AS4242421876
 origin:             AS4201270021
+origin:             AS17830
 origin:             AS211876
 max-length:         48
 mnt-by:             DL-MNT

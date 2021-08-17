@@ -1,0 +1,14 @@
+domain:             potato.dn42
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
+nserver:            ns1.potato.dn42 172.22.66.59
+nserver:            ns1.potato.dn42 fda1:ae59:6dd0:1010::1
+nserver:            ns2.potato.dn42 172.22.66.54
+nserver:            ns2.potato.dn42 fda1:ae59:6dd0:2010::1
+nserver:            ns3.potato.dn42 172.22.66.52
+nserver:            ns3.potato.dn42 fda1:ae59:6dd0:3010::1
+ds-rdata:           4401 7 2 EFFFA8616609919BB738AF944D07B2330BC355078A99A526B88AA62614DA8970
+admin-c:            DL-DN42
+tech-c:             DL-DN42
+mnt-by:             DL-MNT
+source:             DN42

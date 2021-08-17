@@ -1,18 +1,11 @@
 organisation:       ORG-FIXMIX
 org-name:           fixmix Technologies Ltd
-address:            286211 / Via House
-address:            26c Hazel Road
-address:            Southampton SO19 7GA
+address:            Office 1, 83 Ducie Street
+address:            Manchester M1 2JQ
 address:            United Kingdom
 e-mail:             mgmt@fixmix.tech
 phone:              +44 333 339 1678
 www:                https://fixmix.tech
-remarks:            ═════════════════════════
-remarks:            Network Operations Team
-e-mail:             ops@fixmix.network
-abuse-mailbox:      abuse@fixmix.network
-www:                https://fixmix.network
-remarks:            ═════════════════════════
 admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT

@@ -1,11 +1,13 @@
 inetnum:            172.23.66.0 - 172.23.66.63
 cidr:               172.23.66.0/26
-netname:            FIXMIX-NET4-42B
-descr:              fixmix Technologies DN42 IPv4 Block
-org:                ORG-FIXMIX
-nserver:            ns1.fixmix.dn42
-nserver:            ns2.fixmix.dn42
-nserver:            ns3.fixmix.dn42
+netname:            POTATO-42-NET4-B
+descr:              PotatoNet @ DN42
+remarks:            previously known as "fixmix DN42 Network"
+country:            CN
+nserver:            ns1.potato.dn42
+nserver:            ns2.potato.dn42
+nserver:            ns3.potato.dn42
+ds-rdata:           8106 7 2 836313D484582EC7940AEB89CD09258A2FEBAB25287AA35951EA16B28D2FDC9C
 admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT
