@@ -1,0 +1,5 @@
+route6:             fd42:1806:1806::/48
+origin:             AS4242421806
+max-length:         48
+mnt-by:             QLEX-MNT
+source:             DN42
