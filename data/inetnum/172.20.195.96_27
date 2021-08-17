@@ -1,0 +1,13 @@
+inetnum:            172.20.195.96 - 172.20.195.127
+netname:            Milkfish-Backdoor
+descr:              Dogs in yard, plz knock on front door _(:з」∠)_
+remarks:            peer plz contact email:sdjnmxd95@gmail.com or telegram:sdjnmxd
+country:            CN
+admin-c:            MILKFISH-DN42
+tech-c:             MILKFISH-DN42
+mnt-by:             MILKFISH-MNT
+nserver:            ns1.milkfish.dn42
+nserver:            ns2.milkfish.dn42
+status:             ASSIGNED
+cidr:               172.20.195.96/27
+source:             DN42

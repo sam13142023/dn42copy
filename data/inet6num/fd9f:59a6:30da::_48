@@ -1,0 +1,13 @@
+inet6num:           fd9f:59a6:30da:0000:0000:0000:0000:0000 - fd9f:59a6:30da:ffff:ffff:ffff:ffff:ffff
+netname:            Milkfish-Backdoor
+descr:              Dogs in yard, plz knock on front door _(:з」∠)_
+remarks:            peer plz contact email:sdjnmxd95@gmail.com or telegram:sdjnmxd
+country:            CN
+admin-c:            MILKFISH-DN42
+tech-c:             MILKFISH-DN42
+mnt-by:             MILKFISH-MNT
+nserver:            ns1.milkfish.dn42
+nserver:            ns2.milkfish.dn42
+status:             ASSIGNED
+cidr:               fd9f:59a6:30da::/48
+source:             DN42
