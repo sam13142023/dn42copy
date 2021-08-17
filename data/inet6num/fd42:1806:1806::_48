@@ -1,0 +1,9 @@
+inet6num:           fd42:1806:1806:0000:0000:0000:0000:0000 - fd42:1806:1806:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1806:1806::/48
+netname:            QLEX-NETWORK
+descr:              Network of qlex
+admin-c:            QLEX-DN42
+tech-c:             QLEX-DN42
+mnt-by:             QLEX-MNT
+status:             ASSIGNED
+source:             DN42
