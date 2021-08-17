@@ -1,0 +1,6 @@
+mntner:             MILKFISH-MNT
+admin-c:            MILKFISH-DN42
+tech-c:             MILKFISH-DN42
+mnt-by:             MILKFISH-MNT
+source:             DN42
+auth:               pgp-fingerprint 84EA5516B20C35A758F155C7C3BBCD7D440F119C

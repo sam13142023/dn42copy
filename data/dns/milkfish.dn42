@@ -1,0 +1,10 @@
+domain:             milkfish.dn42
+admin-c:            MILKFISH-DN42
+tech-c:             MILKFISH-DN42
+mnt-by:             MILKFISH-MNT
+remarks:            peer plz contact email:sdjnmxd95@gmail.com or telegram:sdjnmxd
+nserver:            ns1.milkfish.dn42 fd9f:59a6:30da::1
+nserver:            ns2.milkfish.dn42 fd9f:59a6:30da::2
+nserver:            ns1.milkfish.dn42 172.20.195.97
+nserver:            ns2.milkfish.dn42 172.20.195.98
+source:             DN42
