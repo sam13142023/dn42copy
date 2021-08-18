@@ -1,0 +1,5 @@
+route6:             fd19:3474:7628::/48
+descr:              Route for 0X6
+origin:             AS4242420588
+mnt-by:             0X6-MNT
+source:             DN42

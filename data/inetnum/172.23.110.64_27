@@ -1,0 +1,8 @@
+inetnum:            172.23.110.64 - 172.23.110.95
+netname:            0X6-NETWORK
+admin-c:            LEVI-DN42
+tech-c:             LEVI-DN42
+mnt-by:             0X6-MNT
+status:             ASSIGNED
+cidr:               172.23.110.64/27
+source:             DN42
