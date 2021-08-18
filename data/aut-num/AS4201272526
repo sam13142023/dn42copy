@@ -1,0 +1,8 @@
+aut-num:            AS4201272526
+as-name:            ANILLC-AS-NEO
+remarks:            Anillc NEO Network
+admin-c:            ANILLC-NEONETWORK
+tech-c:             ANILLC-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
