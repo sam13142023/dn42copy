@@ -1,0 +1,10 @@
+inet6num:           fd19:3474:7628:0000:0000:0000:0000:0000 - fd19:3474:7628:ffff:ffff:ffff:ffff:ffff
+cidr:               fd19:3474:7628::/48
+netname:            0X6-NETWORK
+descr:              0X6
+country:            US
+admin-c:            LEVI-DN42
+tech-c:             LEVI-DN42
+mnt-by:             0X6-MNT
+status:             ASSIGNED
+source:             DN42

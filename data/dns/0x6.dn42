@@ -1,0 +1,9 @@
+domain:             0x6.dn42
+admin-c:            LEVI-DN42
+tech-c:             LEVI-DN42
+mnt-by:             0X6-MNT
+nserver:            ns1.0x6.dn42 172.23.110.65
+nserver:            ns1.0x6.dn42 fd19:3474:7628::65
+nserver:            ns2.0x6.dn42 172.23.110.66
+nserver:            ns2.0x6.dn42 fd19:3474:7628::66
+source:             DN42
