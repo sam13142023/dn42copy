@@ -1,0 +1,10 @@
+inet6num:           fdfc:00f2:54cd:0000:0000:0000:0000:0000 - fdfc:00f2:54cd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:f2:54cd::/48
+netname:            JCDEA-NETWORK
+descr:              JcdeA's Network
+country:            KR
+admin-c:            JCDEA-DN42
+tech-c:             JCDEA-DN42
+mnt-by:             JCDEA-MNT
+status:             ASSIGNED
+source:             DN42
