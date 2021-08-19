@@ -110,8 +110,26 @@ fi
 
 ##########################################################################
 
+# ensure the local branch is up to date
+echo "Fetching dn42registry master"
+git fetch dn42registry master
+if [ $? -ne 0 ]
+then
+    echo 'ERROR: Failed to fetch registry master branch'
+    echo 'Hint: you can use --ssh/--https to force use of ssh or https'
+    echo 'If all else fails, you can also set the DN42_REG_URL'
+    echo 'environment variable to directly specify the URL to fetch'
+    exit 1
+fi
+
 # find number of local commits
 count=$(git rev-list --count HEAD ^dn42registry/master)
+if [ $? -ne 0 ]
+then
+   echo "ERROR: Failed to find the number of local commits"
+   echo "Please report this as a bug to the registry maintainters"
+   exit 1
+fi
 
 # if there are less then 2 local commits, there's nothing to do
 if [ "$count" -lt 2 ]
@@ -126,22 +144,11 @@ then
     exit 1
 fi
 
-# ensure the local branch is up to date
-echo 'Rebasing local changes against the registry master'
-git fetch dn42registry master
-if [ $? -ne 0 ]
-then
-    echo 'ERROR: Failed to fetch registry master branch'
-    echo 'Hint: you can use --ssh/--https to force use of ssh or https'
-    echo 'If all else fails, you can also set the DN42_REG_URL'
-    echo 'environment variable to directly specify the URL to fetch'
-    exit 1
-fi
-
 # fail on errors from here onwards
 set -e
 
 # do the rebase thing
+echo 'Rebasing local changes against the registry master'
 git rebase dn42registry/master
 
 echo 'Squashing $count commits ...'
