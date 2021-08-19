@@ -1,0 +1,6 @@
+mntner:             JCDEA-MNT
+admin-c:            JCDEA-DN42
+tech-c:             JCDEA-DN42
+mnt-by:             JCDEA-MNT
+auth:               pgp-fingerprint 4DB8591A065AFB947025C1B069F246C61805B928
+source:             DN42
