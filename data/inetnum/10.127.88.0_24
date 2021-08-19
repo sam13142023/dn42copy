@@ -1,0 +1,8 @@
+inetnum:            10.127.88.0 - 10.127.88.255
+cidr:               10.127.88.0/24
+netname:            Hydro-Neo-Network-4
+admin-c:            UNDEFINED-MOE-NEONETWORK
+tech-c:             UNDEFINED-MOE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,8 @@
+route6:             fd10:127:88::/48
+max-length:         64
+origin:             AS4201279999
+admin-c:            UNDEFINED-MOE-NEONETWORK
+tech-c:             UNDEFINED-MOE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
