@@ -1,0 +1,5 @@
+route6:             fd11:552f:74db::/48
+descr:              Peer with me at dgy@dgy.xyz
+origin:             AS4242420826
+mnt-by:             DGY-MNT
+source:             DN42

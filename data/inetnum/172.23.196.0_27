@@ -1,0 +1,13 @@
+inetnum:            172.23.196.0 - 172.23.196.31
+netname:            DGY-IPV4
+remarks:            Peer with me at dgy@dgy.xyz
+descr:              Peer with me at dgy@dgy.xyz
+country:            CN
+admin-c:            DGY-DN42
+tech-c:             DGY-DN42
+mnt-by:             DGY-MNT
+nserver:            ns1.dgy.dn42
+nserver:            ns2.dgy.dn42
+status:             ASSIGNED
+cidr:               172.23.196.0/27
+source:             DN42

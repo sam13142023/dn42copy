@@ -1,0 +1,12 @@
+inet6num:           fd11:552f:74db:0000:0000:0000:0000:0000 - fd11:552f:74db:ffff:ffff:ffff:ffff:ffff
+netname:            DGY-IPV6
+descr:              Peer with me at dgy@dgy.xyz
+country:            CN
+admin-c:            DGY-DN42
+tech-c:             DGY-DN42
+mnt-by:             DGY-MNT
+nserver:            ns1.dgy.dn42
+nserver:            ns2.dgy.dn42
+status:             ASSIGNED
+cidr:               fd11:552f:74db::/48
+source:             DN42
