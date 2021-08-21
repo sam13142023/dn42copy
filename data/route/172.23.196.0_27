@@ -1,0 +1,5 @@
+route:              172.23.196.0/27
+descr:              Peer with me at dgy@dgy.xyz
+origin:             AS4242420826
+mnt-by:             DGY-MNT
+source:             DN42

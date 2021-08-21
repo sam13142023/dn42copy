@@ -1,0 +1,7 @@
+aut-num:            AS4242420826
+as-name:            DGY-AS
+descr:              Peer with me at dgy@dgy.xyz
+admin-c:            DGY-DN42
+tech-c:             DGY-DN42
+mnt-by:             DGY-MNT
+source:             DN42
