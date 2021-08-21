@@ -1,0 +1,8 @@
+inetnum:            172.23.24.160 - 172.23.24.191
+cidr:               172.23.24.160/27
+netname:            JCDEA-NET4
+admin-c:            JCDEA-DN42
+tech-c:             JCDEA-DN42
+mnt-by:             JCDEA-MNT
+status:             ASSIGNED
+source:             DN42
