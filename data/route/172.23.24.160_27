@@ -1,0 +1,4 @@
+route:              172.23.24.160/27
+origin:             AS4242420460
+mnt-by:             JCDEA-MNT
+source:             DN42
