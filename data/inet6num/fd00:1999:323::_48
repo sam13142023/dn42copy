@@ -1,0 +1,9 @@
+inet6num:           fd00:1999:0323:0000:0000:0000:0000:0000 - fd00:1999:0323:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:1999:323::/48
+netname:            CHESSKUO-DN42-IPv6
+country:            TW
+admin-c:            YCK-DN42
+tech-c:             YCK-DN42
+mnt-by:             CHESSKUO-MNT
+status:             ASSIGNED
+source:             DN42

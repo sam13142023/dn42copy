@@ -1,0 +1,4 @@
+route:              172.23.87.0/25
+origin:             AS4242420323
+mnt-by:             CHESSKUO-MNT
+source:             DN42

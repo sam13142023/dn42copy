@@ -1,0 +1,5 @@
+route6:             fd00:1999:323::/48
+origin:             AS4242420323
+max-length:         48
+mnt-by:             CHESSKUO-MNT
+source:             DN42

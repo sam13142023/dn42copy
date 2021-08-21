@@ -1,0 +1,9 @@
+inetnum:            172.23.87.0 - 172.23.87.127
+cidr:               172.23.87.0/25
+netname:            CHESSKUO-DN42-IPv4
+country:            TW
+admin-c:            YCK-DN42
+tech-c:             YCK-DN42
+mnt-by:             CHESSKUO-MNT
+status:             ASSIGNED
+source:             DN42
