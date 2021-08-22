@@ -1,0 +1,6 @@
+mntner:             ITY-MNT
+admin-c:            ITY-DN42
+tech-c:             ITY-DN42
+mnt-by:             ITY-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICkPrdhidQXIJh041lLSLrmca0RDiKrp6iFhBXl5vLfW root@vultr.guest

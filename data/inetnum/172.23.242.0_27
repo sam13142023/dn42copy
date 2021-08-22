@@ -1,0 +1,10 @@
+inetnum:            172.23.242.0-172.23.242.31
+netname:            ITY-IPV4
+descr:              peer with me at ity@keemail.me
+country:            HK
+admin-c:            ITY-DN42
+tech-c:             ITY-DN42
+mnt-by:             ITY-MNT
+status:             ASSIGNED
+cidr:               172.23.242.0/27
+source:             DN42
