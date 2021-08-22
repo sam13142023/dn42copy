@@ -1,6 +1,6 @@
 inetnum:            10.127.66.0 - 10.127.66.255
 cidr:               10.127.66.0/24
-netname:            FIXMIX-NET4-NEOA
+netname:            POTATO-NEO-NET4-A
 admin-c:            DAVID-LIU-NEONETWORK
 tech-c:             DAVID-LIU-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
