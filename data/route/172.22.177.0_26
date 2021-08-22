@@ -1,0 +1,4 @@
+route:              172.22.177.0/26
+origin:             AS4242422263
+mnt-by:             AZUKI-MNT
+source:             DN42

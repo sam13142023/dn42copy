@@ -1,0 +1,7 @@
+mntner:             AZUKI-MNT
+admin-c:            AZUKI-DN42
+tech-c:             AZUKI-DN42
+mnt-by:             AZUKI-MNT
+auth:               pgp-fingerprint 1C6CA4016125406612E5B97C1022262F9B7C10E3
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBvQdhalX8xxN/OKHfli27AROHsXauHSKc8YRr1EceeR
+source:             DN42
