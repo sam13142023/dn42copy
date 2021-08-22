@@ -1,0 +1,5 @@
+route6:             fdfd:22:46::/48
+origin:             AS4242422246
+max-length:         48
+mnt-by:             VENTILAAR-MNT
+source:             DN42

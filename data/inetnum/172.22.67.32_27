@@ -1,0 +1,8 @@
+inetnum:            172.22.67.32 - 172.22.67.63
+cidr:               172.22.67.32/27
+netname:            VENTILAAR-IPV4
+admin-c:            VENTILAAR-DN42
+tech-c:             VENTILAAR-DN42
+mnt-by:             VENTILAAR-MNT
+status:             ASSIGNED
+source:             DN42
