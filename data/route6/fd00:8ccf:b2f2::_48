@@ -1,0 +1,5 @@
+route6:             fd00:8ccf:b2f2::/48
+origin:             AS4242422263
+max-length:         48
+mnt-by:             AZUKI-MNT
+source:             DN42

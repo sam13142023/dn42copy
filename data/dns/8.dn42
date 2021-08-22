@@ -1,0 +1,9 @@
+domain:             8.dn42
+admin-c:            AZUKI-DN42
+tech-c:             AZUKI-DN42
+mnt-by:             AZUKI-MNT
+nserver:            ns1.8.dn42 172.22.177.1
+nserver:            ns1.8.dn42 fd00:8ccf:b2f2::8888
+nserver:            ns2.8.dn42 172.22.177.2
+nserver:            ns2.8.dn42 fd00:8ccf:b2f2::8844
+source:             DN42
