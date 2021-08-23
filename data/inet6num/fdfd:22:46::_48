@@ -1,0 +1,9 @@
+inet6num:           fdfd:0022:0046:0000:0000:0000:0000:0000 - fdfd:0022:0046:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:22:46::/48
+netname:            VENTILAAR-IPV6
+country:            NL
+admin-c:            VENTILAAR-DN42
+tech-c:             VENTILAAR-DN42
+mnt-by:             VENTILAAR-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.67.32/27
+origin:             AS4242422246
+mnt-by:             VENTILAAR-MNT
+source:             DN42
