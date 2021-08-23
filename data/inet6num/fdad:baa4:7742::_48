@@ -7,5 +7,7 @@ admin-c:            AFILINI-DN42
 tech-c:             AFILINI-DN42
 mnt-by:             AFILINI-MNT
 nserver:            ns1.afilini.dn42
+ds-rdata:           19265 8 1 04433E5E035427D97F0EBAAF811236EFE95C03AE
+ds-rdata:           19265 8 2 31932E9638FBE1DB5AFBD66C869CF28DE536320BA7A8890E95BFEEC2A220271E
 status:             ASSIGNED
 source:             DN42
