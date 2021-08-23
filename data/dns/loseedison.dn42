@@ -1,0 +1,9 @@
+domain:             loseedison.dn42
+admin-c:            LOSEEDISON-DN42
+tech-c:             LOSEEDISON-DN42
+mnt-by:             CYL-MNT
+nserver:            ns1.loseedison.dn42 172.21.79.65
+nserver:            ns2.loseedison.dn42 172.21.79.66
+nserver:            ns1.loseedison.dn42 fd42:4cd6:34ef:53::1
+nserver:            ns2.loseedison.dn42 fd42:4cd6:34ef:53::2
+source:             DN42

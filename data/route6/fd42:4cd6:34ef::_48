@@ -1,0 +1,5 @@
+route6:             fd42:4cd6:34ef::/48
+origin:             AS4242423577
+max-length:         48
+mnt-by:             CYL-MNT
+source:             DN42
