@@ -2,8 +2,7 @@ domain:             hivemind.dn42
 admin-c:            HIVEMIND-DN42
 tech-c:             HIVEMIND-DN42
 mnt-by:             HIVEMIND-MNT
-nserver:            ns1.hivemind.dn42 172.23.163.65
-nserver:            ns1.hivemind.dn42 fd1a:747a:d030::1
-nserver:            ns2.hivemind.dn42 172.23.163.66
-nserver:            ns2.hivemind.dn42 fd1a:747a:d030::2
+nserver:            ns1.hivemind.dn42 172.23.163.73
+nserver:            ns1.hivemind.dn42 fd1a:747a:d030:ca70::73
+ds-rdata:           21136 13 2 d3c238c2b08d4a9deacacf2a7fc4ce50c2dba8ef71a85dded5a97de62bd047ea
 source:             DN42
