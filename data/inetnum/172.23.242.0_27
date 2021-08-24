@@ -1,4 +1,4 @@
-inetnum:            172.23.242.0-172.23.242.31
+inetnum:            172.23.242.0 - 172.23.242.31
 netname:            ITY-IPV4
 descr:              peer with me at ity@keemail.me
 country:            HK
