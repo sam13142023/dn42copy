@@ -1,0 +1,5 @@
+route6:             fdcd:c2da:c2c4::/48
+origin:             AS4242421464
+max-length:         48
+mnt-by:             AIBO-MNT
+source:             DN42
