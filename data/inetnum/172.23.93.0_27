@@ -1,0 +1,9 @@
+inetnum:            172.23.93.0 - 172.23.93.31
+netname:            TIANICE-IPV4
+country:            CN
+admin-c:            TIANICE-DN42
+tech-c:             TIANICE-DN42
+mnt-by:             TIANICE-MNT
+status:             ASSIGNED
+cidr:               172.23.93.0/27
+source:             DN42
