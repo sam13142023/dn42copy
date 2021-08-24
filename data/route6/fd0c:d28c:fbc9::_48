@@ -1,0 +1,5 @@
+route6:             fd0c:d28c:fbc9::/48
+descr:              peer with me at ity@keemail.me
+origin:             AS4242420249
+mnt-by:             ITY-MNT
+source:             DN42
