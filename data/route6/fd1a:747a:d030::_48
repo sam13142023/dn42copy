@@ -1,5 +1,6 @@
 route6:             fd1a:747a:d030::/48
 origin:             AS4242423505
 max-length:         48
+pingable:           fd1a:747a:d030:ca70::74
 mnt-by:             HIVEMIND-MNT
 source:             DN42

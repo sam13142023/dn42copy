@@ -1,4 +1,6 @@
 route:              172.23.163.64/27
 origin:             AS4242423505
+max-length:         27
+pingable:           172.23.163.74
 mnt-by:             HIVEMIND-MNT
 source:             DN42

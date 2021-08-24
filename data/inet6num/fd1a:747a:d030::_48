@@ -8,5 +8,5 @@ tech-c:             HIVEMIND-DN42
 mnt-by:             HIVEMIND-MNT
 status:             ASSIGNED
 nserver:            ns1.hivemind.dn42
-nserver:            ns2.hivemind.dn42
+ds-rdata:           30714 13 2 82924ecd2561daf2e0b9bf87d75d9dd9c1db4d136680d596df49ab07cdb107e3
 source:             DN42
