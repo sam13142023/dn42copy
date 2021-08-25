@@ -1,0 +1,11 @@
+inet6num:           fd30:b2d5:02c7:0000:0000:0000:0000:0000 - fd30:b2d5:02c7:ffff:ffff:ffff:ffff:ffff
+netname:            MOEFIRE-IPV6
+descr:              Peer with me at 2781676192@qq.com
+country:            CN
+admin-c:            DADAFOX-DN42
+tech-c:             DADAFOX-DN42
+mnt-by:             DADAFOX-MNT
+org:                ORG-MOEFIRE
+status:             ASSIGNED
+cidr:               fd30:b2d5:2c7::/48
+source:             DN42

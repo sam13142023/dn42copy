@@ -1,0 +1,8 @@
+aut-num:            AS4242421060
+as-name:            MOEFIRE-AS
+descr:              Moefire's DN42 Network, peer with me at 2781676192@qq.com
+admin-c:            DADAFOX-DN42
+tech-c:             DADAFOX-DN42
+org:                ORG-MOEFIRE
+mnt-by:             DADAFOX-MNT
+source:             DN42
