@@ -1,0 +1,8 @@
+mntner:             TOTORO-MNT
+admin-c:            TOTORO-DN42
+tech-c:             TOTORO-DN42
+mnt-by:             TOTORO-MNT
+source:             DN42
+auth:               pgp-fingerprint EDE2551D6DE7B751168AE6FCD546F016544765FB
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDxgKkuR4lFGB7tZurFvkh+m5gg53HoJ23ol9WXZi/3uFNrRgS3lSBVvl4NstzBRN3IBHcQCZs3IERji8hnnPtNxQZxZDGUmnZEUdzKW/RXuHiEwqpRpRE6Pxg/NIu4Gfn3um93lezr/y+YnRyOmQjevapfZXElzpf/3h6vvmeLuZNEypX2FvzJDQdaYuz1N7AsGfCszzQiEKJIOXWLyZ9Bjb+LEDHZedhi0bY2jV6KOQMEDL1R3lIbIiKMzs8nOrKeS4RjoocdvjbaYywL8Jdok/Kt3qnZb/JvXWjv7ukW9L30UTAeNmif1J9cV22W+juHo3J7mp+2l787VvSlLvtp
+remarks:            Blog at https://yyw.moe

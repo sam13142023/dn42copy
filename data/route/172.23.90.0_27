@@ -1,0 +1,4 @@
+route:              172.23.90.0/27
+origin:             AS4242422252
+mnt-by:             TOTORO-MNT
+source:             DN42
