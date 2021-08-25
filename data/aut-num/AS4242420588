@@ -3,4 +3,16 @@ as-name:            0X6-AS
 admin-c:            LEVI-DN42
 tech-c:             LEVI-DN42
 mnt-by:             0X6-MNT
+remarks:            +---------------------------------------------------------------+
+remarks:            x6c network, open peering
+remarks:            +---------------------------------------------------------------+
+remarks:            email: levi.durfee@gmail.com
+remarks:            peering info: https://x6c.us/nodes/
+remarks:            irc: l3vi
+remarks:            looking glass: https://lg.x6c.us/
+remarks:            -----------------------------------------------------------------
+remarks:            Peering Locations:
+remarks:            -----------------------------------------------------------------
+remarks:            USA - Atlanta, Dallas, Fremont, Newark, Seattle
+remarks:            -----------------------------------------------------------------
 source:             DN42
