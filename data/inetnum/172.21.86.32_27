@@ -1,0 +1,11 @@
+inetnum:            172.21.86.32 - 172.21.86.63
+netname:            NCDWLQ-IPV4
+remarks:            Peer with me at i@ncdwlq.space
+descr:              Peer with me at i@ncdwlq.space
+country:            CN
+admin-c:            NCDWLQ-DN42
+tech-c:             NCDWLQ-DN42
+mnt-by:             NCDWLQ-MNT
+status:             ASSIGNED
+cidr:               172.21.86.32/27
+source:             DN42

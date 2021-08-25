@@ -1,0 +1,5 @@
+route6:             fd11:f391:702c::/48
+descr:              Peer with me at i@ncdwlq.space
+origin:             AS4242423660
+mnt-by:             NCDWLQ-MNT
+source:             DN42

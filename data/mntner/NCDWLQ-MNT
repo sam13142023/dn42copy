@@ -1,0 +1,6 @@
+mntner:             NCDWLQ-MNT
+admin-c:            NCDWLQ-DN42
+tech-c:             NCDWLQ-DN42
+mnt-by:             NCDWLQ-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAdILSrRjQ16yyml3nCC8joi37pAmCTeZB+bNMyVhTI7
