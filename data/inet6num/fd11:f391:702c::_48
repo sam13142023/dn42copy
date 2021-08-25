@@ -1,0 +1,10 @@
+inet6num:           fd11:f391:702c:0000:0000:0000:0000:0000 - fd11:f391:702c:ffff:ffff:ffff:ffff:ffff
+netname:            NCDWLQ-IPV6
+descr:              Peer with me at i@ncdwlq.space
+country:            CN
+admin-c:            NCDWLQ-DN42
+tech-c:             NCDWLQ-DN42
+mnt-by:             NCDWLQ-MNT
+status:             ASSIGNED
+cidr:               fd11:f391:702c::/48
+source:             DN42

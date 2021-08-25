@@ -1,0 +1,7 @@
+aut-num:            AS4242423660
+as-name:            NCDWLQ-AS
+descr:              Peer with me at i@ncdwlq.space
+admin-c:            NCDWLQ-DN42
+tech-c:             NCDWLQ-DN42
+mnt-by:             NCDWLQ-MNT
+source:             DN42
