@@ -1,0 +1,6 @@
+mntner:             AIBO-MNT
+admin-c:            AIBO-DN42
+tech-c:             AIBO-DN42
+mnt-by:             AIBO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP2TPb+CK3v6uf2+BtXdqKDO7lr7FG4GnNlvK5M53NNX
+source:             DN42

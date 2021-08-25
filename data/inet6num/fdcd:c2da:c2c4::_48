@@ -1,0 +1,11 @@
+inet6num:           fdcd:c2da:c2c4:0000:0000:0000:0000:0000 - fdcd:c2da:c2c4:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcd:c2da:c2c4::/48
+netname:            AIBO-NETWORK
+descr:              Network of AIBO
+country:            DE
+admin-c:            AIBO-DN42
+tech-c:             AIBO-DN42
+mnt-by:             AIBO-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-ARCHLINUX-USERS
