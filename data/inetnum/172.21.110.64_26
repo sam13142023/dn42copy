@@ -1,0 +1,12 @@
+inetnum:            172.21.110.64 - 172.21.110.127
+cidr:               172.21.110.64/26
+remarks:            Peer with me at 2781676192@qq.com
+netname:            MOEFIRE-IPV4
+descr:              Peer with me at 2781676192@qq.com
+country:            CN
+admin-c:            DADAFOX-DN42
+tech-c:             DADAFOX-DN42
+org:                ORG-MOEFIRE
+mnt-by:             DADAFOX-MNT
+status:             ASSIGNED
+source:             DN42

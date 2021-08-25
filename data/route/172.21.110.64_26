@@ -1,0 +1,5 @@
+route:              172.21.110.64/26
+descr:              Peer with me at 2781676192@qq.com
+origin:             AS4242421060
+mnt-by:             DADAFOX-MNT
+source:             DN42
