@@ -1,0 +1,9 @@
+inet6num:           fd1d:d8fe:568d:0000:0000:0000:0000:0000 - fd1d:d8fe:568d:ffff:ffff:ffff:ffff:ffff
+netname:            Totoro-ipv6
+country:            CN
+admin-c:            TOTORO-DN42
+tech-c:             TOTORO-DN42
+mnt-by:             TOTORO-MNT
+status:             ASSIGNED
+cidr:               fd1d:d8fe:568d::/48
+source:             DN42

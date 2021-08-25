@@ -1,0 +1,4 @@
+route6:             fd1d:d8fe:568d::/48
+origin:             AS4242422252
+mnt-by:             TOTORO-MNT
+source:             DN42

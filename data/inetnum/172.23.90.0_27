@@ -1,0 +1,9 @@
+inetnum:            172.23.90.0 - 172.23.90.31
+cidr:               172.23.90.0/27
+country:            CN
+netname:            Totoro-ipv4
+admin-c:            TOTORO-DN42
+tech-c:             TOTORO-DN42
+mnt-by:             TOTORO-MNT
+status:             ASSIGNED
+source:             DN42
