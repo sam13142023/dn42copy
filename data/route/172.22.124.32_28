@@ -1,0 +1,4 @@
+route:              172.22.124.32/28
+origin:             AS4242421903
+mnt-by:             WILL-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.22.124.32 - 172.22.124.47
+cidr:               172.22.124.32/28
+netname:            WILL-V4-NET-1
+country:            GB
+admin-c:            WILL-DN42
+tech-c:             WILL-DN42
+mnt-by:             WILL-MNT
+status:             ASSIGNED
+source:             DN42
