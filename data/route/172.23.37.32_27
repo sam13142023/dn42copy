@@ -1,0 +1,4 @@
+route:              172.23.37.32/27
+origin:             AS4242421464
+mnt-by:             AIBO-MNT
+source:             DN42
