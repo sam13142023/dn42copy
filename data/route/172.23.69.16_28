@@ -1,0 +1,4 @@
+route:              172.23.69.16/28
+origin:             AS4242422775
+mnt-by:             LUKAS-MNT
+source:             DN42
