@@ -1,0 +1,5 @@
+route:              172.21.86.64/27
+descr:              Peer with me at abudulin@foxmail.com
+origin:             AS4242422343
+mnt-by:             ABUDU-MNT
+source:             DN42

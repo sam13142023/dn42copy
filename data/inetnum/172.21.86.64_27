@@ -1,0 +1,11 @@
+inetnum:            172.21.86.64 - 172.21.86.95
+netname:            ABUDU-IPV4
+remarks:            Peer with me at abudulin@foxmail.com
+descr:              Peer with me at abudulin@foxmail.com
+country:            CN
+admin-c:            ABUDU-DN42
+tech-c:             ABUDU-DN42
+mnt-by:             ABUDU-MNT
+status:             ASSIGNED
+cidr:               172.21.86.64/27
+source:             DN42
