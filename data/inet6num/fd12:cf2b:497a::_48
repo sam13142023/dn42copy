@@ -1,0 +1,10 @@
+inet6num:           fd12:cf2b:497a:0000:0000:0000:0000:0000 - fd12:cf2b:497a:ffff:ffff:ffff:ffff:ffff
+netname:            ABUDU-IPV6
+descr:              Peer with me at abudulin@foxmail.com
+country:            CN
+admin-c:            ABUDU-DN42
+tech-c:             ABUDU-DN42
+mnt-by:             ABUDU-MNT
+status:             ASSIGNED
+cidr:               fd12:cf2b:497a::/48
+source:             DN42

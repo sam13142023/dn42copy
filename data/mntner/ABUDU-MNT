@@ -1,0 +1,9 @@
+mntner:             ABUDU-MNT
+admin-c:            ABUDU-DN42
+tech-c:             ABUDU-DN42
+mnt-by:             ABUDU-MNT
+source:             DN42
+auth:               pgp-fingerprint 87BE1E63F70F36305664C552AAAB8549CBA3CF0E
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDH284VslZ29cm7Zb9Q98aePwrvnqwKxyvyIe94a6tq0FDtuSHPVo+CNxazG1vWYm9uVwyMsP5pJgGJ5WmAzFpPlktdn3vjbEeirGZVkxYa10ArgtPIa7tYK1/6bGMUFHcXUMAsDm6sV2igBZaVu+4dkcykLl92lCG2plLDuKoyBS8nHRtVtAfuA2jGrszzpByF5KhRLgBw7MFQ0RlwqYpcocw4r02KEOvRYznsKrmFZBxZakRZK4VsEXLyHW6UcX0QAXf3K07bgfTosk6CWM1TewniXudGFAZJ8SO5NQRduiLSGfOiCrHWJlqQUp42I/ObHb9oglQDAfuXYR+hAJriMvK8VJt+qCnfhZcoTnH0GZ5HhhZe2O3SjPSJXReKYB6q62EE10rbWm+hOXDcePpmJFZMz3aAFvOVHt2XySu8Csr7sfSFzVfMh8/USoOdOV0ZVxzX3Whe/EZExuOK+Unm438E5jx6VaTMT9pa6lBFhFFujIVVm0w4no0N0VqPt8c= abudulin@foxmail.com
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICLZbbG1FJ7541GqBCB5jZ3+ERVhd/xP4H9sUEt4rFn+ root@Abudu
+remarks:            abudulin@foxmail.com

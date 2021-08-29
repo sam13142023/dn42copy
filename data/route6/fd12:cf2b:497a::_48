@@ -1,0 +1,5 @@
+route6:             fd12:cf2b:497a::/48
+descr:              Peer with me at abudulin@foxmail.com
+origin:             AS4242422343
+mnt-by:             ABUDU-MNT
+source:             DN42
