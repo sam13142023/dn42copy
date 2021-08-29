@@ -1,0 +1,8 @@
+inetnum:            172.23.37.32 - 172.23.37.63
+cidr:               172.23.37.32/27
+netname:            AIBO-NETWORK
+admin-c:            AIBO-DN42
+tech-c:             AIBO-DN42
+mnt-by:             AIBO-MNT
+status:             ASSIGNED
+source:             DN42
