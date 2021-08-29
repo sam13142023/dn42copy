@@ -1,0 +1,8 @@
+inet6num:           fddd:ac53:f33f:0000:0000:0000:0000:0000 - fddd:ac53:f33f:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:ac53:f33f::/48
+netname:            JCAHILL-NET-V6-1
+admin-c:            JCAHILL-DN42
+tech-c:             JCAHILL-DN42
+mnt-by:             JCAHILL-MNT
+status:             ASSIGNED
+source:             DN42
