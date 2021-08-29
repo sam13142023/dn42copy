@@ -1,0 +1,11 @@
+inetnum:            172.23.231.96 - 172.23.231.127
+netname:            JUREGRINFFIN-IPV4
+remarks:            Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
+country:            CN
+admin-c:            JUREGRINFFIN-DN42
+tech-c:             JUREGRINFFIN-DN42
+mnt-by:             JUREGRINFFIN-MNT
+status:             ASSIGNED
+cidr:               172.23.231.96/27
+source:             DN42
