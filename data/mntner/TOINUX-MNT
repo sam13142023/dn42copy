@@ -3,4 +3,4 @@ admin-c:            TOINUX-DN42
 tech-c:             TOINUX-DN42
 mnt-by:             TOINUX-MNT
 source:             DN42
-auth:               pgp-fingerprint 1C74FCC5CBA84C8B9237BEF87E67CDAFFB633C6F
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCfohVrmPsPcn3jfXzk/RDmd5skazvAPCa69KWJ6EgFr+G0/gGMQxgWiTy/2m2+dODW87O0yWf+IXdhdXZhA20qcjAprlliTpfCz5Usm7I/ZHtgvqSQimxIWRdmLpgeaMsquvrjN/xwspjqYw2YQUHmghgD7n4hfnmUljzIHt5BEL2u7KWOMa/T441rCWntlkplc4vZGrTO//RQHqSACxuivfQs5ZqcIEbgdpmq/laOwiFSMtLtvGr3B+ctWS2eogDiu1v0j2DDq8yd6zjA84r/OmW0liuJYhCjMQxeubZXgB6PcWcVKOq29m8xjNSIgAC5jZdeqiWvS6FjkpsH94gPtFGFL7JleAxxwRpui5RsaXGpUVtPsYaqxPQ4I158bTjCgui6HVNgM7mO8ZAnVOHTFeDqjHnDxLamg3qQ4m7CtDrFFEOVfMtDcfd2pAZydYtVe+noZIXwoGwSc8XnWNYPaSzD6GHWEM3lK/9mCB69FtERCPSNHanAKs1yzbsoukmWSpKgXzZCTjG4xHDapHZ7knR1RX5qJm6YYjdfgfyNwQ6wQqFzvZBPApZZf5EVviGtAq8DOUf5vfqKIJIoImKRXV2sXXUuNgBwZMjS7AqpL/XJsNim0Muy2+1aRi6Qr3pVoZLCVmNN0iH6E6R+c52esMbe+es0WfsY/afbSxHUlQ==
