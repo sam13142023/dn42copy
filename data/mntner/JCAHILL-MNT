@@ -2,5 +2,5 @@ mntner:             JCAHILL-MNT
 admin-c:            JCAHILL-DN42
 tech-c:             JCAHILL-DN42
 mnt-by:             JCAHILL-MNT
-auth:               pgp-fingerprint 175F58BF8DF3AF68B992521FBAA727D644600E2D
+auth:               pgp-fingerprint F6B39646456977F856318CC2A00A0ED1350CD074
 source:             DN42

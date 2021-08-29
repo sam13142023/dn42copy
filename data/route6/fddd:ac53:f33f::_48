@@ -1,0 +1,4 @@
+route6:             fddd:ac53:f33f::/48
+origin:             AS4242422840
+mnt-by:             JCAHILL-MNT
+source:             DN42
