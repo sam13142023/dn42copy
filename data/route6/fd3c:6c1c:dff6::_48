@@ -1,0 +1,5 @@
+route6:             fd3c:6c1c:dff6::/48
+origin:             AS4242421795
+max-length:         48
+mnt-by:             JOKO-MNT
+source:             DN42

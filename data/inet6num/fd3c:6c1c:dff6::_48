@@ -1,0 +1,8 @@
+inet6num:           fd3c:6c1c:dff6:0000:0000:0000:0000:0000 - fd3c:6c1c:dff6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:6c1c:dff6::/48
+netname:            JOKONET
+admin-c:            JOKO-DN42
+tech-c:             JOKO-DN42
+mnt-by:             JOKO-MNT
+status:             ASSIGNED
+source:             DN42
