@@ -3,4 +3,5 @@ admin-c:            WILL-DN42
 tech-c:             WILL-DN42
 mnt-by:             WILL-MNT
 auth:               pgp-fingerprint 7A2EC8BF308FDD1CAEB1CA3F9AE7DCD0360E54EA
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAk7kqPUPso0iQjeWUNRX0dula3yuLY3OLZAjBC0O7O06c60jIfvbrgtjRJ2WCDLcUt5ZKhj4QNNxqBqG+Ig3hblCr2uIE7RUDDh6aOrrbw6A317BDnW49wvZJL2oAtlld+PmY+no6v4SX5GiR9RFiqyjg/gJQpFOaiXljho/Hg/Fq/ym+sC/2j2nin3M2AxA9mA3s22L8wXJI1olSSQCOPkhCA9U5W9M43GBidkkF/w2NeD38qE0iRB43cbb8+V6L5X5raRxi/oQbObvyM2Cde+eDOHTUG92YSG3HrZme+w150nLhyHnMU0j8w3cNCFiG6qJxsFWywVosRNM1gZwgwQ==
 source:             DN42
