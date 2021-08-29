@@ -1,0 +1,10 @@
+inet6num:           fdea:1aa5:0fe0:0000:0000:0000:0000:0000 - fdea:1aa5:0fe0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:1aa5:fe0::/48
+netname:            LUKAS-NETWORK
+descr:              Network of lukgth
+country:            DE
+admin-c:            LUKAS-DN42
+tech-c:             LUKAS-DN42
+mnt-by:             LUKAS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.69.16 - 172.23.69.31
+cidr:               172.23.69.16/28
+netname:            LUKAS-NETWORK
+admin-c:            LUKAS-DN42
+tech-c:             LUKAS-DN42
+mnt-by:             LUKAS-MNT
+status:             ASSIGNED
+source:             DN42

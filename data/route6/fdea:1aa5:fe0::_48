@@ -1,0 +1,5 @@
+route6:             fdea:1aa5:fe0::/48
+origin:             AS4242422775
+max-length:         48
+mnt-by:             LUKAS-MNT
+source:             DN42
