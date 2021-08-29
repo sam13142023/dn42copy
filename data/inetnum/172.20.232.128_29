@@ -1,8 +1,0 @@
-inetnum:            172.20.232.128 - 172.20.232.135
-cidr:               172.20.232.128/29
-netname:            OMITRON-NETWORK
-admin-c:            OMITRON-DN42
-tech-c:             OMITRON-DN42
-mnt-by:             GATUNO-MNT
-status:             ASSIGNED
-source:             DN42
