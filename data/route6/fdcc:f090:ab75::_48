@@ -1,5 +1,0 @@
-route6:             fdcc:f090:ab75::/48
-origin:             AS4242421330
-max-length:         48
-mnt-by:             GATUNO-MNT
-source:             DN42
