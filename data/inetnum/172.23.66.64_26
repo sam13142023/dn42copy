@@ -1,0 +1,11 @@
+inetnum:            172.23.66.64 - 172.23.66.127
+netname:            LAEVATEIN-SP-DNS
+remarks:            Peer with me at fish_magic@ftmc.me
+descr:              Peer with me at fish_magic@ftmc.me
+country:            CN
+admin-c:            LAEVATEIN-DN42
+tech-c:             LAEVATEIN-DN42
+mnt-by:             LAEVATEIN-MNT
+status:             ASSIGNED
+cidr:               172.23.66.64/26
+source:             DN42
