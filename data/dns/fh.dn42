@@ -1,7 +1,9 @@
-domain:             peer.dn42
-admin-c:            PEER-DN42
+domain:             fh.dn42
+org:                ORG-FOSSHOST
+admin-c:            HAMPTON-DN42
 tech-c:             PEER-DN42
 mnt-by:             PEER-MNT
+mnt-by:             HAMMYNET-MNT
 nserver:            ns1.fosshost.dn42
 nserver:            ns2.fosshost.dn42
 source:             DN42

@@ -1,0 +1,14 @@
+inet6num:           fde8:f055:f055:0000:0000:0000:0000:0000 - fde8:f055:f055:ffff:ffff:ffff:ffff:ffff
+cidr:               fde8:f055:f055::/48
+netname:            FOSSHOST-NETWORK
+descr:              Fosshost dn42 v6 range 1
+country:            GB
+org:                ORG-FOSSHOST
+nserver:            ns1.fosshost.dn42
+nserver:            ns2.fosshost.dn42
+admin-c:            HAMPTON-DN42
+tech-c:             PEER-DN42
+mnt-by:             PEER-MNT
+mnt-by:             HAMMYNET-MNT
+status:             ASSIGNED
+source:             DN42
