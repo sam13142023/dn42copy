@@ -1,5 +1,7 @@
 inetnum:            172.23.110.64 - 172.23.110.95
 netname:            0X6-NETWORK
+nserver:            ns1.0x6.dn42
+nserver:            ns2.0x6.dn42
 admin-c:            LEVI-DN42
 tech-c:             LEVI-DN42
 mnt-by:             0X6-MNT
