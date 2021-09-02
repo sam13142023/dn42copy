@@ -1,0 +1,8 @@
+inetnum:            172.23.36.32 - 172.23.36.63
+cidr:               172.23.36.32/27
+netname:            CHUANGZHU-NETWORK
+admin-c:            CHUANGZHU-DN42
+tech-c:             CHUANGZHU-DN42
+mnt-by:             CHUANGZHU-MNT
+status:             ASSIGNED
+source:             DN42
