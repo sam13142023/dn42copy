@@ -1,0 +1,4 @@
+route:              172.23.36.32/27
+origin:             AS4242423632
+mnt-by:             CHUANGZHU-MNT
+source:             DN42

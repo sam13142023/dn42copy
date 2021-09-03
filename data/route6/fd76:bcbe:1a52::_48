@@ -1,0 +1,5 @@
+route6:             fd76:bcbe:1a52::/48
+origin:             AS4242423632
+max-length:         48
+mnt-by:             CHUANGZHU-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd76:bcbe:1a52:0000:0000:0000:0000:0000 - fd76:bcbe:1a52:ffff:ffff:ffff:ffff:ffff
+cidr:               fd76:bcbe:1a52::/48
+netname:            CHUANGZHU-NETWORK-V6
+descr:              ChuangZhu DN42 IPv6 Network
+country:            CN
+admin-c:            CHUANGZHU-DN42
+tech-c:             CHUANGZHU-DN42
+mnt-by:             CHUANGZHU-MNT
+status:             ASSIGNED
+source:             DN42
