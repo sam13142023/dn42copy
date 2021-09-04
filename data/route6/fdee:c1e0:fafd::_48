@@ -1,0 +1,5 @@
+route6:             fdee:c1e0:fafd::/48
+origin:             AS4242421609
+max-length:         48
+mnt-by:             TECHMGMT-MNT
+source:             DN42
