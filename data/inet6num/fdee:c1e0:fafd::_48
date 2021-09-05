@@ -1,0 +1,10 @@
+inet6num:           fdee:c1e0:fafd:0000:0000:0000:0000:0000 - fdee:c1e0:fafd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:c1e0:fafd::/48
+netname:            TECHMGMT-NETWORK
+descr:              Primary Technical Management network
+country:            US
+admin-c:            ABUIE-DN42
+tech-c:             ABUIE-DN42
+mnt-by:             TECHMGMT-MNT
+status:             ASSIGNED
+source:             DN42

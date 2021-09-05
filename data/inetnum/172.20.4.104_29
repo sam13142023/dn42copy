@@ -1,0 +1,8 @@
+inetnum:            172.20.4.104 - 172.20.4.111
+cidr:               172.20.4.104/29
+netname:            TECHMGMT-LGCY-NETWORK
+admin-c:            ABUIE-DN42
+tech-c:             ABUIE-DN42
+mnt-by:             TECHMGMT-MNT
+status:             ASSIGNED
+source:             DN42
