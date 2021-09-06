@@ -1,5 +1,8 @@
 aut-num:            AS4242422032
-as-name:            An open network
+as-name:            LapisNetwork
+remarks:            Open for peering:
+remarks:            Telegram: @azurite27
+remarks:            E-mail: lapizblue27@protonmail.com
 admin-c:            LAPISBLUE27-DN42
 tech-c:             LAPISBLUE27-DN42
 mnt-by:             LAPISBLUE27-MNT
