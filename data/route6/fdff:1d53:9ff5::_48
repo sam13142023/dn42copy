@@ -1,0 +1,5 @@
+route6:             fdff:1d53:9ff5::/48
+origin:             AS4242423495
+max-length:         48
+mnt-by:             BOXJAN-MNT
+source:             DN42
