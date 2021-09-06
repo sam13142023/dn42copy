@@ -1,0 +1,10 @@
+inet6num:           fdff:1d53:9ff5:0000:0000:0000:0000:0000 - fdff:1d53:9ff5:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:1d53:9ff5::/48
+netname:            BOXJAN-IPV6
+descr:              boxjan ipv6
+country:            CN
+admin-c:            BOXJAN-DN42
+tech-c:             BOXJAN-DN42
+mnt-by:             BOXJAN-MNT
+status:             ASSIGNED
+source:             DN42

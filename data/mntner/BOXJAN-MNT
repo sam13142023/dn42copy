@@ -1,0 +1,6 @@
+mntner:             BOXJAN-MNT
+admin-c:            BOXJAN-DN42
+tech-c:             BOXJAN-DN42
+mnt-by:             BOXJAN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5DFcfbOFg5Ns1PR/+CLpaJ2wViw2Wb0GGXsxEw13FbhNAVntrxd7icLmt6nFv7apxqZmV6ydltvmMZmVTEl6G2CpFuImkVUriorxTwdQr5/6E6/u8hNSJwABXbZgoB0hMRZ5nZeOuEeb+ZmVLAoXNDvDgPuOUS/0LmjGgC7Wa0uVK/fr4TJMS/OwkOMXnUbHJ4xjvisLtzCQG7aNt6avB+qLpBFyuP1l7xUy4GAhtZZ6FZGzWmPlqGVoBzA9h2vjrNIWHorm6j3ScWmfTtMbxL1kNFIa241NlzR+5RC4p310G1um+M37x75BjbxjO7DlWbLqeSqXwjpwQMQB+UtsP
+source:             DN42

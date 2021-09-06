@@ -1,0 +1,10 @@
+inetnum:            172.23.232.0 - 172.23.232.31
+cidr:               172.23.232.0/27
+netname:            BOXJAN-IPV4
+descr:              boxjan ipv4
+country:            CN
+admin-c:            BOXJAN-DN42
+tech-c:             BOXJAN-DN42
+mnt-by:             BOXJAN-MNT
+status:             ASSIGNED
+source:             DN42
