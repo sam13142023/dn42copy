@@ -1,0 +1,5 @@
+route:              172.22.107.32/27
+descr:              MISAKANETWORK-IPV4-1
+origin:             AS4242421041
+mnt-by:             MISAKA10042-MNT
+source:             DN42

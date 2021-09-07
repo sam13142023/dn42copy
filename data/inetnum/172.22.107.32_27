@@ -1,0 +1,11 @@
+inetnum:            172.22.107.32 - 172.22.107.63
+netname:            MISAKANETWORK1-IPV4
+remarks:            MISAKANETWORK-IPV4-1
+descr:              MISAKANETWORK-IPV4-1
+country:            CN
+admin-c:            MISAKA10042-DN42
+tech-c:             MISAKA10042-DN42
+mnt-by:             MISAKA10042-MNT
+status:             ASSIGNED
+cidr:               172.22.107.32/27
+source:             DN42
