@@ -1,0 +1,5 @@
+route6:             fd8b:820f:94e0::/48
+descr:              MISAKANETWORK-IPV6-1
+origin:             AS4242421041
+mnt-by:             MISAKA10042-MNT
+source:             DN42

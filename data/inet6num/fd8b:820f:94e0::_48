@@ -1,0 +1,11 @@
+inet6num:           fd8b:820f:94e0:0000:0000:0000:0000:0000 - fd8b:820f:94e0:ffff:ffff:ffff:ffff:ffff
+netname:            MISAKANETWORK1-IPV6
+remarks:            MISAKANETWORK-IPV6-1
+descr:              MISAKANETWORK-IPV6-1
+country:            CN
+admin-c:            MISAKA10042-DN42
+tech-c:             MISAKA10042-DN42
+mnt-by:             MISAKA10042-MNT
+status:             ASSIGNED
+cidr:               fd8b:820f:94e0::/48
+source:             DN42
