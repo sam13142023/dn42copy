@@ -1,0 +1,10 @@
+inet6num:           fd46:0b3f:1aee:0000:0000:0000:0000:0000 - fd46:0b3f:1aee:ffff:ffff:ffff:ffff:ffff
+cidr:               fd46:b3f:1aee::/48
+netname:            ELI-NET
+descr:              Network for Eli
+country:            DE
+admin-c:            ELI-DN42
+tech-c:             ELI-DN42
+mnt-by:             ELI-MNT
+status:             ASSIGNED
+source:             DN42
