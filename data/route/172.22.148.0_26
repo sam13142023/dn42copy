@@ -1,0 +1,4 @@
+route:              172.22.148.0/26
+origin:             AS4242420898
+mnt-by:             PROTON-MNT
+source:             DN42

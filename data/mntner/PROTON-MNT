@@ -1,0 +1,7 @@
+mntner:             PROTON-MNT
+admin-c:            PROTON-DN42
+tech-c:             PROTON-DN42
+mnt-by:             PROTON-MNT
+auth:               pgp-fingerprint 97A03342E6EAADF050061D75C76108F51FDC3285
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAaWTghahQGpVPnYlFTKpfX0bJnqeT39qQtqaetdwQa8Eoy84jq13Q6Tpar8iVxDktLn8SQzTNcJCUZ4nH8+S2LpuXvA3yu+9JBVteB+3zOzXEFe/oLh6jrF1PNgrYq4gk5CEIm1vECKJXs2a+z+RDTW+nSoFbnvDBx+TL7ykFR6IWlw2R9PagRP4YMPUf1R7Xl2bFzEm7/OmXv3v4yQ/WJJPrMhuHqEPwON9gdi/SmVs/h1YHnAqHVkOOyzoA3Igfanlt37YYTLAb3nC7RJEs+K/Y8Ous8BfnmF4FKN3OS5y0u6nZagSrobrij66MQODfv0SnbacStY4cUnRITRDl
+source:             DN42
