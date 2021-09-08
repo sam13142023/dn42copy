@@ -1,0 +1,5 @@
+route:              172.20.210.0/26
+descr:              Peer with me at aoyou945@gmail.com
+origin:             AS4242420945
+mnt-by:             AOYOU-MNT
+source:             DN42

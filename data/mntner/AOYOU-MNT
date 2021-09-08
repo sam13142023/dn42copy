@@ -1,0 +1,7 @@
+mntner:             AOYOU-MNT
+admin-c:            AOYOU-DN42
+tech-c:             AOYOU-DN42
+mnt-by:             AOYOU-MNT
+source:             DN42
+auth:               pgp-fingerprint 290DD825EC84C5EBFC7C9D158D73639C5422E037
+remarks:            aoyouer
