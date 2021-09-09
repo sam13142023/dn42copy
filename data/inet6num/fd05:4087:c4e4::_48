@@ -1,0 +1,10 @@
+inet6num:           fd05:4087:c4e4:0000:0000:0000:0000:0000 - fd05:4087:c4e4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd05:4087:c4e4::/48
+netname:            P-NET-1
+descr:              Network of PROTON
+country:            TW
+admin-c:            PROTON-DN42
+tech-c:             PROTON-DN42
+mnt-by:             PROTON-MNT
+status:             ASSIGNED
+source:             DN42

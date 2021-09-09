@@ -1,0 +1,7 @@
+domain:             proton.dn42
+nserver:            ns1.proton.dn42 172.22.148.50
+nserver:            ns2.proton.dn42 172.22.148.51
+admin-c:            PROTON-DN42
+tech-c:             PROTON-DN42
+mnt-by:             PROTON-MNT
+source:             DN42

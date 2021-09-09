@@ -1,0 +1,5 @@
+route6:             fd05:4087:c4e4::/48
+origin:             AS4242420898
+max-length:         48
+mnt-by:             PROTON-MNT
+source:             DN42
