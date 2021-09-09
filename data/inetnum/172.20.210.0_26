@@ -1,0 +1,13 @@
+inetnum:            172.20.210.0 - 172.20.210.63
+netname:            AOYOU-IPV4
+remarks:            Peer with me at aoyou945@gmail.com
+descr:              Peer with me at aoyou945@gmail.com
+country:            CN
+admin-c:            AOYOU-DN42
+tech-c:             AOYOU-DN42
+mnt-by:             AOYOU-MNT
+nserver:            ns1.aoyou.dn42
+nserver:            ns2.aoyou.dn42
+status:             ASSIGNED
+cidr:               172.20.210.0/26
+source:             DN42

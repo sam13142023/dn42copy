@@ -1,0 +1,12 @@
+inet6num:           fde5:2a75:1037:0000:0000:0000:0000:0000 - fde5:2a75:1037:ffff:ffff:ffff:ffff:ffff
+netname:            AOYOU-IPV6
+descr:              Peer with me at aoyou945@gmail.com
+country:            CN
+admin-c:            AOYOU-DN42
+tech-c:             AOYOU-DN42
+mnt-by:             AOYOU-MNT
+nserver:            ns1.aoyou.dn42
+nserver:            ns2.aoyou.dn42
+status:             ASSIGNED
+cidr:               fde5:2a75:1037::/48
+source:             DN42
