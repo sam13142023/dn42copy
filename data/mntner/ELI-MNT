@@ -1,0 +1,9 @@
+mntner:             ELI-MNT
+admin-c:            ELI-DN42
+tech-c:             ELI-DN42
+mnt-by:             ELI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFHtaObi0gAy0sjp9VoidFI6eOnjWHO+yL19+VxXmTR0
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKhg8pee2fZwv6ADydB9Lxa2xjmJlbwUESFIILyh9PZ+
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEO9rt2tmkMNPVhhKNrwSHSrZH632rbqrEzRVfCQO0gn
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBl6cRNTkp9QD1P+Ddo4fInNqsMs/GXTAXco8cVPELwD
+source:             DN42
