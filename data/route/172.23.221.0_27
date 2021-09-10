@@ -1,0 +1,5 @@
+route:              172.23.221.0/27
+descr:              Peer with me at ops@zego.im
+origin:             AS4242422207
+mnt-by:             ZEGO-MNT
+source:             DN42

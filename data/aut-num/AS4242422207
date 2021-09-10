@@ -1,0 +1,7 @@
+aut-num:            AS4242422207
+as-name:            ZEGO-AS
+descr:              Peer with me at ops@zego.im
+admin-c:            ZEGO-DN42
+tech-c:             ZEGO-DN42
+mnt-by:             ZEGO-MNT
+source:             DN42
