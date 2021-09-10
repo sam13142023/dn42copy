@@ -1,0 +1,10 @@
+inet6num:           fda1:a493:11c6:0000:0000:0000:0000:0000 - fda1:a493:11c6:ffff:ffff:ffff:ffff:ffff
+netname:            ZEGO-IPV6
+descr:              Peer with me at ops@zego.im
+country:            CN
+admin-c:            ZEGO-DN42
+tech-c:             ZEGO-DN42
+mnt-by:             ZEGO-MNT
+status:             ASSIGNED
+cidr:               fda1:a493:11c6::/48
+source:             DN42

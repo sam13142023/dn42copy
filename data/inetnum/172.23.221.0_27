@@ -1,0 +1,10 @@
+inetnum:            172.23.221.0 - 172.23.221.31
+netname:            ZEGO-NET
+descr:              Peer with me at ops@zego.im
+country:            CN
+admin-c:            ZEGO-DN42
+tech-c:             ZEGO-DN42
+mnt-by:             ZEGO-MNT
+status:             ASSIGNED
+cidr:               172.23.221.0/27
+source:             DN42

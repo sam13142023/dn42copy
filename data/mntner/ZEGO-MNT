@@ -1,0 +1,7 @@
+mntner:             ZEGO-MNT
+admin-c:            ZEGO-DN42
+tech-c:             ZEGO-DN42
+mnt-by:             ZEGO-MNT
+source:             DN42
+auth:               pgp-fingerprint BFCF462DDB955606790215E82ACE12525CEF30A6
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZ8dC9ot8HjQ4T8hlluxzIMgdG4TDBEBskqd3RpjXGlatJs8V3IDgrZrgAYtyHdjV0g2WEbrZlb63r6JAJqhRCkdvir/EhcGmZS6q8Ez/sLpXnIJQFZY9OGLj7RcDjkilntAjz6IUltwhT2VSgg5lMaDI4cRNyR1xHHtVg63THkNDTj/cL+n9Nr6mJvl0yioiqfEYk4Awdp8j7jJjzPh8ZenJAhckq074ZfdMcd9zadyrKv5EzBpNN9lHqgU/Gv5rqLL5Ssf70qu6ZKxhn/O13qPrqL9zmuq/d49i6Ys5jf3e2u1gdXfjFlZ5IZv5AMhuJmGxzZyVhE+SG0SaseY5VraAzdZwEeu8uT/CyTJ9yuaxwiIdH4+skPD/SYVljEE7XPMqsLcecIQ+SggLMI7NaUgcGhXt73jsGuqrZ+M4mOR5LO8/HDpHoPXuuWpdxns7nYYHcAEkQOnY57fU5MsXmU9r50B3Ol/AzDAVW4EBs1GmH1Oqm3DjozRN3ZeroCEjtWCyWQ4KDyWGuZt4tDObis76Inop0yFoy05yp96+I5nTPVI10jVJLUogmgMlTTbWcmRe1JG6iaMyfUMt+m8agj7OLoyX5MWZQEWr0GAeewnDO8COKtAE3neiDcF84SF9GJgzVWHjXnMOLKewu+jx4cEd7DAi/P7355iBpOXCGgQ==
