@@ -1,0 +1,5 @@
+route6:             fdf7:c335:8a6a::/48
+origin:             AS4242420855
+max-length:         48
+mnt-by:             OILI-MNT
+source:             DN42

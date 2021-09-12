@@ -1,0 +1,5 @@
+route:              172.23.93.32/27
+descr:              Peer with me at yoloyanng@gmail.com
+origin:             AS4242420855
+mnt-by:             OILI-MNT
+source:             DN42

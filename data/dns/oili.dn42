@@ -1,0 +1,9 @@
+domain:             oili.dn42
+admin-c:            OILI-DN42
+tech-c:             OILI-DN42
+mnt-by:             OILI-MNT
+nserver:            ns1.oili.dn42 172.23.93.33
+nserver:            ns1.oili.dn42 fdf7:c335:8a6a:53::1
+nserver:            ns2.oili.dn42 172.23.93.34
+nserver:            ns2.oili.dn42 fdf7:c335:8a6a:53::2
+source:             DN42
