@@ -1,0 +1,12 @@
+inetnum:            172.23.93.32 - 172.23.93.63
+descr:              Peer with me at yoloyanng@gmail.com
+country:            CN
+cidr:               172.23.93.32/27
+netname:            OILI-IPV4
+admin-c:            OILI-DN42
+tech-c:             OILI-DN42
+mnt-by:             OILI-MNT
+status:             ASSIGNED
+nserver:            ns1.oili.dn42
+nserver:            ns2.oili.dn42
+source:             DN42
