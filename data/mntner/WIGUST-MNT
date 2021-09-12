@@ -1,0 +1,6 @@
+mntner:             WIGUST-MNT
+admin-c:            WIGUST-DN42
+tech-c:             WIGUST-DN42
+mnt-by:             WIGUST-MNT
+auth:               pgp-fingerprint 723871238EACEB6345485857167F8EA5001AFA9C
+source:             DN42
