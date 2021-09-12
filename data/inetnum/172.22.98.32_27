@@ -1,0 +1,9 @@
+inetnum:            172.22.98.32 - 172.22.98.63
+cidr:               172.22.98.32/27
+netname:            SORBY-NETWORK4-1
+admin-c:            SORBY-DN42
+tech-c:             SORBY-DN42
+mnt-by:             SORBY-MNT
+org:                ORG-SORBY
+status:             ASSIGNED
+source:             DN42

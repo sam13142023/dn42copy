@@ -1,0 +1,5 @@
+route6:             fd1e:d888:50b7::/48
+origin:             AS4242421821
+max-length:         48
+mnt-by:             SORBY-MNT
+source:             DN42

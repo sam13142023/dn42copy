@@ -1,0 +1,6 @@
+mntner:             SORBY-MNT
+admin-c:            SORBY-DN42
+tech-c:             SORBY-DN42
+mnt-by:             SORBY-MNT
+auth:               pgp-fingerprint 0CE66A0F1E0CE089652C4288628FDA882EF35409
+source:             DN42

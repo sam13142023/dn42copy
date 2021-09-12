@@ -1,0 +1,11 @@
+inet6num:           fd1e:d888:50b7:0000:0000:0000:0000:0000 - fd1e:d888:50b7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1e:d888:50b7::/48
+netname:            SORBY-NETWORK1
+descr:              Network1 of SORBY
+country:            IT
+admin-c:            SORBY-DN42
+tech-c:             SORBY-DN42
+mnt-by:             SORBY-MNT
+org:                ORG-SORBY
+status:             ASSIGNED
+source:             DN42
