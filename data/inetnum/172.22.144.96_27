@@ -1,0 +1,8 @@
+inetnum:            172.22.144.96 - 172.22.144.127
+cidr:               172.22.144.96/27
+netname:            WIGUST-NETWORK
+admin-c:            WIGUST-DN42
+tech-c:             WIGUST-DN42
+mnt-by:             WIGUST-MNT
+status:             ASSIGNED
+source:             DN42
