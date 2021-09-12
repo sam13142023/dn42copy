@@ -1,0 +1,4 @@
+route:              172.22.98.32/27
+origin:             AS4242421821
+mnt-by:             SORBY-MNT
+source:             DN42
