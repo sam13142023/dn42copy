@@ -4,4 +4,5 @@ admin-c:            LEVI-DN42
 tech-c:             LEVI-DN42
 mnt-by:             0X6-MNT
 auth:               pgp-fingerprint C8FA787C1285EC9B1A7B56C72479E7F7DE17D3B4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG49QUuMjD5Rt/lr/1LZjKBpuUxpttizNDE08/h4fYYb levi@hambook.levi.lol
 source:             DN42
