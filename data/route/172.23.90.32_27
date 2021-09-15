@@ -1,0 +1,4 @@
+route:              172.23.90.32/27
+origin:             AS4242422433
+mnt-by:             CATMEOW-MNT
+source:             DN42

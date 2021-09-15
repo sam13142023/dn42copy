@@ -1,0 +1,8 @@
+inetnum:            172.23.90.32 - 172.23.90.63
+cidr:               172.23.90.32/27
+netname:            CATMEOWV4-MAIN-NETWORK
+admin-c:            CATMEOW-DN42
+tech-c:             CATMEOW-DN42
+mnt-by:             CATMEOW-MNT
+status:             ASSIGNED
+source:             DN42
