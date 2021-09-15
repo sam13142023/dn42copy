@@ -1,0 +1,5 @@
+route6:             fd66:f1ed:8b4f::/48
+origin:             AS4242422433
+max-length:         48
+mnt-by:             CATMEOW-MNT
+source:             DN42

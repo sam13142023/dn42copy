@@ -1,0 +1,10 @@
+inet6num:           fd66:f1ed:8b4f:0000:0000:0000:0000:0000 - fd66:f1ed:8b4f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:f1ed:8b4f::/48
+netname:            CATMEOW-MAIN-NETWORK
+descr:              Network of CATMEOW
+country:            CN
+admin-c:            CATMEOW-DN42
+tech-c:             CATMEOW-DN42
+mnt-by:             CATMEOW-MNT
+status:             ASSIGNED
+source:             DN42
