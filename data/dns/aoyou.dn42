@@ -2,6 +2,6 @@ domain:             aoyou.dn42
 admin-c:            AOYOU-DN42
 tech-c:             AOYOU-DN42
 mnt-by:             AOYOU-MNT
-nserver:            ns1.aoyou.dn42 172.20.210.5
-nserver:            ns1.aoyou.dn42 fde5:2a75:1037::5
+nserver:            ns1.aoyou.dn42 172.20.210.53
+nserver:            ns1.aoyou.dn42 fde5:2a75:1037::53
 source:             DN42
