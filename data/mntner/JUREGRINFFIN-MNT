@@ -5,4 +5,7 @@ mnt-by:             JUREGRINFFIN-MNT
 source:             DN42
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDFt22b5DKFipDWJjUVloza7J4M83q6zR4Jc2ZP9RzAS
 auth:               pgp-fingerprint BBC8F575CA999E77BBFC087A4D9AF8F545D25F78
-remarks:            Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
+remarks:            Looking Glass:lg-jg-awsl.xyz
+remarks:            Node desciption panel is in progress
+remarks:            Telegram:AlbertMichae1
+remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com

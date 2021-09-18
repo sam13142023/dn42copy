@@ -1,6 +1,14 @@
 inet6num:           fd92:6a0d:ea38:0000:0000:0000:0000:0000 - fd92:6a0d:ea38:ffff:ffff:ffff:ffff:ffff
+nserver:            ns1.jgillc.dn42
+nserver:            ns2.jgillc.dn42
+nserver:            ns3.jgillc.dn42
+nserver:            ns4.jgillc.dn42
 netname:            JUREGRINFFIN-IPV6
-descr:              Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Contacts in remarks. Open for peering. 
+remarks:            Looking Glass:lg-jg-awsl.xyz
+remarks:            Node desciption panel is in progress
+remarks:            Telegram:AlbertMichae1
+remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
 country:            CN
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42

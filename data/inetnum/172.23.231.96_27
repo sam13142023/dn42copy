@@ -1,7 +1,14 @@
 inetnum:            172.23.231.96 - 172.23.231.127
+nserver:            ns1.jgillc.dn42
+nserver:            ns2.jgillc.dn42
+nserver:            ns3.jgillc.dn42
+nserver:            ns4.jgillc.dn42
 netname:            JUREGRINFFIN-IPV4
-remarks:            Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
-descr:              Studying, no peering scheduled. Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Contacts in remarks. Open for peering. 
+remarks:            Looking Glass:lg-jg-awsl.xyz
+remarks:            Node desciption panel is in progress
+remarks:            Telegram:AlbertMichae1
+remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
 country:            CN
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42

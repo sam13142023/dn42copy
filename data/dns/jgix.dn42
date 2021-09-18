@@ -1,0 +1,13 @@
+domain:             jgix.dn42
+admin-c:            JUREGRINFFIN-DN42
+tech-c:             JUREGRINFFIN-DN42
+mnt-by:             JUREGRINFFIN-MNT
+nserver:            ns1.jgix.dn42 172.23.231.119
+nserver:            ns1.jgix.dn42 fd92:6a0d:ea38::a:b969:b176
+nserver:            ns2.jgix.dn42 172.23.231.110
+nserver:            ns2.jgix.dn42 fd92:6a0d:ea38::6e:fd35:9bba
+nserver:            ns3.jgix.dn42 172.23.231.109
+nserver:            ns3.jgix.dn42 fd92:6a0d:ea38::56:fc09:c3e7
+nserver:            ns4.jgix.dn42 172.23.231.98
+nserver:            ns4.jgix.dn42 fd92:6a0d:ea38::a9:bf0b:491d
+source:             DN42
