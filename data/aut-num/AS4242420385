@@ -1,6 +1,9 @@
 aut-num:            AS4242420385
 as-name:            E396-DN42-AS
-descr:              AS for testing and learning
+descr:              Personal AS for testing and learning
+remarks:            New peers always welcome!
+remarks:            Contact me by email (edoardo396@yahoo.it) or IRC (edoardo396)
+remarks:            Protocols Wireguard/GRE6
 admin-c:            E396-DN42
 tech-c:             E396-DN42
 mnt-by:             E396-MNT

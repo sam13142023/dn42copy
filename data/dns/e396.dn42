@@ -2,6 +2,6 @@ domain:             e396.dn42
 admin-c:            E396-DN42
 tech-c:             E396-DN42
 mnt-by:             E396-MNT
-nserver:            ns1.e396.dn42 172.23.32.60
-nserver:            ns1.e396.dn42 fd01:7223:3232::53
+nserver:            ns1.e396.dn42 172.23.32.58
+nserver:            ns1.e396.dn42 fd01:7223:3232:53::53
 source:             DN42
