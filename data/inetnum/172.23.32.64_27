@@ -1,10 +1,10 @@
-inetnum:            172.23.32.32 - 172.23.32.63
-netname:            E396-NET1
+inetnum:            172.23.32.64 - 172.23.32.95
+netname:            E396-NET2
 country:            IT
 admin-c:            E396-DN42
 tech-c:             E396-DN42
 mnt-by:             E396-MNT
 status:             ASSIGNED
-cidr:               172.23.32.32/27
+cidr:               172.23.32.64/27
 nserver:            ns1.e396.dn42
 source:             DN42

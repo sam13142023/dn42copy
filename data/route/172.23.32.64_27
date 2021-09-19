@@ -1,5 +1,4 @@
-route6:             fd01:7223:3232::/48
+route:              172.23.32.64/27
 origin:             AS4242420385
-max-length:         64
 mnt-by:             E396-MNT
 source:             DN42
