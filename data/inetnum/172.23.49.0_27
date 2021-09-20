@@ -1,0 +1,10 @@
+inetnum:            172.23.49.0 - 172.23.49.31
+cidr:               172.23.49.0/27
+netname:            IBUGNET-4NET
+admin-c:            IBUG-DN42
+tech-c:             IBUG-DN42
+mnt-by:             IBUG-MNT
+status:             ASSIGNED
+nserver:            ns1.i.dn42
+nserver:            ns2.i.dn42
+source:             DN42

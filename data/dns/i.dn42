@@ -1,0 +1,7 @@
+domain:             i.dn42
+mnt-by:             IBUG-MNT
+nserver:            ns1.i.dn42 fd42:0:a::1
+nserver:            ns1.i.dn42 172.23.49.1
+nserver:            ns2.i.dn42 fd42:0:a::2
+nserver:            ns2.i.dn42 172.23.49.2
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:0000:000a:0000:0000:0000:0000:0000 - fd42:0000:000a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:0:a::/48
+netname:            IBUGNET-NET
+descr:              iBugNet
+admin-c:            IBUG-DN42
+tech-c:             IBUG-DN42
+mnt-by:             IBUG-MNT
+status:             ASSIGNED
+nserver:            ns1.i.dn42
+nserver:            ns2.i.dn42
+source:             DN42
