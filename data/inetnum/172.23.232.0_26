@@ -1,5 +1,5 @@
-inetnum:            172.23.232.0 - 172.23.232.31
-cidr:               172.23.232.0/27
+inetnum:            172.23.232.0 - 172.23.232.63
+cidr:               172.23.232.0/26
 netname:            BOXJAN-IPV4
 descr:              boxjan ipv4
 country:            CN

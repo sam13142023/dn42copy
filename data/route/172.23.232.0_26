@@ -1,4 +1,4 @@
-route:              172.23.232.0/27
+route:              172.23.232.0/26
 origin:             AS4242423495
 mnt-by:             BOXJAN-MNT
 source:             DN42
