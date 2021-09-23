@@ -1,0 +1,4 @@
+route6:             fd42:0:a::/48
+origin:             AS4242422412
+mnt-by:             IBUG-MNT
+source:             DN42
