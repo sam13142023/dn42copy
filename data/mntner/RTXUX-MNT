@@ -3,3 +3,4 @@ admin-c:            RTXUX-DN42
 tech-c:             RTXUX-DN42
 mnt-by:             RTXUX-MNT
 source:             DN42
+auth:               pgp-fingerprint C6F64F0534C11D59BF4C6F633A2BECCA143B9B45
