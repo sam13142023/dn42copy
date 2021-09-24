@@ -1,0 +1,8 @@
+inetnum:            172.20.194.0 - 172.20.194.63
+cidr:               172.20.194.0/26
+netname:            PDURLEJ-NETWORK
+admin-c:            PDURLEJ-DN42
+tech-c:             PDURLEJ-DN42
+mnt-by:             PDURLEJ-MNT
+status:             ASSIGNED
+source:             DN42

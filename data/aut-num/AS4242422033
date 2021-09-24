@@ -1,0 +1,7 @@
+aut-num:            AS4242422033
+as-name:            PDURLEJ-AS
+descr:              Piotr Durlej's primary AS
+admin-c:            PDURLEJ-DN42
+tech-c:             PDURLEJ-DN42
+mnt-by:             PDURLEJ-MNT
+source:             DN42
