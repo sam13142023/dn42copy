@@ -1,0 +1,9 @@
+inet6num:           fde2:f42a:8ac9:0000:0000:0000:0000:0000 - fde2:f42a:8ac9:ffff:ffff:ffff:ffff:ffff
+cidr:               fde2:f42a:8ac9::/48
+netname:            PDURLEJ-NETWORK
+descr:              Piotr Durlej's network
+admin-c:            PDURLEJ-DN42
+tech-c:             PDURLEJ-DN42
+mnt-by:             PDURLEJ-MNT
+status:             ASSIGNED
+source:             DN42
