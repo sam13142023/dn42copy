@@ -1,8 +1,8 @@
 route6:             fd10:127:e00f::/48
 max-length:         64
 origin:             AS4201271111
-admin-c:            KSKB-NEONETWORK
-tech-c:             KSKB-NEONETWORK
+admin-c:            KUSAKABESI-NEONETWORK
+tech-c:             KUSAKABESI-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK

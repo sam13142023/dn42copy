@@ -1,6 +1,6 @@
-route:              10.127.23.0/29
-max-length:         29
-origin:             AS4201270014
+inetnum:            10.127.8.128 - 10.127.8.135
+cidr:               10.127.8.128/29
+netname:            leedagee-local
 admin-c:            LEEDAGEE-NEONETWORK
 tech-c:             LEEDAGEE-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
