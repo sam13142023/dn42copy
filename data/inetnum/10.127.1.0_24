@@ -1,6 +1,6 @@
-inetnum:            10.127.0.0 - 10.127.0.255
-cidr:               10.127.0.0/24
-netname:            RESERVED
+inetnum:            10.127.1.0 - 10.127.1.255
+cidr:               10.127.1.0/24
+netname:            MAIN
 admin-c:            NEO-CHEN-NEONETWORK
 tech-c:             NEO-CHEN-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
