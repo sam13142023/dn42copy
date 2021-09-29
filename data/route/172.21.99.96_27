@@ -1,0 +1,4 @@
+route:              172.21.99.96/27
+origin:             AS4242421038
+mnt-by:             DTO-MNT
+source:             DN42
