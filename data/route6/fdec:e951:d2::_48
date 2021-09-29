@@ -1,0 +1,4 @@
+route6:             fdec:e951:d2::/48
+origin:             AS4242421038
+mnt-by:             DTO-MNT
+source:             DN42

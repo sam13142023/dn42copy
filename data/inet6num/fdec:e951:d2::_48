@@ -1,0 +1,8 @@
+inet6num:           fdec:e951:00d2:0000:0000:0000:0000:0000 - fdec:e951:00d2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdec:e951:d2::/48
+netname:            DTO-V6-1
+admin-c:            DTO-DN42
+tech-c:             DTO-DN42
+mnt-by:             DTO-MNT
+status:             ASSIGNED
+source:             DN42

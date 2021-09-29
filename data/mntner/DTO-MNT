@@ -1,0 +1,6 @@
+mntner:             DTO-MNT
+admin-c:            DTO-DN42
+tech-c:             DTO-DN42
+mnt-by:             DTO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFu4/QbC8tq8B76rJre3wUFz1x4EDdqK9V5xIs6Uo2uFIQv87p1+9d7G+TeWQ4VGfdlRsWrlS9Cp0ZE30zqtWoSZKv99X6fCggJ/QG4qwlH2kyTrPt39zv80jj+lMAiW9yxYyi2PNoiEg5rZPGyOCmKctjeIa5OUOkc1L/gtoRLpD4U4wlW+T95sCt7JU8lhoQOMtD6uzo9eGj+f3rvW+CBfMotsdfwtKpvq7R+cF+tVqgQD7HX6ORnVN09UiyuuIToYiO0bwc6/0z/nV4yxXsLjD0roFTiV/JoDG2SZx2j4vo2tmUSmF9U0XoKIgoyEEhrXLPF7RySOFbT3hJud2H
+source:             DN42
