@@ -1,0 +1,5 @@
+route:              172.23.104.160/27
+descr:              ZEGOOP DN42 NETWORK
+origin:             AS4242421206
+mnt-by:             ZEGOOP-MNT
+source:             DN42

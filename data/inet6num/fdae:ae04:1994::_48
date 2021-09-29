@@ -1,0 +1,10 @@
+inet6num:           fdae:ae04:1994:0000:0000:0000:0000:0000 - fdae:ae04:1994:ffff:ffff:ffff:ffff:ffff
+netname:            ZEGOOP-IPV6
+descr:              ZEGOOP DN42 NETWORK
+country:            CN
+admin-c:            ZEGOOP-DN42
+tech-c:             ZEGOOP-DN42
+mnt-by:             ZEGOOP-MNT
+status:             ASSIGNED
+cidr:               fdae:ae04:1994::/48
+source:             DN42

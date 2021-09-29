@@ -1,0 +1,7 @@
+aut-num:            AS4242421206
+as-name:            ZEGOOP-AS
+descr:              Peer with me
+admin-c:            ZEGOOP-DN42
+tech-c:             ZEGOOP-DN42
+mnt-by:             ZEGOOP-MNT
+source:             DN42
