@@ -1,0 +1,9 @@
+inet6num:           fdc4:13f5:25ec:0000:0000:0000:0000:0000 - fdc4:13f5:25ec:ffff:ffff:ffff:ffff:ffff
+admin-c:            LEHRBAUM-DN42
+tech-c:             LEHRBAUM-DN42
+mnt-by:             LEHRBAUM-MNT
+status:             ASSIGNED
+cidr:               fdc4:13f5:25ec::/48
+netname:            LEHRBAUM-NETWORK
+country:            AT
+source:             DN42

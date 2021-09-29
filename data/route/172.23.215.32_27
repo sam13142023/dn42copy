@@ -1,0 +1,4 @@
+route:              172.23.215.32/27
+origin:             AS4242422821
+mnt-by:             LEHRBAUM-MNT
+source:             DN42

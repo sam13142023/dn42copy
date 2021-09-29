@@ -1,0 +1,10 @@
+inetnum:            172.23.215.32 - 172.23.215.63
+cidr:               172.23.215.32/27
+netname:            LEHRBAUM-NETWORK
+descr:              LEHRBAUM Network
+country:            AT
+admin-c:            LEHRBAUM-DN42
+tech-c:             LEHRBAUM-DN42
+mnt-by:             LEHRBAUM-MNT
+status:             ASSIGNED
+source:             DN42
