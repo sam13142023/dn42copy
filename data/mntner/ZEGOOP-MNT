@@ -1,0 +1,7 @@
+mntner:             ZEGOOP-MNT
+admin-c:            ZEGOOP-DN42
+tech-c:             ZEGOOP-DN42
+mnt-by:             ZEGOOP-MNT
+source:             DN42
+auth:               pgp-fingerprint 960D28ECF0318D7195751F1DDEEF40C843358F5F
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOyUn5skJKsBmQ2mtH+mPT9FrsCoeKyYXRchcmYppHjSo+6J1WNIbvvofB7R5DkSpFmyzgcN4FsIbrQ9gVUzU5BmmMZP0hEGhbiLNos4n4cDCzsQ1IsXWcovUJhUpPxOF0gIx2swsM3dvmse6QQpfSodN+cnWKXglHXgrhhEvhZ2Yb27SKcy2Dn0rAGt6aiOHVL6rBKE+f3LLbY9tjc7QbC69R31FqHorZrt0bTe0S566OjZgCxm27DjFisix3L8CmeNHnoFvl0J5CISGaKVnsCJU2+OnRvyhlB8ctT4X18wsSlCSvL4hHWkmkkj6Zhd0nTyTDzailyxFdtV7ITENx

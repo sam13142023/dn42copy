@@ -1,0 +1,10 @@
+inetnum:            172.23.104.160 - 172.23.104.191
+netname:            ZEGOOP-NET
+descr:              ZEGOOP DN42 NETWORK
+country:            CN
+admin-c:            ZEGOOP-DN42
+tech-c:             ZEGOOP-DN42
+mnt-by:             ZEGOOP-MNT
+status:             ASSIGNED
+cidr:               172.23.104.160/27
+source:             DN42

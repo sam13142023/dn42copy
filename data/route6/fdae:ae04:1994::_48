@@ -1,0 +1,5 @@
+route6:             fdae:ae04:1994::/48
+descr:              ZEGOOP DN42 NETWORK
+origin:             AS4242421206
+mnt-by:             ZEGOOP-MNT
+source:             DN42
