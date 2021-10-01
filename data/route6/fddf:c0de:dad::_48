@@ -1,0 +1,5 @@
+route6:             fddf:c0de:dad::/48
+origin:             AS4242422571
+max-length:         48
+mnt-by:             THOMAS-MNT
+source:             DN42
