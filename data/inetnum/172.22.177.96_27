@@ -1,0 +1,8 @@
+inetnum:            172.22.177.96 - 172.22.177.127
+cidr:               172.22.177.96/27
+netname:            JIN-NETWORK
+admin-c:            JIN-DN42
+tech-c:             JIN-DN42
+mnt-by:             JIN-MNT
+status:             ASSIGNED
+source:             DN42
