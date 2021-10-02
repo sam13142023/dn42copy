@@ -1,0 +1,10 @@
+inet6num:           fd98:a42d:9898:0000:0000:0000:0000:0000 - fd98:a42d:9898:ffff:ffff:ffff:ffff:ffff
+netname:            JIN-IPV6
+descr:              Peer with me at kiyoaki.li@icloud.com
+country:            CN
+admin-c:            JIN-DN42
+tech-c:             JIN-DN42
+mnt-by:             JIN-MNT
+status:             ASSIGNED
+cidr:               fd98:a42d:9898::/48
+source:             DN42

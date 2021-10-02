@@ -1,0 +1,7 @@
+mntner:             JIN-MNT
+admin-c:            JIN-DN42
+tech-c:             JIN-DN42
+mnt-by:             JIN-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGD64d7Bfl2Bn3GZhmaFiNHEaIicdE+m/w1slkT2xNFH nabokov@MacBook-Pro-of-Jin.local
+auth:               pgp-fingerprint B7ECD8F01840324962187F99E78E00B435B0B181
