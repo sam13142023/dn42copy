@@ -1,0 +1,6 @@
+domain:             pdurlej.dn42
+admin-c:            PDURLEJ-DN42
+tech-c:             PDURLEJ-DN42
+mnt-by:             PDURLEJ-MNT
+source:             DN42
+nserver:            ns.durlej.dn42
