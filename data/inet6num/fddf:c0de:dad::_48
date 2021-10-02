@@ -1,0 +1,10 @@
+inet6num:           fddf:c0de:0dad:0000:0000:0000:0000:0000 - fddf:c0de:0dad:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:c0de:dad::/48
+netname:            THOMAS-NETWORK
+descr:              Thomas's network
+country:            DE
+admin-c:            THOMAS-DN42
+tech-c:             THOMAS-DN42
+mnt-by:             THOMAS-MNT
+status:             ASSIGNED
+source:             DN42

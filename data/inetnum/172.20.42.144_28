@@ -1,0 +1,8 @@
+inetnum:            172.20.42.144 - 172.20.42.159
+cidr:               172.20.42.144/28
+netname:            THOMAS-IPV4-NETWORK
+admin-c:            THOMAS-DN42
+tech-c:             THOMAS-DN42
+mnt-by:             THOMAS-MNT
+status:             ASSIGNED
+source:             DN42
