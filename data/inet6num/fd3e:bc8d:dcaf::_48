@@ -1,0 +1,10 @@
+inet6num:           fd3e:bc8d:dcaf:0000:0000:0000:0000:0000 - fd3e:bc8d:dcaf:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3e:bc8d:dcaf::/48
+netname:            CATGIRLBIZ-DN42-NET-1
+descr:              CatgirlBiz Test Network
+admin-c:            LUNA-DN42
+tech-c:             LUNA-DN42
+mnt-by:             LUNA-MNT
+org:                ORG-CATGIRLBIZ
+status:             ASSIGNED
+source:             DN42
