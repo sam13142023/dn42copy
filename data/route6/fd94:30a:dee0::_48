@@ -1,0 +1,5 @@
+route6:             fd94:30a:dee0::/48
+descr:              Arisum DN42 Network
+origin:             AS4242421557
+mnt-by:             ARISUM-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             ARISUM-MNT
+descr:              Arisum
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDXV/dRlW9C0JPFa0yuhI6iAejpSj5qn9uP9hDJAXQhG
+admin-c:            ARISUM-DN42
+tech-c:             ARISUM-DN42
+mnt-by:             ARISUM-MNT
+source:             DN42
