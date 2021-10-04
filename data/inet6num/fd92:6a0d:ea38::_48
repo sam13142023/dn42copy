@@ -1,8 +1,8 @@
 inet6num:           fd92:6a0d:ea38:0000:0000:0000:0000:0000 - fd92:6a0d:ea38:ffff:ffff:ffff:ffff:ffff
-nserver:            ns1.jgillc.dn42
-nserver:            ns2.jgillc.dn42
-nserver:            ns3.jgillc.dn42
-nserver:            ns4.jgillc.dn42
+nserver:            ns1.jgix.dn42
+nserver:            ns2.jgix.dn42
+nserver:            ns3.jgix.dn42
+nserver:            ns4.jgix.dn42
 netname:            JUREGRINFFIN-IPV6
 descr:              Contacts in remarks. Open for peering. 
 remarks:            Looking Glass:lg-jg-awsl.xyz
