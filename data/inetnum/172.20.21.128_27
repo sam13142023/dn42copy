@@ -1,0 +1,10 @@
+inetnum:            172.20.21.128 - 172.20.21.159
+cidr:               172.20.21.128/27
+netname:            CATGIRLBIZ-IPV4-1
+descr:              CatgirlBiz
+admin-c:            LUNA-DN42
+tech-c:             LUNA-DN42
+mnt-by:             LUNA-MNT
+org:                ORG-CATGIRLBIZ
+status:             ASSIGNED
+source:             DN42
