@@ -1,0 +1,8 @@
+inet6num:           fd62:c9e2:af95:0000:0000:0000:0000:0000 - fd62:c9e2:af95:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:c9e2:af95::/48
+netname:            WG-IPV6
+admin-c:            WG-DN42
+tech-c:             WG-DN42
+mnt-by:             WG-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.131.192 - 172.23.131.223
+cidr:               172.23.131.192/27
+netname:            WG-IPV4
+admin-c:            WG-DN42
+tech-c:             WG-DN42
+mnt-by:             WG-MNT
+status:             ASSIGNED
+source:             DN42
