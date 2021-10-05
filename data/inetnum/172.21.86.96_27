@@ -1,0 +1,9 @@
+inetnum:            172.21.86.96 - 172.21.86.127
+cidr:               172.21.86.96/27
+netname:            ARISUM-IPV4-1
+descr:              Arisum IPv4
+admin-c:            ARISUM-DN42
+tech-c:             ARISUM-DN42
+mnt-by:             ARISUM-MNT
+status:             ASSIGNED
+source:             DN42

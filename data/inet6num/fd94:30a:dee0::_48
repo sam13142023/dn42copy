@@ -1,0 +1,9 @@
+inet6num:           fd94:030a:dee0:0000:0000:0000:0000:0000 - fd94:030a:dee0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:30a:dee0::/48
+netname:            ARISUM-DN42-NET-1
+descr:              Arisum DN42 Network
+admin-c:            ARISUM-DN42
+tech-c:             ARISUM-DN42
+mnt-by:             ARISUM-MNT
+status:             ASSIGNED
+source:             DN42
