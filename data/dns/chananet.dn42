@@ -1,0 +1,9 @@
+domain:             chananet.dn42
+admin-c:            CHANANET-DN42
+tech-c:             CHANANET-DN42
+mnt-by:             CHANANET-MNT
+nserver:            ns1.chananet.dn42 172.23.77.33
+nserver:            ns1.chananet.dn42 fdef:859d:a88:53::1
+nserver:            ns2.chananet.dn42 172.23.77.34
+nserver:            ns2.chananet.dn42 fdef:859d:a88:53::2
+source:             DN42

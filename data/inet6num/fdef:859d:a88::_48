@@ -1,0 +1,12 @@
+inet6num:           fdef:859d:0a88:0000:0000:0000:0000:0000 - fdef:859d:0a88:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:859d:a88::/48
+netname:            CHANANET-NETWORK
+descr:              Network of CHANANET
+country:            TH
+admin-c:            CHANANET-DN42
+tech-c:             CHANANET-DN42
+mnt-by:             CHANANET-MNT
+status:             ASSIGNED
+nserver:            ns1.chananet.dn42
+nserver:            ns2.chananet.dn42
+source:             DN42

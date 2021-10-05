@@ -1,0 +1,5 @@
+route6:             fdef:859d:a88::/48
+origin:             AS4242423280
+max-length:         48
+mnt-by:             CHANANET-MNT
+source:             DN42
