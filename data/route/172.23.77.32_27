@@ -1,0 +1,4 @@
+route:              172.23.77.32/27
+origin:             AS4242423280
+mnt-by:             CHANANET-MNT
+source:             DN42

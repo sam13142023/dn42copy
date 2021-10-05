@@ -1,0 +1,6 @@
+mntner:             CHANANET-MNT
+admin-c:            CHANANET-DN42
+tech-c:             CHANANET-DN42
+mnt-by:             CHANANET-MNT
+auth:               pgp-fingerprint 66B6A417D3C7584887A3F61B01852593D5529A70
+source:             DN42

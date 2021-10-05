@@ -1,0 +1,8 @@
+inetnum:            172.23.77.32 - 172.23.77.63
+cidr:               172.23.77.32/27
+netname:            CHANANET-NETWORK
+admin-c:            CHANANET-DN42
+tech-c:             CHANANET-DN42
+mnt-by:             CHANANET-MNT
+status:             ASSIGNED
+source:             DN42
