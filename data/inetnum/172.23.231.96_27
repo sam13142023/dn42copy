@@ -1,8 +1,8 @@
 inetnum:            172.23.231.96 - 172.23.231.127
-nserver:            ns1.jgillc.dn42
-nserver:            ns2.jgillc.dn42
-nserver:            ns3.jgillc.dn42
-nserver:            ns4.jgillc.dn42
+nserver:            ns1.jgix.dn42
+nserver:            ns2.jgix.dn42
+nserver:            ns3.jgix.dn42
+nserver:            ns4.jgix.dn42
 netname:            JUREGRINFFIN-IPV4
 descr:              Contacts in remarks. Open for peering. 
 remarks:            Looking Glass:lg-jg-awsl.xyz
