@@ -1,0 +1,5 @@
+route6:             fd62:c9e2:af95::/48
+origin:             AS4242422331
+max-length:         48
+mnt-by:             WG-MNT
+source:             DN42

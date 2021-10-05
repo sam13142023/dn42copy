@@ -1,0 +1,6 @@
+mntner:             WG-MNT
+admin-c:            WG-DN42
+tech-c:             WG-DN42
+mnt-by:             WG-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDF9HM2tXgl/dWE0WD2DegS+ARSYxine85ETXxRI8JzMi59hxO06NfrpEjYNnsRfzQChJXTLrEUpYFhwJpjOVb2wDc0XTSWbk7zhL/KwZRpBfJWty2xB3y3ipt8uJxCqCNxl1Cz2GFlYB7bNXc2FvTKE/IqugRhlQ7LFNedJhYMjV60iKvcMS9lBp/rHOcuZmogCQpORbax4hGAxsnonm8VHy7yWKilWEnjWPFn5mzHXJQDn8sL0c3Z+hDM000opGqgoyOLYwfN27y6S+C0HoDaPD7vRY/8xLXTuBa1FA2+t/L9jbnShJ6hbFgyWo6mD9srM2gnpp/WVmS4OiO/ai7b
+source:             DN42
