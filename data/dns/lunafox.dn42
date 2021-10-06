@@ -1,0 +1,7 @@
+domain:             lunafox.dn42
+admin-c:            LUNA-DN42
+tech-c:             LUNA-DN42
+mnt-by:             LUNA-MNT
+nserver:            ns1.lunafox.dn42 fd3e:bc8d:dcaf::
+nserver:            ns1.lunafox.dn42 172.20.21.129
+source:             DN42
