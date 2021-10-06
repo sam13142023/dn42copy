@@ -1,0 +1,4 @@
+route:              172.23.110.160/27
+origin:             AS4242420865
+mnt-by:             MUMU-LHL-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd81:9057:26e6:0000:0000:0000:0000:0000 - fd81:9057:26e6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:9057:26e6::/48
+netname:            MUMU-LHL-DN42-V6
+descr:              Mumu-lhl DN42 Network IPv6 Block
+country:            CN
+admin-c:            MUMU-LHL-DN42
+tech-c:             MUMU-LHL-DN42
+mnt-by:             MUMU-LHL-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.110.160 - 172.23.110.191
+cidr:               172.23.110.160/27
+netname:            MUMU-LHL-DN42-V4
+descr:              Mumu-lhl DN42 Network IPv4 Block
+country:            CN
+admin-c:            MUMU-LHL-DN42
+tech-c:             MUMU-LHL-DN42
+mnt-by:             MUMU-LHL-MNT
+status:             ASSIGNED
+source:             DN42

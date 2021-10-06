@@ -1,0 +1,7 @@
+mntner:             MUMU-LHL-MNT
+admin-c:            MUMU-LHL-DN42
+tech-c:             MUMU-LHL-DN42
+mnt-by:             MUMU-LHL-MNT
+source:             DN42
+auth:               pgp-fingerprint 1AA40CF77A9AFC92CBFB183B5BB7B423B67E3993
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQChNNBlkmcZu3k4McpXi3t8OkxDVJmAWMXtNw7FXaz/0Gq9XqNjYE+cqO/iVdHXpdUFaOwlzdZxcv1j16U+0efi9mAtMxQ19+dRdokq1xligtIPlhJuNzL+/MemQ4abSzrcgA+YtgDrxWymxCHOTt7sA8o8nmEm+BcWzn8RwejzAgIgmpQpzxNpcB+HHKVIM7AJW3PRt7ZePvodQXxtDQh88PmU5KfiiL++ZwJfW3hNSUbZ+CIXVfU2RR/7pdL6AmfyAkNyjNU0vlS1PSQQl6I9Ov8MQQ9uJ+QvX07LZrJbQUCYiZACjFV3nHcK4XNAXa0fuC4M9xm0MP3K6SOiZw/CP/NR3c8DZeejbR0haZi7a6ZXsEgYV22+z3IxST1kH1iL5xdP/9aphRv1O/b1ElBHZTYsGpJsB2vw1BzatfVdUepL4aYy6ujk9azPDFwEf4HzHA9NpYx4lpE3UEcIkMHbLttlJDO/3SmkJAf/wYYmcVFG9O7emzDOGzU726cPihg8/ZUOsTXjQL8uPdKMu+5PoRA95AW6J2fnxuXBUNLHtbIJ2UQMYAQn6VYYvZc6q2WG5ru5EpqWG2tcggEPTJXhryn7KT2gpynfW3Y5w7e2vcNuIdzKIcmGsw/ohDabCLao1//X/7MUngvzBCwfBlfn2sRiB6QcaPilOrEiXIgqNw==
