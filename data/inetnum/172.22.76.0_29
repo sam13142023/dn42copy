@@ -1,0 +1,9 @@
+inetnum:            172.22.76.0 - 172.22.76.7
+cidr:               172.22.76.0/29
+netname:            RHYSPERRY111-NETWORK
+admin-c:            RHYSPERRY111-DN42
+tech-c:             RHYSPERRY111-DN42
+mnt-by:             RHYSPERRY111-MNT
+status:             ASSIGNED
+nserver:            ns1.rhysperry111.dn42
+source:             DN42

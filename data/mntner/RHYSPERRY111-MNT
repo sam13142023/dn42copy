@@ -1,0 +1,6 @@
+mntner:             RHYSPERRY111-MNT
+admin-c:            RHYSPERRY111-DN42
+tech-c:             RHYSPERRY111-DN42
+mnt-by:             RHYSPERRY111-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDRK3OODC/cswYQwtBXgkSG8MSK/pGh9LR8R75ys2k3nI/i2uu+WdQ+Qefn3s8oGuZZyuO0RbbeKfsnizaD0x0taKdHE953OAe200jer6AxpGW0/0bfznRiflgTPTaxVCmmgH6aLkdF55GD87TKbXLV8KcVSLied2RqxbP26AW2eaX4LIaU9Ha28yCVRCVdAeeMRqJgtEL8AUKfp4wbUDfsOjKH2c287N4LxwxEL81OP7doxuxszKl4z7R/igcVFEhwQtaS0O3VIzH/2TSONLEdF1rxh/N8arf+xNH08iszzPLkqLZYMHvmcbdoiyudAuBnvccktHmyHGiRazf8iAZNZaAkYaCVUabZcPqQ5SJBZAvYjJ43g1EUbrXc/ZmRHkZUn4xTiriwlZUHtNpqMZH35aE+jVl+OlKcYB0SJxf5mzL1d7uDL8s+Z5R5Pr7BS9rAAyd/JUpW1iCtVmaxdqSJkjleAORnPrhf6hezBYTkNcUyYIiNIgyfyk1SMErKPtE= rhys@archlinux-laptop
+source:             DN42
