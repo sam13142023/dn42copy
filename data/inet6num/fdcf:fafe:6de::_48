@@ -1,0 +1,10 @@
+inet6num:           fdcf:fafe:06de:0000:0000:0000:0000:0000 - fdcf:fafe:06de:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:fafe:6de::/48
+netname:            BELOHNUNG-NETWORK
+descr:              Network of BELOHNUNG
+country:            DE
+admin-c:            BELOHNUNG-DN42
+tech-c:             BELOHNUNG-DN42
+mnt-by:             BELOHNUNG-MNT
+status:             ASSIGNED
+source:             DN42
