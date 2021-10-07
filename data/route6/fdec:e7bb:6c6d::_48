@@ -1,0 +1,5 @@
+route6:             fdec:e7bb:6c6d::/48
+origin:             AS4242421880
+max-length:         48
+mnt-by:             GRUNBLATT-MNT
+source:             DN42
