@@ -1,0 +1,5 @@
+route6:             fd40:a3a9:287c::/48
+origin:             AS4242423373
+max-length:         48
+mnt-by:             MAXMATI-MNT
+source:             DN42

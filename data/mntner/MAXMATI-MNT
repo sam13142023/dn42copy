@@ -1,0 +1,7 @@
+mntner:             MAXMATI-MNT
+admin-c:            MAXMATI-DN42
+tech-c:             MAXMATI-DN42
+mnt-by:             MAXMATI-MNT
+auth:               pgp-fingerprint 3CD334253E9C65146C651CC477BE70393BB5143B
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL9J5nV3qihryewsUlBH///caAQ3zWAEjr3ZqTtLyvBd maxmati@leopardus
+source:             DN42

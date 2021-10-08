@@ -1,0 +1,10 @@
+inet6num:           fd40:a3a9:287c:0000:0000:0000:0000:0000 - fd40:a3a9:287c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd40:a3a9:287c::/48
+netname:            MAXMATI-NETWORK
+descr:              Maxmati's main network
+country:            PL
+admin-c:            MAXMATI-DN42
+tech-c:             MAXMATI-DN42
+mnt-by:             MAXMATI-MNT
+status:             ASSIGNED
+source:             DN42
