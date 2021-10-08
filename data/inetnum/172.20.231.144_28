@@ -1,6 +1,6 @@
 inetnum:            172.20.231.144 - 172.20.231.159
-netname:            LF-K8S
-descr:              Local kubernetes cluster IPs
+netname:            LFNET-K8S
+descr:              LoadBalancer IPs in kubernetes cluster
 country:            DE
 admin-c:            LITTLEFOX-DN42
 tech-c:             LITTLEFOX-DN42
