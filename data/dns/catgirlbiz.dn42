@@ -1,0 +1,8 @@
+domain:             catgirlbiz.dn42
+admin-c:            LUNA-DN42
+tech-c:             LUNA-DN42
+mnt-by:             LUNA-MNT
+org:                ORG-CATGIRLBIZ
+nserver:            ns1.catgirlbiz.dn42 fd3e:bc8d:dcaf::
+nserver:            ns1.catgirlbiz.dn42 172.20.21.129
+source:             DN42
