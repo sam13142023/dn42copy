@@ -1,0 +1,10 @@
+inet6num:           fde8:8953:ac1e:0000:0000:0000:0000:0000 - fde8:8953:ac1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fde8:8953:ac1e::/48
+netname:            THATGUY-IPv6-NETWORK
+descr:              THATGUY IPv6 Network
+admin-c:            THATGUY-DN42
+tech-c:             THATGUY-DN42
+mnt-by:             THATGUY-MNT
+country:            GR
+status:             ASSIGNED
+source:             DN42
