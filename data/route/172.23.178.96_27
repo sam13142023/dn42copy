@@ -1,0 +1,4 @@
+route:              172.23.178.96/27
+origin:             AS4242420906
+mnt-by:             MATAN129-MNT
+source:             DN42

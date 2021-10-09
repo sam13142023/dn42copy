@@ -1,0 +1,9 @@
+inetnum:            172.23.178.96 - 172.23.178.127
+netname:            PASTEN-NET
+country:            IL
+admin-c:            MATAN129-DN42
+tech-c:             MATAN129-DN42
+mnt-by:             MATAN129-MNT
+status:             ASSIGNED
+cidr:               172.23.178.96/27
+source:             DN42
