@@ -1,0 +1,6 @@
+mntner:             AGORALAB-MNT
+admin-c:            AGORALAB-DN42
+tech-c:             AGORALAB-DN42
+mnt-by:             AGORALAB-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZ/Q02LxBmr3EaMxwninEKjZlm2FBjvK8bpaoYU8Xotfn+Ne012kmC6aZ4chjKT525IZlFjuK61W6lxOHFzb0mh1hCiOq5eWFsAHSmnhe0P4gUSojK8xtCKi0IpuzN2OFRdYRkP7atDUkBHeayytTVHcNAw/DcgkpMYlWP+9J3NsWMim43szAiXcIWSe98/JtUjRzhnPTZg6YQw10AdaN9xwHmRE+zSj/jB7TnDiLMKsRK37ZA7VbyqWHoByDdjzm1BTz2fO5fwWacUPA6c4PHvwyrckI/CRJiPE141zHgczwrKdrE5R6sh+WfLqxPD+feT1oaUFRapfusZMskXG8Z
+source:             DN42

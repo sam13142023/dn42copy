@@ -1,0 +1,9 @@
+inetnum:            172.23.58.0 - 172.23.58.63
+cidr:               172.23.58.0/26
+netname:            AGORALAB-IPV4
+country:            US
+admin-c:            AGORALAB-DN42
+tech-c:             AGORALAB-DN42
+mnt-by:             AGORALAB-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd1b:e9d8:d5f3:0000:0000:0000:0000:0000 - fd1b:e9d8:d5f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1b:e9d8:d5f3::/48
+netname:            AGORALAB-NET
+country:            US
+admin-c:            AGORALAB-DN42
+tech-c:             AGORALAB-DN42
+mnt-by:             AGORALAB-MNT
+status:             ASSIGNED
+source:             DN42
