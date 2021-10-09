@@ -8,3 +8,4 @@ mnt-by:             KMSBISMARCK-MNT
 status:             ASSIGNED
 cidr:               fd89:d23e:2566::/48
 source:             DN42
+nserver:            ns1.kmsbismarck.dn42

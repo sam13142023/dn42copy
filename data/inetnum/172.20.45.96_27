@@ -9,3 +9,4 @@ mnt-by:             KMSBISMARCK-MNT
 status:             ASSIGNED
 cidr:               172.20.45.96/27
 source:             DN42
+nserver:            ns1.kmsbismarck.dn42
