@@ -1,0 +1,4 @@
+route6:             fd1b:e9d8:d5f3::/48
+origin:             AS4242422143
+mnt-by:             AGORALAB-MNT
+source:             DN42
