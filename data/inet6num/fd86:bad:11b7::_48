@@ -1,7 +1,7 @@
 inet6num:           fd86:0bad:11b7:0000:0000:0000:0000:0000 - fd86:0bad:11b7:ffff:ffff:ffff:ffff:ffff
 cidr:               fd86:bad:11b7::/48
-netname:            JLU5-NET
-descr:              jlu5 R&D network
+netname:            HIGHDEF-NET6
+descr:              highdef.network
 country:            CA
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42

@@ -1,7 +1,7 @@
 inetnum:            172.20.229.112 - 172.20.229.127
 cidr:               172.20.229.112/28
-netname:            JLU5-NET
-descr:              jlu5.dn42 backbone network
+netname:            HIGHDEF-NET-1
+descr:              highdef.network
 country:            CA
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42
