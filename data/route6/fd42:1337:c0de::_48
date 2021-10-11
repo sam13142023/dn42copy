@@ -1,0 +1,5 @@
+route6:             fd42:1337:c0de::/48
+origin:             AS4242420995
+max-length:         48
+mnt-by:             FLYINGPACKETS-MNT
+source:             DN42

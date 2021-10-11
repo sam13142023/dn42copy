@@ -1,0 +1,12 @@
+inetnum:            172.20.128.128 - 172.20.128.191
+cidr:               172.20.128.128/26
+netname:            FLYINGPACKETS-NET
+descr:              FlyingPackets DN42 Network
+country:            US
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+status:             ASSIGNED
+nserver:            ns1.fpn.dn42
+nserver:            ns2.fpn.dn42
+source:             DN42

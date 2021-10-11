@@ -1,0 +1,4 @@
+route:              172.20.128.128/26
+origin:             AS4242420995
+mnt-by:             FLYINGPACKETS-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             FLYINGPACKETS-MNT
+descr:              FlyingPackets DN42 Network
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+auth:               pgp-fingerprint 9F83BEFDF652017CBBFFD729AA92B17775115C7A
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4TE9yO7FYb7bVOmJ04lofTvZm7uxli0p+5ux2GgEx9vFJdtIyKvRLIQUVsmqcuhToqNOAezbDDYi0IdiGa7uS2wHmht841Icx8ZX0KEhXDIuUIQpuSGtx0s8nJwhb2d4QgBFVpHmedSKii6WqqYaycsO86cIZ53+1/LmG6RMhf5ong6bUriYes04B39soKXdixnks6P5nu3lX5Io3zqe456rP4OaHLIkp3FH1B8dOoAoURXS/kokQP1nhQN/H/sAkYbSQ1Z9ppDO1CZrz8feQdHEtL30eGN/NaLYrAC7wmoh1fAeTVyfvH7sGpgIDDrgInXdhxPhG9qbMp/mIwwn5fZysJ7PSdl2nZldQ0evUo8sazPxklnAsKNL+InPdJHu7ICJ6OPy47eOSxhogFk7BqmpsudhnicUPV0RK6QoWJVfQQncbDB24pcmdrfEyp7NM05uygn7sfo5rYx3YRwke+UVoUO3XXDsAAqHMNXxRj6d+3CLixYAS5CeqKOloCLocN6MkJ53a7S+g0NJ0nKiWq0ko2MWX+k8krv8wcecnwZ0KcTCfL3bpSKPVLmHqsWaa6ia0CduRam4cyGUI0kXSmL2piAzPJD42ZCvdyY4q62FGhAqKhYCPi+D2j7kaSlt3+NprvSZ3Cl58h0RLjSDhaoOVXdB9P/tHL7jS6XAplQ==
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fd42:1337:c0de:0000:0000:0000:0000:0000 - fd42:1337:c0de:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1337:c0de::/48
+netname:            FLYINGPACKETS-NET
+descr:              FlyingPackets DN42 Network
+country:            US
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+status:             ASSIGNED
+nserver:            ns1.fpn.dn42
+nserver:            ns2.fpn.dn42
+source:             DN42
