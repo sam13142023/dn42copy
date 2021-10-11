@@ -1,0 +1,7 @@
+aut-num:            AS4242421816
+as-name:            POTAT0-AS
+descr:              Peer with me at dn42@potat0.cc
+admin-c:            POTAT0-DN42
+tech-c:             POTAT0-DN42
+mnt-by:             POTAT0-MNT
+source:             DN42

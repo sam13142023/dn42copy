@@ -1,0 +1,10 @@
+inet6num:           fd2c:1323:4042:0000:0000:0000:0000:0000 - fd2c:1323:4042:ffff:ffff:ffff:ffff:ffff
+netname:            POTAT0-IPV6
+descr:              Peer with me at dn42@potat0.cc
+country:            CN
+admin-c:            POTAT0-DN42
+tech-c:             POTAT0-DN42
+mnt-by:             POTAT0-MNT
+status:             ASSIGNED
+cidr:               fd2c:1323:4042::/48
+source:             DN42
