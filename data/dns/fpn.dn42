@@ -1,0 +1,9 @@
+domain:             fpn.dn42
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+nserver:            ns1.fpn.dn42 172.20.128.132
+nserver:            ns1.fpn.dn42 fd42:1337:c0de:53::1
+nserver:            ns2.fpn.dn42 172.20.128.133
+nserver:            ns2.fpn.dn42 fd42:1337:c0de:53::2
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             flyingpackets.dn42
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+nserver:            ns1.fpn.dn42
+nserver:            ns2.fpn.dn42
+source:             DN42

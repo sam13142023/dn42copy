@@ -1,0 +1,7 @@
+aut-num:            AS4242420995
+as-name:            FLYINGPACKETS-DN42
+descr:              FlyingPackets DN42 Network
+admin-c:            BOOM-DN42
+tech-c:             BOOM-DN42
+mnt-by:             FLYINGPACKETS-MNT
+source:             DN42
