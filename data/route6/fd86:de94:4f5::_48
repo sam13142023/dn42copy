@@ -1,4 +1,4 @@
-route6:             fd86:de94:04f5::/48
+route6:             fd86:de94:4f5::/48
 origin:             AS4242421569
 max-length:         48
 mnt-by:             S0NZ-MNT
