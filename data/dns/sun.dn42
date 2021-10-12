@@ -2,6 +2,8 @@ domain:             sun.dn42
 admin-c:            SUNNET-DN42
 tech-c:             SUNNET-DN42
 mnt-by:             SUNNET-MNT
-nserver:            ns1.sun.dn42 172.21.100.222
-nserver:            ns1.sun.dn42 fdc8:dc88:ee11:100::222
+nserver:            ns1.sun.dn42 172.21.100.251
+nserver:            ns1.sun.dn42 fdc8:dc88:ee11:251::1
+nserver:            ns2.sun.dn42 172.21.100.252
+nserver:            ns2.sun.dn42 fdc8:dc88:ee11:252::1
 source:             DN42
