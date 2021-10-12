@@ -1,0 +1,8 @@
+inetnum:            172.23.69.32 - 172.23.69.63
+cidr:               172.23.69.32/27
+netname:            S0NZ-NETWORK
+admin-c:            S0NZ-DN42
+tech-c:             S0NZ-DN42
+mnt-by:             S0NZ-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd86:de94:04f5:0000:0000:0000:0000:0000 - fd86:de94:04f5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:de94:4f5::/48
+netname:            S0NZ-NETWORK
+descr:              Network of S0NZ
+country:            CH
+admin-c:            S0NZ-DN42
+tech-c:             S0NZ-DN42
+mnt-by:             S0NZ-MNT
+status:             ASSIGNED
+source:             DN42
