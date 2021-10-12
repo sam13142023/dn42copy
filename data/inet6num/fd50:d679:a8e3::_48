@@ -1,0 +1,9 @@
+inet6num:           fd50:d679:a8e3:0000:0000:0000:0000:0000 - fd50:d679:a8e3:ffff:ffff:ffff:ffff:ffff
+netname:            HUGGY-NET
+country:            CN
+admin-c:            HUGGY-DN42
+tech-c:             HUGGY-DN42
+mnt-by:             HUGGY-MNT
+status:             ASSIGNED
+cidr:               fd50:d679:a8e3::/48
+source:             DN42
