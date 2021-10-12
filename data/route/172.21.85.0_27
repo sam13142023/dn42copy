@@ -1,0 +1,4 @@
+route:              172.21.85.0/27
+origin:             AS4242422403
+mnt-by:             HUGGY-MNT
+source:             DN42

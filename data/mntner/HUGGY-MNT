@@ -1,0 +1,7 @@
+mntner:             HUGGY-MNT
+admin-c:            HUGGY-DN42
+tech-c:             HUGGY-DN42
+mnt-by:             HUGGY-MNT
+source:             DN42
+auth:               pgp-fingerprint F73AEE48722FECC38F4D92C5DA6615E067623871
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDGMJspJjpzU2zmcqI4DQmfOIzyOJzBLbyY/pzcUM5GHjMRd+0OaEwxihnTsCCmBpQ68LKgaIgfjEEkJOZ/RAvWWL6xpzwaWxVVpUIb/SOuyKlvwLjE9fih6zpvWJS/uV+I/LPozR54A0czfTKNOnMjQUM2dGxhmvkh9OrdiWd6lf1R2qJMSso9mrG03ACCh8IB/Y2iFu0/r+q3Qc+4WTmw5I70Ver/j8sOduMJ6lQ1SiesgACZbglwS1Ix4yOlV3S6JL7LQi+MfBvTGe33IG1u/ZCUqpnvYz32rXdAr4L3gHakNRcVo6i+Qk+NkipIdjmoxky7HjNHCWXi2c1SZpU/Cc0cDIOnrRgoSkkaQ1hMlvpaG2oCJY+LZ+ydL+5TUQv+oCmeMlNKbNdXsuR4Wj3TKlp711jeWtWL7nfN6eRY5+UmizBMEs0uRFZn7OIA30EnbDD/TP/FHcIshMmybroX+U8IeFpnp+830Zfgyi8jy3M6HWavmT2XhgOixRM67J8=
