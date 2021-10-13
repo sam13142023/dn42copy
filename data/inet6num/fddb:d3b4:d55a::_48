@@ -1,0 +1,10 @@
+inet6num:           fddb:d3b4:d55a:0000:0000:0000:0000:0000 - fddb:d3b4:d55a:ffff:ffff:ffff:ffff:ffff
+netname:            SUBUK-NET
+descr:              main ipv6 network
+country:            RU
+admin-c:            SUBUK-DN42
+tech-c:             SUBUK-DN42
+mnt-by:             SUBUK-MNT
+status:             ASSIGNED
+cidr:               fddb:d3b4:d55a::/48
+source:             DN42
