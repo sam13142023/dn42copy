@@ -1,0 +1,5 @@
+route6:             fddb:d3b4:d55a::/48
+origin:             AS4242422865
+max-length:         48
+mnt-by:             SUBUK-MNT
+source:             DN42
