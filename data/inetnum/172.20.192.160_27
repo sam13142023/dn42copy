@@ -1,0 +1,9 @@
+inetnum:            172.20.192.160 - 172.20.192.191
+cidr:               172.20.192.160/27
+netname:            MOH53N-IPV4
+country:            IR
+admin-c:            MOH53N-DN42
+tech-c:             MOH53N-DN42
+mnt-by:             MOH53N-MNT
+status:             ASSIGNED
+source:             DN42
