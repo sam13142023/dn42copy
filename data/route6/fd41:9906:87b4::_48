@@ -1,0 +1,5 @@
+route6:             fd41:9906:87b4::/48
+origin:             AS4242420658
+max-length:         48
+source:             DN42
+mnt-by:             RZ-MNT

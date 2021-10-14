@@ -1,0 +1,10 @@
+inet6num:           fd41:9906:87b4:0000:0000:0000:0000:0000 - fd41:9906:87b4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:9906:87b4::/48
+netname:            RZ-NETWORK
+descr:              RZ Network
+country:            IT
+admin-c:            RZ-DN42
+tech-c:             RZ-DN42
+mnt-by:             RZ-MNT
+status:             ASSIGNED
+source:             DN42
