@@ -1,0 +1,9 @@
+inetnum:            172.22.131.160 - 172.22.131.191
+cidr:               172.22.131.160/27
+netname:            NOCLIP-NETWORK
+country:            GB
+admin-c:            NOCLIP-DN42
+tech-c:             NOCLIP-DN42
+mnt-by:             NOCLIP-MNT
+status:             ASSIGNED
+source:             DN42

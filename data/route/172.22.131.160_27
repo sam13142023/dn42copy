@@ -1,0 +1,5 @@
+route:              172.22.131.160/27
+descr:              Contact noclipmix@gmail.com for peering.
+origin:             AS4242422409
+mnt-by:             NOCLIP-MNT
+source:             DN42
