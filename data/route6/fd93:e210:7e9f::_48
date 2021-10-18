@@ -1,0 +1,5 @@
+route6:             fd93:e210:7e9f::/48
+origin:             AS4242423130
+max-length:         48
+mnt-by:             MUZIKCA-MNT
+source:             DN42

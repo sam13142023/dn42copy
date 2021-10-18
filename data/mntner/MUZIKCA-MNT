@@ -4,3 +4,5 @@ admin-c:            MUZIKCA-DN42
 tech-c:             MUZIKCA-DN42
 mnt-by:             MUZIKCA-MNT
 source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2c14H3lYty2O3Gay5UeFd61FxtQugYgmiOhmU4PJywbeWz7Yrfy2K2NLGeeTFL3cnyjmsjwL5MGF05yPJ4ekfw6Rm5JzT8C/jstwSx10UnxeJZlhhn+FAIfRxavCzyHDByBZBI4zGv9X9D4goUosGrXSz2FjZRDJOBRKsxmgxmvGOBB2J/EpYVwIMqmGjLy/BZMbuZzE05QHrFi3jaBlMDEl/SjwnkOx1SaAyq9k8owTDEGZgHh3YVE6sj/ojfJiJ8CwHOpddeGrywKh/TUpThK301+HmL1qaLTQCsfg565o9qw/+lhMV4INDW2g/+pYqP/XDIndNhNw8nE0khrAaw==
+auth:               pgp-fingerprint 4108D5E339C03DF36ED04BB8275757E14DD0D378

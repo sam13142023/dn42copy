@@ -1,4 +1,4 @@
-inetnum:            172.20.246.96 - 172.20.246.127
+inet6num:           fd93:e210:7e9f:0000:0000:0000:0000:0000 - fd93:e210:7e9f:ffff:ffff:ffff:ffff:ffff
 netname:            MUZIKCA-NET
 descr:              Sean Net
 country:            DE
@@ -6,5 +6,5 @@ admin-c:            MUZIKCA-DN42
 tech-c:             MUZIKCA-DN42
 mnt-by:             MUZIKCA-MNT
 status:             ASSIGNED
-cidr:               172.20.246.96/27
+cidr:               fd93:e210:7e9f::/48
 source:             DN42
