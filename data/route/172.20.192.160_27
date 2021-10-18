@@ -1,0 +1,4 @@
+route:              172.20.192.160/27
+origin:             AS4242420272
+mnt-by:             MOH53N-MNT
+source:             DN42

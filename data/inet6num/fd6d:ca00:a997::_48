@@ -1,0 +1,9 @@
+inet6num:           fd6d:ca00:a997:0000:0000:0000:0000:0000 - fd6d:ca00:a997:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6d:ca00:a997::/48
+netname:            MOH53N-IPV6
+country:            IR
+admin-c:            MOH53N-DN42
+tech-c:             MOH53N-DN42
+mnt-by:             MOH53N-MNT
+status:             ASSIGNED
+source:             DN42

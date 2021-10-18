@@ -1,0 +1,5 @@
+route6:             fd6d:ca00:a997::/48
+origin:             AS4242420272
+max-length:         48
+mnt-by:             MOH53N-MNT
+source:             DN42
