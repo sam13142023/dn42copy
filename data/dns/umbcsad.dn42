@@ -1,0 +1,7 @@
+domain:             umbcsad.dn42
+admin-c:            NBURA-DN42
+tech-c:             NBURA-DN42
+org:                ORG-UMBCSAD
+mnt-by:             UMBCSAD-MNT
+nserver:            ns1.umbcsad.dn42 fd35:4992:6a6d:53::1
+source:             DN42
