@@ -1,0 +1,11 @@
+inet6num:           fda2:b00e:4a60:0000:0000:0000:0000:0000 - fda2:b00e:4a60:ffff:ffff:ffff:ffff:ffff
+cidr:               fda2:b00e:4a60::/48
+netname:            UMBCSAD-NETWORK
+descr:              Network of UMBC System Administration and Software Development Club
+country:            US
+admin-c:            NBURA-DN42
+tech-c:             NBURA-DN42
+org:                ORG-UMBCSAD
+mnt-by:             UMBCSAD-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fda2:b00e:4a60::/48
+origin:             AS4242421727
+max-length:         48
+mnt-by:             UMBCSAD-MNT
+source:             DN42
