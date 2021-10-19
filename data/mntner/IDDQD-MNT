@@ -1,0 +1,7 @@
+mntner:             IDDQD-MNT
+descr:              IDDQD
+admin-c:            IDDQD-DN42
+tech-c:             IDDQD-DN42
+mnt-by:             IDDQD-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICoHxaA9I77zF+8TYsm4P7b5pQdAHbMY6iGZ8Q8Nauco
+source:             DN42
