@@ -1,0 +1,8 @@
+inetnum:            172.23.57.32 - 172.23.57.63
+cidr:               172.23.57.32/27
+netname:            IDDQD-NETWORK
+admin-c:            IDDQD-DN42
+tech-c:             IDDQD-DN42
+mnt-by:             IDDQD-MNT
+status:             ASSIGNED
+source:             DN42
