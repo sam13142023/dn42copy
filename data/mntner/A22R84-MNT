@@ -1,0 +1,6 @@
+mntner:             A22R84-MNT
+admin-c:            A22R84-DN42
+tech-c:             A22R84-DN42
+mnt-by:             A22R84-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyt8chowsdPoZ5F20T3UBuRs8F6jGfBwYcx8KRy7I09
+source:             DN42

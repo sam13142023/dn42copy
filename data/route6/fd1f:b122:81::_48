@@ -1,0 +1,5 @@
+route6:             fd1f:b122:81::/48
+origin:             AS4242421521
+max-length:         48
+mnt-by:             A22R84-MNT
+source:             DN42
