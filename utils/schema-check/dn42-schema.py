@@ -377,6 +377,7 @@ def __index_files(path, use_file=None):
         "tinc-keyset/": SCHEMA_NAMESPACE + "tinc-keyset",
         "registry/": SCHEMA_NAMESPACE + "registry",
         "schema/": SCHEMA_NAMESPACE + "schema",
+        "key-cert/": SCHEMA_NAMESPACE + "key-cert",
     }
 
     for root, _, files in os.walk(path):
