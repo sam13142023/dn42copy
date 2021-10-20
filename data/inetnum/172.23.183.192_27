@@ -1,0 +1,9 @@
+inetnum:            172.23.183.192 - 172.23.183.223
+cidr:               172.23.183.192/27
+netname:            A22R84-IPV4
+country:            US
+admin-c:            A22R84-DN42
+tech-c:             A22R84-DN42
+mnt-by:             A22R84-MNT
+status:             ASSIGNED
+source:             DN42
