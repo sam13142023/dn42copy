@@ -1,0 +1,11 @@
+inetnum:            172.20.43.0 - 172.20.43.31
+netname:            CHUJ-IPV4
+remarks:            Peer with me at 1768485949@qq.com
+descr:              Peer with me at 1768485949@qq.com
+country:            CN
+admin-c:            CHUJ-DN42
+tech-c:             CHUJ-DN42
+mnt-by:             CHUJ-MNT
+status:             ASSIGNED
+cidr:               172.20.43.0/27
+source:             DN42
