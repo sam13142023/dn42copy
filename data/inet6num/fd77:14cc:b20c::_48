@@ -1,0 +1,10 @@
+inet6num:           fd77:14cc:b20c:0000:0000:0000:0000:0000 - fd77:14cc:b20c:ffff:ffff:ffff:ffff:ffff
+netname:            CHUJ-IPV6
+descr:              Peer with me at 1768485949@qq.com
+country:            CN
+admin-c:            CHUJ-DN42
+tech-c:             CHUJ-DN42
+mnt-by:             CHUJ-MNT
+status:             ASSIGNED
+cidr:               fd77:14cc:b20c::/48
+source:             DN42
