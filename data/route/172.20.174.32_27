@@ -1,0 +1,4 @@
+route:              172.20.174.32/27
+origin:             AS4242423108
+mnt-by:             GAC-MNT
+source:             DN42

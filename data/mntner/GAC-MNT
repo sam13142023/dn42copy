@@ -1,0 +1,7 @@
+mntner:             GAC-MNT
+admin-c:            GAC-DN42
+tech-c:             GAC-DN42
+mnt-by:             GAC-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGyRvaupYJqSsNMXVeLf7eFzeVTEddQiqhQMrlnbm27m
+auth:               PGPKEY-515620DD

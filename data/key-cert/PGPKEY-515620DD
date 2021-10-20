@@ -1,0 +1,17 @@
+key-cert:           PGPKEY-515620DD
+method:             PGP
+owner:              Gavin C <calmdowndear@protonmail.com>
+fingerpr:           820D 0454 F9D5 F66F C9B0 D4C9 BC8B E805 5156 20DD
+remarks:            PGP key for GAC-DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEYW8s5RYJKwYBBAHaRw8BAQdA6Q+QD0gtZe4UmfkNZ92LxJpuv0RSzai82vto
+certif:             WmQV40u0LEdhdmluIEMgKERONDIpIDxjYWxtZG93bmRlYXJAcHJvdG9ubWFpbC5j
+certif:             b20+iJAEExYKADgWIQSCDQRU+dX2b8mw1Mm8i+gFUVYg3QUCYW8s5QIbAwULCQgH
+certif:             AwUVCgkICwUWAgMBAAIeBQIXgAAKCRC8i+gFUVYg3ROPAP9y0BZ8FEqf3qm+mBbh
+certif:             0/+Dm0bq2nqSgt/IgDPmDcjPjAEAsjFjjXRVE1XaVPbyP5sjeqGvtm/c9NXXLy2h
+certif:             MR0FywI=
+certif:             =3Jsq
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             GAC-MNT
+source:             DN42

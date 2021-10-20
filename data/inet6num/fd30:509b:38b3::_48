@@ -1,0 +1,10 @@
+inet6num:           fd30:509b:38b3:0000:0000:0000:0000:0000 - fd30:509b:38b3:ffff:ffff:ffff:ffff:ffff
+netname:            GAC-NETWORK
+descr:              Network of GAC-DN42
+country:            GB
+admin-c:            GAC-DN42
+tech-c:             GAC-DN42
+mnt-by:             GAC-MNT
+status:             ASSIGNED
+cidr:               fd30:509b:38b3::/48
+source:             DN42

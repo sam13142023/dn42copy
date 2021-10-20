@@ -1,0 +1,5 @@
+route6:             fd30:509b:38b3::/48
+origin:             AS4242423108
+max-length:         48
+mnt-by:             GAC-MNT
+source:             DN42
