@@ -1,0 +1,8 @@
+inetnum:            172.20.174.32 - 172.20.174.63
+cidr:               172.20.174.32/27
+netname:            GAC-NETWORK
+admin-c:            GAC-DN42
+tech-c:             GAC-DN42
+mnt-by:             GAC-MNT
+status:             ASSIGNED
+source:             DN42
