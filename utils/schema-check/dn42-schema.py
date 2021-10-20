@@ -536,6 +536,7 @@ def test_policy(obj_type, name, mntner):
                     "as-set",
                     "schema",
                     "dns",
+                    "key-cert",
                     ]:
         if obj_type == "organisation" and not name.startswith("ORG-"):
             log.error("%s does not start with 'ORG-'" % (name))
