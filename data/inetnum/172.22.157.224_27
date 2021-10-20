@@ -1,0 +1,8 @@
+inetnum:            172.22.157.224 - 172.22.157.255
+cidr:               172.22.157.224/27
+netname:            RZ-V4-NETWORK
+admin-c:            RZ-DN42
+tech-c:             RZ-DN42
+mnt-by:             RZ-MNT
+status:             ASSIGNED
+source:             DN42
