@@ -1,0 +1,4 @@
+route:              172.22.137.160/27
+origin:             AS4242422361
+mnt-by:             MRKOOPA-MNT
+source:             DN42

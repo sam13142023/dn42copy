@@ -1,0 +1,8 @@
+inetnum:            172.22.137.160 - 172.22.137.191
+cidr:               172.22.137.160/27
+netname:            MRKOOPA-NETWORK
+admin-c:            MRKOOPA-DN42
+tech-c:             MRKOOPA-DN42
+mnt-by:             MRKOOPA-MNT
+status:             ASSIGNED
+source:             DN42

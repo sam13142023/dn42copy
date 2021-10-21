@@ -1,0 +1,5 @@
+route6:             fd11:f5f7:26e2::/48
+origin:             AS4242422361
+max-length:         48
+mnt-by:             MRKOOPA-MNT
+source:             DN42
