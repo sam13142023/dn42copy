@@ -1,0 +1,10 @@
+inet6num:           fd11:f5f7:26e2:0000:0000:0000:0000:0000 - fd11:f5f7:26e2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:f5f7:26e2::/48
+netname:            MRKOOPA-NETWORKV6
+descr:              Network of MRKOOPAV6
+country:            US
+admin-c:            MRKOOPA-DN42
+tech-c:             MRKOOPA-DN42
+mnt-by:             MRKOOPA-MNT
+status:             ASSIGNED
+source:             DN42
