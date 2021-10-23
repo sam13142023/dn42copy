@@ -1,0 +1,4 @@
+route:              172.20.32.192/27
+origin:             AS4242420228
+mnt-by:             SN-MNT
+source:             DN42

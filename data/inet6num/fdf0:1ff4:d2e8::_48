@@ -1,0 +1,9 @@
+inet6num:           fdf0:1ff4:d2e8:0000:0000:0000:0000:0000 - fdf0:1ff4:d2e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:1ff4:d2e8::/48
+netname:            SN-NETWORK
+country:            DE
+admin-c:            SN-DN42
+tech-c:             SN-DN42
+mnt-by:             SN-MNT
+status:             ASSIGNED
+source:             DN42
