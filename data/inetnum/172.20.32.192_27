@@ -1,0 +1,8 @@
+inetnum:            172.20.32.192 - 172.20.32.223
+cidr:               172.20.32.192/27
+netname:            SN-NETWORK
+admin-c:            SN-DN42
+tech-c:             SN-DN42
+mnt-by:             SN-MNT
+status:             ASSIGNED
+source:             DN42
