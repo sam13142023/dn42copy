@@ -1,0 +1,5 @@
+route6:             fd86:57d3:e156::/48
+origin:             AS4242422152
+max-length:         48
+mnt-by:             T10-MNT
+source:             DN42

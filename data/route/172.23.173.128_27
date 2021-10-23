@@ -1,0 +1,4 @@
+route:              172.23.173.128/27
+origin:             AS4242422152
+mnt-by:             T10-MNT
+source:             DN42

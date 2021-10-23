@@ -1,0 +1,10 @@
+inet6num:           fd86:57d3:e156:0000:0000:0000:0000:0000 - fd86:57d3:e156:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:57d3:e156::/48
+netname:            T10-NETWORK
+descr:              T10 IPv6 NETWORK
+country:            IN
+admin-c:            T10-DN42
+tech-c:             T10-DN42
+mnt-by:             T10-MNT
+status:             ASSIGNED
+source:             DN42
