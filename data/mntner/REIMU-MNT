@@ -1,0 +1,7 @@
+mntner:             REIMU-MNT
+admin-c:            REIMU-DN42
+tech-c:             REIMU-DN42
+mnt-by:             REIMU-MNT
+source:             DN42
+auth:               pgp-fingerprint F6E1BE1986F00DED8DBAD0A2790BB13ECDFAF683
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJL2KLK4qqnvPnjCsHccQQsKJECq+tPHwUBxmEcbDZ8u

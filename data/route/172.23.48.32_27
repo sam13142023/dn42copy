@@ -1,0 +1,5 @@
+route:              172.23.48.32/27
+descr:              Touhou Network Project IPV4
+origin:             AS4242420755
+mnt-by:             REIMU-MNT
+source:             DN42

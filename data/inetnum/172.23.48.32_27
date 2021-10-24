@@ -1,0 +1,10 @@
+inetnum:            172.23.48.32 - 172.23.48.63
+netname:            REIMU-IPV4
+descr:              Touhou Network Project IPV4
+country:            CN
+admin-c:            REIMU-DN42
+tech-c:             REIMU-DN42
+mnt-by:             REIMU-MNT
+status:             ASSIGNED
+cidr:               172.23.48.32/27
+source:             DN42
