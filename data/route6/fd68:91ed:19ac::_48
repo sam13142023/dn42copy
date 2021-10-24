@@ -1,0 +1,5 @@
+route6:             fd68:91ed:19ac::/48
+descr:              Peer with me at i@186526.xyz
+origin:             AS4242423764
+mnt-by:             186526-MNT
+source:             DN42
