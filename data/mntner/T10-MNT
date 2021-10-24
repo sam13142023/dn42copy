@@ -1,0 +1,7 @@
+mntner:             T10-MNT
+admin-c:            T10-DN42
+tech-c:             T10-DN42
+mnt-by:             T10-MNT
+source:             DN42
+auth:               pgp-fingerprint A3DA8028261E8333B11517FBA6622C61D5BF4FF2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhK1ED8ODfvnlZxDRcstzzYmlhI8y2KPzU0ya3RoFEVV9JAz3AKIOP3q3YHfiF386IjXbOw2IyChpkQHqO8w73K7HUQJPGHBuqMldfKN5/RRJjYNT4ojp1osMfJXxJceXtOr1GArKS+qmyZ0NJ7PFgRDQVBOsWCniextGwYBZADTh/9795e4520t2rJfS1AQnJ1f8SlXeO8dOA83puwkiuWWAORmxiA7xNUqyhMb7SMI7GsMVQkVx81eTy4LmT6feym3Q4MCPPze47c+DthZz9pkg3pa153IM+HA40rfc6toaS1WVH9RRNTBei2leQ+L6ovZ9PURD6BQ4M0e5AczY5w== rsa-key-20211023
