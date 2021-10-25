@@ -1,0 +1,5 @@
+route6:             fdc6:674:2bdf::/48
+origin:             AS4242421228
+max-length:         48
+mnt-by:             YELLOWLM-MNT
+source:             DN42
