@@ -1,0 +1,5 @@
+route6:             fd84:90a:5522::/48
+origin:             AS4242421250
+max-length:         48
+mnt-by:             1NF-MNT
+source:             DN42
