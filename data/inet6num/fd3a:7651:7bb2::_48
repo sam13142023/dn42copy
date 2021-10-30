@@ -1,0 +1,13 @@
+inet6num:           fd3a:7651:7bb2:0000:0000:0000:0000:0000 - fd3a:7651:7bb2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3a:7651:7bb2::/48
+netname:            HOSHIMI-NET-IPV6
+descr:              Hoshimi Network IPv6 prefix
+remarks:            You can peer with me at user.dn42@nsmt.me
+country:            JP
+nserver:            ns1.hoshimi.dn42
+nserver:            ns2.hoshimi.dn42
+admin-c:            NSMT-DN42
+tech-c:             NSMT-DN42
+mnt-by:             NSMT-MNT
+status:             ASSIGNED
+source:             DN42
