@@ -1,0 +1,9 @@
+domain:             chuang.dn42
+admin-c:            CHUANGZHU-DN42
+tech-c:             CHUANGZHU-DN42
+mnt-by:             CHUANGZHU-MNT
+nserver:            ilama.chuang.dn42 172.23.36.33
+nserver:            ilama.chuang.dn42 fd76:bcbe:1a52::1
+nserver:            chokeberry.chuang.dn42 172.23.36.35
+nserver:            chokeberry.chuang.dn42 fd76:bcbe:1a52::3
+source:             DN42

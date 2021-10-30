@@ -5,4 +5,6 @@ admin-c:            CHUANGZHU-DN42
 tech-c:             CHUANGZHU-DN42
 mnt-by:             CHUANGZHU-MNT
 status:             ASSIGNED
+nserver:            ilama.chuang.dn42
+nserver:            chokeberry.chuang.dn42
 source:             DN42
