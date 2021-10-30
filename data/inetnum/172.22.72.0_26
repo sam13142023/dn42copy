@@ -1,0 +1,12 @@
+inetnum:            172.22.72.0 - 172.22.72.63
+cidr:               172.22.72.0/26
+netname:            HOSHIMI-NET-IPV4
+descr:              Hoshimi Network IPv4 prefix
+remarks:            You can peer with me at user.dn42@nsmt.me
+nserver:            ns1.hoshimi.dn42
+nserver:            ns2.hoshimi.dn42
+admin-c:            NSMT-DN42
+tech-c:             NSMT-DN42
+mnt-by:             NSMT-MNT
+status:             ASSIGNED
+source:             DN42

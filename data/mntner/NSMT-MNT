@@ -1,0 +1,8 @@
+mntner:             NSMT-MNT
+descr:              Ryan Nishimoto
+admin-c:            NSMT-DN42
+tech-c:             NSMT-DN42
+mnt-by:             NSMT-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFfg+vXPodaZQvzGgq6W1ntQgS447AyIr55afArq4zgN
+remarks:            sha512:70d3f18dc0eeee981a32954740c1188de02f67777f1d5febd8b100980970c0d171ef3310aea1cde27eecc9637f1849c7e176904b85a0e6d98f315764d0f08322
+source:             DN42
