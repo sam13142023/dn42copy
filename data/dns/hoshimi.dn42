@@ -3,7 +3,7 @@ admin-c:            NSMT-DN42
 tech-c:             NSMT-DN42
 mnt-by:             NSMT-MNT
 nserver:            ns1.hoshimi.dn42 172.20.72.39
-nserver:            ns1.hoshimi.dn42 fdac:bc39:5272:39::1
+nserver:            ns1.hoshimi.dn42 fdac:bc39:5272:53::1
 nserver:            ns2.hoshimi.dn42 172.20.72.40
-nserver:            ns2.hoshimi.dn42 fdac:bc39:5272:40::1
+nserver:            ns2.hoshimi.dn42 fdac:bc39:5272:53::2
 source:             DN42
