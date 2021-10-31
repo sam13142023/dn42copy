@@ -1,0 +1,5 @@
+route6:             fd01:fd2f:b0ce::/48
+origin:             AS4242423219
+max-length:         48
+mnt-by:             NOISYTOOT-MNT
+source:             DN42

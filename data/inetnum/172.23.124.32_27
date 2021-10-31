@@ -1,0 +1,9 @@
+inetnum:            172.23.124.32 - 172.23.124.63
+cidr:               172.23.124.32/27
+netname:            NOISYTOOT-NETWORK
+descr:              Noisytoot Network
+admin-c:            NOISYTOOT-DN42
+tech-c:             NOISYTOOT-DN42
+mnt-by:             NOISYTOOT-MNT
+status:             ASSIGNED
+source:             DN42
