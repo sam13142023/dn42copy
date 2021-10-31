@@ -1,0 +1,4 @@
+route:              172.23.124.32/27
+origin:             AS4242423219
+mnt-by:             NOISYTOOT-MNT
+source:             DN42

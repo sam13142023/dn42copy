@@ -1,0 +1,8 @@
+mntner:             NOISYTOOT-MNT
+descr:              Noisytoot
+admin-c:            NOISYTOOT-DN42
+tech-c:             NOISYTOOT-DN42
+mnt-by:             NOISYTOOT-MNT
+auth:               pgp-fingerprint 61C528F61F2CFADA9526A45B1D43EF4F4492268B
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBcCE5m2MQfq07iT2eX5OOLsWoWOai7gKaeH3KchAaVz
+source:             DN42
