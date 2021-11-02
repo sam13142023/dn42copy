@@ -6,3 +6,5 @@ tech-c:             SNOC-DN42
 mnt-by:             SNOC-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.supernoc.dn42
+ds-rdata:           22629 7 2 FABCF2C9AA20DC8947863C44D8ED9DBCE0190B8825FC580B46451545 F3381672
