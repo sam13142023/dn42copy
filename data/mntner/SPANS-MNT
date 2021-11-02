@@ -1,0 +1,6 @@
+mntner:             SPANS-MNT
+admin-c:            SPANS-DN42
+tech-c:             SPANS-DN42
+mnt-by:             SPANS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG94aHFWzecjBVl2QdVuqGxaQOtnDD0LA7Nq1KmERITE
+source:             DN42
