@@ -1,0 +1,11 @@
+inet6num:           fd38:0119:0314:0000:0000:0000:0000:0000 - fd38:0119:0314:ffff:ffff:ffff:ffff:ffff
+cidr:               fd38:119:314::/48
+netname:            SPANS-NETWORK
+country:            FI
+admin-c:            SPANS-DN42
+tech-c:             SPANS-DN42
+mnt-by:             SPANS-MNT
+status:             ASSIGNED
+nserver:            ns1.spans.dn42
+nserver:            ns2.spans.dn42
+source:             DN42

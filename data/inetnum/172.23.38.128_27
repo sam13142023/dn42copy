@@ -1,0 +1,10 @@
+inetnum:            172.23.38.128 - 172.23.38.159
+cidr:               172.23.38.128/27
+netname:            SPANS-NETWORK
+admin-c:            SPANS-DN42
+tech-c:             SPANS-DN42
+mnt-by:             SPANS-MNT
+status:             ASSIGNED
+nserver:            ns1.spans.dn42
+nserver:            ns2.spans.dn42
+source:             DN42

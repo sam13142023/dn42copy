@@ -1,0 +1,4 @@
+route:              172.23.38.128/27
+origin:             AS4242422038
+mnt-by:             SPANS-MNT
+source:             DN42
