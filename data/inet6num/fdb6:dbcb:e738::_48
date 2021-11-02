@@ -1,0 +1,9 @@
+inet6num:           fdb6:dbcb:e738:0000:0000:0000:0000:0000 - fdb6:dbcb:e738:ffff:ffff:ffff:ffff:ffff
+netname:            SATCH80-IPV6
+country:            CA
+admin-c:            SATCH80-DN42
+tech-c:             SATCH80-DN42
+mnt-by:             SATCH80-MNT
+status:             ASSIGNED
+cidr:               fdb6:dbcb:e738::/48
+source:             DN42
