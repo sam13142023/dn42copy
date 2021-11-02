@@ -1,0 +1,11 @@
+inetnum:            172.23.110.32 - 172.23.110.63
+netname:            SATCH80-IPV4
+remarks:            Rock10
+descr:              Figh10
+country:            CA
+admin-c:            SATCH80-DN42
+tech-c:             SATCH80-DN42
+mnt-by:             SATCH80-MNT
+status:             ASSIGNED
+cidr:               172.23.110.32/27
+source:             DN42

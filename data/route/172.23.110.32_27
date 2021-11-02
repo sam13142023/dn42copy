@@ -1,0 +1,5 @@
+route:              172.23.110.32/27
+descr:              Rock10
+origin:             AS4242420265
+mnt-by:             SATCH80-MNT
+source:             DN42

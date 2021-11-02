@@ -1,0 +1,6 @@
+mntner:             SATCH80-MNT
+admin-c:            SATCH80-DN42
+tech-c:             SATCH80-DN42
+mnt-by:             SATCH80-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKQSh4OmYD20+pssmsEJjDAhK/LR99OrBv0EFzsJjwae
