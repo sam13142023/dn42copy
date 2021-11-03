@@ -1,0 +1,8 @@
+inetnum:            172.21.99.224 - 172.21.99.255
+cidr:               172.21.99.224/27
+netname:            ETHERARP-NETWORK
+admin-c:            ETHERARP-DN42
+tech-c:             ETHERARP-DN42
+mnt-by:             ETHERARP-MNT
+status:             ASSIGNED
+source:             DN42
