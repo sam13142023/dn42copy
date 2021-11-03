@@ -1,0 +1,5 @@
+route6:             fdef:5a83:3ef2::/48
+origin:             AS4242420350
+max-length:         48
+mnt-by:             ALX-MNT
+source:             DN42
