@@ -4,4 +4,5 @@ tech-c:             MYON-DN42
 mnt-by:             MYON-MNT
 nserver:            ns.myon.dn42 172.22.177.81
 nserver:            ns.myon.dn42 fd60:3124:f80c:53::1
+ds-rdata:           16389 13 2 1a2bba609935f2daa69a2acdae1ac1b652488c8f5e0202777e1d399e4074eaae
 source:             DN42
