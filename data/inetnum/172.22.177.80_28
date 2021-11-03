@@ -8,4 +8,5 @@ tech-c:             MYON-DN42
 mnt-by:             MYON-MNT
 status:             ASSIGNED
 nserver:            ns.myon.dn42
+ds-rdata:           53305 13 2 735c0b3e7c8e70a3738aef5d22d0a46e2b9f16331dfe3ca13b9cfe59fa6fb4b4
 source:             DN42
