@@ -1,0 +1,8 @@
+inetnum:            172.23.159.0 - 172.23.159.31
+netname:            ALX-NETWORK
+admin-c:            ALX-DN42
+tech-c:             ALX-DN42
+mnt-by:             ALX-MNT
+status:             ASSIGNED
+cidr:               172.23.159.0/27
+source:             DN42
