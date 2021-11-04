@@ -3,5 +3,5 @@ admin-c:            ZEGOOP-DN42
 tech-c:             ZEGOOP-DN42
 mnt-by:             ZEGOOP-MNT
 source:             DN42
-auth:               pgp-fingerprint 960D28ECF0318D7195751F1DDEEF40C843358F5F
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOyUn5skJKsBmQ2mtH+mPT9FrsCoeKyYXRchcmYppHjSo+6J1WNIbvvofB7R5DkSpFmyzgcN4FsIbrQ9gVUzU5BmmMZP0hEGhbiLNos4n4cDCzsQ1IsXWcovUJhUpPxOF0gIx2swsM3dvmse6QQpfSodN+cnWKXglHXgrhhEvhZ2Yb27SKcy2Dn0rAGt6aiOHVL6rBKE+f3LLbY9tjc7QbC69R31FqHorZrt0bTe0S566OjZgCxm27DjFisix3L8CmeNHnoFvl0J5CISGaKVnsCJU2+OnRvyhlB8ctT4X18wsSlCSvL4hHWkmkkj6Zhd0nTyTDzailyxFdtV7ITENx
+auth:               pgp-fingerprint 018E93D818DAA4BEBF82823AB7789434F87C018C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCwcAm7iCI8D348goWhtpkMC2p+VZ2kbBBD6rgYC8BL211hmFKhsyiqxiCU7QN+peno4/6C+h9UM0eKsqXws66rgMvNSYyFogk4YeigMx4pgjjOZnfloucBXCIad7eI2EMEjtnHFMC6824NaeSZ3MCHlGlcBWKvSEjj4wbG2Y7sfZDHoieGgeDKemDNOZMRpk0ATK9EuDfPbaGxn1iwrFC+SlSLHkX2guOA8szbxVkENkuz8ys5xzrMG2Y59ApwG3B6dMvKn7yiYvg/fyuOFz13WDFCS4Oflr/GjsgX/Vku8LbnY2wR7ms9kI3g9nNURDE2qmPZqMPebS9FEIR6GZtn
