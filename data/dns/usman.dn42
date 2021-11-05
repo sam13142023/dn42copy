@@ -1,0 +1,6 @@
+domain:             usman.dn42
+admin-c:            USMAN-DN42
+tech-c:             USMAN-DN42
+mnt-by:             USMAN-MNT
+nserver:            ns1.usman.dn42 172.22.132.161
+source:             DN42

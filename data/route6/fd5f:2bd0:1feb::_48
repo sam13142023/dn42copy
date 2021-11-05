@@ -1,0 +1,5 @@
+route6:             fd5f:2bd0:1feb::/48
+origin:             AS4242421869
+max-length:         48
+mnt-by:             USMAN-MNT
+source:             DN42
