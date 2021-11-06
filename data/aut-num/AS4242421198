@@ -1,5 +1,14 @@
 aut-num:            AS4242421198
 as-name:            JOT23-HOME-AS
+descr:              JOT23 home network
+remarks:            +----------------------------------------------------+
+remarks:            | This is home network on residential line.          |
+remarks:            | This is leaf node and it does not provide transit. |
+remarks:            +--------------------+-------------------------------+
+remarks:            | Server             | Location                      |
+remarks:            +--------------------+-------------------------------+
+remarks:            | site-01.421198.xyz | Gdańsk, Poland                |
+remarks:            +--------------------+-------------------------------+
 admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT

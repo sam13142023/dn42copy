@@ -1,0 +1,11 @@
+inetnum:            172.23.43.0 - 172.23.43.15
+cidr:               172.23.43.0/28
+netname:            JOT23-NAT64-01
+descr:              JOT23 home network NAT64 range
+remarks:            This prefix is used for NAT64 into DN42 IPv4 range.
+country:            PL
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+status:             ASSIGNED
+source:             DN42
