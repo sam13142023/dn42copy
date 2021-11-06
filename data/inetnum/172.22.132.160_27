@@ -1,0 +1,8 @@
+inetnum:            172.22.132.160 - 172.22.132.191
+cidr:               172.22.132.160/27
+netname:            USMAN-NETWORK
+admin-c:            USMAN-DN42
+tech-c:             USMAN-DN42
+mnt-by:             USMAN-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.132.160/27
+origin:             AS4242421869
+mnt-by:             USMAN-MNT
+source:             DN42

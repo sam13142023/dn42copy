@@ -1,0 +1,10 @@
+inet6num:           fd5f:2bd0:1feb:0000:0000:0000:0000:0000 - fd5f:2bd0:1feb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5f:2bd0:1feb::/48
+netname:            USMAN-NETWORK
+descr:              Network of Usman
+country:            UK
+admin-c:            USMAN-DN42
+tech-c:             USMAN-DN42
+mnt-by:             USMAN-MNT
+status:             ASSIGNED
+source:             DN42
