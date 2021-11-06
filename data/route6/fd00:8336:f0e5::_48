@@ -1,0 +1,5 @@
+route6:             fd00:8336:f0e5::/48
+origin:             AS4242422436
+max-length:         48
+mnt-by:             BEACHYHEAD-MNT
+source:             DN42
