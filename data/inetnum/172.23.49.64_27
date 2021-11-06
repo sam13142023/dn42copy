@@ -1,0 +1,8 @@
+inetnum:            172.23.49.64 - 172.23.49.95
+cidr:               172.23.49.64/27
+netname:            BEACHYHEAD-NETWORK
+admin-c:            BEACHYHEAD-DN42
+tech-c:             BEACHYHEAD-DN42
+mnt-by:             BEACHYHEAD-MNT
+status:             ASSIGNED
+source:             DN42

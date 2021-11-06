@@ -1,0 +1,9 @@
+inet6num:           fd00:8336:f0e5:0000:0000:0000:0000:0000 - fd00:8336:f0e5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:8336:f0e5::/48
+netname:            BEACHYHEAD-NETWORK
+country:            DE
+admin-c:            BEACHYHEAD-DN42
+tech-c:             BEACHYHEAD-DN42
+mnt-by:             BEACHYHEAD-MNT
+status:             ASSIGNED
+source:             DN42
