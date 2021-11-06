@@ -1,0 +1,5 @@
+route:              172.23.43.0/28
+descr:              JOT23 NAT64 IPv4 route
+origin:             AS4242421198
+mnt-by:             TOMKEP-MNT
+source:             DN42
