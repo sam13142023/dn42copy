@@ -1,0 +1,10 @@
+inet6num:           fdae:5169:c671:0000:0000:0000:0000:0000 - fdae:5169:c671:ffff:ffff:ffff:ffff:ffff
+cidr:               fdae:5169:c671::/48
+netname:            PPOOZL-NETWORK
+descr:              network of ppoozl
+country:            CN
+admin-c:            PPOOZL-DN42
+tech-c:             PPOOZL-DN42
+mnt-by:             PPOOZL-MNT
+status:             ASSIGNED
+source:             DN42
