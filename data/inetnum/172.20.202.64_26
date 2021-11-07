@@ -1,0 +1,9 @@
+inetnum:            172.20.202.64 - 172.20.202.127
+cidr:               172.20.202.64/26
+netname:            PPOOZL-NETWORK
+country:            CN
+admin-c:            PPOOZL-DN42
+tech-c:             PPOOZL-DN42
+mnt-by:             PPOOZL-MNT
+status:             ASSIGNED
+source:             DN42

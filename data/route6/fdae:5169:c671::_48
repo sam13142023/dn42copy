@@ -1,0 +1,5 @@
+route6:             fdae:5169:c671::/48
+origin:             AS4242422664
+max-length:         48
+mnt-by:             PPOOZL-MNT
+source:             DN42

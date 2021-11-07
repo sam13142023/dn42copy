@@ -1,0 +1,7 @@
+mntner:             PPOOZL-MNT
+descr:              ppoozl
+admin-c:            PPOOZL-DN42
+tech-c:             PPOOZL-DN42
+mnt-by:             PPOOZL-MNT
+auth:               pgp-fingerprint 5276CE47A145BA41D70CA8929B6085C678F96610
+source:             DN42
