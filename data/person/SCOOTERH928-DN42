@@ -1,7 +1,6 @@
 person:             Scooter Harris
-contact:            scooter@scooterharris.com
-www:                https://www.scooterharris.com
-pgp-fingerprint:    7DD6F6E678EFBC39320EDAA1984178567C81EF86
+e-mail:             bgp@scooterharris.com
+pgp-fingerprint:    D2179B1A0B4710F4BDF6899088876461E9981A48
 nic-hdl:            SCOOTERH928-DN42
 mnt-by:             SCOOTERH928-MNT
 source:             DN42
