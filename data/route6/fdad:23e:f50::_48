@@ -1,0 +1,5 @@
+route6:             fdad:23e:f50::/48
+origin:             AS4242421477
+max-length:         48
+mnt-by:             NBARI-MNT
+source:             DN42

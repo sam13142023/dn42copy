@@ -1,0 +1,10 @@
+inet6num:           fdad:023e:0f50:0000:0000:0000:0000:0000 - fdad:023e:0f50:ffff:ffff:ffff:ffff:ffff
+cidr:               fdad:23e:f50::/48
+netname:            NBARI-NETWORK
+descr:              Network of NBARI
+country:            CH
+admin-c:            NBARI-DN42
+tech-c:             NBARI-DN42
+mnt-by:             NBARI-MNT
+status:             ASSIGNED
+source:             DN42
