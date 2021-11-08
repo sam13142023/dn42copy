@@ -1,0 +1,6 @@
+mntner:             NBARI-MNT
+admin-c:            NBARI-DN42
+tech-c:             NBARI-DN42
+mnt-by:             NBARI-MNT
+auth:               pgp-fingerprint 517E05DAC034C95B3204877D82F2FD90D8255AE6
+source:             DN42
