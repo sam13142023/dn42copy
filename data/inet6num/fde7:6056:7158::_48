@@ -1,0 +1,8 @@
+inet6num:           fde7:6056:7158:0000:0000:0000:0000:0000 - fde7:6056:7158:ffff:ffff:ffff:ffff:ffff
+cidr:               fde7:6056:7158::/48
+netname:            REFLY-NETWORK
+admin-c:            REFLY-DN42
+tech-c:             REFLY-DN42
+mnt-by:             REFLY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             REFLY-MNT
+admin-c:            REFLY-DN42
+tech-c:             REFLY-DN42
+mnt-by:             REFLY-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMH6DUnhsqiV42QBcn8ZRkJKBzmrw1Ruthn+Yc0uU8mC
+source:             DN42

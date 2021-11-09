@@ -1,0 +1,8 @@
+inetnum:            172.23.125.8 - 172.23.125.15
+cidr:               172.23.125.8/29
+netname:            REFLY-NETWORK
+admin-c:            REFLY-DN42
+tech-c:             REFLY-DN42
+mnt-by:             REFLY-MNT
+status:             ASSIGNED
+source:             DN42
