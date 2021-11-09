@@ -1,0 +1,10 @@
+inetnum:            172.23.24.192 - 172.23.24.255
+cidr:               172.23.24.192/26
+netname:            MME-NETWORK
+admin-c:            MME-DN42
+tech-c:             MME-DN42
+mnt-by:             MME-MNT
+status:             ASSIGNED
+nserver:            ns1.mme.dn42
+nserver:            ns2.mme.dn42
+source:             DN42

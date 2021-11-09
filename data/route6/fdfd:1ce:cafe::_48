@@ -1,0 +1,5 @@
+route6:             fdfd:1ce:cafe::/48
+origin:             AS4242422104
+max-length:         48
+mnt-by:             MME-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             mme.dn42
+admin-c:            MME-DN42
+tech-c:             MME-DN42
+mnt-by:             MME-MNT
+nserver:            ns1.mme.dn42 172.23.24.192
+nserver:            ns1.mme.dn42 fdfd:1ce:cafe::192
+nserver:            ns2.mme.dn42 172.23.24.193
+nserver:            ns2.mme.dn42 fdfd:1ce:cafe::193
+source:             DN42

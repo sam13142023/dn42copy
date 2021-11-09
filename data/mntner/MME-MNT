@@ -1,0 +1,7 @@
+mntner:             MME-MNT
+descr:              MME's Maintainer Object
+admin-c:            MME-DN42
+tech-c:             MME-DN42
+mnt-by:             MME-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBSeXmS9vC+YefI8Ts6Pj2sv6sxR0Jf+wxd8QTYoOOYq
+source:             DN42
