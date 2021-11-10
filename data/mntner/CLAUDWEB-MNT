@@ -1,0 +1,6 @@
+mntner:             CLAUDWEB-MNT
+admin-c:            CLAUDWEB-DN42
+tech-c:             CLAUDWEB-DN42
+mnt-by:             CLAUDWEB-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ3Zsp7FYPgcheFTAvHTl1Ip22YP5puosoShl8qR5Mpx
+source:             DN42

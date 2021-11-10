@@ -1,0 +1,5 @@
+route6:             fd47:aba3:f39f::/48
+origin:             AS4242421147
+max-length:         48
+mnt-by:             CLAUDWEB-MNT
+source:             DN42
