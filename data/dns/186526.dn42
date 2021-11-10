@@ -2,7 +2,7 @@ domain:             186526.dn42
 admin-c:            186526-DN42
 tech-c:             186526-DN42
 mnt-by:             186526-MNT
-nserver:            ns1.186526.dn42 172.23.2.64
+nserver:            ns1.186526.dn42 172.23.2.66
 nserver:            ns1.186526.dn42 fd68:91ed:19ac::64
 nserver:            ns2.186526.dn42 172.23.2.65
 nserver:            ns2.186526.dn42 fd68:91ed:19ac::65

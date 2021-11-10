@@ -4,3 +4,4 @@ tech-c:             186526-DN42
 mnt-by:             186526-MNT
 source:             DN42
 auth:               pgp-fingerprint 11aac9b085c85ee85e796251c7eb1e6b8cc5e51d
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDixbbLDUzUgGZQzaXAZL+tEjo9WCVNtaER9m8vQ01A8oNKVVW1vqDMOnEagRMmA94ECNdXinl4IOTiv6A+ZxKdbHaVWUs+lym3+GcBd1hfFTz9dHLP6O67O2SxxlKcWAI37a3MS+gocritXBnVolIKk+NoKuXO3yJln7/OTC82AiFTl6p3VOZIM2FvWBC1IHGiVN9+n9vSOpkpuaxjkLxOGJtrlfGH4fhFoJHyG6XMQzke2VbeNljQNWQ2FX0tKRtAcxZKV12urHqJEswodfEGLLCtSoiadKwwPVsXANGeLc5YWq2Ruz7nGHEUTDCKdsW0b/4es6ZXeVAfu9XyheMreLrbWVV/0MGvg5Rg6DbwzzgcOnPWMtggn1JVneZQb8lvhKQeXNO9ejxAXpiCMPzBymi4oSPdT1O7OCCPiOzDAs2KOchcvwbFplz7RzdKr24g04Y38cjEjZkEAOFzA3AZV+yTzwqk7UYMLrE93hx9aaJIhqoTIFdNVlG5tS4ALvM=
