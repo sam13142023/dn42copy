@@ -1,0 +1,8 @@
+inetnum:            172.23.125.32 - 172.23.125.63
+cidr:               172.23.125.32/27
+netname:            CLAUDWEB-NETWORK
+admin-c:            CLAUDWEB-DN42
+tech-c:             CLAUDWEB-DN42
+mnt-by:             CLAUDWEB-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd47:aba3:f39f:0000:0000:0000:0000:0000 - fd47:aba3:f39f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd47:aba3:f39f::/48
+netname:            CLAUDWEB-NET6
+descr:              claudweb v6 network
+country:            DE
+admin-c:            CLAUDWEB-DN42
+tech-c:             CLAUDWEB-DN42
+mnt-by:             CLAUDWEB-MNT
+status:             ASSIGNED
+source:             DN42
