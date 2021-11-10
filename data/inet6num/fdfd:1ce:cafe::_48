@@ -1,0 +1,12 @@
+inet6num:           fdfd:01ce:cafe:0000:0000:0000:0000:0000 - fdfd:01ce:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:1ce:cafe::/48
+netname:            MME-NETWORK
+descr:              Network of MME
+country:            DE
+admin-c:            MME-DN42
+tech-c:             MME-DN42
+mnt-by:             MME-MNT
+status:             ASSIGNED
+nserver:            ns1.mme.dn42
+nserver:            ns2.mme.dn42
+source:             DN42

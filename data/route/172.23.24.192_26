@@ -1,0 +1,4 @@
+route:              172.23.24.192/26
+origin:             AS4242422104
+mnt-by:             MME-MNT
+source:             DN42
