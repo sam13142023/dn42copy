@@ -1,0 +1,4 @@
+route:              172.20.163.160/27
+origin:             AS4242420063
+mnt-by:             DAKLON-MNT
+source:             DN42

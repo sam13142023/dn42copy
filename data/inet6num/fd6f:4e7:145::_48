@@ -1,0 +1,12 @@
+inet6num:           fd6f:04e7:0145:0000:0000:0000:0000:0000 - fd6f:04e7:0145:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:4e7:145::/48
+netname:            DAKLON-NETWORK
+descr:              Network of Daklon
+country:            ES
+admin-c:            DAKLON-DN42
+tech-c:             DAKLON-DN42
+mnt-by:             DAKLON-MNT
+status:             ASSIGNED
+nserver:            ns1.saltapared.dn42
+nserver:            ns2.saltapared.dn42
+source:             DN42

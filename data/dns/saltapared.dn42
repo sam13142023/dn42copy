@@ -1,0 +1,9 @@
+domain:             saltapared.dn42
+admin-c:            DAKLON-DN42
+tech-c:             DAKLON-DN42
+mnt-by:             DAKLON-MNT
+nserver:            ns1.saltapared.dn42 172.20.163.161
+nserver:            ns1.saltapared.dn42 fd6f:4e7:145::53:1
+nserver:            ns2.saltapared.dn42 172.20.163.162
+nserver:            ns2.saltapared.dn42 fd6f:4e7:145::53:2
+source:             DN42
