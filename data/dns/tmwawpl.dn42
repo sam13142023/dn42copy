@@ -1,8 +1,8 @@
 domain:             tmwawpl.dn42
-nserver:            ns1.tmwawpl.dn42 172.20.159.17
-nserver:            ns1.tmwawpl.dn42 fd42:9564:c802::1
-nserver:            ns2.tmwawpl.dn42 172.20.159.18
-nserver:            ns2.tmwawpl.dn42 fd42:9564:c802::2
+nserver:            ns1.tmwawpl.dn42 172.20.159.21
+nserver:            ns1.tmwawpl.dn42 fd42:9564:c802::21
+nserver:            ns2.tmwawpl.dn42 172.20.159.22
+nserver:            ns2.tmwawpl.dn42 fd42:9564:c802::22
 admin-c:            TMWAWPL-DN42
 tech-c:             TMWAWPL-DN42
 mnt-by:             TMWAWPL-MNT
