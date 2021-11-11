@@ -1,0 +1,6 @@
+domain:             loerki.dn42
+admin-c:            LOERKI-DN42
+tech-c:             LOERKI-DN42
+mnt-by:             LOERKI-MNT
+nserver:            ns1.loerki.dn42 fd68:53e:b05e::1
+source:             DN42

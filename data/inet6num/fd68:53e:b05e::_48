@@ -1,0 +1,11 @@
+inet6num:           fd68:053e:b05e:0000:0000:0000:0000:0000 - fd68:053e:b05e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd68:53e:b05e::/48
+netname:            LOERKI-NETWORK
+descr:              Network of LOERKI
+country:            DE
+admin-c:            LOERKI-DN42
+tech-c:             LOERKI-DN42
+mnt-by:             LOERKI-MNT
+status:             ASSIGNED
+nserver:            ns1.loerki.dn42
+source:             DN42
