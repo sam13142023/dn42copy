@@ -1,0 +1,10 @@
+inetnum:            172.20.163.160 - 172.20.163.191
+cidr:               172.20.163.160/27
+netname:            DAKLON-NETWORK
+admin-c:            DAKLON-DN42
+tech-c:             DAKLON-DN42
+mnt-by:             DAKLON-MNT
+status:             ASSIGNED
+nserver:            ns1.saltapared.dn42
+nserver:            ns2.saltapared.dn42
+source:             DN42
