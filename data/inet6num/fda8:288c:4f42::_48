@@ -1,0 +1,10 @@
+inet6num:           fda8:288c:4f42:0000:0000:0000:0000:0000 - fda8:288c:4f42:ffff:ffff:ffff:ffff:ffff
+cidr:               fda8:288c:4f42::/48
+netname:            POB-NETWORK
+descr:              POB Network
+country:            CA
+admin-c:            POB-DN42
+tech-c:             POB-DN42
+mnt-by:             POB-MNT
+status:             ASSIGNED
+source:             DN42
