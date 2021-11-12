@@ -1,0 +1,8 @@
+inetnum:            172.20.42.224 - 172.20.42.255
+cidr:               172.20.42.224/27
+netname:            POB-NETWORK
+admin-c:            POB-DN42
+tech-c:             POB-DN42
+mnt-by:             POB-MNT
+status:             ASSIGNED
+source:             DN42

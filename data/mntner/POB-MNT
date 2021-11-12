@@ -1,0 +1,6 @@
+mntner:             POB-MNT
+admin-c:            POB-DN42
+tech-c:             POB-DN42
+mnt-by:             POB-MNT
+auth:               pgp-fingerprint 93F248E4A40944C5A7886867D771EC3EC1CB8CDB
+source:             DN42
