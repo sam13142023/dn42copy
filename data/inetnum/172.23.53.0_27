@@ -1,0 +1,10 @@
+inetnum:            172.23.53.0 - 172.23.53.31
+netname:            FLARE-NETWORK
+descr:              Flare's DN42 IPV4 block
+country:            SG
+admin-c:            FLARE-DN42
+tech-c:             FLARE-DN42
+mnt-by:             FLARE-MNT
+status:             ASSIGNED
+cidr:               172.23.53.0/27
+source:             DN42
