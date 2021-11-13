@@ -1,0 +1,10 @@
+inet6num:           fd00:dead:cafe:0000:0000:0000:0000:0000 - fd00:dead:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:dead:cafe::/48
+netname:            FLARE-NETWORK
+descr:              Flare's DN42 IPv6 Block
+country:            SG
+admin-c:            FLARE-DN42
+tech-c:             FLARE-DN42
+mnt-by:             FLARE-MNT
+status:             ASSIGNED
+source:             DN42

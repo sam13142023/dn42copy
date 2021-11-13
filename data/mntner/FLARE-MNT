@@ -1,0 +1,7 @@
+mntner:             FLARE-MNT
+admin-c:            FLARE-DN42
+tech-c:             FLARE-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIITkMr9by2C7pP66V3wWnPY+vLYkqKL3enivqRNS98pr
+auth:               pgp-fingerprint D4D45ED922CA02A7DEE80A9E8EE2C872DC6C74FF
+mnt-by:             FLARE-MNT
+source:             DN42
