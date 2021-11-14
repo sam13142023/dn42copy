@@ -1,0 +1,4 @@
+route:              172.21.82.48/28
+origin:             AS4242421337
+mnt-by:             BNJO-MNT
+source:             DN42

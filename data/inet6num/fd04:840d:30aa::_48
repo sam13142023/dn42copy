@@ -1,0 +1,10 @@
+inet6num:           fd04:840d:30aa:0000:0000:0000:0000:0000-fd04:840d:30aa:ffff:ffff:ffff:ffff:ffff
+cidr:               fd04:840d:30aa::/48
+netname:            BENJOJO-NET
+descr:              Benjojo DN42 net
+country:            GB
+admin-c:            BENJ-DN42
+tech-c:             BENJ-DN42
+mnt-by:             BNJO-MNT
+status:             ASSIGNED
+source:             DN42

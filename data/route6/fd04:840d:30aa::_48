@@ -1,0 +1,5 @@
+route6:             fd04:840d:30aa::/48
+origin:             AS4242421337
+max-length:         48
+mnt-by:             BNJO-MNT
+source:             DN42
