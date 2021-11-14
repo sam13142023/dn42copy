@@ -1,0 +1,9 @@
+inetnum:            172.23.224.0 - 172.23.224.31
+cidr:               172.23.224.0/27
+netname:            SAGNET-IPV4
+country:            US
+admin-c:            SAG-DN42
+tech-c:             SAG-DN42
+mnt-by:             SAG-MNT
+status:             ASSIGNED
+source:             DN42

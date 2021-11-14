@@ -1,0 +1,9 @@
+inet6num:           fd42:0546:24df:0000:0000:0000:0000:0000 - fd42:0546:24df:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:546:24df::/48
+netname:            SAGNET-IPV6
+country:            US
+admin-c:            SAG-DN42
+tech-c:             SAG-DN42
+mnt-by:             SAG-MNT
+status:             ASSIGNED
+source:             DN42

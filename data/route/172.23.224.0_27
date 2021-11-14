@@ -1,0 +1,4 @@
+route:              172.23.224.0/27
+origin:             AS4242420546
+mnt-by:             SAG-MNT
+source:             DN42
