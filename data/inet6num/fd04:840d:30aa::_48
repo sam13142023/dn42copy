@@ -1,4 +1,4 @@
-inet6num:           fd04:840d:30aa:0000:0000:0000:0000:0000-fd04:840d:30aa:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd04:840d:30aa:0000:0000:0000:0000:0000 - fd04:840d:30aa:ffff:ffff:ffff:ffff:ffff
 cidr:               fd04:840d:30aa::/48
 netname:            BENJOJO-NET
 descr:              Benjojo DN42 net
