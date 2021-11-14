@@ -1,0 +1,5 @@
+route6:             fd42:546:24df::/48
+origin:             AS4242420546
+max-length:         48
+mnt-by:             SAG-MNT
+source:             DN42

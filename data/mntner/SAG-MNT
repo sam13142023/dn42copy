@@ -1,0 +1,6 @@
+mntner:             SAG-MNT
+admin-c:            SAG-DN42
+tech-c:             SAG-DN42
+mnt-by:             SAG-MNT
+auth:               pgp-fingerprint 011251EE2C47F0CA31C8421829F7F6870F707BBB
+source:             DN42
