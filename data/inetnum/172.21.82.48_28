@@ -1,0 +1,9 @@
+inetnum:            172.21.82.48 - 172.21.82.63
+cidr:               172.21.82.48/28
+netname:            BENJOJO-NET
+descr:              Benjojo DN42 net
+admin-c:            BENJ-DN42
+tech-c:             BENJ-DN42
+mnt-by:             BNJO-MNT
+status:             ASSIGNED
+source:             DN42
