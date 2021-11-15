@@ -1,0 +1,8 @@
+inetnum:            172.23.32.96 - 172.23.32.127
+cidr:               172.23.32.96/27
+netname:            MCWALL-V4-NET-1
+admin-c:            MCWALL-DN42
+tech-c:             MCWALL-DN42
+mnt-by:             MCWALL-MNT
+status:             ASSIGNED
+source:             DN42

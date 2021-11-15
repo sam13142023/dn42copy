@@ -1,0 +1,6 @@
+mntner:             MCWALL-MNT
+admin-c:            MCWALL-DN42
+tech-c:             MCWALL-DN42
+mnt-by:             MCWALL-MNT
+source:             DN42
+auth:               pgp-fingerprint E9F3A8A819EFC7CF815B7E61E56B249C423A033B
