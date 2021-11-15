@@ -1,0 +1,5 @@
+route6:             fdf2:dc03:4196::/48
+origin:             AS4242421428
+max-length:         48
+mnt-by:             MCWALL-MNT
+source:             DN42

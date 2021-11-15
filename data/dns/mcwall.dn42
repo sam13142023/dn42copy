@@ -1,0 +1,9 @@
+domain:             mcwall.dn42
+admin-c:            MCWALL-DN42
+tech-c:             MCWALL-DN42
+mnt-by:             MCWALL-MNT
+nserver:            ns1.mcwall.dn42 172.23.32.97
+nserver:            ns1.mcwall.dn42 fdf2:dc03:4196:53::1
+nserver:            ns2.mcwall.dn42 172.23.32.98
+nserver:            ns2.mcwall.dn42 fdf2:dc03:4196:53::2
+source:             DN42

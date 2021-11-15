@@ -1,0 +1,4 @@
+route:              172.23.32.96/27
+origin:             AS4242421428
+mnt-by:             MCWALL-MNT
+source:             DN42
