@@ -1,0 +1,5 @@
+route6:             fd68:53e:b05e::/48
+origin:             AS4242420493
+max-length:         48
+mnt-by:             LOERKI-MNT
+source:             DN42

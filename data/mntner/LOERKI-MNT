@@ -1,0 +1,6 @@
+mntner:             LOERKI-MNT
+admin-c:            LOERKI-DN42
+tech-c:             LOERKI-DN42
+mnt-by:             LOERKI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEYFhQjEpZkppTcjlm/y+oyibbcYvtLW6Dgn1EXt741H
+source:             DN42
