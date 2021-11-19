@@ -1,0 +1,12 @@
+inet6num:           fd76:81ad:cce4:0000:0000:0000:0000:0000 - fd76:81ad:cce4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd76:81ad:cce4::/48
+netname:            HERRTXBIAS-NETWORK
+descr:              Network of HERRTXBIAS
+country:            DE
+admin-c:            HERRTXBIAS-DN42
+tech-c:             HERRTXBIAS-DN42
+mnt-by:             HERRTXBIAS-MNT
+status:             ASSIGNED
+nserver:            ns1.herrtxbias.dn42
+nserver:            ns2.herrtxbias.dn42
+source:             DN42

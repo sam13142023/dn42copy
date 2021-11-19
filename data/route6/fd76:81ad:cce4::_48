@@ -1,0 +1,5 @@
+route6:             fd76:81ad:cce4::/48
+origin:             AS4242420345
+max-length:         48
+mnt-by:             HERRTXBIAS-MNT
+source:             DN42

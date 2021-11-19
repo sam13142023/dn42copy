@@ -1,0 +1,9 @@
+domain:             herrtxbias.dn42
+admin-c:            HERRTXBIAS-DN42
+tech-c:             HERRTXBIAS-DN42
+mnt-by:             HERRTXBIAS-MNT
+nserver:            ns1.herrtxbias.dn42 172.23.49.53
+nserver:            ns1.herrtxbias.dn42 fd76:81ad:cce4:53::1
+nserver:            ns2.herrtxbias.dn42 172.23.49.54
+nserver:            ns2.herrtxbias.dn42 fd76:81ad:cce4:53::2
+source:             DN42
