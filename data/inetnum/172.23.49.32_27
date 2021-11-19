@@ -1,0 +1,10 @@
+inetnum:            172.23.49.32 - 172.23.49.63
+cidr:               172.23.49.32/27
+netname:            HERRTXBIAS-NETWORK
+admin-c:            HERRTXBIAS-DN42
+tech-c:             HERRTXBIAS-DN42
+mnt-by:             HERRTXBIAS-MNT
+status:             ASSIGNED
+nserver:            ns1.herrtxbias.dn42
+nserver:            ns2.herrtxbias.dn42
+source:             DN42
