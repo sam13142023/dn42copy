@@ -1,0 +1,10 @@
+inetnum:            172.21.72.0 - 172.21.72.31
+cidr:               172.21.72.0/27
+netname:            LKWR-IP4
+descr:              IPv4 Network of Luke
+admin-c:            LKWR-DN42
+tech-c:             LKWR-DN42
+mnt-by:             LKWR-MNT
+status:             ASSIGNED
+nserver:            ns1.luke.dn42
+source:             DN42

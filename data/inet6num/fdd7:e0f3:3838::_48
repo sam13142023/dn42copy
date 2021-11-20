@@ -1,0 +1,10 @@
+inet6num:           fdd7:e0f3:3838:0000:0000:0000:0000:0000 - fdd7:e0f3:3838:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd7:e0f3:3838::/48
+netname:            LKWR-IP6
+descr:              IPv6 Network of Luke
+admin-c:            LKWR-DN42
+tech-c:             LKWR-DN42
+mnt-by:             LKWR-MNT
+status:             ASSIGNED
+nserver:            ns1.luke.dn42
+source:             DN42
