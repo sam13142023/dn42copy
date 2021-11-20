@@ -1,0 +1,4 @@
+route:              172.21.72.0/27
+origin:             AS4242420270
+mnt-by:             LKWR-MNT
+source:             DN42

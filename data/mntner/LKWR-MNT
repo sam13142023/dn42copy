@@ -1,0 +1,6 @@
+mntner:             LKWR-MNT
+admin-c:            LKWR-DN42
+tech-c:             LKWR-DN42
+mnt-by:             LKWR-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPZbYFt8VQ3V/LfbMdR2LGX7O7Zt0vLpYhNYXE5cfgjF
+source:             DN42
