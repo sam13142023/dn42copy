@@ -1,0 +1,9 @@
+domain:             james.dn42
+admin-c:            JCAHILL-DN42
+tech-c:             JCAHILL-DN42
+mnt-by:             JCAHILL-MNT
+nserver:            ns1.james.dn42 172.22.114.65
+nserver:            ns1.james.dn42 fddd:ac53:f33f::2
+nserver:            ns2.james.dn42 172.22.114.66
+nserver:            ns2.james.dn42 fddd:ac53:f33f::3
+source:             DN42

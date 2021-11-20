@@ -5,4 +5,6 @@ admin-c:            JCAHILL-DN42
 tech-c:             JCAHILL-DN42
 mnt-by:             JCAHILL-MNT
 status:             ASSIGNED
+nserver:            ns1.james.dn42
+nserver:            ns2.james.dn42
 source:             DN42
