@@ -3,4 +3,5 @@ admin-c:            HERRTXBIAS-DN42
 tech-c:             HERRTXBIAS-DN42
 mnt-by:             HERRTXBIAS-MNT
 auth:               pgp-fingerprint F661E4CD2AE2707D43C61CAEDA524049D48E6BFD
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAAcN2sBJTHXRSxIjp4+vfBQCcEoy4xbtXojeNaWxpyV0JjdfE2sSbq6CK9wSCU2vC2S+kbfptSJ7bwz5dOD6E2AMQHF8Ml2EehN9fChD5nqewFRXT4Y+E7fZ+7k224x83De26UfZ0MF3uu4G2pngst2uyj+xuoelrYiP3mfc8tP4eGPhg==
 source:             DN42
