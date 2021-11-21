@@ -1,0 +1,5 @@
+route6:             fd53:849:742::/48
+origin:             AS4242422040
+max-length:         48
+mnt-by:             LEMCOENET-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd53:0849:0742:0000:0000:0000:0000:0000 - fd53:0849:0742:ffff:ffff:ffff:ffff:ffff
+cidr:               fd53:849:742::/48
+netname:            LEMCOENET-NETWORK
+descr:              LEMCOENET
+country:            US
+admin-c:            LEMCOENET-DN42
+tech-c:             LEMCOENET-DN42
+mnt-by:             LEMCOENET-MNT
+status:             ASSIGNED
+source:             DN42

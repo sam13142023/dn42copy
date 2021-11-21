@@ -1,0 +1,4 @@
+route:              172.21.85.32/27
+origin:             AS4242422040
+mnt-by:             LEMCOENET-MNT
+source:             DN42

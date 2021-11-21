@@ -1,0 +1,6 @@
+mntner:             LEMCOENET-MNT
+admin-c:            LEMCOENET-DN42
+tech-c:             LEMCOENET-DN42
+mnt-by:             LEMCOENET-MNT
+auth:               pgp-fingerprint 52D03E1B467DDF653C6780918845118E06C1E2C8
+source:             DN42
