@@ -1,0 +1,6 @@
+mntner:             TEAPOT-MNT
+admin-c:            TEAPOT-DN42
+tech-c:             TEAPOT-DN42
+mnt-by:             TEAPOT-MNT
+auth:               pgp-fingerprint 73C8C3AB73E8827C1F1CBBF0857ABDC7CBF1E8CD
+source:             DN42

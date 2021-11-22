@@ -1,0 +1,8 @@
+inetnum:            172.23.71.0 - 172.23.71.31
+cidr:               172.23.71.0/27
+netname:            TEAPOT-NETWORK
+admin-c:            TEAPOT-DN42
+tech-c:             TEAPOT-DN42
+mnt-by:             TEAPOT-MNT
+status:             ASSIGNED
+source:             DN42

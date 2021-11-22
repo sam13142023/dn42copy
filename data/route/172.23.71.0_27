@@ -1,0 +1,4 @@
+route:              172.23.71.0/27
+origin:             AS4242422568
+mnt-by:             TEAPOT-MNT
+source:             DN42
