@@ -1,0 +1,10 @@
+inet6num:           fd63:c85f:2e25:0000:0000:0000:0000:0000 - fd63:c85f:2e25:ffff:ffff:ffff:ffff:ffff
+cidr:               fd63:c85f:2e25::/48
+netname:            TEAPOT-NETWORK
+descr:              Network of teapot418
+country:            DE
+admin-c:            TEAPOT-DN42
+tech-c:             TEAPOT-DN42
+mnt-by:             TEAPOT-MNT
+status:             ASSIGNED
+source:             DN42

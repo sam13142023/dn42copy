@@ -1,0 +1,5 @@
+route6:             fd63:c85f:2e25::/48
+origin:             AS4242422568
+max-length:         48
+mnt-by:             TEAPOT-MNT
+source:             DN42
