@@ -3,5 +3,7 @@ admin-c:            LKWR-DN42
 tech-c:             LKWR-DN42
 mnt-by:             LKWR-MNT
 nserver:            ns1.luke.dn42 172.21.72.1
-nserver:            ns1.luke.dn42 fdd7:e0f3:3838::53:1
+nserver:            ns1.luke.dn42 fdd7:e0f3:3838:1::53
+nserver:            ns2.luke.dn42 172.21.72.2
+nserver:            ns2.luke.dn42 fdd7:e0f3:3838:2::53
 source:             DN42
