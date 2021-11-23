@@ -2,6 +2,6 @@ domain:             peer.dn42
 admin-c:            PEER-DN42
 tech-c:             PEER-DN42
 mnt-by:             PEER-MNT
-nserver:            ns1.fosshost.dn42
-nserver:            ns2.fosshost.dn42
+nserver:            nsa.peer.dn42 172.20.231.2
+nserver:            nsb.peer.dn42 172.20.231.3
 source:             DN42

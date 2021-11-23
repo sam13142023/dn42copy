@@ -4,7 +4,7 @@ netname:            PEER-NET6-1
 admin-c:            PEER-DN42
 tech-c:             PEER-DN42
 mnt-by:             PEER-MNT
-nserver:            ns1.fosshost.dn42
-nserver:            ns2.fosshost.dn42
+nserver:            nsa.peer.dn42
+nserver:            nsb.peer.dn42
 status:             ASSIGNED
 source:             DN42

@@ -2,6 +2,6 @@ domain:             as4242420343.dn42
 admin-c:            PEER-DN42
 tech-c:             PEER-DN42
 mnt-by:             PEER-MNT
-nserver:            ns1.darenet.dn42
-nserver:            ns2.darenet.dn42
+nserver:            nsa.peer.dn42
+nserver:            nsb.peer.dn42
 source:             DN42
