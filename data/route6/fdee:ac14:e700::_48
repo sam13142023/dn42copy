@@ -1,5 +1,5 @@
 route6:             fdee:ac14:e700::/48
 origin:             AS4242420343
-max-length:         48
+max-length:         56
 mnt-by:             PEER-MNT
 source:             DN42

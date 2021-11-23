@@ -3,7 +3,7 @@ origin:             AS4242421352
 origin:             AS4242420343
 origin:             AS4242420769
 origin:             AS4242420460
-max-length:         48
+max-length:         56
 mnt-by:             PEER-MNT
 mnt-by:             HAMMYNET-MNT
 source:             DN42
