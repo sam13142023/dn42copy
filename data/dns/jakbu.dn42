@@ -1,0 +1,9 @@
+domain:             jakbu.dn42
+admin-c:            JAKBU-DN42
+tech-c:             JAKBU-DN42
+mnt-by:             JAKBU-MNT
+nserver:            ns1.jakbu.dn42 172.23.69.97
+nserver:            ns1.jakbu.dn42 fd69:420:666:53::1
+nserver:            ns2.jakbu.dn42 172.23.69.98
+nserver:            ns2.jakbu.dn42 fd69:420:666:53::2
+source:             DN42

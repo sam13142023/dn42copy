@@ -1,0 +1,12 @@
+inet6num:           fd69:0420:0666:0000:0000:0000:0000:0000 - fd69:0420:0666:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:420:666::/48
+netname:            JAKBU-NETWORK
+descr:              JAKBU-NET
+country:            PL
+admin-c:            JAKBU-DN42
+tech-c:             JAKBU-DN42
+mnt-by:             JAKBU-MNT
+status:             ASSIGNED
+nserver:            ns1.jakbu.dn42
+nserver:            ns2.jakbu.dn42
+source:             DN42

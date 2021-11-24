@@ -1,0 +1,5 @@
+route6:             fd69:420:666::/48
+origin:             AS4242421606
+max-length:         48
+mnt-by:             JAKBU-MNT
+source:             DN42

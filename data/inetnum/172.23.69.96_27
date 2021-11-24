@@ -1,0 +1,12 @@
+inetnum:            172.23.69.96 - 172.23.69.127
+cidr:               172.23.69.96/27
+netname:            JAKBU-NETWORK
+descr:              JAKBU-NET
+country:            PL
+admin-c:            JAKBU-DN42
+tech-c:             JAKBU-DN42
+mnt-by:             JAKBU-MNT
+status:             ASSIGNED
+nserver:            ns1.jakbu.dn42
+nserver:            ns2.jakbu.dn42
+source:             DN42
