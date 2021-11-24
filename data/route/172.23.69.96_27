@@ -1,0 +1,4 @@
+route:              172.23.69.96/27
+origin:             AS4242421606
+mnt-by:             JAKBU-MNT
+source:             DN42
