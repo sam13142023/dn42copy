@@ -1,0 +1,7 @@
+mntner:             JAROD-MNT
+admin-c:            JAROD-DN42
+tech-c:             JAROD-DN42
+mnt-by:             JAROD-MNT
+source:             DN42
+auth:               pgp-fingerprint B4D967AAEB4F786BF29382BB9289F1A25F753C17
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFNHlsxrx4yrDE8d8IVXJ9K8XhsMK7Sq0rJCqaWp2usZ 710526@qq.com
