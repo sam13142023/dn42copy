@@ -1,0 +1,9 @@
+inetnum:            172.23.109.176 - 172.23.109.191
+cidr:               172.23.109.176/28
+netname:            ISAWAN-V4-NET-1
+country:            GB
+admin-c:            ISAWAN-DN42
+tech-c:             ISAWAN-DN42
+mnt-by:             ISAWAN-MNT
+status:             ASSIGNED
+source:             DN42
