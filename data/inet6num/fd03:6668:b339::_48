@@ -1,0 +1,10 @@
+inet6num:           fd03:6668:b339:0000:0000:0000:0000:0000 - fd03:6668:b339:ffff:ffff:ffff:ffff:ffff
+netname:            JAROD-IPV6
+descr:              Peer with me at jarod.vip@qq.com
+country:            CN
+admin-c:            JAROD-DN42
+tech-c:             JAROD-DN42
+mnt-by:             JAROD-MNT
+status:             ASSIGNED
+cidr:               fd03:6668:b339::/48
+source:             DN42
