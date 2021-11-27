@@ -1,0 +1,5 @@
+route:              172.23.120.32/27
+origin:             AS4242421720
+max-length:         29
+mnt-by:             JOELH-MNT
+source:             DN42

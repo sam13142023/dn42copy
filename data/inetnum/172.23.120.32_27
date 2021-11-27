@@ -1,0 +1,10 @@
+inetnum:            172.23.120.32 - 172.23.120.63
+cidr:               172.23.120.32/27
+netname:            JOELH-DN42-NET
+descr:              Joel's DN42 Lab
+country:            US
+admin-c:            JOELH-DN42
+tech-c:             JOELH-DN42
+mnt-by:             JOELH-MNT
+status:             ASSIGNED
+source:             DN42
