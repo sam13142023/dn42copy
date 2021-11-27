@@ -1,0 +1,8 @@
+inetnum:            172.23.33.64 - 172.23.33.127
+cidr:               172.23.33.64/26
+netname:            BACTERIA-NETWORK
+admin-c:            BACTERIA-DN42
+tech-c:             BACTERIA-DN42
+mnt-by:             BACTERIA-MNT
+status:             ASSIGNED
+source:             DN42

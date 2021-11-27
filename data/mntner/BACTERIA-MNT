@@ -1,0 +1,7 @@
+mntner:             BACTERIA-MNT
+admin-c:            BACTERIA-DN42
+tech-c:             BACTERIA-DN42
+mnt-by:             BACTERIA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINWKd9W74duy1faGraSCV2d5+2ODNF9PwpLe8ZchdY7/
+auth:               PGPKEY-FDAB8B80
+source:             DN42

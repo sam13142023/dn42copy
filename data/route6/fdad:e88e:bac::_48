@@ -1,0 +1,5 @@
+route6:             fdad:e88e:bac::/48
+origin:             AS4242420499
+max-length:         48
+mnt-by:             BACTERIA-MNT
+source:             DN42
