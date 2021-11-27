@@ -1,0 +1,4 @@
+route:              172.23.33.64/26
+origin:             AS4242420499
+mnt-by:             BACTERIA-MNT
+source:             DN42

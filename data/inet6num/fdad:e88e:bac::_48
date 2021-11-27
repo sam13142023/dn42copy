@@ -1,0 +1,10 @@
+inet6num:           fdad:e88e:0bac:0000:0000:0000:0000:0000 - fdad:e88e:0bac:ffff:ffff:ffff:ffff:ffff
+cidr:               fdad:e88e:bac::/48
+netname:            BACTERIA-NETWORK6
+descr:              Bacteria IPv6
+country:            IN
+admin-c:            BACTERIA-DN42
+tech-c:             BACTERIA-DN42
+mnt-by:             BACTERIA-MNT
+status:             ASSIGNED
+source:             DN42

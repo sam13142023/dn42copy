@@ -1,0 +1,40 @@
+key-cert:           PGPKEY-FDAB8B80
+method:             PGP
+owner:              Bacteria <bacteria42@hash.fyi>
+fingerpr:           85F5 C622 1E74 9A52 D183  28E8 C377 D14D FDAB 8B80
+remarks:            PGP key for BACTERIA-DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEYaE+FxYJKwYBBAHaRw8BAQdAvhoigYC5meD4s2YWNwwRidKmjNSIw/oA095j
+certif:             IgBGF020HkJhY3RlcmlhIDxiYWN0ZXJpYTQyQGhhc2guZnlpPoiWBBMWCAA+FiEE
+certif:             hfXGIh50mlLRgyjow3fRTf2ri4AFAmGhPhcCGwEFCV38DwAFCwkIBwIGFQoJCAsC
+certif:             BBYCAwECHgECF4AACgkQw3fRTf2ri4C4hgEAntaNpJHYqdg2o2DDtFfIABwu8hZL
+certif:             fUSlSZGbdSIDAsAA/AjkY9P4TW7ktga+3jikUiC3cD4a4nTSP/hJ5vmYXzIAuDME
+certif:             YaE//BYJKwYBBAHaRw8BAQdA9g8wTlBJ0NWSDB9IeqtwyRPO+LrzVvSmcq6W3T6g
+certif:             dhGI9QQYFggAJhYhBIX1xiIedJpS0YMo6MN30U39q4uABQJhoT/8AhsCBQkFo5qA
+certif:             AIEJEMN30U39q4uAdiAEGRYIAB0WIQSdLijzKL9QcHbvQWDem5pvqlTs+gUCYaE/
+certif:             /AAKCRDem5pvqlTs+qHEAPwMrOIRhJG0S8gEbgAuQm0fJ5BiQMeFWN9oLgdZMQt7
+certif:             hAD9EA3vKcF+S7z22pOhar0QdkWnkhwZKmeFKqXcjlaaiAvb7QEA8oPLsUaiT385
+certif:             bGJX3mXItLuMG+KoTAq505oP1wNZtRoBAIzhSQcaaeGQnjZ/ZeMAgmR+1v9vPTN3
+certif:             Lzyjr+uiNwgDuQINBGGhQFUBEADQB8+9NkMON+FyoAllnOnYCDImO+Gguj3ijZXX
+certif:             mgOlloRWaO9G6BgLsVv2AucjMyAbbZ3+bWIkAAj3QCNhlse5VQflHhApdvXZx+My
+certif:             vZm+lyed9DZ057AD9KV1EREAt1LZd0xn62vJtlKCRATstZE66gV0iwBnsNjd11+6
+certif:             NEGJMydWXGzQvkujkmLRtjbLj5krsUUsIRww6IKz9McqatM1q+WPA+fQ//eGWb1B
+certif:             R32+kurenTiNVtLfho1WRrlEpiCyPvTIj97+ucPqAdWuP0awP/GHpdj9QjklWDOU
+certif:             EU7KXPinZV+V/zXf8rXpoLybhMLKpFp24qQzuaYy/B/I8Dz91jvw5H2qyG+7U8K7
+certif:             XB7LyoQ5bjJycXzr6wOsLiQIzEP5vCOUdRzHxTy1f17aSYJ2o8YtzwX8ISzMrDi0
+certif:             HmBu+jJonMrD/VK6oCiJGWDnTOpuOlRZ1XhrlyvjdrIhRf82oZuwTadQS9EVkKBc
+certif:             MpZxfPyj+WR29NeAW4Oj01ZsshrtbvwcxaOG3s/SsUt2nWOSnTUP4p08FnLhMTa7
+certif:             xy+B08HPfTSnQVN6D5guFNxtoEtBi2CNSb7TLSzpjiUWme1HxVpuRKPaqUvRVNGn
+certif:             U/xvzl1OTq7TaogQoyNb2nPj5CPNhza0YEGPWkP/NoWU1ugA+nZzJOOzkcUWvx+/
+certif:             mr5DWQARAQABiH4EGBYIACYWIQSF9cYiHnSaUtGDKOjDd9FN/auLgAUCYaFAVQIb
+certif:             DAUJBaOagAAKCRDDd9FN/auLgPMEAP0SS7JHh5atUaW4RDENmEolQpJfuMPkb63H
+certif:             behpH9fRGwD+IVuI0Az4cHM+qyGqMGfqKhZqi1SpZ2iWw1MOEbNDKgy4MwRhoUCw
+certif:             FgkrBgEEAdpHDwEBB0BoX8PaOn2WOgabMleBM8IDd2MZLTKYqfN/pxf4u16x/4h+
+certif:             BBgWCAAmFiEEhfXGIh50mlLRgyjow3fRTf2ri4AFAmGhQLACGyAFCQWjmoAACgkQ
+certif:             w3fRTf2ri4DXSgEAxItX6mW1LGZ4DzA1y7yEZB33jTe8Z43uC/CI0wvIPLYBAOdw
+certif:             MaYfDKTgcTwedOsZ32HThw5MSZ6vr+Zle3sZLtIG
+certif:             =r7GP
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             BACTERIA-MNT
+source:             DN42
