@@ -3,4 +3,5 @@ admin-c:            JAKBU-DN42
 tech-c:             JAKBU-DN42
 mnt-by:             JAKBU-MNT
 auth:               pgp-fingerprint D72AAF9DF11AF0EB520FCA22B60D8A716BDDD2CE
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIICHioHYH7q62O3XjjVDTDlLo0lo5VT/f1lx6XNo6ddT
 source:             DN42
