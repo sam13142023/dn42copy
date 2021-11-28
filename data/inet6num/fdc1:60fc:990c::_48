@@ -1,0 +1,9 @@
+inet6num:           fdc1:60fc:990c:0000:0000:0000:0000:0000 - fdc1:60fc:990c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc1:60fc:990c::/48
+netname:            ISAWAN-V6-NET-1
+country:            GB
+admin-c:            ISAWAN-DN42
+tech-c:             ISAWAN-DN42
+mnt-by:             ISAWAN-MNT
+status:             ASSIGNED
+source:             DN42
