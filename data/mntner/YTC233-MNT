@@ -1,0 +1,7 @@
+mntner:             YTC233-MNT
+admin-c:            YTC233-DN42
+tech-c:             YTC233-DN42
+mnt-by:             YTC233-MNT
+source:             DN42
+auth:               pgp-fingerprint 30A5958D6AB520B022B059571567810D72A06932
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBF4HWGmpaoYpHNGGB6qt6nkpPDEJd2O3exwrcc33jWJ

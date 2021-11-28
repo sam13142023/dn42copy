@@ -1,0 +1,11 @@
+inetnum:            172.22.106.0 - 172.22.106.31
+netname:            YTC233-IPV4
+remarks:            Peer with me at 18855426733@163.com
+descr:              Peer with me at 18855426733@163.com
+country:            CN
+admin-c:            YTC233-DN42
+tech-c:             YTC233-DN42
+mnt-by:             YTC233-MNT
+status:             ASSIGNED
+cidr:               172.22.106.0/27
+source:             DN42

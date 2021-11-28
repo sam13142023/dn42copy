@@ -1,0 +1,10 @@
+inet6num:           fdab:4053:c0c1:0000:0000:0000:0000:0000 - fdab:4053:c0c1:ffff:ffff:ffff:ffff:ffff
+netname:            YTC233-IPV6
+descr:              Peer with me at 18855426733@163.com
+country:            CN
+admin-c:            YTC233-DN42
+tech-c:             YTC233-DN42
+mnt-by:             YTC233-MNT
+status:             ASSIGNED
+cidr:               fdab:4053:c0c1::/48
+source:             DN42
