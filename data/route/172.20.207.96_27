@@ -1,0 +1,5 @@
+route:              172.20.207.96/27
+descr:              Lapis Apple on DN42
+origin:             AS4242423252
+mnt-by:             LAPISAPPLE-MNT
+source:             DN42

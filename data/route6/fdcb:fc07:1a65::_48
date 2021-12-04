@@ -1,0 +1,5 @@
+route6:             fdcb:fc07:1a65::/48
+descr:              Lapis Apple on DN42
+origin:             AS4242423252
+mnt-by:             LAPISAPPLE-MNT
+source:             DN42
