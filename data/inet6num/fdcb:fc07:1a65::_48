@@ -1,0 +1,12 @@
+inet6num:           fdcb:fc07:1a65:0000:0000:0000:0000:0000 - fdcb:fc07:1a65:ffff:ffff:ffff:ffff:ffff
+netname:            LAPISAPPLE-IPV6
+descr:              Lapis Apple on DN42
+country:            CN
+admin-c:            LAPISAPPLE-DN42
+tech-c:             LAPISAPPLE-DN42
+mnt-by:             LAPISAPPLE-MNT
+nserver:            ns1.186526.dn42
+nserver:            ns2.186526.dn42
+status:             ASSIGNED
+cidr:               fdcb:fc07:1a65::/48
+source:             DN42

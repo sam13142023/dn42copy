@@ -1,0 +1,13 @@
+inetnum:            172.20.207.96 - 172.20.207.127
+netname:            LAPISAPPLE-IPV4
+remarks:            Lapis Apple on DN42
+descr:              Lapis Apple on DN42
+country:            CN
+admin-c:            LAPISAPPLE-DN42
+tech-c:             LAPISAPPLE-DN42
+mnt-by:             LAPISAPPLE-MNT
+nserver:            ns1.186526.dn42
+nserver:            ns2.186526.dn42
+status:             ASSIGNED
+cidr:               172.20.207.96/27
+source:             DN42
