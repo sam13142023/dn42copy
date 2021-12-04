@@ -1,0 +1,7 @@
+domain:             bnet.dn42
+admin-c:            BNET-DN42
+tech-c:             BNET-DN42
+mnt-by:             BNET-MNT
+nserver:            ns1.bnet.dn42 172.23.242.53
+nserver:            ns1.bnet.dn42 fdce:66c5:95db:53::1
+source:             DN42

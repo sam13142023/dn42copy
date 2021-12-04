@@ -1,0 +1,10 @@
+inetnum:            172.23.242.32 - 172.23.242.63
+cidr:               172.23.242.32/27
+netname:            BNET-NETWORK
+country:            AT
+admin-c:            BNET-DN42
+tech-c:             BNET-DN42
+mnt-by:             BNET-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.bnet.dn42

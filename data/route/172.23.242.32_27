@@ -1,0 +1,4 @@
+route:              172.23.242.32/27
+origin:             AS4242421904
+mnt-by:             BNET-MNT
+source:             DN42

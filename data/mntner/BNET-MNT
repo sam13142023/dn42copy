@@ -1,0 +1,8 @@
+mntner:             BNET-MNT
+admin-c:            BNET-DN42
+tech-c:             BNET-DN42
+mnt-by:             BNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPmRgrtqoii75DyJTdTEliwUYNudwFTJFZ3cXo/5Qa3h
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEwsememwYVco8SlqR56wgENjeIFIdNoa0BDE2ISAN4j
+auth:               pgp-fingerprint 5FE5CECDC948FF4EA4CC9A76503C37E4BAE83E29
+source:             DN42
