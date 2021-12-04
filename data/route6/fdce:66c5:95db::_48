@@ -1,0 +1,5 @@
+route6:             fdce:66c5:95db::/48
+origin:             AS4242421904
+max-length:         48
+mnt-by:             BNET-MNT
+source:             DN42

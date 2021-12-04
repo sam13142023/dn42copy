@@ -1,0 +1,11 @@
+inet6num:           fdce:66c5:95db:0000:0000:0000:0000:0000 - fdce:66c5:95db:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:66c5:95db::/48
+netname:            BNET-NETWORK
+descr:              Network of BNET
+country:            AT
+admin-c:            BNET-DN42
+tech-c:             BNET-DN42
+mnt-by:             BNET-MNT
+nserver:            ns1.bnet.dn42
+status:             ASSIGNED
+source:             DN42
