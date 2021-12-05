@@ -1,0 +1,5 @@
+route6:             fdf0:e23c:6950::/48
+origin:             AS4242422812
+max-length:         48
+mnt-by:             JONAS-MNT
+source:             DN42
