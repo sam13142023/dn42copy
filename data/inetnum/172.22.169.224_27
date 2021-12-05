@@ -1,0 +1,8 @@
+inetnum:            172.22.169.224 - 172.22.169.255
+cidr:               172.22.169.224/27
+netname:            CHUFANSUKI-NETWORK
+admin-c:            CHUFANSUKI-DN42
+tech-c:             CHUFANSUKI-DN42
+mnt-by:             CHUFANSUKI-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.169.224/27
+origin:             AS4242422023
+mnt-by:             CHUFANSUKI-MNT
+source:             DN42
