@@ -1,0 +1,8 @@
+inetnum:            172.23.178.160 - 172.23.178.191
+cidr:               172.23.178.160/27
+netname:            JONAS-NETWORK
+admin-c:            JONAS-DN42
+tech-c:             JONAS-DN42
+mnt-by:             JONAS-MNT
+status:             ASSIGNED
+source:             DN42
