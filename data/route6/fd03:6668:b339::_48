@@ -1,5 +1,5 @@
 route6:             fd03:6668:b339::/48
-descr:              Peer with me at jarod.vip@qq.com
+descr:              Peer with me at dn42@bgp.pub
 origin:             AS4242422088
 mnt-by:             JAROD-MNT
 source:             DN42

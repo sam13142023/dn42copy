@@ -3,5 +3,5 @@ admin-c:            JAROD-DN42
 tech-c:             JAROD-DN42
 mnt-by:             JAROD-MNT
 nserver:            ns.god.dn42 172.23.111.111
-nserver:            ns.god.dn42 fd03:6668:b339::1
+nserver:            ns.god.dn42 fd03:6668:b339:53::1
 source:             DN42
