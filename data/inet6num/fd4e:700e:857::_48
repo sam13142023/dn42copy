@@ -1,0 +1,10 @@
+inet6num:           fd4e:700e:0857:0000:0000:0000:0000:0000 - fd4e:700e:0857:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4e:700e:857::/48
+netname:            CHUFANSUKI-NETWORK
+descr:              Network of Chufan Chen
+country:            CN
+admin-c:            CHUFANSUKI-DN42
+tech-c:             CHUFANSUKI-DN42
+mnt-by:             CHUFANSUKI-MNT
+status:             ASSIGNED
+source:             DN42

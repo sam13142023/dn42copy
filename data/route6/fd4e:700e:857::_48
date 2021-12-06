@@ -1,0 +1,5 @@
+route6:             fd4e:700e:857::/48
+origin:             AS4242422023
+max-length:         48
+mnt-by:             CHUFANSUKI-MNT
+source:             DN42
