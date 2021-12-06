@@ -1,7 +1,7 @@
 inetnum:            172.23.111.96 - 172.23.111.127
 netname:            JAROD-IPV4
-remarks:            Peer with me at jarod.vip@qq.com
-descr:              Peer with me at jarod.vip@qq.com
+remarks:            Peer with me at dn42@bgp.pub
+descr:              Peer with me at dn42@bgp.pub
 country:            CN
 admin-c:            JAROD-DN42
 tech-c:             JAROD-DN42
