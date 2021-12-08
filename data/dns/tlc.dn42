@@ -1,0 +1,7 @@
+domain:             tlc.dn42
+admin-c:            TLC-DN42
+tech-c:             TLC-DN42
+mnt-by:             TLC-MNT
+nserver:            ns.tlc.dn42 172.21.75.33
+nserver:            ns.tlc.dn42 fd0c:dec7:26bf::1
+source:             DN42

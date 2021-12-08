@@ -1,0 +1,9 @@
+inet6num:           fd0c:dec7:26bf:0000:0000:0000:0000:0000 - fd0c:dec7:26bf:ffff:ffff:ffff:ffff:ffff
+netname:            TLC-MAIN6
+country:            CN
+admin-c:            TLC-DN42
+tech-c:             TLC-DN42
+mnt-by:             TLC-MNT
+status:             ASSIGNED
+cidr:               fd0c:dec7:26bf::/48
+source:             DN42
