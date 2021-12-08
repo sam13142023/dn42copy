@@ -1,0 +1,6 @@
+mntner:             TLC-MNT
+admin-c:            TLC-DN42
+tech-c:             TLC-DN42
+mnt-by:             TLC-MNT
+source:             DN42
+auth:               pgp-fingerprint 6EB8EACB682EF003BC89127DFE1E76C8247DD628
