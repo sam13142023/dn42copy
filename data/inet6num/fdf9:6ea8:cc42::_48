@@ -1,0 +1,11 @@
+inet6num:           fdf9:6ea8:cc42:0000:0000:0000:0000:0000 - fdf9:6ea8:cc42:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf9:6ea8:cc42::/48
+netname:            TILDE-NETWORK
+descr:              Network of tilde.fun
+country:            DE
+admin-c:            HELIX-DN42
+tech-c:             HELIX-DN42
+mnt-by:             HELIX-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-TILDE

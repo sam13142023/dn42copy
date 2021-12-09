@@ -1,0 +1,6 @@
+mntner:             HELIX-MNT
+admin-c:            HELIX-DN42
+tech-c:             HELIX-DN42
+mnt-by:             HELIX-MNT
+auth:               pgp-fingerprint 0E876DE96EC2D6879C255EA7DEFA986610835CEA
+source:             DN42

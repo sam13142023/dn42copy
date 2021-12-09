@@ -1,0 +1,11 @@
+inetnum:            172.23.69.128 - 172.23.69.159
+cidr:               172.23.69.128/27
+netname:            TILDE-NETWORK
+descr:              Network of tilde.fun
+country:            DE
+admin-c:            HELIX-DN42
+tech-c:             HELIX-DN42
+mnt-by:             HELIX-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-TILDE

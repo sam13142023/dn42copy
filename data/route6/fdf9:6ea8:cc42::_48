@@ -1,0 +1,5 @@
+route6:             fdf9:6ea8:cc42::/48
+origin:             AS4242423104
+max-length:         48
+mnt-by:             HELIX-MNT
+source:             DN42
