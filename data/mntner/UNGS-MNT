@@ -1,0 +1,6 @@
+mntner:             UNGS-MNT
+admin-c:            UNGS-DN42
+tech-c:             UNGS-DN42
+mnt-by:             UNGS-MNT
+source:             DN42
+auth:               pgp-fingerprint 48377FBE6EF38838EE6F5D253C355D3B05E03E5D

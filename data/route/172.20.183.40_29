@@ -1,0 +1,4 @@
+route:              172.20.183.40/29
+origin:             AS4242423706
+mnt-by:             UNGS-MNT
+source:             DN42

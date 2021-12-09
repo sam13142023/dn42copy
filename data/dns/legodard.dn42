@@ -1,0 +1,8 @@
+domain:             legodard.dn42
+descr:              LeGodard
+admin-c:            UNGS-DN42
+tech-c:             UNGS-DN42
+mnt-by:             UNGS-MNT
+nserver:            ns1.legodard.dn42 172.20.183.41
+nserver:            ns1.legodard.dn42 fd92:3823:80fd:d300::2
+source:             DN42
