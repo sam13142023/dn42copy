@@ -1,0 +1,9 @@
+inet6num:           fd92:3823:80fd:d300:0000:0000:0000:0000 - fd92:3823:80fd:d300:ffff:ffff:ffff:ffff
+cidr:               fd92:3823:80fd:d300::/64
+netname:            UNGS-V6-NET-1
+country:            FR
+admin-c:            UNGS-DN42
+tech-c:             UNGS-DN42
+mnt-by:             UNGS-MNT
+status:             ASSIGNED
+source:             DN42

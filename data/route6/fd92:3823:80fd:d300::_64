@@ -1,0 +1,4 @@
+route6:             fd92:3823:80fd:d300::/64
+origin:             AS4242423706
+mnt-by:             UNGS-MNT
+source:             DN42

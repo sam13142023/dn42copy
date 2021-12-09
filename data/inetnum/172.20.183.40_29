@@ -1,0 +1,9 @@
+inetnum:            172.20.183.40 - 172.20.183.47
+cidr:               172.20.183.40/29
+netname:            UNGS-V4-NET-1
+country:            FR
+admin-c:            UNGS-DN42
+tech-c:             UNGS-DN42
+mnt-by:             UNGS-MNT
+status:             ASSIGNED
+source:             DN42
