@@ -1,0 +1,5 @@
+route6:             fd04:20e5:d212::/48
+origin:             AS4242422281
+max-length:         48
+mnt-by:             TIUMI-MNT
+source:             DN42

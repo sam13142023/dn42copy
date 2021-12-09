@@ -1,0 +1,9 @@
+inet6num:           fd04:20e5:d212:0000:0000:0000:0000:0000 - fd04:20e5:d212:ffff:ffff:ffff:ffff:ffff
+cidr:               fd04:20e5:d212::/48
+netname:            TIUMI-NETWORK
+descr:              Network of tiumi
+admin-c:            TIUMI-DN42
+tech-c:             TIUMI-DN42
+mnt-by:             TIUMI-MNT
+status:             ASSIGNED
+source:             DN42
