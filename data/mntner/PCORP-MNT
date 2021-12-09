@@ -1,0 +1,6 @@
+mntner:             PCORP-MNT
+admin-c:            PCORP-DN42
+tech-c:             PCORP-DN42
+mnt-by:             PCORP-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJgpp7g8weGqErUe8SWgFZwY+a76pF/7/K47RaAkBGQnJy96ooUkdw4xDH0jx+bEEUdONzSWP67e/1KM2S9Zir83S9fA+divpS6Pzq6036h0HJnY8RFcY+3Q1wu/cljhLWcvSHd1oTOlX6JKsAgNYymt3K4ZRhjxCgfQzD1m4jR/dHQqagIcoSrIGhFvS/Yc+0NN95DJ/ZY5Z4o6A7p9l0NEoohG/il3a05cuTb/WpMTjghavkS0xhrh5BVf1R66xiwcrU7fkYdD2aP/XOYV2WjgXAAwQGci0P8soDeBKRLUAU2zNom2A3pHNdE/XsP4eE/NUeP8pB9FLaZvXyD6icS5jaYrxrDWDwNckaPwU4dxdMJiZKBlv7U3ct2vvqcxgbyQqBHBHO6u+CC7lYcIxTKIXGTcWkQKN75U/S/L6g5jbu2Z2u4899rjm5XLqWTAswQLTb2Wdn6D29Hv2tVOsot4RtgMoVlQlPE2h9Ury9TlVX4LakLF7DP7apUdApdfs= jrpwoodruff@rp-elitebook
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             pcorp.dn42
+admin-c:            PCORP-DN42
+tech-c:             PCORP-DN42
+mnt-by:             PCORP-MNT
+nserver:            ns1.pcorp.dn42 172.20.32.253
+nserver:            ns1.pcorp.dn42 fd2d:6421:f42b:40::53
+source:             DN42

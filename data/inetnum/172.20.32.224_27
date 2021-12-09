@@ -1,0 +1,8 @@
+inetnum:            172.20.32.224 - 172.20.32.255
+cidr:               172.20.32.224/27
+netname:            PCORP-NETWORK
+admin-c:            PCORP-DN42
+tech-c:             PCORP-DN42
+mnt-by:             PCORP-MNT
+status:             ASSIGNED
+source:             DN42

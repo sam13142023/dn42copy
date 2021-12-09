@@ -1,0 +1,4 @@
+route:              172.20.32.224/27
+origin:             AS4242423840
+mnt-by:             PCORP-MNT
+source:             DN42
