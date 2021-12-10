@@ -1,0 +1,9 @@
+inet6num:           fd2d:6421:f42b:0000:0000:0000:0000:0000 - fd2d:6421:f42b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2d:6421:f42b::/48
+netname:            PCORP-NETWORK
+descr:              Network of PandaCorp
+admin-c:            PCORP-DN42
+tech-c:             PCORP-DN42
+mnt-by:             PCORP-MNT
+status:             ASSIGNED
+source:             DN42
