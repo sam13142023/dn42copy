@@ -1,0 +1,8 @@
+inetnum:            172.20.31.80 - 172.20.31.95
+cidr:               172.20.31.80/28
+netname:            TIUMI-NETWORK
+admin-c:            TIUMI-DN42
+tech-c:             TIUMI-DN42
+mnt-by:             TIUMI-MNT
+status:             ASSIGNED
+source:             DN42
