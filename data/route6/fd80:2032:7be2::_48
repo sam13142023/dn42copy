@@ -1,0 +1,4 @@
+route6:             fd80:2032:7be2::/48
+origin:             AS4242423391
+mnt-by:             COLA-MNT
+source:             DN42

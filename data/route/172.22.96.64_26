@@ -1,0 +1,4 @@
+route:              172.22.96.64/26
+origin:             AS4242423391
+mnt-by:             COLA-MNT
+source:             DN42

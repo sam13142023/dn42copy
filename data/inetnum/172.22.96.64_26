@@ -1,0 +1,11 @@
+inetnum:            172.22.96.64 - 172.22.96.127
+netname:            COLA-IPV4
+descr:              COLA-IPV4
+country:            CN
+admin-c:            COLA-DN42
+tech-c:             COLA-DN42
+mnt-by:             COLA-MNT
+status:             ASSIGNED
+nserver:            ns.cola.dn42
+cidr:               172.22.96.64/26
+source:             DN42
