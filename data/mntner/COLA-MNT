@@ -1,0 +1,6 @@
+mntner:             COLA-MNT
+admin-c:            COLA-DN42
+tech-c:             COLA-DN42
+mnt-by:             COLA-MNT
+auth:               pgp-fingerprint 49245C7E9C428475D88CA3608D92E7A3AEFBA452
+source:             DN42

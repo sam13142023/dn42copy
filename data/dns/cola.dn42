@@ -1,0 +1,8 @@
+domain:             cola.dn42
+descr:              The cola in DN42!
+admin-c:            COLA-DN42
+tech-c:             COLA-DN42
+mnt-by:             COLA-MNT
+nserver:            ns.cola.dn42 172.22.96.96
+nserver:            ns.cola.dn42 fd80:2032:7be2::1
+source:             DN42

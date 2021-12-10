@@ -1,0 +1,11 @@
+inet6num:           fd80:2032:7be2:0000:0000:0000:0000:0000 - fd80:2032:7be2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd80:2032:7be2::/48
+netname:            COLA-IPV6
+descr:              COLA-IPv6
+country:            CN
+admin-c:            COLA-DN42
+tech-c:             COLA-DN42
+mnt-by:             COLA-MNT
+status:             ASSIGNED
+nserver:            ns.cola.dn42
+source:             DN42
