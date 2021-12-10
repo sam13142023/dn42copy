@@ -2,6 +2,6 @@ domain:             pebkac.dn42
 admin-c:            TOMKAP-DN42
 tech-c:             TOMKAP-DN42
 mnt-by:             P3BK4C-MNT
-nserver:            dns.pebkac.dn42 172.21.67.205
+nserver:            dns.pebkac.dn42 172.21.83.24
 nserver:            dns.pebkac.dn42 fd63:672f:38e7:53::1
 source:             DN42
