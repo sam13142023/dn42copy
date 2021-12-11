@@ -1,0 +1,10 @@
+inet6num:           fd56:a42b:9667:0000:0000:0000:0000:0000 - fd56:a42b:9667:ffff:ffff:ffff:ffff:ffff
+netname:            CHX818-IPV6
+descr:              EFQ INTERNET TECHNOLOGY LTD
+country:            CN
+admin-c:            CHX818-DN42
+tech-c:             CHX818-DN42
+mnt-by:             CHX818-MNT
+status:             ASSIGNED
+cidr:               fd56:a42b:9667::/48
+source:             DN42
