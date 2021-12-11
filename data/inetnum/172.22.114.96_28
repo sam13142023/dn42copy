@@ -1,0 +1,9 @@
+inetnum:            172.22.114.96 - 172.22.114.111
+cidr:               172.22.114.96/28
+netname:            MTZFEDERICO-V4-NET-1
+country:            MX
+admin-c:            MTZFEDERICO-DN42
+tech-c:             MTZFEDERICO-DN42
+mnt-by:             MTZFEDERICO-MNT
+status:             ASSIGNED
+source:             DN42

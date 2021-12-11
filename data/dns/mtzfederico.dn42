@@ -1,0 +1,8 @@
+domain:             mtzfederico.dn42
+descr:              mtzfederico
+admin-c:            MTZFEDERICO-DN42
+tech-c:             MTZFEDERICO-DN42
+mnt-by:             MTZFEDERICO-MNT
+nserver:            ns1.mtzfederico.dn42 172.22.114.97
+nserver:            ns1.mtzfederico.dn42 fd42:24ac:df57:5353::53
+source:             DN42
