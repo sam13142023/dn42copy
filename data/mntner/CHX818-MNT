@@ -1,0 +1,8 @@
+mntner:             CHX818-MNT
+admin-c:            CHX818-DN42
+tech-c:             CHX818-DN42
+mnt-by:             CHX818-MNT
+auth:               pgp-fingerprint A11EFF18A695D8A209FA77BD79C80B0ED963B948
+auth:               pgp-fingerprint C22EA948C18AFAAA59243215A98705D963DFE788
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcJryYFzdXXArsDqtadZdVc+FlGxu1JFdaNwdLRdbWkL4VyUwojK5+VQkwRWP9EiI5M45UEEjYWu/ONEOFpD3D4rkfXUNiIcejn3hdVIB/F1MfcXdE+w5Kmx8M11YO4IriXBI8jhjlkZy3n4ZTCzlGjnnQ24qNZ0mx5Cik6+OQ0Gkbz0ET2JA0ToS1OIGCDxBOvVUJ+uA95oUoAVKFfIIyVNgQ1qJlp9OVczRv3ejdOoaw2wkFIUWpjlS6Y7IqRvmS0zx2+isYVgdSAT1aGDL3Xb0UhtklQEu16YTusjb+9icy12MngCCI7CunB+PxCNKYIMfyhqqF3DyxRZpEkNMfxYx3NtH1pVn+we+25411VIs2LHS/UmdbziQLtjQnth0Rp/KITqW0g9UQfABQMuaXGRwMOZ3ybmR7vIgAYkJZx7l2tAR5p07gDd0OrgMiLd2Fn1ooyPqxsw4KvcWaZdN3smw8QJomFJoB6EKCJZ9kR7ajgsIHj45hO36bcWsoos0= admin@miku.re
+source:             DN42
