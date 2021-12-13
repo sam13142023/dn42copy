@@ -1,0 +1,12 @@
+inet6num:           fdae:6803:d4f8:0000:0000:0000:0000:0000 - fdae:6803:d4f8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdae:6803:d4f8::/48
+netname:            TIMW-IPV6
+descr:              TIMW-IPV6
+country:            US
+admin-c:            TIMW-DN42
+tech-c:             TIMW-DN42
+mnt-by:             TIMW-MNT
+status:             ASSIGNED
+nserver:            ns1.timw.dn42
+nserver:            ns2.timw.dn42
+source:             DN42
