@@ -1,0 +1,9 @@
+domain:             timw.dn42
+admin-c:            TIMW-DN42
+tech-c:             TIMW-DN42
+mnt-by:             TIMW-MNT
+nserver:            ns1.timw.dn42 172.20.197.129
+nserver:            ns1.timw.dn42 fdae:6803:d4f8::1
+nserver:            ns2.timw.dn42 172.20.197.130
+nserver:            ns2.timw.dn42 fdae:6803:d4f8::2
+source:             DN42
