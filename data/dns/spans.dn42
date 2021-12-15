@@ -4,6 +4,6 @@ tech-c:             SPANS-DN42
 mnt-by:             SPANS-MNT
 nserver:            ns1.spans.dn42 172.23.38.138
 nserver:            ns1.spans.dn42 fd38:119:314::7
-nserver:            ns2.spans.dn42 172.23.38.139
-nserver:            ns2.spans.dn42 fd38:119:314::8
+nserver:            ns2.spans.dn42 172.23.38.148
+nserver:            ns2.spans.dn42 fd38:119:314:100::7
 source:             DN42
