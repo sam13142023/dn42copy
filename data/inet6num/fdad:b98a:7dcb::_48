@@ -1,0 +1,11 @@
+inet6num:           fdad:b98a:7dcb:0000:0000:0000:0000:0000 - fdad:b98a:7dcb:ffff:ffff:ffff:ffff:ffff
+netname:            CHATNOIR-IPV6
+descr:              Chatnoir Network ORG JP
+remarks:            Chatnoir Network ORG JP
+country:            JP
+admin-c:            SHANOA-DN42
+tech-c:             SHANOA-DN42
+mnt-by:             SHANOA-MNT
+status:             ASSIGNED
+cidr:               fdad:b98a:7dcb::/48
+source:             DN42
