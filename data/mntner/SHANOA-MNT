@@ -1,0 +1,7 @@
+mntner:             SHANOA-MNT
+admin-c:            SHANOA-DN42
+tech-c:             SHANOA-DN42
+mnt-by:             SHANOA-MNT
+auth:               pgp-fingerprint DA4C26FBB8EA0D212225123DCC3D853CE4DE8272
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJkzlf+P3jx2zLNDYrmzNyPxYk9QYfjvCQVM7ljMRS9Y 25174488+shanoaice@users.noreply.github.com
+source:             DN42
