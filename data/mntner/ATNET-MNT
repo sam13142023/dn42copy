@@ -1,6 +1,6 @@
-aut-num:            AS4242421607
-as-name:            ATNET-AS4242421607
+mntner:             ATNET-MNT
 admin-c:            ATNET-DN42
 tech-c:             ATNET-DN42
 mnt-by:             ATNET-MNT
+auth:               pgp-fingerprint 6F877173618F32E46162788927854D448AC608E7
 source:             DN42
