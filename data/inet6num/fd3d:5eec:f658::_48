@@ -1,0 +1,10 @@
+inet6num:           fd3d:5eec:f658:0000:0000:0000:0000:0000-fd3d:5eec:f658:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3d:5eec:f658::/48
+netname:            THODATAL-NETWORK
+descr:              Thodatal-1
+country:            GB
+admin-c:            THODATAL-DN42
+tech-c:             THODATAL-DN42
+mnt-by:             THODATAL-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.22.158.224 - 172.22.158.255
+cidr:               172.22.158.224/27
+netname:            THODATAL-NETWORK
+admin-c:            THODATAL-DN42
+tech-c:             THODATAL-DN42
+mnt-by:             THODATAL-MNT
+status:             ASSIGNED
+source:             DN42
