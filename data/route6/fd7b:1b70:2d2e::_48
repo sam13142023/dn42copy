@@ -1,0 +1,5 @@
+route6:             fd7b:1b70:2d2e::/48
+origin:             AS4242422007
+max-length:         48
+mnt-by:             JH0-MNT
+source:             DN42
