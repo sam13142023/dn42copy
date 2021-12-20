@@ -1,5 +1,5 @@
 route:              172.22.77.32/28
-descr:              Peer with me at mailto:dn42@kskb.eu.org or https://t.me/KusakabeSi
+descr:              KSKB-Network IPv4
 origin:             AS4242421817
 mnt-by:             KSKB-MNT
 source:             DN42
