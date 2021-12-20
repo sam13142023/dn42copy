@@ -1,0 +1,5 @@
+route6:             fd3d:5eec:f658::/48
+origin:             AS4242422118
+max-length:         48
+mnt-by:             THODATAL-MNT
+source:             DN42
