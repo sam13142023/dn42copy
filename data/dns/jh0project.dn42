@@ -1,0 +1,9 @@
+domain:             jh0project.dn42
+admin-c:            JH0-DN42
+tech-c:             JH0-DN42
+mnt-by:             JH0-MNT
+nserver:            ns1.jh0project.dn42 172.20.222.1
+nserver:            ns1.jh0project.dn42 fd7b:1b70:2d2e::1
+nserver:            ns2.jh0project.dn42 172.20.222.2
+nserver:            ns2.jh0project.dn42 fd7b:1b70:2d2e::2
+source:             DN42
