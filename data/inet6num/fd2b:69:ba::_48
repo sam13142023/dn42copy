@@ -1,0 +1,10 @@
+inet6num:           fd2b:0069:00ba:0000:0000:0000:0000:0000 - fd2b:0069:00ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2b:69:ba::/48
+netname:            JACYHYM-NETWORK
+descr:              Network of JAYCHYM
+country:            US
+admin-c:            JAYCHYM-DN42
+tech-c:             JAYCHYM-DN42
+mnt-by:             JAYCHYM-MNT
+status:             ASSIGNED
+source:             DN42

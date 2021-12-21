@@ -1,0 +1,5 @@
+route6:             fd2b:69:ba::/48
+origin:             AS4242423229
+max-length:         48
+mnt-by:             JAYCHYM-MNT
+source:             DN42
