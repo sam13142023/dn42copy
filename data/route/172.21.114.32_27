@@ -1,0 +1,4 @@
+route:              172.21.114.32/27
+origin:             AS4242423229
+mnt-by:             JAYCHYM-MNT
+source:             DN42
