@@ -1,0 +1,6 @@
+mntner:             LOWLAZARUS-MNT
+admin-c:            LOWLAZARUS-DN42
+tech-c:             LOWLAZARUS-DN42
+mnt-by:             LOWLAZARUS-MNT
+auth:               pgp-fingerprint 3E4FB4BB87AA2A7E2C77A29248456B278207B3ED
+source:             DN42
