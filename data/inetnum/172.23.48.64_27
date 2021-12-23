@@ -1,0 +1,8 @@
+inetnum:            172.23.48.64 - 172.23.48.95
+cidr:               172.23.48.64/27
+netname:            LOWLAZARUS-NETWORK
+admin-c:            LOWLAZARUS-DN42
+tech-c:             LOWLAZARUS-DN42
+mnt-by:             LOWLAZARUS-MNT
+status:             ASSIGNED
+source:             DN42
