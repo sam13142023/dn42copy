@@ -1,0 +1,8 @@
+inetnum:            172.20.15.96 - 172.20.15.127
+cidr:               172.20.15.96/27
+netname:            THYMO-NETWORK
+admin-c:            THYMO-DN42
+tech-c:             THYMO-DN42
+mnt-by:             THYMO-MNT
+status:             ASSIGNED
+source:             DN42

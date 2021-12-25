@@ -1,0 +1,6 @@
+mntner:             THYMO-MNT
+admin-c:            THYMO-DN42
+tech-c:             THYMO-DN42
+mnt-by:             THYMO-MNT
+auth:               pgp-fingerprint D3E71BEE1F0580BBF3E7815B8ABBE105644128AA
+source:             DN42

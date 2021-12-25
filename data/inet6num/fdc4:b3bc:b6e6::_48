@@ -1,0 +1,9 @@
+inet6num:           fdc4:b3bc:b6e6:0000:0000:0000:0000:0000 - fdc4:b3bc:b6e6:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc4:b3bc:b6e6::/48
+netname:            THYMO-NETWORK
+country:            NL
+admin-c:            THYMO-DN42
+tech-c:             THYMO-DN42
+mnt-by:             THYMO-MNT
+status:             ASSIGNED
+source:             DN42
