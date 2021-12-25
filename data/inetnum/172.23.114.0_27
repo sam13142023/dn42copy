@@ -1,0 +1,11 @@
+inetnum:            172.23.114.0 - 172.23.114.31
+netname:            HJM233-IPV4
+remarks:            Peer with me at meijunhao233@gmail.com
+descr:              Peer with me at meijunhao233@gmail.com
+country:            CN
+admin-c:            HJM233-DN42
+tech-c:             HJM233-DN42
+mnt-by:             HJM233-MNT
+status:             ASSIGNED
+cidr:               172.23.114.0/27
+source:             DN42
