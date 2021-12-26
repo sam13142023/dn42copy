@@ -1,0 +1,4 @@
+route:              172.20.15.96/27
+origin:             AS4242420805
+mnt-by:             THYMO-MNT
+source:             DN42
