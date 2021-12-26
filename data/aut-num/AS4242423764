@@ -1,6 +1,7 @@
 aut-num:            AS4242423764
 as-name:            186526-AS
-descr:              Peer with me at i@186526.xyz
+descr:              186526 Network - An experimental global network
+remarks:            See details at https://net.186526.xyz/ for peering
 admin-c:            186526-DN42
 tech-c:             186526-DN42
 mnt-by:             186526-MNT

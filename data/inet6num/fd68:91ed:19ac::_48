@@ -1,6 +1,7 @@
 inet6num:           fd68:91ed:19ac:0000:0000:0000:0000:0000 - fd68:91ed:19ac:ffff:ffff:ffff:ffff:ffff
 netname:            186526-IPV6
-descr:              Peer with me at i@186526.xyz
+descr:              186526 Network IPV6 backbone addresses
+remarks:            186526 Network IPV6 backbone addresses
 country:            CN
 admin-c:            186526-DN42
 tech-c:             186526-DN42

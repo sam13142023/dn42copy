@@ -1,7 +1,7 @@
 inetnum:            172.23.2.64 - 172.23.2.127
 netname:            186526-IPV4
-remarks:            Peer with me at i@186526.xyz
-descr:              Peer with me at i@186526.xyz
+remarks:            186526 Network IPV4 backbone addresses
+descr:              186526 Network IPV4 backbone addresses
 country:            CN
 admin-c:            186526-DN42
 tech-c:             186526-DN42
