@@ -1,0 +1,5 @@
+route:              172.23.114.0/27
+descr:              Peer with me at meijunhao233@gmail.com
+origin:             AS4242423663
+mnt-by:             HJM233-MNT
+source:             DN42
