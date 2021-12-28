@@ -1,0 +1,7 @@
+domain:             neverland.dn42
+admin-c:            ARACHNIST-DN42
+tech-c:             ARACHNIST-DN42
+mnt-by:             ARACHNIST-MNT
+nserver:            ns1.neverland.dn42 172.20.148.162
+nserver:            ns2.neverland.dn42 fdc0:b038:c31e:53::2
+source:             DN42

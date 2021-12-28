@@ -1,0 +1,7 @@
+mntner:             ARACHNIST-MNT
+admin-c:            ARACHNIST-DN42
+tech-c:             ARACHNIST-DN42
+mnt-by:             ARACHNIST-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGfIRe1nH6vwjQTjqHNnkKAdr1VYqGEeQnqInmf3A6UN
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO6rEwERSm/Fj4KO4SxFIo0BUvi9YNyf8PSL1FteMcMt
+source:             DN42
