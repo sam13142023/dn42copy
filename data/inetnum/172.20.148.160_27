@@ -1,0 +1,10 @@
+inetnum:            172.20.148.160 - 172.20.148.191
+cidr:               172.20.148.160/27
+netname:            ARACHNIST-V4-NET
+admin-c:            ARACHNIST-DN42
+tech-c:             ARACHNIST-DN42
+mnt-by:             ARACHNIST-MNT
+status:             ASSIGNED
+nserver:            ns1.neverland.dn42
+nserver:            ns2.neverland.dn42
+source:             DN42

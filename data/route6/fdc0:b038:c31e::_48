@@ -1,0 +1,6 @@
+route6:             fdc0:b038:c31e::/48
+origin:             AS4242423137
+admin-c:            ARACHNIST-DN42
+tech-c:             ARACHNIST-DN42
+mnt-by:             ARACHNIST-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdc0:b038:c31e:0000:0000:0000:0000:0000 - fdc0:b038:c31e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc0:b038:c31e::/48
+netname:            ARACHNIST-V6-NET
+admin-c:            ARACHNIST-DN42
+tech-c:             ARACHNIST-DN42
+mnt-by:             ARACHNIST-MNT
+status:             ASSIGNED
+nserver:            ns1.neverland.dn42
+nserver:            ns2.neverland.dn42
+source:             DN42
