@@ -1,0 +1,10 @@
+inet6num:           fddf:e9e6:0817:0000:0000:0000:0000:0000 - fddf:e9e6:0817:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:e9e6:817::/48
+netname:            ALTK-NETWORK
+descr:              Alan's IPv6 network on DN42
+country:            CN
+admin-c:            ALTK-DN42
+tech-c:             ALTK-DN42
+mnt-by:             ALTK-MNT
+status:             ASSIGNED
+source:             DN42
