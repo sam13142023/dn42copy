@@ -1,6 +1,13 @@
 aut-num:            AS4242420212
 as-name:            BLING-AS
 descr:              Bling Network Backbone
+remarks:            --------------------------------
+remarks:            Peer with me at
+remarks:            https://dn42.blw.moe
+remarks:            --------------------------------
+remarks:            Looking Glass
+remarks:            https://lg.dn42.blw.moe
+remarks:            --------------------------------
 admin-c:            PAIZI-DN42
 tech-c:             PAIZI-DN42
 mnt-by:             BLING-MNT
