@@ -1,0 +1,7 @@
+aut-num:            AS4242422025
+as-name:            ALTK-AS
+descr:              Alan's experimental network on DN42
+admin-c:            ALTK-DN42
+tech-c:             ALTK-DN42
+mnt-by:             ALTK-MNT
+source:             DN42
