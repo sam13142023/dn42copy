@@ -1,0 +1,10 @@
+inet6num:           fd54:04ac:0bdd:0000:0000:0000:0000:0000 - fd54:04ac:0bdd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd54:4ac:bdd::/48
+netname:            MIGUEL-NET6
+descr:              MIGUEL-NET6
+country:            IE
+admin-c:            MIGUEL-DN42
+tech-c:             MIGUEL-DN42
+mnt-by:             MIGUEL-MNT
+status:             ASSIGNED
+source:             DN42
