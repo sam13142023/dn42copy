@@ -1,0 +1,6 @@
+mntner:             BUGNET-MNT
+admin-c:            BUGNET-DN42
+tech-c:             BUGNET-DN42
+mnt-by:             BUGNET-MNT
+source:             DN42
+auth:               pgp-fingerprint 23E013FD3ECBEC0F0E5FC243170CB15F2A50EBE

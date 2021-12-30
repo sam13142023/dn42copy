@@ -1,0 +1,7 @@
+aut-num:            AS4242421765
+as-name:            BUGNET-AS
+descr:              Bugnet AS
+admin-c:            BUGNET-DN42
+tech-c:             BUGNET-DN42
+mnt-by:             BUGNET-MNT
+source:             DN42

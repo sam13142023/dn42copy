@@ -1,0 +1,9 @@
+inetnum:            172.20.184.176 - 172.20.184.183
+cidr:               172.20.184.176/29
+netname:            BUGNET-V4-NET-1
+country:            DE
+admin-c:            BUGNET-DN42
+tech-c:             BUGNET-DN42
+mnt-by:             BUGNET-MNT
+status:             ASSIGNED
+source:             DN42

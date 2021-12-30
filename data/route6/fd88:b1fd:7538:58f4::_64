@@ -1,0 +1,4 @@
+route6:             fd88:b1fd:7538:58f4::/64
+origin:             AS4242421765
+mnt-by:             BUGNET-MNT
+source:             DN42

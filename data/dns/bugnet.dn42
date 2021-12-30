@@ -1,0 +1,8 @@
+domain:             bugnet.dn42
+descr:              Bugnet
+admin-c:            BUGNET-DN42
+tech-c:             BUGNET-DN42
+mnt-by:             BUGNET-MNT
+nserver:            ns1.bugnet.dn42 172.20.184.177
+nserver:            ns1.bugnet.dn42 fd88:b1fd:7538:58f4::2
+source:             DN42
