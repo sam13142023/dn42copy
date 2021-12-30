@@ -3,4 +3,5 @@ descr:              Maintainer for Twi
 admin-c:            TWI-DN42
 tech-c:             TWI-DN42
 mnt-by:             TWI-MNT
+auth:               pgp-fingerprint 522A3FBDBF3F5AD744407C49CE88C0CB4ECCFD30
 source:             DN42
