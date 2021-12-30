@@ -1,0 +1,6 @@
+mntner:             MIGUEL-MNT
+admin-c:            MIGUEL-DN42
+tech-c:             MIGUEL-DN42
+mnt-by:             MIGUEL-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ0xPP7mlLUGFuEYzc3CXbtCz++IKKpR4iyLZ/rAdWqi
+source:             DN42

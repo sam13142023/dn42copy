@@ -1,0 +1,11 @@
+inetnum:            172.23.105.64 - 172.23.105.95
+netname:            MIGUEL-NET4
+country:            IE
+admin-c:            MIGUEL-DN42
+tech-c:             MIGUEL-DN42
+mnt-by:             MIGUEL-MNT
+status:             ASSIGNED
+cidr:               172.23.105.64/27
+nserver:            ns1.miguel.dn42
+nserver:            ns2.miguel.dn42
+source:             DN42

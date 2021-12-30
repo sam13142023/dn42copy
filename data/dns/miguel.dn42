@@ -1,0 +1,9 @@
+domain:             miguel.dn42
+admin-c:            MIGUEL-DN42
+tech-c:             MIGUEL-DN42
+mnt-by:             MIGUEL-MNT
+nserver:            ns1.miguel.dn42 fd54:4ac:bdd::53
+nserver:            ns1.miguel.dn42 172.23.105.65
+nserver:            ns2.miguel.dn42 fd54:4ac:bdd::54
+nserver:            ns2.miguel.dn42 172.23.105.66
+source:             DN42
