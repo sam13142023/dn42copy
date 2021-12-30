@@ -1,0 +1,7 @@
+domain:             demange.dn42
+descr:              DEMANGE
+admin-c:            DEMANGE-DN42
+tech-c:             DEMANGE-DN42
+mnt-by:             DEMANGE-MNT
+nserver:            ns1.demange.dn42 172.21.65.129
+source:             DN42
