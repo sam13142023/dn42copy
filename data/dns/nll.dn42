@@ -1,0 +1,11 @@
+domain:             nll.dn42
+descr:              DOMAIN-NLL
+admin-c:            LAGERTONNE-DN42
+tech-c:             LAGERTONNE-DN42
+mnt-by:             LAGERTONNE-MNT
+org:                ORG-NLL
+nserver:            ns1.nll.dn42 172.21.74.134
+nserver:            ns1.nll.dn42 fd68:a3ea:7c9a:aa01::1
+nserver:            ns2.nll.dn42 172.21.74.135
+nserver:            ns2.nll.dn42 fd68:a3ea:7c9a:aa02::1
+source:             DN42
