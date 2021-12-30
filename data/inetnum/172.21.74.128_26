@@ -5,5 +5,7 @@ org:                ORG-NLL
 admin-c:            LAGERTONNE-DN42
 tech-c:             LAGERTONNE-DN42
 mnt-by:             LAGERTONNE-MNT
+nserver:            ns1.nll.dn42
+nserver:            ns2.nll.dn42
 status:             ASSIGNED
 source:             DN42
