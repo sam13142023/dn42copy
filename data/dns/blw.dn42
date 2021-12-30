@@ -1,0 +1,7 @@
+domain:             blw.dn42
+admin-c:            PAIZI-DN42
+tech-c:             PAIZI-DN42
+mnt-by:             BLING-MNT
+nserver:            ns1.blw.dn42 172.20.21.100
+nserver:            ns2.blw.dn42 172.20.21.101
+source:             DN42

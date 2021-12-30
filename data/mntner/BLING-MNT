@@ -2,6 +2,6 @@ mntner:             BLING-MNT
 descr:              Bling Network Ltd
 admin-c:            PAIZI-DN42
 tech-c:             PAIZI-DN42
-auth:               pgp-fingerprint 832DC4C78124A250133DEA7DAC66C37DCEC2368B
+auth:               pgp-fingerprint E8E54071F0DAE557E2100E1FF4990FFC23333333
 mnt-by:             BLING-MNT
 source:             DN42
