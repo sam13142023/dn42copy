@@ -1,0 +1,4 @@
+route:              172.20.207.224/27
+origin:             AS4242422208
+mnt-by:             ONEO-MNT
+source:             DN42

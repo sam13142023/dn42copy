@@ -1,0 +1,10 @@
+inet6num:           fd41:117a:5391:0000:0000:0000:0000:0000 - fd41:117a:5391:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:117a:5391::/48
+netname:            ONEO-NETWORK
+descr:              IPV6 allocation for the Chatsubo network run by Oneo
+country:            US
+admin-c:            ONEO-DN42
+tech-c:             ONEO-DN42
+mnt-by:             ONEO-MNT
+status:             ASSIGNED
+source:             DN42

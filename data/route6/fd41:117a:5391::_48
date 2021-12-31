@@ -1,0 +1,5 @@
+route6:             fd41:117a:5391::/48
+origin:             AS4242422208
+max-length:         48
+mnt-by:             ONEO-MNT
+source:             DN42

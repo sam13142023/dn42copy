@@ -1,0 +1,6 @@
+mntner:             ONEO-MNT
+admin-c:            ONEO-DN42
+tech-c:             ONEO-DN42
+mnt-by:             ONEO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJEqfb8OXb1g+0zhEshFwx4fEre2tkgcxTaD6nuWGGR7
+source:             DN42
