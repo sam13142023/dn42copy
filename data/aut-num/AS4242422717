@@ -1,7 +1,17 @@
 aut-num:            AS4242422717
-as-name:            HUJK-AS
-descr:              Peer with me at dn42@hujk.eu.org
+as-name:            JK-NETWORK
+descr:              HuJK's Network
 admin-c:            HUJK-DN42
 tech-c:             HUJK-DN42
 mnt-by:             HUJK-MNT
+remarks:            +-----------------------------------+
+remarks:            |            JK-NETWORK             |
+remarks:            +-----------------------------------+
+remarks:            | * Peering Policy & Autopeer       |
+remarks:            |   https://dn42.whojk.com          |
+remarks:            | * Contact:                        |
+remarks:            |     - Telegram: @HuJK             |
+remarks:            |     - mailto: dn42@whojk.com      |
+remarks:            |     - IRC: hujk@hackint           |
+remarks:            +-----------------------------------+
 source:             DN42
