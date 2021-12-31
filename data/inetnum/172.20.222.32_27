@@ -1,0 +1,10 @@
+inetnum:            172.20.222.32 - 172.20.222.63
+cidr:               172.20.222.32/27
+netname:            ALTK-NETWORK
+country:            CN
+descr:              Alan's IPv4 network on DN42
+status:             ASSIGNED
+admin-c:            ALTK-DN42
+tech-c:             ALTK-DN42
+mnt-by:             ALTK-MNT
+source:             DN42
