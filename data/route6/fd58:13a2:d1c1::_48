@@ -1,0 +1,5 @@
+route6:             fd58:13a2:d1c1::/48
+origin:             AS4242422811
+max-length:         48
+mnt-by:             ZZA-MNT
+source:             DN42

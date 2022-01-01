@@ -1,0 +1,10 @@
+inet6num:           fd58:13a2:d1c1:0000:0000:0000:0000:0000 - fd58:13a2:d1c1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd58:13a2:d1c1::/48
+netname:            ZZA-NET-V6
+descr:              ZZANET primary allocation
+country:            CA
+admin-c:            PRATTEN-DN42
+tech-c:             PRATTEN-DN42
+mnt-by:             ZZA-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.25.0 - 172.23.25.63
+cidr:               172.23.25.0/26
+netname:            ZZA-NET-V4-DIRECT
+descr:              ZZANET Downstream
+country:            CA
+admin-c:            PRATTEN-DN42
+tech-c:             PRATTEN-DN42
+mnt-by:             ZZA-MNT
+status:             ASSIGNED
+source:             DN42
