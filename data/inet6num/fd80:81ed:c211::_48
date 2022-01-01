@@ -1,0 +1,10 @@
+inet6num:           fd80:81ed:c211:0000:0000:0000:0000:0000 - fd80:81ed:c211:ffff:ffff:ffff:ffff:ffff
+netname:            HACHIMAN-IPV6
+descr:              The starry heavens above and the moral laws within.
+country:            CN
+admin-c:            HACHIMAN-DN42
+tech-c:             HACHIMAN-DN42
+mnt-by:             HACHIMAN-MNT
+status:             ASSIGNED
+cidr:               fd80:81ed:c211::/48
+source:             DN42

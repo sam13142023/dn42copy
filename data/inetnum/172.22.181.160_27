@@ -1,0 +1,10 @@
+inetnum:            172.22.181.160-172.22.181.191
+netname:            HACHIMAN-IPV4
+descr:              The starry heavens above and the moral laws within.
+country:            CN
+admin-c:            HACHIMAN-DN42
+tech-c:             HACHIMAN-DN42
+mnt-by:             HACHIMAN-MNT
+status:             ASSIGNED
+cidr:               172.22.181.160/27
+source:             DN42
