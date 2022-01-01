@@ -1,0 +1,7 @@
+aut-num:            AS4242423727
+as-name:            FONTANA-AS
+descr:              Fontana DN42 Network and peer with me at dn42@koisp.net
+admin-c:            FONTANA-DN42
+tech-c:             FONTANA-DN42
+mnt-by:             FONTANA-MNT
+source:             DN42

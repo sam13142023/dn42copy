@@ -1,0 +1,5 @@
+route:              172.23.53.32/27
+descr:              https://dn42.eden-official.co.uk
+origin:             AS4242423727
+mnt-by:             FONTANA-MNT
+source:             DN42

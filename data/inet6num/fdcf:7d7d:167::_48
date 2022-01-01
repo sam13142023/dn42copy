@@ -1,0 +1,10 @@
+inet6num:           fdcf:7d7d:0167:0000:0000:0000:0000:0000 - fdcf:7d7d:0167:ffff:ffff:ffff:ffff:ffff
+netname:            FONTANA-IPV6
+descr:              https://dn42.eden-official.co.uk
+country:            CN
+admin-c:            FONTANA-DN42
+tech-c:             FONTANA-DN42
+mnt-by:             FONTANA-MNT
+status:             ASSIGNED
+cidr:               fdcf:7d7d:167::/48
+source:             DN42
