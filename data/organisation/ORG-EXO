@@ -1,0 +1,12 @@
+organisation:       ORG-EXO
+org-name:           eXO
+descr:              Associació Expansió de la Xarxa Oberta
+admin-c:            EVILHAM-DN42
+tech-c:             EVILHAM-DN42
+mnt-by:             EVILHAM-MNT
+admin-c:            PEDRO-DN42
+tech-c:             PEDRO-DN42
+mnt-by:             PEDRO-MNT
+e-mail:             dn42@dev.exo.cat
+www:                https://exo.cat
+source:             DN42

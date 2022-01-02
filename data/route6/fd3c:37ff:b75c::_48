@@ -1,0 +1,6 @@
+route6:             fd3c:37ff:b75c::/48
+origin:             AS4242423804
+max-length:         48
+mnt-by:             EVILHAM-MNT
+mnt-by:             PEDRO-MNT
+source:             DN42

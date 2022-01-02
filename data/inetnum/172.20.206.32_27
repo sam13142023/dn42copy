@@ -1,0 +1,16 @@
+inetnum:            172.20.206.32 - 172.20.206.63
+netname:            EXO-DN42
+descr:              https://exo.cat
+country:            CAT
+org:                ORG-EXO
+admin-c:            EVILHAM-DN42
+tech-c:             EVILHAM-DN42
+mnt-by:             EVILHAM-MNT
+admin-c:            PEDRO-DN42
+tech-c:             PEDRO-DN42
+mnt-by:             PEDRO-MNT
+nserver:            ns1.exo.dn42
+nserver:            ns2.exo.dn42
+status:             ASSIGNED
+cidr:               172.20.206.32/27
+source:             DN42

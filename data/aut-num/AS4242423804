@@ -1,0 +1,11 @@
+aut-num:            AS4242423804
+as-name:            EXO-AS
+descr:              eXO dn42 network
+org:                ORG-EXO
+mnt-by:             EVILHAM-MNT
+admin-c:            EVILHAM-DN42
+tech-c:             EVILHAM-DN42
+mnt-by:             PEDRO-MNT
+admin-c:            PEDRO-DN42
+tech-c:             PEDRO-DN42
+source:             DN42
