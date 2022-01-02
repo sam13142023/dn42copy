@@ -1,0 +1,5 @@
+route6:             fd20:144b:d1cd::/48
+origin:             AS4242423381
+max-length:         48
+mnt-by:             LQB-MNT
+source:             DN42

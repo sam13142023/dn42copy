@@ -1,0 +1,10 @@
+inet6num:           fd20:144b:d1cd:0000:0000:0000:0000:0000 - fd20:144b:d1cd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd20:144b:d1cd::/48
+netname:            LQB-NETWORK
+descr:              Network of LQB
+country:            DE
+admin-c:            LQB-DN42
+tech-c:             LQB-DN42
+mnt-by:             LQB-MNT
+status:             ASSIGNED
+source:             DN42
