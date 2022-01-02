@@ -1,0 +1,7 @@
+mntner:             FONTANA-MNT
+admin-c:            FONTANA-DN42
+tech-c:             FONTANA-DN42
+mnt-by:             FONTANA-MNT
+source:             DN42
+auth:               pgp-fingerprint 8C41D68A04995A4304E159DF5CBB47D25AE400EB
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClSpAs/lZ2IgSS5v5JtVM8ovhKM7C2SCnfJhmsinpblYfkhwgEmL6TEjqNoEAd6+zE3pzyMFltOkPQYmY3j1rE8bYIOhHD/S3/BviP1bpV/e7p5CmCvJBE2HIqprfZirED2eLdV3YtrLGjDa0Ay4Fukx9Q5PPTNWOcTwp/IgX59w3AsQWGeKOCPFHUVAx0nW1pf65FkCk0sBK4Q36nildguoEl29FItsCSR9wkYdWf1yWVZFI3WiNCQlquXq0TB0OQV04LNpuYqj5KMpiaX55/rGtTQL5nJQ9Jk7s6gmIf74e/crTUbpbhW6yubO/MwiuB0JVdoi+uJtZTC1Ja84AX dn42@koisp.net

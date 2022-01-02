@@ -1,0 +1,9 @@
+domain:             fontana.dn42
+admin-c:            FONTANA-DN42
+tech-c:             FONTANA-DN42
+mnt-by:             FONTANA-MNT
+nserver:            ns1.fontana.dn42 172.23.53.32
+nserver:            ns2.fontana.dn42 172.23.53.33
+nserver:            ns1.fontana.dn42 fdcf:7d7d:167::1
+nserver:            ns2.fontana.dn42 fdcf:7d7d:167::2
+source:             DN42

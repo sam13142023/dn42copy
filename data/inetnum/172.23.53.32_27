@@ -1,0 +1,11 @@
+inetnum:            172.23.53.32 - 172.23.53.63
+netname:            FONTANA-IPV4
+remarks:            https://dn42.eden-official.co.uk
+descr:              Peer with me at dn42@koisp.net
+country:            CN
+admin-c:            FONTANA-DN42
+tech-c:             FONTANA-DN42
+mnt-by:             FONTANA-MNT
+status:             ASSIGNED
+cidr:               172.23.53.32/27
+source:             DN42
