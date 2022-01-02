@@ -1,0 +1,14 @@
+domain:             exo.dn42
+org:                ORG-EXO
+descr:              https://exo.cat
+nserver:            ns1.exo.dn42 fd3c:37ff:b75c:53::1
+nserver:            ns1.exo.dn42 172.20.206.53
+nserver:            ns2.exo.dn42 fd3c:37ff:b75c:53::2
+nserver:            ns2.exo.dn42 172.20.206.54
+admin-c:            EVILHAM-DN42
+tech-c:             EVILHAM-DN42
+mnt-by:             EVILHAM-MNT
+admin-c:            PEDRO-DN42
+tech-c:             PEDRO-DN42
+mnt-by:             PEDRO-MNT
+source:             DN42

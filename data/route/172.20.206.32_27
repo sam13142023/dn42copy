@@ -1,0 +1,5 @@
+route:              172.20.206.32/27
+origin:             AS4242423804
+mnt-by:             EVILHAM-MNT
+mnt-by:             PEDRO-MNT
+source:             DN42

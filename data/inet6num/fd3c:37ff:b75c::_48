@@ -1,0 +1,16 @@
+inet6num:           fd3c:37ff:b75c:0000:0000:0000:0000:0000 - fd3c:37ff:b75c:ffff:ffff:ffff:ffff:ffff
+netname:            EXO-DN42
+descr:              https://exo.cat
+country:            CAT
+org:                ORG-EXO
+admin-c:            EVILHAM-DN42
+tech-c:             EVILHAM-DN42
+mnt-by:             EVILHAM-MNT
+admin-c:            PEDRO-DN42
+tech-c:             PEDRO-DN42
+mnt-by:             PEDRO-MNT
+nserver:            ns1.exo.dn42
+nserver:            ns2.exo.dn42
+status:             ASSIGNED
+cidr:               fd3c:37ff:b75c::/48
+source:             DN42
