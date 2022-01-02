@@ -1,0 +1,4 @@
+route:              172.20.51.160/27
+origin:             AS4242423381
+mnt-by:             LQB-MNT
+source:             DN42
