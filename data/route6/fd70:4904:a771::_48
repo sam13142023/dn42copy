@@ -1,0 +1,5 @@
+route6:             fd70:4904:a771::/48
+origin:             AS4242420966
+max-length:         48
+mnt-by:             FFIXP-MNT
+source:             DN42

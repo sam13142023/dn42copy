@@ -1,0 +1,11 @@
+inet6num:           fd70:4904:a771:0000:0000:0000:0000:0000 - fd70:4904:a771:ffff:ffff:ffff:ffff:ffff
+netname:            FFIXP-NET
+descr:              FFIXP peer address space
+country:            CA
+admin-c:            PRATTEN-DN42
+tech-c:             PRATTEN-DN42
+mnt-by:             FFIXP-MNT
+status:             ASSIGNED
+cidr:               fd70:4904:a771::/48
+source:             DN42
+org:                ORG-FFIXP
