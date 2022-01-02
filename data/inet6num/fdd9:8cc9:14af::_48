@@ -1,0 +1,10 @@
+inet6num:           fdd9:8cc9:14af:0000:0000:0000:0000:0000 - fdd9:8cc9:14af:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd9:8cc9:14af::/48
+netname:            HEX-NETWORK
+descr:              HEX network
+country:            UK
+admin-c:            HEX-DN42
+tech-c:             HEX-DN42
+mnt-by:             HEX-MNT
+status:             ASSIGNED
+source:             DN42

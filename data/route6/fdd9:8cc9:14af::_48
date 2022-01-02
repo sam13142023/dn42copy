@@ -1,0 +1,5 @@
+route6:             fdd9:8cc9:14af::/48
+origin:             AS4242423720
+max-length:         48
+mnt-by:             HEX-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.10.64 - 172.23.10.127
+cidr:               172.23.10.64/26
+netname:            HEX-NETWORK
+admin-c:            HEX-DN42
+tech-c:             HEX-DN42
+mnt-by:             HEX-MNT
+status:             ASSIGNED
+source:             DN42

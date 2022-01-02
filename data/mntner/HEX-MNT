@@ -1,0 +1,6 @@
+mntner:             HEX-MNT
+admin-c:            HEX-DN42
+tech-c:             HEX-DN42
+mnt-by:             HEX-MNT
+auth:               pgp-fingerprint ABACB661E55645A8D8BEA131669DF2ADBC28F64F
+source:             DN42
