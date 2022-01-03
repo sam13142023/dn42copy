@@ -1,0 +1,9 @@
+domain:             yzguy.dn42
+admin-c:            YZGUY-DN42
+tech-c:             YZGUY-DN42
+mnt-by:             YZGUY-MNT
+nserver:            ns1.yzguy.dn42 172.23.109.66
+nserver:            ns1.yzguy.dn42 fd23:5a57:7294:53::66
+nserver:            ns2.yzguy.dn42 172.23.109.67
+nserver:            ns1.yzguy.dn42 fd23:5a57:7294:53::67
+source:             DN42

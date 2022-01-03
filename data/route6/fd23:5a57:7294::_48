@@ -1,0 +1,5 @@
+route6:             fd23:5a57:7294::/48
+origin:             AS4242421669
+max-length:         48
+mnt-by:             YZGUY-MNT
+source:             DN42

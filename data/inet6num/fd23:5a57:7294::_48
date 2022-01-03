@@ -1,0 +1,12 @@
+inet6num:           fd23:5a57:7294:0000:0000:0000:0000:0000 - fd23:5a57:7294:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:5a57:7294::/48
+netname:            YZGUY-NETWORK
+descr:              Network of YZGUY
+country:            US
+admin-c:            YZGUY-DN42
+tech-c:             YZGUY-DN42
+mnt-by:             YZGUY-MNT
+status:             ASSIGNED
+nserver:            ns1.yzguy.dn42
+nserver:            ns2.yzguy.dn42
+source:             DN42

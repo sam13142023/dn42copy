@@ -1,0 +1,4 @@
+route:              172.23.109.64/27
+origin:             AS4242421669
+mnt-by:             YZGUY-MNT
+source:             DN42
