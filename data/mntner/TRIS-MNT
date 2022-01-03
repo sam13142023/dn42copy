@@ -3,4 +3,5 @@ admin-c:            TRIS-DN42
 tech-c:             TRIS-DN42
 mnt-by:             TRIS-MNT
 source:             DN42
-auth:               pgp-fingerprint 2DEBDC50AC06DD4628931D3811A8846EDB4A2FB0
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIohZmemmQrcyNZCxB9V99Xd31cBXFI5jh5zW9iwaCkv
+auth:               pgp-fingerprint 691064BF783BA7841F55B92938F5B7ECDF353B26
