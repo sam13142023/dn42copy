@@ -1,0 +1,11 @@
+inetnum:            172.20.62.96 - 172.20.62.127
+cidr:               172.20.62.96/27
+netname:            XXZ-NETWORK
+descr:              XXZ DN42 IPV4 NETWORK
+country:            DK
+org:                ORG-XXZ
+admin-c:            LBR-DN42
+tech-c:             LBR-DN42
+mnt-by:             XXZ-MNT
+status:             ASSIGNED
+source:             DN42

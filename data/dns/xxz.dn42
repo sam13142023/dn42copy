@@ -1,0 +1,10 @@
+domain:             xxz.dn42
+org:                ORG-XXZ
+admin-c:            LBR-DN42
+tech-c:             LBR-DN42
+mnt-by:             XXZ-MNT
+nserver:            ns1.xxz.dn42 172.20.62.119
+nserver:            ns1.xxz.dn42 fdd0:9000:ba42::53:1
+nserver:            ns2.xxz.dn42 172.20.62.120
+nserver:            ns2.xxz.dn42 fdd0:9000:ba42::53:2
+source:             DN42
