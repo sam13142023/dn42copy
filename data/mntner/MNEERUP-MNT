@@ -2,5 +2,5 @@ mntner:             MNEERUP-MNT
 admin-c:            MNEERUP-DN42
 tech-c:             MNEERUP-DN42
 mnt-by:             MNEERUP-MNT
-auth:               PGPKEY-609BEAC05A319D8D4881A6BD9453CB464BFEEF4A
+auth:               pgp-fingerprint 609BEAC05A319D8D4881A6BD9453CB464BFEEF4A
 source:             DN42
