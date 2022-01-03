@@ -1,0 +1,9 @@
+inetnum:            172.20.183.48 - 172.20.183.55
+cidr:               172.20.183.48/29
+netname:            MNEERUP-Network
+country:            DK
+admin-c:            MNEERUP-DN42
+tech-c:             MNEERUP-DN42
+mnt-by:             MNEERUP-MNT
+status:             ASSIGNED
+source:             DN42
