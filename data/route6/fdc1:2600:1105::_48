@@ -1,0 +1,5 @@
+route6:             fdc1:2600:1105::/48
+origin:             AS4242422577
+max-length:         48
+mnt-by:             VRPNET-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.21.110.32/27
+origin:             AS4242422577
+mnt-by:             VRPNET-MNT
+source:             DN42
