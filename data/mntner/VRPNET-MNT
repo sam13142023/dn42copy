@@ -1,0 +1,6 @@
+mntner:             VRPNET-MNT
+admin-c:            PI3RROT-DN42
+tech-c:             PI3RROT-DN42
+mnt-by:             VRPNET-MNT
+auth:               pgp-fingerprint 5A83BFDF38FED80EEB84D30BF4E073CBEF700C74
+source:             DN42

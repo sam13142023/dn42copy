@@ -1,0 +1,10 @@
+inet6num:           fdc1:2600:1105:0000:0000:0000:0000:0000 - fdc1:2600:1105:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc1:2600:1105::/48
+netname:            VRPNET-NETWORK
+descr:              Network of VRPNet
+country:            FR
+admin-c:            PI3RROT-DN42
+tech-c:             PI3RROT-DN42
+mnt-by:             VRPNET-MNT
+status:             ASSIGNED
+source:             DN42
