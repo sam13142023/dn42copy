@@ -1,0 +1,4 @@
+route:              172.20.183.48/29
+origin:             AS4242422963
+mnt-by:             MNEERUP-MNT
+source:             DN42
