@@ -1,0 +1,5 @@
+route6:             fd8d:8d75:c204::/48
+origin:             AS4242421922
+max-length:         48
+mnt-by:             WINDASD-MNT
+source:             DN42

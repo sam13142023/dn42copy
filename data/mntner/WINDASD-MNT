@@ -1,0 +1,7 @@
+mntner:             WINDASD-MNT
+admin-c:            WINDASD-DN42
+tech-c:             WINDASD-DN42
+mnt-by:             WINDASD-MNT
+source:             DN42
+auth:               pgp-fingerprint 8EDDF9D8FB01BE8D5E88D20FE0248982A402838D
+remarks:            

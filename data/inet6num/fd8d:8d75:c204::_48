@@ -1,0 +1,9 @@
+inet6num:           fd8d:8d75:c204:0000:0000:0000:0000:0000 - fd8d:8d75:c204:ffff:ffff:ffff:ffff:ffff
+netname:            WINDASD-IPV6
+country:            TW
+admin-c:            WINDASD-DN42
+tech-c:             WINDASD-DN42
+mnt-by:             WINDASD-MNT
+status:             ASSIGNED
+cidr:               fd8d:8d75:c204::/48
+source:             DN42

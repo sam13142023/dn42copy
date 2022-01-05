@@ -1,0 +1,4 @@
+route:              172.22.130.32/27
+origin:             AS4242421922
+mnt-by:             WINDASD-MNT
+source:             DN42
