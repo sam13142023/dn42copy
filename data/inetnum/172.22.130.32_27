@@ -1,0 +1,9 @@
+inetnum:            172.22.130.32 - 172.22.130.63
+netname:            WINDASD-IPV4
+country:            TW
+admin-c:            WINDASD-DN42
+tech-c:             WINDASD-DN42
+mnt-by:             WINDASD-MNT
+status:             ASSIGNED
+cidr:               172.22.130.32/27
+source:             DN42
