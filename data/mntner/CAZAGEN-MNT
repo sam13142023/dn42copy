@@ -1,6 +1,7 @@
 mntner:             CAZAGEN-MNT
 descr:              cazagen
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+admin-c:            CAZAGEN-DN42
+tech-c:             CAZAGEN-DN42
 mnt-by:             CAZAGEN-MNT
+auth:               pgp-fingerprint 8CC39D4B76581E079B49A0D9E97D6E863532C303
 source:             DN42
