@@ -1,0 +1,6 @@
+domain:             pgnhd.dn42
+admin-c:            PGNHD-DN42
+tech-c:             PGNHD-DN42
+mnt-by:             PGNHD-MNT
+nserver:            ns1.pgnhd.dn42 172.23.86.34
+source:             DN42
