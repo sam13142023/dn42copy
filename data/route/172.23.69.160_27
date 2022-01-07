@@ -1,0 +1,4 @@
+route:              172.23.69.160/27
+origin:             AS4242420253
+mnt-by:             MOE233-MNT
+source:             DN42
