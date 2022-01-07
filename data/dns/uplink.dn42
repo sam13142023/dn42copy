@@ -1,0 +1,9 @@
+domain:             uplink.dn42
+admin-c:            UPLINK-DN42
+tech-c:             UPLINK-DN42
+mnt-by:             UPLINK-MNT
+nserver:            ns1.uplink.dn42 172.20.132.162
+nserver:            ns1.uplink.dn42 fdca:226e:ac30::2
+nserver:            ns2.uplink.dn42 172.20.132.163
+nserver:            ns2.uplink.dn42 fdca:226e:ac30::3
+source:             DN42

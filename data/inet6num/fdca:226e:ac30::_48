@@ -1,0 +1,12 @@
+inet6num:           fdca:226e:ac30:0000:0000:0000:0000:0000 - fdca:226e:ac30:ffff:ffff:ffff:ffff:ffff
+cidr:               fdca:226e:ac30::/48
+netname:            UPLINK-NETWORK
+descr:              Network of UPLINK
+country:            LT
+admin-c:            UPLINK-DN42
+tech-c:             UPLINK-DN42
+mnt-by:             UPLINK-MNT
+status:             ASSIGNED
+nserver:            ns1.uplink.dn42
+nserver:            ns2.uplink.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdca:226e:ac30::/48
+origin:             AS4242420594
+max-length:         48
+mnt-by:             UPLINK-MNT
+source:             DN42
