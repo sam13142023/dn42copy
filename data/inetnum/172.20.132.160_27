@@ -1,0 +1,10 @@
+inetnum:            172.20.132.160 - 172.20.132.191
+cidr:               172.20.132.160/27
+netname:            UPLINK-NETWORK
+admin-c:            UPLINK-DN42
+tech-c:             UPLINK-DN42
+mnt-by:             UPLINK-MNT
+status:             ASSIGNED
+nserver:            ns1.uplink.dn42
+nserver:            ns2.uplink.dn42
+source:             DN42

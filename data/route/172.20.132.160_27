@@ -1,0 +1,4 @@
+route:              172.20.132.160/27
+origin:             AS4242420594
+mnt-by:             UPLINK-MNT
+source:             DN42
