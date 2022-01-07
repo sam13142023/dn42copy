@@ -1,0 +1,5 @@
+route6:             fd05:4b:cce::/48
+origin:             AS4242420253
+max-length:         48
+mnt-by:             MOE233-MNT
+source:             DN42
