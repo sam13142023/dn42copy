@@ -5,6 +5,7 @@ country:            CN
 admin-c:            HACHIMAN-DN42
 tech-c:             HACHIMAN-DN42
 mnt-by:             HACHIMAN-MNT
+nserver:            ns1.hachiman.dn42
 status:             ASSIGNED
 cidr:               fd80:81ed:c211::/48
 source:             DN42
