@@ -1,0 +1,9 @@
+inet6num:           fd8c:942b:de46:5ccc:0000:0000:0000:0000 - fd8c:942b:de46:5ccc:ffff:ffff:ffff:ffff
+cidr:               fd8c:942b:de46:5ccc::/64
+netname:            LAM-IPV6
+country:            FR
+admin-c:            LAM-DN42
+tech-c:             LAM-DN42
+mnt-by:             LAM-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242422012
+as-name:            LAM-AS
+descr:              LAM AS
+admin-c:            LAM-DN42
+tech-c:             LAM-DN42
+mnt-by:             LAM-MNT
+source:             DN42
