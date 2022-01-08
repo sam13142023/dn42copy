@@ -7,5 +7,8 @@ tech-c:             HACHIMAN-DN42
 mnt-by:             HACHIMAN-MNT
 nserver:            ns1.hachiman.dn42
 status:             ASSIGNED
+ds-rdata:           5441 13 1 8706cd2b7ffc4c02c52233d394b09987c04281dc
+ds-rdata:           5441 13 2 306f54d748ee84db771c43c0fe20a3cfc4557b9218601233ddb3f40637eb3639
+ds-rdata:           5441 13 4 2b6e7a21e6441d896c3f4de6b8c254db08059c618fe1f65ac2fc189e8e7a15ef2ba3b985c303abd6c1e433c9f6ca94b1
 cidr:               fd80:81ed:c211::/48
 source:             DN42
