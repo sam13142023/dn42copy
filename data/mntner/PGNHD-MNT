@@ -3,4 +3,5 @@ admin-c:            PGNHD-DN42
 tech-c:             PGNHD-DN42
 mnt-by:             PGNHD-MNT
 auth:               pgp-fingerprint C97AA8EB225ACF10D9E5E6E748AEABFD85D94C53
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDA17mbQOxum5EAxPyifS5LRdUbqa+TUEQJUahtqfUyiozl+FpS82P5cf+kkJR61dog2YguDPOjE32LGsaNhK+eqvdnw2l1p4yj1q4f2sz9x+9p64Ujlp04lMBBfHfZa6hcAT4NvF7CCiS9k/aEVBzIw/AfEf1P+Xk0SpMH2T2cFHopYnanRK+9XS4fJKpUHENInqnqiVxZK9QqV0h1mKK0QpA12uSl4e+olHOE/201rpUfysoe4dg2h8C7AyoxxX8V0HqnFx2/dTrVmxtcFYwzap0+GO3p8skwv1HSznMdP4FtnNbgT5Y0PCOS3Ef0PeIpnJNStbVfWUJVKGusOJgn pgnhd@RGB
 source:             DN42
