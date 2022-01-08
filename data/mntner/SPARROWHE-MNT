@@ -3,5 +3,5 @@ admin-c:            SPARROWHE-DN42
 tech-c:             SPARROWHE-DN42
 mnt-by:             SPARROWHE-MNT
 source:             DN42
-auth:               pgp-fingerprint A4840387693B791BFC1BE2589025495519DF4A15
+auth:               pgp-fingerprint D61FE44D63441C3D2AD6391CE6F1CB7EE76B895D
 remarks:            None
