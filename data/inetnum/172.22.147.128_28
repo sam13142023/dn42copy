@@ -1,0 +1,9 @@
+inetnum:            172.22.147.128 - 172.22.147.143
+cidr:               172.22.147.128/28
+netname:            LAM-IPV4
+country:            FR
+admin-c:            LAM-DN42
+tech-c:             LAM-DN42
+mnt-by:             LAM-MNT
+status:             ASSIGNED
+source:             DN42
