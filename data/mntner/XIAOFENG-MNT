@@ -1,0 +1,7 @@
+mntner:             XIAOFENG-MNT
+admin-c:            XIAOFENG-DN42
+tech-c:             XIAOFENG-DN42
+mnt-by:             XIAOFENG-MNT
+source:             DN42
+auth:               pgp-fingerprint A0B274DF0B54BB391DBEE4672D615949A218050C
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMhxKWZTpwiUZe+KYzx6Ndoa23MEk8SvPEF2ENWQgnw6

@@ -1,0 +1,5 @@
+route:              172.20.220.0/26
+descr:              Peer with me at panmei@zzzxxx.xyz
+origin:             AS4242422255
+mnt-by:             XIAOFENG-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd0b:5c63:e0cc::/48
+descr:              Peer with me at panmei@zzzxxx.xyz
+origin:             AS4242422255
+mnt-by:             XIAOFENG-MNT
+source:             DN42
