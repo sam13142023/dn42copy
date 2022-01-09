@@ -8,7 +8,6 @@ mnt-by:             HACHIMAN-MNT
 nserver:            ns1.hachiman.dn42
 status:             ASSIGNED
 cidr:               172.22.181.160/27
-ds-rdata:           7225 13 1 7164aa6bbb0d3f2ab2ec02539cf0b31fa852f091
-ds-rdata:           7225 13 2 41d5c80a0b6f8c1ee3b281daacb2ec9dc24a8c5b3f06a221412cf7da79b9da69
-ds-rdata:           7225 13 4 68d5c81317cdede4f020ac488ef40f9a8b9f2e33d46a4a951e896af41cef24608f3c17e83fe758e02f50c55fcd0419f7
+ds-rdata:           53264 13 2 77bbf89aa98cca9f056471560fde0cdc484e8598ae58390f916ff34ebb2f0a83
+ds-rdata:           53264 13 4 f25ef0f45d227b453a09949f35f527c234638109458feeeebe29945cdc21fa4b37dc01e2e3fe5955c3a3aae8f79b14e9
 source:             DN42
