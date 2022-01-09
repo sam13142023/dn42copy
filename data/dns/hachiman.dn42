@@ -4,4 +4,7 @@ tech-c:             HACHIMAN-DN42
 mnt-by:             HACHIMAN-MNT
 nserver:            ns1.hachiman.dn42 172.22.181.160
 nserver:            ns1.hachiman.dn42 fd80:81ed:c211::1
+ds-rdata:           39279 13 1 d27c11cd0a6a6171e938b1943ea1763ab19102aa
+ds-rdata:           39279 13 2 717df10362e3e3f018d2e101399d60522854e56a597e8c971849e8a37b167d4d
+ds-rdata:           39279 13 4 214eb89091a6caf8a065f07be05fac50c7da7c6da01d5f5adaf583677b34d5a99cb54f4abd3a5b1bd3d9fefcd9a8cca9
 source:             DN42
