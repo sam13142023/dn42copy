@@ -1,0 +1,5 @@
+route:              172.23.89.32/27
+origin:             AS4242420282
+max-length:         48
+mnt-by:             GLEZCLOUD-MNT
+source:             DN42

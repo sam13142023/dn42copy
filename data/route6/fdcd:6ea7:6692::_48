@@ -1,0 +1,5 @@
+route6:             fdcd:6ea7:6692::/48
+origin:             AS4242420282
+max-length:         48
+mnt-by:             GLEZCLOUD-MNT
+source:             DN42

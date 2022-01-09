@@ -1,0 +1,10 @@
+inet6num:           fdcd:6ea7:6692:0000:0000:0000:0000:0000 - fdcd:6ea7:6692:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcd:6ea7:6692::/48
+netname:            GLEZCLOUD-NETWORK
+descr:              Hobby Networkv6 for GLEZCLOUD
+country:            ES
+admin-c:            GLEZCLOUD-DN42
+tech-c:             GLEZCLOUD-DN42
+mnt-by:             GLEZCLOUD-MNT
+status:             ASSIGNED
+source:             DN42

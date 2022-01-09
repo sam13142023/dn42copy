@@ -1,0 +1,10 @@
+inetnum:            172.23.89.32 - 172.23.89.63
+cidr:               172.23.89.32/27
+netname:            GLEZCLOUD-NETWORK
+descr:              Hobby Networkv4 for GLEZCLOUD
+admin-c:            GLEZCLOUD-DN42
+tech-c:             GLEZCLOUD-DN42
+mnt-by:             GLEZCLOUD-MNT
+status:             ASSIGNED
+country:            ES
+source:             DN42
