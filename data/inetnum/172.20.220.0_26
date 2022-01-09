@@ -1,0 +1,11 @@
+inetnum:            172.20.220.0 - 172.20.220.63
+netname:            XIAOFENG-IPV4
+remarks:            Peer with me at panmei@zzzxxx.xyz
+descr:              Peer with me at panmei@zzzxxx.xyz
+country:            CN
+admin-c:            XIAOFENG-DN42
+tech-c:             XIAOFENG-DN42
+mnt-by:             XIAOFENG-MNT
+status:             ASSIGNED
+cidr:               172.20.220.0/26
+source:             DN42
