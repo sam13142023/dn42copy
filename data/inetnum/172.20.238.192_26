@@ -1,0 +1,8 @@
+inetnum:            172.20.238.192 - 172.20.238.255
+cidr:               172.20.238.192/26
+netname:            GWD-NETWORK
+admin-c:            GWD-DN42
+tech-c:             GWD-DN42
+mnt-by:             GWD-MNT
+status:             ASSIGNED
+source:             DN42

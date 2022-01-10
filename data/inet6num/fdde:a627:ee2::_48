@@ -1,0 +1,10 @@
+inet6num:           fdde:a627:0ee2:0000:0000:0000:0000:0000 - fdde:a627:0ee2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:a627:ee2::/48
+netname:            GWD-NETWORK
+descr:              Network of GWD
+country:            US
+admin-c:            GWD-DN42
+tech-c:             GWD-DN42
+mnt-by:             GWD-MNT
+status:             ASSIGNED
+source:             DN42
