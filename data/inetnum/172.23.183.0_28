@@ -1,0 +1,8 @@
+inetnum:            172.23.183.0 - 172.23.183.15
+cidr:               172.23.183.0/28
+netname:            ATOLM-IPV4
+admin-c:            ATOLM-DN42
+tech-c:             ATOLM-DN42
+mnt-by:             ATOLM-MNT
+status:             ASSIGNED
+source:             DN42

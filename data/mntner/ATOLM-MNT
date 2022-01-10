@@ -1,0 +1,6 @@
+mntner:             ATOLM-MNT
+admin-c:            ATOLM-DN42
+tech-c:             ATOLM-DN42
+mnt-by:             ATOLM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGG0Eh4+AUchiB0lwt1DING4/TdBa3tV5qSG5Xo3A1ie
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd4d:cab9:e99a::/48
+origin:             AS4242420585
+max-length:         48
+mnt-by:             ATOLM-MNT
+source:             DN42
