@@ -1,0 +1,8 @@
+inet6num:           fd4d:cab9:e99a:0000:0000:0000:0000:0000 - fd4d:cab9:e99a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4d:cab9:e99a::/48
+netname:            ATOLM-IPV6
+admin-c:            ATOLM-DN42
+tech-c:             ATOLM-DN42
+mnt-by:             ATOLM-MNT
+status:             ASSIGNED
+source:             DN42
