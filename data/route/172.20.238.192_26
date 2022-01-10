@@ -1,0 +1,4 @@
+route:              172.20.238.192/26
+origin:             AS4242423656
+mnt-by:             GWD-MNT
+source:             DN42

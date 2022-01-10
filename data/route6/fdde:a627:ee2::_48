@@ -1,0 +1,5 @@
+route6:             fdde:a627:ee2::/48
+origin:             AS4242423656
+max-length:         48
+mnt-by:             GWD-MNT
+source:             DN42
