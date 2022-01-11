@@ -1,0 +1,7 @@
+aut-num:            AS4242421044
+as-name:            AS-SG-DN42
+descr:              Peer with me at dn42@007sascha.de
+admin-c:            SG-DN42
+tech-c:             SG-DN42
+mnt-by:             SG-MNT
+source:             DN42

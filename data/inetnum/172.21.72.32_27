@@ -1,0 +1,9 @@
+inetnum:            172.21.72.32 - 172.21.72.63
+cidr:               172.21.72.32/27
+netname:            SG-NET
+descr:              SG DN42 Network v4
+admin-c:            SG-DN42
+tech-c:             SG-DN42
+mnt-by:             SG-MNT
+status:             ASSIGNED
+source:             DN42
