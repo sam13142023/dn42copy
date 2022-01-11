@@ -1,0 +1,7 @@
+domain:             fevof.dn42
+admin-c:            FEVOF-DN42
+tech-c:             FEVOF-DN42
+mnt-by:             FEVOF-MNT
+nserver:            ns1.fevof.dn42 172.21.81.1
+nserver:            ns1.fevof.dn42 fd00:1171:1171::1
+source:             DN42

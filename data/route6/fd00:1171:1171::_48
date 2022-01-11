@@ -1,0 +1,5 @@
+route6:             fd00:1171:1171::/48
+origin:             AS4242421171
+max-length:         48
+mnt-by:             FEVOF-MNT
+source:             DN42
