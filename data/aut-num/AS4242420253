@@ -1,5 +1,21 @@
 aut-num:            AS4242420253
 as-name:            AS-MOE233-DN42
+descr:              MOE233-NET, peer with me at i@moe233.net
+remarks:            
+remarks:            +-----------------------------------------------+
+remarks:            |               Open for peering!               |
+remarks:            |  Location:                                    |
+remarks:            |    - San Francisco, CA, US                    |
+remarks:            |    - Singapore                                |
+remarks:            |                                               |
+remarks:            |  See https://blog.moe233.net/dn42 for details |
+remarks:            |  Looking glass: https://dn42.moe233.net       |
+remarks:            |                                               |
+remarks:            |  Feel free to contact me:                     |
+remarks:            |    - Email: i@moe233.net                      |
+remarks:            |    - Telegram: https://t.me/icedtangerine     |
+remarks:            +-----------------------------------------------+
+remarks:            
 admin-c:            MOE233-DN42
 tech-c:             MOE233-DN42
 mnt-by:             MOE233-MNT
