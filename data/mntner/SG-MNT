@@ -1,0 +1,6 @@
+mntner:             SG-MNT
+admin-c:            SG-DN42
+tech-c:             SG-DN42
+mnt-by:             SG-MNT
+auth:               pgp-fingerprint F249D402BA92A13CB320FF6D9694F559BD43E4D7
+source:             DN42

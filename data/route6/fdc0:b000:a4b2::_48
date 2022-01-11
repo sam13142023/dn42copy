@@ -1,0 +1,6 @@
+route6:             fdc0:b000:a4b2::/48
+descr:              Peer with me at dn42@007sascha.de
+origin:             AS4242421044
+max-length:         48
+mnt-by:             SG-MNT
+source:             DN42

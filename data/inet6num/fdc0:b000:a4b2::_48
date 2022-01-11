@@ -1,0 +1,10 @@
+inet6num:           fdc0:b000:a4b2:0000:0000:0000:0000:0000 - fdc0:b000:a4b2:ffff:ffff:ffff:ffff:ffff
+netname:            SG-NET
+descr:              SG DN42 Network v6
+country:            DE
+admin-c:            SG-DN42
+tech-c:             SG-DN42
+mnt-by:             SG-MNT
+status:             ASSIGNED
+cidr:               fdc0:b000:a4b2::/48
+source:             DN42
