@@ -1,0 +1,6 @@
+mntner:             FEVOF-MNT
+admin-c:            FEVOF-DN42
+tech-c:             FEVOF-DN42
+mnt-by:             FEVOF-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII8aXPtNvPDYBQ0Fma4FsC2RPl8P/6hHBcprH86tdwnM
+source:             DN42

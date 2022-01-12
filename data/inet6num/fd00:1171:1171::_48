@@ -1,0 +1,10 @@
+inet6num:           fd00:1171:1171:0000:0000:0000:0000:0000 - fd00:1171:1171:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:1171:1171::/48
+netname:            FEVOF-IPV6
+descr:              FEVOF IPv6 Network
+admin-c:            FEVOF-DN42
+tech-c:             FEVOF-DN42
+mnt-by:             FEVOF-MNT
+status:             ASSIGNED
+nserver:            ns1.fevof.dn42
+source:             DN42
