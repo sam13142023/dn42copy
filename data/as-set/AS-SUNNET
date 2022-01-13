@@ -3,5 +3,6 @@ descr:              SUNNET-AS-SET
 members:            AS4242423088
 members:            AS140936
 members:            AS38173
+members:            AS7721
 mnt-by:             SUNNET-MNT
 source:             DN42
