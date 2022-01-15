@@ -1,0 +1,5 @@
+route6:             fdeb:fe10:ccb9::/48
+origin:             AS4242420595
+max-length:         48
+mnt-by:             SOUL-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdeb:fe10:ccb9:0000:0000:0000:0000:0000 - fdeb:fe10:ccb9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdeb:fe10:ccb9::/48
+netname:            SOUL-NETWORK
+descr:              Network of SOUL
+country:            IN
+admin-c:            SOUL-DN42
+tech-c:             SOUL-DN42
+mnt-by:             SOUL-MNT
+status:             ASSIGNED
+source:             DN42
