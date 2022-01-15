@@ -1,0 +1,11 @@
+inetnum:            172.20.177.160 - 172.20.177.191
+cidr:               172.20.177.160/27
+netname:            ANTOHA-GS-NETWORK
+descr:              Network of ANTOHA-GS
+country:            RU
+admin-c:            ANTOHA-GS-DN42
+tech-c:             ANTOHA-GS-DN42
+mnt-by:             ANTOHA-GS-MNT
+status:             ASSIGNED
+nserver:            ns1.antoha-gs.dn42
+source:             DN42

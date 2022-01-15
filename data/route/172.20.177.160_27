@@ -1,0 +1,4 @@
+route:              172.20.177.160/27
+origin:             AS4242423188
+mnt-by:             ANTOHA-GS-MNT
+source:             DN42

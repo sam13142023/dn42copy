@@ -1,0 +1,11 @@
+inet6num:           fdf0:3a88:6e00:0000:0000:0000:0000:0000 - fdf0:3a88:6e00:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:3a88:6e00::/48
+netname:            ANTOHA-GS-NETWORK
+descr:              Network of ANTOHA-GS
+country:            RU
+admin-c:            ANTOHA-GS-DN42
+tech-c:             ANTOHA-GS-DN42
+mnt-by:             ANTOHA-GS-MNT
+status:             ASSIGNED
+nserver:            ns1.antoha-gs.dn42
+source:             DN42
