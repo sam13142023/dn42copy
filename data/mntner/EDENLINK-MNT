@@ -1,0 +1,6 @@
+mntner:             EDENLINK-MNT
+admin-c:            EDENJOHNSON-DN42
+tech-c:             EDENJOHNSON-DN42
+mnt-by:             EDENLINK-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICnpzbR9Kdb/K2il8vTnj+gXKL7En83pcIvj919oYbDA me@edenlink.cyou
