@@ -2,6 +2,7 @@ inet6num:           fdc5:cee0:5f6b:0000:0000:0000:0000:0000 - fdc5:cee0:5f6b:fff
 cidr:               fdc5:cee0:5f6b::/48
 netname:            CAZ-v6-NETWORK-1
 descr:              Cazagen v6
+nserver:            ns1.cazagen.dn42
 country:            GB
 admin-c:            CAZAGEN-DN42
 tech-c:             CAZAGEN-DN42
