@@ -5,4 +5,5 @@ tech-c:             CAZAGEN-DN42
 mnt-by:             CAZAGEN-MNT
 auth:               pgp-fingerprint 8CC39D4B76581E079B49A0D9E97D6E863532C303
 auth:               pgp-fingerprint 1AB103DA56E83CAC18B27C80C326FEEE25FF7915
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcDTej7U041uI254T5N4NbfqjRASm8zBqLDvz1/V793q30eKS9WaTVZ/nqTVHFu9wfmsrfzpEgfrtgwn4+Izu+BN7MEPakLEGrQf0l5b870MF40aIP92GMpTo7Ug8bLVpDixlu/PrBmWw4IR6YxFIE4jja6a0FLLQeJtgpNBJnh3eRsQf3l45oCDr0parm7pe6jS0n6U1jjaJG8pgFSn76Hoy8CdfIf1KkF/d632AOLsZO46cQMqaOex7uUG3J7JecDXjhVgWyIrAw1roZJaA/uNoml/gHchmE5RH7UQOdMjFJa01YtXCkTditGDjodpPvtm+TSeZbBOs7BASK2Ez7
 source:             DN42
