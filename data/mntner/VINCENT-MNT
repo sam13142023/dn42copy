@@ -1,0 +1,8 @@
+mntner:             VINCENT-MNT
+admin-c:            VINCENT-DN42
+tech-c:             VINCENT-DN42
+mnt-by:             VINCENT-MNT
+source:             DN42
+auth:               pgp-fingerprint 3C06236468D7DCD63ECA95DB7E89379D67350D0F
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEAueqBmCwATQx5AHJ/hd0Za0GDzcpxjkK6YuSmk6v0ZHeF5CCjCubZrDJIm90RuJ7uPSlmqS93j7zLzRxkkeht+4ikijJ6gU+XpgyL4zWsdXCW6WH56pTkQElEqVU7cMmPL1i3pYHQDpbxlLplNdK+R9XFFZwNDewAIXHFkCZ1OZUt5JO77csz5/Wp4is9CvaUktpOo4mnjPQ8dLX4/D2OQUP6TIXykT1t2NIRIl4O6ddIXiDQfgqVkn4yzZKlsfBk7yJh1fNvBbJNIVAPVVg3chvCkGg02nAX3P9AGDIKhktkt9bgjZux+2Movt0wR8xxYHVTzZxkevaYGhF1HnpkdpWcoXmX5JV1nU/41dKiA0HdavExnYGVUCCk/tDuOT/SWdZV/dh47dwMKRWq3+QS1/vBuYO08fMWIhlssOLDwyARnLSNTW4gxoKMaP3ZMAts7z6N2WL6DLckIiOnwhOZ7lQVpjCS1sEMFC7ehdtrU8wztrvJfX5YtGXtIRQUgH7cAhBtYwwlTcin3KId0KqpRDq9C4X6uO96FCQK1afQlHrfkkNh1ny6beKIp4WgpTBv7HDoN3xfIC+G5mOkVL8Ylwe39COdosUuWyCsgnwzMRcAFJO4EEwdFbZroibsuALPvyUTh6ziJsnCqGHJsBYgvrEuKrNgpPGcU0mjnGz07uE= rsa 4096-011522
+remarks:            

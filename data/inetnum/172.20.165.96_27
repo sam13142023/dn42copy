@@ -1,0 +1,9 @@
+inetnum:            172.20.165.96 - 172.20.165.127
+cidr:               172.20.165.96/27
+netname:            Vincent-IPV4
+country:            US
+admin-c:            VINCENT-DN42
+tech-c:             VINCENT-DN42
+mnt-by:             VINCENT-MNT
+status:             ASSIGNED
+source:             DN42
