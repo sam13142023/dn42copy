@@ -1,0 +1,5 @@
+route6:             fdf0:3a88:6e00::/48
+origin:             AS4242423188
+max-length:         48
+mnt-by:             ANTOHA-GS-MNT
+source:             DN42
