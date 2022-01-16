@@ -1,0 +1,9 @@
+inet6num:           fd3b:2121:9939:0000:0000:0000:0000:0000 - fd3b:2121:9939:ffff:ffff:ffff:ffff:ffff
+netname:            VINCENT-IPV6
+country:            US
+admin-c:            VINCENT-DN42
+tech-c:             VINCENT-DN42
+mnt-by:             VINCENT-MNT
+status:             ASSIGNED
+cidr:               fd3b:2121:9939::/48
+source:             DN42

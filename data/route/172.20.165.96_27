@@ -1,0 +1,4 @@
+route:              172.20.165.96/27
+origin:             AS4242420699
+mnt-by:             VINCENT-MNT
+source:             DN42

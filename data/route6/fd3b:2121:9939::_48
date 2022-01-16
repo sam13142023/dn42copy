@@ -1,0 +1,4 @@
+route6:             fd3b:2121:9939::/48
+origin:             AS4242420699
+mnt-by:             VINCENT-MNT
+source:             DN42
