@@ -1,0 +1,9 @@
+inet6num:           fd00:dead:dead:0000:0000:0000:0000:0000 - fd00:dead:dead:ffff:ffff:ffff:ffff:ffff
+netname:            SECSHELL-IPV6
+country:            DE
+admin-c:            SECSHELL-DN42
+tech-c:             SECSHELL-DN42
+mnt-by:             SECSHELL-MNT
+status:             ASSIGNED
+cidr:               fd00:dead:dead::/48
+source:             DN42

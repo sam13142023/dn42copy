@@ -1,0 +1,4 @@
+route6:             fd00:dead:dead::/48
+origin:             AS4242423511
+mnt-by:             SECSHELL-MNT
+source:             DN42

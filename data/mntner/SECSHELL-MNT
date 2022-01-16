@@ -1,0 +1,6 @@
+mntner:             SECSHELL-MNT
+admin-c:            SECSHELL-DN42
+tech-c:             SECSHELL-DN42
+mnt-by:             SECSHELL-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILM+a6tX+GVoaoTpVrbDTbZeSvMbklD2P/AajFCFZiBl
+source:             DN42
