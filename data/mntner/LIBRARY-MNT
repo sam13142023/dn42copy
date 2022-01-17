@@ -1,0 +1,7 @@
+mntner:             LIBRARY-MNT
+admin-c:            LIBRARY-DN42
+tech-c:             LIBRARY-DN42
+mnt-by:             LIBRARY-MNT
+source:             DN42
+auth:               pgp-fingerprint 7CF210FB0171B53DA54E8ED8DBE484690B4DDD6B
+auth:               ssh-rsa :ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDVLeWi1J5vuK+BcU61B8OcEoUE9uKkuqKcmQpcYjqiWfYA14cInd3PhjZi9D7le916MiAZJ17zyY67/fgM1ddnbOv2paMteW4aUYY5r0MGf0q0ihKOD5kQKn7hxH29LQwJigNxgeMd4JcwXvIV4AenQgfkdNMW33YTPSQj/TqcauWF0QFH9OdXFi3bA7gtuwAyM3EwG2myLCU9lJAR2p0qy7Vp/N0gVJUIzeTkyWH2rAa/UGXHXcBmy/PBCmo6N5ZdGV5Y/M0/ixZjee865EEAy15Ks+tqVz7s+5/IeNurgVRgNfvmrCscKIZbRJfDdw14iusMyJLZtN1P+1ucUgsfbpRNojC56gONU64/FviW7O33P/CttFo6z8hyI1ZPREXtpPLz+JgW5NBvSZ88snPioUMMTFX6nCgoAPHjF9Aqb4Wlgi1nNLnoQJU+VM/eqyAT2tfXkckRe4Bm9ukhIYO8RzrNxLRHApvwqOb/U8w+KV3sE23MqHUMLrMQ/Vo4KA0=

@@ -1,0 +1,10 @@
+inet6num:           fd55:f69a:0823:0000:0000:0000:0000:0000 - fd55:f69a:0823:ffff:ffff:ffff:ffff:ffff
+netname:            LIBRARY-IPV6
+descr:              LIBRARY
+country:            HK
+admin-c:            LIBRARY-DN42
+tech-c:             LIBRARY-DN42
+mnt-by:             LIBRARY-MNT
+status:             ASSIGNED
+cidr:               fd55:f69a:823::/48
+source:             DN42

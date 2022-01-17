@@ -1,0 +1,5 @@
+route6:             fd55:f69a:823::/48
+descr:              LIBRARY
+origin:             AS4242422443
+mnt-by:             LIBRARY-MNT
+source:             DN42
