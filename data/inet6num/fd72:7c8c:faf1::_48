@@ -1,0 +1,10 @@
+inet6num:           fd72:7c8c:faf1:0000:0000:0000:0000:0000 - fd72:7c8c:faf1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd72:7c8c:faf1::/48
+netname:            NIELS-NETWORK
+descr:              Network of NIELS
+country:            NL
+admin-c:            NIELS-DN42
+tech-c:             NIELS-DN42
+mnt-by:             NIELS-MNT
+status:             ASSIGNED
+source:             DN42

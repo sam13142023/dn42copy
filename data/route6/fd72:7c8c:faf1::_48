@@ -1,0 +1,5 @@
+route6:             fd72:7c8c:faf1::/48
+origin:             AS4242422556
+max-length:         48
+mnt-by:             NIELS-MNT
+source:             DN42
