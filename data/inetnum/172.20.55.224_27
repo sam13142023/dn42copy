@@ -1,0 +1,10 @@
+inetnum:            172.20.55.224 - 172.20.55.255
+netname:            LIBRARY
+descr:              LIBRARY
+country:            HK
+admin-c:            LIBRARY-DN42
+tech-c:             LIBRARY-DN42
+mnt-by:             LIBRARY-MNT
+status:             ASSIGNED
+cidr:               172.20.55.224/27
+source:             DN42

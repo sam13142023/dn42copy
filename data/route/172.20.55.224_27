@@ -1,0 +1,5 @@
+route:              172.20.55.224/27
+descr:              LIBRARY
+origin:             AS4242422443
+mnt-by:             LIBRARY-MNT
+source:             DN42
