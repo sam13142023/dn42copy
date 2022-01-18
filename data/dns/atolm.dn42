@@ -1,0 +1,10 @@
+domain:             atolm.dn42
+admin-c:            ATOLM-DN42
+tech-c:             ATOLM-DN42
+mnt-by:             ATOLM-MNT
+nserver:            ns1.atolm.dn42 172.23.183.1
+nserver:            ns1.atolm.dn42 fd4d:cab9:e99a:a::53
+nserver:            ns2.atolm.dn42 172.23.183.3
+nserver:            ns2.atolm.dn42 fd4d:cab9:e99a:b::53
+ds-rdata:           35297 13 2 19a4b7127ff40875d93b132cc3ebf930b1fa0690945cdef8224206a3d2c865a5
+source:             DN42

@@ -4,5 +4,8 @@ netname:            ATOLM-IPV6
 admin-c:            ATOLM-DN42
 tech-c:             ATOLM-DN42
 mnt-by:             ATOLM-MNT
+nserver:            ns1.atolm.dn42
+nserver:            ns2.atolm.dn42
+ds-rdata:           36103 13 2 670cb011edeb8205694228388ab587c3b920fbde9247db30d5947710b47a6098
 status:             ASSIGNED
 source:             DN42
