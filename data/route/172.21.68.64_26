@@ -1,0 +1,5 @@
+route:              172.21.68.64/26
+origin:             AS4242422090
+remarks:            Powered by DN42
+mnt-by:             KD-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+inet6num:           fd1f:97fb:ac92:0000:0000:0000:0000:0000 - fd1f:97fb:ac92:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1f:97fb:ac92::/48
+netname:            KD-DN42-IPV6
+status:             ASSIGNED
+remarks:            Powered by DN42
+mnt-by:             KD-MNT
+source:             DN42
