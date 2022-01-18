@@ -1,0 +1,6 @@
+mntner:             NIELS-MNT
+admin-c:            NIELS-DN42
+tech-c:             NIELS-DN42
+mnt-by:             NIELS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMCC2VJqkrCbwMHPN6aggHdN7c/hf8KHxYxdWAsk/RUT
+source:             DN42

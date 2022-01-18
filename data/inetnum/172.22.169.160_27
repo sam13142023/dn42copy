@@ -1,0 +1,8 @@
+inetnum:            172.22.169.160 - 172.22.169.191
+cidr:               172.22.169.160/27
+netname:            NIELS-NETWORK
+admin-c:            NIELS-DN42
+tech-c:             NIELS-DN42
+mnt-by:             NIELS-MNT
+status:             ASSIGNED
+source:             DN42
