@@ -1,0 +1,10 @@
+inet6num:           fd62:d79c:a5b9:0000:0000:0000:0000:0000 - fd62:d79c:a5b9:ffff:ffff:ffff:ffff:ffff
+netname:            TennojiNetwork-IPV6
+descr:              Owned by Tennoji Network
+country:            CN
+admin-c:            XKWW3N-DN42
+tech-c:             XKWW3N-DN42
+mnt-by:             XKWW3N-MNT
+status:             ASSIGNED
+cidr:               fd62:d79c:a5b9::/48
+source:             DN42
