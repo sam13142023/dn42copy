@@ -1,6 +1,6 @@
 route:              10.127.3.0/24
 max-length:         29
-origin:             AS4201272526
+origin:             AS4242422526
 admin-c:            ANILLC-NEONETWORK
 tech-c:             ANILLC-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
