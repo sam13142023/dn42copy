@@ -4,5 +4,8 @@ netname:            ATOLM-IPV4
 admin-c:            ATOLM-DN42
 tech-c:             ATOLM-DN42
 mnt-by:             ATOLM-MNT
+nserver:            ns1.atolm.dn42
+nserver:            ns2.atolm.dn42
+ds-rdata:           58421 13 2 42c738558d48498bbb9a7a15494db7a5dcf467d6beda22fa4a1ddc5512dce107
 status:             ASSIGNED
 source:             DN42
