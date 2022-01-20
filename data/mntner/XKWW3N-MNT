@@ -4,3 +4,4 @@ tech-c:             XKWW3N-DN42
 mnt-by:             XKWW3N-MNT
 source:             DN42
 auth:               pgp-fingerprint B002382DCC5161F9C9CD41E949F552B51482880F
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGcJGZu48WPoUvn4DzmYO4Rstck7K3djAeU9QfOq3f8+
