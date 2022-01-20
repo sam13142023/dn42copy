@@ -3,4 +3,7 @@ as-name:            AS of CAMELUSFERUS
 admin-c:            CAMELUSFERUS-DN42
 tech-c:             CAMELUSFERUS-DN42
 mnt-by:             CAMELUSFERUS-MNT
+descr:              dn42.ca.melusfer.us
+remarks:            Open peering with wireguard, for details see
+remarks:            https://dn42.ca.melusfer.us/
 source:             DN42
