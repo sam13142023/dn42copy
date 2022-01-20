@@ -1,10 +1,11 @@
 inet6num:           fdfc:35df:d875:0000:0000:0000:0000:0000 - fdfc:35df:d875:ffff:ffff:ffff:ffff:ffff
 cidr:               fdfc:35df:d875::/48
 netname:            CAMELUSFERUS-IP
-descr:              Network of CAMELUSFERUS
+descr:              IPv6 Network Space of CAMELUSFERUS
 country:            DE
 admin-c:            CAMELUSFERUS-DN42
 tech-c:             CAMELUSFERUS-DN42
 mnt-by:             CAMELUSFERUS-MNT
+nserver:            ns1.camelusferus.dn42
 status:             ASSIGNED
 source:             DN42

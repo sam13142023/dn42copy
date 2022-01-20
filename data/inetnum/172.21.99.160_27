@@ -1,8 +1,11 @@
 inetnum:            172.21.99.160 - 172.21.99.191
 cidr:               172.21.99.160/27
-netname:            CAMELUSFERUS-LEGACY
+netname:            CAMELUSFERUS-LEGACY-IP
+descr:              IPv4 Network Space of CAMELUSFERUS
+country:            DE
 admin-c:            CAMELUSFERUS-DN42
 tech-c:             CAMELUSFERUS-DN42
 mnt-by:             CAMELUSFERUS-MNT
+nserver:            ns1.camelusferus.dn42
 status:             ASSIGNED
 source:             DN42

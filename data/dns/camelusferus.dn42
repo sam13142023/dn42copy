@@ -1,0 +1,8 @@
+domain:             camelusferus.dn42
+descr:              camelusferus.dn42
+admin-c:            CAMELUSFERUS-DN42
+tech-c:             CAMELUSFERUS-DN42
+mnt-by:             CAMELUSFERUS-MNT
+nserver:            ns1.camelusferus.dn42 172.21.99.184
+nserver:            ns1.camelusferus.dn42 fdfc:35df:d875:53::1
+source:             DN42
