@@ -1,11 +1,12 @@
 inetnum:            172.21.101.112 - 172.21.101.127
-netname:            TennojiNetwork-IPV4
+netname:            Tennoji Network - IPV4
 remarks:            Tenshi, tensai, Tennoji!
 descr:              Owned by Tennoji Network
 country:            CN
 admin-c:            XKWW3N-DN42
 tech-c:             XKWW3N-DN42
 mnt-by:             XKWW3N-MNT
+nserver:            ns.tennoji-net.dn42
 status:             ASSIGNED
 cidr:               172.21.101.112/28
 source:             DN42

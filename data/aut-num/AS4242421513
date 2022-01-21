@@ -1,6 +1,21 @@
 aut-num:            AS4242421513
-as-name:            TennojiNetwork
+as-name:            Tennoji Network
 descr:              Tenshi, tensai, Tennoji!
+remarks:             +─────────────────────────────────+
+remarks:             |         Tennoji Network         |
+remarks:             |                                 |
+remarks:             |     Tenshi, tensai, Tennoji!    |
+remarks:             |                                 |
+remarks:             |          AS4242421513           |
+remarks:             +─────────────────────────────────+
+remarks:             | Open for peering.               |
+remarks:             |                                 |
+remarks:             | PoP location: New York, USA     |
+remarks:             |                                 |
+remarks:             | Mail: xkww3n@protonmail.com     |
+remarks:             |                                 |
+remarks:             | Telegram: @xkww3n               |
+remarks:             +─────────────────────────────────+
 admin-c:            XKWW3N-DN42
 tech-c:             XKWW3N-DN42
 mnt-by:             XKWW3N-MNT

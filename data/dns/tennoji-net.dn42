@@ -1,0 +1,7 @@
+domain:             tennoji-net.dn42
+admin-c:            XKWW3N-DN42
+tech-c:             XKWW3N-DN42
+mnt-by:             XKWW3N-MNT
+nserver:            ns.tennoji-net.dn42 172.21.101.113
+nserver:            ns.tennoji-net.dn42 fd62:d79c:a5b9::1
+source:             DN42
