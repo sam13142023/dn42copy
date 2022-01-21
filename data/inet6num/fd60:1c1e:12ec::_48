@@ -1,0 +1,10 @@
+inet6num:           fd60:1c1e:12ec:0000:0000:0000:0000:0000 - fd60:1c1e:12ec:ffff:ffff:ffff:ffff:ffff
+cidr:               fd60:1c1e:12ec::/48
+netname:            TIANYI-NETWORK-IPV6
+descr:              TianyiNet Next Generation IPv6 Network
+country:            CN
+admin-c:            TIANYI-DN42
+tech-c:             TIANYI-DN42
+mnt-by:             TIANYI-MNT
+status:             ASSIGNED
+source:             DN42

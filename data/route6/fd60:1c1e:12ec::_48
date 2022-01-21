@@ -1,0 +1,5 @@
+route6:             fd60:1c1e:12ec::/48
+origin:             AS4242420712
+max-length:         48
+mnt-by:             TIANYI-MNT
+source:             DN42
