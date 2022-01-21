@@ -1,0 +1,5 @@
+route:              172.23.72.0/27
+descr:              Peer with me at longtianmu@outlook.com!Haoye!
+origin:             AS4242421927
+mnt-by:             LONGTIANMU-MNT
+source:             DN42

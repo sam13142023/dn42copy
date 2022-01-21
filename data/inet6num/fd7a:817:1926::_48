@@ -1,0 +1,12 @@
+inet6num:           fd7a:0817:1926:0000:0000:0000:0000:0000 - fd7a:0817:1926:ffff:ffff:ffff:ffff:ffff
+netname:            LONGTIANMU-IPV6
+descr:              Peer with me at longtianmu@outlook.com!Haoye!
+country:            CN
+admin-c:            LONGTIANMU-DN42
+tech-c:             LONGTIANMU-DN42
+mnt-by:             LONGTIANMU-MNT
+nserver:            ns1.186526.dn42
+nserver:            ns2.186526.dn42
+status:             ASSIGNED
+cidr:               fd7a:817:1926::/48
+source:             DN42
