@@ -4,11 +4,7 @@ nserver:            ns2.jgix.dn42
 nserver:            ns3.jgix.dn42
 nserver:            ns4.jgix.dn42
 netname:            JUREGRINFFIN-IPV6
-descr:              Contacts in remarks. Open for peering. 
-remarks:            Looking Glass:lg-jg-awsl.xyz
-remarks:            Node desciption panel is in progress
-remarks:            Telegram:AlbertMichae1
-remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Go to file JUREGRINFFIN-MNT for detailed information.
 country:            CN
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42
