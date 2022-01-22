@@ -1,0 +1,10 @@
+inet6num:           fdbc:cddc:6666:0000:0000:0000:0000:0000 - fdbc:cddc:6666:ffff:ffff:ffff:ffff:ffff
+netname:            CHENYFAN-IPV6
+descr:              Peer with me at a2778754364@gmail.com
+country:            CN
+admin-c:            CHENYFAN-DN42
+tech-c:             CHENYFAN-DN42
+mnt-by:             CHENYFAN-MNT
+status:             ASSIGNED
+cidr:               fdbc:cddc:6666::/48
+source:             DN42
