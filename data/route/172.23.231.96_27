@@ -1,9 +1,5 @@
 route:              172.23.231.96/27
-descr:              Contacts in remarks. Open for peering. 
-remarks:            Looking Glass:lg-jg-awsl.xyz
-remarks:            Node desciption panel is in progress
-remarks:            Telegram:AlbertMichae1
-remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Go to file JUREGRINFFIN-MNT for detailed information.
 origin:             AS4242422188
 mnt-by:             JUREGRINFFIN-MNT
 source:             DN42

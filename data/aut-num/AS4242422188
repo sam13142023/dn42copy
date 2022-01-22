@@ -1,10 +1,6 @@
 aut-num:            AS4242422188
 as-name:            JureGrinffin-AS
-descr:              Contacts in remarks. Open for peering. 
-remarks:            Looking Glass:lg-jg-awsl.xyz
-remarks:            Node desciption panel is in progress
-remarks:            Telegram:AlbertMichae1
-remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
+descr:              Go to file JUREGRINFFIN-MNT for detailed information.
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42
 mnt-by:             JUREGRINFFIN-MNT
