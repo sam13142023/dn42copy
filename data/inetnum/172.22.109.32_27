@@ -1,0 +1,11 @@
+inetnum:            172.22.109.32 - 172.22.109.63
+netname:            CHENYFAN-IPV4
+remarks:            Peer with me at a2778754364@gmail.com
+descr:              Peer with me at a2778754364@gmail.com
+country:            CN
+admin-c:            CHENYFAN-DN42
+tech-c:             CHENYFAN-DN42
+mnt-by:             CHENYFAN-MNT
+status:             ASSIGNED
+cidr:               172.22.109.32/27
+source:             DN42

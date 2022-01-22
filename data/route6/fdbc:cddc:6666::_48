@@ -1,0 +1,5 @@
+route6:             fdbc:cddc:6666::/48
+descr:              Peer with me at 2778754364@gmail.com
+origin:             AS4242420311
+mnt-by:             CHENYFAN-MNT
+source:             DN42
