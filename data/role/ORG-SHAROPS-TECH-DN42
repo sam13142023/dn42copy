@@ -1,0 +1,9 @@
+role:               ORG-SHAROPS-TECH-DN42
+nic-hdl:            ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+org:                ORG-SHAROPS
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             IOPSTHECLOUD-DN42
+remarks:            e-mail: noc+dn42@iopsthecloud.com
+abuse-mailbox:      abuse+dn42@iopsthecloud.com
+source:             DN42

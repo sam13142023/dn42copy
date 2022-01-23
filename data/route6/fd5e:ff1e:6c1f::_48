@@ -1,0 +1,6 @@
+route6:             fd5e:ff1e:6c1f::/48
+origin:             AS4242421074
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+source:             DN42

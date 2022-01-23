@@ -1,0 +1,11 @@
+domain:             sharops.dn42
+descr:              SHAROPS Network at DN42
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+nserver:            ns1.sharops.dn42 172.22.137.231
+nserver:            ns1.sharops.dn42 fd5e:ff1e:6c1f:2a::e7
+nserver:            ns2.sharops.dn42 172.22.137.232
+nserver:            ns2.sharops.dn42 fd5e:ff1e:6c1f:2a::e8
+source:             DN42
+org:                ORG-SHAROPS

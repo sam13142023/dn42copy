@@ -1,0 +1,8 @@
+mntner:             SHAROPS-MNT
+org:                ORG-SHAROPS
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+source:             DN42
+abuse-mailbox:      abuse+dn42@iopsthecloud.com
+auth:               pgp-fingerprint 54A60CA9B542BE125965A3311B84187BDF40B6F8
