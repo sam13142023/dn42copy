@@ -7,6 +7,8 @@ tech-c:             DGY-DN42
 mnt-by:             DGY-MNT
 nserver:            ns1.dgy.dn42
 nserver:            ns2.dgy.dn42
+nserver:            ns3.dgy.dn42
+nserver:            ns.dgy.dn42
 status:             ASSIGNED
 cidr:               fd11:552f:74db::/48
 source:             DN42
