@@ -1,0 +1,6 @@
+route:              172.22.137.224/27
+origin:             AS4242421074
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+source:             DN42

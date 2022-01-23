@@ -1,0 +1,13 @@
+inet6num:           fd5e:ff1e:6c1f:0000:0000:0000:0000:0000 - fd5e:ff1e:6c1f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:ff1e:6c1f::/48
+netname:            SHAROPS-DN42-NETWORK
+descr:              SHAROPS's ipv6 network
+country:            FR
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+org:                ORG-SHAROPS
+nserver:            ns1.sharops.dn42
+nserver:            ns2.sharops.dn42
+status:             ASSIGNED
+source:             DN42

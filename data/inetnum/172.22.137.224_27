@@ -1,0 +1,13 @@
+inetnum:            172.22.137.224 - 172.22.137.255
+cidr:               172.22.137.224/27
+netname:            SHAROPS-DN42-NETWORK
+descr:              SHAROPS's ipv4 network
+country:            FR
+admin-c:            IOPSTHECLOUD-DN42
+tech-c:             ORG-SHAROPS-TECH-DN42
+mnt-by:             SHAROPS-MNT
+org:                ORG-SHAROPS
+nserver:            ns1.sharops.dn42
+nserver:            ns2.sharops.dn42
+status:             ASSIGNED
+source:             DN42
