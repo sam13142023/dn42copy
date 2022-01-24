@@ -1,0 +1,9 @@
+domain:             netfis.dn42
+admin-c:            ALEXANDRE229-DN42
+tech-c:             ALEXANDRE229-DN42
+mnt-by:             ALEXANDRE229-MNT
+nserver:            ns1.netfis.dn42 fde8:ee85:76ef:53::1
+nserver:            ns1.netifs.dn42 172.22.109.1
+nserver:            ns2.netfis.dn42 fde8:ee85:76ef:53::2
+nserver:            ns2.netfis.dn42 172.22.109.2
+source:             DN42
