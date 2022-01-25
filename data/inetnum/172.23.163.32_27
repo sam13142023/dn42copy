@@ -1,6 +1,7 @@
 inetnum:            172.23.163.32 - 172.23.163.63
 netname:            HANLIN-NETWORK
 descr:              Hanlin DN42 Network
+nserver:            ns1.hanlin.dn42
 country:            CN
 admin-c:            HANLIN-DN42
 tech-c:             HANLIN-DN42
