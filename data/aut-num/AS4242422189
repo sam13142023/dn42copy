@@ -1,17 +1,19 @@
 aut-num:            AS4242422189
 as-name:            IEDON-NET-AS
 descr:              iEdon Networks
-remarks:            +----------------------------------+
-remarks:            |          iEdon Networks          |
-remarks:            +----------------------------------+
-remarks:            | * Nodes for peering:             |
-remarks:            |   - Tokyo, Japan(TYO1)           |
-remarks:            |   - San Francisco, CA, US(SFO1)  |
-remarks:            |   - Frankfurt, HE, DE(FRA1)      |
-remarks:            +----------------------------------+
-remarks:            | * Feel free to contact me:       |
-remarks:            |   - IRC: iedon@hackint           |
-remarks:            +----------------------------------+
+remarks:            +----------------------------------------+
+remarks:            |             iEdon Networks             |
+remarks:            +----------------------------------------+
+remarks:            |  * Try our AUTO peering system:        |
+remarks:            |                                        |
+remarks:            |     - https://dn42.kuu.moe             |
+remarks:            |                                        |
+remarks:            |  * Peering and management ALL IN ONE!  |
+remarks:            +----------------------------------------+
+remarks:            |  * Fire bugs or feel free to reach:    |
+remarks:            |   - IRC:     iedon@hackint             |
+remarks:            |   - E-mail:  dn42@kuu.moe              |
+remarks:            +----------------------------------------+
 admin-c:            IEDON-DN42
 tech-c:             IEDON-DN42
 mnt-by:             IEDON-MNT
