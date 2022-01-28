@@ -1,0 +1,6 @@
+mntner:             DHELLSTERN-MNT
+admin-c:            DHELLSTERN-DN42
+tech-c:             DHELLSTERN-DN42
+mnt-by:             DHELLSTERN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINiVyQfQirhfRJ8pFws0ABHKudUAxmjYo2MHst7Tz17k DN42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fde6:a552:874f::/48
+origin:             AS4242421878
+max-length:         64
+mnt-by:             DHELLSTERN-MNT
+source:             DN42
