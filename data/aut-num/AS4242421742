@@ -1,0 +1,7 @@
+aut-num:            AS4242421742
+as-name:            IMLK-AS
+descr:              Peer with me at me@imlk.top
+admin-c:            IMLK-DN42
+tech-c:             IMLK-DN42
+mnt-by:             IMLK-MNT
+source:             DN42
