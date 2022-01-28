@@ -1,0 +1,4 @@
+route:              172.22.96.0/26
+origin:             AS4242421742
+mnt-by:             IMLK-MNT
+source:             DN42

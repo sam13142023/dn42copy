@@ -1,0 +1,8 @@
+inetnum:            172.22.96.0 - 172.22.96.63
+cidr:               172.22.96.0/26
+netname:            IMLK-IPV4
+admin-c:            IMLK-DN42
+tech-c:             IMLK-DN42
+mnt-by:             IMLK-MNT
+status:             ASSIGNED
+source:             DN42
