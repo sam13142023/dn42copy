@@ -1,0 +1,10 @@
+inetnum:            172.23.119.64 - 172.23.119.95
+cidr:               172.23.119.64/27
+netname:            CHAMPLAIN-NET
+status:             ASSIGNED
+country:            US
+admin-c:            DHELLSTERN-DN42
+tech-c:             DHELLSTERN-DN42
+mnt-by:             DHELLSTERN-MNT
+org:                ORG-CHAMPLAIN
+source:             DN42

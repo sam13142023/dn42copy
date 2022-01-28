@@ -1,0 +1,5 @@
+route:              172.23.119.64/27
+origin:             AS4242421878
+max-length:         27
+mnt-by:             DHELLSTERN-MNT
+source:             DN42
