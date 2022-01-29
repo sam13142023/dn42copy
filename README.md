@@ -119,3 +119,5 @@ Any personal information stored in the registry is optional and voluntarily prov
 If this is not acceptable for you, you must not upload your personal details to the registry.
 
 All registered users have the capability to make copies of the registry data for their own use. If you do copy the registry you must ensure that any copies you make are deleted when no longer required and that you will make best efforts to update or delete personal data when requested.
+
+You **must not** clone or mirror the registry in to a commercial git repository; commercial terms of service can be incompatible with the use of personal data in the registry.
