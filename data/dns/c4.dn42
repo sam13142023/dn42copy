@@ -1,0 +1,10 @@
+domain:             c4.dn42
+descr:              C4
+admin-c:            C4-DN42
+tech-c:             C4-DN42
+mnt-by:             C4-MNT
+nserver:            ns1.c4.dn42 172.21.90.70
+nserver:            ns1.c4.dn42 fd87:957e:5c48:7d59::2
+nserver:            ns2.c4.dn42 172.21.90.71
+nserver:            ns2.c4.dn42 fd87:957e:5c48:7d59::3
+source:             DN42
