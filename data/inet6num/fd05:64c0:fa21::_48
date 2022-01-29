@@ -1,8 +1,0 @@
-inet6num:           fd05:64c0:fa21:0000:0000:0000:0000:0000 - fd05:64c0:fa21:ffff:ffff:ffff:ffff:ffff
-cidr:               fd05:64c0:fa21::/48
-netname:            LACERTAE6-DN42
-admin-c:            LACERTAE-DN42
-tech-c:             LACERTAE-DN42
-mnt-by:             LACERTAE-MNT
-status:             ASSIGNED
-source:             DN42
