@@ -2,6 +2,6 @@ domain:             oni.dn42
 admin-c:            THEQ-DN42
 tech-c:             THEQ-DN42
 mnt-by:             THEQ-MNT
-nserver:            ns1.oni.dn42 fd4f:4e49:4f4e::1
-nserver:            ns2.oni.dn42 fd6f:6e69:6f6e::1
+nserver:            ons1.theq.dn42
+nserver:            ons2.theq.dn42
 source:             DN42
