@@ -1,0 +1,10 @@
+inet6num:           fdca:fafe:35f3:0000:0000:0000:0000:0000 - fdca:fafe:35f3:ffff:ffff:ffff:ffff:ffff
+netname:            XYS20071111-IPV6
+descr:              Peer with me at xys20071111@hotmail.com
+country:            CN
+admin-c:            XYS20071111-DN42
+tech-c:             XYS20071111-DN42
+mnt-by:             XYS20071111-MNT
+status:             ASSIGNED
+cidr:               fdca:fafe:35f3::/48
+source:             DN42
