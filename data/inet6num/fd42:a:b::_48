@@ -9,7 +9,7 @@ admin-c:            LUTOMA-DN42
 tech-c:             LUTOMA-DN42
 zone-c:             LUTOMA-DN42
 mnt-by:             LUTOMA-MNT
-nserver:            ns1.lutoma.dn42
 status:             ASSIGNED
+nserver:            ns-anycast.lutoma.dn42
 cidr:               fd42:a:b::/48
 source:             DN42
