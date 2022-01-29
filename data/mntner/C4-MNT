@@ -1,0 +1,6 @@
+mntner:             C4-MNT
+admin-c:            C4-DN42
+tech-c:             C4-DN42
+mnt-by:             C4-MNT
+source:             DN42
+auth:               pgp-fingerprint 05CDB6A60B4DF682DDF81EEB69B774554EBEF5A9

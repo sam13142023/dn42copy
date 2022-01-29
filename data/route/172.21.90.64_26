@@ -1,0 +1,4 @@
+route:              172.21.90.64/26
+origin:             AS4242421090
+mnt-by:             C4-MNT
+source:             DN42

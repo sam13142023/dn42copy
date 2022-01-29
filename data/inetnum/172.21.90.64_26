@@ -1,0 +1,13 @@
+inetnum:            172.21.90.64 - 172.21.90.127
+cidr:               172.21.90.64/26
+remarks:            Peer with me at a@c4.io
+descr:              Peer with me at a@c4.io
+netname:            C4-IPV4
+country:            US
+admin-c:            C4-DN42
+tech-c:             C4-DN42
+mnt-by:             C4-MNT
+status:             ASSIGNED
+nserver:            ns1.c4.dn42
+nserver:            ns2.c4.dn42
+source:             DN42
