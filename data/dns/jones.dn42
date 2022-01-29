@@ -1,0 +1,7 @@
+domain:             jones.dn42
+admin-c:            JONES-DN42
+tech-c:             JONES-DN42
+mnt-by:             JONES-MNT
+nserver:            ns1.jones.dn42 172.22.189.162
+nserver:            ns1.jones.dn42 fda6:ad1f:9aa1::3
+source:             DN42
