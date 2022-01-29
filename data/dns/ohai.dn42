@@ -1,7 +1,7 @@
-domain:             pgp.dn42
-descr:              PGP keyserver
+domain:             ohai.dn42
+descr:              Clearnet: ohai.su
 admin-c:            LUTOMA-DN42
 tech-c:             LUTOMA-DN42
 mnt-by:             LUTOMA-MNT
-nserver:            ns1.lutoma.dn42
+nserver:            ns-anycast.lutoma.dn42
 source:             DN42
