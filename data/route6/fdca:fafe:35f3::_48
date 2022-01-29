@@ -1,0 +1,5 @@
+route6:             fdca:fafe:35f3::/48
+descr:              Peer with me at xys20071111@hotmail.com
+origin:             AS4242422535
+mnt-by:             XYS20071111-MNT
+source:             DN42
