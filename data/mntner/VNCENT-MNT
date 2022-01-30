@@ -1,0 +1,6 @@
+mntner:             VNCENT-MNT
+admin-c:            VNCENT-DN42
+tech-c:             VNCENT-DN42
+mnt-by:             VNCENT-MNT
+source:             DN42
+auth:               pgp-fingerprint 969D26E1CD259978FDA5B2D30136FF29805B230D
