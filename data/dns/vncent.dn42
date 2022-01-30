@@ -1,0 +1,7 @@
+domain:             vncent.dn42
+descr:              VNCENT
+admin-c:            VNCENT-DN42
+tech-c:             VNCENT-DN42
+mnt-by:             VNCENT-MNT
+nserver:            ns1.vncent.dn42 172.22.147.150
+source:             DN42

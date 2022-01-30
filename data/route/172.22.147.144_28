@@ -1,0 +1,4 @@
+route:              172.22.147.144/28
+origin:             AS4242423405
+mnt-by:             VNCENT-MNT
+source:             DN42

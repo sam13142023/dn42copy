@@ -1,0 +1,9 @@
+inetnum:            172.22.147.144 - 172.22.147.159
+cidr:               172.22.147.144/28
+netname:            VNCENT-V4-NET-1
+country:            AU
+admin-c:            VNCENT-DN42
+tech-c:             VNCENT-DN42
+mnt-by:             VNCENT-MNT
+status:             ASSIGNED
+source:             DN42
