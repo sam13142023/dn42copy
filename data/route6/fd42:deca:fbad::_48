@@ -1,0 +1,5 @@
+route6:             fd42:deca:fbad::/48
+origin:             AS4242421411
+max-length:         48
+mnt-by:             C4TG1RL5-MNT
+source:             DN42
