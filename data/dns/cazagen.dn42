@@ -1,6 +1,6 @@
 domain:             cazagen.dn42
-nserver:            ns1.cazagen.dn42 172.23.215.1
-nserver:            ns1.cazagen.dn42 fdc5:cee0:5f6b::1
+nserver:            ns1.cazagen.dn42 172.23.215.3
+nserver:            ns1.cazagen.dn42 fdc5:cee0:5f6b::3
 admin-c:            CAZAGEN-DN42
 tech-c:             CAZAGEN-DN42
 mnt-by:             CAZAGEN-MNT
