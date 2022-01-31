@@ -1,0 +1,5 @@
+route6:             fdff:5963:5406::/48
+origin:             AS4242423578
+max-length:         48
+mnt-by:             NS68-MNT
+source:             DN42

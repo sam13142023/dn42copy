@@ -1,0 +1,4 @@
+route:              172.23.223.64/27
+origin:             AS4242423578
+mnt-by:             NS68-MNT
+source:             DN42
