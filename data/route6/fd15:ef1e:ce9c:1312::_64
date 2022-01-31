@@ -1,0 +1,5 @@
+route6:             fd15:ef1e:ce9c:1312::/64
+descr:              SEARCHNET
+origin:             AS64719
+mnt-by:             LUTOMA-MNT
+source:             DN42

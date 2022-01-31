@@ -1,0 +1,7 @@
+domain:             search.dn42
+descr:              DN42 search engine
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+nserver:            ns-anycast.lutoma.dn42
+source:             DN42

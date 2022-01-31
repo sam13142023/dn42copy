@@ -1,0 +1,5 @@
+route:              172.23.13.8/29
+descr:              SEARCHNET
+origin:             AS64719
+mnt-by:             LUTOMA-MNT
+source:             DN42

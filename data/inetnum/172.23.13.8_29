@@ -1,0 +1,19 @@
+inetnum:            172.23.13.8 - 172.23.13.15
+netname:            SEARCHNET
+descr:              search.dn42 network
+remarks:            -----------------------------------------------------------
+remarks:            Outgoing traffic from this network is automatically
+remarks:            triggered by a web crawler. If you would like to stop your
+remarks:            network from being indexed, contact LUTOMA-DN42, create a
+remarks:            robots.txt file, or, as a last resort, block 172.23.13.8/29
+remarks:            and fd15:ef1e:ce9c:1312::/64 in your firewall.
+remarks:            -----------------------------------------------------------
+country:            DE
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+zone-c:             LUTOMA-DN42
+status:             ASSIGNED
+mnt-by:             LUTOMA-MNT
+nserver:            ns-anycast.lutoma.dn42
+cidr:               172.23.13.8/29
+source:             DN42
