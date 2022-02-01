@@ -1,0 +1,6 @@
+mntner:             NS68-MNT
+admin-c:            NS68-DN42
+tech-c:             NS68-DN42
+mnt-by:             NS68-MNT
+auth:               pgp-fingerprint D34DA756227DAE0776FB90528F48E2EAE0CD0B3E
+source:             DN42

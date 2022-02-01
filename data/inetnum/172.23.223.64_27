@@ -1,0 +1,8 @@
+inetnum:            172.23.223.64 - 172.23.223.95
+cidr:               172.23.223.64/27
+netname:            NS68-NETWORK
+admin-c:            NS68-DN42
+tech-c:             NS68-DN42
+mnt-by:             NS68-MNT
+status:             ASSIGNED
+source:             DN42
