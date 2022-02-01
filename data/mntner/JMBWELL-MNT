@@ -1,0 +1,7 @@
+mntner:             JMBWELL-MNT
+descr:              jmbwell maintainer
+admin-c:            JMBWELL-DN42
+tech-c:             JMBWELL-DN42
+mnt-by:             JMBWELL-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBy8Ugb8k2ayz9g1JYU2SNmbktiQEx8zLPcitm1UT/2n

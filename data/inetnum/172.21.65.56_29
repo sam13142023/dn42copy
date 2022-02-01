@@ -1,0 +1,10 @@
+inetnum:            172.21.65.56 - 172.21.65.63
+cidr:               172.21.65.56/29
+netname:            JMBWELL-NET4
+descr:              jmbwell-net4
+country:            US
+mnt-by:             JMBWELL-MNT
+admin-c:            JMBWELL-DN42
+tech-c:             JMBWELL-DN42
+status:             ASSIGNED
+source:             DN42

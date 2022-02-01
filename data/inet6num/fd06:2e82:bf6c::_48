@@ -1,0 +1,10 @@
+inet6num:           fd06:2e82:bf6c:0000:0000:0000:0000:0000 - fd06:2e82:bf6c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd06:2e82:bf6c::/48
+netname:            JMBWELL-NET6
+descr:              jmbwell-net6
+country:            US
+mnt-by:             JMBWELL-MNT
+admin-c:            JMBWELL-DN42
+tech-c:             JMBWELL-DN42
+status:             ASSIGNED
+source:             DN42
