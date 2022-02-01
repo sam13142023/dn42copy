@@ -1,0 +1,8 @@
+inetnum:            172.20.135.224 - 172.20.135.255
+cidr:               172.20.135.224/27
+netname:            DCHR-NETWORK
+admin-c:            DCHR-DN42
+tech-c:             DCHR-DN42
+mnt-by:             DCHR-MNT
+status:             ASSIGNED
+source:             DN42
