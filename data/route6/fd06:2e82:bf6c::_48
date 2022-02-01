@@ -1,0 +1,5 @@
+route6:             fd06:2e82:bf6c::/48
+origin:             AS4242422320
+max-length:         48
+mnt-by:             JMBWELL-MNT
+source:             DN42
