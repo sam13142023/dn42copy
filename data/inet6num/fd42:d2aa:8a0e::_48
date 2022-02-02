@@ -6,4 +6,5 @@ admin-c:            IMLK-DN42
 tech-c:             IMLK-DN42
 mnt-by:             IMLK-MNT
 status:             ASSIGNED
+nserver:            ns1.imlk.dn42
 source:             DN42
