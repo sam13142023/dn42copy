@@ -1,0 +1,11 @@
+inet6num:           fd99:0b9c:8d88:0000:0000:0000:0000:0000 - fd99:0b9c:8d88:ffff:ffff:ffff:ffff:ffff
+cidr:               fd99:b9c:8d88::/48
+netname:            RETROBOT-NETWORK
+country:            US
+admin-c:            RETROBOT-DN42
+tech-c:             RETROBOT-DN42
+mnt-by:             RETROBOT-MNT
+status:             ASSIGNED
+nserver:            ns1.retrobot.dn42
+nserver:            ns2.retrobot.dn42
+source:             DN42

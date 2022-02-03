@@ -1,0 +1,4 @@
+route:              172.22.255.32/27
+origin:             AS4242422750
+mnt-by:             RETROBOT-MNT
+source:             DN42

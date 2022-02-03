@@ -1,0 +1,5 @@
+route6:             fd99:b9c:8d88::/48
+origin:             AS4242422750
+max-length:         48
+mnt-by:             RETROBOT-MNT
+source:             DN42

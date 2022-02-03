@@ -1,0 +1,6 @@
+mntner:             RETROBOT-MNT
+admin-c:            RETROBOT-DN42
+tech-c:             RETROBOT-DN42
+mnt-by:             RETROBOT-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDjTUOEpWYwu0yfoDXEGTrsAw7D8cwZNM7/lJHm6e2RG
+source:             DN42
