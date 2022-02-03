@@ -1,0 +1,4 @@
+route:              172.20.207.0/26
+origin:             AS4242421072
+mnt-by:             EARENDIL-MNT
+source:             DN42
