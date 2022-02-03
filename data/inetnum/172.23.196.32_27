@@ -1,7 +1,7 @@
-inet6num:           fd42:deca:fbad:0000:0000:0000:0000:0000 - fd42:deca:fbad:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:deca:fbad::/48
-netname:            C4TG1RL5-NETWORK
-descr:              Catgirls! - DECAF BAD
+inetnum:            172.23.196.32 - 172.23.196.63
+cidr:               172.23.196.32/27
+netname:            C4TG1RL5-NETWORK-IPV4
+descr:              Catgirls - legacy net
 country:            DE
 country:            PL
 country:            US
