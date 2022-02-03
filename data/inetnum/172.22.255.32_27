@@ -1,0 +1,10 @@
+inetnum:            172.22.255.32 - 172.22.255.63
+cidr:               172.22.255.32/27
+netname:            RETROBOT-NETWORK
+admin-c:            RETROBOT-DN42
+tech-c:             RETROBOT-DN42
+mnt-by:             RETROBOT-MNT
+status:             ASSIGNED
+nserver:            ns1.retrobot.dn42
+nserver:            ns2.retrobot.dn42
+source:             DN42

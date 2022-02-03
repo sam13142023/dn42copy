@@ -1,0 +1,9 @@
+domain:             retrobot.dn42
+admin-c:            RETROBOT-DN42
+tech-c:             RETROBOT-DN42
+mnt-by:             RETROBOT-MNT
+nserver:            ns1.retrobot.dn42 172.22.255.33
+nserver:            ns1.retrobot.dn42 fd99:b9c:8d88::2
+nserver:            ns2.retrobot.dn42 172.22.255.34
+nserver:            ns2.retrobot.dn42 fd99:b9c:8d88::3
+source:             DN42
