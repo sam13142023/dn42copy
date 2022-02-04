@@ -1,0 +1,11 @@
+inet6num:           fd42:deef:1a98:0000:0000:0000:0000:0000 - fd42:deef:1a98:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:deef:1a98::/48
+netname:            ROGE-IP6-01
+country:            PT
+admin-c:            ROGE-DN42
+tech-c:             ROGE-DN42
+mnt-by:             ROGE-MNT
+nserver:            ns1.roge.dn42
+nserver:            ns2.roge.dn42
+status:             ASSIGNED
+source:             DN42

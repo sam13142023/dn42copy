@@ -1,0 +1,6 @@
+mntner:             ROGE-MNT
+admin-c:            ROGE-DN42
+tech-c:             ROGE-DN42
+mnt-by:             ROGE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID/M9HmrHXkbm89ep2MT3T7MJjqhcVMuMVWlL7GFasmF
+source:             DN42

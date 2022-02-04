@@ -1,0 +1,10 @@
+inetnum:            172.20.174.64 - 172.20.174.95
+cidr:               172.20.174.64/27
+netname:            ROGE-IP4-01
+admin-c:            ROGE-DN42
+tech-c:             ROGE-DN42
+mnt-by:             ROGE-MNT
+nserver:            ns1.roge.dn42
+nserver:            ns2.roge.dn42
+status:             ASSIGNED
+source:             DN42

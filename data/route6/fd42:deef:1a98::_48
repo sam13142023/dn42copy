@@ -1,0 +1,6 @@
+route6:             fd42:deef:1a98::/48
+descr:              roge.io's v6 network
+origin:             AS4242421730
+max-length:         64
+mnt-by:             ROGE-MNT
+source:             DN42
