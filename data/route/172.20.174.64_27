@@ -1,0 +1,5 @@
+route:              172.20.174.64/27
+descr:              roge.io v4 network
+origin:             AS4242421730
+mnt-by:             ROGE-MNT
+source:             DN42

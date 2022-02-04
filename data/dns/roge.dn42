@@ -1,0 +1,9 @@
+domain:             roge.dn42
+admin-c:            ROGE-DN42
+tech-c:             ROGE-DN42
+mnt-by:             ROGE-MNT
+nserver:            ns1.roge.dn42 172.20.174.66
+nserver:            ns1.roge.dn42 fd42:deef:1a98:53::66
+nserver:            ns2.roge.dn42 172.20.174.67
+nserver:            ns2.roge.dn42 fd42:deef:1a98:53::67
+source:             DN42
