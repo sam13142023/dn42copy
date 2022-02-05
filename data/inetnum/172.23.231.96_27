@@ -4,7 +4,7 @@ nserver:            ns2.jgix.dn42
 nserver:            ns3.jgix.dn42
 nserver:            ns4.jgix.dn42
 netname:            JUREGRINFFIN-IPV4
-descr:              Go to file JUREGRINFFIN-MNT for detailed information.
+descr:              AS4242422188 IPV4 BLOCK
 country:            CN
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42

@@ -1,7 +1,19 @@
 aut-num:            AS4242422188
 as-name:            JureGrinffin-AS
-descr:              Go to file JUREGRINFFIN-MNT for detailed information.
+descr:              AS4242422188
 admin-c:            JUREGRINFFIN-DN42
 tech-c:             JUREGRINFFIN-DN42
 mnt-by:             JUREGRINFFIN-MNT
 source:             DN42
+remarks:            ==========================================================================================
+remarks:            Currently NOT OPEN for peering until June 10, 2022
+remarks:            Nodes will go offline after April or May due to out of balance.
+remarks:            Peering configurations will be backuped and mitigated to new servers after June 10, 2022.
+remarks:            ------------------------------------------------------------------------------------------
+remarks:            Looking Glass: https://lg.jgix.eu.org/
+remarks:            Node desciption panel and autopeer in progress
+remarks:            ------------------------------------------------------------------------------------------
+remarks:            Contacts:
+remarks:            Telegram:AlbertMichae1
+remarks:            Email:Jure_Grinffin@devtpr.onmicrosoft.com
+remarks:            ==========================================================================================
