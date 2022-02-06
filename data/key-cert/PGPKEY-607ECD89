@@ -1,0 +1,36 @@
+key-cert:           PGPKEY-607ECD89
+method:             PGP
+owner:              Luo Tianyi <lty@luotianyi.dev>
+fingerpr:           6C2A E254 921D 55A6 7B06 9EA3 A46A E5C0 607E CD89
+remarks:            PGP key for TIANYI-DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEYfqBpxYJKwYBBAHaRw8BAQdAcnLwzdu/0+olSOczu3PlmtnD71mXqXV8Ihzw
+certif:             uKfWhl+0Hkx1byBUaWFueWkgPGx0eUBsdW90aWFueWkuZGV2PoiWBBMWCAA+FiEE
+certif:             bCriVJIdVaZ7Bp6jpGrlwGB+zYkFAmH6gacCGwMFCRLMAwAFCwkIBwIGFQoJCAsC
+certif:             BBYCAwECHgECF4AACgkQpGrlwGB+zYk4BwD/XRw+pBE5XcwhFEkPYRtjh81rsiWu
+certif:             YC0mX6Kz2CXvch8BAK52I6wcAzE0kYt1svVSdj+WEo9EV1uwQc0nw5EUAdUMuDME
+certif:             YfqDKhYJKwYBBAHaRw8BAQdA+z+J+DpmbRYtV9F1+x/YEFlOrS3IR0NfFdHGOFiN
+certif:             QauI9QQYFggAJhYhBGwq4lSSHVWmewaeo6Rq5cBgfs2JBQJh+oMqAhsCBQkB4TOA
+certif:             AIEJEKRq5cBgfs2JdiAEGRYIAB0WIQRpMR/MrJARCfuDwgg5mxzbIa8sIgUCYfqD
+certif:             KgAKCRA5mxzbIa8sIlbFAQCs5COq35fEux4sPuwcpdV/YuKrQTJ4AwR5aN+9c9vm
+certif:             AQD/UrEj8Rw/nM1D5z5IQ1HGhIHXlUvltg8WNZ4bIpBbigbibAD/XrbG5eeKyOuS
+certif:             l4sW6fKawMAUJ/mA5tZ9Si8Uuk0lIwAA/iTNEWiq3i27IEOp4S1XGm+O3V11Z384
+certif:             +G/Im5KcXaMFuQINBGH6g0ABEADBpzh/E92dmbKXvl09ncrJIblPW+EcSmU2crP1
+certif:             ZOuGQRVhC0QF2V6Mk3lhoXpNdKIiiQO8F4mOXSriIGRuBjYkFDgSH7UF24Gr3+BK
+certif:             sMifZFWUiKLLNIvTHHx2uUWniUIUM7cxsO7XjcoGT/TrqNHp90qhaxouz16zKMig
+certif:             5R/qYwrQT+IuXQIqFFU+K3k222I1Tz8XTDZLhjBzUngPYjLn0UP3vW+YnV39uvhH
+certif:             n6Y4yoTehbdwishRa1rZJcfknbhKeMTKyHqVOdaQQ33NAFK9d/ZbhRTj04T6Kw2V
+certif:             e9gFCQuD2z7qJ+lThSU16+462Aoj4A6xsL/eZLPD1pxYmYQy8rkH+hiXjxxR+brW
+certif:             wdNQAfp3tWj/IrCA2JakhngL6JngwCOUEGibmSDL1fURWPpznu/0FZXvHsS5l1jf
+certif:             CSy+91WckFeaa+LeDNDMbuf2pbRp+viNRl8MHhbXQ4qN4/ikEYSYrS0Y4uW+T9j1
+certif:             l5bYCyOnuxUoQen1Ne8oRsIpxFBizROBz0BQ5gE+zNAVmXUph2iq2BfN78qdjg+f
+certif:             kXlj+GFUpZdmepO6zdSEvzSNow/UIPY3rig8gtEP1fmA7tiRvDwBX8kFJO64oKw6
+certif:             bsVXmgAHpmNifLD53SF9dlS/thGBHH5ZxAXgl8/lLKECAcD/IbgiYEgqEj9irvf4
+certif:             mN/s3wARAQABiH4EGBYIACYWIQRsKuJUkh1VpnsGnqOkauXAYH7NiQUCYfqDQAIb
+certif:             DAUJAeEzgAAKCRCkauXAYH7NiWpuAP0aVpLMHfyW9bUE+9wKB4IjGVm3WMLeOmd9
+certif:             /E97jyCf5wD9HpsTqg6/E/xM2U9cqpL2iZgTK/vO2/mxZi1Gk+JZzgs=
+certif:             =A1Mh
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             TIANYI-MNT
+source:             DN42
