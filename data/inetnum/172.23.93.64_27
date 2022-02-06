@@ -1,0 +1,11 @@
+inetnum:            172.23.93.64 - 172.23.93.95
+netname:            ARODIER-IPV4
+remarks:            Andre Rodier
+descr:              Andre Rodier
+country:            GB
+admin-c:            ARODIER-DN42
+tech-c:             ARODIER-DN42
+mnt-by:             ARODIER-MNT
+status:             ASSIGNED
+cidr:               172.23.93.64/27
+source:             DN42
