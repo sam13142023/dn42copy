@@ -1,0 +1,9 @@
+domain:             lty.dn42
+admin-c:            TIANYI-DN42
+tech-c:             TIANYI-DN42
+mnt-by:             TIANYI-MNT
+nserver:            luka.ns.lty.dn42 172.21.108.2
+nserver:            luka.ns.lty.dn42 fd60:1c1e:12ec::53:2
+nserver:            miku.ns.lty.dn42 172.21.108.3
+nserver:            miku.ns.lty.dn42 fd60:1c1e:12ec::53:3
+source:             DN42

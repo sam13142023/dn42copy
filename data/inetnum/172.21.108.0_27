@@ -5,5 +5,7 @@ descr:              Tianyi Network
 admin-c:            TIANYI-DN42
 tech-c:             TIANYI-DN42
 mnt-by:             TIANYI-MNT
+nserver:            miku.ns.lty.dn42
+nserver:            luka.ns.lty.dn42
 status:             ASSIGNED
 source:             DN42
