@@ -1,0 +1,5 @@
+route6:             fd4e:b9db:f4be::/48
+origin:             AS4242421867
+max-length:         48
+mnt-by:             BENGL-MNT
+source:             DN42

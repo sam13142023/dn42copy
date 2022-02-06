@@ -1,0 +1,8 @@
+inetnum:            172.21.108.32 - 172.21.108.63
+cidr:               172.21.108.32/27
+netname:            BENGL-NETWORK
+admin-c:            BENGL-DN42
+tech-c:             BENGL-DN42
+mnt-by:             BENGL-MNT
+status:             ASSIGNED
+source:             DN42

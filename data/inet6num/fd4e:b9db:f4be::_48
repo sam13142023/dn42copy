@@ -1,0 +1,10 @@
+inet6num:           fd4e:b9db:f4be:0000:0000:0000:0000:0000 - fd4e:b9db:f4be:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4e:b9db:f4be::/48
+netname:            BENGL-NETWORK
+descr:              Network of BENGL
+country:            CA
+admin-c:            BENGL-DN42
+tech-c:             BENGL-DN42
+mnt-by:             BENGL-MNT
+status:             ASSIGNED
+source:             DN42

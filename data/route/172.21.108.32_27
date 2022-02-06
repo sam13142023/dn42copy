@@ -1,0 +1,4 @@
+route:              172.21.108.32/27
+origin:             AS4242421867
+mnt-by:             BENGL-MNT
+source:             DN42
