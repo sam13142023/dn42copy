@@ -1,0 +1,5 @@
+route:              172.23.93.64/27
+descr:              Peer with me at dn42@rodier.me
+origin:             AS4242420674
+mnt-by:             ARODIER-MNT
+source:             DN42

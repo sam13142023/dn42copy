@@ -1,0 +1,9 @@
+inet6num:           fdc1:160b:44b2:0000:0000:0000:0000:0000 - fdc1:160b:44b2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc1:160b:44b2::/48
+netname:            ARODIER-V6-NET-1
+country:            GB
+admin-c:            ARODIER-DN42
+tech-c:             ARODIER-DN42
+mnt-by:             ARODIER-MNT
+status:             ASSIGNED
+source:             DN42
