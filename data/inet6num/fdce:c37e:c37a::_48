@@ -1,0 +1,12 @@
+inet6num:           fdce:c37e:c37a:0000:0000:0000:0000:0000 - fdce:c37e:c37a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:c37e:c37a::/48
+netname:            HUAJITECH-NETWORK
+descr:              Network of HuajiTech
+country:            CN
+admin-c:            FUNNYSYC-DN42
+tech-c:             FUNNYSYC-DN42
+org:                ORG-HUAJITECH
+mnt-by:             FUNNYSYC-MNT
+status:             ASSIGNED
+nserver:            ns0.hjt.dn42
+source:             DN42
