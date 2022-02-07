@@ -1,0 +1,5 @@
+route6:             fdce:c37e:c37a::/48
+origin:             AS4242420458
+max-length:         48
+mnt-by:             FUNNYSYC-MNT
+source:             DN42
