@@ -1,0 +1,11 @@
+inetnum:            172.23.13.64 - 172.23.13.79
+cidr:               172.23.13.64/28
+netname:            LAOLIU-IPV4
+remarks:            Peer with me at dn42@laoliu.icu.
+descr:              Peer with me at dn42@laoliu.icu.
+country:            CN
+admin-c:            LAOLIU-DN42
+tech-c:             LAOLIU-DN42
+mnt-by:             LAOLIU-MNT
+status:             ASSIGNED
+source:             DN42
