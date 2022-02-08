@@ -1,0 +1,7 @@
+aut-num:            AS4242423490
+as-name:            LAOLIU-AS
+descr:              Peer with me at dn42@laoliu.icu
+admin-c:            LAOLIU-DN42
+tech-c:             LAOLIU-DN42
+mnt-by:             LAOLIU-MNT
+source:             DN42

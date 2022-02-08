@@ -1,0 +1,5 @@
+route6:             fd44:6b93:4eaa::/48
+descr:              Peer with me at dn42@laoliu.icu
+origin:             AS4242423490
+mnt-by:             LAOLIU-MNT
+source:             DN42

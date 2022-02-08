@@ -1,0 +1,10 @@
+inet6num:           fd44:6b93:4eaa:0000:0000:0000:0000:0000 - fd44:6b93:4eaa:ffff:ffff:ffff:ffff:ffff
+netname:            LAOLIU-IPV6
+descr:              Peer with me at dn42@laoliu.icu
+country:            CN
+admin-c:            LAOLIU-DN42
+tech-c:             LAOLIU-DN42
+mnt-by:             LAOLIU-MNT
+status:             ASSIGNED
+cidr:               fd44:6b93:4eaa::/48
+source:             DN42
