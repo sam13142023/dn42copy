@@ -1,0 +1,9 @@
+domain:             soul.dn42
+admin-c:            SOUL-DN42
+tech-c:             SOUL-DN42
+mnt-by:             SOUL-MNT
+nserver:            ns1.soul.dn42 172.20.132.65
+nserver:            ns1.soul.dn42 fdeb:fe10:ccb9::2
+nserver:            ns2.soul.dn42 172.20.132.72
+nserver:            ns2.soul.dn42 fdeb:fe10:ccb9::3
+source:             DN42
