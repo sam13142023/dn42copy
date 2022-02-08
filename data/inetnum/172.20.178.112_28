@@ -1,0 +1,11 @@
+inetnum:            172.20.178.112 - 172.20.178.127
+netname:            XYS20071111-IPV4
+remarks:            Peer with me at xys20071111@hotmail.com.
+descr:              Peer with me at xys20071111@hotmail.com
+country:            CN
+admin-c:            XYS20071111-DN42
+tech-c:             XYS20071111-DN42
+mnt-by:             XYS20071111-MNT
+status:             ASSIGNED
+cidr:               172.20.178.112/28
+source:             DN42
