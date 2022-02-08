@@ -1,0 +1,5 @@
+route:              172.20.178.112/28
+descr:              Peer with me at xys20071111@hotmail.com
+mnt-by:             XYS20071111-MNT
+origin:             AS4242422535
+source:             DN42
