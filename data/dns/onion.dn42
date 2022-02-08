@@ -2,5 +2,6 @@ domain:             onion.dn42
 admin-c:            IRL-DN42
 tech-c:             IRL-DN42
 mnt-by:             IRL-MNT
+mnt-by:             THEQ-MNT
 nserver:            ns1.flat.dn42
 source:             DN42
