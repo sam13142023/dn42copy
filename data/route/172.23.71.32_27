@@ -1,0 +1,5 @@
+route:              172.23.71.32/27
+origin:             AS4242420703
+max-length:         29
+mnt-by:             SESQUIALTERA-MNT
+source:             DN42

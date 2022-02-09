@@ -1,0 +1,10 @@
+inet6num:           fda0:281f:5817:0000:0000:0000:0000:0000 - fda0:281f:5817:ffff:ffff:ffff:ffff:ffff
+cidr:               fda0:281f:5817::/48
+netname:            SESQUIALTERA-NET-V6
+admin-c:            MINGWERSEN-DN42
+tech-c:             MINGWERSEN-DN42
+mnt-by:             SESQUIALTERA-MNT
+status:             ASSIGNED
+nserver:            ns1.sesquialtera.dn42
+nserver:            ns2.sesquialtera.dn42
+source:             DN42

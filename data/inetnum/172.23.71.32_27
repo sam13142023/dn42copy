@@ -1,0 +1,10 @@
+inetnum:            172.23.71.32 - 172.23.71.63
+cidr:               172.23.71.32/27
+netname:            SESQUIALTERA-NET-V4
+admin-c:            MINGWERSEN-DN42
+tech-c:             MINGWERSEN-DN42
+mnt-by:             SESQUIALTERA-MNT
+status:             ASSIGNED
+nserver:            ns1.sesquialtera.dn42
+nserver:            ns2.sesquialtera.dn42
+source:             DN42
