@@ -3,4 +3,18 @@ as-name:            AS-ROGE
 admin-c:            ROGE-DN42
 tech-c:             ROGE-DN42
 mnt-by:             ROGE-MNT
+remarks:            
+remarks:            -------------------------------------------
+remarks:            roge.io's network          open for peering
+remarks:            -------------------------------------------
+remarks:            peering with wireguard, and bgp (ipv4/ipv6)
+remarks:            uk1 - 1000Mbps / 2TB
+remarks:            nl1 - 1000Mbps / 1TB
+remarks:            -------------------------------------------
+remarks:            contact via email              dn42@roge.io
+remarks:            contact via irc                roge@hackint
+remarks:            looking glass       https://lg.dn42.roge.io
+remarks:            website                https://dn42.roge.io
+remarks:            -------------------------------------------
+remarks:            
 source:             DN42
