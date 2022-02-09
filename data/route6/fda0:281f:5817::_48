@@ -1,0 +1,5 @@
+route6:             fda0:281f:5817::/48
+origin:             AS4242420703
+max-length:         56
+mnt-by:             SESQUIALTERA-MNT
+source:             DN42

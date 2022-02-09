@@ -1,0 +1,9 @@
+domain:             sesquialtera.dn42
+admin-c:            MINGWERSEN-DN42
+tech-c:             MINGWERSEN-DN42
+mnt-by:             SESQUIALTERA-MNT
+nserver:            ns1.sesquialtera.dn42 172.23.71.61
+nserver:            ns1.sesquialtera.dn42 fda0:281f:5817:53::1
+nserver:            ns2.sesquialtera.dn42 172.23.71.62
+nserver:            ns2.sesquialtera.dn42 fda0:281f:5817:53::2
+source:             DN42
