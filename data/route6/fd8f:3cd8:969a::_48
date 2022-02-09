@@ -1,0 +1,5 @@
+route6:             fd8f:3cd8:969a::/48
+origin:             AS4242422990
+max-length:         48
+mnt-by:             THECRAZYONE-MNT
+source:             DN42
