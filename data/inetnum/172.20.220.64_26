@@ -1,0 +1,9 @@
+inetnum:            172.20.220.64 - 172.20.220.127
+netname:            THECRAZYONE-IPV4
+country:            NL
+admin-c:            THECRAZYONE-DN42
+tech-c:             THECRAZYONE-DN42
+mnt-by:             THECRAZYONE-MNT
+status:             ASSIGNED
+cidr:               172.20.220.64/26
+source:             DN42

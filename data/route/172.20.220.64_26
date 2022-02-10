@@ -1,0 +1,4 @@
+route:              172.20.220.64/26
+origin:             AS4242422990
+mnt-by:             THECRAZYONE-MNT
+source:             DN42
