@@ -1,0 +1,9 @@
+domain:             const.dn42
+admin-c:            CONST-DN42
+tech-c:             CONST-DN42
+mnt-by:             CONST-MNT
+nserver:            sherry.const.dn42 172.23.93.100
+nserver:            sherry.const.dn42 fd33:9374:cce7::11
+nserver:            boreal.const.dn42 172.23.93.101
+nserver:            boreal.const.dn42 fd33:9374:cce7::12
+source:             DN42

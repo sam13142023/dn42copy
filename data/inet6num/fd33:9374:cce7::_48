@@ -1,0 +1,12 @@
+inet6num:           fd33:9374:cce7:0000:0000:0000:0000:0000 - fd33:9374:cce7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd33:9374:cce7::/48
+netname:            CONST-NETWORK
+descr:              CostiNet non-public DN42 network
+country:            GB
+admin-c:            CONST-DN42
+tech-c:             CONST-DN42
+mnt-by:             CONST-MNT
+status:             ASSIGNED
+nserver:            sherry.const.dn42
+nserver:            boreal.const.dn42
+source:             DN42
