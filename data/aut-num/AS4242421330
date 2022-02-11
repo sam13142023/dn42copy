@@ -1,0 +1,7 @@
+aut-num:            AS4242421330
+as-name:            HACKER-AS
+descr:              hacker's DN42 AS
+admin-c:            HACKER-DN42
+tech-c:             HACKER-DN42
+mnt-by:             HACKER-MNT
+source:             DN42
