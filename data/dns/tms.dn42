@@ -1,0 +1,9 @@
+domain:             tms.dn42
+admin-c:            TMS-DN42
+tech-c:             TMS-DN42
+mnt-by:             TMS-MNT
+nserver:            ns1.tms.dn42 172.23.31.29
+nserver:            ns1.tms.dn42 fd92:831:77ac:53::29
+nserver:            ns2.tms.dn42 172.23.31.30
+nserver:            ns2.tms.dn42 fd92:831:77ac:53::30
+source:             DN42

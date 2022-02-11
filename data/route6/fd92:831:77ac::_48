@@ -1,0 +1,5 @@
+route6:             fd92:831:77ac::/48
+origin:             AS4242420831
+max-length:         48
+mnt-by:             TMS-MNT
+source:             DN42

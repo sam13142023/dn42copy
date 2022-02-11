@@ -1,0 +1,7 @@
+mntner:             TMS-MNT
+admin-c:            TMS-DN42
+tech-c:             TMS-DN42
+mnt-by:             TMS-MNT
+source:             DN42
+auth:               pgp-fingerprint 68EE8EC1A538826FB990EE9CC9B0088354766938
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE96y+oMekzqbUKDD/6D/Ft+CEh4yAttBZ1bMJRUOSiVp6RNvwCglZuCUiMMe8PL4LKTIYBrpIWUGqlpWtifzNQuEa1Veqmk5eAosA6Dy/I+6kTh1w4nupfA8TEbqJ60KZUbo4O1O3Vxj5W6fFoB8FK/qmvL5TDYRE+TXeW04/d95koFQWAdoKOdkOZz7MlCiAScte49Cb7aUQBUvHR3YgbgcnXFcEaZEJ7JwT4htqh1TO8jD7lWDcIYjEs/x7gbtZ6fhxjCZfdlbb3mQIA6cbdNQw4Zw38V095utLEOrlzPZYT66IOdC2igu0e0R7Ce5KeNO35r1yoVKU0GDYFN37

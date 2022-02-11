@@ -1,0 +1,10 @@
+inetnum:            172.23.31.0 - 172.23.31.31
+cidr:               172.23.31.0/27
+netname:            TMS-IPV4
+admin-c:            TMS-DN42
+tech-c:             TMS-DN42
+mnt-by:             TMS-MNT
+nserver:            ns1.tms.dn42
+nserver:            ns2.tms.dn42
+status:             ASSIGNED
+source:             DN42
