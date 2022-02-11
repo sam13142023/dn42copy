@@ -1,0 +1,9 @@
+domain:             geeg.dn42
+admin-c:            QUAZU-DN42
+tech-c:             QUAZU-DN42
+mnt-by:             QUAZU-MNT
+nserver:            ns1.geeg.dn42 172.21.81.33
+nserver:            ns1.geeg.dn42 fd6f:125:c441:53::1
+nserver:            ns2.geeg.dn42 172.21.81.34
+nserver:            ns2.geeg.dn42 fd6f:125:c441:53::2
+source:             DN42

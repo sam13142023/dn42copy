@@ -1,0 +1,5 @@
+route6:             fd6f:125:c441::/48
+origin:             AS4242422737
+max-length:         48
+mnt-by:             QUAZU-MNT
+source:             DN42

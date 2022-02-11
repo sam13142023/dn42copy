@@ -1,0 +1,11 @@
+inet6num:           fd6f:0125:c441:0000:0000:0000:0000:0000 - fd6f:0125:c441:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:125:c441::/48
+netname:            QUAZU-NETWORK
+descr:              Network of QUAZU
+admin-c:            QUAZU-DN42
+tech-c:             QUAZU-DN42
+mnt-by:             QUAZU-MNT
+status:             ASSIGNED
+nserver:            ns1.geeg.dn42
+nserver:            ns2.geeg.dn42
+source:             DN42
