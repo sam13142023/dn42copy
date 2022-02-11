@@ -1,0 +1,8 @@
+inetnum:            172.23.177.0 - 172.23.177.15
+cidr:               172.23.177.0/28
+netname:            ALEXZ-NET
+admin-c:            ALEXZ-DN42
+tech-c:             ALEXZ-DN42
+mnt-by:             ALEXZ-MNT
+status:             ASSIGNED
+source:             DN42
