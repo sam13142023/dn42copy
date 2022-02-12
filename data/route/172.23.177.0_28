@@ -1,0 +1,4 @@
+route:              172.23.177.0/28
+origin:             AS4242422070
+mnt-by:             ALEXZ-MNT
+source:             DN42
