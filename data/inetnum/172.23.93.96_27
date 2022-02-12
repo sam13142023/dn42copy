@@ -1,0 +1,10 @@
+inetnum:            172.23.93.96 - 172.23.93.127
+cidr:               172.23.93.96/27
+netname:            CONST-NETIP4
+admin-c:            CONST-DN42
+tech-c:             CONST-DN42
+mnt-by:             CONST-MNT
+status:             ASSIGNED
+nserver:            sherry.const.dn42
+nserver:            boreal.const.dn42
+source:             DN42

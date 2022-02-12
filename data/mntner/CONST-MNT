@@ -1,0 +1,6 @@
+mntner:             CONST-MNT
+admin-c:            CONST-DN42
+tech-c:             CONST-DN42
+mnt-by:             CONST-MNT
+auth:               pgp-fingerprint 3395E46A866D1B39FF4D56AA4F95A89A1CB5F372
+source:             DN42

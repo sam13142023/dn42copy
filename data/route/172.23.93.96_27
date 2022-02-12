@@ -1,0 +1,4 @@
+route:              172.23.93.96/27
+origin:             AS4242420768
+mnt-by:             CONST-MNT
+source:             DN42
