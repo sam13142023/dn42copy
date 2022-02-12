@@ -1,6 +1,8 @@
 inetnum:            172.20.45.192 - 172.20.45.255
 cidr:               172.20.45.192/26
-netname:            HUAJITECH-NETWORK
+netname:            HUAJINET-TRANSIT
+descr:              HuajiTech Global Transit Network
+country:            CN
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH

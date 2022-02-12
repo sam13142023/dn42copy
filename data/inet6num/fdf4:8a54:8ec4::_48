@@ -1,7 +1,7 @@
-inet6num:           fdce:c37e:c37a:0000:0000:0000:0000:0000 - fdce:c37e:c37a:ffff:ffff:ffff:ffff:ffff
-cidr:               fdce:c37e:c37a::/48
-netname:            HUAJITECH-NETWORK
-descr:              Network of HuajiTech
+inet6num:           fdf4:8a54:8ec4:0000:0000:0000:0000:0000 - fdf4:8a54:8ec4:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:8a54:8ec4::/48
+netname:            HUAJINET-TRANSIT
+descr:              HuajiTech Global Transit Network
 country:            CN
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
