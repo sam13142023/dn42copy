@@ -1,6 +1,8 @@
 inet6num:           fd34:d5c3:6c4a:0000:0000:0000:0000:0000 - fd34:d5c3:6c4a:ffff:ffff:ffff:ffff:ffff
 netname:            HJM233-IPV6
 descr:              Peer with me at meijunhao233@gmail.com
+nserver:            ns1.blw.dn42
+nserver:            ns2.blw.dn42
 country:            CN
 admin-c:            HJM233-DN42
 tech-c:             HJM233-DN42
