@@ -1,0 +1,9 @@
+inetnum:            172.23.13.96 - 172.23.13.127
+cidr:               172.23.13.96/27
+netname:            HACKER-NETWORK
+descr:              hacker's network
+admin-c:            HACKER-DN42
+tech-c:             HACKER-DN42
+mnt-by:             HACKER-MNT
+status:             ASSIGNED
+source:             DN42

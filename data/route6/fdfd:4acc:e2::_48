@@ -1,0 +1,4 @@
+route6:             fdfd:4acc:e2::/48
+origin:             AS4242421330
+mnt-by:             HACKER-MNT
+source:             DN42
