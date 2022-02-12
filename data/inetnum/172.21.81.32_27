@@ -1,0 +1,10 @@
+inetnum:            172.21.81.32 - 172.21.81.63
+cidr:               172.21.81.32/27
+netname:            QUAZU-NETWORK
+admin-c:            QUAZU-DN42
+tech-c:             QUAZU-DN42
+mnt-by:             QUAZU-MNT
+status:             ASSIGNED
+nserver:            ns1.geeg.dn42
+nserver:            ns2.geeg.dn42
+source:             DN42
