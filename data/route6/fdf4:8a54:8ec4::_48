@@ -1,4 +1,4 @@
-route6:             fdce:c37e:c37a::/48
+route6:             fdf4:8a54:8ec4::/48
 origin:             AS4242420458
 max-length:         48
 mnt-by:             FUNNYSYC-MNT

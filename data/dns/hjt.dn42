@@ -4,5 +4,5 @@ tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH
 mnt-by:             FUNNYSYC-MNT
 nserver:            ns0.hjt.dn42 172.20.45.233
-nserver:            ns0.hjt.dn42 fdce:c37e:c37a:4245::233
+nserver:            ns0.hjt.dn42 fdf4:8a54:8ec4:233::1
 source:             DN42
