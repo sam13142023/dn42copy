@@ -1,0 +1,9 @@
+inetnum:            172.22.147.160 - 172.22.147.191
+cidr:               172.22.147.160/27
+netname:            IPPSEC-NETWORK
+country:            US
+admin-c:            IPPSEC-DN42
+tech-c:             IPPSEC-DN42
+mnt-by:             IPPSEC-MNT
+status:             ASSIGNED
+source:             DN42

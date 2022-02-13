@@ -1,0 +1,6 @@
+mntner:             IPPSEC-MNT
+admin-c:            IPPSEC-DN42
+tech-c:             IPPSEC-DN42
+mnt-by:             IPPSEC-MNT
+source:             DN42
+auth:               pgp-fingerprint 55AA85A6CC969B3D7601229DE37CC4501E2A2E85
