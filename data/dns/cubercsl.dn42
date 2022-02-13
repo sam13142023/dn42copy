@@ -1,0 +1,8 @@
+domain:             cubercsl.dn42
+admin-c:            CUBERCSL-DN42
+tech-c:             CUBERCSL-DN42
+mnt-by:             CUBERCSL-MNT
+nserver:            ns1.cubercsl.dn42 172.23.26.53
+nserver:            ns1.cubercsl.dn42 fd42:1c3b:2666::53
+remarks:            DNS hosted by cubercsl's net
+source:             DN42

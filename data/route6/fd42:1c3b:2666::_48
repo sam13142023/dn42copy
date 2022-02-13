@@ -1,0 +1,4 @@
+route6:             fd42:1c3b:2666::/48
+origin:             AS4242422078
+mnt-by:             CUBERCSL-MNT
+source:             DN42

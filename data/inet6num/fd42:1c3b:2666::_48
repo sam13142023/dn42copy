@@ -1,0 +1,11 @@
+inet6num:           fd42:1c3b:2666:0000:0000:0000:0000:0000 - fd42:1c3b:2666:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1c3b:2666::/48
+netname:            CUBERCSL-NET-IPV6
+country:            CN
+descr:              cubercsl's net
+nserver:            ns1.cubercsl.dn42
+admin-c:            CUBERCSL-DN42
+tech-c:             CUBERCSL-DN42
+mnt-by:             CUBERCSL-MNT
+status:             ASSIGNED
+source:             DN42
