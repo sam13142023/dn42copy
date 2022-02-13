@@ -1,0 +1,4 @@
+route:              172.22.147.160/27
+origin:             AS4242420513
+mnt-by:             IPPSEC-MNT
+source:             DN42
