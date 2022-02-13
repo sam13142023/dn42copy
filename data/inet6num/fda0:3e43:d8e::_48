@@ -1,0 +1,10 @@
+inet6num:           fda0:3e43:0d8e:0000:0000:0000:0000:0000 - fda0:3e43:0d8e:ffff:ffff:ffff:ffff:ffff
+netname:            SUNYZ-IPV6
+descr:              Sunyz Network. Peer with me at me@sunyanzheng.cn
+country:            CN
+admin-c:            SUNYZ-DN42
+tech-c:             SUNYZ-DN42
+mnt-by:             SUNYZ-MNT
+status:             ASSIGNED
+cidr:               fda0:3e43:d8e::/48
+source:             DN42
