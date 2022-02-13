@@ -1,0 +1,4 @@
+route:              172.23.26.0/26
+origin:             AS4242422078
+mnt-by:             CUBERCSL-MNT
+source:             DN42

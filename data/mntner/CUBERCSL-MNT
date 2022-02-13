@@ -1,0 +1,6 @@
+mntner:             CUBERCSL-MNT
+admin-c:            CUBERCSL-DN42
+tech-c:             CUBERCSL-DN42
+mnt-by:             CUBERCSL-MNT
+auth:               pgp-fingerprint 729BC963321CB511A00963D65E44F076C0042771
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.26.0 - 172.23.26.63
+cidr:               172.23.26.0/26
+netname:            CUBERCSL-NET-IPV4
+descr:              cubercsl's net
+country:            CN
+nserver:            ns1.cubercsl.dn42
+admin-c:            CUBERCSL-DN42
+tech-c:             CUBERCSL-DN42
+mnt-by:             CUBERCSL-MNT
+status:             ASSIGNED
+source:             DN42
