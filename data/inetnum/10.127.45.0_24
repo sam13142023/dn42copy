@@ -1,0 +1,8 @@
+inetnum:            10.127.45.0 - 10.127.45.255
+cidr:               10.127.45.0/24
+netname:            HuajiTech-Network Interconnectivity
+admin-c:            FUNNYSYC-NEONETWORK
+tech-c:             FUNNYSYC-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
