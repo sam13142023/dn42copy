@@ -1,0 +1,8 @@
+inetnum:            172.23.59.96 - 172.23.59.127
+cidr:               172.23.59.96/27
+netname:            QLEX-NETWORK
+admin-c:            QLEX-DN42
+tech-c:             QLEX-DN42
+mnt-by:             QLEX-MNT
+status:             ASSIGNED
+source:             DN42
