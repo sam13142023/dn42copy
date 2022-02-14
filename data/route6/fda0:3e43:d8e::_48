@@ -1,0 +1,5 @@
+route6:             fda0:3e43:d8e::/48
+descr:              Sunyz Network. Peer with me at me@sunyanzheng.cn
+origin:             AS4242422650
+mnt-by:             SUNYZ-MNT
+source:             DN42
