@@ -1,0 +1,9 @@
+inet6num:           fd97:c51c:3cbc:0000:0000:0000:0000:0000 - fd97:c51c:3cbc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd97:c51c:3cbc::/48
+netname:            ODYSSEUS-NETWORK
+descr:              Reset2099 network
+admin-c:            ODYSSEUS-DN42
+tech-c:             ODYSSEUS-DN42
+mnt-by:             ODYSSEUS-MNT
+status:             ASSIGNED
+source:             DN42

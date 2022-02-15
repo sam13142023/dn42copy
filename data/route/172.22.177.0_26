@@ -1,0 +1,4 @@
+route:              172.22.177.0/26
+origin:             AS4242423554
+mnt-by:             ODYSSEUS-MNT
+source:             DN42
