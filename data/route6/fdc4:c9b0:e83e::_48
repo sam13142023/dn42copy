@@ -1,0 +1,5 @@
+route6:             fdc4:c9b0:e83e::/48
+origin:             AS4242423868
+max-length:         48
+mnt-by:             CHIMON-MNT
+source:             DN42
