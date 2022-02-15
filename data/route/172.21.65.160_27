@@ -1,0 +1,4 @@
+route:              172.21.65.160/27
+origin:             AS4242423868
+mnt-by:             CHIMON-MNT
+source:             DN42
