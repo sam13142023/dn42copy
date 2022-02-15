@@ -1,0 +1,5 @@
+route6:             fdec:4f96:8be1::/48
+origin:             AS4242422164
+max-length:         48
+mnt-by:             XIAOXI654-MNT
+source:             DN42
