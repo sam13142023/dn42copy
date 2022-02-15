@@ -1,0 +1,6 @@
+mntner:             ODYSSEUS-MNT
+admin-c:            ODYSSEUS-DN42
+tech-c:             ODYSSEUS-DN42
+mnt-by:             ODYSSEUS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9fUTT4MMbiVAqFKFzGXAFp/j9ZaebRpMeANJne+7ZFiTFcT3Kly6cG/Gr9FLSAYVOBix0d8KMNGFuRneTvRhmsLBNvJRwBAhF6RTX4fm0xQNA+2AdLN+pG9hsKfrsApMzf1/b9A2RxfEG80k6nBed7aCqdFMpH02aP2xnX/ZDCJ4ttuRjjnSUXrFHS+KtcTjddB+StX476eoyaJ7FzneoEr0++bizVu4Qufi4Rh5Bp4tBYk7Eua5tcxuDhtVRodz6/9TSL5JO49IZbyKUYMexQp5j9ZS4Xnx6Vh2TsniBOjis+TIkTfPEzS6j+D0y2RJ44Bf5rPDqPBoTsRNfv/t8jCo8UTuu+lPvKvMK+UV9f0oQoha0301QdIjOgsPCLUdTgRa7MpsbD7yeGG4eG3Rr2s4k78TnZqDkd0+4CkVA914HfEvOBzwW92YML2pyjMIRgSkGejyrk/JORZ1g3ef7YXFKJEV5bA+y5bZHeKtb5tQYPel76EBCNq/he7zfOYM= odysseus@backboxpc
+source:             DN42

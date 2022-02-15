@@ -1,0 +1,5 @@
+route6:             fd97:c51c:3cbc::/48
+origin:             AS4242423554
+max-length:         48
+mnt-by:             ODYSSEUS-MNT
+source:             DN42

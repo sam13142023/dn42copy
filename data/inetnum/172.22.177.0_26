@@ -1,0 +1,9 @@
+inetnum:            172.22.177.0 - 172.22.177.63
+cidr:               172.22.177.0/26
+netname:            ODYSSEUS-NETWORK
+descr:              Reset2099 Network
+admin-c:            ODYSSEUS-DN42
+tech-c:             ODYSSEUS-DN42
+mnt-by:             ODYSSEUS-MNT
+status:             ASSIGNED
+source:             DN42
