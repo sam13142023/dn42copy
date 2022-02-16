@@ -1,0 +1,11 @@
+inet6num:           fd42:2022:dead:0000:0000:0000:0000:0000 - fd42:2022:dead:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2022:dead::/48
+netname:            TRAILMIX-NETWORK6
+descr:              Trailmix IPv6 Network
+country:            US
+admin-c:            TRILOM-DN42
+tech-c:             TRILOM-DN42
+org:                ORG-TRAILMIX
+mnt-by:             TRILOM-MNT
+status:             ASSIGNED
+source:             DN42

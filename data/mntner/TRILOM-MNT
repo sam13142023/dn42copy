@@ -1,0 +1,6 @@
+mntner:             TRILOM-MNT
+admin-c:            TRILOM-DN42
+tech-c:             TRILOM-DN42
+mnt-by:             TRILOM-MNT
+auth:               pgp-fingerprint 7CDF9858C9533CACE2E63CEBE19EDF7D9FA10C37
+source:             DN42
