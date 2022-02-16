@@ -1,0 +1,4 @@
+route:              172.20.233.192/26
+origin:             AS4242420212
+mnt-by:             BLING-MNT
+source:             DN42

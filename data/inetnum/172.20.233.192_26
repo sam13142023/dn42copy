@@ -1,0 +1,12 @@
+inetnum:            172.20.233.192 - 172.20.233.255
+cidr:               172.20.233.192/26
+netname:            BLING-NETWORK-V4
+descr:              Bling Network IPv4 Block
+nserver:            ns1.blw.dn42
+nserver:            ns2.blw.dn42
+country:            CN
+admin-c:            PAIZI-DN42
+tech-c:             PAIZI-DN42
+mnt-by:             BLING-MNT
+status:             ASSIGNED
+source:             DN42
