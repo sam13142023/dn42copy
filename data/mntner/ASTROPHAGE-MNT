@@ -1,0 +1,6 @@
+mntner:             ASTROPHAGE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINItTla0OYqfIRZlXXpemDIqVNqZf9aIehT0WUJgZK+E
+admin-c:            ASTROPHAGE-DN42
+tech-c:             ASTROPHAGE-DN42
+mnt-by:             ASTROPHAGE-MNT
+source:             DN42

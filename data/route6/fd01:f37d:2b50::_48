@@ -1,0 +1,5 @@
+route6:             fd01:f37d:2b50::/48
+origin:             AS4242420843
+max-length:         48
+mnt-by:             ASTROPHAGE-MNT
+source:             DN42

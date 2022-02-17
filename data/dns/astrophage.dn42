@@ -1,0 +1,7 @@
+domain:             astrophage.dn42
+admin-c:            ASTROPHAGE-DN42
+tech-c:             ASTROPHAGE-DN42
+mnt-by:             ASTROPHAGE-MNT
+nserver:            ns1.astrophage.dn42 172.23.111.81
+nserver:            ns1.astrophage.dn42 fd01:f37d:2b50::1
+source:             DN42
