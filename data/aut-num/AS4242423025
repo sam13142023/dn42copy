@@ -4,4 +4,11 @@ admin-c:            EDENJOHNSON-DN42
 tech-c:             EDENJOHNSON-DN42
 org:                ORG-EDENLINK
 mnt-by:             EDENLINK-MNT
+remarks:            ---------------------------------
+remarks:            | EdenLink Community Networking |
+remarks:            | Experimental Network on dn42  |
+remarks:            | Open For Peering              |
+remarks:            | More Information On           |
+remarks:            | https://edenlink.cyou         |
+remarks:            ------No information below-------
 source:             DN42
