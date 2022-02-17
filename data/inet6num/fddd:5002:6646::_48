@@ -7,5 +7,6 @@ admin-c:            EDENJOHNSON-DN42
 tech-c:             EDENJOHNSON-DN42
 org:                ORG-EDENLINK
 mnt-by:             EDENLINK-MNT
+nserver:            ns.elink.dn42
 status:             ASSIGNED
 source:             DN42
