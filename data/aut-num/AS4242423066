@@ -1,0 +1,7 @@
+aut-num:            AS4242423066
+as-name:            HG-AS
+descr:              Hello,
+admin-c:            HG-DN42
+tech-c:             HG-DN42
+mnt-by:             HG-MNT
+source:             DN42

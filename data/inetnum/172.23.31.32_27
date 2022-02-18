@@ -1,0 +1,9 @@
+inetnum:            172.23.31.32 - 172.23.31.63
+cidr:               172.23.31.32/27
+netname:            HG-IPV4
+admin-c:            HG-DN42
+tech-c:             HG-DN42
+mnt-by:             HG-MNT
+nserver:            ns1.hg.dn42
+status:             ASSIGNED
+source:             DN42
