@@ -1,0 +1,4 @@
+route:              172.23.111.80/28
+origin:             AS4242420843
+mnt-by:             ASTROPHAGE-MNT
+source:             DN42

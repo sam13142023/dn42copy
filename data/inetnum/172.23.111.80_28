@@ -1,0 +1,10 @@
+inetnum:            172.23.111.80 - 172.23.111.95
+cidr:               172.23.111.80/28
+netname:            ASTROPHAGE-NET
+admin-c:            ASTROPHAGE-DN42
+tech-c:             ASTROPHAGE-DN42
+mnt-by:             ASTROPHAGE-MNT
+status:             ASSIGNED
+source:             DN42
+country:            US
+nserver:            ns1.astrophage.dn42
