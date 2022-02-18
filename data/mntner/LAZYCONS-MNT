@@ -1,0 +1,6 @@
+mntner:             LAZYCONS-MNT
+admin-c:            LAZYCONS-DN42
+tech-c:             LAZYCONS-DN42
+mnt-by:             LAZYCONS-MNT
+auth:               pgp-fingerprint F96B88D154B764A17D797FA6DB03FFA6499AE4FF
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             lazycons.dn42
+admin-c:            LAZYCONS-DN42
+tech-c:             LAZYCONS-DN42
+mnt-by:             LAZYCONS-MNT
+nserver:            ns1.lazycons.dn42 172.23.242.65
+nserver:            ns1.lazycons.dn42 fd69:23:420:53::1
+nserver:            ns2.lazycons.dn42 172.23.242.66
+nserver:            ns2.lazycons.dn42 fd69:23:420:53::2
+source:             DN42

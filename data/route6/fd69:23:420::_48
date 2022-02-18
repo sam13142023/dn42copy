@@ -1,0 +1,5 @@
+route6:             fd69:23:420::/48
+origin:             AS4242422209
+max-length:         48
+mnt-by:             LAZYCONS-MNT
+source:             DN42
