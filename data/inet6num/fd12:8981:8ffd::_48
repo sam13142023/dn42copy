@@ -1,0 +1,9 @@
+inet6num:           fd12:8981:8ffd:0000:0000:0000:0000:0000 - fd12:8981:8ffd:ffff:ffff:ffff:ffff:ffff
+netname:            HG-IPV6
+admin-c:            HG-DN42
+tech-c:             HG-DN42
+mnt-by:             HG-MNT
+nserver:            ns1.hg.dn42
+status:             ASSIGNED
+cidr:               fd12:8981:8ffd::/48
+source:             DN42

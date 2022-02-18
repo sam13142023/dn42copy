@@ -1,0 +1,4 @@
+route6:             fd12:8981:8ffd::/48
+origin:             AS4242423066
+mnt-by:             HG-MNT
+source:             DN42

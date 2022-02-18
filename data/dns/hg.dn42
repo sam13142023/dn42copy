@@ -1,0 +1,7 @@
+domain:             hg.dn42
+admin-c:            HG-DN42
+tech-c:             HG-DN42
+mnt-by:             HG-MNT
+nserver:            ns1.hg.dn42 172.23.31.33
+nserver:            ns1.hg.dn42 fd12:8981:8ffd::1
+source:             DN42
