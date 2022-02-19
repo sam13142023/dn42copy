@@ -1,0 +1,4 @@
+route:              172.22.144.0/26
+origin:             AS4242423691
+mnt-by:             TRILOM-MNT
+source:             DN42

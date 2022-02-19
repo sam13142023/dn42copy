@@ -1,0 +1,13 @@
+inetnum:            172.22.144.0 - 172.22.144.63
+cidr:               172.22.144.0/26
+netname:            TRAILMIX-NETWORK4
+descr:              Trailmix IPv4 Network
+country:            US
+admin-c:            TRILOM-DN42
+tech-c:             TRILOM-DN42
+org:                ORG-TRAILMIX
+mnt-by:             TRILOM-MNT
+status:             ASSIGNED
+nserver:            ns1.trailmix.dn42
+nserver:            ns2.trailmix.dn42
+source:             DN42

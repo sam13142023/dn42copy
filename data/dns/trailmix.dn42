@@ -1,0 +1,10 @@
+domain:             trailmix.dn42
+admin-c:            TRILOM-DN42
+tech-c:             TRILOM-DN42
+org:                ORG-TRAILMIX
+mnt-by:             TRILOM-MNT
+nserver:            ns1.trailmix.dn42 172.22.144.1
+nserver:            ns1.trailmix.dn42 fd42:2022:dead:53::1
+nserver:            ns2.trailmix.dn42 172.22.144.2
+nserver:            ns2.trailmix.dn42 fd42:2022:dead:53::2
+source:             DN42

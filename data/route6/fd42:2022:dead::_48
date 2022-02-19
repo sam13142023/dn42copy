@@ -1,0 +1,5 @@
+route6:             fd42:2022:dead::/48
+origin:             AS4242423691
+max-length:         48
+mnt-by:             TRILOM-MNT
+source:             DN42
