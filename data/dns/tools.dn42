@@ -1,0 +1,8 @@
+domain:             tools.dn42
+descr:              bgp.tools but for dn42
+admin-c:            BENJ-DN42
+tech-c:             BENJ-DN42
+mnt-by:             BNJO-MNT
+nserver:            ns.tools.dn42 172.21.82.49
+nserver:            ns.tools.dn42 fd04:840d:30aa::53
+source:             DN42
