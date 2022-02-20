@@ -1,0 +1,7 @@
+domain:             roth-wine.dn42
+admin-c:            ROTHWINE-DN42
+tech-c:             ROTHWINE-DN42
+mnt-by:             ROTHWINE-MNT
+nserver:            ns1.roth-wine.dn42 172.23.224.62
+nserver:            ns1.roth-wine.dn42 fdd2:6522:b8f3::ff
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.23.224.32 - 172.23.224.63
+cidr:               172.23.224.32/27
+netname:            ROTHWINE-NETWORK
+nserver:            ns1.roth-wine.dn42
+admin-c:            ROTHWINE-DN42
+tech-c:             ROTHWINE-DN42
+mnt-by:             ROTHWINE-MNT
+status:             ASSIGNED
+source:             DN42

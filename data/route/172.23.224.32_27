@@ -1,0 +1,4 @@
+route:              172.23.224.32/27
+origin:             AS4242422861
+mnt-by:             ROTHWINE-MNT
+source:             DN42
