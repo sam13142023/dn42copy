@@ -1,0 +1,4 @@
+route:              172.20.46.128/27
+origin:             AS4242421402
+mnt-by:             BPYE-MNT
+source:             DN42

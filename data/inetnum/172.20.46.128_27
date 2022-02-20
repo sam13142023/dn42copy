@@ -1,0 +1,9 @@
+inetnum:            172.20.46.128 - 172.20.46.159
+cidr:               172.20.46.128/27
+netname:            CURLYBRACKET-NET
+country:            CA
+admin-c:            BPYE-DN42
+tech-c:             BPYE-DN42
+mnt-by:             BPYE-MNT
+status:             ASSIGNED
+source:             DN42
