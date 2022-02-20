@@ -1,0 +1,9 @@
+inet6num:           fded:f11e:e161:0000:0000:0000:0000:0000 - fded:f11e:e161:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:f11e:e161::/48
+netname:            CURLYBRACKET-NET
+country:            CA
+admin-c:            BPYE-DN42
+tech-c:             BPYE-DN42
+mnt-by:             BPYE-MNT
+status:             ASSIGNED
+source:             DN42

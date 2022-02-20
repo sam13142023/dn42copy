@@ -1,0 +1,4 @@
+route6:             fded:f11e:e161::/48
+origin:             AS4242421402
+mnt-by:             BPYE-MNT
+source:             DN42
