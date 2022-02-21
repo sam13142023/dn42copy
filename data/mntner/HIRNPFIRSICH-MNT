@@ -1,0 +1,6 @@
+mntner:             HIRNPFIRSICH-MNT
+admin-c:            HIRNPFIRSICH-DN42
+tech-c:             HIRNPFIRSICH-DN42
+mnt-by:             HIRNPFIRSICH-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAC7oMWdh0Gt175Pjs0EB08iQbkxUbewiJf9OvC768wA
+source:             DN42

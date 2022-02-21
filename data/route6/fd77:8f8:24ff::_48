@@ -1,0 +1,5 @@
+route6:             fd77:8f8:24ff::/48
+origin:             AS4242420940
+max-length:         48
+mnt-by:             HIRNPFIRSICH-MNT
+source:             DN42

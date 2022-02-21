@@ -1,0 +1,10 @@
+inet6num:           fd77:08f8:24ff:0000:0000:0000:0000:0000 - fd77:08f8:24ff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd77:8f8:24ff::/48
+netname:            HIRNPFIRSICH-NETWORK
+descr:              Network of HIRNPFIRSICH
+country:            DE
+admin-c:            HIRNPFIRSICH-DN42
+tech-c:             HIRNPFIRSICH-DN42
+mnt-by:             HIRNPFIRSICH-MNT
+status:             ASSIGNED
+source:             DN42
