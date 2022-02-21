@@ -1,0 +1,9 @@
+domain:             ns3it.dn42
+admin-c:            NS68-DN42
+tech-c:             NS68-DN42
+mnt-by:             NS68-MNT
+nserver:            ns1.ns3it.dn42 172.23.223.65
+nserver:            ns1.ns3it.dn42 fdff:5963:5406:53::1
+nserver:            ns2.ns3it.dn42 172.23.223.66
+nserver:            ns2.ns3it.dn42 fdff:5963:5406:53::2
+source:             DN42
