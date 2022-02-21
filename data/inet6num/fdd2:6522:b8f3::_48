@@ -1,0 +1,11 @@
+inet6num:           fdd2:6522:b8f3:0000:0000:0000:0000:0000 - fdd2:6522:b8f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd2:6522:b8f3::/48
+netname:            ROTHWINE-NETWORK
+nserver:            ns1.roth-wine.dn42
+descr:              Network of roth-wine
+country:            DE
+admin-c:            ROTHWINE-DN42
+tech-c:             ROTHWINE-DN42
+mnt-by:             ROTHWINE-MNT
+status:             ASSIGNED
+source:             DN42

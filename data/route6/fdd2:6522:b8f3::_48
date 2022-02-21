@@ -1,0 +1,5 @@
+route6:             fdd2:6522:b8f3::/48
+origin:             AS4242422861
+max-length:         48
+mnt-by:             ROTHWINE-MNT
+source:             DN42
