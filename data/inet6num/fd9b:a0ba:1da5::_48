@@ -1,0 +1,11 @@
+inet6num:           fd9b:a0ba:1da5:0000:0000:0000:0000:0000 - fd9b:a0ba:1da5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9b:a0ba:1da5::/48
+netname:            STROEBS-NETWORK
+descr:              Network of STROEBS
+country:            GB
+admin-c:            STROEBS-DN42
+tech-c:             STROEBS-DN42
+mnt-by:             STROEBS-MNT
+status:             ASSIGNED
+nserver:            neo.stroebs.dn42
+source:             DN42

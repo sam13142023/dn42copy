@@ -1,0 +1,6 @@
+mntner:             STROEBS-MNT
+admin-c:            STROEBS-DN42
+tech-c:             STROEBS-DN42
+mnt-by:             STROEBS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA7BWFRje+hPjGW4zrljhknXgSv6c/P7zQNW09qDeZYamljFH/wDSrstR7GYzXRh1R90s0NTeqkQ5mMIse1D+hgrAUhypxa2UTG96dWS8X7QY6FLPGrdZDed8Y/KdJxxrq17U4ivDLnnXLhzauoqfoF7BUaRh5P87TbooOSD/JhaaE+1kah0BDc0Li1y/lwzp6HaKhqupMpC4HyJ1YFqIQq+A+jGPwk0K9q7z2erp+vdhkWtB7c94ANIcLEBpjYk+wM+AOW7mr/Hb+fuL+rvg5/fFmegch01HWVdApGYlHwxXQRD6li779HulO8Y12E61QPh6UxQJrQv6aTfssNRaaNQ==
+source:             DN42
