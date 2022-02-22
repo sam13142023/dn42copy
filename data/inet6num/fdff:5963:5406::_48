@@ -7,4 +7,6 @@ tech-c:             NS68-DN42
 mnt-by:             NS68-MNT
 status:             ASSIGNED
 cidr:               fdff:5963:5406::/48
+nserver:            ns1.ns3it.dn42
+nserver:            ns2.ns3it.dn42
 source:             DN42
