@@ -1,0 +1,5 @@
+route6:             fd9b:a0ba:1da5::/48
+origin:             AS4242423707
+max-length:         48
+mnt-by:             STROEBS-MNT
+source:             DN42

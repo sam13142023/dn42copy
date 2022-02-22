@@ -1,0 +1,7 @@
+domain:             stroebs.dn42
+admin-c:            STROEBS-DN42
+tech-c:             STROEBS-DN42
+mnt-by:             STROEBS-MNT
+nserver:            neo.stroebs.dn42 172.20.177.225
+nserver:            neo.stroebs.dn42 fd9b:a0ba:1da5:53::1
+source:             DN42
