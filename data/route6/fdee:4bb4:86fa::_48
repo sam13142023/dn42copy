@@ -1,0 +1,5 @@
+route6:             fdee:4bb4:86fa::/48
+origin:             AS4242422838
+max-length:         48
+mnt-by:             GEMINIZ0-MNT
+source:             DN42

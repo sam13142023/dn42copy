@@ -1,0 +1,10 @@
+inet6num:           fdee:4bb4:86fa:0000:0000:0000:0000:0000 - fdee:4bb4:86fa:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:4bb4:86fa::/48
+netname:            GEMINIZ0-NETWORK
+descr:              Network of GEMINIZ0
+country:            Mexico
+admin-c:            GEMINIZ0-DN42
+tech-c:             GEMINIZ0-DN42
+mnt-by:             GEMINIZ0-MNT
+status:             ASSIGNED
+source:             DN42
