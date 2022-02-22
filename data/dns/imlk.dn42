@@ -2,6 +2,7 @@ domain:             imlk.dn42
 admin-c:            IMLK-DN42
 tech-c:             IMLK-DN42
 mnt-by:             IMLK-MNT
-nserver:            ns1.imlk.dn42 172.22.96.1
-nserver:            ns1.imlk.dn42 fd42:d2aa:8a0e::1
+nserver:            ns1.imlk.dn42 172.22.96.4
+nserver:            ns1.imlk.dn42 fd42:d2aa:8a0e::4
+ds-rdata:           31267 13 2 7a932e771b7d65f2989d06c3382cfc83ec92dc77c3b84668b3388aa371ca9108
 source:             DN42
