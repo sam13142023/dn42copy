@@ -1,0 +1,10 @@
+inet6num:           fdcf:fabc:3c41:0000:0000:0000:0000:0000 - fdcf:fabc:3c41:ffff:ffff:ffff:ffff:ffff
+netname:            MOLMOE-IPV6
+descr:              https://dn42.mol.moe/
+country:            CN
+admin-c:            MOL-DN42
+tech-c:             MOL-DN42
+mnt-by:             MOL-MNT
+status:             ASSIGNED
+cidr:               fdcf:fabc:3c41::/48
+source:             DN42
