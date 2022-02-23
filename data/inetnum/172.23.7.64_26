@@ -1,0 +1,11 @@
+inetnum:            172.23.7.64 - 172.23.7.127
+netname:            MOLMOE-IPV4
+remarks:            https://dn42.mol.moe/
+descr:              https://dn42.mol.moe/
+country:            CN
+admin-c:            MOL-DN42
+tech-c:             MOL-DN42
+mnt-by:             MOL-MNT
+status:             ASSIGNED
+cidr:               172.23.7.64/26
+source:             DN42
