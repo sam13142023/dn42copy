@@ -1,0 +1,9 @@
+domain:             xiaoxi654.dn42
+admin-c:            XIAOXI654-DN42
+tech-c:             XIAOXI654-DN42
+mnt-by:             XIAOXI654-MNT
+nserver:            ns1.xiaoxi654.dn42 172.21.99.89
+nserver:            ns1.xiaoxi654.dn42 fdec:4f96:8be1::1
+nserver:            ns2.xiaoxi654.dn42 172.21.99.92
+nserver:            ns2.xiaoxi654.dn42 fdec:4f96:8be1::2
+source:             DN42

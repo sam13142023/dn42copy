@@ -3,4 +3,6 @@ as-name:            XIAOXI654-AS
 admin-c:            XIAOXI654-DN42
 tech-c:             XIAOXI654-DN42
 mnt-by:             XIAOXI654-MNT
+descr:              Xiaoxi654's DN42 Network
+remarks:            Contract me at xiaoxi654@outlook.com
 source:             DN42
