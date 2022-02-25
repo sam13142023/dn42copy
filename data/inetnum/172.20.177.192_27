@@ -1,0 +1,10 @@
+inetnum:            172.20.177.192 - 172.20.177.223
+cidr:               172.20.177.192/27
+netname:            SPREITZER-V4-1-NET
+country:            CH
+admin-c:            SPREITZER-DN42
+tech-c:             SPREITZER-DN42
+mnt-by:             SPREITZER-MNT
+status:             ASSIGNED
+nserver:            ns1.spreitzer.dn42
+source:             DN42
