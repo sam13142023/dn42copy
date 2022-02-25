@@ -1,0 +1,7 @@
+aut-num:            AS4242423133
+as-name:            GAY-AS
+descr:              Route Gay Dn42 Network
+admin-c:            GAY-DN42
+tech-c:             GAY-DN42
+mnt-by:             GAY-MNT
+source:             DN42
