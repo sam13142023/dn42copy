@@ -4,5 +4,5 @@ admin-c:            SPREITZER-DN42
 tech-c:             SPREITZER-DN42
 mnt-by:             SPREITZER-MNT
 nserver:            ns1.spreitzer.dn42 fd42:7:7::1
-nserver:            ns1.spreitzer.dn42 172.20.12.130
+nserver:            ns1.spreitzer.dn42 172.20.177.193
 source:             DN42
