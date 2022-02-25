@@ -1,0 +1,5 @@
+route6:             fdc8:9aa4:9b18::/48
+origin:             AS4242423133
+max-length:         64
+mnt-by:             GAY-MNT
+source:             DN42

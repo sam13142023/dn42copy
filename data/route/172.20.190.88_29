@@ -1,0 +1,4 @@
+route:              172.20.190.88/29
+origin:             AS4242423133
+mnt-by:             GAY-MNT
+source:             DN42

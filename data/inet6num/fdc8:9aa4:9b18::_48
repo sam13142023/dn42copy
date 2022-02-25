@@ -1,0 +1,9 @@
+inet6num:           fdc8:9aa4:9b18:0000:0000:0000:0000:0000 - fdc8:9aa4:9b18:ffff:ffff:ffff:ffff:ffff
+netname:            ROUTE6-GAY
+country:            HK
+admin-c:            GAY-DN42
+tech-c:             GAY-DN42
+mnt-by:             GAY-MNT
+status:             ASSIGNED
+cidr:               fdc8:9aa4:9b18::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.190.88 - 172.20.190.95
+netname:            ROUTE-GAY
+country:            HK
+admin-c:            GAY-DN42
+tech-c:             GAY-DN42
+mnt-by:             GAY-MNT
+status:             ASSIGNED
+cidr:               172.20.190.88/29
+source:             DN42
