@@ -1,0 +1,9 @@
+inetnum:            172.23.71.64 - 172.23.71.127
+cidr:               172.23.71.64/26
+netname:            KCRL-NETWORK
+admin-c:            SPICY-DN42
+tech-c:             SPICY-DN42
+org:                ORG-KCRL
+mnt-by:             SPICY-MNT
+status:             ASSIGNED
+source:             DN42
