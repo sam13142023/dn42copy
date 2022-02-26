@@ -1,0 +1,4 @@
+route:              172.23.71.64/26
+origin:             AS4242421763
+mnt-by:             SPICY-MNT
+source:             DN42
