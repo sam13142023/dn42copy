@@ -1,0 +1,8 @@
+inetnum:            10.127.186.0 - 10.127.186.255
+cidr:               10.127.186.0/24
+netname:            186526-block-v4
+admin-c:            186526-NEONETWORK
+tech-c:             186526-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
