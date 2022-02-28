@@ -1,0 +1,5 @@
+route6:             fd14:d14d:14d1::/48
+origin:             AS210074
+max-length:         48
+mnt-by:             BAS-DINGEMANS-99-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             dingemans.dn42
+admin-c:            BAS-DINGEMANS-99-DN42
+tech-c:             BAS-DINGEMANS-99-DN42
+mnt-by:             BAS-DINGEMANS-99-MNT
+nserver:            ns1.dingemans.dn42 172.23.89.130
+nserver:            ns1.dingemans.dn42 fd14:d14d:14d1::53
+nserver:            ns2.dingemans.dn42 172.23.89.131
+nserver:            ns2.dingemans.dn42 fd14:d14d:14d1::54
+source:             DN42

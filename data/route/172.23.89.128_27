@@ -1,0 +1,4 @@
+route:              172.23.89.128/27
+origin:             AS210074
+mnt-by:             BAS-DINGEMANS-99-MNT
+source:             DN42
