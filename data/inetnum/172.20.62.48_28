@@ -1,0 +1,11 @@
+inetnum:            172.20.62.48 - 172.20.62.63
+netname:            COELACANTHUS-IPV4
+remarks:            Peer with me at coelacanthus@outlook.com
+descr:              Peer with me at coelacanthus@outlook.com
+country:            CN
+admin-c:            COELACANTHUS-DN42
+tech-c:             COELACANTHUS-DN42
+mnt-by:             COELACANTHUS-MNT
+status:             ASSIGNED
+cidr:               172.20.62.48/28
+source:             DN42

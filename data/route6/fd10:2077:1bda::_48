@@ -1,0 +1,5 @@
+route6:             fd10:2077:1bda::/48
+descr:              Peer with me at coelacanthus@outlook.com
+origin:             AS4242420704
+mnt-by:             COELACANTHUS-MNT
+source:             DN42

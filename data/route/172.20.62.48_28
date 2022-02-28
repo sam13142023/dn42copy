@@ -1,0 +1,5 @@
+route:              172.20.62.48/28
+descr:              Peer with me at coelacanthus@outlook.com
+origin:             AS4242420704
+mnt-by:             COELACANTHUS-MNT
+source:             DN42
