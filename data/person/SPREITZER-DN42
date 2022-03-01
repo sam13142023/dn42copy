@@ -1,7 +1,12 @@
 person:             SPREITZER-DN42
+address:            Sascha Spreitzer
+address:            8050 Zurich
+address:            SWITZERLAND
 e-mail:             sascha+dn42@spreitzer.ch
+e-mail:             sascha@spreitzer.ch
 nic-hdl:            SPREITZER-DN42
 abuse-mailbox:      sascha+dn42@spreitzer.ch
-contact:            telegram:sspreitzer
+contact:            irc:sspreitzer@hackint
 mnt-by:             SPREITZER-MNT
 source:             DN42
+remarks:            In case of emergency send an email.
