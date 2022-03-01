@@ -1,0 +1,10 @@
+inet6num:           fd14:d14d:14d1:0000:0000:0000:0000:0000 - fd14:d14d:14d1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd14:d14d:14d1::/48
+netname:            BAS-DINGEMANS-NET
+admin-c:            BAS-DINGEMANS-99-DN42
+tech-c:             BAS-DINGEMANS-99-DN42
+mnt-by:             BAS-DINGEMANS-99-MNT
+status:             ASSIGNED
+nserver:            ns1.dingemans.dn42
+nserver:            ns2.dingemans.dn42
+source:             DN42
