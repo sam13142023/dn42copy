@@ -1,0 +1,10 @@
+inet6num:           fd5b:a2b0:ca38:0000:0000:0000:0000:0000 - fd5b:a2b0:ca38:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5b:a2b0:ca38::/48
+netname:            SERVERFORGE-NETWORK
+descr:              Network of ServerForge.org
+country:            US
+admin-c:            SERVERFORGE-DN42
+tech-c:             SERVERFORGE-DN42
+mnt-by:             SERVERFORGE-MNT
+status:             ASSIGNED
+source:             DN42

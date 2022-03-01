@@ -1,0 +1,8 @@
+inetnum:            172.23.105.96 - 172.23.105.127
+cidr:               172.23.105.96/27
+netname:            SERVERFORGE-NETWORK
+admin-c:            SERVERFORGE-DN42
+tech-c:             SERVERFORGE-DN42
+mnt-by:             SERVERFORGE-MNT
+status:             ASSIGNED
+source:             DN42

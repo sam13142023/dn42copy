@@ -1,0 +1,4 @@
+route:              172.23.105.96/27
+origin:             AS4242422471
+mnt-by:             SERVERFORGE-MNT
+source:             DN42
