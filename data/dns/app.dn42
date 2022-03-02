@@ -1,0 +1,7 @@
+domain:             app.dn42
+descr:              Kubernetes for dn42
+admin-c:            SPREITZER-DN42
+tech-c:             SPREITZER-DN42
+mnt-by:             SPREITZER-MNT
+nserver:            ns1.spreitzer.dn42
+source:             DN42
