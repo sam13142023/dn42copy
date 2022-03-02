@@ -1,0 +1,13 @@
+inetnum:            172.20.202.128 - 172.20.202.191
+netname:            W1N0DL-IPV4
+remarks:            Peer with me at contact@tjpuer.com
+descr:              Peer with me at contact@tjpuer.com
+country:            CN
+admin-c:            W1N0DL-DN42
+tech-c:             W1N0DL-DN42
+mnt-by:             W1N0DL-MNT
+nserver:            ns1.w1n0dl.dn42
+nserver:            ns2.w1n0dl.dn42
+status:             ASSIGNED
+cidr:               172.20.202.128/26
+source:             DN42
