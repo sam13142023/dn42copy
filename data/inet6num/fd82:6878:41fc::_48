@@ -1,0 +1,9 @@
+inet6num:           fd82:6878:41fc:0000:0000:0000:0000:0000 - fd82:6878:41fc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd82:6878:41fc::/48
+netname:            BITSEC-6-NET
+admin-c:            BITSEC-DN42
+tech-c:             BITSEC-DN42
+mnt-by:             BITSEC-MNT
+status:             ASSIGNED
+nserver:            ns1.bitsec.dn42
+source:             DN42
