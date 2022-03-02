@@ -1,0 +1,10 @@
+inetnum:            172.20.132.192 - 172.20.132.255
+cidr:               172.20.132.192/26
+netname:            AKIRU-V4-NET
+country:            US
+admin-c:            AKIRU-DN42
+tech-c:             AKIRU-DN42
+mnt-by:             AKIRU-MNT
+status:             ASSIGNED
+nserver:            ns1.imber.dn42
+source:             DN42

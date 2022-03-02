@@ -1,0 +1,10 @@
+inet6num:           fd3c:527d:1cfd:0000:0000:0000:0000:0000 - fd3c:527d:1cfd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:527d:1cfd::/48
+netname:            AKIRU-V6-NET
+country:            US
+admin-c:            AKIRU-DN42
+tech-c:             AKIRU-DN42
+mnt-by:             AKIRU-MNT
+status:             ASSIGNED
+nserver:            ns2.imber.dn42
+source:             DN42

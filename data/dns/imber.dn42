@@ -1,0 +1,8 @@
+domain:             imber.dn42
+descr:              IMBERWEB
+admin-c:            AKIRU-DN42
+tech-c:             AKIRU-DN42
+mnt-by:             AKIRU-MNT
+nserver:            ns1.imber.dn42 172.20.132.193
+nserver:            ns2.imber.dn42 fd3c:527d:1cfd::2
+source:             DN42
