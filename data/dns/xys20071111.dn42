@@ -1,0 +1,7 @@
+domain:             xys20071111.dn42
+admin-c:            XYS20071111-DN42
+tech-c:             XYS20071111-DN42
+mnt-by:             XYS20071111-MNT
+nserver:            ns.xys20071111.dn42 172.20.178.116
+nserver:            ns.xys20071111.dn42 fdca:fafe:35f3::4
+source:             DN42
