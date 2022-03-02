@@ -5,6 +5,7 @@ country:            CN
 admin-c:            XYS20071111-DN42
 tech-c:             XYS20071111-DN42
 mnt-by:             XYS20071111-MNT
+nserver:            ns.xys20071111.dn42
 status:             ASSIGNED
 cidr:               fdca:fafe:35f3::/48
 source:             DN42
