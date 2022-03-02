@@ -1,0 +1,5 @@
+route6:             fd82:6878:41fc::/48
+origin:             AS4242422638
+max-length:         56
+mnt-by:             BITSEC-MNT
+source:             DN42

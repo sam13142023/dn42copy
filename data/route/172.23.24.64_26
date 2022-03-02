@@ -1,0 +1,5 @@
+route:              172.23.24.64/26
+origin:             AS4242422638
+max-length:         28
+mnt-by:             BITSEC-MNT
+source:             DN42

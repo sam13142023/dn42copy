@@ -1,0 +1,7 @@
+domain:             bitsec.dn42
+admin-c:            BITSEC-DN42
+tech-c:             BITSEC-DN42
+mnt-by:             BITSEC-MNT
+nserver:            ns1.bitsec.dn42 172.23.24.69
+nserver:            ns1.bitsec.dn42 fd82:6878:41fc::53
+source:             DN42

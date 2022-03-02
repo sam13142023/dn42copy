@@ -1,0 +1,7 @@
+mntner:             BITSEC-MNT
+descr:              Bitsec Network Maintainer
+admin-c:            BITSEC-DN42
+tech-c:             BITSEC-DN42
+mnt-by:             BITSEC-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIt0dVLn6ihoLWOvW3pPP7gzjw3yiuOadynXbQCcHS6t
+source:             DN42

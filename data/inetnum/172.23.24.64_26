@@ -1,0 +1,9 @@
+inetnum:            172.23.24.64 - 172.23.24.127
+cidr:               172.23.24.64/26
+netname:            BITSEC-NET
+admin-c:            BITSEC-DN42
+tech-c:             BITSEC-DN42
+mnt-by:             BITSEC-MNT
+status:             ASSIGNED
+nserver:            ns1.bitsec.dn42
+source:             DN42
