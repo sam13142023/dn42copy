@@ -1,0 +1,6 @@
+mntner:             CIPHER-MNT
+admin-c:            CIPHER-DN42
+tech-c:             CIPHER-DN42
+mnt-by:             CIPHER-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDuf17vZ+OBifKevHnBHQ3oQRDDCark0U9Sa94iy0UHC
+source:             DN42

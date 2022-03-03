@@ -1,0 +1,4 @@
+route:              172.23.5.64/26
+origin:             AS4242420897
+mnt-by:             CIPHER-MNT
+source:             DN42

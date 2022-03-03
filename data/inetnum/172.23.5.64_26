@@ -1,0 +1,8 @@
+inetnum:            172.23.5.64 - 172.23.5.127
+cidr:               172.23.5.64/26
+netname:            CIPHER-NET
+admin-c:            CIPHER-DN42
+tech-c:             CIPHER-DN42
+mnt-by:             CIPHER-MNT
+status:             ASSIGNED
+source:             DN42
