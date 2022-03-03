@@ -1,0 +1,4 @@
+route:              172.20.132.192/26
+origin:             AS4242420516
+mnt-by:             AKIRU-MNT
+source:             DN42
