@@ -1,0 +1,9 @@
+domain:             w1n0dl.dn42
+admin-c:            W1N0DL-DN42
+tech-c:             W1N0DL-DN42
+mnt-by:             W1N0DL-MNT
+nserver:            ns1.w1n0dl.dn42 172.20.202.129
+nserver:            ns1.w1n0dl.dn42 fd96:1e08:d48::8888:1
+nserver:            ns2.w1n0dl.dn42 172.20.202.130
+nserver:            ns2.w1n0dl.dn42 fd96:1e08:d48::8888:2
+source:             DN42
