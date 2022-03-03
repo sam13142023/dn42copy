@@ -1,0 +1,10 @@
+inet6num:           fd60:7eb6:761e:0000:0000:0000:0000:0000 - fd60:7eb6:761e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd60:7eb6:761e::/48
+netname:            MALUUEU-NETWORK
+descr:              Network of MALUUEU
+country:            DE
+admin-c:            MALUUEU-DN42
+tech-c:             MALUUEU-DN42
+mnt-by:             MALUUEU-MNT
+status:             ASSIGNED
+source:             DN42

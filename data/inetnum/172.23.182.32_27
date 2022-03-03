@@ -1,0 +1,8 @@
+inetnum:            172.23.182.32 - 172.23.182.63
+cidr:               172.23.182.32/27
+netname:            MALUUEU-NETWORK
+admin-c:            MALUUEU-DN42
+tech-c:             MALUUEU-DN42
+mnt-by:             MALUUEU-MNT
+status:             ASSIGNED
+source:             DN42
