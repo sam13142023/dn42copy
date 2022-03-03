@@ -1,0 +1,5 @@
+route6:             fd60:7eb6:761e::/48
+origin:             AS4242421870
+max-length:         48
+mnt-by:             MALUUEU-MNT
+source:             DN42
