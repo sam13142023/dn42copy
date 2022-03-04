@@ -1,0 +1,8 @@
+inetnum:            172.22.131.96 - 172.22.131.127
+cidr:               172.22.131.96/27
+netname:            CPUGEEK-NETWORK
+admin-c:            CPUGEEK-DN42
+tech-c:             CPUGEEK-DN42
+mnt-by:             CPUGEEK-MNT
+status:             ASSIGNED
+source:             DN42

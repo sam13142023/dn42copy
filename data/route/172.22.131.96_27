@@ -1,0 +1,4 @@
+route:              172.22.131.96/27
+origin:             AS4242423058
+mnt-by:             CPUGEEK-MNT
+source:             DN42

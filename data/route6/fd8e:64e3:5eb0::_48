@@ -1,0 +1,5 @@
+route6:             fd8e:64e3:5eb0::/48
+origin:             AS4242423058
+max-length:         48
+mnt-by:             CPUGEEK-MNT
+source:             DN42
