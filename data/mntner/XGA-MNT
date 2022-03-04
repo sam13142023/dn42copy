@@ -1,0 +1,6 @@
+mntner:             XGA-MNT
+admin-c:            XGA-DN42
+tech-c:             XGA-DN42
+mnt-by:             XGA-MNT
+auth:               pgp-fingerprint 4BC6851820B2CCC189649F310E8D4EE63E172990
+source:             DN42

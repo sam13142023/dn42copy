@@ -1,0 +1,5 @@
+route6:             fd31:2ee:b2dc::/48
+origin:             AS4242423542
+max-length:         48
+mnt-by:             XGA-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.238.176/28
+origin:             AS4242423542
+mnt-by:             XGA-MNT
+source:             DN42

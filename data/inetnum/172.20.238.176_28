@@ -1,0 +1,8 @@
+inetnum:            172.20.238.176 - 172.20.238.191
+cidr:               172.20.238.176/28
+netname:            XGA-NETWORK
+admin-c:            XGA-DN42
+tech-c:             XGA-DN42
+mnt-by:             XGA-MNT
+status:             ASSIGNED
+source:             DN42
