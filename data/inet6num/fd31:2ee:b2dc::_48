@@ -1,0 +1,10 @@
+inet6num:           fd31:02ee:b2dc:0000:0000:0000:0000:0000 - fd31:02ee:b2dc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:2ee:b2dc::/48
+netname:            XGA-NETWORK
+descr:              XGA IPv6 NETWORK
+country:            IE
+admin-c:            XGA-DN42
+tech-c:             XGA-DN42
+mnt-by:             XGA-MNT
+status:             ASSIGNED
+source:             DN42
