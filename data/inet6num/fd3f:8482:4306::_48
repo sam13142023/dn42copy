@@ -1,0 +1,10 @@
+inet6num:           fd3f:8482:4306:0000:0000:0000:0000:0000 - fd3f:8482:4306:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3f:8482:4306::/48
+netname:            MLOK-NETWORK
+descr:              Network of MLOK
+country:            CZ
+admin-c:            MLOKNET-DN42
+tech-c:             MLOKNET-DN42
+mnt-by:             MLOKNET-MNT
+status:             ASSIGNED
+source:             DN42

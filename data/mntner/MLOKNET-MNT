@@ -1,0 +1,6 @@
+mntner:             MLOKNET-MNT
+admin-c:            MLOKNET-DN42
+tech-c:             MLOKNET-DN42
+mnt-by:             MLOKNET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiyTAhhW3jgyShmNZJdaf1kt1Ds4adpYieaFZ3XzL8gezmJuydx6JUwd0jmYgwMkfqXUfIBp6vk7Asib8msjFKR1YuqJn0KBRevT6Dx2cKL9XUgLgqeCIvv3s+TdcdOYxxVN9Fv0ORHPyeLyNqMN0gP5+OkvPTlPvXJiK9NuKYXZ+ZaBK4g6AwmFSG13Iy2Grv4K+1Y1OdZ4+PHavovljE0CWLQr5PTXOXJkI34zoWhtcHVUEpPXyP5ArZhImF7FoYo4UGa+TOkh+GfEvdujv87nT03MKTLaQwngflm6sqKSlouml/kaZAfYrUazD9s+GsZHIIu9vcpDgTUvbN0iQz
+source:             DN42

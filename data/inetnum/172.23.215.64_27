@@ -1,0 +1,8 @@
+inetnum:            172.23.215.64 - 172.23.215.95
+cidr:               172.23.215.64/27
+netname:            MLOK-NETWORK
+admin-c:            MLOKNET-DN42
+tech-c:             MLOKNET-DN42
+mnt-by:             MLOKNET-MNT
+status:             ASSIGNED
+source:             DN42
