@@ -1,0 +1,10 @@
+inet6num:           fd12:00ab:0d32:0000:0000:0000:0000:0000 - fd12:00ab:0d32:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:ab:d32::/48
+netname:            PUROFLE-NETWORK
+descr:              Network of PUROFLE
+country:            CN
+admin-c:            PUROFLE-DN42
+tech-c:             PUROFLE-DN42
+mnt-by:             PUROFLE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.90.96 - 172.23.90.127
+cidr:               172.23.90.96/27
+netname:            PUROFLE-NETWORK
+admin-c:            PUROFLE-DN42
+tech-c:             PUROFLE-DN42
+mnt-by:             PUROFLE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             PUROFLE-MNT
+admin-c:            PUROFLE-DN42
+tech-c:             PUROFLE-DN42
+mnt-by:             PUROFLE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDmfNh3aOeCohmgGbSLImvLdWZzrAPPc5Gvt0+7QSNpRBFl1oqxeM/XKdogH/mmmiISJCXLXA5b1cNUT52GIEVMEyZEqHqtFECx5c8pIZPzg9Zu+NCND74KOfwJpYbA+vGgXn/jgFd5Z7RNyCI1l3sOvfImpZQ5l40pXZiEfxgeRFjXubW+b7OjNG1NZSFzhLTQi/4uPO/MykM/N9RBIkfLOddEkzFc5ZgMKvzxcTgiqQOLxClw9M+ZqimpDBRpSBjzOTSdJPCtDfUYUd3zriOmoBLRvDno8r0FUlau6jLAfCYnhmT6qmeb0B21tot+UnO+JyWRbW69BdPWfTO2uCXjYaLaPpcCQuSoQqyK7EDfKdrKysrSyz/V+ijs/zXe3RKreWWU0jhfkwP1/PTiEWd9gwEF+al8KpE61fI6016r6ax65KiwmLPufRtPm05nI9f863Wn+xHFHWnlnMSHkNYxu8/s2E43h6pbsOLxO0/ekWi0KZo22IRQEcAebfCq8gE=
+source:             DN42
