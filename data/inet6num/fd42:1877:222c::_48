@@ -1,0 +1,10 @@
+inet6num:           fd42:1877:222c:0000:0000:0000:0000:0000 - fd42:1877:222c:ffff:ffff:ffff:ffff:ffff
+netname:            LILY-IPV6
+descr:              Peer with me at kongchenglige@gmail.com
+country:            CN
+admin-c:            KONGCHENGLIGE-DN42
+tech-c:             KONGCHENGLIGE-DN42
+mnt-by:             LILY-MNT
+status:             ASSIGNED
+cidr:               fd42:1877:222c::/48
+source:             DN42
