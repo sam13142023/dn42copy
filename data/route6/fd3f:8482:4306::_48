@@ -1,0 +1,5 @@
+route6:             fd3f:8482:4306::/48
+origin:             AS4242422190
+max-length:         48
+mnt-by:             MLOKNET-MNT
+source:             DN42

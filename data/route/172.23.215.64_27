@@ -1,0 +1,4 @@
+route:              172.23.215.64/27
+origin:             AS4242422190
+mnt-by:             MLOKNET-MNT
+source:             DN42
