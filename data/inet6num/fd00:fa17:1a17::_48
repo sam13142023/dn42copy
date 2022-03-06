@@ -1,0 +1,10 @@
+inet6num:           fd00:fa17:1a17:0000:0000:0000:0000:0000 - fd00:fa17:1a17:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:fa17:1a17::/48
+netname:            FANLAN-NETWORK
+descr:              Network of FANLAN
+country:            TW
+admin-c:            FANLAN-DN42
+tech-c:             FANLAN-DN42
+mnt-by:             FANLAN-MNT
+status:             ASSIGNED
+source:             DN42
