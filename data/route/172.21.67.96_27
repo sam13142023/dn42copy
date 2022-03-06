@@ -1,0 +1,4 @@
+route:              172.21.67.96/27
+origin:             AS4242422780
+mnt-by:             FANLAN-MNT
+source:             DN42

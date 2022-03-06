@@ -1,0 +1,5 @@
+route6:             fd00:fa17:1a17::/48
+origin:             AS4242422780
+max-length:         48
+mnt-by:             FANLAN-MNT
+source:             DN42
