@@ -1,0 +1,7 @@
+mntner:             YOKODAYO-MNT
+admin-c:            YOKODAYO-DN42
+tech-c:             YOKODAYO-DN42
+mnt-by:             YOKODAYO-MNT
+source:             DN42
+auth:               pgp-fingerprint 9D16AC91DBCAF060FA54403705057979C9C2CB93
+remarks:            init

@@ -1,0 +1,5 @@
+route:              172.23.247.0/28
+descr:              contact-butisbat@gmail.com
+origin:             AS4242422560
+mnt-by:             YOKODAYO-MNT
+source:             DN42
