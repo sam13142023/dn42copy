@@ -1,0 +1,5 @@
+route6:             fd56:2263:5eb9::/48
+descr:              Peer with me at peer@gugu.pw
+origin:             AS4242420363
+mnt-by:             JIAO-MNT
+source:             DN42

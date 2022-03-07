@@ -1,0 +1,5 @@
+route:              172.22.78.0/27
+descr:              Peer with me at peer@gugu.pw
+origin:             AS4242420363
+mnt-by:             JIAO-MNT
+source:             DN42

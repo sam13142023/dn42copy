@@ -1,0 +1,10 @@
+inet6num:           fd56:2263:5eb9:0000:0000:0000:0000:0000 - fd56:2263:5eb9:ffff:ffff:ffff:ffff:ffff
+netname:            JIAO-IPV6
+descr:              Peer with me at peer@gugu.pw
+country:            CN
+admin-c:            JIAO-DN42
+tech-c:             JIAO-DN42
+mnt-by:             JIAO-MNT
+status:             ASSIGNED
+cidr:               fd56:2263:5eb9::/48
+source:             DN42
