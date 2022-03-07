@@ -1,0 +1,11 @@
+inetnum:            172.22.78.0 - 172.22.78.31
+netname:            JIAO-IPV4
+remarks:            Peer with me at peer@gugu.pw
+descr:              Peer with me at peer@gugu.pw
+country:            CN
+admin-c:            JIAO-DN42
+tech-c:             JIAO-DN42
+mnt-by:             JIAO-MNT
+status:             ASSIGNED
+cidr:               172.22.78.0/27
+source:             DN42
