@@ -1,0 +1,5 @@
+route6:             fddd:470:5001::/48
+origin:             AS4242421480
+max-length:         48
+mnt-by:             PSDEV-MNT
+source:             DN42

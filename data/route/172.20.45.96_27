@@ -1,0 +1,4 @@
+route:              172.20.45.96/27
+origin:             AS4242421480
+mnt-by:             PSDEV-MNT
+source:             DN42
