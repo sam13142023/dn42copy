@@ -1,0 +1,10 @@
+inet6num:           fd00:e18c:dc61:0000:0000:0000:0000:0000 - fd00:e18c:dc61:ffff:ffff:ffff:ffff:ffff
+netname:            YOKODAYO-IPV6
+descr:              contact-butisbat@gmail.com
+country:            HK
+admin-c:            YOKODAYO-DN42
+tech-c:             YOKODAYO-DN42
+mnt-by:             YOKODAYO-MNT
+status:             ASSIGNED
+cidr:               fd00:e18c:dc61::/48
+source:             DN42

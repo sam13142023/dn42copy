@@ -1,0 +1,11 @@
+inetnum:            172.23.247.0 - 172.23.247.15
+netname:            YOKODAYO-IPV4
+remarks:            contact-butisbat@gmail.com
+descr:              contact-butisbat@gmail.com
+country:            HK
+admin-c:            YOKODAYO-DN42
+tech-c:             YOKODAYO-DN42
+mnt-by:             YOKODAYO-MNT
+status:             ASSIGNED
+cidr:               172.23.247.0/28
+source:             DN42
