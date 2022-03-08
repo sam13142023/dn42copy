@@ -1,0 +1,6 @@
+mntner:             PSDEV-MNT
+admin-c:            PSDEV-DN42
+tech-c:             PSDEV-DN42
+mnt-by:             PSDEV-MNT
+auth:               pgp-fingerprint 9E1C9E850E01764B91C7E2794D4A2224EFC70D76
+source:             DN42

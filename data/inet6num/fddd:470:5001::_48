@@ -1,0 +1,12 @@
+inet6num:           fddd:0470:5001:0000:0000:0000:0000:0000 - fddd:0470:5001:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:470:5001::/48
+netname:            PSDEV-NETWORK
+descr:              Network of PSDev
+country:            DE
+admin-c:            PSDEV-DN42
+tech-c:             PSDEV-DN42
+mnt-by:             PSDEV-MNT
+status:             ASSIGNED
+nserver:            ns1.psdev.dn42
+nserver:            ns2.psdev.dn42
+source:             DN42
