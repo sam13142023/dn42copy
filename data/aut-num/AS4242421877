@@ -1,6 +1,13 @@
 aut-num:            AS4242421877
-as-name:            LILY-AS
+as-name:            LILY_NETWORK
 admin-c:            KONGCHENGLIGE-DN42
 tech-c:             KONGCHENGLIGE-DN42
 mnt-by:             LILY-MNT
+org:                ORG-LILY
+remarks:            ---------------------------------
+remarks:            | Lily Networking               |
+remarks:            | Open For Peering              |
+remarks:            | More Information On           |
+remarks:            | https://kira.zone             |
+remarks:            ------No information below-------
 source:             DN42

@@ -5,6 +5,7 @@ country:            CN
 admin-c:            KONGCHENGLIGE-DN42
 tech-c:             KONGCHENGLIGE-DN42
 mnt-by:             LILY-MNT
+org:                ORG-LILY
 status:             ASSIGNED
 cidr:               fd42:1877:222c::/48
 source:             DN42
