@@ -1,0 +1,8 @@
+inetnum:            172.20.209.32 - 172.20.209.63
+cidr:               172.20.209.32/27
+netname:            BOARDMAN-NETWORK
+admin-c:            BOARDMAN-DN42
+tech-c:             BOARDMAN-DN42
+mnt-by:             BOARDMAN-MNT
+status:             ASSIGNED
+source:             DN42
