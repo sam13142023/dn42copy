@@ -1,0 +1,10 @@
+inetnum:            172.21.109.32 - 172.21.109.63
+cidr:               172.21.109.32/27
+netname:            NETRVIN-IPV4
+descr:              Netrvin IPV4 Network
+country:            CN
+admin-c:            NETRVIN-DN42
+tech-c:             NETRVIN-DN42
+status:             ASSIGNED
+mnt-by:             NETRVIN-MNT
+source:             DN42

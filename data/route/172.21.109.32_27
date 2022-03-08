@@ -1,0 +1,5 @@
+route:              172.21.109.32/27
+descr:              131's Network
+origin:             AS4242421131
+mnt-by:             NETRVIN-MNT
+source:             DN42

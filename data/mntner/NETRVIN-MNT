@@ -1,0 +1,7 @@
+mntner:             NETRVIN-MNT
+admin-c:            NETRVIN-DN42
+tech-c:             NETRVIN-DN42
+mnt-by:             NETRVIN-MNT
+source:             DN42
+auth:               pgp-fingerprint E43178701533C8D16765C5F6FE429D9D64FA40C7
+remarks:            https://yuzu.im/

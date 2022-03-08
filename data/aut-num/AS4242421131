@@ -1,0 +1,8 @@
+aut-num:            AS4242421131
+as-name:            NETRVIN-AS
+descr:              131's Network, peer with me at noc@moe.im
+admin-c:            NETRVIN-DN42
+tech-c:             NETRVIN-DN42
+mnt-by:             NETRVIN-MNT
+source:             DN42
+remarks:            https://yuzu.im/
