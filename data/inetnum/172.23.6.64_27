@@ -1,0 +1,10 @@
+inetnum:            172.23.6.64 - 172.23.6.95
+cidr:               172.23.6.64/27
+netname:            PHOXDEN-IPV4
+descr:              PHOXDEN @ DN42
+country:            IE
+admin-c:            ZYCORAX-DN42
+tech-c:             ZYCORAX-DN42
+status:             ASSIGNED
+mnt-by:             ZYCORAX-MNT
+source:             DN42
