@@ -1,0 +1,5 @@
+route6:             fd74:74e9:e537::/48
+origin:             AS4242422275
+max-length:         48
+mnt-by:             KODE54-MNT
+source:             DN42
