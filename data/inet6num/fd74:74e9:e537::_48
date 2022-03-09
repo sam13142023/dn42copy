@@ -1,0 +1,10 @@
+inet6num:           fd74:74e9:e537:0000:0000:0000:0000:0000 - fd74:74e9:e537:ffff:ffff:ffff:ffff:ffff
+cidr:               fd74:74e9:e537::/48
+netname:            KODE54-NETWORK
+descr:              Network of KODE54
+country:            US
+admin-c:            KODE54-DN42
+tech-c:             KODE54-DN42
+mnt-by:             KODE54-MNT
+status:             ASSIGNED
+source:             DN42
