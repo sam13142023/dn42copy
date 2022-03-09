@@ -1,0 +1,6 @@
+mntner:             BOARDMAN-MNT
+admin-c:            BOARDMAN-DN42
+tech-c:             BOARDMAN-DN42
+mnt-by:             BOARDMAN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPDC4jbYfl0kYvNvF0Xjk9yPAFF+3dykE9DkchycAsXk
+source:             DN42
