@@ -1,0 +1,8 @@
+inetnum:            172.22.78.32 - 172.22.78.63
+cidr:               172.22.78.32/27
+netname:            KODE54-NETWORK
+admin-c:            KODE54-DN42
+tech-c:             KODE54-DN42
+mnt-by:             KODE54-MNT
+status:             ASSIGNED
+source:             DN42
