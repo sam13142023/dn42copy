@@ -3,4 +3,5 @@ admin-c:            JH0-DN42
 tech-c:             JH0-DN42
 mnt-by:             JH0-MNT
 auth:               pgp-fingerprint 4B1956D372F360CB6E21179B3794A5F6B719C5DF
+remarks:            pin-sha256:aqoCYrmdLfwKsh6hMaYvIGb5f2GFrc2r/GYtWtyrG9o=
 source:             DN42
