@@ -1,0 +1,5 @@
+route:              172.23.6.64/27
+descr:              PHOXDEN @ DN42
+origin:             AS4242421929
+mnt-by:             ZYCORAX-MNT
+source:             DN42

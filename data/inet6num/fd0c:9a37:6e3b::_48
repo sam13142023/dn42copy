@@ -1,0 +1,10 @@
+inet6num:           fd0c:9a37:6e3b:0000:0000:0000:0000:0000 - fd0c:9a37:6e3b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0c:9a37:6e3b::/48
+netname:            PHOXDEN-IPV6
+descr:              PHOXDEN v6 @ DN42
+country:            IE
+admin-c:            ZYCORAX-DN42
+tech-c:             ZYCORAX-DN42
+mnt-by:             ZYCORAX-MNT
+status:             ASSIGNED
+source:             DN42

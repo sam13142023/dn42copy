@@ -1,0 +1,7 @@
+mntner:             ZYCORAX-MNT
+admin-c:            ZYCORAX-DN42
+tech-c:             ZYCORAX-DN42
+mnt-by:             ZYCORAX-MNT
+source:             DN42
+auth:               pgp-fingerprint 49CDF7C85215CAF1261B5D0DD765752B23E7D13A
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEFQZDqVx5KjmmHB7kJFf1rYpgok7Z1m1wpgrs5Pfbeq
