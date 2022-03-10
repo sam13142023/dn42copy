@@ -5,6 +5,8 @@ descr:              Netrvin IPV4 Network
 country:            CN
 admin-c:            NETRVIN-DN42
 tech-c:             NETRVIN-DN42
+nserver:            ns1.yuzu.dn42
+nserver:            ns2.yuzu.dn42
 status:             ASSIGNED
 mnt-by:             NETRVIN-MNT
 source:             DN42
