@@ -6,5 +6,7 @@ country:            CN
 admin-c:            NETRVIN-DN42
 tech-c:             NETRVIN-DN42
 mnt-by:             NETRVIN-MNT
+nserver:            ns1.yuzu.dn42
+nserver:            ns2.yuzu.dn42
 status:             ASSIGNED
 source:             DN42
