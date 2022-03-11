@@ -1,0 +1,8 @@
+inetnum:            172.23.151.176 - 172.23.151.191
+cidr:               172.23.151.176/28
+netname:            WOW-NETWORK
+admin-c:            WOW-DN42
+tech-c:             WOW-DN42
+mnt-by:             WOW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             wow.dn42
+admin-c:            WOW-DN42
+tech-c:             WOW-DN42
+mnt-by:             WOW-MNT
+nserver:            ns1.wow.dn42 172.23.151.177
+nserver:            ns1.wow.dn42 fd19:eb21:aceb::1
+source:             DN42
