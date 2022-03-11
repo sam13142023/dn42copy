@@ -1,6 +1,6 @@
-inetnum:            10.127.233.0 - 10.127.233.255
-cidr:               10.127.233.0/24
-netname:            MagicNeko-CN office node
+inet6num:           fd10:0127:023a:0000:0000:0000:0000:0000 - fd10:0127:023a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:23a::/48
+netname:            Catstar-VPN
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

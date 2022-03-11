@@ -1,6 +1,6 @@
-inetnum:            10.127.233.0 - 10.127.233.255
-cidr:               10.127.233.0/24
-netname:            MagicNeko-CN office node
+route6:             fd10:127:236::/48
+max-length:         64
+origin:             AS140913
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

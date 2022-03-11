@@ -1,6 +1,6 @@
 inetnum:            10.127.234.0 - 10.127.234.255
 cidr:               10.127.234.0/24
-netname:            MagicNeko-CN office VPN+IX Node(name:liqingge)
+netname:            MagicNeko-CN office VPN+IX Node
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

@@ -1,6 +1,6 @@
-inetnum:            10.127.233.0 - 10.127.233.255
-cidr:               10.127.233.0/24
-netname:            MagicNeko-CN office node
+inet6num:           fd10:0127:0234:0000:0000:0000:0000:0000 - fd10:0127:0234:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:234::/48
+netname:            Magicneko Asia address occupied
 admin-c:            MAGICNEKO-NEONETWORK
 tech-c:             MAGICNEKO-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
