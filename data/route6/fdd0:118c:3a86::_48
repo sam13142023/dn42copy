@@ -1,0 +1,5 @@
+route6:             fdd0:118c:3a86::/48
+origin:             AS4242422768
+max-length:         48
+mnt-by:             VOLATILE-MNT
+source:             DN42
