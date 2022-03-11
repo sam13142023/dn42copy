@@ -1,0 +1,6 @@
+mntner:             WOW-MNT
+admin-c:            WOW-DN42
+tech-c:             WOW-DN42
+mnt-by:             WOW-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKGHK3GvPqTpLJ1S6jm/gqWYVKlVKvUZ10WXTMM1ivCH
+source:             DN42

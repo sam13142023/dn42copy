@@ -1,0 +1,5 @@
+route6:             fd19:eb21:aceb::/48
+origin:             AS4242421655
+max-length:         48
+mnt-by:             WOW-MNT
+source:             DN42

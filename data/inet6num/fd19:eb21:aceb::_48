@@ -1,0 +1,10 @@
+inet6num:           fd19:eb21:aceb:0000:0000:0000:0000:0000 - fd19:eb21:aceb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd19:eb21:aceb::/48
+netname:            WOW-NETWORK
+descr:              Network of wow
+country:            FR
+admin-c:            WOW-DN42
+tech-c:             WOW-DN42
+mnt-by:             WOW-MNT
+status:             ASSIGNED
+source:             DN42
