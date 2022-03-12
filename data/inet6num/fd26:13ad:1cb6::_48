@@ -5,5 +5,6 @@ country:            GR
 admin-c:            MAKNET-DN42
 tech-c:             MAKNET-DN42
 mnt-by:             MAKNET-MNT
+nserver:            ns.maknet.dn42
 status:             ASSIGNED
 source:             DN42

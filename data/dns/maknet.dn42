@@ -1,0 +1,7 @@
+domain:             maknet.dn42
+admin-c:            MAKNET-DN42
+tech-c:             MAKNET-DN42
+mnt-by:             MAKNET-MNT
+nserver:            ns.maknet.dn42 172.23.197.53
+nserver:            ns.maknet.dn42 fd26:13ad:1cb6:53::
+source:             DN42
