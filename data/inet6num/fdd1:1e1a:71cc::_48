@@ -1,0 +1,10 @@
+inet6num:           fdd1:1e1a:71cc:0000:0000:0000:0000:0000 - fdd1:1e1a:71cc:ffff:ffff:ffff:ffff:ffff
+netname:            DDENGD-IPV6
+descr:              Contact me at Telegram:ddengd
+country:            CN
+admin-c:            DDENGD-DN42
+tech-c:             DDENGD-DN42
+mnt-by:             DDENGD-MNT
+status:             ASSIGNED
+cidr:               fdd1:1e1a:71cc::/48
+source:             DN42

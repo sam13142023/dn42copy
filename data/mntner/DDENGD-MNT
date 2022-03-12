@@ -1,0 +1,6 @@
+mntner:             DDENGD-MNT
+admin-c:            DDENGD-DN42
+tech-c:             DDENGD-DN42
+mnt-by:             DDENGD-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBXA6pmqi7oTEFFZ3evObGk3+6BbsvHcINFw1s25XRIC
