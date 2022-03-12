@@ -1,0 +1,10 @@
+inet6num:           fd2c:4b14:511f:0000:0000:0000:0000:0000 - fd2c:4b14:511f:ffff:ffff:ffff:ffff:ffff
+netname:            ZI-IPV6
+descr:              Peer with me at peer2@gugu.pw
+country:            CN
+admin-c:            ZI-DN42
+tech-c:             ZI-DN42
+mnt-by:             ZI-MNT
+status:             ASSIGNED
+cidr:               fd2c:4b14:511f::/48
+source:             DN42

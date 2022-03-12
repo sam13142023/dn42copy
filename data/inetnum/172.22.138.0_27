@@ -1,0 +1,11 @@
+inetnum:            172.22.138.0 - 172.22.138.31
+netname:            ZI-IPV4
+remarks:            Peer with me at peer2@gugu.pw
+descr:              Peer with me at peer2@gugu.pw
+country:            CN
+admin-c:            ZI-DN42
+tech-c:             ZI-DN42
+mnt-by:             ZI-MNT
+status:             ASSIGNED
+cidr:               172.22.138.0/27
+source:             DN42
