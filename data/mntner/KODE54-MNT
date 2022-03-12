@@ -3,4 +3,5 @@ admin-c:            KODE54-DN42
 tech-c:             KODE54-DN42
 mnt-by:             KODE54-MNT
 auth:               pgp-fingerprint 7622EBE7536B0F0436F4F1638D6C98479F4ADE71
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK/VJDZxty9RnbAK8HAWe8yasNf2aiGKVhDxedX6YPRi
 source:             DN42
