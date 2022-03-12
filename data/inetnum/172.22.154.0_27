@@ -1,0 +1,11 @@
+inetnum:            172.22.154.0 - 172.22.154.31
+netname:            DDENGD-IPV4
+remarks:            Contact me at Telegram:ddengd
+descr:              Contact me at Telegram:ddengd
+country:            CN
+admin-c:            DDENGD-DN42
+tech-c:             DDENGD-DN42
+mnt-by:             DDENGD-MNT
+status:             ASSIGNED
+cidr:               172.22.154.0/27
+source:             DN42
