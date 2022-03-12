@@ -1,0 +1,6 @@
+mntner:             VOLATILE-MNT
+admin-c:            VOLATILE-DN42
+tech-c:             VOLATILE-DN42
+mnt-by:             VOLATILE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCnPYgV96rr+JUVsCNMBPlFkDeSUZDQ/E7uf+6Dhf2+NF9Bqu0CjXj/aBz3wXR3D161AKzfjRxOxu88thWQAtiTP4TiOwY/ynGFPFFvhJwA4ndlD7/709Uqzy06N4UgGb5MtcZ54onDO6VTbr43rJIDltlv2pjNpacFeyO282zYEaJZwk4lAIjQOOmHqrORkX7fFzyO7L+FV8oMkcKhQZusFfZ3LV2iSGyqR1nkuT3OR3xyYgJlFrHxOSxt4TxmQ7aqGBR6sgGmAoXpCWYdExuNYaHw7uvIRl6hcaaAYO8tqkKf1kqgq37TSMi3XeZEQYlwXAZppC+kwVUBuLhZxJKS5N6izDj3q90ia3C5jgfekmKAaj+FAKxzN7oZIT2KqLbxOluL/u9aqQw3izLrVUzLy1/RxUUDszj66XarCDj8QBYaGztRMq2TzibC4CSYSiTXKeIxS519KIT/1BQ6QxEajPw8X2uOQyo0vt6F22ifTaegz9M+PBmSFNQqV9+R+8s=
+source:             DN42
