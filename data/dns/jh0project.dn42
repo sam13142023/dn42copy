@@ -2,8 +2,7 @@ domain:             jh0project.dn42
 admin-c:            JH0-DN42
 tech-c:             JH0-DN42
 mnt-by:             JH0-MNT
-nserver:            ns1.jh0project.dn42 172.20.222.1
-nserver:            ns1.jh0project.dn42 fd7b:1b70:2d2e::1
-nserver:            ns2.jh0project.dn42 172.20.222.2
-nserver:            ns2.jh0project.dn42 fd7b:1b70:2d2e::2
+nserver:            ns1.jh0project.dn42 172.20.222.29
+nserver:            ns1.jh0project.dn42 fd7b:1b70:2d2e::29
+ds-rdata:           3769 7 2 64B4D21D32718273ECC4D3A4C9985056C246ABC9ED7B1BEFEAC8B4BD 985AAD22
 source:             DN42
