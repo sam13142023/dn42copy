@@ -1,0 +1,4 @@
+route:              172.23.101.224/27
+origin:             AS4242420761
+mnt-by:             WESM-MNT
+source:             DN42

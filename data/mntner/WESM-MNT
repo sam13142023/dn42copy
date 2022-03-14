@@ -1,0 +1,6 @@
+mntner:             WESM-MNT
+admin-c:            WESM-DN42
+tech-c:             WESM-DN42
+mnt-by:             WESM-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVMdRFpzBEqzWUXfVr8bfr/ZX/JbCitQI0HiZToO5ZAfulKUd8k4nr5nAer8QLGWe9LartUBFyFlq9OSZUO6Ug+BFZXcgOVlM+uWqp+D0mtFUhOqDhXkxY/A7Mx0lFcM3OtQmTJEbXSkoub3tuQRoOpIQDd9Ow63vUdnqsCwgsAE/pq4RR6Eff7VMa91RPbHkj1bts0oSDOObAe433pqHQLkAnweo4D4X8qmmchiLbE3B1wC0NulOWFaTPduvyRCqeqd7W9UguEfBk9NUfDJznyJlmRvDj7GoINR++yppXsSPYAkKSuFM2fyWt0BhL+htIw2eaNrIfehA8hPIb6WVf
+source:             DN42
