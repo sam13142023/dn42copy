@@ -1,0 +1,6 @@
+domain:             ziyao233.dn42
+admin-c:            ZIYAO-DN42
+tech-c:             ZIYAO-DN42
+mnt-by:             ZIYAO-MNT
+nserver:            ns1.ziyao233.dn42 fd42:e06:cfb4::1
+source:             DN42
