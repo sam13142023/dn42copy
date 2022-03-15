@@ -1,0 +1,5 @@
+route6:             fd55:bbbc:25c2::/48
+origin:             AS4242420761
+max-length:         48
+mnt-by:             WESM-MNT
+source:             DN42

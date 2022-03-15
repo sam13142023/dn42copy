@@ -1,0 +1,8 @@
+inet6num:           fd55:bbbc:25c2:0000:0000:0000:0000:0000 - fd55:bbbc:25c2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:bbbc:25c2::/48
+netname:            WESM-NETWORK
+admin-c:            WESM-DN42
+tech-c:             WESM-DN42
+mnt-by:             WESM-MNT
+status:             ASSIGNED
+source:             DN42
