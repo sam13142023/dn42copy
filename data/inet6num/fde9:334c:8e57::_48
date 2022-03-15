@@ -1,0 +1,11 @@
+inet6num:           fde9:334c:8e57:0000:0000:0000:0000:0000 - fde9:334c:8e57:ffff:ffff:ffff:ffff:ffff
+cidr:               fde9:334c:8e57::/48
+netname:            BEDINI-NETWORK
+descr:              Network of BEDINI
+country:            AU
+admin-c:            BEDINI-DN42
+tech-c:             BEDINI-DN42
+mnt-by:             BEDINI-MNT
+status:             ASSIGNED
+nserver:            ns1.bedini.dn42
+source:             DN42
