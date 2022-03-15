@@ -1,0 +1,11 @@
+inet6num:           fd9b:0007:1375:0000:0000:0000:0000:0000 - fd9b:0007:1375:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9b:7:1375::/48
+netname:            PHYIO-PER1-IP6
+descr:              per1.phy.io
+country:            AU
+admin-c:            BLY-DN42
+tech-c:             BLY-DN42
+mnt-by:             PHYIO-MNT
+nserver:            ns1.phy.dn42
+status:             ASSIGNED
+source:             DN42

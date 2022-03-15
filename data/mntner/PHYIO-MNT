@@ -3,4 +3,5 @@ descr:              phy.io
 admin-c:            BLY-DN42
 tech-c:             BLY-DN42
 mnt-by:             PHYIO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOmjHr/PFfXOrGakeDJbql/wu0PgolxksiMGgc6bXCgA
 source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.6.96/27
+origin:             AS4242422270
+mnt-by:             PHYIO-MNT
+source:             DN42
