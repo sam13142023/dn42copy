@@ -1,0 +1,7 @@
+domain:             phy.dn42
+admin-c:            BLY-DN42
+tech-c:             BLY-DN42
+mnt-by:             PHYIO-MNT
+nserver:            ns1.phy.dn42 172.23.6.97
+nserver:            ns1.phy.dn42 fd9b:7:1375::1
+source:             DN42

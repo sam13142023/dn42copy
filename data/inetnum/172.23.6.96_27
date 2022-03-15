@@ -1,0 +1,9 @@
+inetnum:            172.23.6.96 - 172.23.6.127
+cidr:               172.23.6.96/27
+netname:            PHYIO-PER1-IP6
+admin-c:            BLY-DN42
+tech-c:             BLY-DN42
+mnt-by:             PHYIO-MNT
+nserver:            ns1.phy.dn42
+status:             ASSIGNED
+source:             DN42
