@@ -1,0 +1,7 @@
+mntner:             DAYMICKCORR-MNT
+descr:              DAYMICKCORR
+admin-c:            DAYMICKCORR-DN42
+tech-c:             DAYMICKCORR-DN42
+mnt-by:             DAYMICKCORR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4qnJc/mP0MwK7A43U4hIXE7cbmQC0PK0vW7a4ei7hdeCFCYKiV5thNyDfnh+ZLx7NN0oQM7mJPzhxv2RShytrwsg0Do/jbORE4nQow6t8BFctHeC0tL/JmT9tkEjzcTTPzosQtWGwdOzO43Gtxw1KJFK3LpWHW0lrDmnuToCA7NfDIrC2evQxx+gYDJVJbMTG4FrUe5v5fDeYApADEb0PywM1/H+79Qh2oS1RyUHUEoOU8sCLhq+zN38dLdGfTetuOXBG8kzS0EYNlihSlRFesP4BPTljqZB/fOxmLHUxGAcqzpjpWJJ8TGsFnzIsjfpwYbm+XWYFsE3LVtqJkecH4e2pwdRtJpMKuIvQTHezMF3K8gflsqFp5adnhqQ/NAo8kyicQFIhq8AH56KpX71603+DhbKMg8eh6RNZMZZyEVIhlGsDSQSJcYCszKFqP2B+D4xYWOUrdVEuKXCGOCOYn1zTeTSNjp/OYtBHQNUjeqweTKSKKa3+NnBfz0fFywM= daymickcorr@Manjaro-A515-52
+source:             DN42

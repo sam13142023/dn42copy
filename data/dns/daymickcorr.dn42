@@ -1,0 +1,7 @@
+domain:             daymickcorr.dn42
+admin-c:            DAYMICKCORR-DN42
+tech-c:             DAYMICKCORR-DN42
+mnt-by:             DAYMICKCORR-MNT
+nserver:            ns1.daymickcorr.dn42 172.21.105.161
+nserver:            ns1.daymickcorr.dn42 fded:b1ef:3409::1
+source:             DN42

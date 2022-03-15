@@ -1,0 +1,11 @@
+inet6num:           fded:b1ef:3409:0000:0000:0000:0000:0000 - fded:b1ef:3409:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:b1ef:3409::/48
+netname:            DAYMICKCORR
+descr:              DAYMICKCORR
+country:            CA
+admin-c:            DAYMICKCORR-DN42
+tech-c:             DAYMICKCORR-DN42
+mnt-by:             DAYMICKCORR-MNT
+status:             ASSIGNED
+nserver:            ns1.daymickcorr.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fded:b1ef:3409::/48
+origin:             AS4242420935
+max-length:         48
+mnt-by:             DAYMICKCORR-MNT
+source:             DN42

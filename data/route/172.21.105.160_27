@@ -1,0 +1,4 @@
+route:              172.21.105.160/27
+origin:             AS4242420935
+mnt-by:             DAYMICKCORR-MNT
+source:             DN42
