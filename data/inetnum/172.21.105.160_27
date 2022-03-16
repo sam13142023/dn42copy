@@ -1,0 +1,9 @@
+inetnum:            172.21.105.160 - 172.21.105.191
+cidr:               172.21.105.160/27
+netname:            DAYMICKCORR
+admin-c:            DAYMICKCORR-DN42
+tech-c:             DAYMICKCORR-DN42
+mnt-by:             DAYMICKCORR-MNT
+status:             ASSIGNED
+nserver:            ns1.daymickcorr.dn42
+source:             DN42
