@@ -1,6 +1,6 @@
 mntner:             HEXA-MNT
 descr:              hexa
-remarks:            pin-sha256:mbNm2hW8heC33S618j6AvOdTuy7u12aiiw5Gomz3x/A=
+remarks:            pin-sha256:QKvVioCjab0J9ZdIqqM7Lk1cw0yJngtIEuNtPE0b5hg=
 auth:               pgp-fingerprint F7D67CFBF2CA32F1641A03DB0D9F700847860BC5
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJWhnfqUWBHlYhV7GpW9XkZVcbTnGIYq2Jupga2fP4pY
 admin-c:            HEXA-DN42
