@@ -1,16 +1,16 @@
 aut-num:            AS4242421817
-as-name:            KSKB-NETWORK
-descr:              KusakabeSi's Network
+as-name:            KSKB-NET
+descr:              KusakabeShi's Network
 admin-c:            KSKB-DN42
 tech-c:             KSKB-DN42
 mnt-by:             KSKB-MNT
 remarks:            +-----------------------------------+
-remarks:            |       KusakabeSi's Network        |
+remarks:            |       KusakabeShi's Network       |
 remarks:            +-----------------------------------+
 remarks:            | * Peering Policy & Autopeer       |
 remarks:            |   https://dn42.kskb.eu.org        |
 remarks:            | * Contact:                        |
-remarks:            |     - Telegram: @KusakabeSi       |
+remarks:            |     - Telegram: @KusakabeShi      |
 remarks:            |     - mailto: dn42@kskb.eu.org    |
 remarks:            |     - IRC: kskb@hackint           |
 remarks:            +-----------------------------------+

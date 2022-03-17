@@ -1,4 +1,4 @@
-inetnum:            172.22.77.32 - 172.22.77.47
+inetnum:            172.22.77.32 - 172.22.77.63
 netname:            KSKB-NETv4
 descr:              KSKB-Network IPv4
 country:            TW
@@ -7,5 +7,5 @@ tech-c:             KSKB-DN42
 mnt-by:             KSKB-MNT
 nserver:            ns.kskb.dn42
 status:             ASSIGNED
-cidr:               172.22.77.32/28
+cidr:               172.22.77.32/27
 source:             DN42
