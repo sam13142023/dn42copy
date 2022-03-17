@@ -1,4 +1,4 @@
-route:              172.22.77.32/28
+route:              172.22.77.32/27
 descr:              KSKB-Network IPv4
 origin:             AS4242421817
 mnt-by:             KSKB-MNT
