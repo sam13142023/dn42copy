@@ -1,0 +1,5 @@
+route6:             fd96:4ec1:3efa::/48
+descr:              Peer with me at edisonjwa@gmail.com
+origin:             AS4242420650
+mnt-by:             EDISON-MNT
+source:             DN42

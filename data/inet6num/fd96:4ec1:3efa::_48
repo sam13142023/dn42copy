@@ -1,0 +1,10 @@
+inet6num:           fd96:4ec1:3efa:0000:0000:0000:0000:0000 - fd96:4ec1:3efa:ffff:ffff:ffff:ffff:ffff
+netname:            EDISON-IPV6
+descr:              Peer with me at edisonjwa@gmail.com
+country:            KR
+admin-c:            EDISON-DN42
+tech-c:             EDISON-DN42
+mnt-by:             EDISON-MNT
+status:             ASSIGNED
+cidr:               fd96:4ec1:3efa::/48
+source:             DN42

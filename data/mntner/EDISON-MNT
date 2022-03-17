@@ -1,0 +1,7 @@
+mntner:             EDISON-MNT
+admin-c:            EDISON-DN42
+tech-c:             EDISON-DN42
+mnt-by:             EDISON-MNT
+source:             DN42
+auth:               pgp-fingerprint 9E3D09991F143867FDFA2FC0EAE91DE54315C2B2
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAvrUF267Q31y8UoABtenoethbQaH5JgwU0/xQlQtOAH Edison
