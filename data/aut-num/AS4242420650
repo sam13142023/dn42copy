@@ -1,0 +1,7 @@
+aut-num:            AS4242420650
+as-name:            EDISON-AS
+descr:              Peer with me at edisonjwa@gmail.com
+admin-c:            EDISON-DN42
+tech-c:             EDISON-DN42
+mnt-by:             EDISON-MNT
+source:             DN42

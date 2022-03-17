@@ -1,0 +1,11 @@
+inetnum:            172.20.237.96 - 172.20.237.127
+netname:            EDISON-IPV4
+remarks:            Peer with me at edisonjwa@gmail.com
+descr:              Peer with me at edisonjwa@gmail.com
+country:            KR
+admin-c:            EDISON-DN42
+tech-c:             EDISON-DN42
+mnt-by:             EDISON-MNT
+status:             ASSIGNED
+cidr:               172.20.237.96/27
+source:             DN42
