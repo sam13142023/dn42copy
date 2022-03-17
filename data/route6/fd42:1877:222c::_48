@@ -1,5 +1,4 @@
 route6:             fd42:1877:222c::/48
-descr:              Peer with me kongchenglige@gmail.com
 origin:             AS4242421877
 mnt-by:             LILY-MNT
 source:             DN42
