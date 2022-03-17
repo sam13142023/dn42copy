@@ -1,6 +1,8 @@
 aut-num:            AS4242422602
-as-name:            Global Route Collector
-descr:              https://git.dn42.us/burble/grc
+as-name:            AS-GRC
+descr:              Global Route Collector
+remarks:            This is the ASN for the Global Route Collector
+remarks:            https://wiki.dn42/services/Route-Collector
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
 mnt-by:             BURBLE-MNT
