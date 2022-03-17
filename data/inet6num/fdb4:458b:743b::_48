@@ -1,0 +1,11 @@
+inet6num:           fdb4:458b:743b:0000:0000:0000:0000:0000 - fdb4:458b:743b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb4:458b:743b::/48
+netname:            HACKUTT-NETWORK
+descr:              Network of HackUTT
+admin-c:            HACKUTT-DN42
+tech-c:             HACKUTT-DN42
+org:                ORG-HACKUTT
+mnt-by:             HACKUTT-MNT
+nserver:            ns.hackutt.dn42
+status:             ASSIGNED
+source:             DN42
