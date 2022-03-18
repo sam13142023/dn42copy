@@ -1,0 +1,11 @@
+inetnum:            172.22.133.192 - 172.22.133.255
+cidr:               172.22.133.192/26
+netname:            HACKUTT-NETWORK
+descr:              HackUTT Network
+admin-c:            HACKUTT-DN42
+tech-c:             HACKUTT-DN42
+org:                ORG-HACKUTT
+mnt-by:             HACKUTT-MNT
+nserver:            ns.hackutt.dn42
+status:             ASSIGNED
+source:             DN42

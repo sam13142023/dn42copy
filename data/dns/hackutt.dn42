@@ -1,0 +1,8 @@
+domain:             hackutt.dn42
+admin-c:            HACKUTT-DN42
+tech-c:             HACKUTT-DN42
+org:                ORG-HACKUTT
+mnt-by:             HACKUTT-MNT
+nserver:            ns.hackutt.dn42 172.22.133.193
+nserver:            ns.hackutt.dn42 fdb4:458b:743b::1
+source:             DN42

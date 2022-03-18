@@ -1,0 +1,7 @@
+mntner:             HACKUTT-MNT
+descr:              HackUTT Network and maintainer
+admin-c:            HACKUTT-DN42
+tech-c:             HACKUTT-DN42
+mnt-by:             HACKUTT-MNT
+auth:               pgp-fingerprint 790EE1380CAA246BDDA9F52225824D0A7FBFEFE6
+source:             DN42
