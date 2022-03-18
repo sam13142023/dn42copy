@@ -1,0 +1,9 @@
+domain:             bb-pgqm.dn42
+admin-c:            BBPGQM-DN42
+tech-c:             BBPGQM-DN42
+mnt-by:             BBPGQM-MNT
+nserver:            ns1.bb-pgqm.dn42 172.20.56.56
+nserver:            ns1.bb-pgqm.dn42 fd00:bb:5bf3:bbbb::1
+nserver:            ns2.bb-pgqm.dn42 172.20.56.57
+nserver:            ns2.bb-pgqm.dn42 fd00:bb:5bf3:bbbc::2
+source:             DN42

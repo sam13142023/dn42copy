@@ -1,0 +1,10 @@
+inet6num:           fd00:00bb:5bf3:0000:0000:0000:0000:0000 - fd00:00bb:5bf3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:bb:5bf3::/48
+netname:            BBPGQM-IPV6
+admin-c:            BBPGQM-DN42
+tech-c:             BBPGQM-DN42
+mnt-by:             BBPGQM-MNT
+nserver:            ns1.bb-pgqm.dn42
+nserver:            ns2.bb-pgqm.dn42
+status:             ASSIGNED
+source:             DN42

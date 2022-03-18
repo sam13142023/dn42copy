@@ -1,0 +1,4 @@
+route6:             fd00:bb:5bf3::/48
+origin:             AS4242420549
+mnt-by:             BBPGQM-MNT
+source:             DN42
