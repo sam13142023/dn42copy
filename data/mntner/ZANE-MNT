@@ -2,5 +2,5 @@ mntner:             ZANE-MNT
 admin-c:            ZANE-DN42
 tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
-auth:               pgp-fingerprint 3C43FBF585042655050574BC563671188668DECC
+auth:               pgp-fingerprint B0D799FF05E9F4CD7135203BBD8464A49B8BFB32
 source:             DN42
