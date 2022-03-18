@@ -1,0 +1,11 @@
+inetnum:            172.20.56.0 - 172.20.56.63
+cidr:               172.20.56.0/26
+netname:            BBPGQM-IPV4
+country:            CN
+admin-c:            BBPGQM-DN42
+tech-c:             BBPGQM-DN42
+mnt-by:             BBPGQM-MNT
+nserver:            ns1.bb-pgqm.dn42
+nserver:            ns2.bb-pgqm.dn42
+status:             ASSIGNED
+source:             DN42

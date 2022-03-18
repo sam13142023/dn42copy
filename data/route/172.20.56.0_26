@@ -1,0 +1,4 @@
+route:              172.20.56.0/26
+origin:             AS4242420549
+mnt-by:             BBPGQM-MNT
+source:             DN42
