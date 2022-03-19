@@ -1,0 +1,9 @@
+inetnum:            172.20.174.96 - 172.20.174.127
+cidr:               172.20.174.96/27
+netname:            JONASLED-NETWORK
+admin-c:            JONASLED-DN42
+tech-c:             JONASLED-DN42
+mnt-by:             JONASLED-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-JONASLED

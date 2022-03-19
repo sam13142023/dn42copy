@@ -1,0 +1,5 @@
+route6:             fd92:cd36:3666::/48
+origin:             AS4242422099
+max-length:         48
+mnt-by:             JONASLED-MNT
+source:             DN42
