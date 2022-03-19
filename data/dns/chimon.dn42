@@ -1,0 +1,9 @@
+domain:             chimon.dn42
+admin-c:            CHIMON-DN42
+tech-c:             CHIMON-DN42
+mnt-by:             CHIMON-MNT
+nserver:            ns1.chimon.dn42 172.21.65.180
+nserver:            ns1.chimon.dn42 fdc4:c9b0:e83e:2::53:1
+nserver:            ns2.chimon.dn42 172.21.65.179
+nserver:            ns2.chimon.dn42 fdc4:c9b0:e83e:2::53:2
+source:             DN42
