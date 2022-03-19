@@ -8,11 +8,6 @@ admin-c:            LANTIAN-DN42
 tech-c:             LANTIAN-DN42
 mnt-by:             LANTIAN-MNT
 nserver:            ns-anycast.lantian.dn42
-nserver:            ns1.lantian.dn42
-nserver:            ns2.lantian.dn42
-nserver:            ns3.lantian.dn42
-nserver:            ns4.lantian.dn42
-nserver:            ns5.lantian.dn42
 ds-rdata:           41969 13 2 7A54887C13BAFD371CFF4147CD8DBBA07A92A715C431429D85226A1C106F858F
 ds-rdata:           41969 13 4 CC8ECF8E75B0738F9A491AE4D66B7F25B0DDF95B2A978B9EA631936F43B5081362AAADCDFCEE25E22CE27B4BAC8B2AA8
 status:             ASSIGNED
