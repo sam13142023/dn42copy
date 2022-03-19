@@ -4,5 +4,7 @@ netname:            CHIMON-NETWORK
 admin-c:            CHIMON-DN42
 tech-c:             CHIMON-DN42
 mnt-by:             CHIMON-MNT
+nserver:            ns1.chimon.dn42
+nserver:            ns2.chimon.dn42
 status:             ASSIGNED
 source:             DN42
