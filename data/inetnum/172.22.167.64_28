@@ -8,5 +8,5 @@ mnt-by:             ZANE-MNT
 status:             ASSIGNED
 source:             DN42
 remarks:            UTS Core Network
-remarks:            lg.unknownts.tk
+remarks:            lg.unknownts.com
 nserver:            ns1.unknownts.dn42
