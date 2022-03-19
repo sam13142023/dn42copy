@@ -1,0 +1,7 @@
+aut-num:            AS4242422557
+as-name:            LANTIAN-TEST-AS
+descr:              Lan Tian's Test Network
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+source:             DN42
