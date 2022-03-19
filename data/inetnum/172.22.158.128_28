@@ -1,0 +1,9 @@
+inetnum:            172.22.158.128 - 172.22.158.143
+cidr:               172.22.158.128/28
+netname:            ICEY-V4-NET-1
+nserver:            ns1.icey.dn42
+admin-c:            ICEY-DN42
+tech-c:             ICEY-DN42
+mnt-by:             ICEY-MNT
+status:             ASSIGNED
+source:             DN42

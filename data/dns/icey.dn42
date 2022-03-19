@@ -1,0 +1,8 @@
+domain:             icey.dn42
+descr:              Icey
+admin-c:            ICEY-DN42
+tech-c:             ICEY-DN42
+mnt-by:             ICEY-MNT
+nserver:            ns1.icey.dn42 172.22.158.129
+nserver:            ns1.icey.dn42 fd3c:26b:c9b0::2
+source:             DN42
