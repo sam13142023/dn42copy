@@ -1,13 +1,16 @@
 organisation:       ORG-UTS
 org-name:           Unknown Technology Solutions
 descr:              Providing solutions for all your Techological needs!
-www:                unknownts.tk
-e-mail:             support@unknownts.tk
+www:                unknownts.com
+e-mail:             support@unknownts.com
 language:           EN
 admin-c:            ZANE-DN42
 tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
 source:             DN42
-remarks:            lg.unknownts.tk
-remarks:            For peering email us or we are on IRC @ zane_reick\
+remarks:            Looking Glass: lg.unknownts.com
+remarks:            For peering email us or we are on IRC @ zane_reick9
 remarks:            For resource allocation, email our listed support email
+remarks:            =-=-=-=-=-=-=-=-=-=-=-=-=-=
+remarks:            The UTS network is growing! Feel free to peer with any
+remarks:            of our new "HiCap" nodes!
