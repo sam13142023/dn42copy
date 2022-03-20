@@ -1,0 +1,11 @@
+inet6num:           fd92:cd36:3666:0000:0000:0000:0000:0000 - fd92:cd36:3666:ffff:ffff:ffff:ffff:ffff
+netname:            JONASLED-IPV6
+descr:              Network of Jonasled
+country:            DE
+admin-c:            JONASLED-DN42
+tech-c:             JONASLED-DN42
+mnt-by:             JONASLED-MNT
+status:             ASSIGNED
+cidr:               fd92:cd36:3666::/48
+source:             DN42
+org:                ORG-JONASLED

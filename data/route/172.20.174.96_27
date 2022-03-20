@@ -1,0 +1,4 @@
+route:              172.20.174.96/27
+origin:             AS4242422099
+mnt-by:             JONASLED-MNT
+source:             DN42

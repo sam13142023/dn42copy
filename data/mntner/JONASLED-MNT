@@ -1,0 +1,7 @@
+mntner:             JONASLED-MNT
+admin-c:            JONASLED-DN42
+tech-c:             JONASLED-DN42
+mnt-by:             JONASLED-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5lj9tx2xeEl11qbPTQJIcSOEQPHIPUurCKWSZFyBwsJIeef3HzNcyP7yvDFGuGiHP7NIRyRzvp4hkg537ucfFk+ZqpLdaH+mwKV5zdwl5J95WnfkzBEZ0GOLMFdGnblgwpz37dlZDEZo1BvxqJkapM9BPzWfuiMhwokbNcCJLTBopFQmUqGgyo6wDDCkVU+fTFmK9LgJxRG0RNGgpJGQtLu4kLvTt04WRsMnvrLivlcFNp94RClb8CbfQmi5oBMR34zzTKew3p78Dv1cxWRMrseCWoBipcg607pPCEOaSKNlPn+mk2Um7+bDMb+0F0pAgF0y0FVFH2ZAQpRGipFUA1sburicOwg/QnZRj3TdTYDV/XApvxeBACy7CicJmjqwKb0TnK/y5YRgU5c+aEYX+TeC4WrIIks8LEwtEY5qB2JDQdoc4zXuR/GMbgnCx4xUsqlm3U7km8wewTjM9dM0EjDsUSmy3ocNKSHvcMFy6+2KZiZRaS/JdvOUPTeKj+fM= jonasled@PC
+auth:               pgp-fingerprint D61D56F25321688EAA4F0B41CC3C488E27DFF5CA
