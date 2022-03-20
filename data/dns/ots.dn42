@@ -1,0 +1,8 @@
+domain:             ots.dn42
+admin-c:            PHILUC-DN42
+tech-c:             PHILUC-DN42
+mnt-by:             PHILUC-MNT
+org:                ORG-UCODESPACE
+nserver:            ns1.ucodespace.dn42
+nserver:            ns2.ucodespace.dn42
+source:             DN42

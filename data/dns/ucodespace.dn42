@@ -1,0 +1,10 @@
+domain:             ucodespace.dn42
+admin-c:            PHILUC-DN42
+tech-c:             PHILUC-DN42
+mnt-by:             PHILUC-MNT
+org:                ORG-UCODESPACE
+nserver:            ns1.ucodespace.dn42 172.22.128.91
+nserver:            ns1.ucodespace.dn42 fdcb:3e65:7c29:8000::1
+nserver:            ns2.ucodespace.dn42 172.22.128.92
+nserver:            ns2.ucodespace.dn42 fdcb:3e65:7c29:8000::2
+source:             DN42

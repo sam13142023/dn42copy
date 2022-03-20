@@ -1,0 +1,11 @@
+inetnum:            172.22.128.80 - 172.22.128.95
+cidr:               172.22.128.80/28
+netname:            UCODESPACE-NETWORK
+admin-c:            PHILUC-DN42
+tech-c:             PHILUC-DN42
+mnt-by:             PHILUC-MNT
+org:                ORG-UCODESPACE
+status:             ASSIGNED
+nserver:            ns1.ucodespace.dn42
+nserver:            ns2.ucodespace.dn42
+source:             DN42
