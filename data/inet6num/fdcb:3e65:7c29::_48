@@ -1,0 +1,13 @@
+inet6num:           fdcb:3e65:7c29:0000:0000:0000:0000:0000 - fdcb:3e65:7c29:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcb:3e65:7c29::/48
+netname:            UCODESPACE-NETWORK
+descr:              Network of UCODESPACE
+country:            DE
+admin-c:            PHILUC-DN42
+tech-c:             PHILUC-DN42
+mnt-by:             PHILUC-MNT
+org:                ORG-UCODESPACE
+nserver:            ns1.ucodespace.dn42
+nserver:            ns2.ucodespace.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdcb:3e65:7c29::/48
+origin:             AS4242421531
+max-length:         48
+mnt-by:             PHILUC-MNT
+source:             DN42

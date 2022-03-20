@@ -1,0 +1,6 @@
+mntner:             PHILUC-MNT
+admin-c:            PHILUC-DN42
+tech-c:             PHILUC-DN42
+mnt-by:             PHILUC-MNT
+auth:               pgp-fingerprint 57760CA1C34F3B1D91B30CE62C89F0CF8EFCED3D
+source:             DN42

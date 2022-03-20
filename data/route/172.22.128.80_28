@@ -1,0 +1,4 @@
+route:              172.22.128.80/28
+origin:             AS4242421531
+mnt-by:             PHILUC-MNT
+source:             DN42
