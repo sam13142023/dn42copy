@@ -9,3 +9,4 @@ status:             ASSIGNED
 cidr:               fd92:cd36:3666::/48
 source:             DN42
 org:                ORG-JONASLED
+nserver:            ns1.jonasled.dn42
