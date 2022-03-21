@@ -1,0 +1,9 @@
+domain:             ziad87.dn42
+admin-c:            Z1-DN42
+tech-c:             Z1-DN42
+mnt-by:             Z1-MNT
+nserver:            ns1.ziad87.dn42 172.23.84.96
+nserver:            ns1.ziad87.dn42 fde2:6ea7:1c3::1
+nserver:            ns2.ziad87.dn42 172.23.84.97
+nserver:            ns2.ziad87.dn42 fde2:6ea7:1c3::2
+source:             DN42

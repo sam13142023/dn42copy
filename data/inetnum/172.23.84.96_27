@@ -1,0 +1,11 @@
+inetnum:            172.23.84.96 - 172.23.84.127
+cidr:               172.23.84.96/27
+netname:            Z1-NETWORK
+descr:              ziad87 Test Network
+admin-c:            Z1-DN42
+tech-c:             Z1-DN42
+mnt-by:             Z1-MNT
+status:             ASSIGNED
+nserver:            ns1.ziad87.dn42
+nserver:            ns2.ziad87.dn42
+source:             DN42
