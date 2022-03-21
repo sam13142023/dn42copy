@@ -1,0 +1,6 @@
+domain:             t0biii.dn42
+admin-c:            T0BIII-DN42
+tech-c:             T0BIII-DN42
+mnt-by:             T0BIII-MNT
+nserver:            ns1.t0biii.dn42 fd5d:e0ef:e7e3::53
+source:             DN42
