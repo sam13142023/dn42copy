@@ -1,0 +1,10 @@
+inet6num:           fd84:8db7:2ee5:0000:0000:0000:0000:0000 - fd84:8db7:2ee5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd84:8db7:2ee5::/48
+netname:            848-NETWORK
+descr:              Network of Xanarin (848)
+country:            US
+admin-c:            XANARIN-DN42
+tech-c:             XANARIN-DN42
+mnt-by:             XANARIN-MNT
+status:             ASSIGNED
+source:             DN42
