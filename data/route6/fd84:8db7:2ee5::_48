@@ -1,0 +1,5 @@
+route6:             fd84:8db7:2ee5::/48
+origin:             AS4242420848
+max-length:         48
+mnt-by:             XANARIN-MNT
+source:             DN42

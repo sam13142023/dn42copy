@@ -1,0 +1,8 @@
+inetnum:            172.23.84.64 - 172.23.84.95
+cidr:               172.23.84.64/27
+netname:            848-NETWORK
+admin-c:            XANARIN-DN42
+tech-c:             XANARIN-DN42
+mnt-by:             XANARIN-MNT
+status:             ASSIGNED
+source:             DN42
