@@ -7,3 +7,4 @@ mnt-by:             JONASLED-MNT
 status:             ASSIGNED
 source:             DN42
 org:                ORG-JONASLED
+nserver:            ns1.jonasled.dn42
