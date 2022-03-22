@@ -1,0 +1,8 @@
+domain:             mol.dn42
+descr:              Molmoe DN42
+admin-c:            MOL-DN42
+tech-c:             MOL-DN42
+mnt-by:             MOL-MNT
+nserver:            ns1.mol.dn42 172.23.7.65
+nserver:            ns2.mol.dn42 172.23.7.67
+source:             DN42

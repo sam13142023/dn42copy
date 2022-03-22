@@ -7,5 +7,7 @@ admin-c:            MOL-DN42
 tech-c:             MOL-DN42
 mnt-by:             MOL-MNT
 status:             ASSIGNED
+nserver:            ns1.mol.dn42
+nserver:            ns2.mol.dn42
 cidr:               172.23.7.64/26
 source:             DN42
