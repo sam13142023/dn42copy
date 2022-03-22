@@ -1,5 +1,6 @@
-inet6num:           fdcf:fabc:3c41:0000:0000:0000:0000:0000 - fdcf:fabc:3c41:ffff:ffff:ffff:ffff:ffff
-netname:            MOLMOE-IPV6
+inetnum:            172.23.7.128 - 172.23.7.159
+netname:            MOLMOE-IPV4-DOM
+remarks:            https://dn42.mol.moe/
 descr:              https://dn42.mol.moe/
 country:            CN
 admin-c:            MOL-DN42
@@ -8,5 +9,5 @@ mnt-by:             MOL-MNT
 status:             ASSIGNED
 nserver:            ns1.mol.dn42
 nserver:            ns2.mol.dn42
-cidr:               fdcf:fabc:3c41::/48
+cidr:               172.23.7.128/27
 source:             DN42

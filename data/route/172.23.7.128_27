@@ -1,0 +1,5 @@
+route:              172.23.7.128/27
+descr:              https://dn42.mol.moe/
+origin:             AS4242420603
+mnt-by:             MOL-MNT
+source:             DN42
