@@ -1,0 +1,4 @@
+route:              172.23.199.112/28
+origin:             AS4242420501
+mnt-by:             MX-MNT
+source:             DN42

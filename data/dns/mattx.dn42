@@ -1,0 +1,9 @@
+domain:             mattx.dn42
+admin-c:            MX-DN42
+tech-c:             MX-DN42
+mnt-by:             MX-MNT
+nserver:            ns1.mattx.dn42 172.23.199.112
+nserver:            ns1.mattx.dn42 fdae:ea08:3eba::1
+nserver:            ns2.mattx.dn42 172.23.199.113
+nserver:            ns2.mattx.dn42 fdae:ea08:3eba::2
+source:             DN42

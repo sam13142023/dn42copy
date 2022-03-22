@@ -1,0 +1,7 @@
+mntner:             MX-MNT
+admin-c:            MX-DN42
+tech-c:             MX-DN42
+mnt-by:             MX-MNT
+auth:               pgp-fingerprint F4CECF7CA6FDE9782AC732A4491C6A6E1C34B455
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSEfn7Z73eAz4IJ2/nB2gi8jxDn+VK9gmmjsGpWij12IemQlk/BujAIj1sXqJAuVpPi4np+0jAOIvJHmNNyjXFGhlnG2iEImMwdrSsCXvV9pEE96W9xA0Q5RaPZdMt6wHrIob8DgP+G9o4CTAq/NO1XAns6THCrkSLZ+38bzqwAY3HkLg+blyASLY9XtQa2Z+B3csatwEREvy+1B0A1XHwlDpCczU/LXL9B3eKLra6IxVRip+ggTp19dupZTH9A0BsgQ5/PiLu6P8V+mpRlI51zdH8bGt59fQ6mZ9iLCY7myMplHgMQH/kcA1TS3v0WLRppYW923VVC482UTRj1V41
+source:             DN42

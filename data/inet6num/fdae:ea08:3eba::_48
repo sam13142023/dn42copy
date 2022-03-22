@@ -1,0 +1,12 @@
+inet6num:           fdae:ea08:3eba:0000:0000:0000:0000:0000 - fdae:ea08:3eba:ffff:ffff:ffff:ffff:ffff
+cidr:               fdae:ea08:3eba::/48
+netname:            MX-NETWORK
+descr:              Matt's network
+country:            PL
+admin-c:            MX-DN42
+tech-c:             MX-DN42
+mnt-by:             MX-MNT
+status:             ASSIGNED
+nserver:            ns1.mattx.dn42
+nserver:            ns2.mattx.dn42
+source:             DN42
