@@ -1,0 +1,5 @@
+route6:             fdae:ea08:3eba::/48
+origin:             AS4242420501
+max-length:         48
+mnt-by:             MX-MNT
+source:             DN42

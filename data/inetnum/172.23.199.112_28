@@ -1,0 +1,10 @@
+inetnum:            172.23.199.112 - 172.23.199.127
+cidr:               172.23.199.112/28
+netname:            MX-NETWORK
+admin-c:            MX-DN42
+tech-c:             MX-DN42
+mnt-by:             MX-MNT
+status:             ASSIGNED
+nserver:            ns1.mattx.dn42
+nserver:            ns2.mattx.dn42
+source:             DN42
