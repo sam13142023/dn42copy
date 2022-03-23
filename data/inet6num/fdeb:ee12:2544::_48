@@ -1,0 +1,8 @@
+inet6num:           fdeb:ee12:2544:0000:0000:0000:0000:0000 - fdeb:ee12:2544:ffff:ffff:ffff:ffff:ffff
+cidr:               fdeb:ee12:2544::/48
+netname:            DREIN
+admin-c:            DREIN-DN42
+tech-c:             DREIN-DN42
+mnt-by:             DREIN-MNT
+status:             ASSIGNED
+source:             DN42

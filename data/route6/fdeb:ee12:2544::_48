@@ -1,0 +1,4 @@
+route6:             fdeb:ee12:2544::/48
+origin:             AS4242420623
+mnt-by:             DREIN-MNT
+source:             DN42

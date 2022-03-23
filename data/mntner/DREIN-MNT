@@ -1,0 +1,6 @@
+mntner:             DREIN-MNT
+admin-c:            DREIN-DN42
+tech-c:             DREIN-DN42
+mnt-by:             DREIN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn7Od3mU9Pu49K9Zrwq0fSgSBZ9yP1ItrsJ8MZ4zQL3+ELtixPiUWV8pVT1hWtkmCZfzUBD/rM3PUGKIp6+WSAcVc4AxTarnAxbLAWSdXeU3Co8jHaeFsj2CjDekC2zHiSgI1k057m0jWgw6H2AvrNDihXMoB23mqRmy+Bx1pwmQX/sTBbdNpZylNMQIYNRPYPuxRWJ1jE9JUU7wory+Fa7XYCcbK7k/rXS3iMB4jjNeVy44K2lbPiDNVBsKgeuzxOHqJbOtQMjUJBAdu7bBRn/E2DszgRiZwj1vGRDxuWng0UgMqkvNEDCDemsxAoRGPFHlUDPt2wUAsIwkiwqRnP
+source:             DN42
