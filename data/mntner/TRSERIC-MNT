@@ -1,0 +1,7 @@
+mntner:             TRSERIC-MNT
+descr:              Eric's Enterprises
+admin-c:            TRSERIC-DN42
+tech-c:             TRSERIC-DN42
+mnt-by:             TRSERIC-MNT
+auth:               pgp-fingerprint 063615ED6338A53D56B4018CBEF6DDB7954E3BDA
+source:             DN42

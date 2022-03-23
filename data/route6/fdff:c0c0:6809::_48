@@ -1,0 +1,5 @@
+route6:             fdff:c0c0:6809::/48
+origin:             AS4242422944
+max-length:         48
+mnt-by:             TRSERIC-MNT
+source:             DN42
