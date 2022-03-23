@@ -1,0 +1,4 @@
+route:              172.20.204.96/27
+origin:             AS4242420508
+mnt-by:             USERID-MNT
+source:             DN42

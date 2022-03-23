@@ -1,0 +1,6 @@
+mntner:             USERID-MNT
+admin-c:            USERID-DN42
+tech-c:             USERID-DN42
+mnt-by:             USERID-MNT
+auth:               pgp-fingerprint 75A7142E53120F71B12A0351F68D166666666666
+source:             DN42
