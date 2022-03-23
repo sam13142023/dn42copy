@@ -1,0 +1,10 @@
+inet6num:           fda7:c200:6800:0000:0000:0000:0000:0000 - fda7:c200:6800:ffff:ffff:ffff:ffff:ffff
+cidr:               fda7:c200:6800::/48
+netname:            USERID-NETWORK
+descr:              Network of USERID
+country:            CN
+admin-c:            USERID-DN42
+tech-c:             USERID-DN42
+mnt-by:             USERID-MNT
+status:             ASSIGNED
+source:             DN42

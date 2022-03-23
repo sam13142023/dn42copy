@@ -1,0 +1,5 @@
+route6:             fda7:c200:6800::/48
+origin:             AS4242420508
+max-length:         48
+mnt-by:             USERID-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.204.96 - 172.20.204.127
+cidr:               172.20.204.96/27
+netname:            USERID-NETWORK
+country:            CN
+admin-c:            USERID-DN42
+tech-c:             USERID-DN42
+mnt-by:             USERID-MNT
+status:             ASSIGNED
+source:             DN42
