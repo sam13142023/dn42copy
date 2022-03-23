@@ -1,0 +1,4 @@
+route:              172.22.77.128/27
+origin:             AS4242422944
+mnt-by:             TRSERIC-MNT
+source:             DN42

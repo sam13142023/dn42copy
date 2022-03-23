@@ -1,0 +1,10 @@
+domain:             trseric.dn42
+descr:              trseric.dn42
+admin-c:            TRSERIC-DN42
+tech-c:             TRSERIC-DN42
+mnt-by:             TRSERIC-MNT
+nserver:            ns0.trseric.dn42 172.22.77.129
+nserver:            ns0.trseric.dn42 fdff:c0c0:6809:300:53::1
+nserver:            ns1.trseric.dn42 172.22.77.130
+nserver:            ns1.trseric.dn42 fdff:c0c0:6809:300:53::2
+source:             DN42

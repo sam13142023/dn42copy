@@ -1,0 +1,12 @@
+inetnum:            172.22.77.128 - 172.22.77.159
+netname:            TRSERIC-NETWORK
+descr:              ERIC'S NETWORK
+country:            US
+admin-c:            TRSERIC-DN42
+tech-c:             TRSERIC-DN42
+mnt-by:             TRSERIC-MNT
+status:             ASSIGNED
+cidr:               172.22.77.128/27
+nserver:            ns1.trseric.dn42
+nserver:            ns2.trseric.dn42
+source:             DN42
