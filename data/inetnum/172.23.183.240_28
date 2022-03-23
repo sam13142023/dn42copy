@@ -1,0 +1,8 @@
+inetnum:            172.23.183.240 - 172.23.183.255
+cidr:               172.23.183.240/28
+netname:            DREIN
+admin-c:            DREIN-DN42
+tech-c:             DREIN-DN42
+mnt-by:             DREIN-MNT
+status:             ASSIGNED
+source:             DN42
