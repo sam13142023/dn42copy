@@ -1,0 +1,10 @@
+inet6num:           fdf1:2921:24bd:0000:0000:0000:0000:0000 - fdf1:2921:24bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:2921:24bd::/48
+netname:            CSZONGZI-IPV6
+descr:              IPv6 Network of CSZongzi
+country:            CN
+admin-c:            CSZONGZI-DN42
+tech-c:             CSZONGZI-DN42
+mnt-by:             CSZONGZI-MNT
+status:             ASSIGNED
+source:             DN42

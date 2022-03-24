@@ -1,0 +1,4 @@
+route:              172.23.7.160/28
+origin:             AS4242420273
+mnt-by:             CSZONGZI-MNT
+source:             DN42

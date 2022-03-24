@@ -1,0 +1,5 @@
+route6:             fdf1:2921:24bd::/48
+max-length:         48
+origin:             AS4242420273
+mnt-by:             CSZONGZI-MNT
+source:             DN42
