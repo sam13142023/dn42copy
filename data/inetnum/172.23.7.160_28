@@ -1,0 +1,10 @@
+inetnum:            172.23.7.160 - 172.23.7.175
+cidr:               172.23.7.160/28
+netname:            CSZONGZI-IPV4
+descr:              IPv4 Network of CSZongzi
+country:            CN
+admin-c:            CSZONGZI-DN42
+tech-c:             CSZONGZI-DN42
+mnt-by:             CSZONGZI-MNT
+status:             ASSIGNED
+source:             DN42
