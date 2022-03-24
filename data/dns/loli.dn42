@@ -1,0 +1,10 @@
+domain:             loli.dn42
+descr:              Papersnake's network, peer with me at dn42@pka.moe
+admin-c:            PKA-DN42
+tech-c:             PKA-DN42
+mnt-by:             PKA-MNT
+nserver:            ns1.loli.dn42 172.20.212.7
+nserver:            ns1.loli.dn42 fdcc:abcd:cafe::7
+nserver:            ns2.loli.dn42 172.20.212.8
+nserver:            ns2.loli.dn42 fdcc:abcd:cafe::8
+source:             DN42

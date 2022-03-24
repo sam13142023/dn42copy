@@ -1,0 +1,5 @@
+route:              172.20.212.0/26
+descr:              Papersnake's network, peer with me at dn42@pka.moe
+origin:             AS4242422622
+mnt-by:             PKA-MNT
+source:             DN42

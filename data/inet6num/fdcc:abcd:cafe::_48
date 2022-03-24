@@ -1,0 +1,12 @@
+inet6num:           fdcc:abcd:cafe:0000:0000:0000:0000:0000 - fdcc:abcd:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcc:abcd:cafe::/48
+netname:            PKA-NETWORK-V6
+descr:              Papersnake's network, peer with me at dn42@pka.moe
+country:            CN
+admin-c:            PKA-DN42
+tech-c:             PKA-DN42
+mnt-by:             PKA-MNT
+status:             ASSIGNED
+nserver:            ns1.loli.dn42
+nserver:            ns2.loli.dn42
+source:             DN42
