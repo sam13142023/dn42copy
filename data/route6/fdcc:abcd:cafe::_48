@@ -1,0 +1,6 @@
+route6:             fdcc:abcd:cafe::/48
+descr:              Papersnake's network, peer with me at dn42@pka.moe
+origin:             AS4242422622
+max-length:         48
+mnt-by:             PKA-MNT
+source:             DN42

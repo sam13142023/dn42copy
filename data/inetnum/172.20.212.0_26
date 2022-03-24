@@ -1,0 +1,8 @@
+inetnum:            172.20.212.0 - 172.20.212.63
+cidr:               172.20.212.0/26
+netname:            PKA-NETWORK-V4
+admin-c:            PKA-DN42
+tech-c:             PKA-DN42
+mnt-by:             PKA-MNT
+status:             ASSIGNED
+source:             DN42

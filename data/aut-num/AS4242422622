@@ -1,0 +1,7 @@
+aut-num:            AS4242422622
+as-name:            PKA-AS
+descr:              Papersnake's network, peer with me at dn42@pka.moe
+admin-c:            PKA-DN42
+tech-c:             PKA-DN42
+mnt-by:             PKA-MNT
+source:             DN42

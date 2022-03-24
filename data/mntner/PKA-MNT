@@ -1,0 +1,7 @@
+mntner:             PKA-MNT
+admin-c:            PKA-DN42
+tech-c:             PKA-DN42
+mnt-by:             PKA-MNT
+auth:               pgp-fingerprint 1D9C28960B07E3F2D45C7EF288BA6B3000000000
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJpg0UnrUTi2P9VVONftieufHxqIA61a6/tsPR5bXdze
+source:             DN42
