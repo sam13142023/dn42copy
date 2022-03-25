@@ -1,0 +1,8 @@
+inetnum:            172.20.236.96 - 172.20.236.127
+cidr:               172.20.236.96/27
+netname:            JAMIEK-NETWORK
+admin-c:            JAMIEK-DN42
+tech-c:             JAMIEK-DN42
+mnt-by:             JAMIEK-MNT
+status:             ASSIGNED
+source:             DN42

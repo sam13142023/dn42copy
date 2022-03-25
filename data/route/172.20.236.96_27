@@ -1,0 +1,4 @@
+route:              172.20.236.96/27
+origin:             AS4242421866
+mnt-by:             JAMIEK-MNT
+source:             DN42
