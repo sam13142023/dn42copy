@@ -1,0 +1,7 @@
+mntner:             JAMIEK-MNT
+admin-c:            JAMIEK-DN42
+tech-c:             JAMIEK-DN42
+mnt-by:             JAMIEK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE/PE2QgfGsP8XerVus+9TNcQKoplPdnxi9SWpkJaPlj
+auth:               pgp-fingerprint 786D62CB1ECC883E3381A5B13A16067198E88077
+source:             DN42

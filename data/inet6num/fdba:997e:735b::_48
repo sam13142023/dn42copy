@@ -1,0 +1,10 @@
+inet6num:           fdba:997e:735b:0000:0000:0000:0000:0000 - fdba:997e:735b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdba:997e:735b::/48
+netname:            JAMIEK-NETWORK
+descr:              Network for jamiek
+country:            GB
+admin-c:            JAMIEK-DN42
+tech-c:             JAMIEK-DN42
+mnt-by:             JAMIEK-MNT
+status:             ASSIGNED
+source:             DN42
