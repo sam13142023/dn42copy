@@ -1,4 +1,4 @@
-inet6num:           fd2e:00f1:00ac:0000:0000:0000:0000:0000-fd2e:00f1:00ac:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd2e:00f1:00ac:0000:0000:0000:0000:0000 - fd2e:00f1:00ac:ffff:ffff:ffff:ffff:ffff
 cidr:               fd2e:f1:ac::/48
 netname:            COLIN-NETWORK
 descr:              IPv6 Network of COLIN
