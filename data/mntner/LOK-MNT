@@ -1,0 +1,6 @@
+mntner:             LOK-MNT
+admin-c:            LOK-DN42
+tech-c:             LOK-DN42
+mnt-by:             LOK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAOae/4nNuCOviOszYAhe6B/sTpX3yTIkysAPDg68Hyj
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdea:b782:70a5:0000:0000:0000:0000:0000 - fdea:b782:70a5:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:b782:70a5::/48
+netname:            LOK-NETWORK
+descr:              Network of LOK
+country:            SE
+admin-c:            LOK-DN42
+tech-c:             LOK-DN42
+mnt-by:             LOK-MNT
+status:             ASSIGNED
+nserver:            ns1.lok.dn42
+nserver:            ns2.lok.dn42
+source:             DN42
