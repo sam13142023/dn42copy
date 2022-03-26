@@ -1,0 +1,7 @@
+domain:             situl.dn42
+admin-c:            SITULUOCHEN-DN42
+tech-c:             SITULUOCHEN-DN42
+mnt-by:             SITULUOCHEN-MNT
+nserver:            ns1.situl.dn42 172.23.13.82
+nserver:            ns1.situl.dn42 fd28:021f:ecd2:53::1
+source:             DN42

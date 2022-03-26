@@ -1,0 +1,7 @@
+mntner:             SITULUOCHEN-MNT
+admin-c:            SITULUOCHEN-DN42
+tech-c:             SITULUOCHEN-DN42
+mnt-by:             SITULUOCHEN-MNT
+auth:               pgp-fingerprint 2F61BCDCDBB01F3B7E77FABC89990B83A93E0CA8
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHQ1mc754QpzJAl3Fmq2a0nI/7oH4l+z+MGRxed+Egua situluochen@situlArch
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.13.80/28
+origin:             AS4242422802
+mnt-by:             SITULUOCHEN-MNT
+source:             DN42
