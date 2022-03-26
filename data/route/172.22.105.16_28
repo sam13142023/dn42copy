@@ -1,0 +1,4 @@
+route:              172.22.105.16/28
+origin:             AS4242421334
+mnt-by:             LOK-MNT
+source:             DN42

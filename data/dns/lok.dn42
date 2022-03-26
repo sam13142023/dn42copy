@@ -1,0 +1,9 @@
+domain:             lok.dn42
+admin-c:            LOK-DN42
+tech-c:             LOK-DN42
+mnt-by:             LOK-MNT
+nserver:            ns1.lok.dn42 172.22.105.16
+nserver:            ns1.lok.dn42 fdea:b782:70a5:a::1
+nserver:            ns2.lok.dn42 172.22.105.17
+nserver:            ns2.lok.dn42 fdea:b782:70a5:a::2
+source:             DN42

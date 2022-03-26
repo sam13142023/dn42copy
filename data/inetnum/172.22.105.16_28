@@ -1,0 +1,10 @@
+inetnum:            172.22.105.16 - 172.22.105.31
+cidr:               172.22.105.16/28
+netname:            LOK-NETWORK
+admin-c:            LOK-DN42
+tech-c:             LOK-DN42
+mnt-by:             LOK-MNT
+status:             ASSIGNED
+nserver:            ns1.lok.dn42
+nserver:            ns2.lok.dn42
+source:             DN42

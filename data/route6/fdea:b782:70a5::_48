@@ -1,0 +1,5 @@
+route6:             fdea:b782:70a5::/48
+origin:             AS4242421334
+max-length:         48
+mnt-by:             LOK-MNT
+source:             DN42
