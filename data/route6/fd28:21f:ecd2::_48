@@ -1,0 +1,5 @@
+route6:             fd28:21f:ecd2::/48
+origin:             AS4242422802
+max-length:         48
+mnt-by:             SITULUOCHEN-MNT
+source:             DN42

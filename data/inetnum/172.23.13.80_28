@@ -1,0 +1,9 @@
+inetnum:            172.23.13.80 - 172.23.13.95
+cidr:               172.23.13.80/28
+netname:            SITULUOCHEN-NETWORK
+admin-c:            SITULUOCHEN-DN42
+tech-c:             SITULUOCHEN-DN42
+mnt-by:             SITULUOCHEN-MNT
+status:             ASSIGNED
+nserver:            ns1.situl.dn42
+source:             DN42
