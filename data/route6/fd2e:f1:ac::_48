@@ -1,0 +1,5 @@
+route6:             fd2e:f1:ac::/48
+origin:             AS4242422789
+max-length:         48
+mnt-by:             COLIN-MNT
+source:             DN42

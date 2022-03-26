@@ -1,0 +1,6 @@
+mntner:             COLIN-MNT
+admin-c:            COLIN-DN42
+tech-c:             COLIN-DN42
+mnt-by:             COLIN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIABLj4Vu+xplk67bGYXCIjZtya3avCJuntw+/YjlGTxF bubi@duck.com
+source:             DN42

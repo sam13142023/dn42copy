@@ -1,0 +1,4 @@
+route:              172.22.77.160/27
+origin:             AS4242422789
+mnt-by:             COLIN-MNT
+source:             DN42

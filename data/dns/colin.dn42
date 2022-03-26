@@ -1,0 +1,9 @@
+domain:             colin.dn42
+admin-c:            COLIN-DN42
+tech-c:             COLIN-DN42
+mnt-by:             COLIN-MNT
+nserver:            ns1.colin.dn42 172.22.77.161
+nserver:            ns1.colin.dn42 fd2e:f1:ac:53::1
+nserver:            ns2.colin.dn42 172.22.77.162
+nserver:            ns2.colin.dn42 fd2e:f1:ac:53::2
+source:             DN42

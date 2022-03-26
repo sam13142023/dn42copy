@@ -1,0 +1,10 @@
+inetnum:            172.22.77.160 - 172.22.77.191
+cidr:               172.22.77.160/27
+netname:            COLIN-NETWORK
+admin-c:            COLIN-DN42
+tech-c:             COLIN-DN42
+mnt-by:             COLIN-MNT
+nserver:            ns1.colin.dn42
+nserver:            ns2.colin.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fd2e:00f1:00ac:0000:0000:0000:0000:0000-fd2e:00f1:00ac:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:f1:ac::/48
+netname:            COLIN-NETWORK
+descr:              IPv6 Network of COLIN
+country:            US
+admin-c:            COLIN-DN42
+tech-c:             COLIN-DN42
+mnt-by:             COLIN-MNT
+nserver:            ns1.colin.dn42
+nserver:            ns2.colin.dn42
+status:             ASSIGNED
+source:             DN42
