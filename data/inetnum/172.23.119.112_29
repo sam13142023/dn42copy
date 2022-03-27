@@ -1,0 +1,11 @@
+inetnum:            172.23.119.112 - 172.23.119.119
+netname:            HANA-NETWORK
+descr:              HANA-Advanced-Network-Architecture
+country:            CN
+admin-c:            HANA-DN42
+tech-c:             HANA-DN42
+mnt-by:             HANA-MNT
+nserver:            ns1.hana.dn42
+status:             ASSIGNED
+cidr:               172.23.119.112/29
+source:             DN42
