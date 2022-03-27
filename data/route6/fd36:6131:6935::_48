@@ -1,0 +1,5 @@
+route6:             fd36:6131:6935::/48
+descr:              OTPOrg Virtural Route6 fd36:6131:6935::/48 AS4242422615 admin@oldtaoge.space
+origin:             AS4242422615
+mnt-by:             OLDTAOGE-MNT
+source:             DN42

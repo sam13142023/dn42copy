@@ -1,0 +1,12 @@
+inetnum:            172.23.15.0 - 172.23.15.15
+netname:            OLDTAOGE-IPV4
+remarks:            OTPOrg Virtural IPRange 172.23.15.0/28 admin@oldtaoge.space
+descr:              OTPOrg Virtural IPRange 172.23.15.0/28 admin@oldtaoge.space
+country:            CN
+admin-c:            OLDTAOGE-DN42
+tech-c:             OLDTAOGE-DN42
+mnt-by:             OLDTAOGE-MNT
+nserver:            ns1.oldtaoge.dn42
+status:             ASSIGNED
+cidr:               172.23.15.0/28
+source:             DN42

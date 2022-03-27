@@ -1,0 +1,8 @@
+mntner:             OLDTAOGE-MNT
+admin-c:            OLDTAOGE-DN42
+tech-c:             OLDTAOGE-DN42
+mnt-by:             OLDTAOGE-MNT
+source:             DN42
+auth:               pgp-fingerprint C190105BDECA642290C696E8B3AFAE3A121D10D1
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEIuSHMY3Jui50wznH+fS6XL0h/jXsu3L+MKKmzMgv52GHKdtkW3EXMZ/3QWttop+dE+WPom18mVIDNrSuA6DlFXpU1VU8h1EPxNlyeDlrjlrwsZitM6fWt+w/jMPAn2NJLaszCr97NQCNZTBsgeDlxigWIWJFzKm5u1H0tZF7dejDrdWqF3x4w504Aby+7y3dGRmzlJKmZNZ+hfuNU10Zrx+f7spT1i/QRcamqrjVIte3tZe9z+wMW0vt6iX56IZG4D6Xeor2A4gOz3us/GDUc2yMKXOnUkQ5KOVDWWyvtGCSrIbal6N4wdeB0QfGM4ZqofL03AbM6da+rvOy88xUr+Pgjjd/r+PXGDvSbVGmH/8h/usXty2J6HWyi5TjY7NYbOyQmsZVEwAb0B5mf43+UNCJwfoLmehaFAHuBP+9YqC2ESb4D0m947g+4jDdyvZQwh/GXxKVSQSmjmOn+ieaZUHDfrVkgp7QmIqbUOHSia0WvbT7J8GpR5QeqEwcepM= admin@oldtaoge.space
+remarks:            

@@ -1,0 +1,7 @@
+domain:             oldtaoge.dn42
+admin-c:            OLDTAOGE-DN42
+tech-c:             OLDTAOGE-DN42
+mnt-by:             OLDTAOGE-MNT
+nserver:            ns1.oldtaoge.dn42 172.23.15.1
+nserver:            ns1.oldtaoge.dn42 fd36:6131:6935::1
+source:             DN42
