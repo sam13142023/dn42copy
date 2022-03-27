@@ -1,0 +1,11 @@
+inet6num:           fd36:6131:6935:0000:0000:0000:0000:0000 - fd36:6131:6935:ffff:ffff:ffff:ffff:ffff
+netname:            OLDTAOGE-IPV6
+descr:              OTPOrg Virtural IPRange fd36:6131:6935::/48 admin@oldtaoge.space
+country:            CN
+admin-c:            OLDTAOGE-DN42
+tech-c:             OLDTAOGE-DN42
+mnt-by:             OLDTAOGE-MNT
+nserver:            ns1.oldtaoge.dn42
+status:             ASSIGNED
+cidr:               fd36:6131:6935::/48
+source:             DN42

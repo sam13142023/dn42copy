@@ -1,0 +1,5 @@
+route:              172.23.15.0/28
+descr:              OTPOrg Virtural Route 172.21.15.0/28 AS4242422615 admin@oldtaoge.space
+origin:             AS4242422615
+mnt-by:             OLDTAOGE-MNT
+source:             DN42
