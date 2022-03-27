@@ -1,0 +1,4 @@
+route6:             fdc3:1e0a:bb75::/48
+origin:             AS4242421898
+mnt-by:             HANA-MNT
+source:             DN42

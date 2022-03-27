@@ -1,0 +1,4 @@
+route:              172.23.119.112/29
+origin:             AS4242421898
+mnt-by:             HANA-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             HANA-MNT
+admin-c:            HANA-DN42
+tech-c:             HANA-DN42
+mnt-by:             HANA-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDOwrSiqmJLQ2Bu7AQ0stfWLX1zi9SXJJMN0C8GJ5RyNcpTGgECKooIlrgReDHm5fD6Ll+pjzk+brM6ftubg+sGQn+HyeJ2KBCaczroRaeypnUOPVJdhfS9Zep9GWXUxBY0cL3iWYcyjdlQXIuE5bvG2vM7dtTIms7exv49eWuVShPt3YC3H8nw7eZ/fOHJJXPDgoywx/muKHcnjGU+mR5C6AdMDEQcNkmB4WLobTEymWSnWQ2X4h9ToRoTZLRSodtaQmSwBrDXE5TowRAKK3ryNWRvMv8utxmCPDOykbR08fIYC7DXe0FuZ+c2XuhH1NDgz9JtdNvytEch75LrlNg0GjNuuPaEULaFfwN14EuVhrxmnp0f4CwU4svYG8JhsyX1txC9oqtx/nh81/VSRJNhWP1MJLCNDiJKS2V1uH0MOO0PX1ucR+b/RFaY5KJffvSKvHDslmXidvV7v5cZapoB0JLepUVgPzsaEU4KXgngs6kjmbqfyQN4aVUziJ1Q93k=
+remarks:            HANA

@@ -1,0 +1,7 @@
+domain:             hana.dn42
+admin-c:            HANA-DN42
+tech-c:             HANA-DN42
+mnt-by:             HANA-MNT
+nserver:            ns1.hana.dn42 172.23.119.112
+nserver:            ns1.hana.dn42 fdc3:1e0a:bb75:345e::1
+source:             DN42

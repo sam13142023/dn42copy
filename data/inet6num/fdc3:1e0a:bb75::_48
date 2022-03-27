@@ -1,0 +1,11 @@
+inet6num:           fdc3:1e0a:bb75:0000:0000:0000:0000:0000 - fdc3:1e0a:bb75:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:1e0a:bb75::/48
+netname:            HANA-NETWORK
+descr:              HANA-Advanced-Network-Architecture
+admin-c:            HANA-DN42
+tech-c:             HANA-DN42
+mnt-by:             HANA-MNT
+status:             ASSIGNED
+source:             DN42
+country:            cn
+nserver:            ns1.hana.dn42
