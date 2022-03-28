@@ -1,0 +1,5 @@
+route6:             fdda:5ab7:7c13::/48
+origin:             AS4242421396
+max-length:         48
+mnt-by:             STUMBRA-MNT
+source:             DN42

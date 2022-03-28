@@ -1,0 +1,4 @@
+route:              172.22.106.32/27
+origin:             AS4242421396
+mnt-by:             STUMBRA-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdda:5ab7:7c13:0000:0000:0000:0000:0000 - fdda:5ab7:7c13:ffff:ffff:ffff:ffff:ffff
+cidr:               fdda:5ab7:7c13::/48
+netname:            STUMBRA-NETWORK
+descr:              Network of STUMBRA
+country:            GB
+admin-c:            STU-DN42
+tech-c:             STU-DN42
+mnt-by:             STUMBRA-MNT
+status:             ASSIGNED
+source:             DN42
