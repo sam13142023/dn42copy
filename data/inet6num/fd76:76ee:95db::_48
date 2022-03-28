@@ -1,0 +1,10 @@
+inet6num:           fd76:76ee:95db:0000:0000:0000:0000:0000 - fd76:76ee:95db:ffff:ffff:ffff:ffff:ffff
+netname:            LINZHENG-IPV6
+descr:              Peer with me at 1243901311@qq.com
+country:            CN
+admin-c:            LINZHENG-DN42
+tech-c:             LINZHENG-DN42
+mnt-by:             LINZHENG-MNT
+status:             ASSIGNED
+cidr:               fd76:76ee:95db::/48
+source:             DN42
