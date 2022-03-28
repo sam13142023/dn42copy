@@ -1,0 +1,8 @@
+inetnum:            172.22.106.32 - 172.22.106.63
+cidr:               172.22.106.32/27
+netname:            STUMBRA-NETWORK
+admin-c:            STU-DN42
+tech-c:             STU-DN42
+mnt-by:             STUMBRA-MNT
+status:             ASSIGNED
+source:             DN42
