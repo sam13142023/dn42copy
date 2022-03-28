@@ -5,7 +5,7 @@ country:            CN
 admin-c:            BBPGQM-DN42
 tech-c:             BBPGQM-DN42
 mnt-by:             BBPGQM-MNT
-nserver:            ns1.bb-pgqm.dn42
-nserver:            ns2.bb-pgqm.dn42
+nserver:            ns.bb-pgqm.dn42
+ds-rdata:           6883 16 2 CE2837A3094FF40BB7CB688383E21E8F11AA6A397FD228B4C8D8BFB8F240BB1F
 status:             ASSIGNED
 source:             DN42

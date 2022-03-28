@@ -1,10 +1,11 @@
 inet6num:           fd00:00bb:5bf3:0000:0000:0000:0000:0000 - fd00:00bb:5bf3:ffff:ffff:ffff:ffff:ffff
 cidr:               fd00:bb:5bf3::/48
 netname:            BBPGQM-IPV6
+country:            CN
 admin-c:            BBPGQM-DN42
 tech-c:             BBPGQM-DN42
 mnt-by:             BBPGQM-MNT
-nserver:            ns1.bb-pgqm.dn42
-nserver:            ns2.bb-pgqm.dn42
+nserver:            ns.bb-pgqm.dn42
+ds-rdata:           13422 16 2 24E07088D323E42A24B31A6D7B66BB4ABFF0BC57DD4D9FF2067789416989751D
 status:             ASSIGNED
 source:             DN42
