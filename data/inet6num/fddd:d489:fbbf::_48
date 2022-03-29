@@ -1,0 +1,10 @@
+inet6num:           fddd:d489:fbbf:0000:0000:0000:0000:0000 - fddd:d489:fbbf:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:d489:fbbf::/48
+netname:            DE-SLODDERVOS-20220329
+descr:              Sloddervos Network
+country:            DE
+admin-c:            SLODDERVOS-DN42
+tech-c:             SLODDERVOS-DN42
+mnt-by:             SLODDERVOS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fddd:d489:fbbf::/48
+origin:             AS4242422902
+max-length:         48
+mnt-by:             SLODDERVOS-MNT
+source:             DN42
