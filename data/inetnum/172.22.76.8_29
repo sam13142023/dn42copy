@@ -1,0 +1,8 @@
+inetnum:            172.22.76.8 - 172.22.76.15
+cidr:               172.22.76.8/29
+netname:            WITCH-NETWORK
+admin-c:            BIONICOSMOS-DN42
+tech-c:             BIONICOSMOS-DN42
+mnt-by:             BIONICOSMOS-MNT
+status:             ASSIGNED
+source:             DN42

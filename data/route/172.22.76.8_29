@@ -1,0 +1,4 @@
+route:              172.22.76.8/29
+origin:             AS4242423305
+mnt-by:             BIONICOSMOS-MNT
+source:             DN42
