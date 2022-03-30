@@ -1,0 +1,11 @@
+inetnum:            172.22.160.64 - 172.22.160.127
+netname:            XIPHITY-IPV4
+remarks:            Peer with me at contact@xiphity.tw
+descr:              Peer with me at contact@xiphity.tw
+country:            TW
+admin-c:            XIPHITY-DN42
+tech-c:             XIPHITY-DN42
+mnt-by:             XIPHITY-MNT
+status:             ASSIGNED
+cidr:               172.22.160.64/26
+source:             DN42
