@@ -1,0 +1,10 @@
+inet6num:           fd29:74a7:a878:0000:0000:0000:0000:0000 - fd29:74a7:a878:ffff:ffff:ffff:ffff:ffff
+netname:            XIPHITY-IPV6
+descr:              Peer with me at contact@xiphity.tw
+country:            TW
+admin-c:            XIPHITY-DN42
+tech-c:             XIPHITY-DN42
+mnt-by:             XIPHITY-MNT
+status:             ASSIGNED
+cidr:               fd29:74a7:a878::/48
+source:             DN42

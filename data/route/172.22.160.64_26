@@ -1,0 +1,5 @@
+route:              172.22.160.64/26
+descr:              Peer with me at contact@xiphity.tw
+origin:             AS4242422662
+mnt-by:             XIPHITY-MNT
+source:             DN42

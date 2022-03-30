@@ -1,0 +1,8 @@
+mntner:             XIPHITY-MNT
+admin-c:            XIPHITY-DN42
+tech-c:             XIPHITY-DN42
+mnt-by:             XIPHITY-MNT
+source:             DN42
+auth:               pgp-fingerprint BA08855A444324B7B9600C2AAC70738B4346BCD3
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUc9EDhXQ+Ik4xS/hd+QEwtAKjGjRyXI+rlp6BRgq0H7xQ7LTd3X7+u1i1ii8WZ0/4xuMgtPz0rNWg+jhNDjYtLyVx7GRENBfVESJjfNBMLxg2ZTUQWA4vCd9cP0y5XAJJWj7NYY/q32XGQSzBgx7ptfgZnMioq2j2thIiMbKgywqN5pMFJzGQTqiNAV4Bv/yvfljjBmdR+HYagp3mOIr1igNrF6PWVyjDU+Ozbvu2/s5yVcJN3wMIvUrPHoo8/7S+cLHH7l6KO2CJlB3yc6+aVGlmRbiU8wb+KxvUbx9tpp/9cwN/xb2FY0v8rDRBneu//cKmeM/SQVf4DDxZOZ/Q78IhDF+H57efzwfTU2Vg6QBb6Iv6i8HZGpn6vgeO+LiLSwtbYaIujlYZu9guAJeC+57aHNP1I8Vqr5u8eCZpshJ90DHbN7ZBScWVuA6Oq3Xp91ynNvKBVrFiAzfa1fX5ajzK7Lov05n7ntP0la9fqkJhTmN3NoIJwBh/5Nb9sk8= 
+remarks:            None
