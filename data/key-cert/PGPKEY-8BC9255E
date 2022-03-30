@@ -1,0 +1,21 @@
+key-cert:           PGPKEY-8BC9255E
+method:             PGP
+fingerpr:           209A 091A 4428 B203 E77F 2128 03E8 4B5D 8BC9 255E
+owner:              BioniCosmos <admin@moecm.com>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEYkQR8RYJKwYBBAHaRw8BAQdALLtiw4dKZyLyNYOILW16yq3kGYPkJZEf2bIB
+certif:             wQWi7jS0HUJpb25pQ29zbW9zIDxhZG1pbkBtb2VjbS5jb20+iJQEExYKADwWIQQg
+certif:             mgkaRCiyA+d/ISgD6Etdi8klXgUCYkQR8QIbAwULCQgHAgMiAgEGFQoJCAsCBBYC
+certif:             AwECHgcCF4AACgkQA+hLXYvJJV7h8AEA6L9GFNu98mfC54BTv0tjkEVaaq7JGC9s
+certif:             1bUUGdSND4UBAKEBa2hJogq1A3wVgCJ8Czo0IF8vSkm6/ouKHdR13VMIuDgEYkQR
+certif:             8RIKKwYBBAGXVQEFAQEHQKFlNZZf+XWSLtzvZf1/olZaIkN2UCGLVpm4q6dKxP0F
+certif:             AwEIB4h4BBgWCgAgFiEEIJoJGkQosgPnfyEoA+hLXYvJJV4FAmJEEfECGwwACgkQ
+certif:             A+hLXYvJJV5IHAEA2WqiZombY7kIQ3hujT3lxIlJHQTOSNW771H0FsM/Wj4A/0U5
+certif:             51dq5JA6v3qUpfYr1s6TNIRiXuVj/v1T2b+im/8D
+certif:             =acSy
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            BIONICOSMOS-DN42
+tech-c:             BIONICOSMOS-DN42
+mnt-by:             BIONICOSMOS-MNT
+source:             DN42

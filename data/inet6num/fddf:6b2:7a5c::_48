@@ -1,0 +1,8 @@
+inet6num:           fddf:06b2:7a5c:0000:0000:0000:0000:0000 - fddf:06b2:7a5c:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:6b2:7a5c::/48
+netname:            WITCH-NETWORK
+admin-c:            BIONICOSMOS-DN42
+tech-c:             BIONICOSMOS-DN42
+mnt-by:             BIONICOSMOS-MNT
+status:             ASSIGNED
+source:             DN42

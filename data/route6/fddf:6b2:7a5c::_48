@@ -1,0 +1,5 @@
+route6:             fddf:6b2:7a5c::/48
+origin:             AS4242423305
+max-length:         48
+mnt-by:             BIONICOSMOS-MNT
+source:             DN42
