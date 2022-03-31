@@ -1,0 +1,5 @@
+route6:             fd3b:826c:87df::/48
+origin:             AS4242420975
+max-length:         48
+mnt-by:             ACDSEE400-MNT
+source:             DN42
