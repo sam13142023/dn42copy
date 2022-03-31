@@ -1,0 +1,10 @@
+inet6num:           fdfa:b61e:0900:0000:0000:0000:0000:0000 - fdfa:b61e:0900:ffff:ffff:ffff:ffff:ffff
+netname:            FZZZ-IPV6
+descr:              Peer with me at fuzixian666@outlook.com
+country:            CN
+admin-c:            FZZZ-DN42
+tech-c:             FZZZ-DN42
+mnt-by:             FZZZ-MNT
+status:             ASSIGNED
+cidr:               fdfa:b61e:900::/48
+source:             DN42
