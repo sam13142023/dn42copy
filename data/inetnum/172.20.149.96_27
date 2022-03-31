@@ -1,0 +1,11 @@
+inetnum:            172.20.149.96 - 172.20.149.127
+netname:            FZZZ-IPV4
+remarks:            Peer with me at fuzixian666@outlook.com
+descr:              Peer with me at fuzixian666@outlook.com
+country:            CN
+admin-c:            FZZZ-DN42
+tech-c:             FZZZ-DN42
+mnt-by:             FZZZ-MNT
+status:             ASSIGNED
+cidr:               172.20.149.96/27
+source:             DN42
