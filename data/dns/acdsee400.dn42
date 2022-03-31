@@ -1,0 +1,9 @@
+domain:             acdsee400.dn42
+nserver:            ns1.acdsee400.dn42 172.21.91.50
+nserver:            ns1.acdsee400.dn42 fd3b:826c:87df::50
+nserver:            ns2.acdsee400.dn42 172.21.91.51
+nserver:            ns2.acdsee400.dn42 fd3b:826c:87df::51
+admin-c:            ACDSEE400-DN42
+tech-c:             ACDSEE400-DN42
+mnt-by:             ACDSEE400-MNT
+source:             DN42
