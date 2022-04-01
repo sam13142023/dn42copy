@@ -1,0 +1,8 @@
+route:              10.127.180.0/24
+max-length:         29
+origin:             AS4201271877
+admin-c:            LILYBOUQUET-NEONETWORK
+tech-c:             LILYBOUQUET-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
