@@ -1,0 +1,7 @@
+domain:             sloeber.dn42
+admin-c:            SLODDERVOS-DN42
+tech-c:             SLODDERVOS-DN42
+mnt-by:             SLODDERVOS-MNT
+nserver:            ns1.sloeber.dn42 fddd:d489:fbbf:1::53
+ds-rdata:           18574 7 2 E9F3354F3B1C67DBF5A269BD640A9365CB8B8EB45953007A29BC9156 9CB3C7DE
+source:             DN42
