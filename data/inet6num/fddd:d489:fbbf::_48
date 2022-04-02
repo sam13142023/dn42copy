@@ -7,4 +7,6 @@ admin-c:            SLODDERVOS-DN42
 tech-c:             SLODDERVOS-DN42
 mnt-by:             SLODDERVOS-MNT
 status:             ASSIGNED
+ds-rdata:           21993 7 2 78C1703D8D459362B393264C4D3F026768B75356BEA99D22FAAF67FF 425DA27F
+nserver:            ns1.sloeber.dn42
 source:             DN42
