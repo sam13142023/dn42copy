@@ -1,0 +1,6 @@
+mntner:             BLINKNET-MNT
+admin-c:            BLINKNET-DN42
+tech-c:             BLINKNET-DN42
+mnt-by:             BLINKNET-MNT
+auth:               pgp-fingerprint 05CA2D578765DA8275EE6AF271F854EDBED4E7A1
+source:             DN42

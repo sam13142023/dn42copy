@@ -1,0 +1,5 @@
+route6:             fdab:9734:91ed::/48
+origin:             AS4242421962
+max-length:         48
+mnt-by:             BLINKNET-MNT
+source:             DN42
