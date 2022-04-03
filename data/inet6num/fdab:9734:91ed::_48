@@ -1,0 +1,9 @@
+inet6num:           fdab:9734:91ed:0000:0000:0000:0000:0000 - fdab:9734:91ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fdab:9734:91ed::/48
+netname:            BLINKNET-NETWORK
+country:            US
+admin-c:            BLINKNET-DN42
+tech-c:             BLINKNET-DN42
+mnt-by:             BLINKNET-MNT
+status:             ASSIGNED
+source:             DN42
