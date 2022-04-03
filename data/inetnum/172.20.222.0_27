@@ -8,5 +8,5 @@ tech-c:             JH0-DN42
 mnt-by:             JH0-MNT
 status:             ASSIGNED
 nserver:            ns1.jh0project.dn42
-ds-rdata:           7873 7 2 29FA9E218C756AE3E670BE1C499BA5B09EC3799F80C8EDE2A7F63688 0F85D8F9
+ds-rdata:           15313 13 2 655EC16F0A55B5BAD87466DC13E63A2FB9ADB6D7575C7C5EA6985A12 F00B4256
 source:             DN42
