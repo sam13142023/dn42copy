@@ -2,9 +2,9 @@ domain:             lapinet27.dn42
 admin-c:            LAPISBLUE27-DN42
 tech-c:             LAPISBLUE27-DN42
 mnt-by:             LAPISBLUE27-MNT
-nserver:            ns1.lapinet27.dn42 172.22.180.98
-nserver:            ns1.lapinet27.dn42 fd0b:da1a:9768:8001::53
-nserver:            ns2.lapinet27.dn42 172.22.180.65
-nserver:            ns2.lapinet27.dn42 fd0b:da1a:9768::53
+nserver:            ns1.lapinet27.dn42 172.22.180.100
+nserver:            ns1.lapinet27.dn42 fd0b:da1a:9768:301::53
+nserver:            ns2.lapinet27.dn42 172.22.180.113
+nserver:            ns2.lapinet27.dn42 fd0b:da1a:9768:501::53
 ds-rdata:           38051 8 2 E8209C74945052F285AE0BBBA14D4480DB379D213C1EF0CF6A009697 09C4508D
 source:             DN42
