@@ -1,0 +1,10 @@
+domain:             champlain.dn42
+nserver:            ns-1.champlain.dn42 172.23.119.66
+nserver:            ns-1.champlain.dn42 fde6:a552:874f:53::1
+nserver:            ns-2.champlain.dn42 172.23.119.67
+nserver:            ns-2.champlain.dn42 fde6:a552:874f:53::2
+admin-c:            DHELLSTERN-DN42
+tech-c:             DHELLSTERN-DN42
+mnt-by:             DHELLSTERN-MNT
+org:                ORG-CHAMPLAIN
+source:             DN42
