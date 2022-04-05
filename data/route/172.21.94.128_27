@@ -1,0 +1,4 @@
+route:              172.21.94.128/27
+origin:             AS4242421556
+mnt-by:             GABRIELTACKITT-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd07:881f:a074:0000:0000:0000:0000:0000 - fd07:881f:a074:ffff:ffff:ffff:ffff:ffff
+cidr:               fd07:881f:a074::/48
+netname:            TACKITT-NETWORK
+descr:              Tackitt, Inc. Network
+country:            US
+admin-c:            GABRIELTACKITT-DN42
+tech-c:             GABRIELTACKITT-DN42
+org:                ORG-TACKITT
+mnt-by:             GABRIELTACKITT-MNT
+status:             ASSIGNED
+source:             DN42

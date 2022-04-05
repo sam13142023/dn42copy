@@ -1,0 +1,9 @@
+inetnum:            172.21.94.128-172.21.94.159
+cidr:               172.21.94.128/27
+netname:            TACKITT-NETWORK
+admin-c:            GABRIELTACKITT-DN42
+tech-c:             GABRIELTACKITT-DN42
+org:                ORG-TACKITT
+mnt-by:             GABRIELTACKITT-MNT
+status:             ASSIGNED
+source:             DN42
