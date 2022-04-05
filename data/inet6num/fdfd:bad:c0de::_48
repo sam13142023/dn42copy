@@ -1,0 +1,10 @@
+inet6num:           fdfd:0bad:c0de:0000:0000:0000:0000:0000 - fdfd:0bad:c0de:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:bad:c0de::/48
+netname:            MISSING-NETWORK
+descr:              The missing network
+country:            US
+admin-c:            MISSING-DN42
+tech-c:             MISSING-DN42
+mnt-by:             MISSING-MNT
+status:             ASSIGNED
+source:             DN42

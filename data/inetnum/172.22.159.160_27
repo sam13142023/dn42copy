@@ -1,0 +1,8 @@
+inetnum:            172.22.159.160 - 172.22.159.191
+cidr:               172.22.159.160/27
+netname:            MISSING-NETWORK
+admin-c:            MISSING-DN42
+tech-c:             MISSING-DN42
+mnt-by:             MISSING-MNT
+status:             ASSIGNED
+source:             DN42
