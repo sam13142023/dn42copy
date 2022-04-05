@@ -1,0 +1,5 @@
+route6:             fdfd:bad:c0de::/48
+origin:             AS4242422047
+max-length:         48
+mnt-by:             MISSING-MNT
+source:             DN42
