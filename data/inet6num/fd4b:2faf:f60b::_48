@@ -1,0 +1,10 @@
+inet6num:           fd4b:2faf:f60b:0000:0000:0000:0000:0000 - fd4b:2faf:f60b:ffff:ffff:ffff:ffff:ffff
+netname:            WL7JJ-NET6
+cidr:               fd4b:2faf:f60b::/48
+descr:              WL7JJ IPV6 RANGE
+country:            PT
+admin-c:            WL7JJ-DN42
+tech-c:             WL7JJ-DN42
+mnt-by:             WL7JJ-MNT
+status:             ASSIGNED
+source:             DN42
