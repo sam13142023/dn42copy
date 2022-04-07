@@ -1,7 +1,7 @@
-aut-num:            AS4242421078
-as-name:            AS-RISEUPGROUP-DN42
+domain:             riseupgroup.dn42
 admin-c:            RISEUPGROUP-DN42
 tech-c:             RISEUPGROUP-DN42
 mnt-by:             RISEUPGROUP-MNT
+nserver:            ns1.riseupgroup.dn42 172.23.86.34
 source:             DN42
 org:                ORG-RISEUPGROUP
