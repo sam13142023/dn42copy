@@ -1,0 +1,9 @@
+domain:             shield.dn42
+admin-c:            EVYDE-DN42
+tech-c:             EVYDE-DN42
+mnt-by:             EVYDE-MNT
+nserver:            ns1.shield.dn42 172.23.33.130
+nserver:            ns1.shield.dn42 fd40:2333:e895:2001:da8:53::1
+nserver:            ns2.shield.dn42 172.23.33.131
+nserver:            ns2.shield.dn42 fd40:2333:e895:2001:da8:53::2
+source:             DN42

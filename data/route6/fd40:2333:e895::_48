@@ -1,0 +1,6 @@
+route6:             fd40:2333:e895::/48
+descr:              Peer with me at hack.evyde at protonmail.com
+origin:             AS4242420471
+mnt-by:             EVYDE-MNT
+source:             DN42
+max-length:         48
