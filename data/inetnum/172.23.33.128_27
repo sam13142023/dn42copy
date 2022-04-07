@@ -1,0 +1,13 @@
+inetnum:            172.23.33.128 - 172.23.33.159
+netname:            EVYDE-IPV4
+remarks:            Peer with me at hack.evyde at protonmail.com/Telegram: Evyde
+descr:              Peer with me at hack.evyde at protonmail.com/Telegram: Evyde
+country:            CN
+admin-c:            EVYDE-DN42
+tech-c:             EVYDE-DN42
+mnt-by:             EVYDE-MNT
+nserver:            ns1.shield.dn42
+nserver:            ns2.shield.dn42
+status:             ASSIGNED
+cidr:               172.23.33.128/27
+source:             DN42

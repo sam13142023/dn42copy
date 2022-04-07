@@ -1,0 +1,6 @@
+mntner:             EVYDE-MNT
+admin-c:            EVYDE-DN42
+tech-c:             EVYDE-DN42
+mnt-by:             EVYDE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD0dMS418ShwMHBIjHyod+1+qkxdVhCLp3rWSFeO5mrGHC16tk+cdC7odIT5eO6SA/30dtM0eMRPp6/WFsPj19bfMozybeENA/C/jJtNWouSwpnwcpS0Ab34Kr5YKkrmV0YFVyMKRbxpjQy9diAspqmo6t6QWe4l72HJUTY2s/JFVke9Hds0mK+WvmVJtXq7IPpob3PauOUyyUENJuAeyG+n3RRTBhaH1B0yyWyVGGLv8YMmSC9Umpbuc8LtrQNhIbCKCFj7srlZDgjEbtWpjvWBRvp/9DFoyIPuqCGgjDwtQF1knxmAHQwPdhzQp4R/LjS+ZAIYsz5uWvejZku5WVz evyde@evydemacbook-air.local
+source:             DN42

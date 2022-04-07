@@ -1,0 +1,12 @@
+inet6num:           fd40:2333:e895:0000:0000:0000:0000:0000 - fd40:2333:e895:ffff:ffff:ffff:ffff:ffff
+netname:            EVYDE-IPV6
+descr:              Peer with me at hack.evyde at protonmail.com
+country:            CN
+admin-c:            EVYDE-DN42
+tech-c:             EVYDE-DN42
+mnt-by:             EVYDE-MNT
+nserver:            ns1.shield.dn42
+nserver:            ns2.shield.dn42
+status:             ASSIGNED
+cidr:               fd40:2333:e895::/48
+source:             DN42
