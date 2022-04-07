@@ -1,0 +1,8 @@
+mntner:             RISEUPGROUP-MNT
+admin-c:            RISEUPGROUP-DN42
+tech-c:             RISEUPGROUP-DN42
+mnt-by:             RISEUPGROUP-MNT
+auth:               pgp-fingerprint C2A0E0436B592267CEB29223D1122CF4F99AF885
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDcFiXTVKfr1nmcLzsW9pyZ5Tq806fWFXq8kFFAP/NEF dn42@riseupgroup.net
+org:                ORG-RISEUPGROUP
+source:             DN42

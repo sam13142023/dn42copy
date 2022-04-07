@@ -1,5 +1,5 @@
 route6:             fdb4:2dc1:c741::/48
 origin:             AS4242421078
 max-length:         48
-mnt-by:             PGNHD-MNT
+mnt-by:             RISEUPGROUP-MNT
 source:             DN42

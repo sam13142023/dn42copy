@@ -1,9 +1,10 @@
 inet6num:           fdb4:2dc1:c741:0000:0000:0000:0000:0000 - fdb4:2dc1:c741:ffff:ffff:ffff:ffff:ffff
-netname:            PGNHD-IP6NET
+netname:            RISEUPGROUP-IP6NET
 cidr:               fdb4:2dc1:c741::/48
-admin-c:            PGNHD-DN42
-tech-c:             PGNHD-DN42
-mnt-by:             PGNHD-MNT
-nserver:            ns1.pgnhd.dn42
+admin-c:            RISEUPGROUP-DN42
+tech-c:             RISEUPGROUP-DN42
+mnt-by:             RISEUPGROUP-MNT
+nserver:            ns1.riseupgroup.dn42
 status:             ASSIGNED
 source:             DN42
+org:                ORG-RISEUPGROUP
