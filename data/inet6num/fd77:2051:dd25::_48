@@ -1,0 +1,10 @@
+inet6num:           fd77:2051:dd25:0000:0000:0000:0000:0000 - fd77:2051:dd25:ffff:ffff:ffff:ffff:ffff
+cidr:               fd77:2051:dd25::/48
+netname:            ICIOCOIU-NETWORK
+descr:              Network of ICIOCOIU
+country:            RO
+admin-c:            ICIOCOIU-DN42
+tech-c:             ICIOCOIU-DN42
+mnt-by:             ICIOCOIU-MNT
+status:             ASSIGNED
+source:             DN42

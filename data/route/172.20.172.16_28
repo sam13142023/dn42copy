@@ -1,0 +1,4 @@
+route:              172.20.172.16/28
+origin:             AS4242421442
+mnt-by:             ICIOCOIU-MNT
+source:             DN42
