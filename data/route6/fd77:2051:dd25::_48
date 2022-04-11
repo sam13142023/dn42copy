@@ -1,0 +1,5 @@
+route6:             fd77:2051:dd25::/48
+origin:             AS4242421442
+max-length:         48
+mnt-by:             ICIOCOIU-MNT
+source:             DN42

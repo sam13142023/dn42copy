@@ -1,0 +1,7 @@
+domain:             iulian.dn42
+admin-c:            ICIOCOIU-DN42
+tech-c:             ICIOCOIU-DN42
+mnt-by:             ICIOCOIU-MNT
+nserver:            ns1.iulian.dn42 172.20.172.17
+nserver:            ns2.iulian.dn42 172.20.172.18
+source:             DN42

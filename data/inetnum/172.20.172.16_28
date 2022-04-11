@@ -1,0 +1,10 @@
+inetnum:            172.20.172.16 - 172.20.172.31
+cidr:               172.20.172.16/28
+netname:            ICIOCOIU-NETWORK
+admin-c:            ICIOCOIU-DN42
+tech-c:             ICIOCOIU-DN42
+mnt-by:             ICIOCOIU-MNT
+status:             ASSIGNED
+nserver:            ns1.iulian.dn42
+nserver:            ns2.iulian.dn42
+source:             DN42
