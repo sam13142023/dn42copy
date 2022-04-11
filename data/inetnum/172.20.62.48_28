@@ -8,4 +8,6 @@ tech-c:             COELACANTHUS-DN42
 mnt-by:             COELACANTHUS-MNT
 status:             ASSIGNED
 cidr:               172.20.62.48/28
+nserver:            ns1.coelacanthus.dn42
+nserver:            ns2.coelacanthus.dn42
 source:             DN42
