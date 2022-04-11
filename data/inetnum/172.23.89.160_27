@@ -1,0 +1,8 @@
+inetnum:            172.23.89.160 - 172.23.89.191
+cidr:               172.23.89.160/27
+netname:            kozlenko.pp.ua
+admin-c:            STURLA-DN42
+tech-c:             STURLA-DN42
+mnt-by:             STURLA-MNT
+status:             ASSIGNED
+source:             DN42
