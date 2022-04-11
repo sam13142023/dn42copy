@@ -1,0 +1,10 @@
+inet6num:           fd99:d5f6:b5a4:0000:0000:0000:0000:0000 - fd99:d5f6:b5a4:ffff:ffff:ffff:ffff:ffff
+netname:            SUNNYSAB-IPV6
+descr:              Peer with me at i@sunnysab.cn
+country:            CN
+admin-c:            SUNNYSAB-DN42
+tech-c:             SUNNYSAB-DN42
+mnt-by:             SUNNYSAB-MNT
+status:             ASSIGNED
+cidr:               fd99:d5f6:b5a4::/48
+source:             DN42
