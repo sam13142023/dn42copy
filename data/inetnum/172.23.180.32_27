@@ -1,0 +1,11 @@
+inetnum:            172.23.180.32 - 172.23.180.63
+netname:            SUNNYSAB-IPV4
+remarks:            Peer with me at i@sunnysab.cn
+descr:              Peer with me at i@sunnysab.cn
+country:            CN
+admin-c:            SUNNYSAB-DN42
+tech-c:             SUNNYSAB-DN42
+mnt-by:             SUNNYSAB-MNT
+status:             ASSIGNED
+cidr:               172.23.180.32/27
+source:             DN42
