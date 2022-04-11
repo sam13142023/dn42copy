@@ -1,0 +1,10 @@
+inet6num:           fd29:8f65:4c7a:0000:0000:0000:0000:0000 - fd29:8f65:4c7a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd29:8f65:4c7a::/48
+netname:            STURLA-NETWORK
+descr:              kozlenko.pp.ua
+country:            UA
+admin-c:            STURLA-DN42
+tech-c:             STURLA-DN42
+mnt-by:             STURLA-MNT
+status:             ASSIGNED
+source:             DN42

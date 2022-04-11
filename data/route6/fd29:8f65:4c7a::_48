@@ -1,0 +1,5 @@
+route6:             fd29:8f65:4c7a::/48
+origin:             AS4242421648
+max-length:         48
+mnt-by:             STURLA-MNT
+source:             DN42
