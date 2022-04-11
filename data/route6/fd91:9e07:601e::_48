@@ -1,0 +1,6 @@
+route6:             fd91:9e07:601e::/48
+origin:             AS4242422458
+max-length:         64
+mnt-by:             RICKY8955555-MNT
+mnt-by:             FUNNYSYC-MNT
+source:             DN42
