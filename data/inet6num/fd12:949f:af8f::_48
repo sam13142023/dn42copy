@@ -1,0 +1,9 @@
+inet6num:           fd12:949f:af8f:0000:0000:0000:0000:0000 - fd12:949f:af8f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:949f:af8f::/48
+netname:            CIPLC-IPV6-NET
+country:            US
+admin-c:            CIPLC-DN42
+tech-c:             CIPLC-DN42
+mnt-by:             CIPLC-MNT
+status:             ASSIGNED
+source:             DN42
