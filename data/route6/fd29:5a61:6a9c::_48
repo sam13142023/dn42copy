@@ -1,0 +1,5 @@
+route6:             fd29:5a61:6a9c::/48
+origin:             AS4242423239
+max-length:         48
+mnt-by:             KMEAW-MNT
+source:             DN42

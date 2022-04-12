@@ -1,0 +1,7 @@
+domain:             crt1.dn42
+admin-c:            KMEAW-DN42
+tech-c:             KMEAW-DN42
+mnt-by:             KMEAW-MNT
+nserver:            uz5mupl1tjg1r08q2bvrb0591lw0jfcln16r4x8t722s5j66y0mfd0.ns1.crt1.dn42 fd29:5a61:6a9c:53::1
+nserver:            uz558q0fw7y3h5y9hmywxprj73sg4gz00z4ktv4uyw4pcjlt63n155.ns2.crt1.dn42 fd29:5a61:6a9c:53::2
+source:             DN42
