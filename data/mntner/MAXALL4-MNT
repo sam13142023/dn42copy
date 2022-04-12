@@ -1,0 +1,6 @@
+mntner:             MAXALL4-MNT
+admin-c:            MAXALL4-DN42
+tech-c:             MAXALL4-DN42
+mnt-by:             MAXALL4-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqvZ3irRiT3xw/kE+j9TibjyWKPiuTyePY3NN/2gvASuSHfkZGvK2AQtY5YHssk9d1DlpgMuzswNU4AuvT1G39xSeFFxqPQr3e9IdOxgXtF+hYmtLq/5dH4C7wzAOZZXd8Istlns29UuOJeh+pytbJ0T7DbWyAFd5tnBraasK5DISlWka8KsIEwa5M7N48Oh6OypcBk/P/pDq4iY0sI0PmQqPyXQ3mt2mSw50sLhdaNfgkfCIZ3EmvYl6JlztLa49mTWkz46be+gl5aNfRfy7k+KN27rDc0Li8cpqNaI269gx9sCJ+AAlzaz7z0VLNXxEQWjWFjdun9vJjMlTa6wobHOrAlvsU64HvijpIHQWzMuVJ8LMZAE8LYmROtW7t7WVMgPgvzcHrPi0/GmbbMhRJwksBCuUivoZxagLdau4EOX/FWGP3Ask0gVu+NTKVw+TqC1frOtl9yvnDpNSHD75B8BpkaydUc6j4tluMqC17ri82ylJ1smHqnjhMjyhScy0= maxcampbell@2022-Gwens-14-inche-Pro.local
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.62.192 - 172.20.62.255
+cidr:               172.20.62.192/26
+netname:            MAXALL4-NETWORK
+admin-c:            MAXALL4-DN42
+tech-c:             MAXALL4-DN42
+mnt-by:             MAXALL4-MNT
+status:             ASSIGNED
+source:             DN42

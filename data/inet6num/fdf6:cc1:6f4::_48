@@ -1,0 +1,10 @@
+inet6num:           fdf6:0cc1:06f4:0000:0000:0000:0000:0000-fdf6:0cc1:06f4:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf6:cc1:6f4::/48
+netname:            MAXALL4-NETWORK
+descr:              Network of Maxall4
+country:            US
+admin-c:            MAXALL4-DN42
+tech-c:             MAXALL4-DN42
+mnt-by:             MAXALL4-MNT
+status:             ASSIGNED
+source:             DN42

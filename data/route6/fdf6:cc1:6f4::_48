@@ -1,0 +1,5 @@
+route6:             fdf6:cc1:6f4::/48
+origin:             AS4242420547
+max-length:         48
+mnt-by:             MAXALL4-MNT
+source:             DN42
