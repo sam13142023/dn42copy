@@ -1,0 +1,11 @@
+inetnum:            172.23.221.32 - 172.23.221.63
+netname:            NIGHTCOFFEE-IPV4
+remarks:            Peer with me at guoyijun163@gmail.com
+descr:              Peer with me at guoyijun163@gmail.com
+country:            CN
+admin-c:            NIGHTCOFFEE-DN42
+tech-c:             NIGHTCOFFEE-DN42
+mnt-by:             NIGHTCOFFEE-MNT
+status:             ASSIGNED
+cidr:               172.23.221.32/27
+source:             DN42
