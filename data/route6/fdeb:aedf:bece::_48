@@ -1,0 +1,5 @@
+route6:             fdeb:aedf:bece::/48
+origin:             AS4242420463
+max-length:         56
+mnt-by:             TREXX-MNT
+source:             DN42

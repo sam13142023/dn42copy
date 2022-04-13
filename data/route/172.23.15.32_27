@@ -1,0 +1,5 @@
+route:              172.23.15.32/27
+origin:             AS4242420463
+max-length:         29
+mnt-by:             TREXX-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             TREXX-MNT
+admin-c:            TREXX-DN42
+tech-c:             TREXX-DN42
+auth:               pgp-fingerprint 5C416D0348EF2E6F73523B9861B07E0C16AF852E
+mnt-by:             TREXX-MNT
+source:             DN42

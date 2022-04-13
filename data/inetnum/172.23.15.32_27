@@ -1,0 +1,8 @@
+inetnum:            172.23.15.32 - 172.23.15.63
+cidr:               172.23.15.32/27
+netname:            TREXX-NETWORK
+admin-c:            TREXX-DN42
+tech-c:             TREXX-DN42
+mnt-by:             TREXX-MNT
+status:             ASSIGNED
+source:             DN42
