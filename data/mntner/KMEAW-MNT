@@ -1,0 +1,6 @@
+mntner:             KMEAW-MNT
+admin-c:            KMEAW-DN42
+tech-c:             KMEAW-DN42
+mnt-by:             KMEAW-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPuy50kOtEUbOtSL1+hoCWquGRueC3JQuQhsKYM8Cnq3
