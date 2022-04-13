@@ -1,0 +1,11 @@
+inet6num:           fd42:8978:b461:0000:0000:0000:0000:0000 - fd42:8978:b461:ffff:ffff:ffff:ffff:ffff
+netname:            EXABYTE-NETWORK
+country:            US
+admin-c:            EXABYTE-DN42
+tech-c:             EXABYTE-DN42
+mnt-by:             EXABYTE-MNT
+status:             ASSIGNED
+cidr:               fd42:8978:b461::/48
+nserver:            ns1.exabyte.dn42
+nserver:            ns2.exabyte.dn42
+source:             DN42

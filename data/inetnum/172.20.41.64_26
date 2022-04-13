@@ -1,0 +1,11 @@
+inetnum:            172.20.41.64 - 172.20.41.127
+cidr:               172.20.41.64/26
+netname:            EXABYTE-V4-NET-1
+country:            US
+admin-c:            EXABYTE-DN42
+tech-c:             EXABYTE-DN42
+mnt-by:             EXABYTE-MNT
+nserver:            ns1.exabyte.dn42
+nserver:            ns2.exabyte.dn42
+status:             ASSIGNED
+source:             DN42
