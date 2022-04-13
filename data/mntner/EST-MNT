@@ -1,0 +1,6 @@
+mntner:             EST-MNT
+admin-c:            EST-DN42
+tech-c:             EST-DN42
+mnt-by:             EST-MNT
+auth:               pgp-fingerprint 40A2B5F2D4374B3DBAC44AF8A6FC82F9D4DB130C
+source:             DN42
