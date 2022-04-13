@@ -1,0 +1,7 @@
+route6:             fd9f:621d:e6b4::/48
+origin:             AS4242422206
+max-length:         48
+admin-c:            EST-DN42
+tech-c:             EST-DN42
+mnt-by:             EST-MNT
+source:             DN42

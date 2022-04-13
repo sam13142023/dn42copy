@@ -1,0 +1,10 @@
+inetnum:            172.22.131.144 - 172.22.131.159
+cidr:               172.22.131.144/28
+netname:            EST-NETWORK4
+descr:              IPv4 private Network of Erik Stomp
+country:            DE
+admin-c:            EST-DN42
+tech-c:             EST-DN42
+mnt-by:             EST-MNT
+status:             ASSIGNED
+source:             DN42
