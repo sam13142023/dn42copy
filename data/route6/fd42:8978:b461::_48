@@ -1,0 +1,6 @@
+route6:             fd42:8978:b461::/48
+origin:             AS4242423340
+mnt-by:             EXABYTE-MNT
+source:             DN42
+admin-c:            EXABYTE-DN42
+tech-c:             EXABYTE-DN42

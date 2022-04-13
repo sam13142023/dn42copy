@@ -1,0 +1,10 @@
+domain:             exabyte.dn42
+descr:              EXABYTE
+admin-c:            EXABYTE-DN42
+tech-c:             EXABYTE-DN42
+mnt-by:             EXABYTE-MNT
+nserver:            ns1.exabyte.dn42 172.20.41.65
+nserver:            ns2.exabyte.dn42 172.20.41.66
+nserver:            ns1.exabyte.dn42 fd42:8978:b461::1
+nserver:            ns2.exabyte.dn42 fd42:8978:b461::2
+source:             DN42

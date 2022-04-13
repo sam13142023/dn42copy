@@ -1,0 +1,6 @@
+mntner:             EXABYTE-MNT
+admin-c:            EXABYTE-DN42
+tech-c:             EXABYTE-DN42
+mnt-by:             EXABYTE-MNT
+source:             DN42
+auth:               pgp-fingerprint 90ABF01833499D8F0C77CB3DBA6030FFEF396B3F

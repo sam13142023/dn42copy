@@ -1,0 +1,4 @@
+route:              172.20.41.64/26
+origin:             AS4242423340
+mnt-by:             EXABYTE-MNT
+source:             DN42
