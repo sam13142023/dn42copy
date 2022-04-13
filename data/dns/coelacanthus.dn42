@@ -2,6 +2,6 @@ domain:             coelacanthus.dn42
 admin-c:            COELACANTHUS-DN42
 tech-c:             COELACANTHUS-DN42
 mnt-by:             COELACANTHUS-MNT
-nserver:            ns1.coelacanthus.dn42 172.20.62.49
-nserver:            ns1.coelacanthus.dn42 fd10:2077:1bda::1
+nserver:            ns1.coelacanthus.dn42 172.20.62.53
+nserver:            ns1.coelacanthus.dn42 fd10:2077:1bda::53
 source:             DN42
