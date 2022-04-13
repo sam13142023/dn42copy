@@ -1,0 +1,4 @@
+route:              172.23.33.160/27
+origin:             AS4242423021
+mnt-by:             CIPLC-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             CIPLC-MNT
+admin-c:            CIPLC-DN42
+tech-c:             CIPLC-DN42
+mnt-by:             CIPLC-MNT
+auth:               pgp-fingerprint 94DEECB9D9C57CD9A63F349E22161B140C62EB85
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAja4h0V9yD10W26fGC98rSCMtrJFuZ0rMAmXXLADegzxQmI5ICYXGm7oybLgTTrT172XtMpj3xfD7rGQQKuY00= me@ciplc.network
+source:             DN42

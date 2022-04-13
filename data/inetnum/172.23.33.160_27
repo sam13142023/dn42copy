@@ -1,0 +1,8 @@
+inetnum:            172.23.33.160 - 172.23.33.191
+cidr:               172.23.33.160/27
+netname:            CIPLC-IPV4-NET
+admin-c:            CIPLC-DN42
+tech-c:             CIPLC-DN42
+mnt-by:             CIPLC-MNT
+status:             ASSIGNED
+source:             DN42
