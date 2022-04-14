@@ -1,0 +1,10 @@
+inet6num:           fd9e:a88a:950f:0000:0000:0000:0000:0000 - fd9e:a88a:950f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:a88a:950f::/48
+netname:            MELVA-NETWORK
+descr:              Network of MELVA
+country:            CA
+admin-c:            MELVA-DN42
+tech-c:             MELVA-DN42
+mnt-by:             MELVA-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd9e:a88a:950f::/48
+origin:             AS4242420370
+max-length:         48
+mnt-by:             MELVA-MNT
+source:             DN42
