@@ -1,0 +1,5 @@
+route6:             fd80:d04e:2c12::/48
+origin:             AS4242420569
+max-length:         48
+mnt-by:             AEOLUS-MNT
+source:             DN42

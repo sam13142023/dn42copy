@@ -1,0 +1,10 @@
+inet6num:           fd80:d04e:2c12:0000:0000:0000:0000:0000 - fd80:d04e:2c12:ffff:ffff:ffff:ffff:ffff
+cidr:               fd80:d04e:2c12::/48
+netname:            AEOLUS-NETWORK
+descr:              Aeolus' Network
+country:            CA
+admin-c:            AEOLUS-DN42
+tech-c:             AEOLUS-DN42
+mnt-by:             AEOLUS-MNT
+status:             ASSIGNED
+source:             DN42
