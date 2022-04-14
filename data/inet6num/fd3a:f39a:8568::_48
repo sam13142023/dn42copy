@@ -1,0 +1,10 @@
+inet6num:           fd3a:f39a:8568:0000:0000:0000:0000:0000-fd3a:f39a:8568:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3a:f39a:8568::/48
+netname:            BPFILIP-NETWORK
+descr:              Network of BPFILIP
+country:            DK
+admin-c:            BPFILIP-DN42
+tech-c:             BPFILIP-DN42
+mnt-by:             BPFILIP-MNT
+status:             ASSIGNED
+source:             DN42

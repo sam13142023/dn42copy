@@ -1,0 +1,8 @@
+inetnum:            172.22.145.32 - 172.22.145.63
+cidr:               172.22.145.32/27
+netname:            BPFILIP-NETWORK
+admin-c:            BPFILIP-DN42
+tech-c:             BPFILIP-DN42
+mnt-by:             BPFILIP-MNT
+status:             ASSIGNED
+source:             DN42
