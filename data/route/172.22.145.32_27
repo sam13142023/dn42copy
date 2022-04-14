@@ -1,0 +1,4 @@
+route:              172.22.145.32/27
+origin:             AS4242421810
+mnt-by:             BPFILIP-MNT
+source:             DN42

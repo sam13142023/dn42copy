@@ -1,0 +1,5 @@
+route6:             fd3a:f39a:8568::/48
+origin:             AS4242421810
+max-length:         48
+mnt-by:             BPFILIP-MNT
+source:             DN42
