@@ -1,0 +1,6 @@
+mntner:             AEOLUS-MNT
+admin-c:            AEOLUS-DN42
+tech-c:             AEOLUS-DN42
+mnt-by:             AEOLUS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGm3V6ny7g8ZQbIldTsJO9muRxiHCtPZrH+l34kAtmxQ
+source:             DN42
