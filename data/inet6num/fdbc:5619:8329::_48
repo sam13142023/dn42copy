@@ -1,0 +1,10 @@
+inet6num:           fdbc:5619:8329:0000:0000:0000:0000:0000 - fdbc:5619:8329:ffff:ffff:ffff:ffff:ffff
+netname:            XIAOJIN233-IPV6
+descr:              Peer with me at i@xiaojin233.cn
+country:            CN
+admin-c:            XIAOJIN233-DN42
+tech-c:             XIAOJIN233-DN42
+mnt-by:             XIAOJIN233-MNT
+status:             ASSIGNED
+cidr:               fdbc:5619:8329::/48
+source:             DN42
