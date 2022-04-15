@@ -1,0 +1,4 @@
+route:              172.23.167.32/27
+origin:             AS4242421962
+mnt-by:             BLINKNET-MNT
+source:             DN42
