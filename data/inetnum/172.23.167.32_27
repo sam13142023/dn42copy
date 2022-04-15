@@ -1,0 +1,9 @@
+inetnum:            172.23.167.32 - 172.23.167.63
+cidr:               172.23.167.32/27
+netname:            BLINKNET-NETWORK
+country:            US
+admin-c:            BLINKNET-DN42
+tech-c:             BLINKNET-DN42
+mnt-by:             BLINKNET-MNT
+status:             ASSIGNED
+source:             DN42
