@@ -1,0 +1,8 @@
+aut-num:            AS4242422993
+as-name:            CIKO-AS
+descr:              Cikos Main network
+remarks:            I am still learning
+admin-c:            CIKO-DN42
+tech-c:             CIKO-DN42
+mnt-by:             CIKO-MNT
+source:             DN42

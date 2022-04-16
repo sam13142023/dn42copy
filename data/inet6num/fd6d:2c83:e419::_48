@@ -1,0 +1,8 @@
+inet6num:           fd6d:2c83:e419:0000:0000:0000:0000:0000 - fd6d:2c83:e419:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6d:2c83:e419::/48
+netname:            CIKO-V6-NET-1
+admin-c:            CIKO-DN42
+tech-c:             CIKO-DN42
+mnt-by:             CIKO-MNT
+status:             ASSIGNED
+source:             DN42

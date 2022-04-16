@@ -1,0 +1,5 @@
+route:              172.20.211.0/26
+descr:              ciko v4 route
+origin:             AS4242422993
+mnt-by:             CIKO-MNT
+source:             DN42
