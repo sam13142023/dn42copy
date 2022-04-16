@@ -1,0 +1,7 @@
+domain:             ciko.dn42
+admin-c:            CIKO-DN42
+tech-c:             CIKO-DN42
+mnt-by:             CIKO-MNT
+nserver:            ns1.ciko.dn42 172.20.211.2
+nserver:            ns1.ciko.dn42 fd6d:2c83:e419::2
+source:             DN42

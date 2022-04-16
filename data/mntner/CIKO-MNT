@@ -1,0 +1,7 @@
+mntner:             CIKO-MNT
+descr:              CIKO Maintainer Object
+admin-c:            CIKO-DN42
+tech-c:             CIKO-DN42
+mnt-by:             CIKO-MNT
+auth:               pgp-fingerprint B8F15C655E6161C89ED58FA940125D6C59AF7898
+source:             DN42
