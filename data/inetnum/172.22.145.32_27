@@ -4,5 +4,6 @@ netname:            BPFILIP-NETWORK
 admin-c:            BPFILIP-DN42
 tech-c:             BPFILIP-DN42
 mnt-by:             BPFILIP-MNT
+nserver:            ns.bpfilip.dn42
 status:             ASSIGNED
 source:             DN42
