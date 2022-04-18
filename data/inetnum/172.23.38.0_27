@@ -1,0 +1,8 @@
+inetnum:            172.23.38.0 - 172.23.38.31
+cidr:               172.23.38.0/27
+netname:            O-NETWORK
+admin-c:            O-DN42
+tech-c:             O-DN42
+mnt-by:             O-MNT
+status:             ASSIGNED
+source:             DN42
