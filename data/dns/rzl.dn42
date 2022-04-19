@@ -1,7 +1,7 @@
-domain:             rzl
+domain:             rzl.dn42
 org:                ORG-RZL
-nserver:            ns1.rzl.g.nic.dn42
 mnt-by:             LUTOMA-MNT
 mnt-by:             DOCSTEEL-MNT
 mnt-by:             HAX404-MNT
+nserver:            ns-anycast.lutoma.dn42
 source:             DN42
