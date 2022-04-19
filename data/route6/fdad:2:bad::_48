@@ -1,0 +1,5 @@
+route6:             fdad:2:bad::/48
+origin:             AS4242420607
+max-length:         48
+mnt-by:             O-MNT
+source:             DN42
