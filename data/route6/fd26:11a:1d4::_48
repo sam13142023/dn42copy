@@ -1,0 +1,5 @@
+route6:             fd26:11a:1d4::/48
+origin:             AS4242420678
+max-length:         48
+mnt-by:             BOLIVE-MNT
+source:             DN42
