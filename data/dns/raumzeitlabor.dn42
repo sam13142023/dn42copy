@@ -1,0 +1,7 @@
+domain:             raumzeitlabor.dn42
+org:                ORG-RZL
+mnt-by:             LUTOMA-MNT
+mnt-by:             DOCSTEEL-MNT
+mnt-by:             HAX404-MNT
+nserver:            ns-anycast.lutoma.dn42
+source:             DN42
