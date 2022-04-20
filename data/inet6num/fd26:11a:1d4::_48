@@ -1,0 +1,10 @@
+inet6num:           fd26:011a:01d4:0000:0000:0000:0000:0000 - fd26:011a:01d4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd26:11a:1d4::/48
+netname:            BOLIVE-NET6
+descr:              BOLIVE Network
+country:            US
+admin-c:            BOLIVE-DN42
+tech-c:             BOLIVE-DN42
+mnt-by:             BOLIVE-MNT
+status:             ASSIGNED
+source:             DN42

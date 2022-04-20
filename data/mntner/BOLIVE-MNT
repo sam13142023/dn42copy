@@ -1,0 +1,6 @@
+mntner:             BOLIVE-MNT
+admin-c:            BOLIVE-DN42
+tech-c:             BOLIVE-DN42
+mnt-by:             BOLIVE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ0alcsddAg2MMIJARcvxV7tiNzTTvD22HDx8at8X+CT
+source:             DN42

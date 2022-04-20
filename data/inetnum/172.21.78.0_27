@@ -1,0 +1,8 @@
+inetnum:            172.21.78.0 - 172.21.78.31
+cidr:               172.21.78.0/27
+netname:            BOLIVE-NET
+admin-c:            BOLIVE-DN42
+tech-c:             BOLIVE-DN42
+mnt-by:             BOLIVE-MNT
+status:             ASSIGNED
+source:             DN42
