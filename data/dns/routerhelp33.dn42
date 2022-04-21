@@ -1,0 +1,9 @@
+domain:             routerhelp33.dn42
+admin-c:            ROUTERHELP33-DN42
+tech-c:             ROUTERHELP33-DN42
+mnt-by:             ROUTERHELP33-MNT
+nserver:            ns1.routerhelp33.dn42 172.22.154.34
+nserver:            ns1.routerhelp33.dn42 fdf3:edd9:85e8:53::34
+nserver:            ns2.routerhelp33.dn42 172.22.154.35
+nserver:            ns2.routerhelp33.dn42 fdf3:edd9:85e8:53::35
+source:             DN42
