@@ -1,0 +1,6 @@
+mntner:             ROUTERHELP33-MNT
+admin-c:            ROUTERHELP33-DN42
+tech-c:             ROUTERHELP33-DN42
+mnt-by:             ROUTERHELP33-MNT
+auth:               pgp-fingerprint 8C6690899F03E762AF648BC2E37455769E5A1637
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdf3:edd9:85e8:0000:0000:0000:0000:0000 - fdf3:edd9:85e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:edd9:85e8::/48
+netname:            ROUTERHELP33-NETWORK
+descr:              Network of ROUTERHELP33
+country:            US
+admin-c:            ROUTERHELP33-DN42
+tech-c:             ROUTERHELP33-DN42
+mnt-by:             ROUTERHELP33-MNT
+status:             ASSIGNED
+nserver:            ns1.routerhelp33.dn42
+nserver:            ns2.routerhelp33.dn42
+source:             DN42

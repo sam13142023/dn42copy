@@ -1,0 +1,5 @@
+route6:             fdf3:edd9:85e8::/48
+origin:             AS4242420425
+max-length:         48
+mnt-by:             ROUTERHELP33-MNT
+source:             DN42
