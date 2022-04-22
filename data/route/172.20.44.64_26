@@ -1,0 +1,4 @@
+route:              172.20.44.64/26
+origin:             AS4242421575
+mnt-by:             WX-MNT
+source:             DN42

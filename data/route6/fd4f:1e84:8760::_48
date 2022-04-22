@@ -1,0 +1,5 @@
+route6:             fd4f:1e84:8760::/48
+origin:             AS4242421575
+max-length:         48
+mnt-by:             WX-MNT
+source:             DN42
