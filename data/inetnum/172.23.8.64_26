@@ -1,0 +1,8 @@
+inetnum:            172.23.8.64 - 172.23.8.127
+cidr:               172.23.8.64/26
+netname:            YAOXI-NETWORK-IPv4
+admin-c:            YAOXI-DN42
+tech-c:             YAOXI-DN42
+mnt-by:             YAOXI-MNT
+status:             ASSIGNED
+source:             DN42

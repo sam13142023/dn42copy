@@ -1,0 +1,5 @@
+route:              172.23.8.64/26
+descr:              Peer with me at netspecters@126.com
+origin:             AS4242423678
+mnt-by:             YAOXI-MNT
+source:             DN42
