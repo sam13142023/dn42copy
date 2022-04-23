@@ -1,0 +1,10 @@
+inet6num:           fdc8:0748:a55f:0000:0000:0000:0000:0000 - fdc8:0748:a55f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:748:a55f::/48
+netname:            YSBS-NETWORK
+descr:              YSBS's Network
+country:            UK
+admin-c:            YSBS-DN42
+tech-c:             YSBS-DN42
+mnt-by:             YSBS-MNT
+status:             ASSIGNED
+source:             DN42

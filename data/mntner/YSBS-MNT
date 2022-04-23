@@ -1,0 +1,7 @@
+mntner:             YSBS-MNT
+descr:              YSBS maintainer
+admin-c:            YSBS-DN42
+tech-c:             YSBS-DN42
+mnt-by:             YSBS-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINBbA0h8O1JuL0/o4AtMd9rsplv1ynDnKCOKSB9o5Utr tom@ysbs.co.uk

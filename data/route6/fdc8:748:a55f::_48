@@ -1,0 +1,5 @@
+route6:             fdc8:748:a55f::/48
+origin:             AS4242422397
+max-length:         48
+mnt-by:             YSBS-MNT
+source:             DN42
