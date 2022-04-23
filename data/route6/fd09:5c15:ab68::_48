@@ -1,0 +1,5 @@
+route6:             fd09:5c15:ab68::/48
+origin:             AS4242423678
+max-length:         48
+mnt-by:             YAOXI-MNT
+source:             DN42
