@@ -1,0 +1,13 @@
+inetnum:            172.20.211.64 - 172.20.211.127
+netname:            MING-IPV4
+remarks:            Peer with me at xym.yan@gmail.com
+descr:              Peer with me at xym.yan@gmail.com
+country:            CN
+admin-c:            MING-DN42
+tech-c:             MING-DN42
+mnt-by:             MING-MNT
+nserver:            ns1.ming.dn42
+nserver:            ns2.ming.dn42
+status:             ASSIGNED
+cidr:               172.20.211.64/26
+source:             DN42

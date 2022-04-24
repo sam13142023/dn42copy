@@ -1,0 +1,12 @@
+inet6num:           fd47:6048:2514:0000:0000:0000:0000:0000 - fd47:6048:2514:ffff:ffff:ffff:ffff:ffff
+cidr:               fd47:6048:2514::/48
+netname:            MING-NET6
+descr:              Peer with me at xym.yan@gmail.com
+country:            CN
+admin-c:            MING-DN42
+tech-c:             MING-DN42
+mnt-by:             MING-MNT
+nserver:            ns1.ming.dn42
+nserver:            ns2.ming.dn42
+status:             ASSIGNED
+source:             DN42

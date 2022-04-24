@@ -1,0 +1,5 @@
+route:              172.20.211.64/26
+descr:              Peer with me at xym.yan@gmail.com
+origin:             AS4242423132
+mnt-by:             MING-MNT
+source:             DN42

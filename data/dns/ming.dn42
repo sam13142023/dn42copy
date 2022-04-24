@@ -1,0 +1,9 @@
+domain:             ming.dn42
+admin-c:            MING-DN42
+tech-c:             MING-DN42
+mnt-by:             MING-MNT
+nserver:            ns1.ming.dn42 172.20.211.65
+nserver:            ns1.ming.dn42 fd47:6048:2514:53::1
+nserver:            ns2.ming.dn42 172.20.211.66
+nserver:            ns2.ming.dn42 fd47:6048:2514:53::2
+source:             DN42
