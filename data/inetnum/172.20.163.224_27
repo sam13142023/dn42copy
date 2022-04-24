@@ -1,0 +1,10 @@
+inetnum:            172.20.163.224 - 172.20.163.255
+netname:            YSBS-NETWORK
+descr:              YSBS's Network
+country:            UK
+admin-c:            YSBS-DN42
+tech-c:             YSBS-DN42
+mnt-by:             YSBS-MNT
+status:             ASSIGNED
+cidr:               172.20.163.224/27
+source:             DN42
