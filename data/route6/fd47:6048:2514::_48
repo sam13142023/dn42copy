@@ -1,0 +1,6 @@
+route6:             fd47:6048:2514::/48
+descr:              Peer with me at xym.yan@gmail.com
+origin:             AS4242423132
+max-length:         48
+mnt-by:             MING-MNT
+source:             DN42

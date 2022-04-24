@@ -1,0 +1,7 @@
+mntner:             MING-MNT
+admin-c:            MING-DN42
+tech-c:             MING-DN42
+mnt-by:             MING-MNT
+source:             DN42
+auth:               pgp-fingerprint 35B3694B05F178F04957F4115FD612AA04E24154
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP9MOOQfZ3YuPTl5v/++1eiiASDm+MbJN96ncWdbejVF
