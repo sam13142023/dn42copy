@@ -1,0 +1,5 @@
+route6:             fdd0:a80e:9081::/48
+origin:             AS4242422119
+max-length:         48
+mnt-by:             THASTAD-MNT
+source:             DN42
