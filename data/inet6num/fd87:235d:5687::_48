@@ -1,0 +1,10 @@
+inet6num:           fd87:235d:5687:0000:0000:0000:0000:0000 - fd87:235d:5687:ffff:ffff:ffff:ffff:ffff
+netname:            Naples-IPV6
+descr:              Peer with me at jackchiu1987@gmail.com
+country:            CN
+admin-c:            NAPLES-DN42
+tech-c:             NAPLES-DN42
+mnt-by:             NAPLES-MNT
+status:             ASSIGNED
+cidr:               fd87:235d:5687::/48
+source:             DN42

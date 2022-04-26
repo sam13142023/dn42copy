@@ -1,0 +1,10 @@
+inetnum:            172.23.85.0 - 172.23.85.63
+cidr:               172.23.85.0/26
+netname:            Naples-IPv4
+descr:              Naples's IPv4 Network
+country:            CN
+admin-c:            NAPLES-DN42
+tech-c:             NAPLES-DN42
+mnt-by:             NAPLES-MNT
+status:             ASSIGNED
+source:             DN42

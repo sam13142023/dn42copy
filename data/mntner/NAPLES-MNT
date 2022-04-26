@@ -1,0 +1,7 @@
+mntner:             NAPLES-MNT
+admin-c:            NAPLES-DN42
+tech-c:             NAPLES-DN42
+mnt-by:             NAPLES-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID+y8yzCAn85Ksxb7sk9OHpKyVIpc67OS+W3Wq+TfDuT jackchiu1987@gmail.com
+auth:               pgp-fingerprint E847D5ED9F704CBD1A5017DB95D336A291627D54
