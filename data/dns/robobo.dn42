@@ -4,4 +4,5 @@ tech-c:             ROBOBO-DN42
 mnt-by:             ROBOBO-MNT
 nserver:            ns1.robobo.dn42 172.23.5.3
 nserver:            ns1.robobo.dn42 fd75:fd19:617d::3
+ds-rdata:           38189 13 2 2A9CC0089671DF9F12675189832C6E78CAD4B32A6B6A4468271A07E15FAA9A2C
 source:             DN42
