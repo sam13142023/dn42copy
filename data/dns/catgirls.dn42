@@ -3,6 +3,6 @@ admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 mnt-by:             C4TG1RL5-MNT
 org:                ORG-C4TG1RL5
-nserver:            ns1.catgirls.dn42 172.23.196.42
-nserver:            ns1.catgirls.dn42 fd42:deca:fbad::1111:1
+nserver:            ns1.catgirls.dn42 172.23.196.52
+nserver:            ns1.catgirls.dn42 fd42:deca:fbad::f1:c47:ff
 source:             DN42
