@@ -1,0 +1,6 @@
+mntner:             UNLOBITO-MNT
+admin-c:            UNLOBITO-DN42
+tech-c:             UNLOBITO-DN42
+mnt-by:             UNLOBITO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN0A+oRBysygImpEKoAPUVtyvdRPdLhyGf6moKKwciEG
+source:             DN42

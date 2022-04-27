@@ -1,0 +1,10 @@
+inet6num:           fd9c:e16b:c83a:0000:0000:0000:0000:0000 - fd9c:e16b:c83a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9c:e16b:c83a::/48
+netname:            UNLOBITO-DN42
+descr:              canidae.systems (on dn42)
+country:            GB
+admin-c:            UNLOBITO-DN42
+tech-c:             UNLOBITO-DN42
+mnt-by:             UNLOBITO-MNT
+status:             ASSIGNED
+source:             DN42

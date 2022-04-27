@@ -1,0 +1,5 @@
+route6:             fd9c:e16b:c83a::/48
+origin:             AS4242421440
+max-length:         48
+mnt-by:             UNLOBITO-MNT
+source:             DN42
