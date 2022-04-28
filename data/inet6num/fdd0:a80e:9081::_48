@@ -1,0 +1,8 @@
+inet6num:           fdd0:a80e:9081:0000:0000:0000:0000:0000 - fdd0:a80e:9081:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd0:a80e:9081::/48
+netname:            THASTAD-NET6
+admin-c:            THASTAD-DN42
+tech-c:             THASTAD-DN42
+mnt-by:             THASTAD-MNT
+status:             ASSIGNED
+source:             DN42

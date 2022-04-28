@@ -1,0 +1,4 @@
+route:              172.21.94.160/27
+origin:             AS4242422119
+mnt-by:             THASTAD-MNT
+source:             DN42

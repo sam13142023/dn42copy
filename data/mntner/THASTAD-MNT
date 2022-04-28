@@ -1,0 +1,7 @@
+mntner:             THASTAD-MNT
+admin-c:            THASTAD-DN42
+tech-c:             THASTAD-DN42
+mnt-by:             THASTAD-MNT
+source:             DN42
+auth:               pgp-fingerprint CDD1A99908278ADC144221D03137806A8473F242
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC491I/T3PmB2w0o+Atz7b93lKnvhyDJOYxkxQNIrTC2
