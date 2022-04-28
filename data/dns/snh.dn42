@@ -1,0 +1,7 @@
+domain:             snh.dn42
+admin-c:            SNH-DN42
+tech-c:             SNH-DN42
+mnt-by:             SNH-MNT
+nserver:            ns.snh.dn42 172.23.38.63
+nserver:            ns.snh.dn42 fd36:cf83:36bd:42::32
+source:             DN42

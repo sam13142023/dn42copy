@@ -1,0 +1,4 @@
+route:              172.23.38.32/27
+origin:             AS4242422627
+mnt-by:             SNH-MNT
+source:             DN42

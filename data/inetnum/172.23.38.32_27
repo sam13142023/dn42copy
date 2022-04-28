@@ -1,0 +1,9 @@
+inetnum:            172.23.38.32 - 172.23.38.63
+cidr:               172.23.38.32/27
+netname:            SNH-NETWORK
+admin-c:            SNH-DN42
+tech-c:             SNH-DN42
+mnt-by:             SNH-MNT
+status:             ASSIGNED
+nserver:            ns.snh.dn42
+source:             DN42
