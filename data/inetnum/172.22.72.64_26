@@ -1,0 +1,13 @@
+inetnum:            172.22.72.64 - 172.22.72.127
+org:                ORG-KASETTY
+netname:            KASETTY-IPV4-NETWORK
+descr:              Kasetty IPV4 Network
+nserver:            ns1.kasetty.dn42
+nserver:            ns2.kasetty.dn42
+country:            US
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+status:             ASSIGNED
+cidr:               172.22.72.64/26
+source:             DN42

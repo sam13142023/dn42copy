@@ -1,0 +1,6 @@
+route6:             fd42:4242:3425::/48
+origin:             AS4242423425
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+source:             DN42

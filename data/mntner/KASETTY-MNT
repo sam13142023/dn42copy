@@ -1,0 +1,6 @@
+mntner:             KASETTY-MNT
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8S9v3OvBA1LiyNdrqSEcqLulOyFOiz7X0PFhzNOJX005cqfXKhNJpiy1qiNb5gZIwNNK1J7jTszMvq4aTvMJ1S/59zN6/EX6zOK+pYvzBve+MMBZ3Ylo6YCXgDGcZ/s+NrzTcUMBrHBrB6AuJku+TF6Ec+0gGd/FzcByrQq3YV0IvPHojYYf+YbGgiZxU4b8+yDrzzeub3c1PHnVGIwZSF1ylttMlXqMGZadroFpkd9n9zXU0vptFAijlt07OF6uCAbR8HBCCvT0F3jkqQXEKVqA2WxrHXlnVyg1VJ/TfaDB2ZxWz+Uc2vx0sfGGhHUlvhf7sQ5af83NtUMZW8gLF kasetty@mac
+source:             DN42
