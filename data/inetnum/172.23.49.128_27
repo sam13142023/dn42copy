@@ -1,0 +1,10 @@
+inetnum:            172.23.49.128 - 172.23.49.159
+cidr:               172.23.49.128/27
+netname:            FORTHEBEST-IPV4
+admin-c:            FORTHEBEST-DN42
+tech-c:             FORTHEBEST-DN42
+mnt-by:             FORTHEBEST-MNT
+nserver:            ns1.forthebest.dn42
+status:             ASSIGNED
+country:            CN
+source:             DN42
