@@ -1,0 +1,4 @@
+route:              172.22.72.64/26
+origin:             AS4242423425
+mnt-by:             KASETTY-MNT
+source:             DN42

@@ -1,0 +1,14 @@
+inet6num:           fd42:4242:3425:0000:0000:0000:0000:0000 - fd42:4242:3425:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:3425::/48
+netname:            KASETTY-IPV6-NETWORK
+org:                ORG-KASETTY
+descr:              Kasetty  IPv6
+country:            US
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+status:             ASSIGNED
+source:             DN42
+remarks:            Kasetty IPv6 Address Space
+nserver:            ns1.kasetty.dn42
+nserver:            ns2.kasetty.dn42

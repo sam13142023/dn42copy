@@ -1,0 +1,8 @@
+aut-num:            AS4242423425
+org:                ORG-KASETTY
+as-name:            KASETTY-AS
+descr:              Kasetty AS
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+source:             DN42

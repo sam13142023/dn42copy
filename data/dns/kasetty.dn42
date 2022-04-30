@@ -1,0 +1,10 @@
+domain:             kasetty.dn42
+org:                ORG-KASETTY
+admin-c:            KASETTY-DN42
+tech-c:             KASETTY-DN42
+mnt-by:             KASETTY-MNT
+nserver:            ns1.kasetty.dn42 172.22.72.65
+nserver:            ns1.kasetty.dn42 fd42:4242:3425:53::1
+nserver:            ns2.kasetty.dn42 172.22.72.66
+nserver:            ns2.kasetty.dn42 fd42:4242:3425:53::2
+source:             DN42
