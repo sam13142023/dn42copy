@@ -8,4 +8,5 @@ tech-c:             ROBOBO-DN42
 mnt-by:             ROBOBO-MNT
 nserver:            ns1.robobo.dn42
 status:             ASSIGNED
+ds-rdata:           39959 13 2 65612931120EDBE3CB4A4FF611F675CF508B3FC09FDFE486A7CF425EAB8E47DA
 source:             DN42
