@@ -1,0 +1,10 @@
+inet6num:           fd3f:daf2:5886:0000:0000:0000:0000:0000 - fd3f:daf2:5886:ffff:ffff:ffff:ffff:ffff
+netname:            FORTHEBEST-IPV6
+country:            CN
+admin-c:            FORTHEBEST-DN42
+tech-c:             FORTHEBEST-DN42
+mnt-by:             FORTHEBEST-MNT
+nserver:            ns1.forthebest.dn42
+status:             ASSIGNED
+cidr:               fd3f:daf2:5886::/48
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             forthebest.dn42
+admin-c:            FORTHEBEST-DN42
+tech-c:             FORTHEBEST-DN42
+mnt-by:             FORTHEBEST-MNT
+nserver:            ns1.forthebest.dn42 172.23.49.129
+nserver:            ns1.forthebest.dn42 fd3f:daf2:5886:53::1
+source:             DN42
