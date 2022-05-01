@@ -1,0 +1,4 @@
+route:              172.21.78.32/27
+origin:             AS4242421440
+mnt-by:             UNLOBITO-MNT
+source:             DN42
