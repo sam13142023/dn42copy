@@ -1,0 +1,4 @@
+route:              172.22.125.224/27
+origin:             AS4242422380
+mnt-by:             MERLYN-MNT
+source:             DN42
