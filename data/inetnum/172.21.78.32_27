@@ -1,0 +1,10 @@
+inetnum:            172.21.78.32 - 172.21.78.63
+cidr:               172.21.78.32/27
+netname:            UNLOBITO-DN42
+descr:              canidae.systems (on dn42)
+country:            GB
+admin-c:            UNLOBITO-DN42
+tech-c:             UNLOBITO-DN42
+mnt-by:             UNLOBITO-MNT
+status:             ASSIGNED
+source:             DN42
