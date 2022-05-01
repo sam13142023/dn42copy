@@ -1,0 +1,10 @@
+inet6num:           fd00:feed:beef:0000:0000:0000:0000:0000 - fd00:feed:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:feed:beef::/48
+netname:            MERLYN-NETWORK
+descr:              FEED MERLYN WITH BEEF PLZ
+country:            CN
+admin-c:            MERLYN-DN42
+tech-c:             MERLYN-DN42
+mnt-by:             MERLYN-MNT
+status:             ASSIGNED
+source:             DN42

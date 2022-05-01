@@ -1,0 +1,9 @@
+inetnum:            172.22.125.224 - 172.22.125.255
+cidr:               172.22.125.224/27
+netname:            MERLYN-NETWORK
+admin-c:            MERLYN-DN42
+tech-c:             MERLYN-DN42
+mnt-by:             MERLYN-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.merlyn.dn42

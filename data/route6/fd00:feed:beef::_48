@@ -1,0 +1,5 @@
+route6:             fd00:feed:beef::/48
+origin:             AS4242422380
+max-length:         48
+mnt-by:             MERLYN-MNT
+source:             DN42
