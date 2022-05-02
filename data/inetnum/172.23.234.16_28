@@ -1,0 +1,8 @@
+inetnum:            172.23.234.16 - 172.23.234.31
+cidr:               172.23.234.16/28
+netname:            FRANTATHEFRANTA-NETWORK
+admin-c:            FRANTATHEFRANTA-DN42
+tech-c:             FRANTATHEFRANTA-DN42
+mnt-by:             FRANTATHEFRANTA-MNT
+status:             ASSIGNED
+source:             DN42
