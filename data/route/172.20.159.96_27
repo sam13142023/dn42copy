@@ -1,0 +1,4 @@
+route:              172.20.159.96/27
+origin:             AS4242420275
+mnt-by:             STARSTORM42-MNT
+source:             DN42

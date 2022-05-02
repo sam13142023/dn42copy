@@ -1,0 +1,8 @@
+inetnum:            172.20.159.96 - 172.20.159.127
+cidr:               172.20.159.96/27
+netname:            STARSTORM42-NETWORK
+admin-c:            STARSTORM42-DN42
+tech-c:             STARSTORM42-DN42
+mnt-by:             STARSTORM42-MNT
+status:             ASSIGNED
+source:             DN42

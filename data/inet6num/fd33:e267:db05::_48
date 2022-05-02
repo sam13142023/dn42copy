@@ -1,0 +1,10 @@
+inet6num:           fd33:e267:db05:0000:0000:0000:0000:0000 - fd33:e267:db05:ffff:ffff:ffff:ffff:ffff
+cidr:               fd33:e267:db05::/48
+netname:            STARSTORM42-NETWORK
+descr:              Network of Starstorm42
+country:            US
+admin-c:            STARSTORM42-DN42
+tech-c:             STARSTORM42-DN42
+mnt-by:             STARSTORM42-MNT
+status:             ASSIGNED
+source:             DN42
