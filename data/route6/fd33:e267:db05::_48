@@ -1,0 +1,5 @@
+route6:             fd33:e267:db05::/48
+origin:             AS4242420275
+max-length:         48
+mnt-by:             STARSTORM42-MNT
+source:             DN42
