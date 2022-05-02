@@ -1,0 +1,5 @@
+route6:             fdb7:c21f:f30f::/48
+origin:             AS4242421033
+max-length:         48
+mnt-by:             FRANTATHEFRANTA-MNT
+source:             DN42

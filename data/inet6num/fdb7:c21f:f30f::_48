@@ -1,0 +1,10 @@
+inet6num:           fdb7:c21f:f30f:0000:0000:0000:0000:0000 - fdb7:c21f:f30f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb7:c21f:f30f::/48
+netname:            FRANTATHEFRANTA-NETWORK
+descr:              Network of FRANTATHEFRANTA
+country:            US
+admin-c:            FRANTATHEFRANTA-DN42
+tech-c:             FRANTATHEFRANTA-DN42
+mnt-by:             FRANTATHEFRANTA-MNT
+status:             ASSIGNED
+source:             DN42
