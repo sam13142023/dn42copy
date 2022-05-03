@@ -1,0 +1,6 @@
+route6:             fd12:d47:91c1::/48
+descr:              Loli Net
+origin:             AS4242422505
+max-length:         48
+mnt-by:             LOLI-MNT
+source:             DN42
