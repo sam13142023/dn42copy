@@ -1,8 +1,0 @@
-inet6num:           fd10:0127:00cc:0000:0000:0000:0000:0000 - fd10:0127:00cc:ffff:ffff:ffff:ffff:ffff
-cidr:               fd10:127:cc::/48
-netname:            Anillc Network v6
-admin-c:            ANILLC-NEONETWORK
-tech-c:             ANILLC-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

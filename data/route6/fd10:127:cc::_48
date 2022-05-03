@@ -1,8 +1,0 @@
-route6:             fd10:127:cc::/48
-max-length:         64
-origin:             AS4242422526
-admin-c:            ANILLC-NEONETWORK
-tech-c:             ANILLC-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK

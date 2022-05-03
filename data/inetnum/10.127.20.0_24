@@ -1,8 +1,0 @@
-inetnum:            10.127.20.0 - 10.127.20.255
-cidr:               10.127.20.0/24
-netname:            Anillc Network v4
-admin-c:            ANILLC-NEONETWORK
-tech-c:             ANILLC-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK
