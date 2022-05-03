@@ -1,0 +1,8 @@
+inetnum:            172.22.78.64 - 172.22.78.95
+cidr:               172.22.78.64/27
+netname:            SGARCN-NETWORK
+admin-c:            SGARCN-DN42
+tech-c:             SGARCN-DN42
+mnt-by:             SGARCN-MNT
+status:             ASSIGNED
+source:             DN42

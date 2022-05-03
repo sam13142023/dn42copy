@@ -1,0 +1,9 @@
+inet6num:           fd72:5301:e1df:0000:0000:0000:0000:0000 - fd72:5301:e1df:ffff:ffff:ffff:ffff:ffff
+cidr:               fd72:5301:e1df::/48
+netname:            SGARCN-NETWORK
+descr:              Network of sgarcn
+admin-c:            SGARCN-DN42
+tech-c:             SGARCN-DN42
+mnt-by:             SGARCN-MNT
+status:             ASSIGNED
+source:             DN42
