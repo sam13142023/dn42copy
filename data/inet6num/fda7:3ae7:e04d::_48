@@ -1,0 +1,10 @@
+inet6num:           fda7:3ae7:e04d:0000:0000:0000:0000:0000 - fda7:3ae7:e04d:ffff:ffff:ffff:ffff:ffff
+cidr:               fda7:3ae7:e04d::/48
+netname:            TY3R0XHOME-NETWORK
+descr:              Ty3r0X's network IPv6.
+country:            RO
+admin-c:            TY3R0X-DN42
+tech-c:             TY3R0X-DN42
+mnt-by:             TY3R0X-MNT
+status:             ASSIGNED
+source:             DN42

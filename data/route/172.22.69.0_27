@@ -1,0 +1,4 @@
+route:              172.22.69.0/27
+origin:             AS4242422596
+mnt-by:             TY3R0X-MNT
+source:             DN42
