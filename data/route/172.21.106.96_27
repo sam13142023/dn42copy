@@ -1,0 +1,4 @@
+route:              172.21.106.96/27
+origin:             AS4242421755
+mnt-by:             SIDINGSMEDIA-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+mntner:             SIDINGSMEDIA-MNT
+descr:              Sidings Media
+admin-c:            MN1755-DN42
+tech-c:             MN1755-DN42
+mnt-by:             SIDINGSMEDIA-MNT
+auth:               pgp-fingerprint 128AECE7F88EBA75F8F3B018BF229DCFD4748E05
+auth:               pgp-fingerprint 5D9794430F5DB601D95E4729AB524D88499439A1
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILUneyWp2wFd32NScbfTsRmVd131gaAns6mICCoqgrLZ
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDTRQ5WdpMRSS/sjfuMAHE1mOsF+tnnPw7TBtDcgajjVTpGhgiZbDR6OuNm8eSfztGwN3koscwCdvh6eYDAs3I3qWxUdGqyaYiMMRJT+Iy0z02b8WUGBK7yActhQQyuSrrsoHNrqzz388E8toMSBEV+sm+V5r3sUXWAU7+LZ/uO4R1yPol8bJ5WJrfj5MPWnB4wUQ2rwWl9ISy76brWny1okYSEpb/lc+k4JXHQPnft776+1GcnsBckemigtbPm4DuWEvkulW5dmCbj/Jyiwk7OfhK/OpasbBw0rnzZwmZqrUkkEmni357I/5BVvofzlPXAF+1fm8epKQhmw5FyyqlQ01AO4byeOgSl2O7ZDYRIYttaybtAPy+YXE1EIvfYLV3z6xrF/UpkAcVRX9e5rZ7hWzEZejceqlavrmI9Q1EqXsWuRC1ClR77N+tZ80x8Br6TmkkUIrRhtYCSnM8/YuVYv29MdrxsqDbcAsdsIN8YFpV88TtoAkiR+7AzBg/CXZA/6NTEb01i1gIN+3qsfywynTq0EgsoQWApoMEJxiWp5oiFvV5UPjbfSK0AHkG+KEcQFcVWi7Zwb15aLnVfTDM0nS2CcRhavMnPBkQ6w1SsvzASw5Mqfkf4FehmYxNNdvwKbCtloZuAoFDf2RSIg8qZY5gTaZOZniFwSZVRhw+jxQ==
+source:             DN42
