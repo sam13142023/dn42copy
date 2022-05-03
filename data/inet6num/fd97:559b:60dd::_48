@@ -1,0 +1,9 @@
+inet6num:           fd97:559b:60dd:0000:0000:0000:0000:0000 - fd97:559b:60dd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd97:559b:60dd::/48
+netname:            SM1755-UKNW1
+admin-c:            MN1755-DN42
+tech-c:             MN1755-DN42
+mnt-by:             SIDINGSMEDIA-MNT
+status:             ASSIGNED
+org:                ORG-SIDINGSMEDIA
+source:             DN42
