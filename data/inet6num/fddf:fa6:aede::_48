@@ -1,0 +1,10 @@
+inet6num:           fddf:0fa6:aede:0000:0000:0000:0000:0000 - fddf:0fa6:aede:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:fa6:aede::/48
+netname:            EZDOMAIN-NETWORK
+descr:              Network of EZdomain Inc
+country:            RU
+admin-c:            SHWL-DN42
+tech-c:             SHWL-DN42
+mnt-by:             EZDOMAIN-MNT
+status:             ASSIGNED
+source:             DN42
