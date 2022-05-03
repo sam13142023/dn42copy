@@ -1,0 +1,5 @@
+route6:             fddf:fa6:aede::/48
+origin:             AS4242422307
+max-length:         48
+mnt-by:             EZDOMAIN-MNT
+source:             DN42

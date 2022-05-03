@@ -1,0 +1,7 @@
+mntner:             EZDOMAIN-MNT
+admin-c:            SHWL-DN42
+tech-c:             SHWL-DN42
+mnt-by:             EZDOMAIN-MNT
+auth:               pgp-fingerprint E75B67FED9C4E7336BFF5F9142C1CE7570ACAA13
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAyqueI8s1PKeFmph7ZPqMLp6Gim3mXUhAnfBpbHFlZ/
+source:             DN42
