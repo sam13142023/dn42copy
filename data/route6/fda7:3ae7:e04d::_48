@@ -1,0 +1,5 @@
+route6:             fda7:3ae7:e04d::/48
+origin:             AS4242422596
+max-length:         48
+mnt-by:             TY3R0X-MNT
+source:             DN42

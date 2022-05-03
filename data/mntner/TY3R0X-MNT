@@ -1,0 +1,7 @@
+mntner:             TY3R0X-MNT
+admin-c:            TY3R0X-DN42
+tech-c:             TY3R0X-DN42
+mnt-by:             TY3R0X-MNT
+auth:               pgp-fingerprint 08C1409AF173BEB101E0511A1987C830BBC99F38
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMB6vB5IQM0qtnBSCdI6tZF+MDi8yfHOuUEpMFao+tkYvba84JoTBlnAbDdhb+trsLDt9Xukp3zR2u3puTXxOI0=
+source:             DN42
