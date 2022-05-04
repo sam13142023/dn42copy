@@ -1,0 +1,10 @@
+inetnum:            172.20.236.80 - 172.20.236.95
+cidr:               172.20.236.80/28
+netname:            FEF-NETWORK
+country:            DE
+admin-c:            FEF-DN42
+tech-c:             FEF-DN42
+mnt-by:             FEF-MNT
+status:             ASSIGNED
+nserver:            ns1.fef.dn42
+source:             DN42
