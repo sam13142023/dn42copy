@@ -1,0 +1,7 @@
+mntner:             FEF-MNT
+admin-c:            FEF-DN42
+tech-c:             FEF-DN42
+mnt-by:             FEF-MNT
+auth:               pgp-fingerprint 9D39A75A5CDA0A5DAE78F92EEC22E476DC2D3D84
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAH/LvAPZHGwkiUT69lk1NoLDe6HZ6joteu0rNMeTKwwB817nlEHH7Dr/LTXgMFaEzUZA1EQJwNBhyXATpPAa3yw1wD75hw1exETeh52YLHU/Yz9LFIa88ZcHQg5OKIrgp7j5FbhRf9+D7JKO8AkqdcHsryVO7aYuBPl/0C92cPWBp2cJg==
+source:             DN42

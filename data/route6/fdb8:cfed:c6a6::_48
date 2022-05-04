@@ -1,0 +1,5 @@
+route6:             fdb8:cfed:c6a6::/48
+origin:             AS4242420732
+max-length:         48
+mnt-by:             FEF-MNT
+source:             DN42
