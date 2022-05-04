@@ -1,0 +1,10 @@
+inetnum:            172.22.79.0 - 172.22.79.31
+netname:            LOLINET-IPV4
+descr:              Loli Net
+country:            HK
+admin-c:            LOLI-DN42
+tech-c:             LOLI-DN42
+mnt-by:             LOLI-MNT
+status:             ASSIGNED
+cidr:               172.22.79.0/27
+source:             DN42

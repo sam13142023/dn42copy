@@ -1,0 +1,10 @@
+inet6num:           fd12:0d47:91c1:0000:0000:0000:0000:0000 - fd12:0d47:91c1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:d47:91c1::/48
+netname:            LOLINET-IPV6
+descr:              Loli Net
+country:            HK
+admin-c:            LOLI-DN42
+tech-c:             LOLI-DN42
+mnt-by:             LOLI-MNT
+status:             ASSIGNED
+source:             DN42
