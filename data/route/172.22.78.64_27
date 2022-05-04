@@ -1,0 +1,4 @@
+route:              172.22.78.64/27
+origin:             AS4242422981
+mnt-by:             SGARCN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd72:5301:e1df::/48
+origin:             AS4242422981
+max-length:         48
+mnt-by:             SGARCN-MNT
+source:             DN42
