@@ -7,5 +7,6 @@ admin-c:            TAAVI-DN42
 tech-c:             TAAVI-DN42
 mnt-by:             TAAVI-MNT
 status:             ASSIGNED
-nserver:            ns01.taavi.dn42
+nserver:            ns-auth1.svc.taavi.dn42
+nserver:            ns-auth2.svc.taavi.dn42
 source:             DN42
