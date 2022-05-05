@@ -1,0 +1,7 @@
+domain:             claudweb.dn42
+nserver:            ns.claudweb.dn42 fd47:aba3:f39f:53::1
+nserver:            ns.claudweb.dn42 172.23.125.53
+admin-c:            CLAUDWEB-DN42
+tech-c:             CLAUDWEB-DN42
+mnt-by:             CLAUDWEB-MNT
+source:             DN42

@@ -4,5 +4,6 @@ netname:            CLAUDWEB-NETWORK
 admin-c:            CLAUDWEB-DN42
 tech-c:             CLAUDWEB-DN42
 mnt-by:             CLAUDWEB-MNT
+nserver:            ns.claudweb.dn42
 status:             ASSIGNED
 source:             DN42

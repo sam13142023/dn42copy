@@ -7,4 +7,5 @@ admin-c:            CLAUDWEB-DN42
 tech-c:             CLAUDWEB-DN42
 mnt-by:             CLAUDWEB-MNT
 status:             ASSIGNED
+nserver:            ns.claudweb.dn42
 source:             DN42
