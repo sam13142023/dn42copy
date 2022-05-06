@@ -1,0 +1,5 @@
+route6:             fd05:a479:89af::/48
+origin:             AS4242422674
+max-length:         48
+mnt-by:             ISC-CORP-MNT
+source:             DN42

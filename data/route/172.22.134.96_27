@@ -1,0 +1,4 @@
+route:              172.22.134.96/27
+origin:             AS4242422674
+mnt-by:             ISC-CORP-MNT
+source:             DN42
