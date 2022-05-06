@@ -1,0 +1,9 @@
+inetnum:            172.22.134.96 - 172.22.134.127
+cidr:               172.22.134.96/27
+netname:            ISC-CORP-NET
+descr:              Network of ISC-CORP
+admin-c:            ISC-CORP-DN42
+tech-c:             ISC-CORP-DN42
+mnt-by:             ISC-CORP-MNT
+status:             ASSIGNED
+source:             DN42

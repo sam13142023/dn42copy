@@ -1,0 +1,9 @@
+inet6num:           fd05:a479:89af:0000:0000:0000:0000:0000 - fd05:a479:89af:ffff:ffff:ffff:ffff:ffff
+cidr:               fd05:a479:89af::/48
+netname:            ISC-CORP-NET
+descr:              Network of ISC-CORP
+admin-c:            ISC-CORP-DN42
+tech-c:             ISC-CORP-DN42
+mnt-by:             ISC-CORP-MNT
+status:             ASSIGNED
+source:             DN42

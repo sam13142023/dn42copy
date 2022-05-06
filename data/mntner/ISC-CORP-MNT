@@ -1,0 +1,6 @@
+mntner:             ISC-CORP-MNT
+admin-c:            ISC-CORP-DN42
+tech-c:             ISC-CORP-DN42
+mnt-by:             ISC-CORP-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIrUrHxwJ7Ziijik+Oo6SFlO8P1uh1RMeD4P4SI3Rtg6 dn42@insidiouscorp.de
+source:             DN42
