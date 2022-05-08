@@ -1,0 +1,7 @@
+domain:             emi.dn42
+admin-c:            SNAKI-DN42
+tech-c:             SNAKI-DN42
+mnt-by:             SNAKI-MNT
+nserver:            ns1.emi.dn42 fd05:dd42:baab:53::1
+nserver:            ns1.emi.dn42 172.22.69.60
+source:             DN42
