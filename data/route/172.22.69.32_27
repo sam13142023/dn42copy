@@ -1,0 +1,4 @@
+route:              172.22.69.32/27
+origin:             AS4242420838
+mnt-by:             SNAKI-MNT
+source:             DN42

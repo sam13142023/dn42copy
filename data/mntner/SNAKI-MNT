@@ -1,0 +1,7 @@
+mntner:             SNAKI-MNT
+admin-c:            SNAKI-DN42
+tech-c:             SNAKI-DN42
+mnt-by:             SNAKI-MNT
+auth:               pgp-fingerprint A9A12239F357CDBC40648DA2C57B0E9414459801
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBADcykFP7n4eVO4AQPhlZV2Zf+sMHlBbQVIPuLtMPSJukUU80N5bx7QSuHM2R0swa2cRw6zVetB+YPDN+Fvbr4IXugEOwxVaw858Xo07sGupsa1Wd5ZRqrMCfEncpJXkSI94CRwCMhphhGkkoc9jnJDXXLfHuorNQY8hqxAT1N34tyB7SA==
+source:             DN42
