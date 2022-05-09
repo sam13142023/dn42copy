@@ -1,0 +1,10 @@
+inetnum:            172.20.43.96 - 172.20.43.127
+cidr:               172.20.43.96/27
+netname:            THEHEDGEHOG-NETWORK
+descr:              TheHedgehog's Network
+country:            US
+admin-c:            THEHEDGEHOG-DN42
+tech-c:             THEHEDGEHOG-DN42
+mnt-by:             THEHEDGEHOG-MNT
+status:             ASSIGNED
+source:             DN42

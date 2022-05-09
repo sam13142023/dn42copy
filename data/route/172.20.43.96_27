@@ -1,0 +1,4 @@
+route:              172.20.43.96/27
+origin:             AS4242422459
+mnt-by:             THEHEDGEHOG-MNT
+source:             DN42

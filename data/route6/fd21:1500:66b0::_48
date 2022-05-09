@@ -1,0 +1,5 @@
+route6:             fd21:1500:66b0::/48
+origin:             AS4242422459
+max-length:         48
+mnt-by:             THEHEDGEHOG-MNT
+source:             DN42
