@@ -1,0 +1,11 @@
+inet6num:           fd80:77e1:fe9e:0000:0000:0000:0000:0000 - fd80:77e1:fe9e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd80:77e1:fe9e::/48
+netname:            XXR-NETWORK
+descr:              Network of XXR
+country:            CN
+admin-c:            XXR-DN42
+tech-c:             XXR-DN42
+mnt-by:             XXR-MNT
+status:             ASSIGNED
+nserver:            ns1.xxr.dn42
+source:             DN42

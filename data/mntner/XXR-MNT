@@ -1,0 +1,6 @@
+mntner:             XXR-MNT
+admin-c:            XXR-DN42
+tech-c:             XXR-DN42
+mnt-by:             XXR-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF0NDwCt9mDnsO+s4Qr66hJu3u34FtcsxVv99V8Rt/pQ
+source:             DN42
