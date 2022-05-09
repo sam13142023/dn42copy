@@ -1,0 +1,9 @@
+inetnum:            172.22.138.96 - 172.22.138.127
+cidr:               172.22.138.96/27
+netname:            XXR-NETWORK
+admin-c:            XXR-DN42
+tech-c:             XXR-DN42
+mnt-by:             XXR-MNT
+status:             ASSIGNED
+nserver:            ns1.xxr.dn42
+source:             DN42

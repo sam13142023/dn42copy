@@ -1,0 +1,7 @@
+domain:             xxr.dn42
+admin-c:            XXR-DN42
+tech-c:             XXR-DN42
+mnt-by:             XXR-MNT
+nserver:            ns1.xxr.dn42 172.22.138.114
+nserver:            ns1.xxr.dn42 fd80:77e1:fe9e:114::1
+source:             DN42

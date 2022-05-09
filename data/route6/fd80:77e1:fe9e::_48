@@ -1,0 +1,5 @@
+route6:             fd80:77e1:fe9e::/48
+origin:             AS4242421106
+max-length:         48
+mnt-by:             XXR-MNT
+source:             DN42
