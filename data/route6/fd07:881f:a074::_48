@@ -1,5 +1,5 @@
 route6:             fd07:881f:a074::/48
 origin:             AS4242421556
-max-length:         48
+max-length:         64
 mnt-by:             GABRIELTACKITT-MNT
 source:             DN42
