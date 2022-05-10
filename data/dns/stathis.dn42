@@ -1,0 +1,7 @@
+domain:             stathis.dn42
+descr:              stathis
+admin-c:            STATHIS-DN42
+tech-c:             STATHIS-DN42
+mnt-by:             STATHIS-MNT
+nserver:            bleep.stathis.dn42 172.20.21.210
+source:             DN42
