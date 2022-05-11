@@ -1,0 +1,6 @@
+domain:             petros.dn42
+admin-c:            PETROS-DN42
+tech-c:             PETROS-DN42
+mnt-by:             PETROS-MNT
+nserver:            a.petros.dn42 172.23.160.34
+source:             DN42

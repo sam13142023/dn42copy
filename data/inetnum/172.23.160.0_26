@@ -6,5 +6,6 @@ admin-c:            PETROS-DN42
 tech-c:             PETROS-DN42
 mnt-by:             PETROS-MNT
 status:             ASSIGNED
+nserver:            a.petros.dn42
 cidr:               172.23.160.0/26
 source:             DN42
