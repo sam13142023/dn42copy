@@ -1,0 +1,7 @@
+mntner:             OSCRX-MNT
+admin-c:            OSCRX-DN42
+tech-c:             OSCRX-DN42
+mnt-by:             OSCRX-MNT
+auth:               pgp-fingerprint A707B3FAB275E7AA3237110A64B839C17E31F151
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDBSAb3NS7yeBsj8lK304NmdVDRbWhEA+ns7E30hpuyN0XvSAdzSjTG3HvXKIf3VPIXzKNzBNFgTflvYI3BunGutlvQsm+n3gvlM3gyFJNI3KvI1HCdYT1SIP1cwimRyYIyYuINsPhxFFxIGwX3Fzk8xr+e2x4DBjIkKpO6qO0PdYMA3ws/DlVXAzk5OuQfhCT9I50cwCXBMs2nIo2cEbbIfPIe0vjmaeIXVYaK7izJdG2TrXXF0Sve0vXGFos7c+ShJqjuS2+FMJrvjlzK+FYjKqWov5dNbTvHXyMEUBy7XumsF5t4iN0cJDuA7f4adOqEsC+iDm6iFdP4WA2yHeL
+source:             DN42

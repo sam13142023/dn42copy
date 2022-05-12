@@ -1,0 +1,11 @@
+inet6num:           fd69:0420:cafe:0000:0000:0000:0000:0000 - fd69:0420:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            OSCRX-NET
+country:            NL
+admin-c:            OSCRX-DN42
+tech-c:             OSCRX-DN42
+mnt-by:             OSCRX-MNT
+status:             ASSIGNED
+cidr:               fd69:420:cafe::/48
+nserver:            ns1.oscrx.dn42
+ds-rdata:           30145 13 2 BB6844E9E2AE31E092407A3FB0410338E0A5A53A65EEFA33B55EFD1B153A3094
+source:             DN42

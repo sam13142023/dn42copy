@@ -1,0 +1,14 @@
+aut-num:            AS4242423818
+as-name:            OSCRX-AS
+remarks:            /----------------------------------------------\
+remarks:            | Peering info:                                |
+remarks:            | - Open for peering.                          |
+remarks:            | - Tunnel protocol: Wireguard                 |
+remarks:            |----------------------------------------------|
+remarks:            | Locations:                                   |
+remarks:            | - Ede, Netherlands                           |
+remarks:            \----------------------------------------------/
+admin-c:            OSCRX-DN42
+tech-c:             OSCRX-DN42
+mnt-by:             OSCRX-MNT
+source:             DN42

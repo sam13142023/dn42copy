@@ -1,0 +1,7 @@
+domain:             oscrx.dn42
+admin-c:            OSCRX-DN42
+tech-c:             OSCRX-DN42
+mnt-by:             OSCRX-MNT
+nserver:            ns1.oscrx.dn42 fd69:420:cafe:53::1
+ds-rdata:           33372 13 2 9C80F13110CA0600CDB68A9FE8B4C8EEBB633CAF7CF26E33BFAFA0D83DA0B22A
+source:             DN42
