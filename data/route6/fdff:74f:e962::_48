@@ -2,5 +2,5 @@ route6:             fdff:74f:e962::/48
 origin:             AS4242423622
 max-length:         48
 mnt-by:             KOALA-MNT
-mnt-by:             TAILSNET-MNT
+mnt-by:             CARAMELFOX-MNT
 source:             DN42

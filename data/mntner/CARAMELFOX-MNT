@@ -1,0 +1,7 @@
+mntner:             CARAMELFOX-MNT
+descr:              CaramelFox Networks Maintainer Object
+admin-c:            CARAMELFOX-DN42
+tech-c:             CARAMELFOX-DN42
+mnt-by:             CARAMELFOX-MNT
+auth:               PGPKEY-CED9164F
+source:             DN42

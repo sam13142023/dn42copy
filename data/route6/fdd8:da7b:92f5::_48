@@ -1,4 +1,4 @@
 route6:             fdd8:da7b:92f5::/48
-origin:             AS4242423621
-mnt-by:             TAILSNET-MNT
+origin:             AS211169
+mnt-by:             CARAMELFOX-MNT
 source:             DN42

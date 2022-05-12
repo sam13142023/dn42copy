@@ -1,4 +1,4 @@
 route:              172.20.59.64/27
-origin:             AS4242423621
-mnt-by:             TAILSNET-MNT
+origin:             AS211169
+mnt-by:             CARAMELFOX-MNT
 source:             DN42
