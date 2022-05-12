@@ -1,10 +1,10 @@
 inetnum:            172.20.59.64 - 172.20.59.95
-netname:            TAILS-NETWORK
-descr:              TailsNet IPv4 Allocation
+netname:            CARAMELFOX-NETWORKS
+descr:              CaramelFox Networks DN42 IPv4 Allocation
 country:            US
-admin-c:            TAILSNET-DN42
-tech-c:             TAILSNET-DN42
-mnt-by:             TAILSNET-MNT
+admin-c:            CARAMELFOX-DN42
+tech-c:             CARAMELFOX-DN42
+mnt-by:             CARAMELFOX-MNT
 status:             ASSIGNED
 cidr:               172.20.59.64/27
 source:             DN42

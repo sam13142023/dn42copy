@@ -5,9 +5,9 @@ descr:              Fox and Bear Network
 admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
-admin-c:            TAILSNET-DN42
-tech-c:             TAILSNET-DN42
-mnt-by:             TAILSNET-MNT
+admin-c:            CARAMELFOX-DN42
+tech-c:             CARAMELFOX-DN42
+mnt-by:             CARAMELFOX-MNT
 org:                ORG-FAB
 country:            US
 nserver:            ns1.koala.dn42

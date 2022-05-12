@@ -1,10 +1,10 @@
 aut-num:            AS4242423622
-as-name:            Fox and Bear Network
+as-name:            Fox_and_Bear_Network
 admin-c:            KOALA-DN42
 tech-c:             KOALA-DN42
 mnt-by:             KOALA-MNT
-admin-c:            TAILSNET-DN42
-tech-c:             TAILSNET-DN42
-mnt-by:             TAILSNET-MNT
+admin-c:            CARAMELFOX-DN42
+tech-c:             CARAMELFOX-DN42
+mnt-by:             CARAMELFOX-MNT
 org:                ORG-FAB
 source:             DN42
