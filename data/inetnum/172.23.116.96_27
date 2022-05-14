@@ -1,0 +1,9 @@
+inetnum:            172.23.116.96 - 172.23.116.127
+cidr:               172.23.116.96/27
+netname:            SS7-V4-NET
+admin-c:            SS7-DN42
+tech-c:             SS7-DN42
+mnt-by:             SS7-MNT
+status:             ASSIGNED
+nserver:            ns-syd01.ss7.dn42
+source:             DN42

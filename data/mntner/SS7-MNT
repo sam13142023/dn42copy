@@ -1,0 +1,6 @@
+mntner:             SS7-MNT
+admin-c:            SS7-DN42
+tech-c:             SS7-DN42
+mnt-by:             SS7-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICDCHXHwQ5X3NmbHMEyypsDxJw4zCQArA5VOTOOkJI0z
+source:             DN42

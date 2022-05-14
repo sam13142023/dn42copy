@@ -1,0 +1,7 @@
+domain:             ss7.dn42
+admin-c:            SS7-DN42
+tech-c:             SS7-DN42
+mnt-by:             SS7-MNT
+nserver:            ns-syd01.ss7.dn42 172.23.116.100
+nserver:            ns-syd01.ss7.dn42 fd52:fddc:74ba::100
+source:             DN42

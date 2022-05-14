@@ -1,0 +1,5 @@
+route6:             fd52:fddc:74ba::/48
+origin:             AS4242421327
+max-length:         48
+mnt-by:             SS7-MNT
+source:             DN42
