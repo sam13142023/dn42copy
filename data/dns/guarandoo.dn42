@@ -1,0 +1,9 @@
+domain:             guarandoo.dn42
+admin-c:            SATANICHIA-DN42
+tech-c:             SATANICHIA-DN42
+mnt-by:             GUARANDOO-MNT
+nserver:            melonpan.guarandoo.dn42 172.20.193.129
+nserver:            melonpan.guarandoo.dn42 fdd5:28f6:7dce:53::1
+nserver:            sakana.guarandoo.dn42 172.20.193.130
+nserver:            sakana.guarandoo.dn42 fdd5:28f6:7dce:53::2
+source:             DN42

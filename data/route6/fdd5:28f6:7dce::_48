@@ -1,0 +1,5 @@
+route6:             fdd5:28f6:7dce::/48
+origin:             AS4242423314
+max-length:         48
+mnt-by:             GUARANDOO-MNT
+source:             DN42

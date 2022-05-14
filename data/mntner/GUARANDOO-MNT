@@ -1,0 +1,6 @@
+mntner:             GUARANDOO-MNT
+admin-c:            SATANICHIA-DN42
+tech-c:             SATANICHIA-DN42
+mnt-by:             GUARANDOO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB2CRBRler6N2UENbMSZ3f+z/4PPPbxPLh7KNX5Bm2PR admin@dn42.guarandoo.moe
+source:             DN42

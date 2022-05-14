@@ -1,0 +1,4 @@
+route:              172.20.193.128/27
+origin:             AS4242423314
+mnt-by:             GUARANDOO-MNT
+source:             DN42
