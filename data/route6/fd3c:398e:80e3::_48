@@ -1,0 +1,5 @@
+route6:             fd3c:398e:80e3::/48
+origin:             AS4242423257
+max-length:         48
+mnt-by:             NONLOCALHOST-MNT
+source:             DN42

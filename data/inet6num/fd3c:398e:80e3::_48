@@ -1,0 +1,10 @@
+inet6num:           fd3c:398e:80e3:0000:0000:0000:0000:0000 - fd3c:398e:80e3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:398e:80e3::/48
+netname:            NONLOCALHOST-NETWORK
+descr:              DN42 lab environment of nonlocal.host
+country:            US
+admin-c:            NONLOCALHOST-DN42
+tech-c:             NONLOCALHOST-DN42
+mnt-by:             NONLOCALHOST-MNT
+status:             ASSIGNED
+source:             DN42

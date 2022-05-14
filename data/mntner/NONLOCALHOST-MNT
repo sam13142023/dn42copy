@@ -1,0 +1,6 @@
+mntner:             NONLOCALHOST-MNT
+admin-c:            NONLOCALHOST-DN42
+tech-c:             NONLOCALHOST-DN42
+mnt-by:             NONLOCALHOST-MNT
+auth:               pgp-fingerprint CA3D84E52291DEB72DE4FE9372C0688F0A08F549
+source:             DN42
