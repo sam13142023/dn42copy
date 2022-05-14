@@ -1,0 +1,5 @@
+route:              172.23.116.96/27
+origin:             AS4242421327
+max-length:         27
+mnt-by:             SS7-MNT
+source:             DN42

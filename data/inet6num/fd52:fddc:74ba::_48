@@ -1,0 +1,9 @@
+inet6num:           fd52:fddc:74ba:0000:0000:0000:0000:0000 - fd52:fddc:74ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fd52:fddc:74ba::/48
+netname:            SS7-V6-NET
+admin-c:            SS7-DN42
+tech-c:             SS7-DN42
+mnt-by:             SS7-MNT
+status:             ASSIGNED
+nserver:            ns-syd01.ss7.dn42
+source:             DN42
