@@ -1,0 +1,10 @@
+inetnum:            172.20.193.128 - 172.20.193.159
+cidr:               172.20.193.128/27
+netname:            GUARANDOO-NETWORK
+admin-c:            SATANICHIA-DN42
+tech-c:             SATANICHIA-DN42
+mnt-by:             GUARANDOO-MNT
+status:             ASSIGNED
+nserver:            melonpan.guarandoo.dn42
+nserver:            sakana.guarandoo.dn42
+source:             DN42
