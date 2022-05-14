@@ -1,0 +1,10 @@
+inet6num:           fd59:5785:2928:0000:0000:0000:0000:0000 - fd59:5785:2928:ffff:ffff:ffff:ffff:ffff
+netname:            VINE-IPV6
+descr:              Peer with me at TG@vinechang
+country:            CN
+admin-c:            VINE-DN42
+tech-c:             VINE-DN42
+mnt-by:             VINE-MNT
+status:             ASSIGNED
+cidr:               fd59:5785:2928::/48
+source:             DN42
