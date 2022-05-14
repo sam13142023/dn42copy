@@ -1,0 +1,9 @@
+domain:             techanit.dn42
+nserver:            ns1.techanit.dn42 172.22.131.158
+nserver:            ns1.techanit.dn42 fd9f:621d:e6b4:d042:172:22:131:158
+ds-rdata:           31424 13 2 DBF680A064A0767F2819EA51B7206BCD248605306C7034E2F11D7EE380B79ACD
+mnt-by:             EST-MNT
+admin-c:            EST-DN42
+tech-c:             EST-DN42
+country:            DE
+source:             DN42
