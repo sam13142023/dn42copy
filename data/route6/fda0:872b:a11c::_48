@@ -1,0 +1,5 @@
+route6:             fda0:872b:a11c::/48
+origin:             AS4242421829
+max-length:         48
+mnt-by:             NIVAR-MNT
+source:             DN42

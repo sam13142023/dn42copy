@@ -1,0 +1,13 @@
+inet6num:           fda0:872b:a11c:0000:0000:0000:0000:0000 - fda0:872b:a11c:ffff:ffff:ffff:ffff:ffff
+cidr:               fda0:872b:a11c::/48
+netname:            NIVAR-NETWORK
+descr:              I am home and I had almost forgotten its beauty
+country:            DE
+admin-c:            NIVAR-DN42
+tech-c:             NIVAR-DN42
+mnt-by:             NIVAR-MNT
+status:             ASSIGNED
+org:                ORG-NIVAR
+nserver:            ns1.nivar.dn42
+nserver:            ns2.nivar.dn42
+source:             DN42
