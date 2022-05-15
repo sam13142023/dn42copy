@@ -1,0 +1,10 @@
+inetnum:            172.20.56.64 - 172.20.56.127
+cidr:               172.20.56.64/26
+netname:            BASEDILANCIO4-NETWORK
+descr:              IPv4 launch base for my network
+country:            EU
+admin-c:            VMSH0-DN42
+tech-c:             VMSH0-DN42
+mnt-by:             VMSH0-MNT
+status:             ASSIGNED
+source:             DN42

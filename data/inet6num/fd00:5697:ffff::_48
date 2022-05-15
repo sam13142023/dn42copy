@@ -1,0 +1,10 @@
+inet6num:           fd00:5697:ffff:0000:0000:0000:0000:0000 - fd00:5697:ffff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:5697:ffff::/48
+netname:            BASEDILANCIO6-NETWORK
+descr:              IPv6 launch base for my network
+country:            EU
+admin-c:            VMSH0-DN42
+tech-c:             VMSH0-DN42
+mnt-by:             VMSH0-MNT
+status:             ASSIGNED
+source:             DN42
