@@ -1,0 +1,11 @@
+inetnum:            172.22.78.96 - 172.22.78.127
+netname:            VINE-IPV4
+remarks:            Peer with me at TG@vinechang
+descr:              Peer with me at TG@vinechang
+country:            CN
+admin-c:            VINE-DN42
+tech-c:             VINE-DN42
+mnt-by:             VINE-MNT
+status:             ASSIGNED
+cidr:               172.22.78.96/27
+source:             DN42

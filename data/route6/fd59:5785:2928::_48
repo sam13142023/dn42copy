@@ -1,0 +1,5 @@
+route6:             fd59:5785:2928::/48
+descr:              Peer with me at TG@vinechang
+origin:             AS4242422928
+mnt-by:             VINE-MNT
+source:             DN42

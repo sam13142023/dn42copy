@@ -1,0 +1,7 @@
+mntner:             VINE-MNT
+admin-c:            VINE-DN42
+tech-c:             VINE-DN42
+mnt-by:             VINE-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC9pRuVOD5QvEpp7BcIwWgsc7Uh0+GZMetsJmo9O7FLt
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHlM0M28yIDhyhtHTpgeFzSqDpPsgvDr8DhNgZ7hI4TbYOvKCq3087vLHoXRsOUoVnDgKHj0Zd/7sjX8Oqlij2AOQRQRbGIT4epswPqH9wnVMgLmg0j9fepMzJtL4849/6plgZzktLCY/68cwQMtRjA1LbzH5t4lu5KYhqRGL3JNlttbRXTxYWzhP5oaUm3DSofbjcxdsNDbrhwEvbeJ0xjLkmXlXDxkzPZMK2i+wBJB79QQJLZdu5Y/Uinn7lP/xHAyxKKTw2GpGYTkLWwzHpxEPdfb4K156X2gVeuRsgsuxIQ5Cb7bj/qxa0y5242GRAfN2BYlhsrN0iEQ5p9dZcAXEoz7nGXY5qtbKs87y/O0K1UW50M7JV4sLx17AU9JZtVM9SMSwIaC+YEIxsW9ctkSEJJO6M9POOYKKdi3ABK+CSHO5umg0oiWuIqSaae9hxL+siDmyBAbROrvI3CwyZ6NnjQlo8to50qaZq5V9M6scF0uuNfbOZi09cePnaZXs=
