@@ -1,0 +1,10 @@
+domain:             nivar.dn42
+admin-c:            NIVAR-DN42
+tech-c:             NIVAR-DN42
+mnt-by:             NIVAR-MNT
+nserver:            ns1.nivar.dn42 172.22.138.65
+nserver:            ns1.nivar.dn42 fda0:872b:a11c::1
+nserver:            ns2.nivar.dn42 172.22.138.66
+nserver:            ns2.nivar.dn42 fda0:872b:a11c::2
+org:                ORG-NIVAR
+source:             DN42
