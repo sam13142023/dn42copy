@@ -1,0 +1,5 @@
+route:              172.20.43.64/28
+descr:              Peer with me at n386345222@hotmail.com
+origin:             AS4242422427
+mnt-by:             MAGITEK-MNT
+source:             DN42
