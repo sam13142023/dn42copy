@@ -1,0 +1,7 @@
+aut-num:            AS4242421901
+as-name:            BAIYU-AS
+descr:              Peer with me at admin@nya-cloud.com
+admin-c:            BAIYU-DN42
+tech-c:             BAIYU-DN42
+mnt-by:             BAIYU-MNT
+source:             DN42

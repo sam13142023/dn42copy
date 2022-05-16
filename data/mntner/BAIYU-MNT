@@ -1,0 +1,7 @@
+mntner:             BAIYU-MNT
+admin-c:            BAIYU-DN42
+tech-c:             BAIYU-DN42
+mnt-by:             BAIYU-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILnGg1mCpnhbkjohaYd+avhFV0ChvYZAOomTLdPQN4IR
+remarks:            Baiyu Net

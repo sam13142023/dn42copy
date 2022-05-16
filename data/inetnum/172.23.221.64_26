@@ -1,0 +1,11 @@
+inetnum:            172.23.221.64 - 172.23.221.127
+netname:            BAIYU-IPV4
+remarks:            Peer with me at admin@nya-cloud.com
+descr:              Baiyu Communications
+country:            CN
+admin-c:            BAIYU-DN42
+tech-c:             BAIYU-DN42
+mnt-by:             BAIYU-MNT
+status:             ASSIGNED
+cidr:               172.23.221.64/26
+source:             DN42

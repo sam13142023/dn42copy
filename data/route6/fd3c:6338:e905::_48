@@ -1,0 +1,5 @@
+route6:             fd3c:6338:e905::/48
+descr:              Peer with me at admin@nya-cloud.com
+origin:             AS4242421901
+mnt-by:             BAIYU-MNT
+source:             DN42
