@@ -1,5 +1,9 @@
 aut-num:            AS4242422206
 as-name:            TECHANIT
+descr:              techanit.dn42 https://dn42.est-it.de/
+remarks:            Open peering policy:
+remarks:            See techanit.dn42 or https://dn42.est-it.de/ for details,
+remarks:            or just ask on IRC (techanit@hackint) / E-Mail (dn42@est-it.de)
 admin-c:            EST-DN42
 tech-c:             EST-DN42
 mnt-by:             EST-MNT

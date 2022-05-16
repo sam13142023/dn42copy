@@ -1,9 +1,13 @@
 inet6num:           fd9f:621d:e6b4:0000:0000:0000:0000:0000 - fd9f:621d:e6b4:ffff:ffff:ffff:ffff:ffff
 cidr:               fd9f:621d:e6b4::/48
 netname:            TECHANIT-NETWORK6
+nserver:            ns1.techanit.dn42
+nserver:            ns1.techanit.dn42
+ds-rdata:           43476 13 2 6EF45DBF3225DEAF3481BC26A2A7B14F06F293318A5FE4EF7D40020A778E9D42
 country:            DE
 admin-c:            EST-DN42
 tech-c:             EST-DN42
+zone-c:             EST-DN42
 mnt-by:             EST-MNT
 status:             ASSIGNED
 source:             DN42

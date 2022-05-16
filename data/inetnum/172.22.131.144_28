@@ -1,9 +1,13 @@
 inetnum:            172.22.131.144 - 172.22.131.159
 cidr:               172.22.131.144/28
 netname:            TECHANIT-NETWORK4
+nserver:            ns1.techanit.dn42
+nserver:            ns1.techanit.dn42
+ds-rdata:           47561 13 2 BEAB99FFB48BEC7AEB45B326F1A4514B8006307A3C7C8EDAC0B4454ACECC3490
 country:            DE
 admin-c:            EST-DN42
 tech-c:             EST-DN42
+zone-c:             EST-DN42
 mnt-by:             EST-MNT
 status:             ASSIGNED
 source:             DN42
