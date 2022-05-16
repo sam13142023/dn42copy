@@ -1,0 +1,4 @@
+route:              172.20.56.64/26
+origin:             AS4242421397
+mnt-by:             VMSH0-MNT
+source:             DN42

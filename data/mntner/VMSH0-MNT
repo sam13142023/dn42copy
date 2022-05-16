@@ -1,0 +1,6 @@
+mntner:             VMSH0-MNT
+admin-c:            VMSH0-DN42
+tech-c:             VMSH0-DN42
+mnt-by:             VMSH0-MNT
+auth:               pgp-fingerprint 5D28E51595F426A8DA16128319AA545A29857BEB
+source:             DN42
