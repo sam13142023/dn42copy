@@ -1,0 +1,10 @@
+inet6num:           fd3c:6338:e905:0000:0000:0000:0000:0000 - fd3c:6338:e905:ffff:ffff:ffff:ffff:ffff
+netname:            BAIYU-IPV6
+descr:              Peer with me at admin@nya-cloud.com
+country:            CN
+admin-c:            BAIYU-DN42
+tech-c:             BAIYU-DN42
+mnt-by:             BAIYU-MNT
+status:             ASSIGNED
+cidr:               fd3c:6338:e905::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.221.64/26
+descr:              Baiyu Communications
+origin:             AS4242421901
+mnt-by:             BAIYU-MNT
+source:             DN42
