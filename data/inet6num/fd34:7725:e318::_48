@@ -1,0 +1,12 @@
+inet6num:           fd34:7725:e318:0000:0000:0000:0000:0000 - fd34:7725:e318:ffff:ffff:ffff:ffff:ffff
+cidr:               fd34:7725:e318::/48
+netname:            PICKARD-NETWORK
+descr:              Network of NOTPICKARD
+country:            US
+admin-c:            NOTPICKARD-DN42
+tech-c:             NOTPICKARD-DN42
+mnt-by:             NOTPICKARD-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.notpickard.dn42
+nserver:            ns2.notpickard.dn42

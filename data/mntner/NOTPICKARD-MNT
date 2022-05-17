@@ -1,0 +1,6 @@
+mntner:             NOTPICKARD-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfU665QcqRFDCA4XkxmOIHH8JrrkFiBSZnJSzujs/pdXsZAjqa1x2mtUFEAnDGoIv9RKRSvAt51xDkouJkSThDYxO3Vhelh2hdkdX88jbkMNmMvledrwdmaO9JZ+yNHSngPl2p7JeVVhO8rH4E+f2qSw/Nf+XR8oGPOwf749yztPg4LrOLXwsF8sX5DMNfmaUym4uaw3QOann9nJRWHtc4yN4RH0P+jdLpYlYk7h4wqmi1fMN8TamEZ0CxOWi+E+jjYjjFDSqIkaD5qk4Z3y230gzF2LQOWMX24hCWbStQ7sg9KdSyg1F2taGNwc44SuYvm2KYOLOtyhWAF7kXqAHz pickard@damu
+admin-c:            NOTPICKARD-DN42
+tech-c:             NOTPICKARD-DN42
+mnt-by:             NOTPICKARD-MNT
+source:             DN42

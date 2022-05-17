@@ -1,0 +1,5 @@
+route6:             fd34:7725:e318::/48
+origin:             AS4242421126
+max-length:         48
+mnt-by:             NOTPICKARD-MNT
+source:             DN42
