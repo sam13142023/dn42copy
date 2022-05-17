@@ -1,0 +1,4 @@
+route:              172.20.239.240/28
+origin:             AS4242421126
+mnt-by:             NOTPICKARD-MNT
+source:             DN42

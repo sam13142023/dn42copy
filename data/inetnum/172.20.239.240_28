@@ -1,0 +1,10 @@
+inetnum:            172.20.239.240 - 172.20.239.255
+cidr:               172.20.239.240/28
+netname:            NOTPICKARD-NETWORK
+admin-c:            NOTPICKARD-DN42
+tech-c:             NOTPICKARD-DN42
+mnt-by:             NOTPICKARD-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.notpickard.dn42
+nserver:            ns2.notpickard.dn42

@@ -1,0 +1,9 @@
+domain:             notpickard.dn42
+admin-c:            NOTPICKARD-DN42
+tech-c:             NOTPICKARD-DN42
+mnt-by:             NOTPICKARD-MNT
+nserver:            ns1.notpickard.dn42 172.20.239.241
+nserver:            ns1.notpickard.dn42 fd34:7725:e318:53::1
+nserver:            ns2.notpickard.dn42 172.20.239.242
+nserver:            ns2.notpickard.dn42 fd34:7725:e318:53::2
+source:             DN42
