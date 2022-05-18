@@ -1,0 +1,9 @@
+inetnum:            172.21.118.176 - 172.21.118.191
+netname:            BITKRAKEN-NET4
+country:            DE
+admin-c:            INTI-DN42
+tech-c:             INTI-DN42
+mnt-by:             INTI-MNT
+status:             ASSIGNED
+cidr:               172.21.118.176/28
+source:             DN42
