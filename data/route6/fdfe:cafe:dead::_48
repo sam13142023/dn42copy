@@ -1,0 +1,5 @@
+route6:             fdfe:cafe:dead::/48
+origin:             AS4242420609
+max-length:         48
+mnt-by:             INTI-MNT
+source:             DN42

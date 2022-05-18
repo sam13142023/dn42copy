@@ -1,0 +1,10 @@
+inet6num:           fdfe:cafe:dead:0000:0000:0000:0000:0000 - fdfe:cafe:dead:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfe:cafe:dead::/48
+netname:            BITKRAKEN-NET6
+descr:              BITKRAKEN IPv6
+country:            DE
+admin-c:            INTI-DN42
+tech-c:             INTI-DN42
+mnt-by:             INTI-MNT
+status:             ASSIGNED
+source:             DN42
