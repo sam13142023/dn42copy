@@ -1,0 +1,12 @@
+inetnum:            172.22.79.32 - 172.22.79.63
+netname:            SPORKSNET-IPV4
+descr:              Sporks Net
+country:            US
+admin-c:            SPORKS-DN42
+tech-c:             SPORKS-DN42
+mnt-by:             SPORKS-MNT
+status:             ASSIGNED
+nserver:            ns1.sporks.dn42
+nserver:            ns2.sporks.dn42
+cidr:               172.22.79.32/27
+source:             DN42
