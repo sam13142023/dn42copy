@@ -1,0 +1,4 @@
+route:              172.20.183.96/27
+origin:             AS4242420693
+mnt-by:             R0NAM1-MNT
+source:             DN42

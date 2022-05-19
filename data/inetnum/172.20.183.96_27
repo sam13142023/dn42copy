@@ -1,0 +1,8 @@
+inetnum:            172.20.183.96 - 172.20.183.127
+cidr:               172.20.183.96/27
+netname:            TOASTY-CAFE-NETWORK
+admin-c:            R0NAM1-DN42
+tech-c:             R0NAM1-DN42
+mnt-by:             R0NAM1-MNT
+status:             ASSIGNED
+source:             DN42

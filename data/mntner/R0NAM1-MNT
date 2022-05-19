@@ -1,0 +1,7 @@
+mntner:             R0NAM1-MNT
+descr:              R0NAM1, the thing that lurks.
+admin-c:            R0NAM1-DN42
+tech-c:             R0NAM1-DN42
+mnt-by:             R0NAM1-MNT
+auth:               pgp-fingerprint 63732C89E87C7316FB04D95F9CDF9E2A7E99D256
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdd3:1289:f8ba:0000:0000:0000:0000:0000 - fdd3:1289:f8ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:1289:f8ba::/48
+netname:            TOASTY-CAFE-NETWORK
+descr:              The Toasty Cafe Network
+country:            US
+admin-c:            R0NAM1-DN42
+tech-c:             R0NAM1-DN42
+mnt-by:             R0NAM1-MNT
+status:             ASSIGNED
+source:             DN42
