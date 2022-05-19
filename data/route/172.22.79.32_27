@@ -1,0 +1,4 @@
+route:              172.22.79.32/27
+origin:             AS4242423655
+mnt-by:             SPORKS-MNT
+source:             DN42

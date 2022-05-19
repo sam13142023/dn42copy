@@ -1,0 +1,9 @@
+domain:             sporks.dn42
+admin-c:            SPORKS-DN42
+tech-c:             SPORKS-DN42
+mnt-by:             SPORKS-MNT
+nserver:            ns1.sporks.dn42 172.22.79.62
+nserver:            ns1.sporks.dn42 fd49:93be:e0d2:53::1
+nserver:            ns2.sporks.dn42 172.22.79.63
+nserver:            ns2.sporks.dn42 fd49:93be:e0d2:53::2
+source:             DN42
