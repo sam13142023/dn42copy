@@ -1,0 +1,10 @@
+inet6num:           fd21:1500:66b0:0000:0000:0000:0000:0000 - fd21:1500:66b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:1500:66b0::/48
+netname:            THEHEDGEHOG-NETWORK
+descr:              Network of The Hedgehog
+country:            US
+admin-c:            THEHEDGEHOG-DN42
+tech-c:             THEHEDGEHOG-DN42
+mnt-by:             THEHEDGEHOG-MNT
+status:             ASSIGNED
+source:             DN42
