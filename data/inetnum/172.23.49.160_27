@@ -1,0 +1,8 @@
+inetnum:            172.23.49.160 - 172.23.49.191
+cidr:               172.23.49.160/27
+netname:            NB888-NETWORK
+admin-c:            NB888-DN42
+tech-c:             NB888-DN42
+mnt-by:             NB888-MNT
+status:             ASSIGNED
+source:             DN42
