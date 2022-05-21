@@ -1,0 +1,10 @@
+inet6num:           fd22:74f8:55e9:0000:0000:0000:0000:0000 - fd22:74f8:55e9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:74f8:55e9::/48
+netname:            NB888-NETWORK
+descr:              Network of NB888
+country:            FR
+admin-c:            NB888-DN42
+tech-c:             NB888-DN42
+mnt-by:             NB888-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd22:74f8:55e9::/48
+origin:             AS4242422985
+max-length:         48
+mnt-by:             NB888-MNT
+source:             DN42
