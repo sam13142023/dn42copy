@@ -1,0 +1,10 @@
+inetnum:            172.23.128.192 - 172.23.128.255
+cidr:               172.23.128.192/26
+netname:            NAIV-NETWORK-V4
+descr:              NAIV NETWORK
+country:            CN
+admin-c:            NATIVUS-DN42
+tech-c:             NATIVUS-DN42
+mnt-by:             NATIVUS-MNT
+status:             ASSIGNED
+source:             DN42

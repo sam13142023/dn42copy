@@ -1,0 +1,5 @@
+route:              fd27:cafe:beef::/48
+descr:              NAIV NETWORK
+origin:             AS4242420702
+mnt-by:             NATIVUS-MNT
+source:             DN42

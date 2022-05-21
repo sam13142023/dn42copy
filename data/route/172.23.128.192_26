@@ -1,0 +1,5 @@
+route:              172.23.128.192/26
+descr:              NAIV NETWORK
+origin:             AS4242420702
+mnt-by:             NATIVUS-MNT
+source:             DN42
