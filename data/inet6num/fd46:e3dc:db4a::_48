@@ -6,5 +6,6 @@ country:            JP
 admin-c:            LIBREHS-DN42
 tech-c:             LIBREHS-DN42
 mnt-by:             LIBREHS-MNT
+nserver:            ns3.librehs.dn42
 status:             ASSIGNED
 source:             DN42
