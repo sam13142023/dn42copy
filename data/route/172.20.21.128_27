@@ -1,4 +1,5 @@
 route:              172.20.21.128/27
+descr:              CatgirlBiz Legacy Network
 origin:             AS4242420434
 mnt-by:             LUNA-MNT
 source:             DN42
