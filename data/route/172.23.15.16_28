@@ -1,0 +1,4 @@
+route:              172.23.15.16/28
+origin:             AS4242423044
+mnt-by:             SSSSSTEVE-MNT
+source:             DN42

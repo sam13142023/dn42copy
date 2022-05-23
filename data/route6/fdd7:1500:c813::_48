@@ -1,0 +1,4 @@
+route6:             fdd7:1500:c813::/48
+origin:             AS4242423044
+mnt-by:             SSSSSTEVE-MNT
+source:             DN42

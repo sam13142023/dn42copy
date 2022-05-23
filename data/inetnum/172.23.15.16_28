@@ -1,0 +1,10 @@
+inetnum:            172.23.15.16 - 172.23.15.31
+netname:            SSSSSTEVE-IPV4
+remarks:            Peer with me at sssstttteve@protonmail.com
+country:            CN
+admin-c:            SSSSSTEVE-DN42
+tech-c:             SSSSSTEVE-DN42
+mnt-by:             SSSSSTEVE-MNT
+status:             ASSIGNED
+cidr:               172.23.15.16/28
+source:             DN42

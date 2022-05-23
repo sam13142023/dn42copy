@@ -1,0 +1,9 @@
+inet6num:           fdd7:1500:c813:0000:0000:0000:0000:0000 - fdd7:1500:c813:ffff:ffff:ffff:ffff:ffff
+netname:            SSSSSTEVE-IPV6
+country:            CN
+admin-c:            SSSSSTEVE-DN42
+tech-c:             SSSSSTEVE-DN42
+mnt-by:             SSSSSTEVE-MNT
+status:             ASSIGNED
+cidr:               fdd7:1500:c813::/48
+source:             DN42
