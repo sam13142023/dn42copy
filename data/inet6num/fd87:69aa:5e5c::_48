@@ -1,0 +1,11 @@
+inet6num:           fd87:69aa:5e5c:0000:0000:0000:0000:0000 - fd87:69aa:5e5c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd87:69aa:5e5c::/48
+netname:            RYUJI-NETWORK
+descr:              Network - RYUJI
+admin-c:            RYUJI-DN42
+tech-c:             RYUJI-DN42
+mnt-by:             RYUJI-MNT
+status:             ASSIGNED
+nserver:            ns1.ryuji.dn42
+nserver:            ns2.ryuji.dn42
+source:             DN42

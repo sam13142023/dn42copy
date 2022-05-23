@@ -1,0 +1,10 @@
+domain:             ryuji.dn42
+descr:              Ryuji DNS
+admin-c:            RYUJI-DN42
+tech-c:             RYUJI-DN42
+mnt-by:             RYUJI-MNT
+nserver:            ns1.ryuji.dn42 172.23.193.97
+nserver:            ns1.ryuji.dn42 fd87:69aa:5e5c::1
+nserver:            ns2.ryuji.dn42 172.23.193.98
+nserver:            ns2.ryuji.dn42 fd87:69aa:5e5c::2
+source:             DN42

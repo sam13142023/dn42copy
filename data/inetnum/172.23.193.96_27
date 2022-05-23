@@ -1,0 +1,10 @@
+inetnum:            172.23.193.96 - 172.23.193.127
+cidr:               172.23.193.96/27
+netname:            RYUJI-NETWORK
+admin-c:            RYUJI-DN42
+tech-c:             RYUJI-DN42
+mnt-by:             RYUJI-MNT
+status:             ASSIGNED
+nserver:            ns1.ryuji.dn42
+nserver:            ns2.ryuji.dn42
+source:             DN42
