@@ -1,0 +1,4 @@
+route:              172.22.162.96/27
+origin:             AS4242423396
+mnt-by:             THERESA-MNT
+source:             DN42
