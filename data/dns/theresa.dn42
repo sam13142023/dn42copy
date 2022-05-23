@@ -1,0 +1,9 @@
+domain:             theresa.dn42
+admin-c:            THERESA-DN42
+tech-c:             THERESA-DN42
+mnt-by:             THERESA-MNT
+nserver:            ns1.theresa.dn42 172.22.162.100
+nserver:            ns1.theresa.dn42 fded:9e31:611::1
+nserver:            ns2.theresa.dn42 172.22.162.101
+nserver:            ns2.theresa.dn42 fded:9e31:611::2
+source:             DN42

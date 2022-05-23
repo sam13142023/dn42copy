@@ -1,0 +1,9 @@
+inetnum:            172.22.162.96 - 172.22.162.127
+netname:            TheresaQWQ-Network
+country:            CN
+admin-c:            THERESA-DN42
+tech-c:             THERESA-DN42
+mnt-by:             THERESA-MNT
+status:             ASSIGNED
+cidr:               172.22.162.96/27
+source:             DN42
