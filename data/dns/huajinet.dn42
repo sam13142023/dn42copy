@@ -1,7 +1,8 @@
-domain:             hjt.dn42
+domain:             huajinet.dn42
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH
 mnt-by:             FUNNYSYC-MNT
-nserver:            ns0.huajinet.dn42
+nserver:            ns0.huajinet.dn42 172.20.45.233
+nserver:            ns0.huajinet.dn42 fdf4:8a54:8ec4:233::1
 source:             DN42

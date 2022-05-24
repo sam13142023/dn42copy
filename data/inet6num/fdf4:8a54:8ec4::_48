@@ -8,5 +8,5 @@ tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH
 mnt-by:             FUNNYSYC-MNT
 status:             ASSIGNED
-nserver:            ns0.hjt.dn42
+nserver:            ns0.huajinet.dn42
 source:             DN42
