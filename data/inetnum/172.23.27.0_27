@@ -1,0 +1,9 @@
+inetnum:            172.23.27.0 - 172.23.27.31
+cidr:               172.23.27.0/27
+netname:            IGOR-NET
+country:            UA
+admin-c:            IGOR-DN42
+tech-c:             IGOR-DN42
+mnt-by:             IGOR-MNT
+status:             ASSIGNED
+source:             DN42
