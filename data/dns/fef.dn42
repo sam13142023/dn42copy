@@ -2,6 +2,6 @@ domain:             fef.dn42
 admin-c:            FEF-DN42
 tech-c:             FEF-DN42
 mnt-by:             FEF-MNT
-nserver:            ns1.fef.dn42 fdb8:cfed:c6a6:53:1::1
-nserver:            ns1.fef.dn42 172.20.236.82
+nserver:            ns1.fef.dn42 fdb8:cfed:c6a6:0:53::1
+nserver:            ns1.fef.dn42 172.20.236.91
 source:             DN42
