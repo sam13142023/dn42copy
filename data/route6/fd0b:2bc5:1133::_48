@@ -1,0 +1,5 @@
+route6:             fd0b:2bc5:1133::/48
+origin:             AS4242420747
+max-length:         48
+mnt-by:             IGOR-MNT
+source:             DN42

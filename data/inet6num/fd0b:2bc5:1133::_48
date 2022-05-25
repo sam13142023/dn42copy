@@ -1,0 +1,9 @@
+inet6num:           fd0b:2bc5:1133:0000:0000:0000:0000:0000 - fd0b:2bc5:1133:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:2bc5:1133::/48
+netname:            IGOR-NET
+country:            UA
+admin-c:            IGOR-DN42
+tech-c:             IGOR-DN42
+mnt-by:             IGOR-MNT
+status:             ASSIGNED
+source:             DN42

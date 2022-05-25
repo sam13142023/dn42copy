@@ -1,0 +1,6 @@
+mntner:             IGOR-MNT
+mnt-by:             IGOR-MNT
+source:             DN42
+admin-c:            IGOR-DN42
+tech-c:             IGOR-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICVZ3IfmpZw7h/AxMNz6GpDtnE4uKgVJ3UyEHVw9Zcsy
