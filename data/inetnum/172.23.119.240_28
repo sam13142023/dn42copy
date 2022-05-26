@@ -1,0 +1,9 @@
+inetnum:            172.23.119.240 - 172.23.119.255
+cidr:               172.23.119.240/28
+netname:            ALICE-CORE-V4
+country:            CN
+admin-c:            ALICEANDBOB-DN42
+tech-c:             ALICEANDBOB-DN42
+mnt-by:             ALICEANDBOB-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd48:3178:65d0:0000:0000:0000:0000:0000 - fd48:3178:65d0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd48:3178:65d0::/48
+netname:            ALICE-CORE-V6
+country:            CN
+admin-c:            ALICEANDBOB-DN42
+tech-c:             ALICEANDBOB-DN42
+mnt-by:             ALICEANDBOB-MNT
+status:             ASSIGNED
+source:             DN42

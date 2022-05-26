@@ -1,0 +1,4 @@
+route:              172.23.119.240/28
+origin:             AS4242422312
+mnt-by:             ALICEANDBOB-MNT
+source:             DN42
