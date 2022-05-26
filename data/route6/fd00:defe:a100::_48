@@ -1,0 +1,5 @@
+route6:             fd00:defe:a100::/48
+descr:              MODZILLA's DN42 v6
+origin:             AS4242421909
+mnt-by:             MODZILLA-MNT
+source:             DN42

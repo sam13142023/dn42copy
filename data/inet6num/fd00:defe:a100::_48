@@ -1,0 +1,10 @@
+inet6num:           fd00:defe:a100:0000:0000:0000:0000:0000 - fd00:defe:a100:ffff:ffff:ffff:ffff:ffff
+netname:            MODZILLA-NET6
+descr:              modzilla's DN42 IPv6 Subnet
+country:            DE
+admin-c:            MODZILLA-DN42
+tech-c:             MODZILLA-DN42
+mnt-by:             MODZILLA-MNT
+status:             ASSIGNED
+cidr:               fd00:defe:a100::/48
+source:             DN42
