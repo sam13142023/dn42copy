@@ -1,0 +1,6 @@
+mntner:             EMANON-MNT
+admin-c:            EMANON-DN42
+tech-c:             EMANON-DN42
+mnt-by:             EMANON-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAKx0902V1k3eMf07VFSb39XZmyCy7h6f1rFabSTvP4E
+source:             DN42

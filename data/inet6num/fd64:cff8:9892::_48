@@ -1,0 +1,10 @@
+inet6num:           fd64:cff8:9892:0000:0000:0000:0000:0000 - fd64:cff8:9892:ffff:ffff:ffff:ffff:ffff
+cidr:               fd64:cff8:9892::/48
+netname:            EMANON-NETWORK-IPV6
+descr:              Network of Emanon
+country:            FR
+admin-c:            EMANON-DN42
+tech-c:             EMANON-DN42
+mnt-by:             EMANON-MNT
+status:             ASSIGNED
+source:             DN42
