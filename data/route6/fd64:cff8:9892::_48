@@ -1,0 +1,5 @@
+route6:             fd64:cff8:9892::/48
+origin:             AS4242421264
+max-length:         48
+mnt-by:             EMANON-MNT
+source:             DN42
