@@ -1,0 +1,10 @@
+inetnum:            172.23.89.192 - 172.23.89.223
+netname:            MODZILLA-NET4
+descr:              Modzilla's IPV4 Subnet
+country:            DE
+admin-c:            MODZILLA-DN42
+tech-c:             MODZILLA-DN42
+mnt-by:             MODZILLA-MNT
+status:             ASSIGNED
+cidr:               172.23.89.192/27
+source:             DN42
