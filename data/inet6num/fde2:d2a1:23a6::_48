@@ -1,0 +1,10 @@
+inet6num:           fde2:d2a1:23a6:0000:0000:0000:0000:0000 - fde2:d2a1:23a6:ffff:ffff:ffff:ffff:ffff
+cidr:               fde2:d2a1:23a6::/48
+netname:            CHRISWILSON-NET-IPV6
+country:            GB
+admin-c:            CHRISWILSON-DN42
+tech-c:             CHRISWILSON-DN42
+mnt-by:             CHRISWILSON-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.chris-wilson.dn42
