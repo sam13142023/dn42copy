@@ -1,0 +1,5 @@
+route6:             fd48:3178:65d0::/48
+origin:             AS4242422312
+max-length:         48
+mnt-by:             ALICEANDBOB-MNT
+source:             DN42

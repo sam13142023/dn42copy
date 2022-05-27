@@ -1,0 +1,6 @@
+mntner:             ALICEANDBOB-MNT
+admin-c:            ALICEANDBOB-DN42
+tech-c:             ALICEANDBOB-DN42
+mnt-by:             ALICEANDBOB-MNT
+auth:               pgp-fingerprint 42AB9E0E14D48236ADA6717AB1F5E036060DA9B7
+source:             DN42
