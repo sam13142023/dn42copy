@@ -8,3 +8,6 @@ tech-c:             SH-DN42
 mnt-by:             SH-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns0.stha.dn42
+nserver:            ns1.stha.dn42
+ds-rdata:           51497 13 2 a04e615cabc193e752562eed65ac6d85f67296ee94393e866cb4d8232f695f5b

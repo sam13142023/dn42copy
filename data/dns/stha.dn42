@@ -1,0 +1,10 @@
+domain:             stha.dn42
+admin-c:            SH-DN42
+tech-c:             SH-DN42
+mnt-by:             SH-MNT
+nserver:            ns0.stha.dn42 172.20.128.81
+nserver:            ns0.stha.dn42 fd86:82d7:b2e1:100::40
+nserver:            ns1.stha.dn42 172.20.128.82
+nserver:            ns1.stha.dn42 fd86:82d7:b2e1:101::40
+ds-rdata:           51497 13 2 bc9b14fa29ddd5b042564445f0ab68434e620ca01c874d4c72f086e3112c2d14
+source:             DN42
