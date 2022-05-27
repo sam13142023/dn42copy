@@ -1,0 +1,4 @@
+route:              172.20.178.160/28
+origin:             AS4242422588
+mnt-by:             DO-MNT
+source:             DN42

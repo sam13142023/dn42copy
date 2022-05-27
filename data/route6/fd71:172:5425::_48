@@ -1,0 +1,4 @@
+route6:             fd71:172:5425::/48
+origin:             AS4242422588
+mnt-by:             DO-MNT
+source:             DN42
