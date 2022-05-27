@@ -1,0 +1,11 @@
+inetnum:            172.23.77.64 - 172.23.77.95
+netname:            LINCW-IPV4
+remarks:            Visit peer.118555.xyz for more information
+descr:              Visit peer.118555.xyz for more information
+country:            CN
+admin-c:            LINCW-DN42
+tech-c:             LINCW-DN42
+mnt-by:             LINCW-MNT
+status:             ASSIGNED
+cidr:               172.23.77.64/27
+source:             DN42

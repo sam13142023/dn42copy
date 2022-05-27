@@ -1,0 +1,10 @@
+inet6num:           fddd:2633:d583:0000:0000:0000:0000:0000 - fddd:2633:d583:ffff:ffff:ffff:ffff:ffff
+netname:            LINCW-IPV6
+descr:              Visit peer.118555.xyz for more information
+country:            CN
+admin-c:            LINCW-DN42
+tech-c:             LINCW-DN42
+mnt-by:             LINCW-MNT
+status:             ASSIGNED
+cidr:               fddd:2633:d583::/48
+source:             DN42
