@@ -1,0 +1,8 @@
+inet6num:           fd71:0172:5425:0000:0000:0000:0000:0000 - fd71:0172:5425:ffff:ffff:ffff:ffff:ffff
+cidr:               fd71:172:5425::/48
+netname:            DO-NETWORK
+admin-c:            DO-DN42
+tech-c:             DO-DN42
+mnt-by:             DO-MNT
+status:             ASSIGNED
+source:             DN42
