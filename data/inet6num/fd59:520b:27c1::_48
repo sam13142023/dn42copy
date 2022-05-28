@@ -1,4 +1,4 @@
-inet6num:           fd59:520b:27c1:0000:0000:0000:0000:0000-fd59:520b:27c1:ffff:ffff:ffff:ffff:ffff
+inet6num:           fd59:520b:27c1:0000:0000:0000:0000:0000 - fd59:520b:27c1:ffff:ffff:ffff:ffff:ffff
 cidr:               fd59:520b:27c1::/48
 netname:            GoldDoge_Networks-IPV6
 descr:              GoldDoge Networks DN42 Global IPV6 Block

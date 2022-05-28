@@ -1,4 +1,4 @@
-inetnum:            172.22.98.16-172.22.98.31
+inetnum:            172.22.98.16 - 172.22.98.31
 cidr:               172.22.98.16/28
 netname:            GoldDoge_Networks-IPV4
 descr:              GoldDoge Networks DN42 Global IPV4 Block
