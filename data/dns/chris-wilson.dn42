@@ -1,0 +1,8 @@
+domain:             chris-wilson.dn42
+descr:              Chris Wilson
+admin-c:            CHRISWILSON-DN42
+tech-c:             CHRISWILSON-DN42
+mnt-by:             CHRISWILSON-MNT
+nserver:            ns1.chris-wilson.dn42 172.21.77.65
+nserver:            ns1.chris-wilson.dn42 fde2:d2a1:23a6:4001::2
+source:             DN42
