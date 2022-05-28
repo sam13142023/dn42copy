@@ -1,0 +1,13 @@
+inet6num:           fde0:93fa:07a0:0002:0000:0000:0000:0000 - fde0:93fa:07a0:0002:ffff:ffff:ffff:ffff
+netname:            IXP-FRNTE-LGP-NET-IPV6
+descr:              LeGiantPenis-HOME DN42 IXP Network
+remarks:            Address Assignment policy: fde0:93fa:7a0:2:0:<asn32|high16|hex>:<asn32|low16|hex>:1/64
+remarks:            
+remarks:            ====[ Points of Presence ]===
+remarks:            AS210810's living room, Nantes France
+remarks:            
+remarks:            In case you are interested in joining this IXP please contact toinux@hackint
+mnt-by:             TOINUX-MNT
+source:             DN42
+cidr:               fde0:93fa:7a0:2::/64
+status:             ASSIGNED
