@@ -1,0 +1,10 @@
+inetnum:            172.22.98.16-172.22.98.31
+cidr:               172.22.98.16/28
+netname:            GoldDoge_Networks-IPV4
+descr:              GoldDoge Networks DN42 Global IPV4 Block
+country:            CN
+admin-c:            GOLDDOGENETWORKS-DN42
+tech-c:             GOLDDOGENETWORKS-DN42
+mnt-by:             GOLDDOGENETWORKS-MNT
+status:             ASSIGNED
+source:             DN42

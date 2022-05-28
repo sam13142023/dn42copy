@@ -1,0 +1,5 @@
+route6:             fd59:520b:27c1::/48
+descr:              GoldDoge Networks DN42 Global IPV6 Network
+origin:             AS4242423837
+mnt-by:             GOLDDOGENETWORKS-MNT
+source:             DN42
