@@ -1,37 +1,21 @@
-*This repo is https://git.dn42.dev/dn42/registry  
-If you are using a different url, please update as soon as possible*
-
 # Guide for creating a Pull Request
 
-1. **Create a local clone of the registry repository**
+The dn42 registry is a git repository and changes are made to it using pull requests.
+
+There are many public guides available on how to work with remote git repositories,  
+e.g. [git documentation](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes) or [guide at github](https://help.github.com/en/github/using-git)
+
+1. **Fork the registry repo, then clone your fork to create a local working copy**
+
+Use the `Fork` button in the gitea UI (at the top right of the repository page), then:
 
 ```sh
-git clone git@git.dn42.dev:dn42/registry.git
+git clone git@git.dn42.dev:<FOO>/registry.git
 ```
 
-*You do not need to fork the registry repository. New users are provisioned as collaborators, allowing everyone permission to create new branches in the main registry repository. Note that this process is triggered on first login as a new user and can take up to 10 minutes. If you get permission denied trying to create a branch then log out and back in to your gitea account then retry after a few minutes.*
+Where `<FOO>` is your gitea username.
 
-2. **Create a branch for your changes**
-
-The name of the branch ***must*** follow a specific format:
-`<username>-YYYYMMDD/<name>`  
- - `<username>` is your gitea username.  
- - `YYYYMMDD` is the current date (UTC).  
- - `<name>` is a descriptive name for your change.
-
-The branch must be created in the registry on the date described in the branch name, so create the branch and push it to the registry immediately.
-
-```sh
-# create a new branch and switch to it
-
-git checkout -b foo-20200704/mychange
-
-# push it immediately to the registry
-
-git push --set-upstream origin foo-20200704/mychange
-```
-
-3. **Make your changes on your new branch**
+2. **Make changes in your local copy**
 
 See the [getting started](https://dn42.dev/howto/Getting-Started) guide in the [Wiki](https://dn42.dev) for more information.
 
@@ -45,33 +29,34 @@ See the [getting started](https://dn42.dev/howto/Getting-Started) guide in the [
 ```sh
 $EDITOR <change some stuff>
 git add .
-git commit
+git commit -S
 ```
 
-4. **Push your changes back to the registry**
+3. **Push your changes back to your forked copy of the registry**
 
-You must squash multiple commits together and sign them using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).  
-It is also good practice to rebase your work on top of any other changes that may have happened on the master branch.
+ - You must squash multiple commits together
+ - You must also sign the final commit using your MNTNER [authentication method](https://dn42.dev/howto/Registry-Authentication).
+ 
+Whilst not essential, it is also good practice to rebase your work on top of any other changes that may have happened on the master branch of the registry.
 
-The registry contains a script that will automatically rebase and squash your commits:
+The registry contains a script that can automatically rebase and squash your commits:
 
 ```sh
-./squash-my-commits
-git push --force
+./squash-my-commits -S --push
 ```
 
 or you can do it manually:
 
 ```sh
-# make sure your local copy of the master is up to date
+# Add the main registry repository as another remote, you only need to do this once
 
-git fetch origin master
+git remote add dn42registry git@git.dn42.dev:dn42/registry.git
 
-# ensure you are using your new branch
+# make sure its up to date
 
-git checkout foo-20200704/mychange 
+git fetch dn42registry master
 
-# rebase your branch on top of the master
+# rebase your local copy on top of the registry master
 #
 # -i to interactively pick the commits
 # -S to sign the result with your GPG key (not required for SSH authentication)
@@ -80,26 +65,35 @@ git checkout foo-20200704/mychange
 # change the rest from 'pick' to 'squash'
 # save and close to create the commit
 
-git rebase -i -S origin/master
+git rebase -i -S dn42registry/master
 
-# force push your changes back to the registry
+# force push your changes back to your registry copy
 
 git push --force
 ```
 
-5. **Create a pull request**
+If you forget to sign your commit you can sign the existing commit using:
 
-In the gitea GUI, select your branch, check your changes again for a final time and then hit the 'Pull Request' button.
+```sh
+git commit --amend --no-edit -S
+git push --force
+```
 
-If you are using SSH authentication, please post the full commit hash that you signed and SSH signature in to the PR comments.
+4. **Create a pull request**
 
-Your changes will now go through automatic checking and then manual review by the registry maintainers. 
+In the gitea GUI, select your fork, check your changes again for a final time and then hit the 'Pull Request' button.
 
-6. **Making updates**
+Your changes will go through a number of automatic checks before a final manual review by the registry maintainers. Manual reviews are typically completed once a day.
 
-If you need to make changes to fix review issues simply make the updates to your branch and follow the process in (4) to rebase, squash and sign your changes again. **You must do this for every update**.
+5. **Making updates**
 
-Do not close and re-open a new pull request, any changes you make on your branch will be automatically updated in the PR. Creating a new PR loses all the history and makes tracking changes harder.
+If you need to make changes to fix review issues simply make the updates to your fork and follow the process in (3) to rebase, squash and sign your changes again. **You must do this for every update**.
+
+**Do not close and re-open a new pull request**, any changes you make on your branch will be automatically updated in the PR. Creating a new PR loses all the history and makes tracking changes harder.
+
+6. **Tidy Up**
+
+Once your changes have been accepted and merged, you may delete your local copy and the fork that was created in gitea.
 
 # Gitea Usage
 
