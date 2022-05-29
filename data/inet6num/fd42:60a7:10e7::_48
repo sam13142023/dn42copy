@@ -1,0 +1,12 @@
+inet6num:           fd42:60a7:10e7:0000:0000:0000:0000:0000 - fd42:60a7:10e7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:60a7:10e7::/48
+netname:            HUAJINET-VPN
+descr:              HUAJINET VPN Services
+country:            CN
+admin-c:            FUNNYSYC-DN42
+tech-c:             FUNNYSYC-DN42
+org:                ORG-HUAJITECH
+mnt-by:             FUNNYSYC-MNT
+status:             ASSIGNED
+nserver:            ns0.huajinet.dn42
+source:             DN42

@@ -1,7 +1,8 @@
-inet6num:           fdf4:8a54:8ec4:0000:0000:0000:0000:0000 - fdf4:8a54:8ec4:ffff:ffff:ffff:ffff:ffff
-cidr:               fdf4:8a54:8ec4::/48
-netname:            HUAJINET-TRANSIT
-descr:              HUAJINET Global Transit
+inetnum:            172.21.123.0 - 172.21.123.15
+cidr:               172.21.123.0/28
+netname:            HUAJINET-VPN
+descr:              HUAJINET VPN Services
+country:            CN
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH
