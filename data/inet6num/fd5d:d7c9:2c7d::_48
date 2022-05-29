@@ -1,0 +1,10 @@
+inet6num:           fd5d:d7c9:2c7d:0000:0000:0000:0000:0000 - fd5d:d7c9:2c7d:ffff:ffff:ffff:ffff:ffff
+netname:            QXIAOAYAOQ-IPV6
+country:            CN
+admin-c:            QXIAOAYAOQ-DN42
+tech-c:             QXIAOAYAOQ-DN42
+mnt-by:             QXIAOAYAOQ-MNT
+status:             ASSIGNED
+cidr:               fd5d:d7c9:2c7d::/48
+source:             DN42
+nserver:            ns1.qxiaoayaoq.dn42

@@ -1,0 +1,7 @@
+domain:             qxiaoayaoq.dn42
+admin-c:            QXIAOAYAOQ-DN42
+tech-c:             QXIAOAYAOQ-DN42
+mnt-by:             QXIAOAYAOQ-MNT
+nserver:            ns1.qxiaoayaoq.dn42 172.23.193.161
+nserver:            ns1.qxiaoayaoq.dn42 fd5d:d7c9:2c7d:161::1
+source:             DN42
