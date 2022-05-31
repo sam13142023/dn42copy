@@ -5,4 +5,5 @@ admin-c:            NONLOCALHOST-DN42
 tech-c:             NONLOCALHOST-DN42
 mnt-by:             NONLOCALHOST-MNT
 status:             ASSIGNED
+nserver:            ns1.nonlocal.dn42
 source:             DN42

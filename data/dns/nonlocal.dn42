@@ -1,0 +1,7 @@
+domain:             nonlocal.dn42
+admin-c:            NONLOCALHOST-DN42
+tech-c:             NONLOCALHOST-DN42
+mnt-by:             NONLOCALHOST-MNT
+nserver:            ns1.nonlocal.dn42 172.22.98.97
+nserver:            ns1.nonlocal.dn42 fd3c:398e:80e3:2::2
+source:             DN42
