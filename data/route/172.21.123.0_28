@@ -1,0 +1,4 @@
+route:              172.21.123.0/28
+origin:             AS4242420458
+mnt-by:             FUNNYSYC-MNT
+source:             DN42
