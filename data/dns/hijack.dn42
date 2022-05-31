@@ -1,0 +1,8 @@
+domain:             hijack.dn42
+admin-c:            HIJACK-DN42
+tech-c:             HIJACK-DN42
+mnt-by:             HIJACK-MNT
+nserver:            ns1.hijack.dn42 172.20.167.147
+nserver:            ns1.hijack.dn42 fd42:4399:7213::4
+ds-rdata:           33067 13 2 cb14b8cacc14e20e457d61cd53ce2ce1d0c96a7d3ab2936dea217d3310a1c9cd
+source:             DN42
