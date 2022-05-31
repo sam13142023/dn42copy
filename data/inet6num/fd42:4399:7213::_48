@@ -5,6 +5,7 @@ admin-c:            HIJACK-DN42
 tech-c:             HIJACK-DN42
 mnt-by:             HIJACK-MNT
 nserver:            ns1.hijack.dn42
+ds-rdata:           31578 13 2 786e7f9686b1dad1de2b8112e83a13ee57d2ec84ddf50cc8cb0e30d9be1f6733
 status:             ASSIGNED
 cidr:               fd42:4399:7213::/48
 source:             DN42

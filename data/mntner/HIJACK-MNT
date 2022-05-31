@@ -2,5 +2,7 @@ mntner:             HIJACK-MNT
 admin-c:            HIJACK-DN42
 tech-c:             HIJACK-DN42
 mnt-by:             HIJACK-MNT
+auth:               pgp-fingerprint 6BC00733C346389E504C457458EB324B21C6BBE5
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICnD9D9GSyE7r0lHorVP6AO/k1bHOtUxApiwKHjF6kKt jack77213
+auth:               pgp-fingerprint 9BAE9E3FA83D1B3FBA49243ECA81AA7BB873B9F1
 source:             DN42
