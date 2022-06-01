@@ -1,0 +1,4 @@
+route:              172.23.27.32/27
+origin:             AS4242422173
+mnt-by:             SINOFINE-MNT
+source:             DN42

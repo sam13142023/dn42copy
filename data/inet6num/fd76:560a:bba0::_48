@@ -1,0 +1,10 @@
+inet6num:           fd76:560a:bba0:0000:0000:0000:0000:0000 - fd76:560a:bba0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd76:560a:bba0::/48
+netname:            SINOFINE-NETWORK
+descr:              sinofine's network
+country:            CN
+admin-c:            SINOFINE-DN42
+tech-c:             SINOFINE-DN42
+mnt-by:             SINOFINE-MNT
+status:             ASSIGNED
+source:             DN42

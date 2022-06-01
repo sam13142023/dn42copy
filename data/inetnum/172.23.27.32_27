@@ -1,0 +1,8 @@
+inetnum:            172.23.27.32 - 172.23.27.63
+cidr:               172.23.27.32/27
+netname:            SINOFINE-NETWORK
+admin-c:            SINOFINE-DN42
+tech-c:             SINOFINE-DN42
+mnt-by:             SINOFINE-MNT
+status:             ASSIGNED
+source:             DN42
