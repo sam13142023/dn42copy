@@ -1,0 +1,10 @@
+inet6num:           fd75:fcce:1f11:0000:0000:0000:0000:0000 - fd75:fcce:1f11:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:fcce:1f11::/48
+netname:            NADEEN-NETWORK
+descr:              Network of NADEEN
+country:            LK
+admin-c:            NADEEN-DN42
+tech-c:             NADEEN-DN42
+mnt-by:             NADEEN-MNT
+status:             ASSIGNED
+source:             DN42
