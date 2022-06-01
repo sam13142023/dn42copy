@@ -1,0 +1,8 @@
+route:              10.127.149.224/27
+max-length:         29
+origin:             AS4201272923
+admin-c:            MARK22K-NEONETWORK
+tech-c:             MARK22K-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:fc31:0000:0000:0000:0000:0000 - fd10:0127:fc31:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:fc31::/48
+netname:            AS-BANDURA-NEO
+admin-c:            MARK22K-NEONETWORK
+tech-c:             MARK22K-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
