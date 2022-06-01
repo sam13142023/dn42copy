@@ -1,0 +1,6 @@
+mntner:             SINOFINE-MNT
+admin-c:            SINOFINE-DN42
+tech-c:             SINOFINE-DN42
+mnt-by:             SINOFINE-MNT
+auth:               pgp-fingerprint 11ACE1AE444F97D15F307662236730F312196226
+source:             DN42

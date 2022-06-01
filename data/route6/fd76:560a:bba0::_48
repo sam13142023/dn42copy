@@ -1,0 +1,5 @@
+route6:             fd76:560a:bba0::/48
+origin:             AS4242422173
+max-length:         48
+mnt-by:             SINOFINE-MNT
+source:             DN42
