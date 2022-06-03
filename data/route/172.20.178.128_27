@@ -1,0 +1,4 @@
+route:              172.20.178.128/27
+origin:             AS4242420686
+mnt-by:             SIFI-MNT
+source:             DN42

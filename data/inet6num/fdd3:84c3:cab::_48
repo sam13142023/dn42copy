@@ -1,0 +1,9 @@
+inet6num:           fdd3:84c3:0cab:0000:0000:0000:0000:0000 - fdd3:84c3:0cab:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:84c3:cab::/48
+netname:            SIFI-IPV6
+country:            US
+admin-c:            SIFI-DN42
+tech-c:             SIFI-DN42
+mnt-by:             SIFI-MNT
+status:             ASSIGNED
+source:             DN42
