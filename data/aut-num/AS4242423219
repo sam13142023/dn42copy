@@ -3,4 +3,5 @@ as-name:            AS-NOISYTOOT-DN42
 admin-c:            NOISYTOOT-DN42
 tech-c:             NOISYTOOT-DN42
 mnt-by:             NOISYTOOT-MNT
+descr:              Noisytoot Network
 source:             DN42

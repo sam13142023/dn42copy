@@ -6,5 +6,7 @@ country:            GB
 admin-c:            NOISYTOOT-DN42
 tech-c:             NOISYTOOT-DN42
 mnt-by:             NOISYTOOT-MNT
+nserver:            ns1.noisytoot.dn42
+nserver:            ns2.noisytoot.dn42
 status:             ASSIGNED
 source:             DN42
