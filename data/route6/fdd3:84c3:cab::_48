@@ -1,0 +1,5 @@
+route6:             fdd3:84c3:cab::/48
+origin:             AS4242420686
+max-length:         48
+mnt-by:             SIFI-MNT
+source:             DN42

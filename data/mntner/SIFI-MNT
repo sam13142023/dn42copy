@@ -1,0 +1,6 @@
+mntner:             SIFI-MNT
+admin-c:            SIFI-DN42
+tech-c:             SIFI-DN42
+mnt-by:             SIFI-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGSE91bAq3lCXrs0XeDEH6HXH98Eclfjr2t43T4UZiIp

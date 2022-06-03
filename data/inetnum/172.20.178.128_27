@@ -1,0 +1,9 @@
+inetnum:            172.20.178.128 - 172.20.178.159
+cidr:               172.20.178.128/27
+netname:            SIFI-IPV4
+country:            US
+admin-c:            SIFI-DN42
+tech-c:             SIFI-DN42
+mnt-by:             SIFI-MNT
+status:             ASSIGNED
+source:             DN42
