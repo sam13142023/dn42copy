@@ -1,9 +1,8 @@
 domain:             pigeonhole.dn42
-admin-c:            FUNNYSYC-DN42
+admin-c:            RICKY8955555-DN42
 tech-c:             RICKY8955555-DN42
 org:                ORG-HUAJITECH
 mnt-by:             RICKY8955555-MNT
-mnt-by:             FUNNYSYC-MNT
 nserver:            ns.pigeonhole.dn42 172.22.145.1
 nserver:            ns.pigeonhole.dn42 fd91:9e07:601e::1
 source:             DN42
