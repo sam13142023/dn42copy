@@ -1,0 +1,10 @@
+aut-num:            AS4242421081
+as-name:            HIGHDEF-AS-2
+admin-c:            JLU5-DN42
+tech-c:             JLU5-DN42
+mnt-by:             JLU5-MNT
+descr:              highdef.network
+remarks:            ---------------------------------------------------------
+remarks:            Second AS for testing, experiments, and IXP route servers
+remarks:            See AS4242421080 for public peering
+source:             DN42
