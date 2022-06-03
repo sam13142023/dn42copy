@@ -2,5 +2,11 @@ organisation:       ORG-HUAJITECH
 org-name:           HuajiTech
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
+tech-c:             RICKY8955555-DN42
+abuse-c:            FUNNYSYC-DN42
+www:                https://www.huajitech.net
+geoloc:             China
+language:           zh
+language:           en
 mnt-by:             FUNNYSYC-MNT
 source:             DN42
