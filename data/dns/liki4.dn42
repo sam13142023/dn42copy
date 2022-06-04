@@ -1,0 +1,7 @@
+domain:             liki4.dn42
+admin-c:            LIKI4-DN42
+tech-c:             LIKI4-DN42
+mnt-by:             LIKI4-MNT
+nserver:            ns1.liki4.dn42 172.21.77.33
+nserver:            ns1.liki4.dn42 fd80:96c2:e41e:3dcc::1
+source:             DN42
