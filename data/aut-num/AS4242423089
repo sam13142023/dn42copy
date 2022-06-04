@@ -1,0 +1,13 @@
+aut-num:            AS4242423089
+as-name:            TMNET-AS
+descr:              TMNET DN42 AS
+remarks:            * Open peering policy
+remarks:            * Order of preference: gre/plain,wireguard,gre/ipsec
+remarks:            * Peering contact at dn42@zwirbu.ch or telegram: @tmnet_adm
+geo-loc:            52.376N 4.915E AMS0
+geo-loc:            46.923N 7.414E BRN0
+geo-loc:            37.971N 23.726E ATH0
+admin-c:            TMNET-ADM-DN42
+tech-c:             TMNET-ADM-DN42
+mnt-by:             TMNET-MNT
+source:             DN42

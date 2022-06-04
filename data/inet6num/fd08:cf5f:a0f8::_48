@@ -1,0 +1,12 @@
+inet6num:           fd08:cf5f:a0f8:0000:0000:0000:0000:0000 - fd08:cf5f:a0f8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd08:cf5f:a0f8::/48
+netname:            TMNET-NET6AA
+descr:              TMNET IPv6 delegation
+country:            CH
+admin-c:            TMNET-ADM-DN42
+tech-c:             TMNET-ADM-DN42
+mnt-by:             TMNET-MNT
+nserver:            ns0.zwirbu.dn42
+nserver:            ns1.zwirbu.dn42
+status:             ASSIGNED
+source:             DN42
