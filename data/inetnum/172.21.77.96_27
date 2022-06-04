@@ -1,0 +1,12 @@
+inetnum:            172.21.77.96 - 172.21.77.127
+cidr:               172.21.77.96/27
+netname:            TMNET-NET4AA
+descr:              TMNET IPv6 delegation
+admin-c:            TMNET-ADM-DN42
+tech-c:             TMNET-ADM-DN42
+mnt-by:             TMNET-MNT
+nserver:            ns0.zwirbu.dn42
+nserver:            ns1.zwirbu.dn42
+status:             ASSIGNED
+country:            CH
+source:             DN42

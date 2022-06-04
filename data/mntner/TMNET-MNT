@@ -1,0 +1,7 @@
+mntner:             TMNET-MNT
+admin-c:            TMNET-ADM-DN42
+tech-c:             TMNET-ADM-DN42
+mnt-by:             TMNET-MNT
+source:             DN42
+auth:               pgp-fingerprint C35AD0AF4BCF7EF5E23F28B708D72AB70462D169
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINQMkRCU+X4b8NJ5i+mhITy+F6pp/tDyKgx98ot3Msl2 TMNET dn42 Admin <dn42@zwirbu.ch>

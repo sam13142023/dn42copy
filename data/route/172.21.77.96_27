@@ -1,0 +1,5 @@
+route:              172.21.77.96/27
+descr:              TMNET ROA for TMNET-NET4AA
+origin:             AS4242423089
+mnt-by:             TMNET-MNT
+source:             DN42

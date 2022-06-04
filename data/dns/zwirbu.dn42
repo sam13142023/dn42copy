@@ -1,0 +1,9 @@
+domain:             zwirbu.dn42
+admin-c:            TMNET-ADM-DN42
+tech-c:             TMNET-ADM-DN42
+mnt-by:             TMNET-MNT
+nserver:            ns0.zwirbu.dn42 fd08:cf5f:a0f8:ad00::deaf:beef
+nserver:            ns1.zwirbu.dn42 fd08:cf5f:a0f8:ad01::deaf:beef
+nserver:            ns0.zwirbu.dn42 172.21.77.126
+nserver:            ns1.zwirbu.dn42 172.21.77.118
+source:             DN42
