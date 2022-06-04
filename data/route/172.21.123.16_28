@@ -1,0 +1,8 @@
+route:              172.21.123.16/28
+origin:             AS4242421231
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+max-length:         28
+pingable:           172.21.123.17
+mnt-by:             CAESIA-MNT
+source:             DN42
