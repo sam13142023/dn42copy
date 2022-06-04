@@ -1,5 +1,25 @@
 aut-num:            AS4242420927
 as-name:            LIKI4-AS
+remarks:            
+remarks:            +----------------------------------------+
+remarks:            |   *** Open for Peering. ***            |
+remarks:            +----------------------------------------+
+remarks:            | Contact:                               |
+remarks:            |   > Telegram: @switch_kg               |
+remarks:            |   > E-Mail: ChrisLiKaiyuan@outlook.com |
+remarks:            | Send me your info and i will           |
+remarks:            | establish the peer as soon as I can :p |
+remarks:            |                                        |
+remarks:            +----------------------------------------+
+remarks:            | Find clearnet IP using nslookup:       |
+remarks:            |   > nslookup peer.liki.link            |
+remarks:            | Peering details available using dig:   |
+remarks:            |   > dig TXT peer.liki.link             |
+remarks:            | Peering details also available at:     |
+remarks:            |   > https://github.com/Liki4           |
+remarks:            |                                        |
+remarks:            +----------------------------------------+
+remarks:            
 admin-c:            LIKI4-DN42
 tech-c:             LIKI4-DN42
 mnt-by:             LIKI4-MNT
