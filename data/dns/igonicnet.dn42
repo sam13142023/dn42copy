@@ -1,0 +1,7 @@
+domain:             igonicnet.dn42
+admin-c:            IGONICNET-DN42
+tech-c:             IGONICNET-DN42
+mnt-by:             IGONICNET-MNT
+nserver:            ns.igonicnet.dn42 172.23.90.81
+nserver:            ns.igonicnet.dn42 fd5a:e2fd:a040::1
+source:             DN42

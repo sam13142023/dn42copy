@@ -5,6 +5,7 @@ country:            US
 admin-c:            IGONICNET-DN42
 tech-c:             IGONICNET-DN42
 mnt-by:             IGONICNET-MNT
+nserver:            ns.igonicnet.dn42
 status:             ASSIGNED
 cidr:               172.21.121.96/27
 source:             DN42
