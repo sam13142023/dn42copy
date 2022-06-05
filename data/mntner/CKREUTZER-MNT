@@ -1,0 +1,7 @@
+mntner:             CKREUTZER-MNT
+admin-c:            CKREUTZER-DN42
+tech-c:             CKREUTZER-DN42
+mnt-by:             CKREUTZER-MNT
+auth:               pgp-fingerprint C1FC80456502B765308437483758B7E4C8C72EA3
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINZXj0ZSI04lNePwbRHLh6XZNAx3jlOaz05rHT7a/Fp6
+source:             DN42

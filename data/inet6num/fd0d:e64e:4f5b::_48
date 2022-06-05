@@ -1,0 +1,10 @@
+inet6num:           fd0d:e64e:4f5b:0000:0000:0000:0000:0000 - fd0d:e64e:4f5b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0d:e64e:4f5b::/48
+netname:            CKREUTZER-IPV6-NETWORK
+descr:              IPv6 subnet allocation of CKREUTZER
+country:            CH
+admin-c:            CKREUTZER-DN42
+tech-c:             CKREUTZER-DN42
+mnt-by:             CKREUTZER-MNT
+status:             ASSIGNED
+source:             DN42
