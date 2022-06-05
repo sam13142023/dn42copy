@@ -1,0 +1,4 @@
+route:              172.21.84.112/28
+origin:             AS4242422484
+mnt-by:             CKREUTZER-MNT
+source:             DN42
