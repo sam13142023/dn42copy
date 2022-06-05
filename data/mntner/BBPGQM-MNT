@@ -3,4 +3,5 @@ admin-c:            BBPGQM-DN42
 tech-c:             BBPGQM-DN42
 mnt-by:             BBPGQM-MNT
 auth:               pgp-fingerprint 2C58858303915023A5F7F29438D8CB22ABD91F48
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMJHb8Fa1WV7pE8l/uPtYrdb7iKHXONMs6gfTpEmZMyP bb-pgqm@bb-pgqm.com
 source:             DN42
