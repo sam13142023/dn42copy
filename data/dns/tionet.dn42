@@ -1,0 +1,8 @@
+domain:             tionet.dn42
+descr:              TIOnet
+admin-c:            TIONET-DN42
+tech-c:             TIONET-DN42
+mnt-by:             TIONET-MNT
+nserver:            ns1.tionet.dn42 172.20.231.66
+nserver:            ns1.tionet.dn42 fd69:7777:3004:0000::53
+source:             DN42

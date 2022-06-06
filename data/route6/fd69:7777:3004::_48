@@ -1,0 +1,4 @@
+route6:             fd69:7777:3004::/48
+origin:             AS4242422563
+mnt-by:             TIONET-MNT
+source:             DN42
