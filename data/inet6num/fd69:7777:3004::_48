@@ -1,0 +1,10 @@
+inet6num:           fd69:7777:3004:0000:0000:0000:0000:0000 - fd69:7777:3004:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:7777:3004::/48
+nserver:            ns1.tionet.dn42
+netname:            TIONET-V6-1
+country:            SK
+admin-c:            TIONET-DN42
+tech-c:             TIONET-DN42
+mnt-by:             TIONET-MNT
+status:             ASSIGNED
+source:             DN42

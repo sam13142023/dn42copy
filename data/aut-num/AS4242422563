@@ -1,0 +1,7 @@
+aut-num:            AS4242422563
+as-name:            TIONET-AS
+descr:              roman AS
+admin-c:            TIONET-DN42
+tech-c:             TIONET-DN42
+mnt-by:             TIONET-MNT
+source:             DN42
