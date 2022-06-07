@@ -1,0 +1,5 @@
+route:              172.22.130.192/27
+descr:              VIRCOSNET dn42 IPv4 subnet
+origin:             AS4242423890
+mnt-by:             VIRCOSNET-MNT
+source:             DN42
