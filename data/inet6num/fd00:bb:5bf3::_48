@@ -6,6 +6,6 @@ admin-c:            BBPGQM-DN42
 tech-c:             BBPGQM-DN42
 mnt-by:             BBPGQM-MNT
 nserver:            ns.bb-pgqm.dn42
-ds-rdata:           13422 16 2 24E07088D323E42A24B31A6D7B66BB4ABFF0BC57DD4D9FF2067789416989751D
+ds-rdata:           10740 16 2 E84D4C9C462FD1C3D68329EDB5D1A3576734AB1DA3499FF4FA1986418AA2AB0B
 status:             ASSIGNED
 source:             DN42
