@@ -1,0 +1,5 @@
+route6:             fd42:9559:ec92::/48
+origin:             AS4242420362
+mnt-by:             VITALLY-MNT
+mnt-by:             GATUNO-MNT
+source:             DN42

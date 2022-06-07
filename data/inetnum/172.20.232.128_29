@@ -1,0 +1,10 @@
+inetnum:            172.20.232.128 - 172.20.232.135
+cidr:               172.20.232.128/29
+netname:            VITALLY-NETWORK
+admin-c:            VITALLY-DN42
+tech-c:             VITALLY-DN42
+mnt-by:             VITALLY-MNT
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42
+country:            MX
