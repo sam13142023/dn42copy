@@ -1,0 +1,4 @@
+route:              172.21.123.32/27
+origin:             AS4242422686
+mnt-by:             FELOEHT-MNT
+source:             DN42

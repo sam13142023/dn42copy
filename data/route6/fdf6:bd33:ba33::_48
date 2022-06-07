@@ -1,0 +1,5 @@
+route6:             fdf6:bd33:ba33::/48
+origin:             AS4242422686
+max-length:         48
+mnt-by:             FELOEHT-MNT
+source:             DN42
