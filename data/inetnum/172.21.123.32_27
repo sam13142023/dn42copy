@@ -1,0 +1,10 @@
+inetnum:            172.21.123.32 - 172.21.123.63
+cidr:               172.21.123.32/27
+netname:            FELOEHT-NETWORK
+admin-c:            FELOEHT-DN42
+tech-c:             FELOEHT-DN42
+mnt-by:             FELOEHT-MNT
+status:             ASSIGNED
+nserver:            ns1.feloeht.dn42
+nserver:            ns2.feloeht.dn42
+source:             DN42

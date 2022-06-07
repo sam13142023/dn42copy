@@ -1,0 +1,9 @@
+domain:             feloeht.dn42
+admin-c:            FELOEHT-DN42
+tech-c:             FELOEHT-DN42
+mnt-by:             FELOEHT-MNT
+nserver:            ns1.feloeht.dn42 172.21.123.41
+nserver:            ns1.feloeht.dn42 fdf6:bd33:ba33:53::1
+nserver:            ns2.feloeht.dn42 172.21.123.42
+nserver:            ns2.feloeht.dn42 fdf6:bd33:ba33:53::2
+source:             DN42

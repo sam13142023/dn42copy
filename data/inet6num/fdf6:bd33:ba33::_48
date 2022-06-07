@@ -1,0 +1,12 @@
+inet6num:           fdf6:bd33:ba33:0000:0000:0000:0000:0000 - fdf6:bd33:ba33:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf6:bd33:ba33::/48
+netname:            FELOEHT-NETWORK
+descr:              Network of feloeht
+country:            FR
+admin-c:            FELOEHT-DN42
+tech-c:             FELOEHT-DN42
+mnt-by:             FELOEHT-MNT
+status:             ASSIGNED
+nserver:            ns1.feloeht.dn42
+nserver:            ns2.feloeht.dn42
+source:             DN42
