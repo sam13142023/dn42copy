@@ -1,0 +1,11 @@
+inet6num:           fd42:9559:ec92:0000:0000:0000:0000:0000 - fd42:9559:ec92:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:9559:ec92::/48
+netname:            VITALLY-NETWORK
+descr:              Network of VITALLY
+country:            MX
+admin-c:            VITALLY-DN42
+tech-c:             VITALLY-DN42
+mnt-by:             VITALLY-MNT
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+source:             DN42
