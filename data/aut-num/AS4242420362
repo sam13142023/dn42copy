@@ -2,6 +2,6 @@ aut-num:            AS4242420362
 as-name:            AS-VITALLY-DN42
 admin-c:            VITALLY-DN42
 tech-c:             VITALLY-DN42
-mnt-by:             VITALLY-MNT
 mnt-by:             GATUNO-MNT
+mnt-by:             VITALLY-MNT
 source:             DN42

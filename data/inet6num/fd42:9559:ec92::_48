@@ -5,7 +5,7 @@ descr:              Network of VITALLY
 country:            MX
 admin-c:            VITALLY-DN42
 tech-c:             VITALLY-DN42
-mnt-by:             VITALLY-MNT
 mnt-by:             GATUNO-MNT
+mnt-by:             VITALLY-MNT
 status:             ASSIGNED
 source:             DN42
