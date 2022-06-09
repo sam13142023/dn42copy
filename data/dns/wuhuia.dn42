@@ -1,0 +1,8 @@
+domain:             wuhuia.dn42
+admin-c:            WUHUIA-DN42
+tech-c:             WUHUIA-DN42
+mnt-by:             WUHUIA-MNT
+nserver:            ns1.wuhuia.dn42 172.21.123.136
+nserver:            ns2.wuhuia.dn42 172.21.123.137
+source:             DN42
+org:                ORG-WUHUIA
