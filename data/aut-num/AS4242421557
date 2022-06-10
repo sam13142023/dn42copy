@@ -1,5 +1,8 @@
 aut-num:            AS4242421557
 as-name:            AS-ARISUM-DN42
+descr:              arisum.dn42 https://dn42.h-k.sk/
+remarks:            Open peering with wireguard, for details see
+remarks:            https://dn42.h-k.sk/peering/
 admin-c:            ARISUM-DN42
 tech-c:             ARISUM-DN42
 mnt-by:             ARISUM-MNT
