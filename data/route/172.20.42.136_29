@@ -1,0 +1,5 @@
+route:              172.20.42.136/29
+descr:              Peer with me at tivipax0@gmail.com
+origin:             AS4242422778
+mnt-by:             TIVIPAX-MNT
+source:             DN42
