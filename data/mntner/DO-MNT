@@ -3,4 +3,5 @@ admin-c:            DO-DN42
 tech-c:             DO-DN42
 mnt-by:             DO-MNT
 auth:               pgp-fingerprint DAB7C0033FEA506C3D36F3FDB7B4E8474DD3F3DB
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCx3/ED4kko7qCzClJoj1sSlJVyO0v5c6tu+YGEdbPlSnLloebaKN7SvRDeu0e8omyI4nEBsWibufnKp+dOq+CFy6g42jSDEaBg419fQahX38SAcXVyHeNgI8/E5eP3CEUhvxFYVuMRo4WTgo/bgrpKjLDQj4Ss76ynAmg6AHdmdxmE7195MsyYadMbOFEtgbNN0nKoC0nBdNZ4pZ+vANoYIfoaKPffwnlEUT01jqvMNn4lMt2XnhC8SrOg6IGTIbUD27Z/C22C28YJRCjctqWgqt8U6DA+qNZX4OzrlliHYhH60EXuGYhs2B2Lo/3j1W7EfCwX9e7rJsAQ/sRNPLg/
 source:             DN42
