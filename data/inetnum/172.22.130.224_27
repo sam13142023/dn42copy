@@ -1,8 +1,8 @@
-inetnum:            172.22.131.144 - 172.22.131.159
-cidr:               172.22.131.144/28
-netname:            TECHANIT-NETWORK4_ONE
+inetnum:            172.22.130.224 - 172.22.130.255
+cidr:               172.22.130.224/27
+netname:            TECHANIT-NETWORK4_TWO
 nserver:            ns1.techanit.dn42
-ds-rdata:           47561 13 2 BEAB99FFB48BEC7AEB45B326F1A4514B8006307A3C7C8EDAC0B4454ACECC3490
+ds-rdata:           57368 13 2 9286468C66263DEDBD06781331D8DCFCF6239FC2EF0B85B5F63CFEF00690029E
 country:            DE
 admin-c:            EST-DN42
 tech-c:             EST-DN42
