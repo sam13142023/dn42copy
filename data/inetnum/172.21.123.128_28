@@ -1,0 +1,11 @@
+inetnum:            172.21.123.128 - 172.21.123.143
+cidr:               172.21.123.128/28
+netname:            WUHUIA-NETWORK
+admin-c:            WUHUIA-DN42
+tech-c:             WUHUIA-DN42
+mnt-by:             WUHUIA-MNT
+status:             ASSIGNED
+nserver:            ns1.wuhuia.dn42
+nserver:            ns2.wuhuia.dn42
+source:             DN42
+org:                ORG-WUHUIA

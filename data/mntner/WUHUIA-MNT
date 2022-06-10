@@ -1,0 +1,6 @@
+mntner:             WUHUIA-MNT
+admin-c:            WUHUIA-DN42
+tech-c:             WUHUIA-DN42
+mnt-by:             WUHUIA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCm2R5oHc1o4g3mlhn0yQ8LnUsbEHnxRTosl48v1gnMPXfYgNl1p8EgI6edr/3+EBdO3PvA1UdnCzUSWkEPyIfVtLv6SiwZqCA6c/g7MRgqxg0Jyx9B9H7dKl7GFSiSTmUyejiBcwN/KRF9fwNzz1DpXlR8Nhx1GPILn0ewsXqPLH4hJY7+YL0WfgS9mowA0+YJBJ1P1b76Rkn/UiAC+GSYsWonemQau7V0x6opQNgR1Sik/Qhc4zzwkjErBvrUvm4sP2PXbvbo0/e0GF/GJY36GlPv8DuN5vtS4HyPEE5EgCgyGm/1udJs1+3uAK5t1rZOr79dQf5BAFMCz/KvkOqp root@localhost.localdomain
+source:             DN42
