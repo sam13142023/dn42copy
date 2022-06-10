@@ -1,0 +1,7 @@
+aut-num:            AS4242423529
+as-name:            AS-REFUGEE-DN42
+admin-c:            REFUGEE-DN42
+tech-c:             REFUGEE-DN42
+mnt-by:             MARK22K-MNT
+mnt-by:             REFUGEE-MNT
+source:             DN42
