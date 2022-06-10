@@ -1,4 +1,5 @@
 route:              172.21.86.96/27
+descr:              arisum IPv4 Network
 origin:             AS4242421557
 mnt-by:             ARISUM-MNT
 source:             DN42
