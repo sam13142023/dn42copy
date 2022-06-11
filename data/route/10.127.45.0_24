@@ -1,6 +1,6 @@
 route:              10.127.45.0/24
 max-length:         29
-origin:             AS4201270458
+origin:             AS4201270456
 admin-c:            FUNNYSYC-NEONETWORK
 tech-c:             FUNNYSYC-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

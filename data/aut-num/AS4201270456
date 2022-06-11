@@ -1,6 +1,6 @@
-aut-num:            AS4201270458
-as-name:            HuajiTech-Network
-remarks:            HuajiTech Core Network
+aut-num:            AS4201270456
+as-name:            HJTMESH-AS
+remarks:            HUAJITECH Mesh Network
 admin-c:            FUNNYSYC-NEONETWORK
 tech-c:             FUNNYSYC-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
