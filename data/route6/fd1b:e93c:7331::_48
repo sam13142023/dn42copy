@@ -1,6 +1,0 @@
-route6:             fd1b:e93c:7331::/48
-origin:             AS4242423529
-max-length:         48
-mnt-by:             MARK22K-MNT
-mnt-by:             REFUGEE-MNT
-source:             DN42
