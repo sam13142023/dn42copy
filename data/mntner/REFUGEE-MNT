@@ -1,8 +1,0 @@
-mntner:             REFUGEE-MNT
-admin-c:            REFUGEE-DN42
-tech-c:             REFUGEE-DN42
-abuse-mailbox:      d64@cryptolab.net
-auth:               pgp-fingerprint 21D9B89B1E7F87D154A56B618DCCF0B765E7889C
-mnt-by:             MARK22K-MNT
-mnt-by:             REFUGEE-MNT
-source:             DN42
