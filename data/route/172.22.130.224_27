@@ -1,0 +1,7 @@
+route:              172.22.130.224/27
+origin:             AS4242422206
+max-length:         27
+admin-c:            EST-DN42
+tech-c:             EST-DN42
+mnt-by:             EST-MNT
+source:             DN42
