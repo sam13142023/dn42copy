@@ -1,0 +1,6 @@
+mntner:             JMJL-MNT
+admin-c:            JMJL-DN42
+tech-c:             JMJL-DN42
+mnt-by:             JMJL-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEn+d2Kqrhq+4q45Iyoe/ygt9XbDGUgwdVk3BC5fME2/
+source:             DN42
