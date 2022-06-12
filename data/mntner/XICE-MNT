@@ -1,0 +1,8 @@
+mntner:             XICE-MNT
+admin-c:            XICE-DN42
+tech-c:             XICE-DN42
+mnt-by:             XICE-MNT
+source:             DN42
+auth:               pgp-fingerprint 65230AC8A648B0C102026F402B243FCBCD0E802C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDpZFifC4Jp/KrQWqEbmHvW2AKqHM4ybrmaviSFfM4gljZB3LrAXvJZ3MCp2BI8ScOOSnQkXIC+Hp/0xUkRwg+oH4WwYIiwEn4oZMnACxQ56CCW5S53eH5Oymthes1dZ0OY9egKTQ+dqV40z2MkJv2DP3BFNesRY2wGGnZ26auXyTKn60xU4R2qqF0dVkS60AmZr6Vtpjg4JXHvMZXD3dv65Lr+KtfTikoHeNGV0+qOjFGgi8YAMnYubp375EwY2cn/+d4CYCxFJ9chPx9eTOOCQE5uUtL5RfzehX+KpWUp5fDCAFTlCwhhJ6WVWVGCNp8PWJxBk/vz0gpp/ABwZgsL
+remarks:            created 12.6.2022

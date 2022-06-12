@@ -1,0 +1,10 @@
+inet6num:           fdff:889b:93cf:0000:0000:0000:0000:0000 - fdff:889b:93cf:ffff:ffff:ffff:ffff:ffff
+netname:            XICE-IPV6
+descr:              Peer with me at dn42@xice.wang
+country:            CN
+admin-c:            XICE-DN42
+tech-c:             XICE-DN42
+mnt-by:             XICE-MNT
+status:             ASSIGNED
+cidr:               fdff:889b:93cf::/48
+source:             DN42
