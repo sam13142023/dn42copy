@@ -1,0 +1,9 @@
+aut-num:            AS4242421322
+as-name:            XICE-AS
+descr:              Peer with me at dn42@xice.wang
+admin-c:            XICE-DN42
+tech-c:             XICE-DN42
+mnt-by:             XICE-MNT
+source:             DN42
+remarks:            12.6.2022 New to DN42. I am happy to peer with you.
+remarks:            The server is located in Hong Kong/Tencent Cloud.

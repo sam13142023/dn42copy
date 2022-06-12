@@ -1,0 +1,10 @@
+inetnum:            172.23.13.16 - 172.23.13.31
+netname:            XICE-IPV4
+descr:              Peer with me at dn42@xice.wang
+country:            CN
+admin-c:            XICE-DN42
+tech-c:             XICE-DN42
+mnt-by:             XICE-MNT
+status:             ASSIGNED
+cidr:               172.23.13.16/28
+source:             DN42
