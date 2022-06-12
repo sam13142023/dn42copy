@@ -1,0 +1,5 @@
+route:              172.20.173.128/27
+descr:              LE37
+origin:             AS4242421137
+mnt-by:             LE37-MNT
+source:             DN42
