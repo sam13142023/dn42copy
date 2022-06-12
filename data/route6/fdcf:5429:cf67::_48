@@ -1,0 +1,5 @@
+route6:             fdcf:5429:cf67::/48
+origin:             AS4242420744
+max-length:         48
+mnt-by:             JMJL-MNT
+source:             DN42

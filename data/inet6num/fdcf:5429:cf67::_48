@@ -1,0 +1,9 @@
+inet6num:           fdcf:5429:cf67:0000:0000:0000:0000:0000 - fdcf:5429:cf67:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:5429:cf67::/48
+netname:            JMJL-NET
+country:            ES
+admin-c:            JMJL-DN42
+tech-c:             JMJL-DN42
+mnt-by:             JMJL-MNT
+status:             ASSIGNED
+source:             DN42
