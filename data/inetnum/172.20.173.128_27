@@ -1,0 +1,11 @@
+inetnum:            172.20.173.128 - 172.20.173.159
+netname:            LE37-IPV4
+remarks:            LE37
+descr:              LE37
+country:            TW
+admin-c:            LE37-DN42
+tech-c:             LE37-DN42
+mnt-by:             LE37-MNT
+status:             ASSIGNED
+cidr:               172.20.173.128/27
+source:             DN42

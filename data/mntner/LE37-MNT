@@ -1,0 +1,6 @@
+mntner:             LE37-MNT
+admin-c:            LE37-DN42
+tech-c:             LE37-DN42
+mnt-by:             LE37-MNT
+source:             DN42
+auth:               pgp-fingerprint 12FE4557BC09E91BB6C1731F03303D21B9E275F4
