@@ -5,9 +5,6 @@ admin-c:            DANNYAAM-DN42
 tech-c:             DANNYAAM-DN42
 mnt-by:             SARU-MNT
 nserver:            lb.ns.saru.dn42
-nserver:            saru.ns.saru.dn42
-nserver:            hebi.ns.saru.dn42
-nserver:            umidanuki.ns.saru.dn42
-nserver:            hitsuji.ns.saru.dn42
+ds-rdata:           63411 13 2 369CE1C19C0DB09F174ABC43D78ACF97BB22B1EBD5B830999F2B287B3A8AC2D5
 status:             ASSIGNED
 source:             DN42

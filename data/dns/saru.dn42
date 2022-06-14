@@ -8,4 +8,5 @@ nserver:            lb.ns.saru.dn42 fd39:1c:2c1b:a000::3901
 nserver:            lb.ns.saru.dn42 fd39:1c:2c1b:a001::3901
 nserver:            lb.ns.saru.dn42 fd39:1c:2c1b:b000::3901
 nserver:            lb.ns.saru.dn42 fd39:1c:2c1b:c000::3901
+ds-rdata:           11767 13 2 E07B816B369EE3C96058D1F2F0E26F2F7A8722770861087779CE93DD3285F2FB
 source:             DN42
