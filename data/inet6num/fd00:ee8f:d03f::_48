@@ -1,0 +1,11 @@
+inet6num:           fd00:ee8f:d03f:0000:0000:0000:0000:0000 - fd00:ee8f:d03f:ffff:ffff:ffff:ffff:ffff
+netname:            GAOJIANLI-v6
+descr:              Gaojianli network
+country:            CN
+admin-c:            GAOJIANLI-DN42
+tech-c:             GAOJIANLI-DN42
+mnt-by:             GAOJIANLI-MNT
+nserver:            ns1.gaojianli.dn42
+status:             ASSIGNED
+cidr:               fd00:ee8f:d03f::/48
+source:             DN42

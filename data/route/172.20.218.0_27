@@ -1,0 +1,5 @@
+route:              172.20.218.0/27
+descr:              Route4 for Gaojianli network
+origin:             AS4242421435
+mnt-by:             GAOJIANLI-MNT
+source:             DN42

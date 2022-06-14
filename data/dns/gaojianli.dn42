@@ -1,0 +1,7 @@
+domain:             gaojianli.dn42
+admin-c:            GAOJIANLI-DN42
+tech-c:             GAOJIANLI-DN42
+mnt-by:             GAOJIANLI-MNT
+nserver:            ns1.gaojianli.dn42 172.20.218.1
+nserver:            ns1.gaojianli.dn42 fd00:ee8f:d03f::1
+source:             DN42
