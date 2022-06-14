@@ -1,0 +1,8 @@
+domain:             nadeen.dn42
+descr:              NADEEN-DNS
+admin-c:            NADEEN-DN42
+tech-c:             NADEEN-DN42
+mnt-by:             NADEEN-MNT
+nserver:            ns.nadeen.dn42 172.21.101.69
+nserver:            ns.nadeen.dn42 fd75:fcce:1f11:69::53
+source:             DN42

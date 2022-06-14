@@ -1,5 +1,6 @@
 route6:             fd75:fcce:1f11::/48
 origin:             AS4242422311
 max-length:         48
+descr:              NADEEN-ROUTE6
 mnt-by:             NADEEN-MNT
 source:             DN42

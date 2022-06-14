@@ -1,5 +1,6 @@
 aut-num:            AS4242422311
 as-name:            AS-NADEEN-DN42
+descr:              NADEEN-NET
 admin-c:            NADEEN-DN42
 tech-c:             NADEEN-DN42
 mnt-by:             NADEEN-MNT
