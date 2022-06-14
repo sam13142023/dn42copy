@@ -1,0 +1,11 @@
+inetnum:            172.20.218.0 - 172.20.218.31
+netname:            GAOJIANLI-V4
+descr:              Gaojianli network
+country:            CN
+admin-c:            GAOJIANLI-DN42
+tech-c:             GAOJIANLI-DN42
+mnt-by:             GAOJIANLI-MNT
+nserver:            ns1.gaojianli.dn42
+status:             ASSIGNED
+cidr:               172.20.218.0/27
+source:             DN42

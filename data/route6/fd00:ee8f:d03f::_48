@@ -1,0 +1,5 @@
+route6:             fd00:ee8f:d03f::/48
+descr:              Route6 for Gaojianli network
+origin:             AS4242421435
+mnt-by:             GAOJIANLI-MNT
+source:             DN42
