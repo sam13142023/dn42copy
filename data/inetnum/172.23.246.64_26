@@ -1,0 +1,11 @@
+inetnum:            172.23.246.64 - 172.23.246.127
+netname:            MOECLUB-IPV4
+remarks:            Peer with me at 2594418727@qq.com
+descr:              Peer with me at 2594418727@qq.com
+country:            CN
+admin-c:            MOECLUB-DN42
+tech-c:             MOECLUB-DN42
+mnt-by:             MOECLUB-MNT
+status:             ASSIGNED
+cidr:               172.23.246.64/26
+source:             DN42

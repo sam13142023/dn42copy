@@ -1,0 +1,10 @@
+inet6num:           fd75:1204:2fa8:0000:0000:0000:0000:0000 - fd75:1204:2fa8:ffff:ffff:ffff:ffff:ffff
+netname:            MOECLUB-IPV6
+descr:              Peer with me at 2594418727@qq.com
+country:            CN
+admin-c:            MOECLUB-DN42
+tech-c:             MOECLUB-DN42
+mnt-by:             MOECLUB-MNT
+status:             ASSIGNED
+cidr:               fd75:1204:2fa8::/48
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             MOECLUB-MNT
+admin-c:            MOECLUB-DN42
+tech-c:             MOECLUB-DN42
+mnt-by:             MOECLUB-MNT
+source:             DN42
+auth:               pgp-fingerprint 954C9B02B7C60E51CD0F9EC5F471DFDAC4CF4EBC
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPCLeH/EcbFUmu5bxw62kK+PD/Or+5OTVtyjXs/ZRMP5
+remarks:            2333
