@@ -1,0 +1,9 @@
+route6:             fd10:127:39::/48
+max-length:         64
+origin:             AS4201270039
+origin:             AS4242422439
+admin-c:            DANNYAAM-NEONETWORK
+tech-c:             DANNYAAM-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
