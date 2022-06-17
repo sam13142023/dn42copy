@@ -1,0 +1,7 @@
+mntner:             INPRTX-MNT
+admin-c:            INPRTX-DN42
+tech-c:             INPRTX-DN42
+mnt-by:             INPRTX-MNT
+source:             DN42
+auth:               pgp-fingerprint 9108345CC80E3BD3B5CC6DAD26BF864068F8294C
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICTEhlar9xzJts5dHzSfJubxSs1RLXOINCZIBzTohIO5
