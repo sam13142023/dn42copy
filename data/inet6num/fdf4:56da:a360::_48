@@ -1,0 +1,9 @@
+inet6num:           fdf4:56da:a360:0000:0000:0000:0000:0000 - fdf4:56da:a360:ffff:ffff:ffff:ffff:ffff
+netname:            INPRTX-IPV6
+country:            CN
+admin-c:            INPRTX-DN42
+tech-c:             INPRTX-DN42
+mnt-by:             INPRTX-MNT
+status:             ASSIGNED
+cidr:               fdf4:56da:a360::/48
+source:             DN42
