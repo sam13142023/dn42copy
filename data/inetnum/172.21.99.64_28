@@ -1,0 +1,12 @@
+inetnum:            172.21.99.64 - 172.21.99.79
+cidr:               172.21.99.64/28
+netname:            NEPNEP-NETTO
+descr:              A network that says NepNep and Nepu into a legacy standard
+country:            BR
+admin-c:            NULL31-DN42
+tech-c:             NULL31-DN42
+mnt-by:             NULL31-MNT
+status:             ASSIGNED
+nserver:            ns1.nep.dn42
+ds-rdata:           58416 13 2 82437bb9b83b0776b3b1257b07ea92aaf59efd5f7b8ab661ba5e06d8689cb57b
+source:             DN42

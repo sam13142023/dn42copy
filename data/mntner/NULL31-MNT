@@ -1,0 +1,7 @@
+mntner:             NULL31-MNT
+admin-c:            NULL31-DN42
+tech-c:             NULL31-DN42
+mnt-by:             NULL31-MNT
+auth:               pgp-fingerprint E027AA49B4309175A38DC9848892F49E1744C5FB
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB3iFt1dcU1mnk2oiQO4chDb7nnLXni7juTl3Cv9vWh3
+source:             DN42
