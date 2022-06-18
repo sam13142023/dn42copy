@@ -1,0 +1,12 @@
+inet6num:           fd31:8b8c:795a:0000:0000:0000:0000:0000 - fd31:8b8c:795a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:8b8c:795a::/48
+netname:            NEPNEP-NETTO
+descr:              A network that says NepNep and Nepu
+country:            BR
+admin-c:            NULL31-DN42
+tech-c:             NULL31-DN42
+mnt-by:             NULL31-MNT
+status:             ASSIGNED
+nserver:            ns1.nep.dn42
+ds-rdata:           13407 13 2 97a51ae57ad02a6132d6836ac9ade93453649fa10b756d969c98f30034c7e3a0
+source:             DN42
