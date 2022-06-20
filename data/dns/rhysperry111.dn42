@@ -3,4 +3,5 @@ admin-c:            RHYSPERRY111-DN42
 tech-c:             RHYSPERRY111-DN42
 mnt-by:             RHYSPERRY111-MNT
 nserver:            ns1.rhysperry111.dn42 172.22.76.1
+nserver:            ns1.rhysperry111.dn42 fdfd:6969::1
 source:             DN42

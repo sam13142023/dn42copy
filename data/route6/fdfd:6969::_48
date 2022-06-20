@@ -1,0 +1,5 @@
+route6:             fdfd:6969::/48
+origin:             AS4242423665
+max-length:         48
+mnt-by:             RHYSPERRY111-MNT
+source:             DN42
