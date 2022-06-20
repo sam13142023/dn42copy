@@ -1,0 +1,8 @@
+inetnum:            10.127.255.39 - 10.127.255.39
+cidr:               10.127.255.39/32
+netname:            Saru-Neo-AnyNS-IP4
+admin-c:            DANNYAAM-NEONETWORK
+tech-c:             DANNYAAM-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
