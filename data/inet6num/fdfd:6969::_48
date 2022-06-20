@@ -1,0 +1,9 @@
+inet6num:           fdfd:6969:0000:0000:0000:0000:0000:0000 - fdfd:6969:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:6969::/48
+netname:            RHYSPERRY111-NETWORK
+admin-c:            RHYSPERRY111-DN42
+tech-c:             RHYSPERRY111-DN42
+mnt-by:             RHYSPERRY111-MNT
+status:             ASSIGNED
+nserver:            ns1.rhysperry111.dn42
+source:             DN42

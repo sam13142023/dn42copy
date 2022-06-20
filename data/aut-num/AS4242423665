@@ -3,4 +3,18 @@ as-name:            AS-RHYSPERRY111-DN42
 admin-c:            RHYSPERRY111-DN42
 tech-c:             RHYSPERRY111-DN42
 mnt-by:             RHYSPERRY111-MNT
+remarks:                       =================            
+remarks:                       = RHYS' DN42 AS =            
+remarks:                       =================            
+remarks:                                                    
+remarks:             Hi, I'm open for peering with anyone!  
+remarks:                  Just shoot an email over to       
+remarks:                rhysperry111@gmail.com with your    
+remarks:             wireguard connection details, your ASN 
+remarks:             and tunnel IPs. To test clearnet ping  
+remarks:                   you can use rhysperry.com        
+remarks:                                                    
+remarks:                I only peer over wireguard, and     
+remarks:            connections are throttled to 5mb/s, but 
+remarks:                        that's about it   
 source:             DN42
