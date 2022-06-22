@@ -1,0 +1,4 @@
+route:              172.20.222.192/27
+origin:             AS4242423117
+mnt-by:             M2NET-MNT
+source:             DN42

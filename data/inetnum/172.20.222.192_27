@@ -1,0 +1,11 @@
+inetnum:            172.20.222.192-172.20.222.223
+cidr:               172.20.222.192/27
+netname:            M2NET
+descr:              M2 network
+country:            US
+nserver:            ns.m2net.dn42
+admin-c:            MELVYN2-DN42
+tech-c:             MELVYN2-DN42
+status:             ASSIGNED
+mnt-by:             M2NET-MNT
+source:             DN42
