@@ -1,5 +1,5 @@
 route6:             fd31:8b8c:795a::/48
 origin:             AS4242420951
-max-length:         48
+max-length:         52
 mnt-by:             NULL31-MNT
 source:             DN42
