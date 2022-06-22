@@ -1,4 +1,5 @@
 route:              172.21.99.64/28
 origin:             AS4242420951
+max-length:         29
 mnt-by:             NULL31-MNT
 source:             DN42
