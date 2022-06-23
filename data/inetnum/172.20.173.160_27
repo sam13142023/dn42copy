@@ -1,0 +1,9 @@
+inetnum:            172.20.173.160 - 172.20.173.191
+cidr:               172.20.173.160/27
+netname:            Rabbit Hole IPv4 network
+admin-c:            DMP-DN42
+tech-c:             DMP-DN42
+mnt-by:             DMP-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-RABBITHOLE

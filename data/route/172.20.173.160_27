@@ -1,0 +1,4 @@
+route:              172.20.173.160/27
+origin:             AS4242422336
+mnt-by:             DMP-MNT
+source:             DN42
