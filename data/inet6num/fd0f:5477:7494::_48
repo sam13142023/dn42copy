@@ -1,0 +1,11 @@
+inet6num:           fd0f:5477:7494:0000:0000:0000:0000:0000 - fd0f:5477:7494:ffff:ffff:ffff:ffff:ffff
+netname:            DMP-POOL-6-1
+descr:              Rabbit Hole IPv6 network
+country:            PL
+admin-c:            DMP-DN42
+tech-c:             DMP-DN42
+mnt-by:             DMP-MNT
+status:             ASSIGNED
+cidr:               fd0f:5477:7494::/48
+source:             DN42
+org:                ORG-RABBITHOLE
