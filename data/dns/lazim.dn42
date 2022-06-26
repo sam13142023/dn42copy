@@ -1,0 +1,7 @@
+domain:             lazim.dn42
+admin-c:            LAZIM-DN42
+tech-c:             LAZIM-DN42
+mnt-by:             LAZIM-MNT
+nserver:            ns1.lazim.dn42 172.23.77.97
+nserver:            ns1.lazim.dn42 fdc8:3df0:c50e::1
+source:             DN42

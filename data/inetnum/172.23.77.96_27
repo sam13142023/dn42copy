@@ -1,0 +1,9 @@
+inetnum:            172.23.77.96 - 172.23.77.127
+cidr:               172.23.77.96/27
+netname:            LAZIM-NETWORK
+admin-c:            LAZIM-DN42
+tech-c:             LAZIM-DN42
+mnt-by:             LAZIM-MNT
+status:             ASSIGNED
+nserver:            ns1.lazim.dn42
+source:             DN42

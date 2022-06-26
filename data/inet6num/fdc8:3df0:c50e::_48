@@ -1,0 +1,11 @@
+inet6num:           fdc8:3df0:c50e:0000:0000:0000:0000:0000 - fdc8:3df0:c50e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:3df0:c50e::/48
+netname:            LAZIM-NETWORK
+descr:              Network of LAZIM
+country:            BD
+admin-c:            LAZIM-DN42
+tech-c:             LAZIM-DN42
+mnt-by:             LAZIM-MNT
+status:             ASSIGNED
+nserver:            ns1.lazim.dn42
+source:             DN42

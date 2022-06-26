@@ -1,0 +1,6 @@
+mntner:             LAZIM-MNT
+admin-c:            LAZIM-DN42
+tech-c:             LAZIM-DN42
+mnt-by:             LAZIM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJk0AMJ59erw93smYm+p3aAzsy5hiMSVaOuMEcxDUYnM
+source:             DN42

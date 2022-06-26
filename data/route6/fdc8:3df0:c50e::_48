@@ -1,0 +1,5 @@
+route6:             fdc8:3df0:c50e::/48
+origin:             AS4242420584
+max-length:         48
+mnt-by:             LAZIM-MNT
+source:             DN42
