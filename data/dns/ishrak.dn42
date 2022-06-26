@@ -1,0 +1,7 @@
+domain:             ishrak.dn42
+admin-c:            ISHRAK-DN42
+tech-c:             ISHRAK-DN42
+mnt-by:             ISHRAK-MNT
+nserver:            ns1.ishrak.dn42 172.23.241.97
+nserver:            ns1.ishrak.dn42 fde0:9f05:72fc::1
+source:             DN42

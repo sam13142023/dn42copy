@@ -1,0 +1,11 @@
+inet6num:           fde0:9f05:72fc:0000:0000:0000:0000:0000 - fde0:9f05:72fc:ffff:ffff:ffff:ffff:ffff
+cidr:               fde0:9f05:72fc::/48
+netname:            ISHRAK-NETWORK
+descr:              Ishrak Network
+country:            BD
+admin-c:            ISHRAK-DN42
+tech-c:             ISHRAK-DN42
+mnt-by:             ISHRAK-MNT
+status:             ASSIGNED
+nserver:            ns1.ishrak.dn42
+source:             DN42
