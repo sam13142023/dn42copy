@@ -1,0 +1,5 @@
+route6:             fde0:9f05:72fc::/48
+origin:             AS4242423190
+max-length:         48
+mnt-by:             ISHRAK-MNT
+source:             DN42

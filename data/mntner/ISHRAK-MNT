@@ -1,0 +1,7 @@
+mntner:             ISHRAK-MNT
+admin-c:            ISHRAK-DN42
+tech-c:             ISHRAK-DN42
+mnt-by:             ISHRAK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP3LsQxwMnG95ToibaIQvVFb2CK8/hJXKtr0vgYLncVa
+auth:               pgp-fingerprint 334844872F96F34106FF2263CD6BF8D0A33A751A
+source:             DN42
