@@ -1,0 +1,7 @@
+route:              172.21.68.0/27
+origin:             AS4242420504
+remarks:            JP
+admin-c:            BGPLAYGROUND-DN42
+tech-c:             BGPLAYGROUND-DN42
+mnt-by:             BGPLAYGROUND-MNT
+source:             DN42

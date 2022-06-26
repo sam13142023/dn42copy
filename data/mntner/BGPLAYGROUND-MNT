@@ -1,0 +1,7 @@
+mntner:             BGPLAYGROUND-MNT
+mnt-by:             BGPLAYGROUND-MNT
+admin-c:            BGPLAYGROUND-DN42
+tech-c:             BGPLAYGROUND-DN42
+auth:               PGPKEY-871D5C95
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFAOF7zbQgqOP7f++WDJhAub7GgT0iiDUnwr+o0TGprG
+source:             DN42
