@@ -1,0 +1,11 @@
+inetnum:            172.22.179.0 - 172.22.179.31
+netname:            GONGYU-IPV4
+remarks:            Peer with me at guawazi176@gmail.com
+descr:              Peer with me at guawazi176@gmail.com
+country:            CN
+admin-c:            GONGYU-DN42
+tech-c:             GONGYU-DN42
+mnt-by:             GONGYU-MNT
+status:             ASSIGNED
+cidr:               172.22.179.0/27
+source:             DN42
