@@ -1,0 +1,9 @@
+domain:             bgp.dn42
+admin-c:            BGPLAYGROUND-DN42
+tech-c:             BGPLAYGROUND-DN42
+mnt-by:             BGPLAYGROUND-MNT
+nserver:            ns1.bgp.dn42 172.21.68.1
+nserver:            ns1.bgp.dn42 fdf7:d24d:f081::153
+nserver:            ns2.bgp.dn42 172.21.68.2
+nserver:            ns2.bgp.dn42 fdf7:d24d:f081::253
+source:             DN42
