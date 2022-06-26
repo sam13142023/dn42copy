@@ -23,7 +23,7 @@ usage()
     echo ' --commit, verify this specific commit'
     echo ' --help,   display this message'
     echo 'SSH specific options:'
-    echo ' --key,    (required for signing) specify SSH private key file to use'
+    echo ' --key,    (required for signing) specify SSH private key file to use (public key file for signing via ssh-agent)'
 }
 
 ##########################################################################
