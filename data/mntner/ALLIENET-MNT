@@ -1,0 +1,6 @@
+mntner:             ALLIENET-MNT
+admin-c:            ALLIENET-DN42
+tech-c:             ALLIENET-DN42
+mnt-by:             ALLIENET-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO//PEA3dIqaxI215KfsaHuVgaaMqcKXwh5LNpnR4P+u
