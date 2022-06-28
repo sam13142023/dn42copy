@@ -1,0 +1,10 @@
+inetnum:            172.20.148.192 - 172.20.148.223
+cidr:               172.20.148.192/27
+netname:            GDN42-V4-NET-1
+country:            FR
+admin-c:            GDN42-DN42
+tech-c:             GDN42-DN42
+mnt-by:             GDN42-MNT
+status:             ASSIGNED
+nserver:            ns1.gdn42.dn42
+source:             DN42

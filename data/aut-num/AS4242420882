@@ -1,0 +1,7 @@
+aut-num:            AS4242420882
+as-name:            GDN42-AS
+descr:              GDN42 AS
+admin-c:            GDN42-DN42
+tech-c:             GDN42-DN42
+mnt-by:             GDN42-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             gdn42.dn42
+descr:              gdn42
+admin-c:            GDN42-DN42
+tech-c:             GDN42-DN42
+mnt-by:             GDN42-MNT
+nserver:            ns1.gdn42.dn42 172.20.148.193
+nserver:            ns1.gdn42.dn42 fddc:1180:a03::2
+source:             DN42

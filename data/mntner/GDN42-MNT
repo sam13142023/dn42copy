@@ -1,0 +1,6 @@
+mntner:             GDN42-MNT
+admin-c:            GDN42-DN42
+tech-c:             GDN42-DN42
+mnt-by:             GDN42-MNT
+source:             DN42
+auth:               pgp-fingerprint 5B4596C3BEA5A5E126BF372AC683462C132C6194
