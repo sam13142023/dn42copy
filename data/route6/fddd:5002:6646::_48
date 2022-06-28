@@ -1,5 +1,0 @@
-route6:             fddd:5002:6646::/48
-origin:             AS4242423025
-max-length:         48
-mnt-by:             EDENLINK-MNT
-source:             DN42
