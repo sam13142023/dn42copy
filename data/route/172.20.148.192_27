@@ -1,0 +1,4 @@
+route:              172.20.148.192/27
+origin:             AS4242420882
+mnt-by:             GDN42-MNT
+source:             DN42

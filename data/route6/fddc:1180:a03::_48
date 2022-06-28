@@ -1,0 +1,4 @@
+route6:             fddc:1180:a03::/48
+origin:             AS4242420882
+mnt-by:             GDN42-MNT
+source:             DN42

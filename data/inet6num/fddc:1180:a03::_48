@@ -1,0 +1,10 @@
+inet6num:           fddc:1180:0a03:0000:0000:0000:0000:0000 - fddc:1180:0a03:ffff:ffff:ffff:ffff:ffff
+cidr:               fddc:1180:a03::/48
+netname:            GDN42-V6-NET-1
+country:            FR
+admin-c:            GDN42-DN42
+tech-c:             GDN42-DN42
+mnt-by:             GDN42-MNT
+status:             ASSIGNED
+nserver:            ns1.gdn42.dn42
+source:             DN42
