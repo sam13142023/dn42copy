@@ -1,8 +1,0 @@
-domain:             elink.dn42
-admin-c:            EDENJOHNSON-DN42
-tech-c:             EDENJOHNSON-DN42
-org:                ORG-EDENLINK
-mnt-by:             EDENLINK-MNT
-nserver:            ns.elink.dn42 172.23.131.226
-nserver:            ns.elink.dn42 fddd:5002:6646::2
-source:             DN42
