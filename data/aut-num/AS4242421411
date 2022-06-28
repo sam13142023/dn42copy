@@ -4,4 +4,6 @@ admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 mnt-by:             C4TG1RL5-MNT
 org:                ORG-C4TG1RL5
+descr:              catgirls.dn42
+remarks:            We are open for peering via WireGuard, see https://famfo.xyz/dn42/peering for details.
 source:             DN42
