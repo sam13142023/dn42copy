@@ -1,4 +1,5 @@
 route:              172.23.241.96/27
 origin:             AS4242423190
+max-length:         29
 mnt-by:             ISHRAK-MNT
 source:             DN42
