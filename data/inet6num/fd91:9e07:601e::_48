@@ -1,7 +1,6 @@
 inet6num:           fd91:9e07:601e:0000:0000:0000:0000:0000 - fd91:9e07:601e:ffff:ffff:ffff:ffff:ffff
 cidr:               fd91:9e07:601e::/48
 netname:            PIGEONHOLE-NETWORK
-country:            CN
 admin-c:            RICKY8955555-DN42
 tech-c:             RICKY8955555-DN42
 org:                ORG-HUAJITECH
