@@ -1,0 +1,13 @@
+inetnum:            172.21.123.160 - 172.21.123.191
+netname:            ALLIENET-IPV4
+remarks:            AllieNET
+descr:              AllieNET IPv4
+country:            US
+admin-c:            ALLIENET-DN42
+tech-c:             ALLIENET-DN42
+mnt-by:             ALLIENET-MNT
+nserver:            ns1.allienet.dn42
+nserver:            ns2.allienet.dn42
+status:             ASSIGNED
+cidr:               172.21.123.160/27
+source:             DN42

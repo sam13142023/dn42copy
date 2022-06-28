@@ -1,0 +1,5 @@
+route6:             fd3f:aeee:8b5f::/48
+descr:              AllieNET
+origin:             AS4242420494
+mnt-by:             ALLIENET-MNT
+source:             DN42

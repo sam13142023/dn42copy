@@ -1,0 +1,7 @@
+domain:             allienet.dn42
+descr:              AllieNET DN42
+admin-c:            ALLIENET-DN42
+tech-c:             ALLIENET-DN42
+mnt-by:             ALLIENET-MNT
+nserver:            ns1.allienet.dn42 172.21.123.161
+source:             DN42

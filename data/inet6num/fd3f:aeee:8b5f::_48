@@ -1,0 +1,13 @@
+inet6num:           fd3f:aeee:8b5f:0000:0000:0000:0000:0000 - fd3f:aeee:8b5f:ffff:ffff:ffff:ffff:ffff
+netname:            ALLIENET-IPV6
+remarks:            AllieNET
+descr:              AllieNET IPv6
+country:            US
+admin-c:            ALLIENET-DN42
+tech-c:             ALLIENET-DN42
+mnt-by:             ALLIENET-MNT
+nserver:            ns1.allienet.dn42
+nserver:            ns2.allienet.dn42
+status:             ASSIGNED
+cidr:               fd3f:aeee:8b5f::/48
+source:             DN42
