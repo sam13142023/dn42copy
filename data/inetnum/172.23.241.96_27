@@ -1,6 +1,8 @@
 inetnum:            172.23.241.96 - 172.23.241.127
 cidr:               172.23.241.96/27
 netname:            ISHRAK-NETWORK
+descr:              Ishrak Network
+country:            BD
 admin-c:            ISHRAK-DN42
 tech-c:             ISHRAK-DN42
 mnt-by:             ISHRAK-MNT
