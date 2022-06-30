@@ -1,0 +1,4 @@
+route:              172.23.77.96/27
+origin:             AS4242420584
+mnt-by:             LAZIM-MNT
+source:             DN42
