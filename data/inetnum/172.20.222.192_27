@@ -1,4 +1,4 @@
-inetnum:            172.20.222.192-172.20.222.223
+inetnum:            172.20.222.192 - 172.20.222.223
 cidr:               172.20.222.192/27
 netname:            M2NET
 descr:              M2 network
