@@ -1,0 +1,11 @@
+inet6num:           fd00:0420:0069:0000:0000:0000:0000:0000-fd00:0420:0069:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:420:69::/48
+netname:            M2NET
+descr:              M2 network
+country:            US
+nserver:            ns.m2net.dn42
+admin-c:            MELVYN2-DN42
+tech-c:             MELVYN2-DN42
+status:             ASSIGNED
+mnt-by:             M2NET-MNT
+source:             DN42
