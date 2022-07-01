@@ -1,0 +1,7 @@
+aut-num:            AS4242423478
+as-name:            KVM-AS
+descr:              AS for KVM
+admin-c:            KVM-DN42
+tech-c:             KVM-DN42
+mnt-by:             KVM-MNT
+source:             DN42

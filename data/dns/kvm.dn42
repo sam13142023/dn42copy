@@ -1,0 +1,7 @@
+domain:             kvm.dn42
+admin-c:            KVM-DN42
+tech-c:             KVM-DN42
+mnt-by:             KVM-MNT
+nserver:            ns.kvm.dn42 172.21.78.84
+nserver:            ns.kvm.dn42 fdec:2606:62c0::84
+source:             DN42
