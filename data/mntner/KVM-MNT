@@ -1,0 +1,6 @@
+mntner:             KVM-MNT
+admin-c:            KVM-DN42
+tech-c:             KVM-DN42
+mnt-by:             KVM-MNT
+auth:               pgp-fingerprint 1D829430A0927358FE68C025F9E48161D4667BE0
+source:             DN42
