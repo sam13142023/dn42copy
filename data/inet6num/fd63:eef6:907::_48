@@ -1,0 +1,13 @@
+inet6num:           fd63:eef6:0907:0000:0000:0000:0000:0000 - fd63:eef6:0907:ffff:ffff:ffff:ffff:ffff
+cidr:               fd63:eef6:907::/48
+netname:            TYRR-IPV6
+nserver:            ns1.tyrr.dn42
+nserver:            ns2.tyrr.dn42
+country:            US
+descr:              Tyrr Networks Address Space
+status:             ASSIGNED
+admin-c:            ORG-TYRR-CONTACT-DN42
+tech-c:             ORG-TYRR-CONTACT-DN42
+mnt-by:             TYRR-MNT
+org:                ORG-TYRR
+source:             DN42

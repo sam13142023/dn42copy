@@ -1,0 +1,8 @@
+mntner:             TYRR-MNT
+descr:              Tyrr Networks Registry Maintainer
+mnt-by:             TYRR-MNT
+admin-c:            ORG-TYRR-CONTACT-DN42
+tech-c:             ORG-TYRR-CONTACT-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFZQKlpJ9QeuyW/lnQtTBF+W1CgV7UrIfoY9Fd5tHC+0
+org:                ORG-TYRR
+source:             DN42

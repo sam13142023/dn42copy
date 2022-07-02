@@ -1,0 +1,6 @@
+route6:             fd63:eef6:907::/48
+mnt-by:             TYRR-MNT
+origin:             AS4242420907
+admin-c:            ORG-TYRR-CONTACT-DN42
+tech-c:             ORG-TYRR-CONTACT-DN42
+source:             DN42

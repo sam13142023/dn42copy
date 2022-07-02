@@ -1,0 +1,10 @@
+role:               Tyrr Networks Contacts
+nic-hdl:            ORG-TYRR-CONTACT-DN42
+mnt-by:             TYRR-MNT
+org:                ORG-TYRR
+admin-c:            PACKETASTIC-DN42
+tech-c:             PACKETASTIC-DN42
+abuse-c:            PACKETASTIC-DN42
+abuse-mailbox:      abuse@tyrr.net
+remarks:            Please refer to https://tyrr.net/contact for most inquiries. Thanks!
+source:             DN42
