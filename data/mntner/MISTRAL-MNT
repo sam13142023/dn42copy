@@ -1,0 +1,6 @@
+mntner:             MISTRAL-MNT
+admin-c:            MISTRAL-DN42
+tech-c:             MISTRAL-DN42
+mnt-by:             MISTRAL-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEo9MDmyYZtZEL22JsixXPEXSjgemlopLzXw7w+fkJiu ns@mac.local
+source:             DN42

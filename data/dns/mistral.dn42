@@ -1,0 +1,9 @@
+domain:             mistral.dn42
+admin-c:            MISTRAL-DN42
+tech-c:             MISTRAL-DN42
+mnt-by:             MISTRAL-MNT
+nserver:            ns1.mistral.dn42 172.20.148.225
+nserver:            ns1.mistral.dn42 fd94:21a1:6eed::1
+nserver:            ns2.mistral.dn42 172.20.148.226
+nserver:            ns2.mistral.dn42 fd94:21a1:6eed::2
+source:             DN42
