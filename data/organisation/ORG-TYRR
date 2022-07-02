@@ -1,0 +1,11 @@
+organisation:       ORG-TYRR
+org-name:           Tyrr Networks
+descr:              A small data-sharing community in the United States
+admin-c:            ORG-TYRR-CONTACT-DN42
+tech-c:             ORG-TYRR-CONTACT-DN42
+abuse-c:            ORG-TYRR-CONTACT-DN42
+mnt-by:             TYRR-MNT
+www:                https://tyrr.net
+language:           EN
+remarks:            Please refer to https://tyrr.net/contact for most inquiries. Thanks!
+source:             DN42

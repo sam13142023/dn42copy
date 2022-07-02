@@ -1,0 +1,10 @@
+domain:             tyrr.dn42
+nserver:            ns1.tyrr.dn42 fd63:eef6:0907:1::
+nserver:            ns2.tyrr.dn42 fd63:eef6:0907:2::
+descr:              Tyrr Networks Domain Name
+mnt-by:             TYRR-MNT
+admin-c:            ORG-TYRR-CONTACT-DN42
+tech-c:             ORG-TYRR-CONTACT-DN42
+org:                ORG-TYRR
+country:            US
+source:             DN42
