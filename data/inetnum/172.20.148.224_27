@@ -1,0 +1,10 @@
+inetnum:            172.20.148.224 - 172.20.148.255
+cidr:               172.20.148.224/27
+netname:            MISTRAL-NETWORK
+admin-c:            MISTRAL-DN42
+tech-c:             MISTRAL-DN42
+mnt-by:             MISTRAL-MNT
+status:             ASSIGNED
+nserver:            ns1.mistral.dn42
+nserver:            ns2.mistral.dn42
+source:             DN42

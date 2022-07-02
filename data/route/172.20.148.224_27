@@ -1,0 +1,4 @@
+route:              172.20.148.224/27
+origin:             AS4242423202
+mnt-by:             MISTRAL-MNT
+source:             DN42

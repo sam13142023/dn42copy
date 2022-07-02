@@ -1,0 +1,12 @@
+inet6num:           fd94:21a1:6eed:0000:0000:0000:0000:0000 - fd94:21a1:6eed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:21a1:6eed::/48
+netname:            MISTRAL-NETWORK
+descr:              Network of MISTRAL
+country:            FR
+admin-c:            MISTRAL-DN42
+tech-c:             MISTRAL-DN42
+mnt-by:             MISTRAL-MNT
+status:             ASSIGNED
+nserver:            ns1.mistral.dn42
+nserver:            ns2.mistral.dn42
+source:             DN42
