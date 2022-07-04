@@ -1,0 +1,14 @@
+aut-num:            AS4242420864
+as-name:            AS-LinkSecond
+admin-c:            LINK2-DN42
+tech-c:             LINK2-DN42
+mnt-by:             LINK2-MNT
+remarks:            -----------------------------+
+remarks:            |     LinkSecond Network     |
+remarks:            |    Network just for Fun.   |
+remarks:            +----------------------------+
+remarks:            | Open for peering.          |
+remarks:            | For more details,          |
+remarks:            | go to dn42.christine.pp.ua |
+remarks:            +----------------------------+
+source:             DN42

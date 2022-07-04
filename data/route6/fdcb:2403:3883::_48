@@ -1,0 +1,5 @@
+route6:             fdcb:2403:3883::/48
+origin:             AS4242420864
+max-length:         48
+mnt-by:             LINK2-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             LINK2-MNT
+admin-c:            LINK2-DN42
+tech-c:             LINK2-DN42
+mnt-by:             LINK2-MNT
+auth:               pgp-fingerprint C4E99049982F6F0794975B563653DE05226E3878
+source:             DN42
