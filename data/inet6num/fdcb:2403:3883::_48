@@ -1,0 +1,10 @@
+inet6num:           fdcb:2403:3883:0000:0000:0000:0000:0000 - fdcb:2403:3883:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcb:2403:3883::/48
+netname:            LinkSecond-Network
+descr:              LinkSecond Network inet6 Block
+country:            CN
+admin-c:            LINK2-DN42
+tech-c:             LINK2-DN42
+mnt-by:             LINK2-MNT
+status:             ASSIGNED
+source:             DN42

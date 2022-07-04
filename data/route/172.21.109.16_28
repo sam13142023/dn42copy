@@ -1,0 +1,4 @@
+route:              172.21.109.16/28
+origin:             AS4242420864
+mnt-by:             LINK2-MNT
+source:             DN42
