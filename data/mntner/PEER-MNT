@@ -1,6 +1,6 @@
 mntner:             PEER-MNT
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKoaoGwuX2cx0FYeOybU5Q/VcHoOouRq0lbXDdNzqiOw
-auth:               pgp-fingerprint 29885B47D856BBB644A549DFE5464B6FDB0EEEB1
+auth:               pgp-fingerprint 0CF3018B6E079B0DDC524186FAD8222FDEADC0DE
 admin-c:            PEER-DN42
 tech-c:             PEER-DN42
 mnt-by:             PEER-MNT
