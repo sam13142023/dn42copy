@@ -1,0 +1,5 @@
+route6:             fd22:e64a:7281::/48
+origin:             AS4242423192
+max-length:         48
+mnt-by:             NORTHREND-MNT
+source:             DN42
