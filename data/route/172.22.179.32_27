@@ -1,0 +1,4 @@
+route:              172.22.179.32/27
+origin:             AS4242421388
+mnt-by:             GMELODIE-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd8e:7c38:8f69:0000:0000:0000:0000:0000 - fd8e:7c38:8f69:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8e:7c38:8f69::/48
+netname:            GMELODIE-NETWORK
+descr:              Network of gmelodie
+country:            BR
+admin-c:            GMELODIE-DN42
+tech-c:             GMELODIE-DN42
+mnt-by:             GMELODIE-MNT
+status:             ASSIGNED
+nserver:            ns1.gmelodie.dn42
+source:             DN42
