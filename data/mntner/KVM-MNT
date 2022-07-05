@@ -3,4 +3,5 @@ admin-c:            KVM-DN42
 tech-c:             KVM-DN42
 mnt-by:             KVM-MNT
 auth:               pgp-fingerprint 1D829430A0927358FE68C025F9E48161D4667BE0
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICr+rG59R1fMgRD1yfntarFWRFSedBJ1k3TOPj5uP5N8
 source:             DN42
