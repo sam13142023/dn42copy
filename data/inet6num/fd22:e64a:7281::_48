@@ -1,0 +1,13 @@
+inet6num:           fd22:e64a:7281:0000:0000:0000:0000:0000 - fd22:e64a:7281:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:e64a:7281::/48
+netname:            NORTHREND-NETWORK
+descr:              Northrend Networks
+country:            RO
+org:                ORG-NORTHREND
+admin-c:            FORTLESS-DN42
+tech-c:             FORTLESS-DN42
+mnt-by:             NORTHREND-MNT
+status:             ASSIGNED
+nserver:            ns1.northrend.dn42
+nserver:            ns2.northrend.dn42
+source:             DN42
