@@ -1,0 +1,7 @@
+domain:             gmelodie.dn42
+admin-c:            GMELODIE-DN42
+tech-c:             GMELODIE-DN42
+mnt-by:             GMELODIE-MNT
+nserver:            ns1.gmelodie.dn42 172.22.179.33
+nserver:            ns1.gmelodie.dn42 fd8e:7c38:8f69::1
+source:             DN42

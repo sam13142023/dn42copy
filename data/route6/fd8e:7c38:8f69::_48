@@ -1,0 +1,5 @@
+route6:             fd8e:7c38:8f69::/48
+origin:             AS4242421388
+max-length:         48
+mnt-by:             GMELODIE-MNT
+source:             DN42
