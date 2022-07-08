@@ -1,4 +1,4 @@
-inetnum:            172.23.91.192-172.23.91.223
+inetnum:            172.23.91.192 - 172.23.91.223
 netname:            KENNHUANG-IPV4
 remarks:            Peer with me at kennhuang@alum.ccu.edu.tw
 descr:              Peer with me at kennhuang@alum.ccu.edu.tw
