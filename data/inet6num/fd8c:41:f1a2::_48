@@ -1,0 +1,11 @@
+inet6num:           fd8c:0041:f1a2:0000:0000:0000:0000:0000 - fd8c:0041:f1a2:ffff:ffff:ffff:ffff:ffff
+netname:            KENNHUANG-IPV6
+descr:              Peer with me at kennhuang@alum.ccu.edu.tw
+country:            TW
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+status:             ASSIGNED
+cidr:               fd8c:41:f1a2::/48
+nserver:            ns1.kennhuang.dn42
+source:             DN42

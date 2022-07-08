@@ -1,0 +1,5 @@
+route6:             fd8c:41:f1a2::/48
+descr:              Peer with me at kennhuang@alum.ccu.edu.tw
+origin:             AS4242420517
+mnt-by:             KENNHUANG-MNT
+source:             DN42
