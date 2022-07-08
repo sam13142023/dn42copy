@@ -1,0 +1,7 @@
+mntner:             KENNHUANG-MNT
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+source:             DN42
+auth:               pgp-fingerprint D7D476DEB3187AAE5D7117D4CF3067ED0CDAA299
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINUg2im47QieHefl4Uqlbc8bInDkxIt2zbaz2CWHuH4J

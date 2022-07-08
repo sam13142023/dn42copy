@@ -1,0 +1,12 @@
+inetnum:            172.23.91.192-172.23.91.223
+netname:            KENNHUANG-IPV4
+remarks:            Peer with me at kennhuang@alum.ccu.edu.tw
+descr:              Peer with me at kennhuang@alum.ccu.edu.tw
+country:            TW
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+status:             ASSIGNED
+cidr:               172.23.91.192/27
+nserver:            ns1.kennhuang.dn42
+source:             DN42

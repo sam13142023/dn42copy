@@ -1,0 +1,7 @@
+domain:             kennhuang.dn42
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+nserver:            ns1.kennhuang.dn42 172.23.91.193
+nserver:            ns1.kennhuang.dn42 fd8c:41:f1a2:53::1
+source:             DN42
