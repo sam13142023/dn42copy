@@ -4,4 +4,6 @@ tech-c:             NONLOCALHOST-DN42
 mnt-by:             NONLOCALHOST-MNT
 nserver:            ns1.nonlocal.dn42 172.22.98.97
 nserver:            ns1.nonlocal.dn42 fd3c:398e:80e3:2::2
+nserver:            ns2.nonlocal.dn42 172.22.98.98
+nserver:            ns2.nonlocal.dn42 fd3c:398e:80e3:2::3
 source:             DN42
