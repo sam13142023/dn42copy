@@ -1,0 +1,11 @@
+inet6num:           fded:9e31:ffee:0000:0000:0000:0000:0000 - fded:9e31:ffee:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:9e31:ffee::/48
+netname:            Sakura-Network
+country:            JP
+admin-c:            SAKURANET-DN42
+tech-c:             SAKURANET-DN42
+mnt-by:             SAKURANET-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.sakura.dn42
+nserver:            ns2.sakura.dn42

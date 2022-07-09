@@ -1,0 +1,9 @@
+inetnum:            172.22.162.128 - 172.22.162.191
+netname:            Sakura-Network
+country:            JP
+admin-c:            SAKURANET-DN42
+tech-c:             SAKURANET-DN42
+mnt-by:             SAKURANET-MNT
+status:             ASSIGNED
+cidr:               172.22.162.128/26
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.162.128/26
+origin:             AS4242423397
+mnt-by:             SAKURANET-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fded:9e31:ffee::/48
+origin:             AS4242423397
+max-length:         48
+mnt-by:             SAKURANET-MNT
+source:             DN42

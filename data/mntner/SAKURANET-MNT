@@ -1,0 +1,6 @@
+mntner:             SAKURANET-MNT
+admin-c:            SAKURANET-DN42
+tech-c:             SAKURANET-DN42
+mnt-by:             SAKURANET-MNT
+source:             DN42
+auth:               pgp-fingerprint 8BC8F00F2C2B6C67D4E54A6180FC688F83EC1870

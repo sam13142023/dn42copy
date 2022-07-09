@@ -1,0 +1,9 @@
+domain:             sakura.dn42
+admin-c:            SAKURANET-DN42
+tech-c:             SAKURANET-DN42
+mnt-by:             SAKURANET-MNT
+nserver:            ns1.sakura.dn42 172.22.162.129
+nserver:            ns1.sakura.dn42 fded:9e31:ffee::1
+nserver:            ns2.sakura.dn42 172.22.162.130
+nserver:            ns2.sakura.dn42 fded:9e31:ffee::2
+source:             DN42
