@@ -1,6 +1,6 @@
-inetnum:            172.22.98.64 - 172.22.98.127
-cidr:               172.22.98.64/26
-netname:            NONLOCALHOST-NETWORK
+inetnum:            172.22.154.64 - 172.22.154.95
+cidr:               172.22.154.64/27
+netname:            NONLOCALHOST-GLOBAL
 admin-c:            NONLOCALHOST-DN42
 tech-c:             NONLOCALHOST-DN42
 mnt-by:             NONLOCALHOST-MNT
