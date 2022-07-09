@@ -1,0 +1,9 @@
+inet6num:           fdbe:fcaf:aecf:0000:0000:0000:0000:0000 - fdbe:fcaf:aecf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbe:fcaf:aecf::/48
+status:             ASSIGNED
+netname:            0XA-NETWORK
+admin-c:            0XA-DN42
+tech-c:             0XA-DN42
+zone-c:             0XA-DN42
+mnt-by:             0XA-MNT
+source:             DN42

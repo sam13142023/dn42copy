@@ -1,0 +1,9 @@
+inetnum:            172.23.131.224 - 172.23.131.255
+cidr:               172.23.131.224/27
+netname:            0XA-NETWORK
+admin-c:            0XA-DN42
+tech-c:             0XA-DN42
+zone-c:             0XA-DN42
+status:             ASSIGNED
+mnt-by:             0XA-MNT
+source:             DN42
