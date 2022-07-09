@@ -1,0 +1,10 @@
+inetnum:            172.23.7.192 - 172.23.7.255
+cidr:               172.23.7.192/26
+country:            GB
+netname:            WOODIE-IPV4-1
+admin-c:            WOODIE-DN42
+tech-c:             WOODIE-DN42
+mnt-by:             WOODIE-MNT
+status:             ASSIGNED
+nserver:            ns1.woodie.dn42
+source:             DN42
