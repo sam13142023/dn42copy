@@ -1,0 +1,5 @@
+route6:             fdbe:fcaf:aecf::/48
+origin:             AS4242423354
+max-length:         48
+mnt-by:             0XA-MNT
+source:             DN42
