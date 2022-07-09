@@ -1,0 +1,8 @@
+domain:             woodie.dn42
+descr:              Woodie
+admin-c:            WOODIE-DN42
+tech-c:             WOODIE-DN42
+mnt-by:             WOODIE-MNT
+nserver:            ns1.woodie.dn42 172.23.7.200
+nserver:            ns1.woodie.dn42 fd36:dee8:4ab5::2
+source:             DN42

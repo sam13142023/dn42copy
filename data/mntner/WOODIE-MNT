@@ -1,0 +1,9 @@
+mntner:             WOODIE-MNT
+descr:              Woodie
+admin-c:            WOODIE-DN42
+tech-c:             WOODIE-DN42
+mnt-by:             WOODIE-MNT
+auth:               pgp-fingerprint D85FA686C9125FBD84389ACB9A1D9B826C739B9C
+abuse-mailbox:      woodie@woodie.cf
+remarks:            Peering requests contact woodie@woodie.cf
+source:             DN42
