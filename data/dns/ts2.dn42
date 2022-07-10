@@ -1,0 +1,7 @@
+domain:             ts2.dn42
+admin-c:            TS2-DN42
+tech-c:             TS2-DN42
+mnt-by:             TS2-MNT
+nserver:            ns1.ts2.dn42 172.21.106.224
+nserver:            ns1.ts2.dn42 fdd6:8e66:2604::53
+source:             DN42
