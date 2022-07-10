@@ -1,0 +1,12 @@
+inet6num:           fdd6:8e66:2604:0000:0000:0000:0000:0000 - fdd6:8e66:2604:ffff:ffff:ffff:ffff:ffff
+netname:            TS2-IPV6
+descr:              Peer with me at xinxin134679@qq.com
+country:            CN
+admin-c:            TS2-DN42
+tech-c:             TS2-DN42
+mnt-by:             TS2-MNT
+nserver:            ns1.ts2.dn42
+nserver:            ns2.ts2.dn42
+status:             ASSIGNED
+cidr:               fdd6:8e66:2604::/48
+source:             DN42

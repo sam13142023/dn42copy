@@ -1,0 +1,8 @@
+mntner:             TS2-MNT
+admin-c:            TS2-DN42
+tech-c:             TS2-DN42
+mnt-by:             TS2-MNT
+source:             DN42
+auth:               pgp-fingerprint 7A082D96E023F609BC393EB2A23206208DD2297A
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAiCskR59rV/UAvDBWqLfX163hfOAuQL3Zzg1xTx+5H2rBJcacF+SA/AnXOC2kDYlLZufTim985duJ3btx2t/5nKwDL9pCELMoiVExZALs0U15+F2yiB0Ru1KJlVpCUsUMY7vNhZUS16IjXp84xXtPHUn5FOFBDzS/7mjLVBOoL6kQICCLJrU+1jbtjzVQf30+wxV+/uQjtTqvdkhPCX4To40HMdtsBqzXGTW5T/qstn+xSqfo3FsbyQN+JoHKSBYYPxcrdxXWG0c0raD9AqafbTiO9/pdQoMvtq98s0ROmQ3FvVZV7MtaVpTOfVv+qANuI++sJTXT+qhGM+kpVPuZ9w==
+remarks:            Just For Fun!
