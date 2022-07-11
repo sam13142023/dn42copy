@@ -1,0 +1,10 @@
+inet6num:           fd0b:2727:051c:0000:0000:0000:0000:0000 - fd0b:2727:051c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:2727:51c::/48
+netname:            XINGKAI-NETWORK
+descr:              Network of XING KAI
+country:            TW
+admin-c:            XINGKAI-DN42
+tech-c:             XINGKAI-DN42
+mnt-by:             XINGKAI-MNT
+status:             ASSIGNED
+source:             DN42

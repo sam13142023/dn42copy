@@ -1,0 +1,5 @@
+route6:             fd0b:2727:51c::/48
+origin:             AS4242423732
+max-length:         48
+mnt-by:             XINGKAI-MNT
+source:             DN42
