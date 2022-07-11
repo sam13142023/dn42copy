@@ -1,6 +1,8 @@
-inet6num:           fd10:0127:0045:0000:0000:0000:0000:0000 - fd10:0127:0045:ffff:ffff:ffff:ffff:ffff
-cidr:               fd10:127:45::/48
-netname:            HJTMESH-NET
+route:              10.127.27.24/29
+max-length:         29
+origin:             AS4201270456
+origin:             AS4242420458
+origin:             AS4242422458
 admin-c:            HUAJITECH-NEONETWORK
 tech-c:             HUAJITECH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!

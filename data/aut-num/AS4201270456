@@ -1,8 +1,8 @@
 aut-num:            AS4201270456
 as-name:            HJTMESH-AS
 remarks:            HUAJITECH Mesh Network
-admin-c:            FUNNYSYC-NEONETWORK
-tech-c:             FUNNYSYC-NEONETWORK
+admin-c:            HUAJITECH-NEONETWORK
+tech-c:             HUAJITECH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
 source:             NEONETWORK

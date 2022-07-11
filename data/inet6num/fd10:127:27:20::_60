@@ -1,6 +1,6 @@
-inet6num:           fd10:0127:0045:0000:0000:0000:0000:0000 - fd10:0127:0045:ffff:ffff:ffff:ffff:ffff
-cidr:               fd10:127:45::/48
-netname:            HJTMESH-NET
+inet6num:           fd10:0127:0027:0020:0000:0000:0000:0000 - fd10:0127:0027:002f:ffff:ffff:ffff:ffff
+cidr:               fd10:127:27:20::/60
+netname:            HUAJITECH-ANYCAST
 admin-c:            HUAJITECH-NEONETWORK
 tech-c:             HUAJITECH-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
