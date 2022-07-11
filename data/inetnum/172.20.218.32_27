@@ -1,0 +1,8 @@
+inetnum:            172.20.218.32 - 172.20.218.63
+cidr:               172.20.218.32/27
+netname:            XINGKAI-NETWORK
+admin-c:            XINGKAI-DN42
+tech-c:             XINGKAI-DN42
+mnt-by:             XINGKAI-MNT
+status:             ASSIGNED
+source:             DN42

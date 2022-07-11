@@ -1,0 +1,4 @@
+route:              172.20.218.32/27
+origin:             AS4242423732
+mnt-by:             XINGKAI-MNT
+source:             DN42
