@@ -1,0 +1,5 @@
+route:              172.23.160.128/25
+descr:              BAKCHOD Network
+origin:             AS4242423526
+mnt-by:             TRK-MNT
+source:             DN42
