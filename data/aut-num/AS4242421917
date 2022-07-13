@@ -1,0 +1,7 @@
+aut-num:            AS4242421917
+as-name:            SFC9982-AS
+descr:              Peer with me at sfc9982@googles.plus
+admin-c:            SFC9982-DN42
+tech-c:             SFC9982-DN42
+mnt-by:             SFC9982-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.183.0 - 172.22.183.63
+netname:            SFC9982-IPV4
+remarks:            Peer with me at sfc9982@googles.plus
+descr:              Peer with me at sfc9982@googles.plus
+country:            CN
+admin-c:            SFC9982-DN42
+tech-c:             SFC9982-DN42
+mnt-by:             SFC9982-MNT
+status:             ASSIGNED
+cidr:               172.22.183.0/26
+source:             DN42
