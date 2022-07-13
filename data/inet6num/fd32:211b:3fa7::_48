@@ -1,0 +1,10 @@
+inet6num:           fd32:211b:3fa7:0000:0000:0000:0000:0000 - fd32:211b:3fa7:ffff:ffff:ffff:ffff:ffff
+netname:            SFC9982-IPV6
+descr:              Peer with me at sfc9982@googles.plus
+country:            CN
+admin-c:            SFC9982-DN42
+tech-c:             SFC9982-DN42
+mnt-by:             SFC9982-MNT
+status:             ASSIGNED
+cidr:               fd32:211b:3fa7::/48
+source:             DN42

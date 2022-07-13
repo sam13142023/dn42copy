@@ -1,0 +1,5 @@
+route6:             fd32:211b:3fa7::/48
+descr:              Peer with me at sfc9982@googles.plus
+origin:             AS4242421917
+mnt-by:             SFC9982-MNT
+source:             DN42
