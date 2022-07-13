@@ -1,0 +1,7 @@
+mntner:             TRK-MNT
+admin-c:            TRK-DN42
+tech-c:             TRK-DN42
+mnt-by:             TRK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKe7+0g/X2bDvrkeRHb2gRi282K91Yb7UuQx2lDRlqz1
+auth:               pgp-fingerprint 87647D1B1E04E1230ACCE1515D6E05FC33FDDD4A
+source:             DN42
