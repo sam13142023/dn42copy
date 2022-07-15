@@ -1,0 +1,8 @@
+inetnum:            172.20.231.96 - 172.20.231.127
+netname:            NETWATCH-NETWORK
+admin-c:            NETWATCH-DN42
+tech-c:             NETWATCH-DN42
+mnt-by:             NETWATCH-MNT
+status:             ASSIGNED
+cidr:               172.20.231.96/27
+source:             DN42
