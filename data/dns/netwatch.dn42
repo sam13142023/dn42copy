@@ -1,0 +1,6 @@
+domain:             netwatch.dn42
+admin-c:            NETWATCH-DN42
+tech-c:             NETWATCH-DN42
+mnt-by:             NETWATCH-MNT
+nserver:            ns1.netwatch.dn42 172.20.231.97
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             NETWATCH-MNT
+admin-c:            NETWATCH-DN42
+tech-c:             NETWATCH-DN42
+mnt-by:             NETWATCH-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAcrZODIeRZowEhiauAYlaN/ROkqA/DBZn8uM0WW8czH

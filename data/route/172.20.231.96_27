@@ -1,0 +1,4 @@
+route:              172.20.231.96/27
+origin:             AS4242422788
+mnt-by:             NETWATCH-MNT
+source:             DN42
