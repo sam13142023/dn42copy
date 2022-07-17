@@ -1,0 +1,4 @@
+route:              172.22.132.144/28
+origin:             AS4242422210
+mnt-by:             RINGO-MNT
+source:             DN42
