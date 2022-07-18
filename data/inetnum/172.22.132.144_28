@@ -1,0 +1,8 @@
+inetnum:            172.22.132.144 - 172.22.132.159
+cidr:               172.22.132.144/28
+netname:            RINGO-IPV4
+admin-c:            RINGO-DN42
+tech-c:             RINGO-DN42
+mnt-by:             RINGO-MNT
+status:             ASSIGNED
+source:             DN42

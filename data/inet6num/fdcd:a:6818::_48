@@ -1,0 +1,9 @@
+inet6num:           fdcd:000a:6818:0000:0000:0000:0000:0000 - fdcd:000a:6818:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcd:a:6818::/48
+netname:            RINGO-IPV6
+country:            PL
+status:             ASSIGNED
+admin-c:            RINGO-DN42
+tech-c:             RINGO-DN42
+mnt-by:             RINGO-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             RINGO-MNT
+admin-c:            RINGO-DN42
+tech-c:             RINGO-DN42
+mnt-by:             RINGO-MNT
+auth:               pgp-fingerprint 1C530B9245AB43AD08686DBDE2AB3F1F574C6ED1
+source:             DN42
