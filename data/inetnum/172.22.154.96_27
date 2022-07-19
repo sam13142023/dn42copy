@@ -1,0 +1,17 @@
+inetnum:            172.22.154.96 - 172.22.154.127
+cidr:               172.22.154.96/27
+netname:            KuxoNet
+remarks:            uksouth-1 static assignment testing
+remarks:            ----
+remarks:            IPs are free for assignment request connectivity to DN42 for free at https://kuxo.io/noc
+remarks:            Want to peer with KuxoNet and get international routing to Kuxo services on DN42 (no further connectivity outside KuxoNet is given)
+remarks:            Contact us at noc@kuxo.io
+remarks:            This is an EXPERIMENT, no guarantees or SLAs are given with any DN42 assignment
+remarks:            ----
+remarks:            BYOIP is available, specify dn42: infront of your prefix on your BYOIP request
+admin-c:            BRENNY-DN42
+tech-c:             BRENNY-DN42
+mnt-by:             KUXO-MNT
+org:                ORG-KUXO
+status:             ASSIGNED
+source:             DN42
