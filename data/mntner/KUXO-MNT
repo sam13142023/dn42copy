@@ -1,0 +1,7 @@
+mntner:             KUXO-MNT
+admin-c:            BRENNY-DN42
+tech-c:             BRENNY-DN42
+mnt-by:             KUXO-MNT
+auth:               pgp-fingerprint 43FB370117975AFC6BE701F1542936492D3DBE9E
+auth:               PGPKEY-2D3DBE9E
+source:             DN42

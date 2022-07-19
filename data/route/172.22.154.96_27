@@ -1,0 +1,4 @@
+route:              172.22.154.96/27
+origin:             AS4242422394
+mnt-by:             KUXO-MNT
+source:             DN42
