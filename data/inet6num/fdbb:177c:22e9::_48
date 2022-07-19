@@ -1,0 +1,10 @@
+inet6num:           fdbb:177c:22e9:0000:0000:0000:0000:0000 - fdbb:177c:22e9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbb:177c:22e9::/48
+netname:            ZIYANG-NETWORK
+descr:              Ziyang toy network
+country:            DE
+admin-c:            ZIYANG-DN42
+tech-c:             ZIYANG-DN42
+mnt-by:             ZIYANG-MNT
+status:             ASSIGNED
+source:             DN42

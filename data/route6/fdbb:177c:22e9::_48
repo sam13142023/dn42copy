@@ -1,0 +1,5 @@
+route6:             fdbb:177c:22e9::/48
+origin:             AS4242421840
+max-length:         48
+mnt-by:             ZIYANG-MNT
+source:             DN42
