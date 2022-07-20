@@ -1,0 +1,8 @@
+inet6num:           fdfc:f627:8499:0000:0000:0000:0000:0000 - fdfc:f627:8499:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:f627:8499::/48
+netname:            Amogus
+admin-c:            ORASHGLE-DN42
+tech-c:             ORASHGLE-DN42
+mnt-by:             ORASHGLE-MNT
+status:             ASSIGNED
+source:             DN42

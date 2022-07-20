@@ -1,0 +1,8 @@
+inetnum:            172.23.234.48 - 172.23.234.63
+cidr:               172.23.234.48/28
+netname:            Amogus
+admin-c:            ORASHGLE-DN42
+tech-c:             ORASHGLE-DN42
+mnt-by:             ORASHGLE-MNT
+status:             ASSIGNED
+source:             DN42
