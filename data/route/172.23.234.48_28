@@ -1,0 +1,4 @@
+route:              172.23.234.48/28
+origin:             AS4242422569
+mnt-by:             ORASHGLE-MNT
+source:             DN42
