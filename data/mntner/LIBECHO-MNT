@@ -1,0 +1,7 @@
+mntner:             LIBECHO-MNT
+admin-c:            LIBECHO-DN42
+tech-c:             LIBECHO-DN42
+mnt-by:             LIBECHO-MNT
+source:             DN42
+auth:               pgp-fingerprint 6251718B12D5F6ED360EAC27D3ED9C7CFB9E0346
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF0ZYYbmx9fQLZxfOYNA2fE8f29nkY/yoiJ3i5D8fuGL

@@ -1,0 +1,10 @@
+inet6num:           fd10:0e0b:0bb2:0000:0000:0000:0000:0000 - fd10:0e0b:0bb2:ffff:ffff:ffff:ffff:ffff
+netname:            LIBECHO-IPV6
+descr:              Tony's IP space
+country:            CN
+admin-c:            LIBECHO-DN42
+tech-c:             LIBECHO-DN42
+mnt-by:             LIBECHO-MNT
+status:             ASSIGNED
+cidr:               fd10:e0b:bb2::/48
+source:             DN42

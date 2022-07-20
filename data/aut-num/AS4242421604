@@ -1,0 +1,7 @@
+aut-num:            AS4242421604
+as-name:            LIBECHO-AS
+descr:              Tony's Main network, open to peering.
+admin-c:            LIBECHO-DN42
+tech-c:             LIBECHO-DN42
+mnt-by:             LIBECHO-MNT
+source:             DN42
