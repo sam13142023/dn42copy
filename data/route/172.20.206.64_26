@@ -1,0 +1,6 @@
+route:              172.20.206.64/26
+origin:             AS4242420361
+admin-c:            XTEX-DN42
+tech-c:             XTEX-DN42
+mnt-by:             XTEX-MNT
+source:             DN42
