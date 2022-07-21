@@ -1,0 +1,6 @@
+route6:             fd10:e0b:bb2::/48
+descr:              Tony's IP space
+origin:             AS4242421604
+origin:             AS4242421604
+mnt-by:             LIBECHO-MNT
+source:             DN42

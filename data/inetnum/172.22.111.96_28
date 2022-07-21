@@ -1,0 +1,10 @@
+inetnum:            172.22.111.96 - 172.22.111.111
+netname:            LIBECHO-IPV4
+descr:              Tony's IP space
+country:            CN
+admin-c:            LIBECHO-DN42
+tech-c:             LIBECHO-DN42
+mnt-by:             LIBECHO-MNT
+status:             ASSIGNED
+cidr:               172.22.111.96/28
+source:             DN42
