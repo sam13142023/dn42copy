@@ -6,3 +6,4 @@ mnt-by:             XTEX-MNT
 source:             DN42
 auth:               pgp-fingerprint 43D55EC7285804D1E9FEAAFB978F2E760D9DB0EB
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC9Xq225dYzTPQLc3ixSeRSlaq/8pSTAVI+flvSMMApe
+remarks:            pin-sha256:qlF/PiX6FHbApp4IFWB77zkkjpdJhQEJiOEvyBWsRkw=
