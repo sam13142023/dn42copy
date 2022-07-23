@@ -3,6 +3,7 @@ cidr:               172.20.222.224/27
 netname:            NORTHREND-NETWORK
 descr:              Northrend Networks
 org:                ORG-NORTHREND
+country:            RO
 admin-c:            FORTLESS-DN42
 tech-c:             FORTLESS-DN42
 mnt-by:             NORTHREND-MNT
