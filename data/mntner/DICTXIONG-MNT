@@ -1,0 +1,8 @@
+mntner:             DICTXIONG-MNT
+admin-c:            DICTXIONG-DN42
+tech-c:             DICTXIONG-DN42
+mnt-by:             DICTXIONG-MNT
+source:             DN42
+auth:               pgp-fingerprint 3E241558655D7FE06C6711A5A5D6250D1806CAA8
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCUN7IXF4nlFcVfgHesgik3LIAiXlVMYJPm3yD13EVarQx5jqdBgk8Dwgkgf4rPO6MFpvIpinOyEO8zOS6HHQrCLZUv5yTFaDkUuB7eQ0EmpicGbmk9bHqj1HkOZxaobkpEfQUmFKYvkp4EexVw66sO0qfXvjHZ4H6yCAJLK5aUnKfgrE8tODzP82sU/mpJjW+Pq3uanNq754gaHwhxCIXG143/zp8qzBAeKe38xVqqDq9fTkG4hvzFvkRdS88i6l1z++0P3n0HGdOjtSg7P7fO7+7ZyPYr0gO5vB720Om/zxqPrGd9cicWi4P+aVKa+0ujWH/pqufWG6uCjKWHnBs7
+remarks:            beardic.cn

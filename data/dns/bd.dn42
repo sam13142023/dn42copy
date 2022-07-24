@@ -1,0 +1,9 @@
+domain:             bd.dn42
+admin-c:            DICTXIONG-DN42
+tech-c:             DICTXIONG-DN42
+mnt-by:             DICTXIONG-MNT
+nserver:            ns1.bd.dn42 172.21.123.72
+nserver:            ns1.bd.dn42 fda5:adba:5953::ac15:7b48
+nserver:            ns2.bd.dn42 172.21.123.73
+nserver:            ns2.bd.dn42 fda5:adba:5953::ac15:7b49
+source:             DN42

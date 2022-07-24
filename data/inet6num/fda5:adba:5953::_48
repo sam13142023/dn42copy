@@ -1,0 +1,12 @@
+inet6num:           fda5:adba:5953:0000:0000:0000:0000:0000 - fda5:adba:5953:ffff:ffff:ffff:ffff:ffff
+netname:            DICTXIONG-IPV6
+descr:              Peer with me at me@beardic.cn
+country:            CN
+admin-c:            DICTXIONG-DN42
+tech-c:             DICTXIONG-DN42
+mnt-by:             DICTXIONG-MNT
+nserver:            ns1.bd.dn42
+nserver:            ns2.bd.dn42
+status:             ASSIGNED
+cidr:               fda5:adba:5953::/48
+source:             DN42
