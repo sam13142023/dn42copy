@@ -1,0 +1,10 @@
+inet6num:           fdde:6353:c2e9:0000:0000:0000:0000:0000 - fdde:6353:c2e9:ffff:ffff:ffff:ffff:ffff
+netname:            PGDN-IPV6
+descr:              Peer with me at dn42@web.sb
+country:            US
+admin-c:            PGDN-DN42
+tech-c:             PGDN-DN42
+mnt-by:             PGDN-MNT
+status:             ASSIGNED
+cidr:               fdde:6353:c2e9::/48
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             PGDN-MNT
+admin-c:            PGDN-DN42
+tech-c:             PGDN-DN42
+mnt-by:             PGDN-MNT
+source:             DN42
+auth:               pgp-fingerprint 814E88BF454C2524462C959E2E800966FF4DDDA7
+remarks:            PGDN DN42 MNT

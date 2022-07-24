@@ -1,0 +1,11 @@
+inetnum:            172.23.104.192 - 172.23.104.255
+netname:            PGDN-NET-172-23-104-192-26
+remarks:            Peer with me at dn42@web.sb
+descr:              Peer with me at dn42@web.sb
+country:            US
+admin-c:            PGDN-DN42
+tech-c:             PGDN-DN42
+mnt-by:             PGDN-MNT
+status:             ASSIGNED
+cidr:               172.23.104.192/26
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.104.192/26
+descr:              Peer with me at dn42@web.sb
+origin:             AS4242421741
+mnt-by:             PGDN-MNT
+source:             DN42
