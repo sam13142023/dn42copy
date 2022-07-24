@@ -1,6 +1,8 @@
 inetnum:            172.22.69.0 - 172.22.69.31
 cidr:               172.22.69.0/27
 netname:            TY3R0XHOME-NETWORK
+descr:              Ty3r0X's network IPv4.
+country:            RO
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
 mnt-by:             TY3R0X-MNT

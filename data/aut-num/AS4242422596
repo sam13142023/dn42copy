@@ -1,6 +1,31 @@
 aut-num:            AS4242422596
 as-name:            AS-TY3R0XHOME-DN42
+descr:              Ty3r0X's Home Network [RO]
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
 mnt-by:             TY3R0X-MNT
+remarks:            +------------------------------------------------------------+
+remarks:            |                                                            |
+remarks:            | @@@@@@@  @@@ @@@  @@@@@@   @@@@@@@    @@@@@@@@   @@@  @@@  |
+remarks:            | @@@@@@@  @@@ @@@  @@@@@@@  @@@@@@@@  @@@@@@@@@@  @@@  @@@  |
+remarks:            |   @@!    @@! !@@      @@@  @@!  @@@  @@!   @@@@  @@!  !@@  |
+remarks:            |   !@!    !@! @!!      @!@  !@!  @!@  !@!  @!@!@  !@!  @!!  |
+remarks:            |   @!!     !@!@!   @!@!!@   @!@!!@!   @!@ @! !@!   !@@!@!   |
+remarks:            |   !!!      @!!!   !!@!@!   !!@!@!    !@!!!  !!!    @!!!    |
+remarks:            |   !!:      !!:        !!:  !!: :!!   !!:!   !!!   !: :!!   |
+remarks:            |   :!:      :!:        :!:  :!:  !:!  :!:    !:!  :!:  !:!  |
+remarks:            |    ::       ::    :: ::::  ::   :::  ::::::: ::   ::  :::  |
+remarks:            |                                                            |
+remarks:            +--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//+
+remarks:            |								 |
+remarks:            |          Ty3r0X's Home Network - Open for peering          |
+remarks:            |             https://ty3r0x.chaox.ro/dn42.xhtml             |
+remarks:            |                                                            |
+remarks:            | E-mail.......: ty3r0x[at)disroot[dot)org                   |
+remarks:            | IRC (Hackint): ty3r0x_                                     |
+remarks:            | Looking Glass: 172.22.69.1:5000 / [fda7:3ae7:e04d::1]:5000 |
+remarks:            |                                                            |
+remarks:            |------------------------------------------------------------|
+remarks:            |  My only "node" is in Romania, contact me for more info!   |
+remarks:            +------------------------------------------------------------+
 source:             DN42
