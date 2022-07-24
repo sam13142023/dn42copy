@@ -1,0 +1,5 @@
+route6:             fda5:adba:5953::/48
+descr:              Peer with me at me@beardic.cn
+origin:             AS4242421366
+mnt-by:             DICTXIONG-MNT
+source:             DN42

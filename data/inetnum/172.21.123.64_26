@@ -1,0 +1,13 @@
+inetnum:            172.21.123.64 - 172.21.123.127
+netname:            DICTXIONG-IPV4
+remarks:            Peer with me at me@beardic.cn
+descr:              Peer with me at me@beardic.cn
+country:            CN
+admin-c:            DICTXIONG-DN42
+tech-c:             DICTXIONG-DN42
+mnt-by:             DICTXIONG-MNT
+nserver:            ns1.bd.dn42
+nserver:            ns2.bd.dn42
+status:             ASSIGNED
+cidr:               172.21.123.64/26
+source:             DN42
