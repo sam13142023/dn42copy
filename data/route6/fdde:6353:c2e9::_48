@@ -1,0 +1,5 @@
+route6:             fdde:6353:c2e9::/48
+descr:              Peer with me at dn42@web.sb
+origin:             AS4242421741
+mnt-by:             PGDN-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242421741
+as-name:            PGDN-AS
+descr:              Peer with me at dn42@web.sb
+admin-c:            PGDN-DN42
+tech-c:             PGDN-DN42
+mnt-by:             PGDN-MNT
+source:             DN42
