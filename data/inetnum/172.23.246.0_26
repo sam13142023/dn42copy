@@ -1,10 +1,13 @@
 inetnum:            172.23.246.0 - 172.23.246.63
 netname:            POTAT0-IPV4
-descr:              Peer with me at dn42@potat0.cc
+remarks:            Peer info: https://dn42.potat0.cc/
+descr:              Peer info: https://dn42.potat0.cc/
 country:            CN
 admin-c:            POTAT0-DN42
 tech-c:             POTAT0-DN42
 mnt-by:             POTAT0-MNT
+nserver:            ns1.potat0.dn42
 status:             ASSIGNED
 cidr:               172.23.246.0/26
+ds-rdata:           3657 13 2 0039D1E8DA560685830A7B6B06ED37A735B62A0480D0BFCB9663A84F D49D9065
 source:             DN42

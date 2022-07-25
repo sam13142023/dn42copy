@@ -1,5 +1,5 @@
 route:              172.23.246.0/26
-descr:              Peer with me at dn42@potat0.cc
+descr:              Peer info: https://dn42.potat0.cc/
 origin:             AS4242421816
 mnt-by:             POTAT0-MNT
 source:             DN42
