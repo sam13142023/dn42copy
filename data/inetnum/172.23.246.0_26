@@ -2,7 +2,6 @@ inetnum:            172.23.246.0 - 172.23.246.63
 netname:            POTAT0-IPV4
 remarks:            Peer info: https://dn42.potat0.cc/
 descr:              Peer info: https://dn42.potat0.cc/
-country:            CN
 admin-c:            POTAT0-DN42
 tech-c:             POTAT0-DN42
 mnt-by:             POTAT0-MNT
