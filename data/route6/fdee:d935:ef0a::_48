@@ -1,0 +1,5 @@
+route6:             fdee:d935:ef0a::/48
+origin:             AS4242420580
+max-length:         48
+mnt-by:             0X7F-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+domain:             0x7f.dn42
+org:                ORG-0X7F
+admin-c:            0X7F-DN42
+tech-c:             0X7F-DN42
+mnt-by:             0X7F-MNT
+nserver:            ns1.0x7f.dn42 172.20.225.60
+nserver:            ns1.0x7f.dn42 fdee:d935:ef0a:53::1
+nserver:            ns2.0x7f.dn42 172.20.225.61
+nserver:            ns2.0x7f.dn42 fdee:d935:ef0a:53::2
+source:             DN42
