@@ -1,0 +1,8 @@
+domain:             kutouakira.dn42
+admin-c:            KUTOUAKIRA-DN42
+tech-c:             KUTOUAKIRA-DN42
+mnt-by:             KUTOUAKIRA-MNT
+nserver:            ns1.kutouakira.dn42 172.23.75.2
+nserver:            ns1.kutouakira.dn42 fd28:d639:e958::2
+ds-rdata:           8109 13 2 D5AF95D38D36740BB3C195F62A4219655B4F0C986CF6801A6D1846FD D3C3756A
+source:             DN42
