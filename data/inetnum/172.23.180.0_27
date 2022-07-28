@@ -6,7 +6,7 @@ admin-c:            KONGCHENGLIGE-DN42
 tech-c:             KONGCHENGLIGE-DN42
 mnt-by:             LILY-MNT
 org:                ORG-LILY
-nserver:            ns1.lily.dn42
+nserver:            anycast.lily.dn42
 status:             ASSIGNED
 cidr:               172.23.180.0/27
 source:             DN42
