@@ -1,0 +1,9 @@
+inetnum:            172.20.225.0 - 172.20.225.31
+cidr:               172.20.225.0/27
+netname:            WEILENCE-IPV4
+admin-c:            WEILENCE-DN42
+tech-c:             WEILENCE-DN42
+mnt-by:             WEILENCE-MNT
+status:             ASSIGNED
+source:             DN42
+country:            CN

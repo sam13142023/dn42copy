@@ -1,0 +1,5 @@
+route6:             fd33:c25e:9d77::/48
+origin:             AS4242423739
+max-length:         48
+mnt-by:             WEILENCE-MNT
+source:             DN42
