@@ -1,0 +1,7 @@
+aut-num:            AS4242423739
+as-name:            WEILENCE-AS
+descr:              Weilence's network, open to peering.
+admin-c:            WEILENCE-DN42
+tech-c:             WEILENCE-DN42
+mnt-by:             WEILENCE-MNT
+source:             DN42

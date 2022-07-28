@@ -1,0 +1,10 @@
+inet6num:           fd33:c25e:9d77:0000:0000:0000:0000:0000 - fd33:c25e:9d77:ffff:ffff:ffff:ffff:ffff
+netname:            WEILENCE-IPV6
+descr:              WEILENCE IPV6
+country:            CN
+admin-c:            WEILENCE-DN42
+tech-c:             WEILENCE-DN42
+mnt-by:             WEILENCE-MNT
+status:             ASSIGNED
+cidr:               fd33:c25e:9d77::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.225.0/27
+origin:             AS4242423739
+mnt-by:             WEILENCE-MNT
+source:             DN42
