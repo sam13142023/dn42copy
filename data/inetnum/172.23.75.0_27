@@ -9,3 +9,5 @@ mnt-by:             KUTOUAKIRA-MNT
 status:             ASSIGNED
 cidr:               172.23.75.0/27
 source:             DN42
+nserver:            ns1.kutouakira.dn42
+ds-rdata:           56776 13 2 0EC2883958AD383D3000A62DA0A4CAE48A63AC46FFC14223E5176D92 2AF58013
