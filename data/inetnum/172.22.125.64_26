@@ -1,0 +1,10 @@
+inetnum:            172.22.125.64 - 172.22.125.127
+cidr:               172.22.125.64/26
+netname:            HOMEBOYC-IPV4
+descr:              Peer with me at homeboyc@foxmail.com or HomeboyC@Telegram
+country:            CN
+admin-c:            HOMEBOYC-DN42
+tech-c:             HOMEBOYC-DN42
+mnt-by:             HOMEBOYC-MNT
+status:             ASSIGNED
+source:             DN42
