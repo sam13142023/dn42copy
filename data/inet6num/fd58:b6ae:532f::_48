@@ -1,0 +1,10 @@
+inet6num:           fd58:b6ae:532f:0000:0000:0000:0000:0000 - fd58:b6ae:532f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd58:b6ae:532f::/48
+netname:            HOMEBOYC-IPV6
+descr:              Peer with me at homeboyc@foxmail.com or HomeboyC@Telegram
+country:            CN
+admin-c:            HOMEBOYC-DN42
+tech-c:             HOMEBOYC-DN42
+mnt-by:             HOMEBOYC-MNT
+status:             ASSIGNED
+source:             DN42
