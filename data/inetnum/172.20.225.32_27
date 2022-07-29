@@ -1,0 +1,11 @@
+inetnum:            172.20.225.32 - 172.20.225.63
+cidr:               172.20.225.32/27
+netname:            0X7F-NETWORK
+org:                ORG-0X7F
+admin-c:            0X7F-DN42
+tech-c:             0X7F-DN42
+mnt-by:             0X7F-MNT
+status:             ASSIGNED
+nserver:            ns1.0x7f.dn42
+nserver:            ns2.0x7f.dn42
+source:             DN42
