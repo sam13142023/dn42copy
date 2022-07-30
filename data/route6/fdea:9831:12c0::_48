@@ -1,0 +1,5 @@
+route6:             fdea:9831:12c0::/48
+origin:             AS4242420961
+max-length:         48
+mnt-by:             FRANKLI-MNT
+source:             DN42

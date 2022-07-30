@@ -1,0 +1,6 @@
+mntner:             FRANKLI-MNT
+admin-c:            FRANKLI-DN42
+tech-c:             FRANKLI-DN42
+mnt-by:             FRANKLI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKkP50vZvqIC22CKet9fV3osy4YQu1BoLFOUqto+Ko0k
+source:             DN42

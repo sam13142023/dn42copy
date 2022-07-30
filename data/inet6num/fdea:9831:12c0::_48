@@ -1,0 +1,9 @@
+inet6num:           fdea:9831:12c0:0000:0000:0000:0000:0000 - fdea:9831:12c0:ffff:ffff:ffff:ffff:ffff
+netname:            FRANKLI-NETWORK
+country:            CN
+admin-c:            FRANKLI-DN42
+tech-c:             FRANKLI-DN42
+mnt-by:             FRANKLI-MNT
+status:             ASSIGNED
+cidr:               fdea:9831:12c0::/48
+source:             DN42
