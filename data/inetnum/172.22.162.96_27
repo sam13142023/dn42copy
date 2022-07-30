@@ -7,3 +7,5 @@ mnt-by:             THERESA-MNT
 status:             ASSIGNED
 cidr:               172.22.162.96/27
 source:             DN42
+nserver:            ns1.theresa.dn42
+nserver:            ns2.theresa.dn42
