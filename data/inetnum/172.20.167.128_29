@@ -1,0 +1,11 @@
+inetnum:            172.20.167.128 - 172.20.167.135
+netname:            QWQ-IPV4
+remarks:            Peer with me at 2792512423@qq.com
+descr:              Peer with me at 2792512423@qq.com
+country:            CN
+admin-c:            QWQ-DN42
+tech-c:             QWQ-DN42
+mnt-by:             QWQ-MNT
+status:             ASSIGNED
+cidr:               172.20.167.128/29
+source:             DN42

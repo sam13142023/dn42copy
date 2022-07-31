@@ -1,0 +1,5 @@
+route6:             fda8:a1c7:3180::/48
+origin:             AS4242423363
+max-length:         48
+mnt-by:             QWQ-MNT
+source:             DN42
