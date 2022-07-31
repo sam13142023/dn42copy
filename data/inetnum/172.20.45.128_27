@@ -1,0 +1,9 @@
+inetnum:            172.20.45.128 - 172.20.45.159
+cidr:               172.20.45.128/27
+netname:            CB-V4-NET-1
+country:            US
+admin-c:            CB-DN42
+tech-c:             CB-DN42
+mnt-by:             CB-MNT
+status:             ASSIGNED
+source:             DN42
