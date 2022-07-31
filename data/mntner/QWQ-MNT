@@ -1,0 +1,8 @@
+mntner:             QWQ-MNT
+admin-c:            QWQ-DN42
+tech-c:             QWQ-DN42
+mnt-by:             QWQ-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3XcRsiFXFDRyqKTuH95zrETuZVpHLJnhDzbItFLL1ytALIlxWjQIkAm+11KhoN7KhWg8jjKoShyb4VqTF5iPMQbrL6eCGnxRjyFJon4TwCm6U1PNvvcC8spos1ib8Nz5Kbnwv9jBYzRDRxKCVGSVamNm8ovoxwDWhvHr3HUQa8T/Z6Nk1HPkozRiMIetaNPEzrels7zXmtYv5ZgmV1ochuHnqLFPRykCPFVaJpRqHCT5vo2Z2Eo8W9lVcRHMgGrsPEzG1v2tqAAh/bx2tYsm8uw3bAWls1RI8kT8JBqousiVedqEvagX1Yf3wLP8LPAI+G/t7BgoV5S5j0HAi5YIWOi0sIpRpwl++GWkRaYHK6Z+HCXVDGd5dWBEgPV1i6dHtWUr03NYsmWdBtjF4lqkeVUFRSNU/iijkCeVgC79SpHDgb0h4O9c52ktEQpuT+qQcPuK4RfdDJ/fzeSf6H0suSXaw/R4P46UIpVoBes9B2PaJ2uDqJmAmyhndsazFAiM=
+auth:               pgp-fingerprint E0BB148414690A96E0B5D138F708278B3D28336B
+remarks:            QWQ

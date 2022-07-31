@@ -1,0 +1,10 @@
+inet6num:           fda8:a1c7:3180:0000:0000:0000:0000:0000 - fda8:a1c7:3180:ffff:ffff:ffff:ffff:ffff
+cidr:               fda8:a1c7:3180::/48
+netname:            QWQ-IPv6
+descr:              Peer with me at 2792512423@qq.com
+country:            CN
+admin-c:            QWQ-DN42
+tech-c:             QWQ-DN42
+mnt-by:             QWQ-MNT
+status:             ASSIGNED
+source:             DN42
