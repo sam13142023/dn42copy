@@ -1,0 +1,6 @@
+mntner:             BSDROCKER-MNT
+admin-c:            BSDROCKER-DN42
+tech-c:             BSDROCKER-DN42
+mnt-by:             BSDROCKER-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfQ8jOXaO7E8+SDHETlpjPRJtmrcENwjtb3WSVAIAfj9qxpwvi3wYbt4+KP1wPEPN5z4MWyJG4pfKE4jwhjXG8nukTkEZDpCdV5VI6+PeQwl/7DwTYS0qnpHs3rJpkzV4wMGkyVG2Qm7pokF6rI/qmrRZ+AXpTjmSfUE7c9Ke9ys6tXTGW+ovQ6LKBTdPYmUhAPzHHKZPovnC/sBC8uO3Tugjh9rm1CykYz5Tx77uA03kBbrTgvYRAoTI/s5LgQ+ertr+l+xEiYrusO5VRZDP5Y3r3gaZ66/jmbSj1NgUSFSq57POMUkDerpbd5hGB4PeQDIRCpkn0m9D/E92UhgxN joshua.crowder@doubleverify.com
+source:             DN42
