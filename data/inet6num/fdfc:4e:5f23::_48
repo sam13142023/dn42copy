@@ -1,0 +1,9 @@
+inet6num:           fdfc:004e:5f23:0000:0000:0000:0000:0000 - fdfc:004e:5f23:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:4e:5f23::/48
+netname:            CB-V6-NET-1
+country:            US
+admin-c:            CB-DN42
+tech-c:             CB-DN42
+mnt-by:             CB-MNT
+status:             ASSIGNED
+source:             DN42
