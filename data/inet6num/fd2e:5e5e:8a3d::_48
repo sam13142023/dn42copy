@@ -1,0 +1,10 @@
+inet6num:           fd2e:5e5e:8a3d:0000:0000:0000:0000:0000 - fd2e:5e5e:8a3d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:5e5e:8a3d::/48
+netname:            BSDROCKER-NETWORK
+descr:              Network of BSDROCKER
+country:            US
+admin-c:            BSDROCKER-DN42
+tech-c:             BSDROCKER-DN42
+mnt-by:             BSDROCKER-MNT
+status:             ASSIGNED
+source:             DN42
