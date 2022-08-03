@@ -1,0 +1,5 @@
+route6:             fdee:df14:a::/48
+origin:             AS4242421861
+max-length:         48
+mnt-by:             NDS-MNT
+source:             DN42

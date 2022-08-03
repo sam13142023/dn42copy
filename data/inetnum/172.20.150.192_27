@@ -1,0 +1,10 @@
+inetnum:            172.20.150.192 - 172.20.150.223
+cidr:               172.20.150.192/27
+netname:            NDS-V4-NET-1
+descr:              v4 Network 1 of NetzDerSteine
+country:            DE
+admin-c:            NDS-DN42
+tech-c:             NDS-DN42
+mnt-by:             NDS-MNT
+status:             ASSIGNED
+source:             DN42
