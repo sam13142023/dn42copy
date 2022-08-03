@@ -1,0 +1,6 @@
+mntner:             NDS-MNT
+admin-c:            NDS-DN42
+tech-c:             NDS-DN42
+mnt-by:             NDS-MNT
+source:             DN42
+auth:               pgp-fingerprint 876BFCAB71AA5A906742A0472866F607FFDAAEA7

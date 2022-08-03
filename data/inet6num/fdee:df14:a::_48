@@ -1,0 +1,10 @@
+inet6num:           fdee:df14:000a:0000:0000:0000:0000:0000 - fdee:df14:000a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:df14:a::/48
+netname:            NDS-V6-NET-1
+descr:              v6 Network 1 of NetzDerSteine
+country:            DE
+admin-c:            NDS-DN42
+tech-c:             NDS-DN42
+mnt-by:             NDS-MNT
+status:             ASSIGNED
+source:             DN42
