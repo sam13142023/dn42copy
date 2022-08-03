@@ -1,4 +1,4 @@
-inetnum:            172.23.248.128  -  172.23.248.159
+inetnum:            172.23.248.128 - 172.23.248.159
 cidr:               172.23.248.128/27
 netname:            HAKUTAKU-IPV4
 remarks:            Peer with me at qq20099@outlook.com
