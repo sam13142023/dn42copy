@@ -1,0 +1,11 @@
+inetnum:            172.23.248.128  -  172.23.248.159
+cidr:               172.23.248.128/27
+netname:            HAKUTAKU-IPV4
+remarks:            Peer with me at qq20099@outlook.com
+descr:              Peer with me at qq20099@outlook.com
+country:            CN
+admin-c:            HAKUTAKU-DN42
+tech-c:             HAKUTAKU-DN42
+mnt-by:             HAKUTAKU-MNT
+status:             ASSIGNED
+source:             DN42
