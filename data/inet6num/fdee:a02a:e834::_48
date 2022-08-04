@@ -1,0 +1,10 @@
+inet6num:           fdee:a02a:e834:0000:0000:0000:0000:0000 - fdee:a02a:e834:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:a02a:e834::/48
+netname:            HAZAPHI-IPV6
+descr:              Hazaphi's IPv6 network.
+country:            US
+admin-c:            HAZAPHI-DN42
+tech-c:             HAZAPHI-DN42
+mnt-by:             HAZAPHI-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.69.96 - 172.22.69.127
+cidr:               172.22.69.96/27
+netname:            HAZAPHI-NETWORK
+descr:              Hazaphi's IPv4 network.
+country:            US
+admin-c:            HAZAPHI-DN42
+tech-c:             HAZAPHI-DN42
+mnt-by:             HAZAPHI-MNT
+status:             ASSIGNED
+source:             DN42
