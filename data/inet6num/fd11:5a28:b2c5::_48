@@ -1,0 +1,10 @@
+inet6num:           fd11:5a28:b2c5:0000:0000:0000:0000:0000 - fd11:5a28:b2c5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:5a28:b2c5::/48
+netname:            RAINITEY-NETWORK
+descr:              Network of RAINITEY
+country:            US
+admin-c:            RAINITEY-DN42
+tech-c:             RAINITEY-DN42
+mnt-by:             RAINITEY-MNT
+status:             ASSIGNED
+source:             DN42

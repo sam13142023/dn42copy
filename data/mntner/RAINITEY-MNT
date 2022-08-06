@@ -1,0 +1,6 @@
+mntner:             RAINITEY-MNT
+admin-c:            RAINITEY-DN42
+tech-c:             RAINITEY-DN42
+mnt-by:             RAINITEY-MNT
+auth:               pgp-fingerprint 0AA88F241E559552E6034F0D542F6187E357F7D0
+source:             DN42
