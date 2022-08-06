@@ -1,0 +1,7 @@
+mntner:             YAOYAO-MNT
+admin-c:            YAOYAO-DN42
+tech-c:             YAOYAO-DN42
+mnt-by:             YAOYAO-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQCpn7NpJl7u3fX7nS5+vQiCB4zuX+ToKKlQMpXZ2UAaselV6Q+vYpMLhweQmIR+fF47lm1ifHhwSjEvjB9Lab7463i16TaZHWnNUTtiHnHUKU4XVOZBPXgyRhRSflco+W7YVLb+DaTWRwhuu63YccQdfUYoMWNt0pbHquazwvtwGUToIEC+kS5rtp21hdVE8WHqgT0BhJzz/XcRtEFu6XGQoITOKQJEV0uWoWMXRuVqfFm1kv09PpyJK6ZlIJ8hRVLXWbUqR12/L8jj4aqAdEApwQlij2bJLecDJTEV8utO34d4TmNBBvSofCniQgmDEKu8WHb5kkjIpy2+GOxu5Z
+auth:               pgp-fingerprint C005EE435AB106DC87A7B19A65689E756F15BF2E

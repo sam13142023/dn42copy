@@ -1,0 +1,5 @@
+route:              172.20.19.192/26
+descr:              YAOYAO-IPV4-ROUTE
+origin:             AS4242420926
+mnt-by:             YAOYAO-MNT
+source:             DN42

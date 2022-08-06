@@ -1,0 +1,10 @@
+inetnum:            172.20.19.192 - 172.20.19.255
+cidr:               172.20.19.192/26
+netname:            YAOYAO-NETWORK
+descr:              YAOYAO-IPV4
+admin-c:            YAOYAO-DN42
+tech-c:             YAOYAO-DN42
+mnt-by:             YAOYAO-MNT
+country:            KR
+status:             ASSIGNED
+source:             DN42
