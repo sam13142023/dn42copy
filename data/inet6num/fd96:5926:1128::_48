@@ -1,0 +1,10 @@
+inet6num:           fd96:5926:1128:0000:0000:0000:0000:0000 - fd96:5926:1128:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:5926:1128::/48
+netname:            YAOYAO-NETWORK
+descr:              YAOYAO-IPV6
+admin-c:            YAOYAO-DN42
+tech-c:             YAOYAO-DN42
+mnt-by:             YAOYAO-MNT
+country:            KR
+status:             ASSIGNED
+source:             DN42
