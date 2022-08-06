@@ -1,0 +1,6 @@
+domain:             test-ipv6.dn42
+admin-c:            LINK2-DN42
+tech-c:             LINK2-DN42
+mnt-by:             LINK2-MNT
+nserver:            ns.link2.dn42
+source:             DN42

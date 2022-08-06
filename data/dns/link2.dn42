@@ -1,0 +1,7 @@
+domain:             link2.dn42
+admin-c:            LINK2-DN42
+tech-c:             LINK2-DN42
+mnt-by:             LINK2-MNT
+nserver:            ns.link2.dn42 172.21.109.17
+nserver:            ns.link2.dn42 fdcb:2403:3883:864::1
+source:             DN42
