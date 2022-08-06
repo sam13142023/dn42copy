@@ -1,0 +1,6 @@
+mntner:             PIKA-MNT
+admin-c:            PIKA-DN42
+tech-c:             PIKA-DN42
+mnt-by:             PIKA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJqZWyeOveC1Uxakm4ZzBRjMHSa9Gic28HQboRZj9Scb
+source:             DN42

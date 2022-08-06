@@ -1,0 +1,5 @@
+route6:             fd5e:6b4b:223c::/48
+origin:             AS4242423168
+max-length:         48
+mnt-by:             PIKA-MNT
+source:             DN42

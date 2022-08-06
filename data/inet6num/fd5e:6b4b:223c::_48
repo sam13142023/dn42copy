@@ -1,0 +1,13 @@
+inet6num:           fd5e:6b4b:223c:0000:0000:0000:0000:0000 - fd5e:6b4b:223c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:6b4b:223c::/48
+netname:            PIKA-NETWORK
+descr:              Network of Pika Lab
+country:            CA
+admin-c:            PIKA-DN42
+tech-c:             PIKA-DN42
+org:                ORG-PIKA
+mnt-by:             PIKA-MNT
+status:             ASSIGNED
+nserver:            ns1.pika.dn42
+nserver:            ns2.pika.dn42
+source:             DN42
