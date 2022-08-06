@@ -1,0 +1,4 @@
+route:              172.20.45.160/27
+origin:             AS4242423307
+mnt-by:             RAINITEY-MNT
+source:             DN42
