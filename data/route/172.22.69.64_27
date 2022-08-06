@@ -1,0 +1,4 @@
+route:              172.22.69.64/27
+origin:             AS4242423168
+mnt-by:             PIKA-MNT
+source:             DN42
