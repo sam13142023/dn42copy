@@ -1,5 +1,5 @@
-route:              172.22.108.0/26
-max-length:         29
+route:              172.22.108.0/25
+max-length:         26
 origin:             AS4242421080
 mnt-by:             JLU5-MNT
 source:             DN42
