@@ -1,0 +1,7 @@
+aut-num:            AS4242420276
+as-name:            DYLAN-AS
+descr:              Dylan AS
+admin-c:            DYLAN-DN42
+tech-c:             DYLAN-DN42
+mnt-by:             DYLAN-MNT
+source:             DN42

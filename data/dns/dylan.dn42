@@ -1,0 +1,8 @@
+domain:             dylan.dn42
+descr:              DylanWeb
+admin-c:            DYLAN-DN42
+tech-c:             DYLAN-DN42
+mnt-by:             DYLAN-MNT
+nserver:            ns1.dylan.dn42 172.22.156.193
+nserver:            ns1.dylan.dn42 fdb6:2de7:562a:7a2e::2
+source:             DN42
