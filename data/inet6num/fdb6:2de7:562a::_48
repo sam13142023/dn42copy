@@ -1,0 +1,10 @@
+inet6num:           fdb6:2de7:562a:0000:0000:0000:0000:0000 - fdb6:2de7:562a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb6:2de7:562a::/48
+netname:            DYLAN-V6-NET-1
+country:            FR
+nserver:            ns1.dylan.dn42
+admin-c:            DYLAN-DN42
+tech-c:             DYLAN-DN42
+mnt-by:             DYLAN-MNT
+status:             ASSIGNED
+source:             DN42
