@@ -1,0 +1,10 @@
+inet6num:           fd41:c44d:1c1e:0000:0000:0000:0000:0000 - fd41:c44d:1c1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:c44d:1c1e::/48
+netname:            KITEAB-NETWORK
+descr:              Network of KITEAB
+country:            CN
+admin-c:            KITEAB-DN42
+tech-c:             KITEAB-DN42
+mnt-by:             KITEAB-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd41:c44d:1c1e::/48
+origin:             AS4242421591
+max-length:         48
+mnt-by:             KITEAB-MNT
+source:             DN42

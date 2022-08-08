@@ -1,0 +1,8 @@
+inetnum:            172.23.69.192 - 172.23.69.223
+cidr:               172.23.69.192/27
+netname:            KITEAB-NETWORK
+admin-c:            KITEAB-DN42
+tech-c:             KITEAB-DN42
+mnt-by:             KITEAB-MNT
+status:             ASSIGNED
+source:             DN42
