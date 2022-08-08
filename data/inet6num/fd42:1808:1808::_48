@@ -1,0 +1,11 @@
+inet6num:           fd42:1808:1808:0000:0000:0000:0000:0000 - fd42:1808:1808:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1808:1808::/48
+netname:            RSX11-NETWORK
+descr:              rsx11.net Network
+country:            UK
+admin-c:            RSX11-DN42
+tech-c:             RSX11-DN42
+mnt-by:             RSX11-MNT
+org:                ORG-RSX11
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.142.64/27
+origin:             AS4242421808
+mnt-by:             RSX11-MNT
+source:             DN42

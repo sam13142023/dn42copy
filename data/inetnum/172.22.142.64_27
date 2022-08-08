@@ -1,0 +1,9 @@
+inetnum:            172.22.142.64 - 172.22.142.95
+cidr:               172.22.142.64/27
+netname:            RSX11-NETWORK
+admin-c:            RSX11-DN42
+tech-c:             RSX11-DN42
+mnt-by:             RSX11-MNT
+org:                ORG-RSX11
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:1808:1808::/48
+origin:             AS4242421808
+max-length:         48
+mnt-by:             RSX11-MNT
+source:             DN42
