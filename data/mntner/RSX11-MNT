@@ -1,0 +1,9 @@
+mntner:             RSX11-MNT
+descr:              rsx11 Maintenance Object
+admin-c:            RSX11-DN42
+tech-c:             RSX11-DN42
+mnt-by:             RSX11-MNT
+auth:               pgp-fingerprint F114A98F8B163FF4BEB98C5E427C7196B8DDC8A7
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDD1IxHMSDONrkscmaNjE9kQ5AWPt54v9EVBktsByQG+
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDPA5smW9iuzAyzkI0oNx2l+zxmbgp8H5qcIbUfvfY7GnBmNQZUK/G+z7nrejdK9HytXypyiQmP//6cJKht7eON1Cdd+UQvA7F982uqSb8inzTLrV/yRYMZeR51qtSOd5V1F9kmED+j/mjsA/iNAu6C6JHz92kKTzdnRf2+PahtJiY46cuQsLHDY26wOqABw+mX3ggSfjymZFXUg14VZImGSdKQr2ZKeATuXCWXI2RRtcxuGzpZzFwKrVy1NuWDhk1YtKRZsRpy3aaGBalY0r2VCy2WWyMD3gLaF2CsJc+9Irv4UZF2e5wmrHfuxvT3IAvlg1BFUXrqBUgKiQbLxjqrux7imgeIuaSdHDC3C6VwZktv4vy/z85QA79PNzFcSx82B65U5XQqU0lCpyQuyQ7RqmAi4QhhD/xmROjkuptGjYljXDHTda3ZUkhZV1gAlFqTXLYRho7GCAthQmxcp3f6RM8edliWEBgIlKcUxM3ZhhaSU353OL/yk/QdIQHDCZ0=
+source:             DN42
