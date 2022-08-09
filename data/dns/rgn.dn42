@@ -1,0 +1,8 @@
+domain:             rgn.dn42
+admin-c:            RYDERFORNOW-DN42
+tech-c:             RYDERFORNOW-DN42
+mnt-by:             RGN-MNT
+nserver:            ns1.rgn.dn42 172.20.150.254
+nserver:            ns1.rgn.dn42 fd75:20b8:dea8::f1f1
+source:             DN42
+org:                ORG-RGN

@@ -1,0 +1,5 @@
+route6:             fd75:20b8:dea8::/48
+origin:             AS4242422639
+max-length:         48
+mnt-by:             RGN-MNT
+source:             DN42
