@@ -1,5 +1,5 @@
 route6:             fdec:2606:62c0::/48
-origin:             AS4242423478
+origin:             AS4242420388
 max-length:         48
 mnt-by:             KVM-MNT
 source:             DN42
