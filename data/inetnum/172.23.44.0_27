@@ -1,0 +1,10 @@
+inetnum:            172.23.44.0 - 172.23.44.31
+netname:            AKKIA-NET
+descr:              Akkia.Network
+country:            US
+admin-c:            AKKIA-DN42
+tech-c:             AKKIA-DN42
+mnt-by:             AKKIA-MNT
+status:             ASSIGNED
+cidr:               172.23.44.0/27
+source:             DN42
