@@ -1,0 +1,10 @@
+inetnum:            172.20.41.128 - 172.20.41.159
+cidr:               172.20.41.128/27
+netname:            LEO-V4-NET-1
+country:            US
+admin-c:            LEO-DN42
+tech-c:             LEO-DN42
+mnt-by:             LEO-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.leo.dn42

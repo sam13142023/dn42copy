@@ -1,0 +1,10 @@
+inet6num:           fde2:346e:943b:0000:0000:0000:0000:0000 - fde2:346e:943b:ffff:ffff:ffff:ffff:ffff
+cidr:               fde2:346e:943b::/48
+netname:            LEO-V6-NET-1
+country:            US
+admin-c:            LEO-DN42
+tech-c:             LEO-DN42
+mnt-by:             LEO-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.leo.dn42

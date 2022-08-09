@@ -1,0 +1,7 @@
+mntner:             LEO-MNT
+admin-c:            LEO-DN42
+tech-c:             LEO-DN42
+mnt-by:             LEO-MNT
+source:             DN42
+auth:               pgp-fingerprint C8E17705F65F827D335006E9AA32539A9E90F751
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWhBXtNcmVzSDiv/peAV5gHLPrGbeOXB+nhC/e7mbkcacswB6z4Zi2ikVDXflE81ZvxO72EvA8hUzNaQ6EiLAbmAC0YIcRjLEUUePW/O13vRWts81/cNFWNj8eDNMlXskJQox1miYZ6OTq49G3UjL61eInSEKRWwOmN8QVeSIMf55QC/zlFVnofKF98PGF9h8klBu5Y95jM7BJdgUlqjICHhKzRYnyAdKAdepNFzXaPH9W60v/JblG1lUUWOocy3OSu4De26Z8sHvvlz+Cu1JufoaDAg+Ns6MNGuIUyKIRUkUEl8QjF0I/RLrnfkkp8OkyQXyi6LMq76z5ZiJ7pnjB2if049LfZNBoRVacka3uUSJlqse8ddcB8vIEjYPz6oa5QutfiDOToriicsnuna9JeoYQsIppEZeBjBsZGqi7th3N/jz28xawPjSldhDT7GEsJoxYELZiPKS5wzA1QChVVUinX6+aS1ZsOEt/tjuQrsT20VHcZVdKSwdHSuB390E=

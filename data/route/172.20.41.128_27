@@ -1,0 +1,4 @@
+route:              172.20.41.128/27
+origin:             AS4242420922
+mnt-by:             LEO-MNT
+source:             DN42
