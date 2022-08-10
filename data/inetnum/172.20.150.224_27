@@ -1,0 +1,10 @@
+inetnum:            172.20.150.224 - 172.20.150.255
+cidr:               172.20.150.224/27
+netname:            RGN-NETWORK
+admin-c:            RYDERFORNOW-DN42
+tech-c:             RYDERFORNOW-DN42
+mnt-by:             RGN-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-RGN
+nserver:            ns1.rgn.dn42

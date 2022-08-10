@@ -1,0 +1,12 @@
+inet6num:           fd75:20b8:dea8:0000:0000:0000:0000:0000 - fd75:20b8:dea8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:20b8:dea8::/48
+netname:            RGN-NETWORK
+descr:              RGN DN42 Network
+country:            CH
+admin-c:            RYDERFORNOW-DN42
+tech-c:             RYDERFORNOW-DN42
+mnt-by:             RGN-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-RGN
+nserver:            ns1.rgn.dn42
