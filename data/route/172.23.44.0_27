@@ -1,0 +1,5 @@
+route:              172.23.44.0/27
+descr:              Akkia.Network
+origin:             AS4242420502
+mnt-by:             AKKIA-MNT
+source:             DN42

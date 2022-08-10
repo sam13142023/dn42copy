@@ -1,0 +1,7 @@
+mntner:             AKKIA-MNT
+admin-c:            AKKIA-DN42
+tech-c:             AKKIA-DN42
+mnt-by:             AKKIA-MNT
+auth:               pgp-fingerprint 2C71C7D56AE24C12CC544BBC587C9E45389FF1FD
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqBxT9g1/dgCN375Utea84gKxveVFc8y6U/Wa3qjqLyVNZ9G/iLhr3VGIl9Fhz3zS6XEt5oZl+4FSGMOp7ztLofAktehUzKRmwb+PuhP8DPpVwOI4EZqXQcdRya2CBabnfCVzTsgboqnivuBpanb9lnCf+u855124spwf/GfJ7fsa3vzdNsjt98JgJG3Vh2uhQuP2CUJwIafVAZH8V4gtcyJLvNMlNjr+7360b5qTrwVc0+EhBYe4RLxaXlNTg+cphpk8fvXzEStL5ObEsHvfpkVpfRBYwTy4eUyUAfkcXoPWyJnqIto9oxDNpOYAfbdinVLmOMe7Qjge1cqACrmhb
+source:             DN42

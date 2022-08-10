@@ -1,0 +1,5 @@
+route6:             fddd:3327:f909::/48
+descr:              Akkia.Network
+origin:             AS4242420502
+mnt-by:             AKKIA-MNT
+source:             DN42

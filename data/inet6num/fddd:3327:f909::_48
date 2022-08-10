@@ -1,0 +1,10 @@
+inet6num:           fddd:3327:f909:0000:0000:0000:0000:0000 - fddd:3327:f909:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:3327:f909::/48
+netname:            AKKIA-NET
+descr:              Akkia.Network
+country:            US
+admin-c:            AKKIA-DN42
+tech-c:             AKKIA-DN42
+mnt-by:             AKKIA-MNT
+status:             ASSIGNED
+source:             DN42
