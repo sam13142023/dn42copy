@@ -1,0 +1,10 @@
+inetnum:            172.20.222.128 - 172.20.222.191
+netname:            QYZ-IPV4
+descr:              Peer with me at 1@jin-dan.site
+country:            CN
+admin-c:            QYZ-DN42
+tech-c:             QYZ-DN42
+mnt-by:             QYZ-MNT
+status:             ASSIGNED
+cidr:               172.20.222.128/26
+source:             DN42
