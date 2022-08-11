@@ -1,5 +1,11 @@
 aut-num:            AS4242422639
 as-name:            AS-RGN-DN42
+descr:              RGN
+remarks:            --- RGN on DN42 ---
+remarks:            AS Home (peering & info): as4242422639.dn42
+remarks:            Main Site: rgn.dn42
+remarks:            
+remarks:            X509 CA: https://www.ryderg.net/cryptography/
 admin-c:            RYDERFORNOW-DN42
 tech-c:             RYDERFORNOW-DN42
 org:                ORG-RGN

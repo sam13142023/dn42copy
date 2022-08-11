@@ -1,7 +1,7 @@
 inet6num:           fd75:20b8:dea8:0000:0000:0000:0000:0000 - fd75:20b8:dea8:ffff:ffff:ffff:ffff:ffff
 cidr:               fd75:20b8:dea8::/48
 netname:            RGN-NETWORK
-descr:              RGN DN42 Network
+descr:              RGN DN42 IPv6 Network
 country:            CH
 admin-c:            RYDERFORNOW-DN42
 tech-c:             RYDERFORNOW-DN42

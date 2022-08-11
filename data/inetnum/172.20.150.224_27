@@ -1,6 +1,8 @@
 inetnum:            172.20.150.224 - 172.20.150.255
 cidr:               172.20.150.224/27
 netname:            RGN-NETWORK
+descr:              RGN DN42 IPv4 Network
+country:            CH
 admin-c:            RYDERFORNOW-DN42
 tech-c:             RYDERFORNOW-DN42
 mnt-by:             RGN-MNT
