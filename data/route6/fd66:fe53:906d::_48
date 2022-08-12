@@ -1,0 +1,5 @@
+route6:             fd66:fe53:906d::/48
+origin:             AS4242420718
+max-length:         48
+mnt-by:             CRYPTOFORMORE-MNT
+source:             DN42

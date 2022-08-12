@@ -1,0 +1,12 @@
+inet6num:           fd66:fe53:906d:0000:0000:0000:0000:0000 - fd66:fe53:906d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:fe53:906d::/48
+netname:            CRYPTOFORMORE-DN42-IPV6
+remarks:            Peer with me at cryptoformore@protonmail.com
+descr:              cryptoformore network
+admin-c:            CRYPTOFORMORE-DN42
+tech-c:             CRYPTOFORMORE-DN42
+mnt-by:             CRYPTOFORMORE-MNT
+status:             ASSIGNED
+nserver:            ns1.cryptoformore.dn42
+nserver:            ns2.cryptoformore.dn42
+source:             DN42
