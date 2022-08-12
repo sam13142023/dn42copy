@@ -1,0 +1,5 @@
+route6:             fd63:5d40:47e5::/48
+origin:             AS4242423035
+max-length:         48
+mnt-by:             LARE-MNT
+source:             DN42

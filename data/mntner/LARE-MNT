@@ -1,0 +1,7 @@
+mntner:             LARE-MNT
+admin-c:            LARE-DN42
+tech-c:             LARE-DN42
+mnt-by:             LARE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJgYX0eZRNbp/+aqS3a4nq8PJr3NS1qNPAr10bRmseye lare@lare.cc
+auth:               pgp-fingerprint 8D745EB5F879864532C6C33030C10A93B8B8E9FE
+source:             DN42
