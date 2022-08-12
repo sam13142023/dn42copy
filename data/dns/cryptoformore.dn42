@@ -1,0 +1,9 @@
+domain:             cryptoformore.dn42
+admin-c:            CRYPTOFORMORE-DN42
+tech-c:             CRYPTOFORMORE-DN42
+mnt-by:             CRYPTOFORMORE-MNT
+nserver:            ns1.cryptoformore.dn42 172.20.204.129
+nserver:            ns1.cryptoformore.dn42 fd66:fe53:906d:53::1
+nserver:            ns2.cryptoformore.dn42 172.20.204.130
+nserver:            ns2.cryptoformore.dn42 fd66:fe53:906d:53::2
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.204.128/26
+origin:             AS4242420718
+mnt-by:             CRYPTOFORMORE-MNT
+source:             DN42

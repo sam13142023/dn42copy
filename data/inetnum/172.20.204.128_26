@@ -1,0 +1,13 @@
+inetnum:            172.20.204.128 - 172.20.204.191
+netname:            CRYPTOFORMORE-IPV4
+remarks:            Peer with me at cryptoformore@protonmail.com
+descr:              Peer with me at cryptoformore@protonmail.com
+country:            JP
+admin-c:            CRYPTOFORMORE-DN42
+tech-c:             CRYPTOFORMORE-DN42
+mnt-by:             CRYPTOFORMORE-MNT
+nserver:            ns1.cryptoformore.dn42
+nserver:            ns2.cryptoformore.dn42
+status:             ASSIGNED
+cidr:               172.20.204.128/26
+source:             DN42
