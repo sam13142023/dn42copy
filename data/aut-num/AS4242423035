@@ -1,0 +1,7 @@
+aut-num:            AS4242423035
+as-name:            AS-LARE-DN42
+remarks:            peering wireguard mailto:lare@lare.cc
+admin-c:            LARE-DN42
+tech-c:             LARE-DN42
+mnt-by:             LARE-MNT
+source:             DN42
