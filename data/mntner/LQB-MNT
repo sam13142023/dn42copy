@@ -2,5 +2,5 @@ mntner:             LQB-MNT
 admin-c:            LQB-DN42
 tech-c:             LQB-DN42
 mnt-by:             LQB-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIImlf5k+W6IZL6G+2yuxxL1bK6xCHERodkHIeQLmxeQb lqb@aincrad
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMFO/JKM23yiEPqyuyu910Jq6A9PgOTa8YS27eBwt0SC lqb@gmx.de
 source:             DN42
