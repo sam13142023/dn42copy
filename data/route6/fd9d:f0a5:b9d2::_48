@@ -1,0 +1,5 @@
+route6:             fd9d:f0a5:b9d2::/48
+origin:             AS4242421419
+max-length:         48
+mnt-by:             CHITANG-MNT
+source:             DN42

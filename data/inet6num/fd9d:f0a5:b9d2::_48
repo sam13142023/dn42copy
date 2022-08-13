@@ -1,0 +1,10 @@
+inet6num:           fd9d:f0a5:b9d2:0000:0000:0000:0000:0000 - fd9d:f0a5:b9d2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9d:f0a5:b9d2::/48
+netname:            CHITANG-NETWORK
+descr:              Network of Chi_Tang
+country:            CN
+admin-c:            CHITANG-DN42
+tech-c:             CHITANG-DN42
+mnt-by:             CHITANG-MNT
+status:             ASSIGNED
+source:             DN42

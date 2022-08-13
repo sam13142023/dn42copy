@@ -1,0 +1,10 @@
+inetnum:            172.20.150.144 - 172.20.150.159
+cidr:               172.20.150.144/28
+netname:            CHITANG-NETWORK
+descr:              Network of Chi_Tang
+country:            CN
+admin-c:            CHITANG-DN42
+tech-c:             CHITANG-DN42
+mnt-by:             CHITANG-MNT
+status:             ASSIGNED
+source:             DN42
