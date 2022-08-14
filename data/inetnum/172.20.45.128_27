@@ -6,4 +6,5 @@ admin-c:            CB-DN42
 tech-c:             CB-DN42
 mnt-by:             CB-MNT
 status:             ASSIGNED
+nserver:            ns1.cb.dn42
 source:             DN42
