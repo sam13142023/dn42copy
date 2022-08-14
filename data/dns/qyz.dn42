@@ -1,0 +1,7 @@
+domain:             qyz.dn42
+admin-c:            QYZ-DN42
+tech-c:             QYZ-DN42
+mnt-by:             QYZ-MNT
+nserver:            ns1.tennoji-net.dn42 172.21.101.113
+nserver:            ns1.tennoji-net.dn42 fd62:d79c:a5b9::1
+source:             DN42
