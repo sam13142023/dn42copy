@@ -1,0 +1,10 @@
+inet6num:           fd69:8989:8844:0000:0000:0000:0000:0000 - fd69:8989:8844:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:8989:8844::/48
+netname:            EV0-NET
+admin-c:            JCIRER-DN42
+tech-c:             JCIRER-DN42
+mnt-by:             JCIRER-MNT
+org:                ORG-EV0
+status:             ASSIGNED
+source:             DN42
+
