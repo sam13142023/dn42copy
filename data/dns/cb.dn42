@@ -1,0 +1,7 @@
+domain:             cb.dn42
+admin-c:            CB-DN42
+tech-c:             CB-DN42
+mnt-by:             CB-MNT
+nserver:            ns1.cb.dn42 172.20.45.129
+nserver:            ns1.cb.dn42 fdfc:4e:5f23::1
+source:             DN42
