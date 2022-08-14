@@ -1,0 +1,4 @@
+route:              172.20.150.144/28
+origin:             AS4242421419
+mnt-by:             CHITANG-MNT
+source:             DN42
