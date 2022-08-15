@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:2399:0000:0000:0000:0000:0000 - fd10:0127:2399:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:2399::/48
+netname:            QYZ-NEO-IPV6
+admin-c:            QIN-YUZHEN-NEONETWORK
+tech-c:             QIN-YUZHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
