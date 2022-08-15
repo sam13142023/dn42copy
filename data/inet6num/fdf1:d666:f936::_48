@@ -1,0 +1,7 @@
+inet6num:           fdf1:d666:f936:0000:0000:0000:0000:0000 - fdf1:d666:f936:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:d666:f936::/48
+netname:            GLDN-PPLS-NET-V6
+descr:              Golden Apples and Discordian Philosophy
+country:            CH
+mnt-by:             MALA-MNT
+source:             DN42
