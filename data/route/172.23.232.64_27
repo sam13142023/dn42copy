@@ -1,0 +1,4 @@
+route:              172.23.232.64/27
+origin:             AS4242421723
+mnt-by:             MALA-MNT
+source:             DN42

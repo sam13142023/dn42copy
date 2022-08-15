@@ -1,0 +1,6 @@
+mntner:             MALA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINW7S/sBEiAOd91vZkrx9A+/56VELlDLERNV8YYmvPvf mal-2@biggie
+admin-c:            MALA-DN42
+tech-c:             MALA-DN42
+mnt-by:             MALA-MNT
+source:             DN42

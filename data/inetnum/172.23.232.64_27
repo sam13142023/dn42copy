@@ -1,0 +1,7 @@
+inetnum:            172.23.232.64 - 172.23.232.95
+cidr:               172.23.232.64/27
+netname:            GLDN-PPLS-NET
+descr:              Golden Apples and Discordian Philosophy
+country:            CH
+mnt-by:             MALA-MNT
+source:             DN42

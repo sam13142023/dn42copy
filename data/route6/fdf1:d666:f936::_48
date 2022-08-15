@@ -1,0 +1,5 @@
+route6:             fdf1:d666:f936::/48
+origin:             AS4242421723
+max-length:         48
+mnt-by:             MALA-MNT
+source:             DN42
