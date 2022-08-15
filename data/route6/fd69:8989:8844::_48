@@ -1,0 +1,6 @@
+route6:             fd69:8989:8844::/48
+origin:             AS4242422280
+max-length:         48
+mnt-by:             JCIRER-MNT
+source:             DN42
+

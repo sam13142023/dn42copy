@@ -1,0 +1,8 @@
+mntner:             JCIRER-MNT
+admin-c:            JCIRER-DN42
+tech-c:             JCIRER-DN42
+mnt-by:             JCIRER-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJLo4GATOcE4yiX1BXWOZYWtc2j6D/KusG6fwMj9bXrf
+auth:               pgp-fingerprint 3B5A1614E0E127F11B0E2BC7F1308C008E382BC1
+org:                ORG-EV0
+source:             DN42
