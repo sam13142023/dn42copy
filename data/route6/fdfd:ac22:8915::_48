@@ -1,0 +1,5 @@
+route6:             fdfd:ac22:8915::/48
+origin:             AS4242420820
+max-length:         48
+mnt-by:             YEAHNET-MNT
+source:             DN42

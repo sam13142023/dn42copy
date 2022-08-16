@@ -1,0 +1,9 @@
+inetnum:            172.21.68.128 - 172.21.68.191
+cidr:               172.21.68.128/26
+netname:            YEAHNET-V4-NET-TURBINE
+country:            US
+admin-c:            LAMBDA-DN42
+tech-c:             LAMBDA-DN42
+mnt-by:             YEAHNET-MNT
+status:             ASSIGNED
+source:             DN42
