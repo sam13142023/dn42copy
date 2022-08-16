@@ -1,0 +1,8 @@
+inetnum:            172.23.44.32 - 172.23.44.63
+cidr:               172.23.44.32/27
+netname:            LATO-NETWORK
+admin-c:            LATO-DN42
+tech-c:             LATO-DN42
+mnt-by:             LATO-MNT
+status:             ASSIGNED
+source:             DN42

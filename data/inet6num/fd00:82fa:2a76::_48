@@ -1,0 +1,10 @@
+inet6num:           fd00:82fa:2a76:0000:0000:0000:0000:0000 - fd00:82fa:2a76:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:82fa:2a76::/48
+netname:            LATO-NETWORK
+descr:              Network of LATO
+country:            US
+admin-c:            LATO-DN42
+tech-c:             LATO-DN42
+mnt-by:             LATO-MNT
+status:             ASSIGNED
+source:             DN42

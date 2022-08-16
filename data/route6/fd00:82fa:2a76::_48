@@ -1,0 +1,5 @@
+route6:             fd00:82fa:2a76::/48
+origin:             AS4242420920
+max-length:         48
+mnt-by:             LATO-MNT
+source:             DN42
