@@ -1,0 +1,6 @@
+mntner:             SCORPION22-MNT
+admin-c:            SCORPION22-DN42
+tech-c:             SCORPION22-DN42
+mnt-by:             SCORPION22-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIADL8pho8EnQleEZcSfrf7odRjxN5DWucfsRkcF52xN2
+source:             DN42

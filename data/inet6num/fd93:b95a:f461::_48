@@ -1,0 +1,10 @@
+inet6num:           fd93:b95a:f461:0000:0000:0000:0000:0000 - fd93:b95a:f461:ffff:ffff:ffff:ffff:ffff
+netname:            SCORPION22-V6-NET1
+descr:              Scorpion22 v6 Net1
+country:            GB
+admin-c:            SCORPION22-DN42
+tech-c:             SCORPION22-DN42
+mnt-by:             SCORPION22-MNT
+status:             ASSIGNED
+cidr:               fd93:b95a:f461::/48
+source:             DN42

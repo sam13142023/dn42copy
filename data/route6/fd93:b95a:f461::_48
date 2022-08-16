@@ -1,0 +1,5 @@
+route6:             fd93:b95a:f461::/48
+origin:             AS4242422218
+max-length:         48
+mnt-by:             SCORPION22-MNT
+source:             DN42
