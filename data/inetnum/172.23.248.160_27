@@ -1,0 +1,8 @@
+inetnum:            172.23.248.160 - 172.23.248.191
+cidr:               172.23.248.160/27
+netname:            TGLAB-NETWORK
+admin-c:            TGLAB-DN42
+tech-c:             TGLAB-DN42
+mnt-by:             TGLAB-MNT
+status:             ASSIGNED
+source:             DN42
