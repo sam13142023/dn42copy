@@ -1,0 +1,10 @@
+inetnum:            172.22.142.96 - 172.22.142.127
+netname:            NET-SCORPION22-NET1
+descr:              SCORPION22-V4-NET1
+country:            GB
+admin-c:            SCORPION22-DN42
+tech-c:             SCORPION22-DN42
+mnt-by:             SCORPION22-MNT
+status:             ASSIGNED
+cidr:               172.22.142.96/27
+source:             DN42

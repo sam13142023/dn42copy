@@ -1,0 +1,9 @@
+domain:             scorpion22.dn42
+admin-c:            SCORPION22-DN42
+tech-c:             SCORPION22-DN42
+mnt-by:             SCORPION22-MNT
+nserver:            ns1.scorpion22.dn42 172.22.142.120
+nserver:            ns2.scorpion22.dn42 fd93:b95a:f461:53::1
+nserver:            ns3.scorpion22.dn42 172.22.142.121
+nserver:            ns4.scorpion22.dn42 fd93:b95a:f461:53::2
+source:             DN42
