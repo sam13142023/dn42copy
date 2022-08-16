@@ -1,0 +1,9 @@
+inet6num:           fdfd:ac22:8915:0000:0000:0000:0000:0000 - fdfd:ac22:8915:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:ac22:8915::/48
+netname:            YEAHNET-V6-NET-TURBINE
+country:            US
+admin-c:            LAMBDA-DN42
+tech-c:             LAMBDA-DN42
+mnt-by:             YEAHNET-MNT
+status:             ASSIGNED
+source:             DN42
