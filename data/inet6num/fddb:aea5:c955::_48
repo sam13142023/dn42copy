@@ -1,0 +1,10 @@
+inet6num:           fddb:aea5:c955:0000:0000:0000:0000:0000 - fddb:aea5:c955:ffff:ffff:ffff:ffff:ffff
+cidr:               fddb:aea5:c955::/48
+netname:            CRP-NETWORK
+descr:              Network of CRP
+country:            BR
+admin-c:            CRP-DN42
+tech-c:             CRP-DN42
+mnt-by:             CRP-MNT
+status:             ASSIGNED
+source:             DN42

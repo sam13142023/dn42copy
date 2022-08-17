@@ -1,0 +1,8 @@
+inetnum:            172.23.232.96 - 172.23.232.127
+cidr:               172.23.232.96/27
+netname:            CRP-NETWORK
+admin-c:            CRP-DN42
+tech-c:             CRP-DN42
+mnt-by:             CRP-MNT
+status:             ASSIGNED
+source:             DN42
