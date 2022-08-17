@@ -1,0 +1,5 @@
+route6:             fdb1:45bc:8141::/48
+descr:              telegram: SEALchan
+origin:             AS4242422774
+mnt-by:             SEALCHANPS-MNT
+source:             DN42
