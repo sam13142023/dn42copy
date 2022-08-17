@@ -1,0 +1,6 @@
+mntner:             CRP-MNT
+admin-c:            CRP-DN42
+tech-c:             CRP-DN42
+mnt-by:             CRP-MNT
+auth:               pgp-fingerprint 441C4E4BE9644230A003CFFB5D5792829AB68E13
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fddb:aea5:c955::/48
+origin:             AS4242420682
+max-length:         48
+mnt-by:             CRP-MNT
+source:             DN42
