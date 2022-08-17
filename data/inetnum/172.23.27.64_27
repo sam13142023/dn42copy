@@ -1,0 +1,10 @@
+inetnum:            172.23.27.64 - 172.23.27.95
+netname:            SEALCHANPS-NETWORK
+cidr:               172.23.27.64/27
+admin-c:            SEALCHANPS-DN42
+tech-c:             SEALCHANPS-DN42
+mnt-by:             SEALCHANPS-MNT
+status:             ASSIGNED
+source:             DN42
+remarks:            LOVE XTEX&RICKY8955555 FOREVER
+descr:              telegram: SEALchan

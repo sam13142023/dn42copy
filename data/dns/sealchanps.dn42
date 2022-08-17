@@ -1,0 +1,9 @@
+domain:             sealchanps.dn42
+admin-c:            SEALCHANPS-DN42
+tech-c:             SEALCHANPS-DN42
+mnt-by:             SEALCHANPS-MNT
+nserver:            ns1.sealchanps.dn42 172.23.44.33
+nserver:            ns1.sealchanps.dn42 fdb1:45bc:8141:0000:0000:0000:0000:0011
+nserver:            ns2.sealchanps.dn42 172.23.44.34
+nserver:            ns2.sealchanps.dn42 fdb1:45bc:8141:0000:0000:0000:0000:0012
+source:             DN42

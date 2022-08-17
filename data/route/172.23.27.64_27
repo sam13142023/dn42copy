@@ -1,0 +1,5 @@
+route:              172.23.27.64/27
+origin:             AS4242422774
+mnt-by:             SEALCHANPS-MNT
+source:             DN42
+descr:              telegram: SEALchan

@@ -1,0 +1,12 @@
+inet6num:           fdb1:45bc:8141:0000:0000:0000:0000:0000 - fdb1:45bc:8141:ffff:ffff:ffff:ffff:ffff
+netname:            SEALCHANPS-IPV6
+descr:              telegram: SEALchan
+country:            CN
+admin-c:            SEALCHANPS-DN42
+tech-c:             SEALCHANPS-DN42
+mnt-by:             SEALCHANPS-MNT
+nserver:            ns1.sealchanps.dn42
+nserver:            ns2.sealchanps.dn42
+status:             ASSIGNED
+cidr:               fdb1:45bc:8141::/48
+source:             DN42
