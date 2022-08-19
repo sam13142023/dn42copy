@@ -1,0 +1,5 @@
+route6:             fd2c:1407:860::/48
+origin:             AS4242423414
+max-length:         48
+mnt-by:             ALIOTH-MNT
+source:             DN42

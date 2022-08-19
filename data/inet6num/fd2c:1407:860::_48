@@ -1,0 +1,11 @@
+inet6num:           fd2c:1407:0860:0000:0000:0000:0000:0000 - fd2c:1407:0860:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2c:1407:860::/48
+netname:            LNXM8v6-NETWORK
+descr:              For All of Time - Always
+country:            DE
+admin-c:            ALIOTH-DN42
+tech-c:             ALIOTH-DN42
+mnt-by:             ALIOTH-MNT
+status:             ASSIGNED
+nserver:            ns1.lnxm8.dn42
+source:             DN42

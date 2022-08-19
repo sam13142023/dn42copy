@@ -1,0 +1,7 @@
+mntner:             ALIOTH-MNT
+descr:              lnxm8.dn42 https://dn42.lnxm8.net/
+admin-c:            ALIOTH-DN42
+tech-c:             ALIOTH-DN42
+auth:               pgp-fingerprint D13C748D0DF6F0671186F9E1F1BFB7A19C13E60A
+mnt-by:             ALIOTH-MNT
+source:             DN42

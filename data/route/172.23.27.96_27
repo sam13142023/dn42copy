@@ -1,0 +1,5 @@
+route:              172.23.27.96/27
+origin:             AS4242423414
+max-length:         27
+mnt-by:             ALIOTH-MNT
+source:             DN42
