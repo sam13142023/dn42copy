@@ -1,0 +1,9 @@
+domain:             keuin.dn42
+admin-c:            KEUIN-DN42
+tech-c:             KEUIN-DN42
+mnt-by:             KEUIN-MNT
+nserver:            ns1.keuin.dn42 172.23.36.66
+nserver:            ns1.keuin.dn42 fd77:7777::1
+nserver:            ns2.keuin.dn42 172.23.36.67
+nserver:            ns2.keuin.dn42 fd77:7777::2
+source:             DN42

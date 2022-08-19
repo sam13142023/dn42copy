@@ -1,0 +1,11 @@
+inet6num:           fd77:7777:0000:0000:0000:0000:0000:0000 - fd77:7777:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd77:7777::/48
+netname:            KEUIN-INET6
+descr:              Keuin's "7777" Network. Peer with me at keuinx@gmail.com
+country:            CN
+country:            US
+admin-c:            KEUIN-DN42
+tech-c:             KEUIN-DN42
+mnt-by:             KEUIN-MNT
+status:             ASSIGNED
+source:             DN42
