@@ -1,0 +1,7 @@
+domain:             lnxm8.dn42
+admin-c:            ALIOTH-DN42
+tech-c:             ALIOTH-DN42
+mnt-by:             ALIOTH-MNT
+nserver:            ns1.lnxm8.dn42 172.23.27.101
+nserver:            ns1.lnxm8.dn42 fd2c:1407:860::1
+source:             DN42
