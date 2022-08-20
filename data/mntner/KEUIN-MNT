@@ -1,0 +1,6 @@
+mntner:             KEUIN-MNT
+admin-c:            KEUIN-DN42
+tech-c:             KEUIN-DN42
+mnt-by:             KEUIN-MNT
+auth:               pgp-fingerprint c6d80210f2c0670c66c770f0817298dd3350a768
+source:             DN42

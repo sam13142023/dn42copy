@@ -1,0 +1,4 @@
+route:              172.23.36.64/27
+origin:             AS4242421966
+mnt-by:             KEUIN-MNT
+source:             DN42

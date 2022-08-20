@@ -1,0 +1,12 @@
+inetnum:            172.23.36.64 - 172.23.36.95
+cidr:               172.23.36.64/27
+netname:            KEUIN-INET
+admin-c:            KEUIN-DN42
+tech-c:             KEUIN-DN42
+mnt-by:             KEUIN-MNT
+status:             ASSIGNED
+country:            CN
+country:            US
+nserver:            ns1.keuin.dn42
+nserver:            ns2.keuin.dn42
+source:             DN42
