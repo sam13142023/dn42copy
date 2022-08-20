@@ -1,6 +1,18 @@
 aut-num:            AS4242423868
-as-name:            AS-CHIMON-DN42
+as-name:            CHIMON-NET
+descr:              Chimon Network
 admin-c:            CHIMON-DN42
 tech-c:             CHIMON-DN42
 mnt-by:             CHIMON-MNT
+remarks:            +-----------------------------------+
+remarks:            |          Chimon Network           |
+remarks:            +-----------------------------------+
+remarks:            | * Peering Policy                  |
+remarks:            |   https://dn42.cooo.cool          |
+remarks:            | * Looking Glass                   |
+remarks:            |   https://lg.dn42.cooo.cool       |
+remarks:            | * Contact:                        |
+remarks:            |     - Telegram: @Chimon89         |
+remarks:            |     - mailto: admin@cooo.cool     |
+remarks:            +-----------------------------------+
 source:             DN42
