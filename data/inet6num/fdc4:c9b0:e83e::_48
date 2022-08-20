@@ -1,7 +1,7 @@
 inet6num:           fdc4:c9b0:e83e:0000:0000:0000:0000:0000 - fdc4:c9b0:e83e:ffff:ffff:ffff:ffff:ffff
 cidr:               fdc4:c9b0:e83e::/48
 netname:            CHIMON-NETWORK
-descr:              Network COOO.COOL
+descr:              Chimon Network IPv6
 country:            CN
 admin-c:            CHIMON-DN42
 tech-c:             CHIMON-DN42

@@ -1,6 +1,8 @@
 inetnum:            172.21.65.160 - 172.21.65.191
 cidr:               172.21.65.160/27
 netname:            CHIMON-NETWORK
+descr:              Chimon Network IPv4
+country:            CN
 admin-c:            CHIMON-DN42
 tech-c:             CHIMON-DN42
 mnt-by:             CHIMON-MNT
