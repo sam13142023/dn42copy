@@ -1,0 +1,6 @@
+mntner:             KARENCILITTLE-MNT
+admin-c:            KARENCILITTLE-DN42
+tech-c:             KARENCILITTLE-DN42
+mnt-by:             KARENCILITTLE-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQtF1DUQUm2/xbJdkwT8t+uaiOOSnjM+ugKlNo/YCO5 root@racknerd-a77c0a

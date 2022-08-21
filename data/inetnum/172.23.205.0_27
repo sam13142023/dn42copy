@@ -1,0 +1,10 @@
+inetnum:            172.23.205.0 - 172.23.205.31
+netname:            KARENCILITTLE-IPV4
+descr:              Peer with me at KARENCILITTLE@gmail.com
+country:            CN
+admin-c:            KARENCILITTLE-DN42
+tech-c:             KARENCILITTLE-DN42
+mnt-by:             KARENCILITTLE-MNT
+status:             ASSIGNED
+cidr:               172.23.205.0/27
+source:             DN42
