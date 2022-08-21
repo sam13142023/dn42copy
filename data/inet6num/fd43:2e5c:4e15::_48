@@ -1,0 +1,10 @@
+inet6num:           fd43:2e5c:4e15:0000:0000:0000:0000:0000 - fd43:2e5c:4e15:ffff:ffff:ffff:ffff:ffff
+netname:            KARENCILITTLE-IPV6
+descr:              Peer with me at KARENCILITTLE@gmail.com
+country:            CN
+admin-c:            KARENCILITTLE-DN42
+tech-c:             KARENCILITTLE-DN42
+mnt-by:             KARENCILITTLE-MNT
+status:             ASSIGNED
+cidr:               fd43:2e5c:4e15::/48
+source:             DN42
