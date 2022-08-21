@@ -1,0 +1,14 @@
+inetnum:            172.23.44.128 - 172.23.44.255
+cidr:               172.23.44.128/25
+netname:            EWPRATTEN-NET
+descr:              AS398057 DN42
+country:            CA
+admin-c:            EWPRATTEN-DN42
+tech-c:             EWPRATTEN-DN42
+mnt-by:             EWPRATTEN-MNT
+nserver:            ns1.he.net
+nserver:            ns2.he.net
+nserver:            ns3.he.net
+nserver:            ns4.he.net
+status:             ASSIGNED
+source:             DN42

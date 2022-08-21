@@ -1,0 +1,6 @@
+mntner:             EWPRATTEN-MNT
+admin-c:            EWPRATTEN-DN42
+tech-c:             EWPRATTEN-DN42
+mnt-by:             EWPRATTEN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIOzWrAPgfQ9DJT8Xtx7IUkeF3usnpfEYjiy/OC853aI noc@va3zza.com
+source:             DN42

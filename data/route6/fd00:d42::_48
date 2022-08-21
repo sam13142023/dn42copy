@@ -1,0 +1,5 @@
+route6:             fd00:d42::/48
+origin:             AS398057
+max-length:         64
+mnt-by:             EWPRATTEN-MNT
+source:             DN42
