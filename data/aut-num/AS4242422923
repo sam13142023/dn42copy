@@ -1,6 +1,5 @@
 aut-num:            AS4242422923
 as-name:            AS-BANDURA-DN42
-admin-c:            MARK22K-DN42
-tech-c:             MARK22K-DN42
+org:                ORG-BC
 mnt-by:             MARK22K-MNT
 source:             DN42
