@@ -1,0 +1,5 @@
+route:              172.23.44.128/25
+origin:             AS398057
+max-length:         29
+mnt-by:             EWPRATTEN-MNT
+source:             DN42

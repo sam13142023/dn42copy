@@ -1,0 +1,14 @@
+inet6num:           fd00:0d42:0000:0000:0000:0000:0000:0000 - fd00:0d42:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:d42::/48
+netname:            EWPRATTEN-NET6
+descr:              AS398057 DN42
+country:            CA
+admin-c:            EWPRATTEN-DN42
+tech-c:             EWPRATTEN-DN42
+mnt-by:             EWPRATTEN-MNT
+nserver:            ns1.he.net
+nserver:            ns2.he.net
+nserver:            ns3.he.net
+nserver:            ns4.he.net
+status:             ASSIGNED
+source:             DN42

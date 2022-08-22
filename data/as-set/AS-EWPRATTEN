@@ -1,0 +1,8 @@
+as-set:             AS-EWPRATTEN
+descr:              AS398057 and downstreams
+members:            AS398057
+members:            AS398057:AS-DOWNSTREAMS
+admin-c:            EWPRATTEN-DN42
+tech-c:             EWPRATTEN-DN42
+mnt-by:             EWPRATTEN-MNT
+source:             DN42

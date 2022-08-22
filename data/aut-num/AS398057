@@ -1,0 +1,25 @@
+aut-num:            AS398057
+as-name:            EVAN-PRATTEN
+admin-c:            EWPRATTEN-DN42
+tech-c:             EWPRATTEN-DN42
+descr:              Evan Pratten
+remarks:            https://va3zza.com
+remarks:            -------------------------------------------------
+mp-import:          afi ipv4.unicast from AS-ANY accept ANY
+mp-export:          afi ipv4.unicast to AS-ANY announce AS-EWPRATTEN
+mp-import:          afi ipv6.unicast from AS-ANY accept ANY
+mp-export:          afi ipv6.unicast to AS-ANY announce AS-EWPRATTEN
+remarks:            -------------------------------------------------
+remarks:            AS398057 is an autonomous system under ARIN.
+remarks:            This network operates for research purposes and
+remarks:            also includes personal internet services.
+remarks:            
+remarks:            Info:     https://net.va3zza.com
+remarks:            Internet: https://bgp.tools/as/398057
+remarks:            DN42:     https://dn42.tools/as/398057
+remarks:            
+remarks:            Internet routes available upon request
+remarks:            Peering: https://www.peeringdb.com/asn/398057
+remarks:            -------------------------------------------------
+mnt-by:             EWPRATTEN-MNT
+source:             ARIN
