@@ -1,0 +1,9 @@
+inetnum:            172.23.69.224 - 172.23.69.255
+cidr:               172.23.69.224/27
+netname:            VFORT-V4-NET-1
+country:            AT
+admin-c:            VFORT-DN42
+tech-c:             VFORT-DN42
+mnt-by:             VFORT-MNT
+status:             ASSIGNED
+source:             DN42

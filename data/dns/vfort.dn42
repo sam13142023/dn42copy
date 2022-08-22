@@ -1,0 +1,7 @@
+domain:             vfort.dn42
+descr:              Vfort
+admin-c:            VFORT-DN42
+tech-c:             VFORT-DN42
+mnt-by:             VFORT-MNT
+nserver:            ns1.vfort.dn42 172.23.69.225
+source:             DN42
