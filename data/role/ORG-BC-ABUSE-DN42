@@ -1,0 +1,5 @@
+role:               Abuse contact role object
+nic-hdl:            ORG-BC-ABUSE-DN42
+abuse-mailbox:      dn42-abuse@mk16.de
+mnt-by:             MARK22K-MNT
+source:             DN42
