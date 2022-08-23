@@ -1,0 +1,9 @@
+inetnum:            172.23.205.32 - 172.23.205.63
+cidr:               172.23.205.32/27
+netname:            SHIELDY-NETWORK
+org:                ORG-SHIELDY
+admin-c:            SHIELDY-DN42
+tech-c:             SHIELDY-DN42
+mnt-by:             SHIELDY-MNT
+status:             ASSIGNED
+source:             DN42

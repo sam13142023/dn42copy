@@ -1,0 +1,5 @@
+route6:             fdc3:ac8c:8bcd::/48
+origin:             AS4242421054
+max-length:         48
+mnt-by:             SHIELDY-MNT
+source:             DN42
