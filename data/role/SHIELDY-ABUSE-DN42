@@ -1,0 +1,8 @@
+role:               SHIELDY-ABUSE-DN42
+abuse-mailbox:      abuse@shieldy.eu
+admin-c:            SHIELDY-DN42
+tech-c:             SHIELDY-DN42
+nic-hdl:            SHIELDY-ABUSE-DN42
+mnt-by:             SHIELDY-MNT
+remarks:            e-mail: lorenzo@shieldy.eu
+source:             DN42

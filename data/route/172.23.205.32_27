@@ -1,0 +1,4 @@
+route:              172.23.205.32/27
+origin:             AS4242421054
+mnt-by:             SHIELDY-MNT
+source:             DN42

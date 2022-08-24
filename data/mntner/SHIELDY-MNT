@@ -1,0 +1,7 @@
+mntner:             SHIELDY-MNT
+admin-c:            SHIELDY-DN42
+tech-c:             SHIELDY-DN42
+mnt-by:             SHIELDY-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDbtpvAKcwYDTwTShL3JqCm3O39/5R9gHYTrWlwFWg7SBOSuiGblo/5pDckSm/TrR/hwoRYkD3dDX67YWQ7zPdHuDuPHaZv19Rxe6uXOSI2MqRZL/hyxK/mU7Qny7VwjbFVcvamE4xnqO8Inag3Aow/lFsieVPOQ6FmYvo8o5L2fPYoYPKdGShtCi4qIvxk96NP+DewllTR6YsgyzShW5MvX28DGbaF/MHUyCr2ABwDZ+nnI4DNE2ymsYVn3EuvDFFg2obg5KfLG8JOWJhSnutLfhPjPVLexeCBML1t1OFnmbPhC0GHC9axOyL4ZjQTlABvB64nmwA1pn8Ug9dLIyZ8v1USWpD34L6vma/JVvnpxXuzm+HdnY4r/8VJSWMsvLOWoFB/5+f1UgnPDMbGXQCAgbrOs2Hc4+4mjGf1DpnxMVpFqY/kMA5wEvNrz5f/Wpd+dhgvvbYU3Hh9lIz3oHWsgpUr0G8MmyINdWMsjiT+B8FEXKlIgCDtbkP9hDshtM8=
+auth:               pgp-fingerprint 92983562F96A58CA6F28F9CA52A11514CFED52C0
