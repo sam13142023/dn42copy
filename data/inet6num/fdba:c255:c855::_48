@@ -1,0 +1,12 @@
+inet6num:           fdba:c255:c855:0000:0000:0000:0000:0000 - fdba:c255:c855:ffff:ffff:ffff:ffff:ffff
+cidr:               fdba:c255:c855::/48
+netname:            HYPERLAPSE-NETWORK
+descr:              Network of HyperLapse
+country:            KR
+status:             ASSIGNED
+nserver:            ns1.hyperlapse.dn42
+nserver:            ns2.hyperlapse.dn42
+admin-c:            HYPERLAPSE-DN42
+tech-c:             HYPERLAPSE-DN42
+mnt-by:             HYPERLAPSE-MNT
+source:             DN42

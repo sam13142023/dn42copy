@@ -1,0 +1,12 @@
+inetnum:            172.21.113.160 - 172.21.113.191
+cidr:               172.21.113.160/27
+netname:            HYPERLAPSE-NETWORK
+descr:              Network of HyperLapse
+country:            KR
+nserver:            ns1.hyperlapse.dn42
+nserver:            ns2.hyperlapse.dn42
+admin-c:            HYPERLAPSE-DN42
+tech-c:             HYPERLAPSE-DN42
+mnt-by:             HYPERLAPSE-MNT
+status:             ASSIGNED
+source:             DN42

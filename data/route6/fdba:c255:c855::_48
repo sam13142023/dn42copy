@@ -1,0 +1,7 @@
+route6:             fdba:c255:c855::/48
+origin:             AS4242423422
+max-length:         48
+admin-c:            HYPERLAPSE-DN42
+tech-c:             HYPERLAPSE-DN42
+mnt-by:             HYPERLAPSE-MNT
+source:             DN42
