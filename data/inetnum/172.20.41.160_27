@@ -1,0 +1,9 @@
+inetnum:            172.20.41.160 - 172.20.41.191
+cidr:               172.20.41.160/27
+netname:            SZABOALEKS-NETWORK
+country:            RO
+admin-c:            SZABOALEKS-DN42
+tech-c:             SZABOALEKS-DN42
+mnt-by:             SZABOALEKS-MNT
+status:             ASSIGNED
+source:             DN42

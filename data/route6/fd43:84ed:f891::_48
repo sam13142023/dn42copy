@@ -1,0 +1,5 @@
+route6:             fd43:84ed:f891::/48
+origin:             AS4242422316
+max-length:         48
+source:             DN42
+mnt-by:             SZABOALEKS-MNT

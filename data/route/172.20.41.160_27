@@ -1,0 +1,4 @@
+route:              172.20.41.160/27
+origin:             AS4242422316
+mnt-by:             SZABOALEKS-MNT
+source:             DN42
