@@ -1,0 +1,6 @@
+route:              172.21.113.160/27
+origin:             AS4242423422
+admin-c:            HYPERLAPSE-DN42
+tech-c:             HYPERLAPSE-DN42
+mnt-by:             HYPERLAPSE-MNT
+source:             DN42

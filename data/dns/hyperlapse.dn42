@@ -1,0 +1,9 @@
+domain:             hyperlapse.dn42
+admin-c:            HYPERLAPSE-DN42
+tech-c:             HYPERLAPSE-DN42
+mnt-by:             HYPERLAPSE-MNT
+nserver:            ns1.hyperlapse.dn42 172.21.113.161
+nserver:            ns1.hyperlapse.dn42 fdba:c255:c855:53::1
+nserver:            ns2.hyperlapse.dn42 172.21.113.162
+nserver:            ns2.hyperlapse.dn42 fdba:c255:c855:53::2
+source:             DN42
