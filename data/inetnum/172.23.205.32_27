@@ -2,8 +2,10 @@ inetnum:            172.23.205.32 - 172.23.205.63
 cidr:               172.23.205.32/27
 netname:            SHIELDY-NETWORK
 org:                ORG-SHIELDY
+descr:              IPv4 Network of Shieldy
 admin-c:            SHIELDY-DN42
 tech-c:             SHIELDY-DN42
 mnt-by:             SHIELDY-MNT
 status:             ASSIGNED
+nserver:            ns1.shieldy.dn42
 source:             DN42

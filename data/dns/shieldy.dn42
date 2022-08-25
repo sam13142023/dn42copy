@@ -1,0 +1,7 @@
+domain:             shieldy.dn42
+admin-c:            SHIELDY-DN42
+tech-c:             SHIELDY-DN42
+mnt-by:             SHIELDY-MNT
+nserver:            ns1.shieldy.dn42 172.23.205.36
+nserver:            ns1.shieldy.dn42 fdc3:ac8c:8bcd::6
+source:             DN42
