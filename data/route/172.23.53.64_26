@@ -1,0 +1,4 @@
+route:              172.23.53.64/26
+origin:             AS4242422351
+mnt-by:             WAGGLEDAME-MNT
+source:             DN42
