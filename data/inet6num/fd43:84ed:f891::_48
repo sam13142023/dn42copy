@@ -1,0 +1,9 @@
+inet6num:           fd43:84ed:f891:0000:0000:0000:0000:0000-fd43:84ed:f891:ffff:ffff:ffff:ffff:ffff
+cidr:               fd43:84ed:f891::/48
+netname:            SZABOALEKS-NETWORK
+country:            RO
+admin-c:            SZABOALEKS-DN42
+tech-c:             SZABOALEKS-DN42
+mnt-by:             SZABOALEKS-MNT
+status:             ASSIGNED
+source:             DN42
