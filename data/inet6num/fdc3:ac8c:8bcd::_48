@@ -2,10 +2,11 @@ inet6num:           fdc3:ac8c:8bcd:0000:0000:0000:0000:0000 - fdc3:ac8c:8bcd:fff
 cidr:               fdc3:ac8c:8bcd::/48
 netname:            SHIELDY-NETWORK
 org:                ORG-SHIELDY
-descr:              Network of Shieldy
+descr:              IPv6 Network of Shieldy
 country:            IT
 admin-c:            SHIELDY-DN42
 tech-c:             SHIELDY-DN42
 mnt-by:             SHIELDY-MNT
 status:             ASSIGNED
+nserver:            ns1.shieldy.dn42
 source:             DN42
