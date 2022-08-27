@@ -1,0 +1,10 @@
+inetnum:            172.22.240.96 - 172.22.240.127
+cidr:               172.22.240.96/27
+netname:            FREEMAN-INET
+admin-c:            FREEMAN-DN42
+tech-c:             FREEMAN-DN42
+mnt-by:             FREEMAN-MNT
+status:             ASSIGNED
+country:            CN
+country:            SG
+source:             DN42
