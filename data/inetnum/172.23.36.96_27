@@ -1,0 +1,9 @@
+inetnum:            172.23.36.96 - 172.23.36.127
+netname:            SILENTY4NG-IPV4
+country:            CN
+admin-c:            SILENTY4NG-DN42
+tech-c:             SILENTY4NG-DN42
+mnt-by:             SILENTY4NG-MNT
+status:             ASSIGNED
+cidr:               172.23.36.96/27
+source:             DN42
