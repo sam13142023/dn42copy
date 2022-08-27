@@ -1,0 +1,4 @@
+route:              172.22.240.96/27
+origin:             AS4242422616
+mnt-by:             FREEMAN-MNT
+source:             DN42

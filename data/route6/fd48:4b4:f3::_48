@@ -1,0 +1,5 @@
+route6:             fd48:4b4:f3::/48
+origin:             AS4242422616
+max-length:         48
+mnt-by:             FREEMAN-MNT
+source:             DN42

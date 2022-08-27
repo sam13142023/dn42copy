@@ -1,0 +1,11 @@
+inet6num:           fd48:04b4:00f3:0000:0000:0000:0000:0000 - fd48:04b4:00f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd48:4b4:f3::/48
+netname:            FREEMAN-INET6
+descr:              Freeman's Network. Peer with me at xiongchenyu6@gmail.com
+country:            CN
+country:            SG
+admin-c:            FREEMAN-DN42
+tech-c:             FREEMAN-DN42
+mnt-by:             FREEMAN-MNT
+status:             ASSIGNED
+source:             DN42
