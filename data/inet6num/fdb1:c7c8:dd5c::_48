@@ -1,0 +1,9 @@
+inet6num:           fdb1:c7c8:dd5c:0000:0000:0000:0000:0000 - fdb1:c7c8:dd5c:ffff:ffff:ffff:ffff:ffff
+netname:            SILENTY4NG-IPV6
+country:            CN
+admin-c:            SILENTY4NG-DN42
+tech-c:             SILENTY4NG-DN42
+mnt-by:             SILENTY4NG-MNT
+status:             ASSIGNED
+cidr:               fdb1:c7c8:dd5c::/48
+source:             DN42

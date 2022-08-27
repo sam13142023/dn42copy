@@ -1,0 +1,6 @@
+mntner:             SILENTY4NG-MNT
+admin-c:            SILENTY4NG-DN42
+tech-c:             SILENTY4NG-DN42
+mnt-by:             SILENTY4NG-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHrxmABvdTFsQOlVzZpdEOa9N/kfHNkn1ZBa9PcDFDL4
