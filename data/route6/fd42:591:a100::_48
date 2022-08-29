@@ -1,0 +1,5 @@
+route6:             fd42:591:a100::/48
+origin:             AS4242420591
+max-length:         48
+mnt-by:             NULLPLANE-MNT
+source:             DN42
