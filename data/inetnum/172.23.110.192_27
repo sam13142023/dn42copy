@@ -1,0 +1,9 @@
+inetnum:            172.23.110.192 - 172.23.110.223
+cidr:               172.23.110.192/27
+netname:            CLAUD-IPV4
+descr:              Claud's network of ip addresses
+admin-c:            CLAUD-DN42
+tech-c:             CLAUD-DN42
+mnt-by:             CLAUD-MNT
+status:             ASSIGNED
+source:             DN42

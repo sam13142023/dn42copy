@@ -1,0 +1,5 @@
+route:              172.23.110.192/27
+descr:              Peer with me at claudiu@traistaru.com
+origin:             AS4242423730
+mnt-by:             CLAUD-MNT
+source:             DN42
