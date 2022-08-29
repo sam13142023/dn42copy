@@ -1,0 +1,7 @@
+aut-num:            AS4242423730
+as-name:            CLAUD-AS
+descr:              Peer with me at claudiu@traistaru.com
+admin-c:            CLAUD-DN42
+tech-c:             CLAUD-DN42
+mnt-by:             CLAUD-MNT
+source:             DN42

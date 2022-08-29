@@ -1,0 +1,7 @@
+mntner:             CLAUD-MNT
+admin-c:            CLAUD-DN42
+tech-c:             CLAUD-DN42
+mnt-by:             CLAUD-MNT
+source:             DN42
+auth:               pgp-fingerprint 7372B000558C1FBC017BED8C029364B3F4A67D9C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCbusEvWS/lxnPji2zFwZW9WnOoRU2pjCqKqp4RRUqcQURHRK/tyT52FMb5kSODWiOvupMbMdc5yTN4lEoI4bF/yXnjH0/8s5A/KjvFMwdq3MjJFBZzFQTJe5NKbv3TT2Gsi0NGf6p2C2EU/ZIV2uM6sUBZ7O7HfNHOCT4DukKq+9igxo/qZI4xFgpVHAWt4q2181AYCtAjlhi3Tmokej4N5m+n0pxTPQnztffTfD7fuQuWMTkzh6m9malImJ0rz12ehzbg1Qrd+XtKrK2raeJZpeG9kO07JHtkNImpnAv8MgOBeVYT+Ain/5fpDb4fyo7mEYhHm0hiEdUihwQrcfzLv/5jcs3Uor5dqIpXAgJC+gWnEfPUiaLDuKXWWzBIgg7stYHJpk7tsLiCe6WHbXpaCfxE2Ck5wSIazOSAU9jTrL5RfFuE85OosnLCY3MCLuHn9czO7thC1TnHhbEPEZ+SbEASaMxawgpUCSGyNJOtf+gOQb616MO8MyVekQh7Kjk=
