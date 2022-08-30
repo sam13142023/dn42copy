@@ -1,0 +1,5 @@
+route6:             fdc1:4e31:4401::/48
+descr:              Peer with me at tavimori@gmail.com
+origin:             AS4242420950
+mnt-by:             TAVIMORI-MNT
+source:             DN42
