@@ -1,0 +1,5 @@
+route:              172.20.181.192/26
+descr:              Peer with me at tavimori@gmail.com
+origin:             AS4242420950
+mnt-by:             TAVIMORI-MNT
+source:             DN42

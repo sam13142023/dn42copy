@@ -1,0 +1,9 @@
+inetnum:            172.20.181.192 - 172.20.181.255
+netname:            TAVIMORI-IPV4
+country:            CN
+admin-c:            TAVIMORI-DN42
+tech-c:             TAVIMORI-DN42
+mnt-by:             TAVIMORI-MNT
+status:             ASSIGNED
+cidr:               172.20.181.192/26
+source:             DN42
