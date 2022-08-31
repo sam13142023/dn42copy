@@ -1,0 +1,5 @@
+route6:             fd2f:44ef:3d50::/48
+origin:             AS4242422072
+max-length:         48
+mnt-by:             ITMG-CLOUD-MNT
+source:             DN42
