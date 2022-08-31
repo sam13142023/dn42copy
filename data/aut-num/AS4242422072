@@ -1,0 +1,14 @@
+aut-num:            AS4242422072
+org:                ORG-ITMG-CLOUD
+as-name:            AS-ITMG-CLOUD
+descr:              ITMG-Cloud AS
+remarks:            ___ _____ __  __  ____        ____ _                 _
+remarks:            |_ _|_   _|  \/  |/ ___|      / ___| | ___  _   _  __| |
+remarks:            | |  | | | |\/| | |  _ _____| |   | |/ _ \| | | |/ _` |
+remarks:            | |  | | | |  | | |_| |_____| |___| | (_) | |_| | (_| |
+remarks:            |___| |_| |_|  |_|\____|      \____|_|\___/ \__,_|\__,_|
+remarks:            ════════════════════════════════════════════════════════
+admin-c:            MGI-DN42
+tech-c:             MGI-DN42
+mnt-by:             ITMG-CLOUD-MNT
+source:             DN42

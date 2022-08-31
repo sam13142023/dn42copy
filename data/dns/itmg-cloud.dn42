@@ -1,0 +1,8 @@
+domain:             itmg-cloud.dn42
+admin-c:            MGI-DN42
+tech-c:             MGI-DN42
+org:                ORG-ITMG-CLOUD
+mnt-by:             ITMG-CLOUD-MNT
+nserver:            ns1.itmg-cloud.dn42 fd2f:44ef:3d50:53::1
+nserver:            ns2.itmg-cloud.dn42 fd2f:44ef:3d50:53::2
+source:             DN42
