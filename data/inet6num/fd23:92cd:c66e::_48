@@ -1,0 +1,9 @@
+inet6num:           fd23:92cd:c66e:0000:0000:0000:0000:0000 - fd23:92cd:c66e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:92cd:c66e::/48
+netname:            CACH30VERFL0W-NETWORK
+country:            DE
+admin-c:            CACH30VERFL0W-DN42
+tech-c:             CACH30VERFL0W-DN42
+mnt-by:             CACH30VERFL0W-MNT
+status:             ASSIGNED
+source:             DN42
