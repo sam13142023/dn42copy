@@ -1,0 +1,10 @@
+inet6num:           fd75:2df5:c9a8:0000:0000:0000:0000:0000 - fd75:2df5:c9a8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:2df5:c9a8::/48
+netname:            AXELMORVAN-NETWORK
+descr:              Network of AXELMORVAN
+country:            FR
+admin-c:            AXELMORVAN-DN42
+tech-c:             AXELMORVAN-DN42
+mnt-by:             AXELMORVAN-MNT
+status:             ASSIGNED
+source:             DN42
