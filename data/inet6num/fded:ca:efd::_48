@@ -1,0 +1,10 @@
+inet6num:           fded:00ca:0efd:0000:0000:0000:0000:0000 - fded:00ca:0efd:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:ca:efd::/48
+netname:            TGRUEZI-NETWORK
+descr:              Network of TGRUEZI
+country:            CH
+admin-c:            TGRUEZI-DN42
+tech-c:             TGRUEZI-DN42
+mnt-by:             TGRUEZI-MNT
+status:             ASSIGNED
+source:             DN42
