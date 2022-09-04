@@ -1,0 +1,7 @@
+inet6num:           fd00:8e13:ce5d:0000:0000:0000:0000:0000 - fd00:8e13:ce5d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:8e13:ce5d::/48
+netname:            BANDURAS-LAB-NETWORK
+org:                ORG-BC
+mnt-by:             MARK22K-MNT
+status:             ASSIGNED
+source:             DN42
