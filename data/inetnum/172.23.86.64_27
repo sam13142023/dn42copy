@@ -1,0 +1,8 @@
+inetnum:            172.23.86.64 - 172.23.86.95
+cidr:               172.23.86.64/27
+netname:            ALCHEMISTNETWORKS-NETWORK
+admin-c:            ALCHEMIST-DN42
+tech-c:             ALCHEMIST-DN42
+mnt-by:             ALCHEMISTNETWORKS-MNT
+status:             ASSIGNED
+source:             DN42

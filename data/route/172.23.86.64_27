@@ -1,0 +1,4 @@
+route:              172.23.86.64/27
+origin:             AS4242420492
+mnt-by:             ALCHEMISTNETWORKS-MNT
+source:             DN42
