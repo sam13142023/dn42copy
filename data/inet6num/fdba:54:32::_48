@@ -1,0 +1,10 @@
+inet6num:           fdba:0054:0032:0000:0000:0000:0000:0000 -  fdba:0054:0032:ffff:ffff:ffff:ffff:ffff
+cidr:               fdba:54:32::/48
+netname:            NBARI-NETWORK
+descr:              Network of NBARI
+country:            CH
+admin-c:            NBARI-DN42
+tech-c:             NBARI-DN42
+mnt-by:             NBARI-MNT
+status:             ASSIGNED
+source:             DN42
