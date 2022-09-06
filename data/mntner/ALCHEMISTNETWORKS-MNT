@@ -1,0 +1,6 @@
+mntner:             ALCHEMISTNETWORKS-MNT
+admin-c:            ALCHEMIST-DN42
+tech-c:             ALCHEMIST-DN42
+mnt-by:             ALCHEMISTNETWORKS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEi/0eRG70p0l841lPfxBxvsYokRk6NOamL49raohr67 dn42chillonetworks@protonmail.com
+source:             DN42
