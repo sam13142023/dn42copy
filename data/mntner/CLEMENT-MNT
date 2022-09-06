@@ -2,5 +2,5 @@ mntner:             CLEMENT-MNT
 admin-c:            CLEMENT-DN42
 tech-c:             CLEMENT-DN42
 mnt-by:             CLEMENT-MNT
-auth:               pgp-fingerprint C747EA46E2150E9C4C5FB131F2E25F6C6109FE7E
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFTyPZl5dw++PH8NxUF1NdgeKk5TsA6rgWHQgDGF7Ur1
 source:             DN42
