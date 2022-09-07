@@ -1,6 +1,12 @@
 aut-num:            AS4242420591
 as-name:            NULLPLANE-AS
-descr:              Nullplane Network
+descr:              Nullplane
+remarks:            -------------------------------------------
+remarks:            ** Open Peering Policy **
+remarks:            Email: x@nullplane.net
+remarks:            Locations:
+remarks:            * rtr1.ord.nullplane.net - Chicago, IL, US
+remarks:            -------------------------------------------
 admin-c:            NULLPLANE-DN42
 tech-c:             NULLPLANE-DN42
 mnt-by:             NULLPLANE-MNT
