@@ -1,0 +1,4 @@
+route:              172.23.226.96/27
+origin:             AS4242421832
+mnt-by:             EAN-MNT
+source:             DN42

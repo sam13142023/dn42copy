@@ -1,0 +1,10 @@
+inet6num:           fd5b:d2c1:2ecc:0000:0000:0000:0000:0000 - fd5b:d2c1:2ecc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5b:d2c1:2ecc::/48
+netname:            EAN-NET6
+descr:              EAN net6
+country:            NO
+admin-c:            EAN-DN42
+tech-c:             EAN-DN42
+mnt-by:             EAN-MNT
+status:             ASSIGNED
+source:             DN42
