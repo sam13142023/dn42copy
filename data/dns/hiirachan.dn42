@@ -1,0 +1,6 @@
+domain:             hiirachan.dn42
+admin-c:            HIIRAGI-DN42
+tech-c:             HIIRAGI-DN42
+mnt-by:             HIIRAGI-MNT
+nserver:            ns.hiirachan.dn42 172.23.38.194
+source:             DN42

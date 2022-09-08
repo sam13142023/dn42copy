@@ -1,0 +1,9 @@
+inetnum:            172.23.38.192 - 172.23.38.223
+cidr:               172.23.38.192/27
+netname:            HIIRAGI-NETWORK
+admin-c:            HIIRAGI-DN42
+tech-c:             HIIRAGI-DN42
+mnt-by:             HIIRAGI-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns.hiirachan.dn42
