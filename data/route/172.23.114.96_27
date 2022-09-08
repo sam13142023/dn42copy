@@ -1,0 +1,5 @@
+route:              172.23.114.96/27
+descr:              lingxh ipv4
+origin:             AS4242421757
+mnt-by:             LINGXH-MNT
+source:             DN42
