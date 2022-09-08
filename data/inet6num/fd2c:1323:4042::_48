@@ -2,10 +2,12 @@ inet6num:           fd2c:1323:4042:0000:0000:0000:0000:0000 - fd2c:1323:4042:fff
 netname:            POTAT0-IPV6
 remarks:            Peer info: https://dn42.potat0.cc/
 descr:              Peer info: https://dn42.potat0.cc/
+country:            CN
 admin-c:            POTAT0-DN42
 tech-c:             POTAT0-DN42
 mnt-by:             POTAT0-MNT
 nserver:            ns1.potat0.dn42
+nserver:            ns2.potat0.dn42
 status:             ASSIGNED
 cidr:               fd2c:1323:4042::/48
 ds-rdata:           10391 13 2 EF1C0B2656C17FDC5B01680D121E61610C179FC18C9D38855973727D 6BA98C41
