@@ -1,0 +1,4 @@
+route:              172.20.216.0/26
+origin:             AS4242422512
+mnt-by:             CLEMENT-MNT
+source:             DN42
