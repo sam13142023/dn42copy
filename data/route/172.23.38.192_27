@@ -1,0 +1,5 @@
+route:              172.23.38.192/27
+origin:             AS4242422839
+mnt-by:             HIIRAGI-MNT
+source:             DN42
+descr:              Hiiragi.Network
