@@ -1,0 +1,10 @@
+inetnum:            172.23.226.96 - 172.23.226.127
+netname:            EAN-NET4
+descr:              EAN-net4
+country:            NO
+admin-c:            EAN-DN42
+tech-c:             EAN-DN42
+mnt-by:             EAN-MNT
+status:             ASSIGNED
+cidr:               172.23.226.96/27
+source:             DN42
