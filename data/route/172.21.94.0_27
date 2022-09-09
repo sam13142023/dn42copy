@@ -1,0 +1,4 @@
+route:              172.21.94.0/27
+origin:             AS4242420911
+mnt-by:             RYO-MNT
+source:             DN42
