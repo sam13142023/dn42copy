@@ -1,0 +1,10 @@
+inet6num:           fddc:d3a9:0009:0000:0000:0000:0000:0000 - fddc:d3a9:0009:ffff:ffff:ffff:ffff:ffff
+cidr:               fddc:d3a9:9::/48
+netname:            LINGXH-IPV6
+descr:              test
+country:            HK
+admin-c:            LINGXH-DN42
+tech-c:             LINGXH-DN42
+mnt-by:             LINGXH-MNT
+status:             ASSIGNED
+source:             DN42

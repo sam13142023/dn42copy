@@ -1,0 +1,5 @@
+route6:             fddc:d3a9:9::/48
+descr:              lingxh ipv6
+origin:             AS4242421757
+mnt-by:             LINGXH-MNT
+source:             DN42
