@@ -1,0 +1,7 @@
+inet6num:           fd5a:0aa2:032c:0000:0000:0000:0000:0000 - fd5a:0aa2:032c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5a:aa2:32c::/48
+netname:            CUTEL-NETWORK
+org:                ORG-CUTEL
+mnt-by:             CUTEL-MNT
+status:             ASSIGNED
+source:             DN42

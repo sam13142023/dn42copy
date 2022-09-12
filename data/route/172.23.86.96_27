@@ -1,0 +1,4 @@
+route:              172.23.86.96/27
+origin:             AS4242422883
+mnt-by:             CUTEL-MNT
+source:             DN42

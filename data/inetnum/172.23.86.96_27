@@ -1,0 +1,7 @@
+inetnum:            172.23.86.96 - 172.23.86.127
+cidr:               172.23.86.96/27
+netname:            CUTEL-NETWORK
+org:                ORG-CUTEL
+mnt-by:             CUTEL-MNT
+status:             ASSIGNED
+source:             DN42
