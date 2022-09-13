@@ -1,0 +1,5 @@
+route6:             fd5a:aa2:32c::/48
+origin:             AS4242422883
+max-length:         48
+mnt-by:             CUTEL-MNT
+source:             DN42
