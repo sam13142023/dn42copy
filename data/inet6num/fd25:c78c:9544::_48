@@ -1,0 +1,10 @@
+inet6num:           fd25:c78c:9544:0000:0000:0000:0000:0000 - fd25:c78c:9544:ffff:ffff:ffff:ffff:ffff
+netname:            OCTOMOUSE-IPV6
+descr:              Peer contact xjxyklwx@gmail.com
+country:            CN
+admin-c:            OCTOMOUSE-DN42
+tech-c:             OCTOMOUSE-DN42
+mnt-by:             OCTOMOUSE-MNT
+status:             ASSIGNED
+cidr:               fd25:c78c:9544::/48
+source:             DN42
