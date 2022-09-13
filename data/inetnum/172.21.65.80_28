@@ -1,0 +1,11 @@
+inetnum:            172.21.65.80 - 172.21.65.95
+netname:            OCTOMOUSE-IPV4
+remarks:            Peer contact xjxyklwx@gmail.com
+descr:              Peer contact xjxyklwx@gmail.com
+country:            CN
+admin-c:            OCTOMOUSE-DN42
+tech-c:             OCTOMOUSE-DN42
+mnt-by:             OCTOMOUSE-MNT
+status:             ASSIGNED
+cidr:               172.21.65.80/28
+source:             DN42
