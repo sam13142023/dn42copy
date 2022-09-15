@@ -2,6 +2,6 @@ mntner:             MERLYN-MNT
 admin-c:            MERLYN-DN42
 tech-c:             MERLYN-DN42
 mnt-by:             MERLYN-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBVLgVdqzvtDdjx9ZhLKvpuWbpjVEHaJ0yROC+dNWw0i merlyn@merlyn-Kubuntu
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBVLgVdqzvtDdjx9ZhLKvpuWbpjVEHaJ0yROC+dNWw0i merlyn@Merlyn-WorkStation
 source:             DN42
-auth:               pgp-fingerprint 0949E40A2D7D5043FC988B93F5F0B819F4919067
+auth:               pgp-fingerprint F1BD9843BA341B4E19A649B18B1945B32CA8F974

@@ -7,4 +7,5 @@ admin-c:            MERLYN-DN42
 tech-c:             MERLYN-DN42
 mnt-by:             MERLYN-MNT
 status:             ASSIGNED
+nserver:            ns1.merlyn.dn42
 source:             DN42
