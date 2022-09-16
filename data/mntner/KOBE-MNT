@@ -1,0 +1,6 @@
+mntner:             KOBE-MNT
+admin-c:            KOBE-DN42
+tech-c:             KOBE-DN42
+mnt-by:             KOBE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII5u9yJ0ssOXAnh/nJ7GDsjKuAVdka2joAe4oi9b3HPY
+source:             DN42

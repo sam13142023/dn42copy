@@ -1,0 +1,4 @@
+route:              172.21.94.32/27
+origin:             AS4242420912
+mnt-by:             KOBE-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd0d:fcde:34b0::/48
+origin:             AS4242420912
+max-length:         48
+mnt-by:             KOBE-MNT
+source:             DN42
