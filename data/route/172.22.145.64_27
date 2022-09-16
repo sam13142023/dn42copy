@@ -1,0 +1,5 @@
+route:              172.22.145.64/27
+descr:              Peer with me at MiuliKain@protonmail.ch
+origin:             AS4242421456
+mnt-by:             HHHABC-MNT
+source:             DN42

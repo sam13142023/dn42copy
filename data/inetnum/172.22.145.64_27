@@ -1,0 +1,11 @@
+inetnum:            172.22.145.64 - 172.22.145.95
+netname:            HHHABC-IPV4
+remarks:            Peer with me at MiuliKain@protonmail.ch
+descr:              Peer with me at MiuliKain@protonmail.ch
+country:            CN
+admin-c:            HHHABC-DN42
+tech-c:             HHHABC-DN42
+mnt-by:             HHHABC-MNT
+status:             ASSIGNED
+cidr:               172.22.145.64/27
+source:             DN42
