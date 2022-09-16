@@ -1,0 +1,8 @@
+inet6num:           fdc6:e4b5:7e67:0000:0000:0000:0000:0000 - fdc6:e4b5:7e67:ffff:ffff:ffff:ffff:ffff
+netname:            WL7JJ2-NET
+status:             ASSIGNED
+country:            US
+admin-c:            WL7JJ2-DN42
+mnt-by:             WL7JJ2-MNT
+cidr:               fdc6:e4b5:7e67::/48
+source:             DN42

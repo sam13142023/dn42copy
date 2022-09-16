@@ -1,0 +1,7 @@
+inetnum:            172.23.186.64 - 172.23.186.95
+cidr:               172.23.186.64/27
+netname:            WL7JJ2-NETWORK
+admin-c:            WL7JJ2-DN42
+mnt-by:             WL7JJ2-MNT
+status:             ASSIGNED
+source:             DN42
