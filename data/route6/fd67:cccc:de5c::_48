@@ -1,0 +1,5 @@
+route6:             fd67:cccc:de5c::/48
+descr:              EIGENSYSTEM v6 network
+origin:             AS4242421318
+mnt-by:             EIGENSYSTEM-MNT
+source:             DN42

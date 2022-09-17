@@ -1,0 +1,6 @@
+mntner:             EIGENSYSTEM-MNT
+admin-c:            EIGENSYSTEM-DN42
+tech-c:             EIGENSYSTEM-DN42
+mnt-by:             EIGENSYSTEM-MNT
+source:             DN42
+auth:               pgp-fingerprint 239D5B0119C6BB8C29ADBD9CF705D7FDABBD38EA

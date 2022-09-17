@@ -1,0 +1,10 @@
+inetnum:            172.23.114.64 - 172.23.114.95
+netname:            EIGENSYSTEM-IPV4
+descr:              EIGENSYSTEM Network
+country:            CN
+admin-c:            EIGENSYSTEM-DN42
+tech-c:             EIGENSYSTEM-DN42
+mnt-by:             EIGENSYSTEM-MNT
+status:             ASSIGNED
+cidr:               172.23.114.64/27
+source:             DN42
