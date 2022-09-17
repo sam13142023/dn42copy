@@ -2,6 +2,9 @@ domain:             myip.dn42
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
+mnt-by:             JLU5-MNT
+mnt-by:             MARK22K-MNT
+mnt-by:             C4TG1RL5-MNT
 nserver:            ns1.lare.dn42
-ds-rdata:           40384 8 2 7590CDE5F7F63761834C262CA331E424402A8FBEEB7906D5CA66D89BB284443E
+nserver:            ns.highdef.dn42
 source:             DN42
