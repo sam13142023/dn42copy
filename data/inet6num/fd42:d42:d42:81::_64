@@ -2,9 +2,12 @@ inet6num:           fd42:0d42:0d42:0081:0000:0000:0000:0000 - fd42:0d42:0d42:008
 cidr:               fd42:d42:d42:81::/64
 netname:            MYIP-V6
 descr:              Anycast for myip.dn42
+nserver:            ns1.lare.dn42
+nserver:            ns1.bandura.dn42
 mnt-by:             LARE-MNT
 mnt-by:             JLU5-MNT
 mnt-by:             MARK22K-MNT
 mnt-by:             C4TG1RL5-MNT
+mnt-by:             TAAVI-MNT
 status:             ASSIGNED
 source:             DN42

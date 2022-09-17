@@ -1,6 +1,8 @@
 inetnum:            172.22.149.224 - 172.22.149.255
 cidr:               172.22.149.224/27
 netname:            BANDURAS-NETWORK
+nserver:            ns1.bandura.dn42
+ds-rdata:           59978 15 2 1724B5BC51FA327C86E0595B1BB79399241A8BC91DCCEF7D09D2C8C8EBBE74B7
 org:                ORG-BC
 mnt-by:             MARK22K-MNT
 status:             ASSIGNED

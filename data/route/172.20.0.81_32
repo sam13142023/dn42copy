@@ -3,9 +3,12 @@ descr:              myip.dn42 anycast
 origin:             AS4242423035
 origin:             AS4242421080
 origin:             AS4242422923
+origin:             AS4201272923
 origin:             AS4242421411
+origin:             AS4242423271
 mnt-by:             LARE-MNT
 mnt-by:             JLU5-MNT
 mnt-by:             MARK22K-MNT
 mnt-by:             C4TG1RL5-MNT
+mnt-by:             TAAVI-MNT
 source:             DN42
