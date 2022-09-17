@@ -1,0 +1,9 @@
+inetnum:            172.21.94.32 - 172.21.94.63
+cidr:               172.21.94.32/27
+netname:            KOBE-NETWORK
+descr:              KobayashiNet
+admin-c:            KOBE-DN42
+tech-c:             KOBE-DN42
+mnt-by:             KOBE-MNT
+status:             ASSIGNED
+source:             DN42

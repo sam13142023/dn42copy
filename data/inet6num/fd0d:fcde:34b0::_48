@@ -1,0 +1,10 @@
+inet6num:           fd0d:fcde:34b0:0000:0000:0000:0000:0000 - fd0d:fcde:34b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0d:fcde:34b0::/48
+netname:            KOBE-NETWORK
+descr:              KobayashiNet
+country:            AU
+admin-c:            KOBE-DN42
+tech-c:             KOBE-DN42
+mnt-by:             KOBE-MNT
+status:             ASSIGNED
+source:             DN42
