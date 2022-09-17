@@ -1,5 +1,7 @@
 route6:             fdf4:71a1:fc81::/48
-descr:              Contact 0@04d.co or O4dco on IRC for peering.
+descr:              04dco main IPv6 network prefix route
+remarks:            Check origin whois for peering info.
 origin:             AS4242420304
+pingable:           fdf4:71a1:fc81::1
 mnt-by:             04DCO-MNT
 source:             DN42

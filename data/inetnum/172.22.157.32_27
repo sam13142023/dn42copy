@@ -1,12 +1,13 @@
 inetnum:            172.22.157.32 - 172.22.157.63
 cidr:               172.22.157.32/27
 netname:            04DCO-V4-NET-1
-remarks:            Contact 0@04d.co or O4dco on IRC for peering.
-descr:              04dco IPv4 network 1
+descr:              04dco main IPv4 network prefix
 country:            RO
 admin-c:            04DCO-DN42
 tech-c:             04DCO-DN42
 mnt-by:             04DCO-MNT
+remarks:            Check AS whois for peering info.
 nserver:            ns0.04dco.dn42
+ds-rdata:           16704 13 2 ac628ef3ba5749a2c767c8f3ca1a355d23f7b03c078ba0480901b89a446597d4
 status:             ASSIGNED
 source:             DN42

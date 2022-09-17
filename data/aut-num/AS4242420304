@@ -1,10 +1,12 @@
 aut-num:            AS4242420304
 as-name:            04DCO-AS
-remarks:            +---------------------------------+
-remarks:            |          Peering info:          |
-remarks:            |       https://04d.co/dn42       |
-remarks:            +---------------------------------+
-descr:              04dco AS
+descr:              04dco Network
+remarks:            -------------------------------------
+                    Open for peering to all networks.
+                    -------------------------------------
+                    https://lg.04d.co   (looking glass)
+                    https://04d.co/dn42 (peering details)
+                    -------------------------------------
 admin-c:            04DCO-DN42
 tech-c:             04DCO-DN42
 mnt-by:             04DCO-MNT
