@@ -1,0 +1,10 @@
+inet6num:           fd67:cccc:de5c:0000:0000:0000:0000:0000 - fd67:cccc:de5c:ffff:ffff:ffff:ffff:ffff
+netname:            EIGENSYSTEM-NETWORKV6
+descr:              Eigensystem network
+country:            CN
+admin-c:            EIGENSYSTEM-DN42
+tech-c:             EIGENSYSTEM-DN42
+mnt-by:             EIGENSYSTEM-MNT
+status:             ASSIGNED
+cidr:               fd67:cccc:de5c::/48
+source:             DN42

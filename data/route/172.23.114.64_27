@@ -1,0 +1,5 @@
+route:              172.23.114.64/27
+descr:              Eigensystem Network
+origin:             AS4242421318
+mnt-by:             EIGENSYSTEM-MNT
+source:             DN42
