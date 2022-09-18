@@ -3,6 +3,7 @@ as-name:            NULLPLANE-AS
 descr:              Nullplane
 remarks:            -------------------------------------------
 remarks:            ** Open Peering Policy **
+remarks:            Looking glass: https://dn42.nullplane.net
 remarks:            Email: x@nullplane.net
 remarks:            Locations:
 remarks:            * rtr1.ord.nullplane.net - Chicago, IL, US
