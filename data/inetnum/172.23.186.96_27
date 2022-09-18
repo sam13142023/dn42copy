@@ -1,0 +1,11 @@
+inetnum:            172.23.186.96 - 172.23.186.127
+netname:            AGOU-IPV4
+remarks:            agou's IPV4.
+descr:              agou's IPV4.
+country:            CN
+admin-c:            AGOU-DN42
+tech-c:             AGOU-DN42
+mnt-by:             AGOU-MNT
+status:             ASSIGNED
+cidr:               172.23.186.96/27
+source:             DN42

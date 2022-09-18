@@ -1,0 +1,5 @@
+route:              172.23.186.96/27
+descr:              agou's IPV4.
+origin:             AS4242421451
+mnt-by:             AGOU-MNT
+source:             DN42
