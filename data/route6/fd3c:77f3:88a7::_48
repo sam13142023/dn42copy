@@ -1,0 +1,5 @@
+route6:             fd3c:77f3:88a7::/48
+descr:              agou's IPV6.
+origin:             AS4242421451
+mnt-by:             AGOU-MNT
+source:             DN42
