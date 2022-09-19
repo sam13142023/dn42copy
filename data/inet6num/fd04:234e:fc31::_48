@@ -1,6 +1,8 @@
 inet6num:           fd04:234e:fc31:0000:0000:0000:0000:0000 - fd04:234e:fc31:ffff:ffff:ffff:ffff:ffff
 cidr:               fd04:234e:fc31::/48
 netname:            BANDURAS-NETWORK
+nserver:            ns1.bandura.dn42
+ds-rdata:           16069 15 2 43039A3ADB497785681A3BD9062E7D1985296633E6AA3E6449A8BB851FE9F06E
 org:                ORG-BC
 mnt-by:             MARK22K-MNT
 status:             ASSIGNED

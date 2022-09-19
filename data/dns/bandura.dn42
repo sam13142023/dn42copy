@@ -1,0 +1,7 @@
+domain:             bandura.dn42
+nserver:            ns1.bandura.dn42 172.22.149.242
+nserver:            ns1.bandura.dn42 fd10:127:fc31::42
+ds-rdata:           63046 15 2 19852147D23F3E9BE5D0C97901D0F9B395B1EC802755310916085CCC2444FCFA
+org:                ORG-BC
+mnt-by:             MARK22K-MNT
+source:             DN42
