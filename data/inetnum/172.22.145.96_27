@@ -1,0 +1,11 @@
+inetnum:            172.22.145.96 - 172.22.145.127
+cidr:               172.22.145.96/27
+netname:            PSALVARO-NETWORK
+admin-c:            PSALVARO-DN42
+tech-c:             PSALVARO-DN42
+mnt-by:             PSALVARO-MNT
+nserver:            ns1.psalvaro.dn42
+nserver:            ns2.psalvaro.dn42
+nserver:            ns3.psalvaro.dn42
+status:             ASSIGNED
+source:             DN42

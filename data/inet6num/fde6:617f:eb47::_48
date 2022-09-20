@@ -1,0 +1,13 @@
+inet6num:           fde6:617f:eb47:0000:0000:0000:0000:0000 - fde6:617f:eb47:ffff:ffff:ffff:ffff:ffff
+cidr:               fde6:617f:eb47::/48
+netname:            PSALVARO-NETWORK
+descr:              Network of PSALVARO
+country:            BR
+admin-c:            PSALVARO-DN42
+tech-c:             PSALVARO-DN42
+mnt-by:             PSALVARO-MNT
+nserver:            ns1.psalvaro.dn42
+nserver:            ns2.psalvaro.dn42
+nserver:            ns3.psalvaro.dn42
+status:             ASSIGNED
+source:             DN42
