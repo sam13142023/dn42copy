@@ -1,0 +1,8 @@
+domain:             sssssteve.dn42
+admin-c:            SSSSSTEVE-DN42
+tech-c:             SSSSSTEVE-DN42
+mnt-by:             SSSSSTEVE-MNT
+nserver:            ns1.sssssteve.dn42 172.23.15.18
+nserver:            ns1.sssssteve.dn42 fdd7:1500:c813::2
+ds-rdata:           17744 13 2 DE0815CB72D85CCF49E5A7A7776FFAADC75AB1A045ABEA1B71ABC2BD CC24C167
+source:             DN42
