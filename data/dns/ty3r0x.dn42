@@ -1,0 +1,7 @@
+domain:             ty3r0x.dn42
+admin-c:            TY3R0X-DN42
+tech-c:             TY3R0X-DN42
+mnt-by:             TY3R0X-MNT
+nserver:            b0l3yah-prototype.ty3r0x.dn42 172.22.69.1
+nserver:            b0l3yah-prototype.ty3r0x.dn42 fda7:3ae7:e04d::1
+source:             DN42
