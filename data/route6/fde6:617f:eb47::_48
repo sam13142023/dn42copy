@@ -1,0 +1,5 @@
+route6:             fde6:617f:eb47::/48
+origin:             AS4242421504
+max-length:         48
+mnt-by:             PSALVARO-MNT
+source:             DN42

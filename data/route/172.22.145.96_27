@@ -1,0 +1,4 @@
+route:              172.22.145.96/27
+origin:             AS4242421504
+mnt-by:             PSALVARO-MNT
+source:             DN42

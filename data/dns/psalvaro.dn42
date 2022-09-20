@@ -1,0 +1,11 @@
+domain:             psalvaro.dn42
+admin-c:            PSALVARO-DN42
+tech-c:             PSALVARO-DN42
+mnt-by:             PSALVARO-MNT
+nserver:            ns1.psalvaro.dn42 172.22.145.97
+nserver:            ns1.psalvaro.dn42 fde6:617f:eb47::1
+nserver:            ns2.psalvaro.dn42 172.22.145.98
+nserver:            ns2.psalvaro.dn42 fde6:617f:eb47::2
+nserver:            ns3.psalvaro.dn42 172.22.145.99
+nserver:            ns3.psalvaro.dn42 fde6:617f:eb47::3
+source:             DN42
