@@ -7,3 +7,5 @@ mnt-by:             SSSSSTEVE-MNT
 status:             ASSIGNED
 cidr:               fdd7:1500:c813::/48
 source:             DN42
+nserver:            ns1.sssssteve.dn42
+ds-rdata:           59319 13 2 17D93A2B96A3AD6ED73E053E8805BCF8B56AA26ED33AEC343BAD7C4D 75D2B223
