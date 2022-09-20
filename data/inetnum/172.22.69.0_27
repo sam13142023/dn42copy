@@ -3,6 +3,7 @@ cidr:               172.22.69.0/27
 netname:            TY3R0XHOME-NETWORK
 descr:              Ty3r0X's network IPv4.
 country:            RO
+nserver:            b0l3yah-prototype.ty3r0x.dn42
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
 mnt-by:             TY3R0X-MNT
