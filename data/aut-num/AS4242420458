@@ -1,6 +1,7 @@
 aut-num:            AS4242420458
 as-name:            HUAJINET
 descr:              HUAJINET DN42 Networks
+remarks:            www.huajinet.org
 admin-c:            FUNNYSYC-DN42
 tech-c:             FUNNYSYC-DN42
 org:                ORG-HUAJITECH
