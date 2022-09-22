@@ -1,0 +1,5 @@
+route6:             fddd:622:e1::/48
+origin:             AS4242423153
+max-length:         48
+mnt-by:             MARROLD-MNT
+source:             DN42

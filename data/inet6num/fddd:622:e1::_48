@@ -1,0 +1,8 @@
+inet6num:           fddd:0622:00e1:0000:0000:0000:0000:0000 - fddd:0622:00e1:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:622:e1::/48
+netname:            MARROLD-NETWORK
+admin-c:            MARROLD-DN42
+tech-c:             MARROLD-DN42
+mnt-by:             MARROLD-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.39.64 - 172.23.39.95
+cidr:               172.23.39.64/27
+netname:            MARROLD-NETWORK
+admin-c:            MARROLD-DN42
+tech-c:             MARROLD-DN42
+mnt-by:             MARROLD-MNT
+status:             ASSIGNED
+source:             DN42
