@@ -1,0 +1,5 @@
+route6:             fd51:fca7:cafe::/48
+descr:              SiliconForest IPV6
+origin:             AS4242421303
+mnt-by:             SILICONFOREST-MNT
+source:             DN42

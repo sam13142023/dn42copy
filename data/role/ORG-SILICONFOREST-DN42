@@ -1,0 +1,10 @@
+role:               ORG-SILICONFOREST-DN42
+nic-hdl:            ORG-SILICONFOREST-DN42
+mnt-by:             SILICONFOREST-MNT
+mnt-by:             PERILLAMINT-MNT
+org:                ORG-SILICONFOREST
+admin-c:            PERILLAMINT-DN42
+abuse-c:            PERILLAMINT-DN42
+tech-c:             PERILLAMINT-DN42
+abuse-mailbox:      noc@silicon.moe
+source:             DN42

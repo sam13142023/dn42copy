@@ -1,0 +1,5 @@
+route:              172.20.222.64/26
+descr:              SiliconForest IPV4
+origin:             AS4242421303
+mnt-by:             SILICONFOREST-MNT
+source:             DN42

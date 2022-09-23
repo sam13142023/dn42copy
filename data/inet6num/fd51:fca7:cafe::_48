@@ -1,0 +1,11 @@
+inet6num:           fd51:fca7:cafe:0000:0000:0000:0000:0000 - fd51:fca7:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd51:fca7:cafe::/48
+netname:            SILICONFOREST-IPV6
+org:                ORG-SILICONFOREST
+country:            KR
+descr:              SILICONFOREST-V6 fd51:fca7:cafe::/48 block
+status:             ASSIGNED
+admin-c:            ORG-SILICONFOREST-DN42
+tech-c:             ORG-SILICONFOREST-DN42
+mnt-by:             SILICONFOREST-MNT
+source:             DN42

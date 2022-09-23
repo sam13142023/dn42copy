@@ -1,0 +1,11 @@
+organisation:       ORG-SILICONFOREST
+org-name:           SILICONFOREST-ORG
+descr:              SiliconForest
+admin-c:            ORG-SILICONFOREST-DN42
+tech-c:             ORG-SILICONFOREST-DN42
+abuse-c:            ORG-SILICONFOREST-DN42
+mnt-by:             PERILLAMINT-MNT
+mnt-by:             SILICONFOREST-MNT
+www:                https://silicon.moe
+e-mail:             noc@silicon.moe
+source:             DN42

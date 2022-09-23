@@ -1,0 +1,11 @@
+inetnum:            172.20.222.64 - 172.20.222.127
+cidr:               172.20.222.64/26
+netname:            SILICONFOREST-IPV4
+org:                ORG-SILICONFOREST
+country:            KR
+descr:              SILICONFOREST-V4 172.20.222.64/26 block
+status:             ASSIGNED
+admin-c:            ORG-SILICONFOREST-DN42
+tech-c:             ORG-SILICONFOREST-DN42
+mnt-by:             SILICONFOREST-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             PERILLAMINT-MNT
+admin-c:            PERILLAMINT-DN42
+tech-c:             PERILLAMINT-DN42
+mnt-by:             PERILLAMINT-MNT
+source:             DN42
+auth:               pgp-fingerprint 00120513451AAC4DEFE2832711AB9E784263E186

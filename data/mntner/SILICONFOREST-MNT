@@ -1,0 +1,9 @@
+mntner:             SILICONFOREST-MNT
+descr:              SiliconForest
+admin-c:            ORG-SILICONFOREST-DN42
+tech-c:             ORG-SILICONFOREST-DN42
+mnt-by:             SILICONFOREST-MNT
+mnt-by:             PERILLAMINT-MNT
+auth:               pgp-fingerprint AAD06C80C99DAECCD17C1830DA39FC6CB50ECC9F
+org:                ORG-SILICONFOREST
+source:             DN42
