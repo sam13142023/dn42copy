@@ -1,0 +1,4 @@
+route:              172.23.39.64/27
+origin:             AS4242423153
+mnt-by:             MARROLD-MNT
+source:             DN42
