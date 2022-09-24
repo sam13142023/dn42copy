@@ -1,7 +1,7 @@
 inetnum:            172.23.69.160 - 172.23.69.191
 cidr:               172.23.69.160/27
 netname:            MOE233-NET
-descr:              Network of Moe233
+descr:              Network of MOE233
 admin-c:            MOE233-DN42
 tech-c:             MOE233-DN42
 mnt-by:             MOE233-MNT

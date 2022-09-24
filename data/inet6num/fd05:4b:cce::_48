@@ -1,7 +1,7 @@
 inet6num:           fd05:004b:0cce:0000:0000:0000:0000:0000 - fd05:004b:0cce:ffff:ffff:ffff:ffff:ffff
 cidr:               fd05:4b:cce::/48
 netname:            MOE233-NET
-descr:              Network of Moe233
+descr:              Network of MOE233
 admin-c:            MOE233-DN42
 tech-c:             MOE233-DN42
 mnt-by:             MOE233-MNT
