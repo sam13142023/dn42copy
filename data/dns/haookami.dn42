@@ -1,0 +1,7 @@
+domain:             haookami.dn42
+admin-c:            HAOOKAMISORA-DN42
+tech-c:             HAOOKAMISORA-DN42
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+nserver:            anycast.lily.dn42
+source:             DN42

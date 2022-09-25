@@ -1,0 +1,11 @@
+inet6num:           fd42:81ee:a1c9:0000:0000:0000:0000:0000 - fd42:81ee:a1c9:ffff:ffff:ffff:ffff:ffff
+netname:            Haookami-Network-IPv6
+descr:              Haookami Network IPv6 Block
+admin-c:            HAOOKAMISORA-DN42
+tech-c:             HAOOKAMISORA-DN42
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+nserver:            anycast.lily.dn42
+status:             ASSIGNED
+cidr:               fd42:81ee:a1c9::/48
+source:             DN42

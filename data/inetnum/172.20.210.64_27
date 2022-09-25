@@ -1,0 +1,11 @@
+inetnum:            172.20.210.64 - 172.20.210.95
+netname:            Haookami-Network-IPv4
+descr:              Haookami Network IPv4 Block
+admin-c:            HAOOKAMISORA-DN42
+tech-c:             HAOOKAMISORA-DN42
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+nserver:            anycast.lily.dn42
+status:             ASSIGNED
+cidr:               172.20.210.64/27
+source:             DN42
