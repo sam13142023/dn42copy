@@ -1,0 +1,5 @@
+route6:             fd18:86b1:f4e1::/48
+origin:             AS4242423226
+max-length:         48
+mnt-by:             CYNPPRCLP-MNT
+source:             DN42

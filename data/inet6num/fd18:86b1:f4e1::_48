@@ -1,0 +1,10 @@
+inet6num:           fd18:86b1:f4e1:0000:0000:0000:0000:0000 - fd18:86b1:f4e1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd18:86b1:f4e1::/48
+netname:            CYNPPRCLP-V6-NET
+descr:              Network of Tim Koop (cyanPaperclip)
+country:            DE
+admin-c:            CYNPPRCLP-DN42
+tech-c:             CYNPPRCLP-DN42
+mnt-by:             CYNPPRCLP-MNT
+status:             ASSIGNED
+source:             DN42
