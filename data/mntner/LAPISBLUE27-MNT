@@ -1,6 +1,6 @@
 mntner:             LAPISBLUE27-MNT
-admin-c:            LAPISBLUE27-DN42
-tech-c:             LAPISBLUE27-DN42
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
 mnt-by:             LAPISBLUE27-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPErxGFDg7zTv4/Z7RLvZPVOxeY+pz69rDBjc4udM9Qg
+auth:               pgp-fingerprint EA843DBB44AB61A9BC44828864F0E37E932A9F26
 source:             DN42
