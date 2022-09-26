@@ -1,6 +1,6 @@
 domain:             lapinet27.dn42
-admin-c:            LAPISBLUE27-DN42
-tech-c:             LAPISBLUE27-DN42
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
 mnt-by:             LAPISBLUE27-MNT
 nserver:            ns1.lapinet27.dn42 172.22.180.100
 nserver:            ns1.lapinet27.dn42 fd0b:da1a:9768:301::53

@@ -2,8 +2,8 @@ inetnum:            172.22.180.64 - 172.22.180.127
 cidr:               172.22.180.64/26
 netname:            LAPISBLUE27-NETWORK
 descr:              IPv4 Address of LapisNetwork
-admin-c:            LAPISBLUE27-DN42
-tech-c:             LAPISBLUE27-DN42
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
 mnt-by:             LAPISBLUE27-MNT
 country:            CN
 nserver:            ns1.lapinet27.dn42
