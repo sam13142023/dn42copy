@@ -1,10 +1,13 @@
 aut-num:            AS4242421869
 as-name:            AS-USMAN-DN42
 remarks:            +----------------------------------------+
-remarks:            | Happy to peer, UK, DE, FR and US based.|
+remarks:            | Happy to peer, UK and FR based.        |
 remarks:            +----------------------------------------+
 remarks:            | Contact by email: usman@usman.network  |
 remarks:            |       or discord: usman#5151           |
+remarks:            +----------------------------------------+
+remarks:            |  Peering details: blog.usman.network   |
+remarks:            |               or: 172.22.132.186       |
 remarks:            +----------------------------------------+
 admin-c:            USMAN-DN42
 tech-c:             USMAN-DN42
