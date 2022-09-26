@@ -1,0 +1,5 @@
+route6:             fdf1:af84:596a::/48
+origin:             AS4242422243
+max-length:         48
+mnt-by:             TYPESCRIPT-MNT
+source:             DN42

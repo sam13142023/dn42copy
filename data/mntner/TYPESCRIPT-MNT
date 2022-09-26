@@ -1,0 +1,6 @@
+mntner:             TYPESCRIPT-MNT
+admin-c:            TYPESCRIPT-DN42
+tech-c:             TYPESCRIPT-DN42
+mnt-by:             TYPESCRIPT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG1LguyHZ5z3yCfa4Yl1jc5qmRxc4DnLonktw13yViBx

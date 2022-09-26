@@ -1,0 +1,5 @@
+route:              172.23.125.64/29
+descr:              Peer with me at xyxsw2021@gmail.com
+origin:             AS4242422243
+mnt-by:             TYPESCRIPT-MNT
+source:             DN42

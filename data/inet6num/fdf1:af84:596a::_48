@@ -1,0 +1,10 @@
+inet6num:           fdf1:af84:596a:0000:0000:0000:0000:0000 - fdf1:af84:596a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:af84:596a::/48
+netname:            TYPESCRIPT-IPV6
+descr:              Network of TYPESCRIPT
+country:            CN
+admin-c:            TYPESCRIPT-DN42
+tech-c:             TYPESCRIPT-DN42
+mnt-by:             TYPESCRIPT-MNT
+status:             ASSIGNED
+source:             DN42
