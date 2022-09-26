@@ -1,0 +1,11 @@
+aut-num:            AS4242421875
+as-name:            HAOOKAMI_NETWORK
+admin-c:            HAOOKAMISORA-DN42
+tech-c:             HAOOKAMISORA-DN42
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+remarks:            ---------------------------------
+remarks:            | Haookami Network              |
+remarks:            | Open For Peering              |
+remarks:            ---------------------------------
+source:             DN42

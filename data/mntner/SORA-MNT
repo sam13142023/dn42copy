@@ -1,0 +1,9 @@
+mntner:             SORA-MNT
+admin-c:            HAOOKAMISORA-DN42
+tech-c:             HAOOKAMISORA-DN42
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+source:             DN42
+auth:               pgp-fingerprint 3FECA76DA0EADA228F3615FA423C96517E629DB6
+auth:               pgp-fingerprint B11F5BE9989BEE9A6A1E81F730291293322B1B8E
+auth:               pgp-fingerprint BEE23ECB752387B0BC051C58708F4EC8A5A5DD90

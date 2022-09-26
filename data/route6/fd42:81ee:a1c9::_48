@@ -1,0 +1,5 @@
+route6:             fd42:81ee:a1c9::/48
+origin:             AS4242421875
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+source:             DN42

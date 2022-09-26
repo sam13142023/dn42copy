@@ -1,0 +1,5 @@
+route:              172.20.210.64/27
+origin:             AS4242421875
+mnt-by:             LILY-MNT
+mnt-by:             SORA-MNT
+source:             DN42
