@@ -1,0 +1,4 @@
+route:              172.20.39.0/27
+origin:             AS4242423226
+mnt-by:             CYNPPRCLP-MNT
+source:             DN42
