@@ -1,0 +1,6 @@
+mntner:             PALI-MNT
+admin-c:            PALI-DN42
+tech-c:             PALI-DN42
+mnt-by:             PALI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMm2I3rzmjGhjEAcuZAi3LQTZULL5VkUwM2nEhyyvSaP
+source:             DN42

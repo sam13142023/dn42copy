@@ -1,0 +1,9 @@
+inetnum:            172.23.37.64 - 172.23.37.95
+cidr:               172.23.37.64/27
+country:            IM
+netname:            PALI-IPV4
+admin-c:            PALI-DN42
+tech-c:             PALI-DN42
+mnt-by:             PALI-MNT
+status:             ASSIGNED
+source:             DN42
