@@ -1,0 +1,9 @@
+inet6num:           fd95:c7d7:7e07:0000:0000:0000:0000:0000 - fd95:c7d7:7e07:ffff:ffff:ffff:ffff:ffff
+cidr:               fd95:c7d7:7e07::/48
+country:            IM
+netname:            PALI-IPV6
+admin-c:            PALI-DN42
+tech-c:             PALI-DN42
+mnt-by:             PALI-MNT
+status:             ASSIGNED
+source:             DN42
