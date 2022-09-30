@@ -8,6 +8,6 @@ tech-c:             04DCO-DN42
 mnt-by:             04DCO-MNT
 remarks:            Check AS whois for peering info.
 nserver:            ns0.04dco.dn42
-ds-rdata:           16704 13 2 ac628ef3ba5749a2c767c8f3ca1a355d23f7b03c078ba0480901b89a446597d4
+ds-rdata:           1578 13 2 48f9fc6b82b885f2c5d4b9b0f8f8d0647908bcd6ac13736cc07d73c482944489
 status:             ASSIGNED
 source:             DN42
