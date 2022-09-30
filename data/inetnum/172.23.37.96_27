@@ -1,0 +1,12 @@
+inetnum:            172.23.37.96 - 172.23.37.127
+cidr:               172.23.37.96/27
+netname:            TEAM-MARIONIC-TESTNET-IP4
+descr:              Team Marionic IPv4 Testnet.
+country:            CN
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+mnt-by:             MARIONIC-MNT
+nserver:            ns1.marionicnet.dn42
+nserver:            ns2.marionicnet.dn42
+status:             ASSIGNED
+source:             DN42

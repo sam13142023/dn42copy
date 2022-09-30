@@ -1,0 +1,12 @@
+inet6num:           fd21:0129:81d2:0000:0000:0000:0000:0000 - fd21:0129:81d2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:129:81d2::/48
+netname:            TEAM-MARIONIC-TESTNET-IP6
+descr:              Team Marionic IPv6 Testnet.
+country:            CN
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+mnt-by:             MARIONIC-MNT
+nserver:            ns1.marionicnet.dn42
+nserver:            ns2.marionicnet.dn42
+status:             ASSIGNED
+source:             DN42

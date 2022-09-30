@@ -1,0 +1,7 @@
+mntner:             MARIONIC-MNT
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+mnt-by:             MARIONIC-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICYLkkzEeK8vMVvsn06HmEM8k3hAULj5BComvj5K6jhP
+remarks:            SHA256:Y4pqXeM+odrxOJNOGsd294V/Fo8Uf81g3A5KgXjuXZw youmu@VPC-220213U20

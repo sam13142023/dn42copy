@@ -1,0 +1,9 @@
+domain:             marionicnet.dn42
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+mnt-by:             MARIONIC-MNT
+nserver:            ns1.marionicnet.dn42 172.23.37.97
+nserver:            ns1.marionicnet.dn42 fd21:129:81d2:0100::702
+nserver:            ns2.marionicnet.dn42 172.23.37.105
+nserver:            ns2.marionicnet.dn42 fd21:129:81d2:fe00::723
+source:             DN42
