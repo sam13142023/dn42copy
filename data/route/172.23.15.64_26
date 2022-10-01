@@ -1,0 +1,5 @@
+route:              172.23.15.64/26
+descr:              YUKINO-NET4-BLOCK1
+origin:             AS4242421255
+mnt-by:             YUKINO-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.15.64 - 172.23.15.127
+netname:            YUKINO-NET4-BLOCK1
+descr:              YUKINO-NET4-BLOCK1
+country:            CN
+admin-c:            YUKINO-DN42
+tech-c:             YUKINO-DN42
+mnt-by:             YUKINO-MNT
+status:             ASSIGNED
+cidr:               172.23.15.64/26
+source:             DN42
