@@ -1,0 +1,10 @@
+inet6num:           fd28:27bf:e648:0000:0000:0000:0000:0000 - fd28:27bf:e648:ffff:ffff:ffff:ffff:ffff
+netname:            YUKINO-NET6-BLOCK1
+descr:              YUKINO-NET6-BLOCK1
+country:            CN
+admin-c:            YUKINO-DN42
+tech-c:             YUKINO-DN42
+mnt-by:             YUKINO-MNT
+status:             ASSIGNED
+cidr:               fd28:27bf:e648::/48
+source:             DN42

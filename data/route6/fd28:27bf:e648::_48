@@ -1,0 +1,5 @@
+route6:             fd28:27bf:e648::/48
+descr:              YUKINO-NET6-BLOCK1
+origin:             AS4242421255
+mnt-by:             YUKINO-MNT
+source:             DN42
