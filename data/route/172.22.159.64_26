@@ -1,0 +1,5 @@
+route:              172.22.159.64/26
+descr:              Peer with me at nedifinita@proton.me
+origin:             AS4242420454
+mnt-by:             NEDIFINITA-MNT
+source:             DN42

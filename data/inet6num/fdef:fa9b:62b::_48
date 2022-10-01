@@ -1,0 +1,10 @@
+inet6num:           fdef:fa9b:062b:0000:0000:0000:0000:0000 - fdef:fa9b:062b:ffff:ffff:ffff:ffff:ffff
+netname:            NEDIFINITA-IPV6
+descr:              Peer with me at nedifinita@proton.me
+country:            US
+admin-c:            NEDIFINITA-DN42
+tech-c:             NEDIFINITA-DN42
+mnt-by:             NEDIFINITA-MNT
+status:             ASSIGNED
+cidr:               fdef:fa9b:62b::/48
+source:             DN42

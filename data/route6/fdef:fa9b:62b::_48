@@ -1,0 +1,5 @@
+route6:             fdef:fa9b:62b::/48
+descr:              Peer with me at nedifinita@proton.me
+origin:             AS4242420454
+mnt-by:             NEDIFINITA-MNT
+source:             DN42
