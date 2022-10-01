@@ -1,0 +1,11 @@
+inetnum:            172.22.159.64 - 172.22.159.127
+netname:            NEDIFINITA-IPV4
+remarks:            Peer with me at nedifinita@proton.me
+descr:              Peer with me at nedifinita@proton.me
+country:            US
+admin-c:            NEDIFINITA-DN42
+tech-c:             NEDIFINITA-DN42
+mnt-by:             NEDIFINITA-MNT
+status:             ASSIGNED
+cidr:               172.22.159.64/26
+source:             DN42
