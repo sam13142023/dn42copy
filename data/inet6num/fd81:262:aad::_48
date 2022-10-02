@@ -1,0 +1,10 @@
+inet6num:           fd81:0262:0aad:0000:0000:0000:0000:0000 - fd81:0262:0aad:ffff:ffff:ffff:ffff:ffff
+netname:            66LEO66-IPV6
+descr:              Peer with me at 66leo66china@gmail.com
+country:            CN
+admin-c:            66LEO66-DN42
+tech-c:             66LEO66-DN42
+mnt-by:             66LEO66-MNT
+status:             ASSIGNED
+cidr:               fd81:262:aad::/48
+source:             DN42
