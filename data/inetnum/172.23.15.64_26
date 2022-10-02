@@ -7,4 +7,5 @@ tech-c:             YUKINO-DN42
 mnt-by:             YUKINO-MNT
 status:             ASSIGNED
 cidr:               172.23.15.64/26
+nserver:            ns1.yukino.dn42
 source:             DN42

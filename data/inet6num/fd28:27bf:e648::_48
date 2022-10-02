@@ -7,4 +7,5 @@ tech-c:             YUKINO-DN42
 mnt-by:             YUKINO-MNT
 status:             ASSIGNED
 cidr:               fd28:27bf:e648::/48
+nserver:            ns1.yukino.dn42
 source:             DN42

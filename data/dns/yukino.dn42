@@ -1,0 +1,7 @@
+domain:             yukino.dn42
+admin-c:            YUKINO-DN42
+tech-c:             YUKINO-DN42
+mnt-by:             YUKINO-MNT
+nserver:            ns1.yukino.dn42 172.23.15.122
+nserver:            ns1.yukino.dn42 fd28:27bf:e648:fffe::a122
+source:             DN42
