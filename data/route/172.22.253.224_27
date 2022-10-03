@@ -1,0 +1,4 @@
+route:              172.22.253.224/27
+origin:             AS4242421477
+mnt-by:             NBARI-MNT
+source:             DN42
