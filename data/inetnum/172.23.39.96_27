@@ -1,0 +1,11 @@
+inetnum:            172.23.39.96 - 172.23.39.127
+netname:            66LEO66-IPV4
+remarks:            Peer with me at 66leo66china@gmail.com
+descr:              Peer with me at 66leo66china@gmail.com
+country:            CN
+admin-c:            66LEO66-DN42
+tech-c:             66LEO66-DN42
+mnt-by:             66LEO66-MNT
+status:             ASSIGNED
+cidr:               172.23.39.96/27
+source:             DN42

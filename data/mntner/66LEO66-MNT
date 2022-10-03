@@ -1,0 +1,8 @@
+mntner:             66LEO66-MNT
+admin-c:            66LEO66-DN42
+tech-c:             66LEO66-DN42
+mnt-by:             66LEO66-MNT
+source:             DN42
+auth:               pgp-fingerprint 27A0093E20CEFAA17D4E740519BE1E08CED78948
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILBW4dsoqjjSv8EZS12kqzqt27sDKIMamoRP+Rm5C5po eddsa-key-20220319
+remarks:            nothing here yet...
