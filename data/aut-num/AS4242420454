@@ -1,6 +1,11 @@
 aut-num:            AS4242420454
 as-name:            NEDIFINITA-AS
-descr:              Peer with me at nedifinita@proton.me
+descr:              Nedifinita Network
+remarks:            +--------------------------+
+remarks:            |    Nedifinita Network    |
+remarks:            |                          |
+remarks:            |  https://network.viz.tw  |
+remarks:            +--------------------------+
 admin-c:            NEDIFINITA-DN42
 tech-c:             NEDIFINITA-DN42
 mnt-by:             NEDIFINITA-MNT
