@@ -1,0 +1,8 @@
+inetnum:            172.22.253.224 - 172.22.253.255
+cidr:               172.22.253.224/27
+netname:            NBARI-NETWORK
+admin-c:            NBARI-DN42
+tech-c:             NBARI-DN42
+mnt-by:             NBARI-MNT
+status:             ASSIGNED
+source:             DN42
