@@ -1,0 +1,8 @@
+inetnum:            172.23.38.224 - 172.23.38.255
+cidr:               172.23.38.224/27
+netname:            CUTEL-CUSTOMERS-NETWORK
+descr:              Dial Up / DSL Customers
+org:                ORG-CUTEL
+mnt-by:             CUTEL-MNT
+status:             ASSIGNED
+source:             DN42
