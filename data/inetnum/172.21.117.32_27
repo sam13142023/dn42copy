@@ -5,4 +5,5 @@ admin-c:            PIGGY-DN42
 tech-c:             PIGGY-DN42
 mnt-by:             PIGGY-MNT
 status:             ASSIGNED
+nserver:            ns1.piggy.dn42
 source:             DN42
