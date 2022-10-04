@@ -4,5 +4,6 @@ tech-c:             HIJACK-DN42
 mnt-by:             HIJACK-MNT
 nserver:            ns1.hijack.dn42 172.20.167.147
 nserver:            ns1.hijack.dn42 fd42:4399:7213::4
-ds-rdata:           33067 13 2 cb14b8cacc14e20e457d61cd53ce2ce1d0c96a7d3ab2936dea217d3310a1c9cd
+ds-rdata:           43844 15 2 e3f302436915c9b20d809932893bd0ae31b4bc87f438327bccb042ebf9da26e7
+ds-rdata:           43844 15 4 072f5cb7d8198158f0d5db4ddbad4628e0f90d9f9661a51f6576e00841677e05479eb7f43f7349c5f05d4c1fb68ed7e3
 source:             DN42
