@@ -1,0 +1,9 @@
+inetnum:            172.23.25.96 - 172.23.25.127
+netname:            CH-IPV4
+country:            TW
+admin-c:            CH-DN42
+tech-c:             CH-DN42
+mnt-by:             CH-MNT
+status:             ASSIGNED
+cidr:               172.23.25.96/27
+source:             DN42

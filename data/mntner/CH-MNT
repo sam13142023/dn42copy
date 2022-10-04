@@ -1,0 +1,7 @@
+mntner:             CH-MNT
+admin-c:            CH-DN42
+tech-c:             CH-DN42
+mnt-by:             CH-MNT
+source:             DN42
+auth:               pgp-fingerprint 94627AB5943EA7700FE20544870FD7B527F1E6D7
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB2bWgtzsCqbtiAQUbZQ/Ew6aZHbmNykmEEBRj/YrvI7
