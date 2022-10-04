@@ -1,0 +1,9 @@
+inet6num:           fd8f:3250:9097:0000:0000:0000:0000:0000 - fd8f:3250:9097:ffff:ffff:ffff:ffff:ffff
+netname:            CH-IPV6
+country:            TW
+admin-c:            CH-DN42
+tech-c:             CH-DN42
+mnt-by:             CH-MNT
+status:             ASSIGNED
+cidr:               fd8f:3250:9097::/48
+source:             DN42

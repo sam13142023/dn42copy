@@ -1,0 +1,4 @@
+route6:             fd8f:3250:9097::/48
+origin:             AS4242420461
+mnt-by:             CH-MNT
+source:             DN42
