@@ -1,0 +1,4 @@
+route:              172.23.226.64/27
+origin:             AS204844
+mnt-by:             YUAN-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.226.64 - 172.23.226.95
+cidr:               172.23.226.64/27
+netname:            NCSE-NETWORK-IPV4
+country:            TW
+org:                ORG-NCSE
+admin-c:            YUAN-DN42
+tech-c:             YUAN-DN42
+mnt-by:             YUAN-MNT
+status:             ASSIGNED
+source:             DN42
