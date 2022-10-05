@@ -1,0 +1,7 @@
+mntner:             YUAN-MNT
+admin-c:            YUAN-DN42
+tech-c:             YUAN-DN42
+mnt-by:             YUAN-MNT
+source:             DN42
+auth:               pgp-fingerprint F87EEBC4702EA422EFB0D359D040B13357EFD84B
+remarks:            init

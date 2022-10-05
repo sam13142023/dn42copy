@@ -1,0 +1,10 @@
+inet6num:           fd57:6bdb:8ffd:0000:0000:0000:0000:0000 - fd57:6bdb:8ffd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd57:6bdb:8ffd::/48
+netname:            NCSE-NETWORK-IPV6
+country:            TW
+org:                ORG-NCSE
+admin-c:            YUAN-DN42
+tech-c:             YUAN-DN42
+mnt-by:             YUAN-MNT
+status:             ASSIGNED
+source:             DN42
