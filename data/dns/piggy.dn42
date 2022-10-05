@@ -1,0 +1,7 @@
+domain:             piggy.dn42
+admin-c:            PIGGY-DN42
+tech-c:             PIGGY-DN42
+mnt-by:             PIGGY-MNT
+nserver:            ns1.piggy.dn42 172.21.117.33
+nserver:            ns1.piggy.dn42 fd0a:cdb3:cde7:53::1
+source:             DN42
