@@ -1,0 +1,8 @@
+inetnum:            172.20.210.96 - 172.20.210.127
+cidr:               172.20.210.96/27
+netname:            YARO-NETWORK
+admin-c:            YARO-DN42
+tech-c:             YARO-DN42
+mnt-by:             YARO-MNT
+status:             ASSIGNED
+source:             DN42
