@@ -1,0 +1,6 @@
+mntner:             YARO-MNT
+admin-c:            YARO-DN42
+tech-c:             YARO-DN42
+mnt-by:             YARO-MNT
+auth:               pgp-fingerprint 8A676FDCAAD929184299D020151A8F0401FB2E85
+source:             DN42

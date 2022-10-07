@@ -1,0 +1,5 @@
+route6:             fd57:37f3:d9dc::/48
+origin:             AS4242422497
+max-length:         48
+mnt-by:             YARO-MNT
+source:             DN42

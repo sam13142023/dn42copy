@@ -1,0 +1,10 @@
+inet6num:           fd57:37f3:d9dc:0000:0000:0000:0000:0000 - fd57:37f3:d9dc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd57:37f3:d9dc::/48
+netname:            YARO-NETWORK
+descr:              Network of YARO
+country:            US
+admin-c:            YARO-DN42
+tech-c:             YARO-DN42
+mnt-by:             YARO-MNT
+status:             ASSIGNED
+source:             DN42
