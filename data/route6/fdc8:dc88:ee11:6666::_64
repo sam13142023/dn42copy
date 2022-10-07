@@ -1,0 +1,4 @@
+route6:             fdc8:dc88:ee11:6666::/64
+origin:             AS38173
+mnt-by:             SUNNET-MNT
+source:             DN42
