@@ -1,0 +1,6 @@
+mntner:             LY-MNT
+admin-c:            LY-DN42
+tech-c:             LY-DN42
+mnt-by:             LY-MNT
+source:             DN42
+auth:               pgp-fingerprint 943C8FDA8A74044F18C10C21222259DAFFFFFFFF

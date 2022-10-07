@@ -1,0 +1,8 @@
+aut-num:            AS4242421886
+as-name:            LY-AS
+descr:              LY's Main network, open to peering.
+remarks:            Directly contact me at uuuun@protonmail.com
+admin-c:            LY-DN42
+tech-c:             LY-DN42
+mnt-by:             LY-MNT
+source:             DN42
