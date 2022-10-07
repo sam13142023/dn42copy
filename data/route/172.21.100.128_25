@@ -1,7 +1,5 @@
 route:              172.21.100.128/25
 origin:             AS4242423088
 origin:             AS140936
-origin:             AS38173
-origin:             AS7721
 mnt-by:             SUNNET-MNT
 source:             DN42
