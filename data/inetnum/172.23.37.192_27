@@ -1,7 +1,7 @@
-inet6num:           fd21:0129:81d2:0000:0000:0000:0000:0000 - fd21:0129:81d2:ffff:ffff:ffff:ffff:ffff
-cidr:               fd21:129:81d2::/48
-netname:            TEAM-MARIONIC-TESTNET-IP6
-descr:              Team Marionic IPv6 Testnet.
+inetnum:            172.23.37.192 - 172.23.37.223
+cidr:               172.23.37.192/27
+netname:            TEAM-MARIONIC-TESTNET-IP4
+descr:              Team Marionic IPv4 Global Testnet.
 country:            CN
 country:            JP
 country:            US

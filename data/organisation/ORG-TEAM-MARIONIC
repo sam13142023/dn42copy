@@ -1,0 +1,12 @@
+organisation:       ORG-TEAM-MARIONIC
+org-name:           Team Marionic
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+abuse-c:            MARIONIC-DN42
+e-mail:             root@marionic.net
+www:                https://team.marionic.net
+language:           Chinese
+language:           Japanese
+language:           English
+mnt-by:             MARIONIC-MNT
+source:             DN42

@@ -1,8 +1,8 @@
-aut-num:            AS4242420351
-as-name:            TEAM-MARIONIC-TESTNET-DN42
-descr:              Team Marionic DN42 Testnet
+role:               Team Marionic
+abuse-mailbox:      abuse@marionic.net
 admin-c:            MARIONIC-DN42
 tech-c:             MARIONIC-DN42
+nic-hdl:            ORG-TEAM-MARIONIC-DN42
 org:                ORG-TEAM-MARIONIC
 mnt-by:             MARIONIC-MNT
 source:             DN42

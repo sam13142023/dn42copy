@@ -1,9 +1,13 @@
 domain:             marionicnet.dn42
 admin-c:            MARIONIC-DN42
 tech-c:             MARIONIC-DN42
+org:                ORG-TEAM-MARIONIC
+nserver:            ns1.marionicnet.dn42 172.23.37.114
+nserver:            ns1.marionicnet.dn42 fd21:129:81d2:7253:114:114:ac17:2572
+nserver:            ns2.marionicnet.dn42 172.23.37.97
+nserver:            ns2.marionicnet.dn42 fd21:129:81d2:0153::702
+nserver:            ns3.marionicnet.dn42 172.23.37.209
+nserver:            ns3.marionicnet.dn42 fd21:129:81d2:5153::723
+descr:              NS1 will to be ANYCAST SERVER.
 mnt-by:             MARIONIC-MNT
-nserver:            ns1.marionicnet.dn42 172.23.37.97
-nserver:            ns1.marionicnet.dn42 fd21:129:81d2:0100::702
-nserver:            ns2.marionicnet.dn42 172.23.37.105
-nserver:            ns2.marionicnet.dn42 fd21:129:81d2:fe00::723
 source:             DN42
