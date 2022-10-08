@@ -1,0 +1,10 @@
+inet6num:           fd16:daf5:25dd:0000:0000:0000:0000:0000 - fd16:daf5:25dd:ffff:ffff:ffff:ffff:ffff
+netname:            LY-IPV6
+descr:              LY's IP space
+country:            HK
+admin-c:            LY-DN42
+tech-c:             LY-DN42
+mnt-by:             LY-MNT
+status:             ASSIGNED
+cidr:               fd16:daf5:25dd::/48
+source:             DN42
