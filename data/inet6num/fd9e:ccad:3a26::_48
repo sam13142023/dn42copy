@@ -1,0 +1,10 @@
+inet6num:           fd9e:ccad:3a26:0000:0000:0000:0000:0000 - fd9e:ccad:3a26:ffff:ffff:ffff:ffff:ffff
+netname:            GONGYU-IPV6
+descr:              Peer with me at guawazi176@gmail.com
+country:            CN
+admin-c:            GONGYU-DN42
+tech-c:             GONGYU-DN42
+mnt-by:             GONGYU-MNT
+status:             ASSIGNED
+cidr:               fd9e:ccad:3a26::/48
+source:             DN42
