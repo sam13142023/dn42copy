@@ -1,6 +1,10 @@
 aut-num:            AS4242421255
 as-name:            YUKINO-AS
 descr:              Yukino Experimental Network
+remarks:            ------------------------------------------------------
+remarks:            Welcome to peer with me, Peering Infomation:
+remarks:            https://dn42.acgcl.net
+remarks:            ------------------------------------------------------
 admin-c:            YUKINO-DN42
 tech-c:             YUKINO-DN42
 mnt-by:             YUKINO-MNT
