@@ -1,0 +1,6 @@
+mntner:             MOWOE-MNT
+admin-c:            MOWOE-DN42
+tech-c:             MOWOE-DN42
+mnt-by:             MOWOE-MNT
+auth:               ssh-25519 AAAAC3NzaC1lZDI1NTE5AAAAIMTQMEhRp1ARPHttamXB+akO5x8SVA13FKsDtFdf5+54
+source:             DN42
