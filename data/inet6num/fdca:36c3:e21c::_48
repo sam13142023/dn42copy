@@ -1,4 +1,4 @@
-inet6num:           fdca:36c3:e21c:0000:0000:0000:0000:0000 -  fdca:36c3:e21c:ffff:ffff:ffff:ffff:ffff
+inet6num:           fdca:36c3:e21c:0000:0000:0000:0000:0000 - fdca:36c3:e21c:ffff:ffff:ffff:ffff:ffff
 cidr:               fdca:36c3:e21c::/48
 netname:            MOWOE-NETWORK
 descr:              mowoe Network, the one to rule them all
