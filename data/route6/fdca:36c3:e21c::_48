@@ -1,0 +1,5 @@
+route6:             fdca:36c3:e21c::/48
+origin:             AS4242422685
+max-length:         48
+mnt-by:             MOWOE-MNT
+source:             DN42
