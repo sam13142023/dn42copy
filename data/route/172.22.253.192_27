@@ -1,0 +1,4 @@
+route:              172.22.253.192/27
+origin:             AS4242422734
+mnt-by:             BOBAGHANOUSH-MNT
+source:             DN42

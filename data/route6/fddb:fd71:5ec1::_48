@@ -1,0 +1,5 @@
+route6:             fddb:fd71:5ec1::/48
+origin:             AS4242422734
+max-length:         48
+mnt-by:             BOBAGHANOUSH-MNT
+source:             DN42

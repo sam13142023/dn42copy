@@ -1,0 +1,11 @@
+inet6num:           fddb:fd71:5ec1:0000:0000:0000:0000:0000 - fddb:fd71:5ec1:ffff:ffff:ffff:ffff:ffff
+netname:            BOBAGHANOUSH-NET
+descr:              main ipv6 network
+country:            RU
+admin-c:            BOBAGHANOUSH-DN42
+tech-c:             BOBAGHANOUSH-DN42
+mnt-by:             BOBAGHANOUSH-MNT
+status:             ASSIGNED
+cidr:               fddb:fd71:5ec1::/48
+source:             DN42
+nserver:            ns1.bobaghanoush.dn42

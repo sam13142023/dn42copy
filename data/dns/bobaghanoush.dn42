@@ -1,0 +1,6 @@
+domain:             bobaghanoush.dn42
+admin-c:            BOBAGHANOUSH-DN42
+tech-c:             BOBAGHANOUSH-DN42
+mnt-by:             BOBAGHANOUSH-MNT
+nserver:            ns1.bobaghanoush.dn42 172.22.253.193
+source:             DN42
