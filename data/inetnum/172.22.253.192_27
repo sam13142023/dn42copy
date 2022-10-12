@@ -1,0 +1,9 @@
+inetnum:            172.22.253.192 - 172.22.253.223
+cidr:               172.22.253.192/27
+netname:            BOBAGHANOUSH-NETWORK
+admin-c:            BOBAGHANOUSH-DN42
+tech-c:             BOBAGHANOUSH-DN42
+mnt-by:             BOBAGHANOUSH-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.bobaghanoush.dn42
