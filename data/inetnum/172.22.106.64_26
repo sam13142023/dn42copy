@@ -1,0 +1,8 @@
+inetnum:            172.22.106.64 - 172.22.106.127
+netname:            XINHAO-IPV4
+admin-c:            XINHAO-DN42
+tech-c:             XINHAO-DN42
+mnt-by:             XINHAO-MNT
+status:             ASSIGNED
+cidr:               172.22.106.64/26
+source:             DN42

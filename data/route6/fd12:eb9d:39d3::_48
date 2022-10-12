@@ -1,0 +1,6 @@
+route6:             fd12:eb9d:39d3::/48
+descr:              XINHAO-IPV6
+origin:             AS4242421640
+origin:             AS4242421255
+mnt-by:             XINHAO-MNT
+source:             DN42

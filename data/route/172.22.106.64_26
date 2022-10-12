@@ -1,0 +1,6 @@
+route:              172.22.106.64/26
+descr:              XINHAO-IPV4
+origin:             AS4242421640
+origin:             AS4242421255
+mnt-by:             XINHAO-MNT
+source:             DN42
