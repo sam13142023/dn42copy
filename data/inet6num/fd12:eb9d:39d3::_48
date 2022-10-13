@@ -1,0 +1,8 @@
+inet6num:           fd12:eb9d:39d3:0000:0000:0000:0000:0000 - fd12:eb9d:39d3:ffff:ffff:ffff:ffff:ffff
+netname:            XINHAO-IPV6
+admin-c:            XINHAO-DN42
+tech-c:             XINHAO-DN42
+mnt-by:             XINHAO-MNT
+status:             ASSIGNED
+cidr:               fd12:eb9d:39d3::/48
+source:             DN42
