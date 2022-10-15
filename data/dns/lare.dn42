@@ -2,7 +2,11 @@ domain:             lare.dn42
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
+nserver:            ns.lare.dn42 172.22.125.18
+nserver:            ns.lare.dn42 fd63:5d40:47e5:ac53::53
 nserver:            ns1.lare.dn42 172.22.125.31
 nserver:            ns1.lare.dn42 fd63:5d40:47e5::53
+nserver:            ns2.lare.dn42 172.22.125.28
+nserver:            ns2.lare.dn42 fd63:5d40:47e5::28
 ds-rdata:           7865 8 2 BE09155AFA6995734CB3ADAC6DB96DEE4B6AB1CCD9FBA4A82D7ED72C199DA26F
 source:             DN42
