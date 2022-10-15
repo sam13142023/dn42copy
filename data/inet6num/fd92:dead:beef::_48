@@ -1,0 +1,10 @@
+inet6num:           fd92:dead:beef:0000:0000:0000:0000:0000 - fd92:dead:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd92:dead:beef::/48
+netname:            GRATUXRI-NETWORK
+descr:              Network of GRATUXRI
+country:            DE
+admin-c:            GRATUXRI-DN42
+tech-c:             GRATUXRI-DN42
+mnt-by:             GRATUXRI-MNT
+status:             ASSIGNED
+source:             DN42
