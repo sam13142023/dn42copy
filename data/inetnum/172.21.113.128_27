@@ -7,4 +7,6 @@ tech-c:             LY-DN42
 mnt-by:             LY-MNT
 status:             ASSIGNED
 cidr:               172.21.113.128/27
+nserver:            ns1.lianyi.dn42
+ds-rdata:           55990 13 2 8901B05349D3F53DF8B6160DF882793C81B7505CD3A538460A6CB33A 90241D97
 source:             DN42

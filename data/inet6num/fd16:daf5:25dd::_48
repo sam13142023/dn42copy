@@ -7,4 +7,6 @@ tech-c:             LY-DN42
 mnt-by:             LY-MNT
 status:             ASSIGNED
 cidr:               fd16:daf5:25dd::/48
+nserver:            ns1.lianyi.dn42
+ds-rdata:           39467 13 2 5E5A27EEDA8ADCD57232ACC1F7080A16B62EAD63E8CB64872E106A18 E1B6B458
 source:             DN42
