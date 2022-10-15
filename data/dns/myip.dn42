@@ -1,7 +1,9 @@
 domain:             myip.dn42
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
+nserver:            ns.lare.dn42
 nserver:            ns1.lare.dn42
+nserver:            ns2.lare.dn42
 nserver:            ns.highdef.dn42
 nserver:            ns-auth1.svc.taavi.dn42
 nserver:            ns-auth2.svc.taavi.dn42
