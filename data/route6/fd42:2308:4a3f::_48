@@ -1,0 +1,5 @@
+route6:             fd42:2308:4a3f::/48
+origin:             AS4242422308
+max-length:         48
+mnt-by:             MIRSAL-MNT
+source:             DN42

@@ -3,4 +3,5 @@ descr:              MIRSAL
 admin-c:            MIRSAL-DN42
 tech-c:             MIRSAL-DN42
 mnt-by:             MIRSAL-MNT
+auth:               PGPKEY-4AE5B610
 source:             DN42

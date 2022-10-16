@@ -1,7 +1,6 @@
 person:             mirsal
-contact:            mailto:mirsal@mirsal.fr
-contact:            xmpp:mirsal@mirsal.fr
+e-mail:             mirsal@mirsal.fr
 nic-hdl:            MIRSAL-DN42
 nick:               mirsal
-mnt-by:             DUMMY-MNT
+mnt-by:             MIRSAL-MNT
 source:             DN42

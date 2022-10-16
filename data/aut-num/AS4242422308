@@ -1,0 +1,9 @@
+aut-num:            AS4242422308
+as-name:            MIRSAL-AS
+descr:              Mirsal home AS
+remarks:            Open peering policy, e-mail <mirsal+dn42@mirsal.fr>
+remarks:            new peerings require a BGP session with IPv6
+admin-c:            MIRSAL-DN42
+tech-c:             MIRSAL-DN42
+mnt-by:             MIRSAL-MNT
+source:             DN42

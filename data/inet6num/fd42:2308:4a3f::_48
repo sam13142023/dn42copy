@@ -1,0 +1,10 @@
+inet6num:           fd42:2308:4a3f:0000:0000:0000:0000:0000 - fd42:2308:4a3f:ffff:ffff:ffff:ffff:ffff
+netname:            MIRSAL-DN42-HOME-V6-ULA
+descr:              Mirsal DN42 Home ULA netblock
+country:            FR
+admin-c:            MIRSAL-DN42
+tech-c:             MIRSAL-DN42
+mnt-by:             MIRSAL-MNT
+status:             ASSIGNED
+cidr:               fd42:2308:4a3f::/48
+source:             DN42
