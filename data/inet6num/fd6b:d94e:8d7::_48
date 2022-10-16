@@ -1,0 +1,9 @@
+inet6num:           fd6b:d94e:08d7:0000:0000:0000:0000:0000 - fd6b:d94e:08d7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6b:d94e:8d7::/48
+netname:            WRAY-IPV6
+country:            CN
+admin-c:            WRAY-DN42
+tech-c:             WRAY-DN42
+mnt-by:             WRAY-MNT
+status:             ASSIGNED
+source:             DN42
