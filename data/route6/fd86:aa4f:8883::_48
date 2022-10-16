@@ -1,0 +1,5 @@
+route6:             fd86:aa4f:8883::/48
+descr:              Peer with me at zyc@zyc.name
+origin:             AS4242420377
+mnt-by:             ZYC-MNT
+source:             DN42
