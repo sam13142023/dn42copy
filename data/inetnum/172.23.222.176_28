@@ -1,0 +1,11 @@
+inetnum:            172.23.222.176 - 172.23.222.191
+cidr:               172.23.222.176/28
+netname:            THD-NETWORK
+descr:              Network of ORG-THD
+country:            FR
+admin-c:            GRUNBLATT-DN42
+tech-c:             GRUNBLATT-DN42
+mnt-by:             GRUNBLATT-MNT
+org:                ORG-THD
+status:             ASSIGNED
+source:             DN42
