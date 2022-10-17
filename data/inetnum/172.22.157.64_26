@@ -1,0 +1,10 @@
+inetnum:            172.22.157.64 - 172.22.157.127
+cidr:               172.22.157.64/26
+netname:            ZYC-NETWORK-V4
+descr:              zyc Network IPv4 Block
+country:            CN
+admin-c:            ZYC-DN42
+tech-c:             ZYC-DN42
+mnt-by:             ZYC-MNT
+status:             ASSIGNED
+source:             DN42

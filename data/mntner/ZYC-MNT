@@ -1,0 +1,6 @@
+mntner:             ZYC-MNT
+admin-c:            ZYC-DN42
+tech-c:             ZYC-DN42
+mnt-by:             ZYC-MNT
+source:             DN42
+auth:               pgp-fingerprint 10DA559A3BC2B77EABACA87548613B264B9F4FEA
