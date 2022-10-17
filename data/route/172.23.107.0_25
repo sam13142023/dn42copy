@@ -1,0 +1,4 @@
+route:              172.23.107.0/25
+origin:             AS4242422308
+mnt-by:             MIRSAL-MNT
+source:             DN42
