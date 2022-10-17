@@ -1,0 +1,4 @@
+route:              172.23.223.128/25
+origin:             AS4242421649
+mnt-by:             GRATUXRI-MNT
+source:             DN42
