@@ -1,5 +1,6 @@
 route:              172.22.149.224/27
 origin:             AS4242422923
 origin:             AS4201272923
+max-length:         27
 mnt-by:             MARK22K-MNT
 source:             DN42
