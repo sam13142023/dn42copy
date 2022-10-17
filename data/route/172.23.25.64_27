@@ -1,0 +1,4 @@
+route:              172.23.25.64/27
+origin:             AS4242422977
+mnt-by:             WRAY-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             WRAY-MNT
+descr:              WRAY
+admin-c:            WRAY-DN42
+tech-c:             WRAY-DN42
+mnt-by:             WRAY-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDVQbZ+9xDzn0dVIGyk83h+yJNrLzEn4u4GvkjMnhIOEaRRMr3IiUCcfKPGQBwWPQOjfIYZRDx2nxxuAOEIxHHeIgXNOKVmW2WvU2plw3e/98imH2F4jh2VsibLFa9fn5fxe4J8QKeFxQK/vY4uQQktuJFSDbAia8xlCp0SZgOYSy3KmJJcrILaxt1TlpCftm3mp2zF+LI6aMnSPdTwvzrvCwni7dVOn0iLt2glor6K2hEP9SgxpCkZBeTRsErdsDSoRshifgVMl2mXHmHbqyehtiPtZ9e5z2wGidOUG6m8Sk26gaDPrKbxMBgwMJXr53BgN3A6oA2YE2AfVEkH9c6ueoUjpR5c+h0/SxzjY66KNJAhlf/qg9gOyfYQn/7BT6bLxC0DfSCyfrXJEu4JQF4MJqcvST7LdYxopJuyTWpy4LNHuKHL1heU2nYCXAbCbzVkBOuJsoLjP8Qy+UMwtugOvTlpFS/2Bs+pgZc+CLa0nZ/Z0m3SGkDx05MaZWyYyCs= wray@Wray-Win
+source:             DN42
