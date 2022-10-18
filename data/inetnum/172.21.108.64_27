@@ -1,0 +1,8 @@
+inetnum:            172.21.108.64 - 172.21.108.95
+cidr:               172.21.108.64/27
+netname:            BACHWV-NETWORK
+admin-c:            BACHWV-DN42
+tech-c:             BACHWV-DN42
+mnt-by:             BACHWV-MNT
+status:             ASSIGNED
+source:             DN42

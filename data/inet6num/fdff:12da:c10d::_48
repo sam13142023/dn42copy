@@ -1,0 +1,10 @@
+inet6num:           fdff:12da:c10d:0000:0000:0000:0000:0000 - fdff:12da:c10d:ffff:ffff:ffff:ffff:ffff
+netname:            BACHWV-NET6
+cidr:               fdff:12da:c10d::/48
+descr:              Nothing is impossible
+country:            CN
+admin-c:            BACHWV-DN42
+tech-c:             BACHWV-DN42
+mnt-by:             BACHWV-MNT
+status:             ASSIGNED
+source:             DN42
