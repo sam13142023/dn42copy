@@ -1,0 +1,5 @@
+route6:             fdff:12da:c10d::/48
+origin:             AS4242422026
+max-length:         48
+mnt-by:             BACHWV-MNT
+source:             DN42

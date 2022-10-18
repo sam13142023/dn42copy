@@ -1,0 +1,7 @@
+mntner:             BACHWV-MNT
+admin-c:            BACHWV-DN42
+tech-c:             BACHWV-DN42
+mnt-by:             BACHWV-MNT
+source:             DN42
+auth:               pgp-fingerprint 7E8B549D03F7D772BBBB10D2F4BAB7E52D107573
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDsm+UwixV7VxTxTVPKDxs+WNQy3uUjf9DTq6f6OGNxkrQz9HD+nIbI8fNa8tugbekQtrbU03mE/IhD7z5uQKP+ML3h0aXlJNDdA+PlSAY3I1f/S7TAFyqEOoiixT0Uk56gXxM6/L0I8xk4pdCP2GcPo7ghxo6ll7VN9hgmrVinSQkcwTqamC6J0DPnJaZrv7VV2IbbsDj1fXxFczg0fWcSY4FZbPOL32yVSERh51KfwkaC+0S+8uW8mdKmg6PcavTd1F6FRgulGJCPYhAj86nEfDtm1BvcvPsvNxQ1KkjQZ6t9wKaGcDZR4oEXBzzUgpNAYnv654rA/j5w6TyWQzt3uQ0YVK3L1z0X8/N8IqrK3NJgsqh1hN1TZd+4+lMEWjSeT8xgx8QEHJF98bDsV9zDLV/uWE8al1/fLuX/eLs6u5vvEYorpvSKrDtMmZCAvffpYTtRA9DgzyguQzbZWUlCdkbnkJ+vv330F4G71Cx6JxDjpxwC1UwcR+4obfj5q8= charon@DESKTOP-EIMRFTO
