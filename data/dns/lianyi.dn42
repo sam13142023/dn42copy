@@ -1,0 +1,8 @@
+domain:             lianyi.dn42
+admin-c:            LY-DN42
+tech-c:             LY-DN42
+mnt-by:             LY-MNT
+nserver:            ns1.lianyi.dn42 172.21.113.129
+nserver:            ns1.lianyi.dn42 fd16:daf5:25dd::1
+ds-rdata:           57416 13 2 344F6A369D27A97DD7E36D1D9CD3CD544F86F3C02911FA518437DEEA 4F5F882C
+source:             DN42
