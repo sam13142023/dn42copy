@@ -1,0 +1,11 @@
+inet6num:           fde0:93fa:07a0:0003:0000:0000:0000:0000 - fde0:93fa:07a0:0003:ffff:ffff:ffff:ffff
+cidr:               fde0:93fa:7a0:3::/64
+netname:            IXP-AGDSN-NET-IPV6
+descr:              AG DSN DN42 IXP
+remarks:            Point of Presence: Dresden
+mnt-by:             PAKTOSAN-MNT
+mnt-by:             BEYERM-MNT
+country:            DE
+org:                ORG-AGDSN
+status:             ASSIGNED
+source:             DN42
