@@ -1,0 +1,5 @@
+route6:             fde3:c905:9943::/48
+origin:             AS4242423479
+max-length:         48
+mnt-by:             THEMCV-MNT
+source:             DN42
