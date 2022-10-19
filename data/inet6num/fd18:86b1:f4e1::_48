@@ -6,5 +6,7 @@ country:            DE
 admin-c:            CYNPPRCLP-DN42
 tech-c:             CYNPPRCLP-DN42
 mnt-by:             CYNPPRCLP-MNT
+nserver:            ns1.pprclp.dn42
+ds-rdata:           6718 8 2 150A96A36844D7834548F1A1E539B0F28CE77C8C299F3FA3B5612DD5046A2869
 status:             ASSIGNED
 source:             DN42

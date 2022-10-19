@@ -1,0 +1,9 @@
+domain:             pprclp.dn42
+descr:              pprclp.dn42
+admin-c:            CYNPPRCLP-DN42
+tech-c:             CYNPPRCLP-DN42
+mnt-by:             CYNPPRCLP-MNT
+nserver:            ns1.pprclp.dn42 172.20.39.2
+nserver:            ns1.pprclp.dn42 fd18:86b1:f4e1::1:1001
+ds-rdata:           7501 8 2 F59EC1694A8CEAF1DF0CBF82B2AF5E597E77A4785B499E1EC41F3F7706050074
+source:             DN42
