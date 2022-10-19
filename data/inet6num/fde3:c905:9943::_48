@@ -1,0 +1,10 @@
+inet6num:           fde3:c905:9943:0000:0000:0000:0000:0000 - fde3:c905:9943:ffff:ffff:ffff:ffff:ffff
+cidr:               fde3:c905:9943::/48
+netname:            THEMCV-NETWORK
+descr:              Network of THEMCV
+country:            US
+admin-c:            THEMCV-DN42
+tech-c:             THEMCV-DN42
+mnt-by:             THEMCV-MNT
+status:             ASSIGNED
+source:             DN42
