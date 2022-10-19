@@ -1,0 +1,7 @@
+mntner:             R0AD-MNT
+admin-c:            R0AD-DN42
+tech-c:             R0AD-DN42
+mnt-by:             R0AD-MNT
+source:             DN42
+auth:               pgp-fingerprint 169416EFE575ECF679E7CB1179501B160B5651F6
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDW/hiDo505Pk/KPCAFDWxE2XtqtEPnLh+4CvF1l/BUHmmgsVsuZsQqQSL8A2DhyhavxMGXO9RPISM7YcBic/WFlpWNJaOZweJVWQChbu5ijZwgKHLcJ6ptwLLcP/rgWYtCQ+dXn2uW5IyMbpfbAuRyvUub6dqRgbTMCUwP7XnjdFs+RHcMTutBBFRit3JW9i9s9JQbT7i35/Xj59dtnNFhq9qKyfehj5ugFH7p4C0Re4Xsvh/X+44H4Obn8H+edfyX6jMIAhr2tOOfD2Tbwnvla2YUKgw7xuw/h2qlNlEb0kOm2FPFObkAaabWHMPZWSDe+ixfTGsiPuOy8Opf4RwQpMf2DuVlb8WeUzB86Nf5zQQCz0IzVQpyFD6+Dk25cX99InhH9m0Vqgsa0vsPKLFy9zONvlOvqi6pR9JpEItj00fPN0q+cRaCkp/zgJScxF8CqyrcArNxRk8p/DVzhRcgW6FE5p2SXr7KfZsB8ODTM3scBZDyFiH/oC7y/cCf3bSOCvCHjhFyMHiBkQHlv3xuZv9ErNMDF/bXt2woDarSO6uZnQTvifxtrXUCAZOdEletWAOxSOBWnf/yIXtAe+cLfRgEoB40Tw2W1V4yGgUa6xnCFKlX22tYLl46qTBQrOzt97VDyRlcEq0YnxA7WNadynEza6pszW1dqxATHc6DTQ==

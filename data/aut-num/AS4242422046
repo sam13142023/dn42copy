@@ -1,0 +1,7 @@
+aut-num:            AS4242422046
+as-name:            R0AD-AS
+descr:              R0AD's Main network, open to peering.
+admin-c:            R0AD-DN42
+tech-c:             R0AD-DN42
+mnt-by:             R0AD-MNT
+source:             DN42
