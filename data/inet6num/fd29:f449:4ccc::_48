@@ -1,0 +1,10 @@
+inet6num:           fd29:f449:4ccc:0000:0000:0000:0000:0000 - fd29:f449:4ccc:ffff:ffff:ffff:ffff:ffff
+netname:            R0AD-IPV6
+descr:              R0AD's IP space
+country:            CN
+admin-c:            R0AD-DN42
+tech-c:             R0AD-DN42
+mnt-by:             R0AD-MNT
+status:             ASSIGNED
+cidr:               fd29:f449:4ccc::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd29:f449:4ccc::/48
+descr:              R0AD's IP space
+origin:             AS4242422046
+mnt-by:             R0AD-MNT
+source:             DN42
