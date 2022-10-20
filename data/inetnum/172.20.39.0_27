@@ -1,10 +1,12 @@
 inetnum:            172.20.39.0 - 172.20.39.31
 cidr:               172.20.39.0/27
-netname:            CYNPPRCLP-V4-2-NET
+netname:            CYNPPRCLP-V4-NET
 descr:              IPv4 Network of Tim Koop (cyanPaperclip)
 country:            DE
 admin-c:            CYNPPRCLP-DN42
 tech-c:             CYNPPRCLP-DN42
 mnt-by:             CYNPPRCLP-MNT
+nserver:            ns1.pprclp.dn42
+ds-rdata:           57363 8 2 76780F4CDBC9C4A689CDCC8A12BFEFEFB67F613EDF53598213E1C745162CD375
 status:             ASSIGNED
 source:             DN42
