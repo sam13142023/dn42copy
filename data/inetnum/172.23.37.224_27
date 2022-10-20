@@ -1,0 +1,8 @@
+inetnum:            172.23.37.224 - 172.23.37.255
+cidr:               172.23.37.224/27
+netname:            THEMCV-NETWORK
+admin-c:            THEMCV-DN42
+tech-c:             THEMCV-DN42
+mnt-by:             THEMCV-MNT
+status:             ASSIGNED
+source:             DN42
