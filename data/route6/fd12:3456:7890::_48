@@ -1,0 +1,5 @@
+route6:             fd12:3456:7890::/48
+descr:              strehi's dn42 network
+origin:             AS4242421761
+mnt-by:             STREHI-DN42-MNT
+source:             DN42
