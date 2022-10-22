@@ -1,0 +1,7 @@
+aut-num:            AS4242421028
+as-name:            VPLINK-AS
+descr:              VPLINK's Main network, open to peering.
+admin-c:            VPLINK-DN42
+tech-c:             VPLINK-DN42
+mnt-by:             VPLINK-MNT
+source:             DN42

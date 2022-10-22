@@ -1,0 +1,5 @@
+route:              172.22.252.128/27
+descr:              VPLINK's IP space
+origin:             AS4242421028
+mnt-by:             VPLINK-MNT
+source:             DN42

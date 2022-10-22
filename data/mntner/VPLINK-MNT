@@ -1,0 +1,7 @@
+mntner:             VPLINK-MNT
+admin-c:            VPLINK-DN42
+tech-c:             VPLINK-DN42
+mnt-by:             VPLINK-MNT
+source:             DN42
+auth:               pgp-fingerprint F74F8DF14673922D78EA2377F66F06365F553C71
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD6gxvjn0eI6IaMHL1bwlvKubMLGxQW8HKG6TWzG/orO/stuH20IA1Yw72RYnw5Mxc38p4qM0MXQPCtn3j5ZCPj8VSh+laJLd5JCNnM/YaGg52WDHY4X78JEzjkEJ9cX7dMDdyGK1g5r3Ztfd7fVqccytIxamzud3fgbe8lcaXo1erq5gX4MYB7S8jHQd3dK1QMEBbkb3W1bj9+jztBLhtr4meeCMThoFiT/HC6tiLMhqeLZjoOwRk7hMZwmCqghG5M9nF/NEoKc3ofHURj7dfSduCtF9hXuGPFWdHpn2e50HARfZ3J+6d50tK3afbReBvQQNlV9WbkcEzSQUJOKRja5oxNSkN9uvPoKOnLimog1WhmX1wsaf/Kv4Cz4sfPW0jwviya0FoWbLeYnvbkNC36SCMgpdtR+2WbFpg2w5Df3gRLOdiIspOavntZMof0+dymhwHP9dFSNq5iHyuZ17ZM+6YTKeaYlnZiu2dy5FALwOK6yrJ9Uu1eCBBIlS8cAPNLnWCpGBHAl5rLc6Yvys58l6kTzjTR5VWVuq5hMdswVwOX3lMphUGb+tXz/gcsC9Ai/3oMNltwPReJKoNdJzQr862UekD2vcxelzRFYbht5HQ4/58kyfFu0u6ykoN2+txDvrgBnmh/Howx+dA1lekTXsTMkvjflWtyp9ZDvgDXDw==
