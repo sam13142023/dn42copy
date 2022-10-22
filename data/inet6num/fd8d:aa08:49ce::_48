@@ -1,0 +1,10 @@
+inet6num:           fd8d:aa08:49ce:0000:0000:0000:0000:0000 - fd8d:aa08:49ce:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8d:aa08:49ce::/48
+netname:            LEEG5168-NETWORK
+descr:              Network of LEEG5168
+country:            GB
+admin-c:            LEEG5168-DN42
+tech-c:             LEEG5168-DN42
+mnt-by:             LEEG5168-MNT
+status:             ASSIGNED
+source:             DN42
