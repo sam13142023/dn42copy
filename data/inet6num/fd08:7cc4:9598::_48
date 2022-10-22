@@ -1,0 +1,10 @@
+inet6num:           fd08:7cc4:9598:0000:0000:0000:0000:0000 - fd08:7cc4:9598:ffff:ffff:ffff:ffff:ffff
+netname:            VPLINK-IPV6
+descr:              VPLINK's IP space
+country:            CN
+admin-c:            VPLINK-DN42
+tech-c:             VPLINK-DN42
+mnt-by:             VPLINK-MNT
+status:             ASSIGNED
+cidr:               fd08:7cc4:9598::/48
+source:             DN42

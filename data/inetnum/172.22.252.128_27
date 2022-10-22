@@ -1,0 +1,10 @@
+inetnum:            172.22.252.128 - 172.22.252.159
+netname:            VPLINK-IPV4
+descr:              VPLINK's IP space
+country:            CN
+admin-c:            VPLINK-DN42
+tech-c:             VPLINK-DN42
+mnt-by:             VPLINK-MNT
+status:             ASSIGNED
+cidr:               172.22.252.128/27
+source:             DN42

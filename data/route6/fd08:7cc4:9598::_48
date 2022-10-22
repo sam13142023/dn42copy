@@ -1,0 +1,5 @@
+route6:             fd08:7cc4:9598::/48
+descr:              VPLINK's IP space
+origin:             AS4242421028
+mnt-by:             VPLINK-MNT
+source:             DN42
