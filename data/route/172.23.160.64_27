@@ -1,0 +1,4 @@
+route:              172.23.160.64/27
+origin:             AS4242420365
+mnt-by:             ALEKSANA-MNT
+source:             DN42

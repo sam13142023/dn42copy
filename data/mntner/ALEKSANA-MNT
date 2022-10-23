@@ -1,0 +1,7 @@
+mntner:             ALEKSANA-MNT
+descr:              Network Of Aleksana
+admin-c:            ALEKSANA-DN42
+tech-c:             ALEKSANA-DN42
+auth:               pgp-fingerprint 1ed654b615d04c0bd246f6fe69c57fcfbb0f685f
+mnt-by:             ALEKSANA-MNT
+source:             DN42
