@@ -1,0 +1,9 @@
+inetnum:            172.23.160.64 - 172.23.160.95
+cidr:               172.23.160.64/27
+netname:            ALEKSANA-IPV4
+descr:              Main Block for Aleksana Network
+admin-c:            ALEKSANA-DN42
+tech-c:             ALEKSANA-DN42
+mnt-by:             ALEKSANA-MNT
+status:             ASSIGNED
+source:             DN42
