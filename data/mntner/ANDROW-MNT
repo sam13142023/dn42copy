@@ -2,7 +2,7 @@ mntner:             ANDROW-MNT
 admin-c:            ANDROW-DN42
 tech-c:             ANDROW-DN42
 mnt-by:             ANDROW-MNT
-auth:               pgp-fingerprint CF33C3073E499FA58E0F6EA492B4627DCC01B2BD
+auth:               pgp-fingerprint 58816CAEA22DB434C744CAA0BDE9D4146DB38124
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK9ZMFMKKxJYxkMYp33502fq3MH37BJyjI8pUx5iU1fM
 auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGXzJPT8Rks6nxCwr3CbbWlxR6MQRVXs0a20AjGz1JS4p9VLuUIVyd+HsbjiG9i3Vgvgd/MAjGbWUbJ76DDwjS0HgCAM09KaPj1vegVHdV5nDlOc1wXd88wKdZoZd1rjd6Bfcdkq2R+MXOpLjIp6JIvd6NvtbUCg9p0iGype3v/MgCz+w==
 source:             DN42
