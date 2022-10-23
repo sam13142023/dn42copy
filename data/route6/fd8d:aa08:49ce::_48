@@ -1,0 +1,5 @@
+route6:             fd8d:aa08:49ce::/48
+origin:             AS4242421849
+max-length:         48
+mnt-by:             LEEG5168-MNT
+source:             DN42
