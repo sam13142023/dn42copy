@@ -1,0 +1,7 @@
+domain:             mirsal.dn42
+admin-c:            MIRSAL-DN42
+tech-c:             MIRSAL-DN42
+mnt-by:             MIRSAL-MNT
+nserver:            ns1.fr-ax1.mirsal.dn42 172.23.107.4
+nserver:            ns1.fr-ax1.mirsal.dn42 fd42:2308:4a3f::53
+source:             DN42

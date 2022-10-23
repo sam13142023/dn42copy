@@ -6,4 +6,5 @@ admin-c:            MIRSAL-DN42
 tech-c:             MIRSAL-DN42
 mnt-by:             MIRSAL-MNT
 status:             ASSIGNED
+nserver:            ns1.fr-ax1.mirsal.dn42
 source:             DN42
