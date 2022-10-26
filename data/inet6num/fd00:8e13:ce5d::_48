@@ -1,6 +1,8 @@
 inet6num:           fd00:8e13:ce5d:0000:0000:0000:0000:0000 - fd00:8e13:ce5d:ffff:ffff:ffff:ffff:ffff
 cidr:               fd00:8e13:ce5d::/48
 netname:            BANDURAS-LAB-NETWORK
+nserver:            ns1.lab.bandura.dn42
+ds-rdata:           63869 15 2 E452B8D35A496B0F82D43083FDF7BE9DE57F5BE647A22B041F533C4BDE9646E3
 org:                ORG-BC
 mnt-by:             MARK22K-MNT
 status:             ASSIGNED
