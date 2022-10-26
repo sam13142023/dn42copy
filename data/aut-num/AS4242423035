@@ -1,6 +1,11 @@
 aut-num:            AS4242423035
 as-name:            AS-LARE-DN42
-remarks:            peering wireguard mailto:lare@lare.cc
+remarks:            =============================================
+remarks:            | Open peering: multiple locations          |
+remarks:            | DE, US, NZ, FI, (others in the future)    |
+remarks:            | for details see: lare.dn42 / dn42.lare.cc |
+remarks:            | looking glass: lg.lare.dn42 / lg.lare.cc  |
+remarks:            =============================================
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
