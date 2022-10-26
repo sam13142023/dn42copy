@@ -3,10 +3,13 @@ cidr:               fd01:1926:817::/48
 netname:            NIA-NET-CN6
 descr:              Niantic Network CN IPv6
 country:            CN
-admin-c:            NIA-DN42
-tech-c:             NIA-DN42
+admin-c:            NU-DN42
+tech-c:             NU-DN42
 nserver:            ns.nia.dn42
-org:                ORG-NIA
+org:                ORG-NU
 mnt-by:             NIA-MNT
+mnt-by:             HACKER-MNT
+mnt-by:             DAVIDWANG-MNT
+mnt-by:             NATIVUS-MNT
 status:             ASSIGNED
 source:             DN42

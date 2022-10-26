@@ -1,9 +1,13 @@
 aut-num:            AS4242421332
-as-name:            Niantic Network CN
-admin-c:            NIA-DN42
-tech-c:             NIA-DN42
+as-name:            NIACN-AS
+descr:              Niantic Network CN
+admin-c:            NU-DN42
+tech-c:             NU-DN42
 mnt-by:             NIA-MNT
-org:                ORG-NIA
+mnt-by:             HACKER-MNT
+mnt-by:             DAVIDWANG-MNT
+mnt-by:             NATIVUS-MNT
+org:                ORG-NU
 source:             DN42
 mp-import:          afi any.unicast from AS-NIA:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS-NIA:AS-TRANSIT announce ANY
@@ -25,4 +29,6 @@ remarks:            |  - CERNET (More priority)               |
 remarks:            +-----------------------------------------+
 remarks:            | Contact: dn42@strexp.net                |
 remarks:            | Services: See AS4242421331              |
+remarks:            +-----------------------------------------+
+remarks:            | Now managed by NetUnion.                |
 remarks:            +-----------------------------------------+

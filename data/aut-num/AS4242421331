@@ -1,5 +1,6 @@
 aut-num:            AS4242421331
-as-name:            Niantic Network
+as-name:            NIA-AS
+descr:              Niantic Network
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42
 mnt-by:             NIA-MNT

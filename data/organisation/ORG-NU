@@ -1,6 +1,7 @@
-route6:             fd01:1926:817::/48
-origin:             AS4242421332
-max-length:         48
+organisation:       ORG-NU
+org-name:           NetUnion
+admin-c:            NU-DN42
+tech-c:             NU-DN42
 mnt-by:             NIA-MNT
 mnt-by:             HACKER-MNT
 mnt-by:             DAVIDWANG-MNT

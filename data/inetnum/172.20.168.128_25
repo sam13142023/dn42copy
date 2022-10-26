@@ -3,10 +3,13 @@ cidr:               172.20.168.128/25
 netname:            NIA-NET-CN
 descr:              Niantic Network CN
 country:            CN
-org:                ORG-NIA
-admin-c:            NIA-DN42
-tech-c:             NIA-DN42
+org:                ORG-NU
+admin-c:            NU-DN42
+tech-c:             NU-DN42
 nserver:            ns.nia.dn42
 mnt-by:             NIA-MNT
+mnt-by:             HACKER-MNT
+mnt-by:             DAVIDWANG-MNT
+mnt-by:             NATIVUS-MNT
 status:             ASSIGNED
 source:             DN42

@@ -1,8 +1,9 @@
-route6:             fd01:1926:817::/48
-origin:             AS4242421332
-max-length:         48
+domain:             nu.dn42
+admin-c:            NU-DN42
+tech-c:             NU-DN42
 mnt-by:             NIA-MNT
 mnt-by:             HACKER-MNT
 mnt-by:             DAVIDWANG-MNT
 mnt-by:             NATIVUS-MNT
+nserver:            ns.nia.dn42 fd00:1926:817:5353::1
 source:             DN42
