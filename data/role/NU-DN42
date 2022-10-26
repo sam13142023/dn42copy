@@ -1,0 +1,11 @@
+role:               Net Union
+abuse-mailbox:      abuse@strexp.net
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+nic-hdl:            NU-DN42
+org:                ORG-NU
+mnt-by:             NIA-MNT
+mnt-by:             HACKER-MNT
+mnt-by:             DAVIDWANG-MNT
+mnt-by:             NATIVUS-MNT
+source:             DN42
