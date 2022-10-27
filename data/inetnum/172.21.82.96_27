@@ -1,0 +1,8 @@
+inetnum:            172.21.82.96 - 172.21.82.127
+cidr:               172.21.82.96/27
+netname:            MORIK-NETWORK
+admin-c:            MORIK-DN42
+tech-c:             MORIK-DN42
+mnt-by:             MORIK-MNT
+status:             ASSIGNED
+source:             DN42

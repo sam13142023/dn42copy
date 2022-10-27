@@ -1,0 +1,4 @@
+route:              172.21.82.96/27
+origin:             AS4242421482
+mnt-by:             MORIK-MNT
+source:             DN42

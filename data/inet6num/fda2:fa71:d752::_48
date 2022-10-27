@@ -1,0 +1,10 @@
+inet6num:           fda2:fa71:d752:0000:0000:0000:0000:0000 - fda2:fa71:d752:ffff:ffff:ffff:ffff:ffff
+cidr:               fda2:fa71:d752::/48
+netname:            MORIK-NETWORK
+descr:              Network of MORIK
+country:            AT
+admin-c:            MORIK-DN42
+tech-c:             MORIK-DN42
+mnt-by:             MORIK-MNT
+status:             ASSIGNED
+source:             DN42
