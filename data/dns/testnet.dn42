@@ -1,0 +1,10 @@
+domain:             testnet.dn42
+descr:              domain registration for TestNet in DN42
+admin-c:            TESTNET-DN42
+tech-c:             TESTNET-DN42
+mnt-by:             TESTNET-MNT
+nserver:            ns1.testnet.dn42 172.23.99.70
+nserver:            ns1.testnet.dn42 fd42:5943:cafe:4444::163
+nserver:            ns2.testnet.dn42 172.23.99.64
+nserver:            ns1.testnet.dn42 fd42:5943:cafe:4448::163
+source:             DN42

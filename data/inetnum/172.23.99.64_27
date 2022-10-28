@@ -5,5 +5,7 @@ country:            CN
 admin-c:            TESTNET-DN42
 tech-c:             TESTNET-DN42
 mnt-by:             TESTNET-MNT
+nserver:            ns1.testnet.dn42
+nserver:            ns2.testnet.dn42
 status:             ASSIGNED
 source:             DN42
