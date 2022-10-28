@@ -1,0 +1,10 @@
+inet6num:           fd01:4c1e:e3fd:0000:0000:0000:0000:0000 - fd01:4c1e:e3fd:ffff:ffff:ffff:ffff:ffff
+netname:            ALEKSANA-IPV6
+descr:              Main IPV6 Block for Aleksana Network
+admin-c:            ALEKSANA-DN42
+tech-c:             ALEKSANA-DN42
+mnt-by:             ALEKSANA-MNT
+status:             ASSIGNED
+cidr:               fd01:4c1e:e3fd::/48
+nserver:            ns1.a.dn42
+source:             DN42

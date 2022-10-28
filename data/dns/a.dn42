@@ -1,0 +1,8 @@
+domain:             a.dn42
+descr:              Domain of Aleksana
+admin-c:            ALEKSANA-DN42
+tech-c:             ALEKSANA-DN42
+mnt-by:             ALEKSANA-MNT
+nserver:            ns1.a.dn42 172.23.160.65
+nserver:            ns1.a.dn42 fd01:4c1e:e3fd::1
+source:             DN42
