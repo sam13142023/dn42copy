@@ -1,5 +1,6 @@
 aut-num:            AS4242423308
-as-name:            AS for TestNet DN42 Network
+as-name:            TestNet
+descr:              TestNet DN42 IP Backbone is a research network for BGP experiment.
 admin-c:            TESTNET-DN42
 tech-c:             TESTNET-DN42
 mnt-by:             TESTNET-MNT
