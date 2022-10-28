@@ -1,0 +1,14 @@
+inetnum:            172.22.125.128 - 172.22.125.191
+cidr:               172.22.125.128/26
+netname:            LARE-NETWORK-V4
+descr:              Lare's IPv4 Network
+country:            BE
+admin-c:            LARE-DN42
+tech-c:             LARE-DN42
+mnt-by:             LARE-MNT
+status:             ASSIGNED
+nserver:            ns.lare.dn42
+nserver:            ns1.lare.dn42
+nserver:            ns2.lare.dn42
+ds-rdata:           12424 13 2 27476D3CF4EC01B0C0588F8B157B736A4E78F604343E586C26247F8381B80A03
+source:             DN42
