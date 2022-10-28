@@ -1,0 +1,5 @@
+route6:             fda2:fa71:d752::/48
+origin:             AS4242421482
+max-length:         48
+mnt-by:             MORIK-MNT
+source:             DN42
