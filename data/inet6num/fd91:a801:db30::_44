@@ -1,0 +1,10 @@
+inet6num:           fd91:a801:db30:0000:0000:0000:0000:0000 - fd91:a801:db3f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:a801:db30::/44
+netname:            A80VJG1-NETWORK
+descr:              Network of a80vjg1
+country:            HU
+admin-c:            A80VJG1-DN42
+tech-c:             A80VJG1-DN42
+mnt-by:             A80VJG1-MNT
+status:             ASSIGNED
+source:             DN42

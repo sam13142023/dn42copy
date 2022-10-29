@@ -1,0 +1,5 @@
+route6:             fd91:a801:db30::/44
+origin:             AS4242420818
+max-length:         44
+mnt-by:             A80VJG1-MNT
+source:             DN42
