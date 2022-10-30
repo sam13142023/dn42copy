@@ -3,6 +3,6 @@ admin-c:            TOMDANG-DN42
 tech-c:             TOMDANG-DN42
 mnt-by:             TOMDANG-MNT
 country:            CN
-nserver:            ns1.naivetomcat.dn42 172.23.163.177
-nserver:            ns1.naivetomcat.dn42 fda8:6b5c:e374:8888::
+nserver:            ns1.naivetomcat.dn42 172.23.163.161
+nserver:            ns1.naivetomcat.dn42 fda8:6b5c:e372:abcd::
 source:             DN42
