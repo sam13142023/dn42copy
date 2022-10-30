@@ -1,0 +1,4 @@
+route:              172.21.118.224/27
+origin:             AS4242421372
+mnt-by:             EMILIJUS-MNT
+source:             DN42

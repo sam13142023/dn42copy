@@ -1,0 +1,8 @@
+inet6num:           fd98:f8f1:d659:0000:0000:0000:0000:0000 - fd98:f8f1:d659:ffff:ffff:ffff:ffff:ffff
+cidr:               fd98:f8f1:d659::/48
+netname:            EMILIJUS-IPV6
+admin-c:            EMILIJUS-DN42
+tech-c:             EMILIJUS-DN42
+mnt-by:             EMILIJUS-MNT
+status:             ASSIGNED
+source:             DN42
