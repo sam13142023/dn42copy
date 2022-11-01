@@ -2,13 +2,13 @@ inetnum:            172.23.37.192 - 172.23.37.223
 cidr:               172.23.37.192/27
 netname:            TEAM-MARIONIC-TESTNET-IP4
 descr:              Team Marionic IPv4 Global Testnet.
-country:            CN
 country:            JP
 country:            US
 admin-c:            MARIONIC-DN42
 tech-c:             MARIONIC-DN42
 mnt-by:             MARIONIC-MNT
-nserver:            ns1.marionicnet.dn42
-nserver:            ns2.marionicnet.dn42
+nserver:            ns1.marionic.dn42
+nserver:            ns2.marionic.dn42
+nserver:            ns3.marionic.dn42
 status:             ASSIGNED
 source:             DN42
