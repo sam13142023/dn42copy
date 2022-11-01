@@ -1,0 +1,16 @@
+domain:             marionic.dn42
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+nserver:            ns1.marionic.dn42 172.23.37.114
+nserver:            ns1.marionic.dn42 fd21:129:81d2:7253:114:114:ac17:2572
+nserver:            ns2.marionic.dn42 172.23.37.209
+nserver:            ns2.marionic.dn42 fd21:129:81d2:5053::723
+nserver:            ns3.marionic.dn42 172.23.37.97
+nserver:            ns3.marionic.dn42 fd21:129:81d2:0153::702
+remarks:            --------------------------------------------
+remarks:            |  NS1: ANYCAST SERVER.                    |
+remarks:            |  NS2 Location: Tokyo, Japan.             |
+remarks:            |  NS3 Location: Taiyuan, China.           |
+remarks:            --------------------------------------------
+mnt-by:             MARIONIC-MNT
+source:             DN42

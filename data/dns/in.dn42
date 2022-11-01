@@ -1,0 +1,8 @@
+domain:             in.dn42
+admin-c:            MARIONIC-DN42
+tech-c:             MARIONIC-DN42
+nserver:            ns1.marionic.dn42
+nserver:            ns2.marionic.dn42
+nserver:            ns3.marionic.dn42
+mnt-by:             MARIONIC-MNT
+source:             DN42
