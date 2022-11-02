@@ -1,0 +1,10 @@
+inet6num:           fd30:00d2:794a:0000:0000:0000:0000:0000 - fd30:00d2:794a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd30:d2:794a::/48
+netname:            KRAZYGLUE-NETWORK
+descr:              Network of KRAZYGLUE
+country:            CA
+admin-c:            KRAZYGLUE-DN42
+tech-c:             KRAZYGLUE-DN42
+mnt-by:             KRAZYGLUE-MNT
+status:             ASSIGNED
+source:             DN42

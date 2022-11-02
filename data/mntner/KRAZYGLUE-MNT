@@ -1,0 +1,6 @@
+mntner:             KRAZYGLUE-MNT
+admin-c:            KRAZYGLUE-DN42
+tech-c:             KRAZYGLUE-DN42
+mnt-by:             KRAZYGLUE-MNT
+auth:               pgp-fingerprint 1E652F9F39ACE9E206C8A37F2779F4CBD1DBCBA0
+source:             DN42
