@@ -5,4 +5,5 @@ www:                https://www.tionet.dn42/
 pgp-fingerprint:    4CCD446A449A83E011E466A931F9E83AAC6B351C
 nic-hdl:            TIONET-DN42
 mnt-by:             TIONET-MNT
+org:                ORG-TIO
 source:             DN42

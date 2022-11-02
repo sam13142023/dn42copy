@@ -1,0 +1,4 @@
+route:              172.22.134.32/27
+origin:             AS4242422563
+mnt-by:             TIONET-MNT
+source:             DN42
