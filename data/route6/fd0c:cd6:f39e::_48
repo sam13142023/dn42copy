@@ -1,0 +1,5 @@
+route6:             fd0c:cd6:f39e::/48
+origin:             AS4242420850
+max-length:         48
+mnt-by:             NYABLA-MNT
+source:             DN42

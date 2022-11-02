@@ -1,0 +1,4 @@
+route:              172.21.67.240/28
+origin:             AS4242420850
+mnt-by:             NYABLA-MNT
+source:             DN42
