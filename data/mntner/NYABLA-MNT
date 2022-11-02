@@ -1,0 +1,6 @@
+mntner:             NYABLA-MNT
+admin-c:            NYABLA-DN42
+tech-c:             NYABLA-DN42
+mnt-by:             NYABLA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBcWq++rkmRBUG74st1ctT7Izqj1L8J9C96vbVCcP3hA
+source:             DN42

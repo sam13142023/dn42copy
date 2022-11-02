@@ -1,0 +1,10 @@
+inet6num:           fd0c:0cd6:f39e:0000:0000:0000:0000:0000 - fd0c:0cd6:f39e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0c:cd6:f39e::/48
+netname:            NYABLA-NETWORK
+descr:              nyabla network! nyaa~~ :3
+country:            GB
+admin-c:            NYABLA-DN42
+tech-c:             NYABLA-DN42
+mnt-by:             NYABLA-MNT
+status:             ASSIGNED
+source:             DN42
