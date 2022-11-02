@@ -1,0 +1,5 @@
+route6:             fd30:d2:794a::/48
+origin:             AS4242422969
+max-length:         48
+mnt-by:             KRAZYGLUE-MNT
+source:             DN42
