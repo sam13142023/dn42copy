@@ -1,0 +1,7 @@
+domain:             moriknet.dn42
+admin-c:            MORIK-DN42
+tech-c:             MORIK-DN42
+mnt-by:             MORIK-MNT
+nserver:            ns1.moriknet.dn42 172.21.82.99
+nserver:            ns1.moriknet.dn42 fda2:fa71:d752::3
+source:             DN42

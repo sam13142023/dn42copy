@@ -7,4 +7,5 @@ admin-c:            MORIK-DN42
 tech-c:             MORIK-DN42
 mnt-by:             MORIK-MNT
 status:             ASSIGNED
+nserver:            ns1.moriknet.dn42
 source:             DN42
