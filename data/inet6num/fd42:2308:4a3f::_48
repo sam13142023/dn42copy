@@ -8,4 +8,5 @@ mnt-by:             MIRSAL-MNT
 status:             ASSIGNED
 cidr:               fd42:2308:4a3f::/48
 nserver:            ns1.fr-ax1.mirsal.dn42
+ds-rdata:           49825 13 2 D1C42A50F478990B7F55DB79DD1E4B18CBECDFE77FD4A7EEF2D767319977F234
 source:             DN42

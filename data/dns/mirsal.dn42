@@ -4,4 +4,5 @@ tech-c:             MIRSAL-DN42
 mnt-by:             MIRSAL-MNT
 nserver:            ns1.fr-ax1.mirsal.dn42 172.23.107.4
 nserver:            ns1.fr-ax1.mirsal.dn42 fd42:2308:4a3f::53
+ds-rdata:           20605 13 2 856AF0CCA73DB804E927AD572D5E1B71C0A33C11CDD8E9D59DCC5484127F6D9F
 source:             DN42
