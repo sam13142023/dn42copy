@@ -1,0 +1,9 @@
+organisation:       ORG-TIO
+org-name:           TIOnet
+descr:              TIOnet
+admin-c:            TIONET-DN42
+tech-c:             TIONET-DN42
+mnt-by:             TIONET-MNT
+e-mail:             info@tionet.dn42.cloud
+abuse-mailbox:      abuse@tionet.dn42.cloud
+source:             DN42

@@ -1,9 +1,11 @@
 inetnum:            172.20.231.64 - 172.20.231.95
 cidr:               172.20.231.64/27
-netname:            TIONET-V4-1
+nserver:            ns1.as4242422563.dn42
+netname:            TIONET-V4-2
 country:            SK
 admin-c:            TIONET-DN42
 tech-c:             TIONET-DN42
 mnt-by:             TIONET-MNT
 status:             ASSIGNED
+org:                ORG-TIO
 source:             DN42

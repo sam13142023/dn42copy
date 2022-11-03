@@ -1,11 +1,10 @@
-inet6num:           fd69:7777:3004:0000:0000:0000:0000:0000 - fd69:7777:3004:ffff:ffff:ffff:ffff:ffff
-cidr:               fd69:7777:3004::/48
+inetnum:            172.22.134.32 - 172.22.134.63
+cidr:               172.22.134.32/27
 nserver:            ns1.as4242422563.dn42
-netname:            TIONET-V6-1
+netname:            TIONET-V4-1
 country:            SK
 admin-c:            TIONET-DN42
 tech-c:             TIONET-DN42
 mnt-by:             TIONET-MNT
 status:             ASSIGNED
-org:                ORG-TIO
 source:             DN42

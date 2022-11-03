@@ -4,4 +4,5 @@ descr:              roman AS
 admin-c:            TIONET-DN42
 tech-c:             TIONET-DN42
 mnt-by:             TIONET-MNT
+org:                ORG-TIO
 source:             DN42
