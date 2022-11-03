@@ -1,0 +1,5 @@
+route6:             fd10:6ef9:4d45::/48
+origin:             AS4242422954
+max-length:         48
+mnt-by:             THERESNOTIME-MNT
+source:             DN42

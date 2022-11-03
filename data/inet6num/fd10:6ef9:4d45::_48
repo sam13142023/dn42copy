@@ -1,0 +1,10 @@
+inet6num:           fd10:6ef9:4d45:0000:0000:0000:0000:0000 - fd10:6ef9:4d45:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:6ef9:4d45::/48
+netname:            THERESNOTIME-NETWORK
+descr:              meow
+country:            GB
+admin-c:            THERESNOTIME-DN42
+tech-c:             THERESNOTIME-DN42
+mnt-by:             THERESNOTIME-MNT
+status:             ASSIGNED
+source:             DN42
