@@ -1,0 +1,8 @@
+inetnum:            172.20.62.80 - 172.20.62.95
+cidr:               172.20.62.80/28
+netname:            KRAZYGLUE-NETWORK
+admin-c:            KRAZYGLUE-DN42
+tech-c:             KRAZYGLUE-DN42
+mnt-by:             KRAZYGLUE-MNT
+status:             ASSIGNED
+source:             DN42
