@@ -7,6 +7,5 @@ mnt-by:             KEUIN-MNT
 status:             ASSIGNED
 country:            CN
 country:            US
-nserver:            ns1.keuin.dn42
-nserver:            ns2.keuin.dn42
+nserver:            ns1.tk.dn42
 source:             DN42

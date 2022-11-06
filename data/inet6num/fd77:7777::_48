@@ -8,4 +8,5 @@ admin-c:            KEUIN-DN42
 tech-c:             KEUIN-DN42
 mnt-by:             KEUIN-MNT
 status:             ASSIGNED
+nserver:            ns1.tk.dn42
 source:             DN42
