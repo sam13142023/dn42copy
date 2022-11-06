@@ -1,0 +1,9 @@
+domain:             cloud.dn42
+descr:              DN42 Cloud Project
+admin-c:            TIONET-DN42
+tech-c:             TIONET-DN42
+mnt-by:             TIONET-MNT
+nserver:            ns1.cloud.dn42 172.22.134.53
+nserver:            ns1.cloud.dn42 fd69:7777:3004::53
+org:                ORG-TIO
+source:             DN42
