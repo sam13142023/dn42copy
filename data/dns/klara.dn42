@@ -1,0 +1,7 @@
+domain:             klara.dn42
+admin-c:            KLARA-DN42
+tech-c:             KLARA-DN42
+mnt-by:             KLARA-MNT
+nserver:            ns1.klara.dn42 fd85:1dea:2093:1301::53:1
+nserver:            ns3.klara.dn42 fd85:1dea:2093:12fe::53:1
+source:             DN42
