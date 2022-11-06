@@ -1,0 +1,11 @@
+inet6num:           fd22:d6c3:34e0:0000:0000:0000:0000:0000 - fd22:d6c3:34e0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:d6c3:34e0::/48
+netname:            TACITIS-NETWORK
+descr:              Tacitis Network
+admin-c:            TACITIS-DN42
+tech-c:             TACITIS-DN42
+mnt-by:             TACITIS-MNT
+nserver:            ns1.tacitis.dn42
+nserver:            ns2.tacitis.dn42
+status:             ASSIGNED
+source:             DN42
