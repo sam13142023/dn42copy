@@ -1,0 +1,7 @@
+domain:             tk.dn42
+admin-c:            KEUIN-DN42
+tech-c:             KEUIN-DN42
+mnt-by:             KEUIN-MNT
+nserver:            ns1.tk.dn42 172.23.36.65
+nserver:            ns1.tk.dn42 fd77:7777::1
+source:             DN42
