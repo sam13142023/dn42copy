@@ -1,0 +1,5 @@
+route6:             fd8c:78:2fe2::/48
+descr:              sci's IPv6 route
+origin:             AS4242421216
+mnt-by:             MINAZUKI-MNT
+source:             DN42

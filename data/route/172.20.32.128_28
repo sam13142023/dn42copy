@@ -1,0 +1,5 @@
+route:              172.20.32.128/28
+descr:              sci's IPv4 route
+origin:             AS4242421216
+mnt-by:             MINAZUKI-MNT
+source:             DN42

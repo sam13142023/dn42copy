@@ -1,0 +1,12 @@
+inetnum:            172.20.32.128 - 172.20.32.143
+netname:            YUKINEKO-IPV4
+descr:              sci's IPv4 block
+country:            CN
+admin-c:            NYANCAT-DN42
+tech-c:             NYANCAT-DN42
+mnt-by:             MINAZUKI-MNT
+nserver:            ns1.koishi.dn42
+nserver:            ns2.koishi.dn42
+status:             ASSIGNED
+cidr:               172.20.32.128/28
+source:             DN42
