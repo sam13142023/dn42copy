@@ -1,0 +1,7 @@
+domain:             tacitis.dn42
+admin-c:            TACITIS-DN42
+tech-c:             TACITIS-DN42
+mnt-by:             TACITIS-MNT
+nserver:            ns1.tacitis.dn42 fd22:d6c3:34e0::53:1
+nserver:            ns2.tacitis.dn42 fd22:d6c3:34e0::53:2
+source:             DN42

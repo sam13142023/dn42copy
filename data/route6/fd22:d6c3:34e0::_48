@@ -1,0 +1,5 @@
+route6:             fd22:d6c3:34e0::/48
+origin:             AS4242422763
+max-length:         48
+mnt-by:             TACITIS-MNT
+source:             DN42

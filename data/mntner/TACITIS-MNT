@@ -1,0 +1,6 @@
+mntner:             TACITIS-MNT
+admin-c:            TACITIS-DN42
+tech-c:             TACITIS-DN42
+mnt-by:             TACITIS-MNT
+auth:               pgp-fingerprint C1A26C81763C5065BD119F5E35BF88CEF81562D8
+source:             DN42
