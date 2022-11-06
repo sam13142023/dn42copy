@@ -5,5 +5,7 @@ country:            SE
 admin-c:            KLARA-DN42
 tech-c:             KLARA-DN42
 mnt-by:             KLARA-MNT
+nserver:            ns1.klara.dn42
+nserver:            ns3.klara.dn42
 status:             ASSIGNED
 source:             DN42
