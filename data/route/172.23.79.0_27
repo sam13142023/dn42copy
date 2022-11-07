@@ -1,0 +1,5 @@
+route:              172.23.79.0/27
+descr:              IAMM NETWORK IP space
+origin:             AS4242422582
+mnt-by:             IUBOY-MNT
+source:             DN42

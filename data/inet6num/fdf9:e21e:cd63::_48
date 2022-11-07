@@ -1,0 +1,10 @@
+inet6num:           fdf9:e21e:cd63:0000:0000:0000:0000:0000 - fdf9:e21e:cd63:ffff:ffff:ffff:ffff:ffff
+netname:            IUBOY-IPV6
+descr:              IAMM NETWORK IP space
+country:            CN
+admin-c:            IUBOY-DN42
+tech-c:             IUBOY-DN42
+mnt-by:             IUBOY-MNT
+status:             ASSIGNED
+cidr:               fdf9:e21e:cd63::/48
+source:             DN42
