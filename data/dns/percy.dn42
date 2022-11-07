@@ -1,0 +1,9 @@
+domain:             percy.dn42
+admin-c:            PERCY-DN42
+tech-c:             PERCY-DN42
+mnt-by:             PERCY-MNT
+nserver:            ns1.percy.dn42	172.20.202.225
+nserver:            ns1.percy.dn42	fd24:365d:ab1e:53::1
+nserver:            ns2.percy.dn42	172.20.202.226
+nserver:            ns2.percy.dn42	fd24:365d:ab1e:53::2
+source:             DN42

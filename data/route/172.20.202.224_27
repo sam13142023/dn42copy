@@ -1,0 +1,4 @@
+route:              172.20.202.224/27
+origin:             AS4242421705
+mnt-by:             PERCY-MNT
+source:             DN42
