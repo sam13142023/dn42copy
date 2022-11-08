@@ -1,0 +1,10 @@
+inetnum:            172.23.181.0 - 172.23.181.31
+netname:            EKI-IPv4
+descr:              EKI-Network IPv4
+country:            CN
+admin-c:            EKI-DN42
+tech-c:             EKI-DN42
+mnt-by:             EKI-MNT
+status:             ASSIGNED
+cidr:               172.23.181.0/27
+source:             DN42
