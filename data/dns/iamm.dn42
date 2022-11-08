@@ -1,0 +1,7 @@
+domain:             iamm.dn42
+admin-c:            IUBOY-DN42
+tech-c:             IUBOY-DN42
+mnt-by:             IUBOY-MNT
+nserver:            ns.iamm.dn42 172.23.79.1
+nserver:            ns.iamm.dn42 fdf9:e21e:cd63::33:1
+source:             DN42

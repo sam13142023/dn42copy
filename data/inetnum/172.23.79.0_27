@@ -1,4 +1,5 @@
 inetnum:            172.23.79.0 - 172.23.79.31
+cidr:               172.23.79.0/27
 netname:            IUBOY-IPV4
 descr:              IAMM NETWORK IP space
 country:            CN
@@ -6,5 +7,5 @@ admin-c:            IUBOY-DN42
 tech-c:             IUBOY-DN42
 mnt-by:             IUBOY-MNT
 status:             ASSIGNED
-cidr:               172.23.79.0/27
+nserver:            ns.iamm.dn42
 source:             DN42
