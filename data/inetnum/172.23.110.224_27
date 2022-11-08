@@ -1,0 +1,10 @@
+inetnum:            172.23.110.224 - 172.23.110.255
+cidr:               172.23.110.224/27
+descr:               Network of 0x57.li
+netname:            0X57-NETWORK
+country:            be
+admin-c:            0X57-DN42
+tech-c:             0X57-DN42
+mnt-by:             0X57-MNT
+status:             ASSIGNED
+source:             DN42
