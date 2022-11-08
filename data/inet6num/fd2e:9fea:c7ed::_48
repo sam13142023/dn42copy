@@ -1,0 +1,10 @@
+inet6num:           fd2e:9fea:c7ed:0000:0000:0000:0000:0000 - fd2e:9fea:c7ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:9fea:c7ed::/48
+netname:            SCOOPTA-NETWORK
+descr:              Scoopta's network
+country:            US
+admin-c:            SCOOPTA-DN42
+tech-c:             SCOOPTA-DN42
+mnt-by:             SCOOPTA-MNT
+status:             ASSIGNED
+source:             DN42
