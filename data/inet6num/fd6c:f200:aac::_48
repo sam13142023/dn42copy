@@ -1,0 +1,10 @@
+inet6num:           fd6c:f200:0aac:0000:0000:0000:0000:0000 - fd6c:f200:0aac:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6c:f200:aac::/48
+descr:              Network of 0x57.li
+netname:            0X57-NETWORK
+country:            be
+admin-c:            0X57-DN42
+tech-c:             0X57-DN42
+mnt-by:             0X57-MNT
+status:             ASSIGNED
+source:             DN42
