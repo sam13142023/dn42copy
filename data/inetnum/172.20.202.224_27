@@ -1,0 +1,10 @@
+inetnum:            172.20.202.224 - 172.20.202.255
+cidr:               172.20.202.224/27
+netname:            PERCY-NETWORK
+admin-c:            PERCY-DN42
+tech-c:             PERCY-DN42
+mnt-by:             PERCY-MNT
+status:             ASSIGNED
+nserver:            ns1.percy.dn42
+nserver:            ns2.percy.dn42
+source:             DN42

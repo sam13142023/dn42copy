@@ -1,0 +1,12 @@
+inet6num:           fd24:365d:ab1e:0000:0000:0000:0000:0000 - fd24:365d:ab1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd24:365d:ab1e::/48
+netname:            PERCY-NETWORK
+descr:              percy.cloud
+country:            US
+admin-c:            PERCY-DN42
+tech-c:             PERCY-DN42
+mnt-by:             PERCY-MNT
+status:             ASSIGNED
+nserver:            ns1.percy.dn42
+nserver:            ns2.percy.dn42
+source:             DN42

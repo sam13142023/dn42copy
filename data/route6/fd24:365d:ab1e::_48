@@ -1,0 +1,5 @@
+route6:             fd24:365d:ab1e::/48
+origin:             AS4242421705
+max-length:         48
+mnt-by:             PERCY-MNT
+source:             DN42
