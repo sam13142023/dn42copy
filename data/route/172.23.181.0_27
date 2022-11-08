@@ -1,0 +1,5 @@
+route:              172.23.181.0/27
+descr:              EKI-Network IPv4
+origin:             AS4242422837
+mnt-by:             EKI-MNT
+source:             DN42
