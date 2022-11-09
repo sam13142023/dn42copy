@@ -1,0 +1,9 @@
+inetnum:            172.23.79.32 - 172.23.79.63
+cidr:               172.23.79.32/27
+nserver:            ns1.viyerelu.dn42
+netname:            VIYERELU-NETWORK
+admin-c:            VIYERELU-DN42
+tech-c:             VIYERELU-DN42
+mnt-by:             VIYERELU-MNT
+status:             ASSIGNED
+source:             DN42
