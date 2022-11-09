@@ -1,0 +1,4 @@
+route:              172.21.94.64/27
+origin:             AS4242422763
+mnt-by:             TACITIS-MNT
+source:             DN42
