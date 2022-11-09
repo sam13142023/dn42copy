@@ -3,4 +3,5 @@ admin-c:            TACITIS-DN42
 tech-c:             TACITIS-DN42
 mnt-by:             TACITIS-MNT
 auth:               pgp-fingerprint C1A26C81763C5065BD119F5E35BF88CEF81562D8
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKeruJolxR1Gtgx3uzg6D8ZuZLnlQJ8HVjJwuV/8Ggw1
 source:             DN42
