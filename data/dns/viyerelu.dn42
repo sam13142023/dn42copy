@@ -1,0 +1,7 @@
+domain:             viyerelu.dn42
+admin-c:            VIYERELU-DN42
+tech-c:             VIYERELU-DN42
+mnt-by:             VIYERELU-MNT
+nserver:            ns1.viyerelu.dn42 172.23.79.32
+nserver:            ns1.viyerelu.dn42 fd4d:6e:bdc:53::1
+source:             DN42
