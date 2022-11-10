@@ -1,0 +1,10 @@
+inetnum:            172.20.212.64 - 172.20.212.95
+cidr:               172.20.212.64/27
+netname:            PR0-DOWNSTREAM-NET
+descr:              pr0net downstream TEST
+country:            DE
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ASSIGNED
+source:             DN42
