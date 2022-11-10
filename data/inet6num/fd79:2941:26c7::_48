@@ -1,0 +1,10 @@
+inet6num:           fd79:2941:26c7:0000:0000:0000:0000:0000 - fd79:2941:26c7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd79:2941:26c7::/48
+netname:            JSC-NETWORK
+descr:              Network of JSC
+country:            DE
+admin-c:            JSC-DN42
+tech-c:             JSC-DN42
+mnt-by:             JSC-MNT
+status:             ASSIGNED
+source:             DN42

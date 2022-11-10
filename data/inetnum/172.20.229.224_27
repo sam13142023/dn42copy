@@ -1,0 +1,8 @@
+inetnum:            172.20.229.224 - 172.20.229.255
+cidr:               172.20.229.224/27
+netname:            JSC-NETWORK
+admin-c:            JSC-DN42
+tech-c:             JSC-DN42
+mnt-by:             JSC-MNT
+status:             ASSIGNED
+source:             DN42

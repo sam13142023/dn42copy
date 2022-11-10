@@ -1,0 +1,4 @@
+route:              172.20.229.224/27
+origin:             AS4242422089
+mnt-by:             JSC-MNT
+source:             DN42
