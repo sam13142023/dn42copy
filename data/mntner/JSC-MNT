@@ -1,0 +1,6 @@
+mntner:             JSC-MNT
+admin-c:            JSC-DN42
+tech-c:             JSC-DN42
+mnt-by:             JSC-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDjXTtDTyg3vDhGphojUnUdzqliEia494MfXHUIKvrckG00g8DEMrMELH+mAJk/cXzxgDI8S2+LTJpX9fBScgPtbeArnxNW3biYIEqhhwXsxtnf2OnUpWJ/VyRbGzyC8wB/m1msCa5OH/q/fv5dMs8+J8JBFFPPBfakRF/KFJ5QTHnDdn41c2vBjClnCvDug2KV38RSRXAcSztEPD9aXBq1bU7GF/O/hQ2LiPHDpSAd2cHwpTJ/9JCDmH8+kmPhXeXDDfB2DrB9QX1Rf9d6W+R6jiF/pQeq1LqTM/ExADUj0w3vhUOqnnu0du7x/si1mZmx5eUGFPpaSBG0jnLlJR1qlGy6KzwedHPVMPAVMmLW/64ctq7vW2xr059luqU5ZwDgZyOQUhkzj1XtLX6gyP26glDGvoyUPzv/g9+KqksbFNC5FCxzmPzu2qIKsYXNRD8PrNEf9ub8OgaYx6OZtA1jkhuAgXHyfETlgcyEetB/G2QyrvoWaGjbSCvQVvaNwEs=
+source:             DN42
