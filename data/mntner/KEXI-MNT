@@ -1,0 +1,6 @@
+mntner:             KEXI-MNT
+admin-c:            KEXI-DN42
+tech-c:             KEXI-DN42
+mnt-by:             KEXI-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEuJoAAHkQY6LnNu0ESM3+vTi/kjdzmMwS3CWhjA10Xm

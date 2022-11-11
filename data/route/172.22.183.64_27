@@ -1,0 +1,5 @@
+route:              172.22.183.64/27
+descr:              Peer with me at yuanzhishengynu@gmail.com
+origin:             AS4242423413
+mnt-by:             KEXI-MNT
+source:             DN42

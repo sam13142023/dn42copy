@@ -1,0 +1,11 @@
+inetnum:            172.22.183.64 - 172.22.183.95
+netname:            KEXI-IPV4
+remarks:            Peer with me at yuanzhishengynu@gmail.com
+descr:              Peer with me at yuanzhishengynu@gmail.com
+country:            CN
+admin-c:            KEXI-DN42
+tech-c:             KEXI-DN42
+mnt-by:             KEXI-MNT
+status:             ASSIGNED
+cidr:               172.22.183.64/27
+source:             DN42
