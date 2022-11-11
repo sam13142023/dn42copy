@@ -1,0 +1,11 @@
+aut-num:            AS4242421087
+as-name:            BEACOWORKS-AS-DN42
+descr:              BEACOWORKS DN42 Network
+remarks:            --------------------------------
+remarks:            Beacoworks DN42 Network
+remarks:            https://dn42.beacoworks.xyz
+remarks:            --------------------------------
+admin-c:            BEACON1096-DN42
+tech-c:             BEACON1096-DN42
+mnt-by:             BEACON1096-MNT
+source:             DN42

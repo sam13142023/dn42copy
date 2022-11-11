@@ -1,0 +1,5 @@
+route6:             fd29:1096:1087::/48
+origin:             AS4242421087
+max-length:         48
+mnt-by:             BEACON1096-MNT
+source:             DN42
