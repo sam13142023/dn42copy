@@ -1,5 +1,5 @@
 route:              10.127.149.224/27
-max-length:         29
+max-length:         27
 origin:             AS4201272923
 origin:             AS4242422923
 admin-c:            MARK22K-NEONETWORK
