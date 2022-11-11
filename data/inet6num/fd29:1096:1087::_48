@@ -1,0 +1,10 @@
+inet6num:           fd29:1096:1087:0000:0000:0000:0000:0000 - fd29:1096:1087:ffff:ffff:ffff:ffff:ffff
+cidr:               fd29:1096:1087::/48
+netname:            BEACON1096-DN42-V6
+descr:              Beacoworks DN42 Network IPv6 Block
+country:            CN
+admin-c:            BEACON1096-DN42
+tech-c:             BEACON1096-DN42
+mnt-by:             BEACON1096-MNT
+status:             ASSIGNED
+source:             DN42
