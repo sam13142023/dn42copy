@@ -6,4 +6,7 @@ admin-c:            MOE233-DN42
 tech-c:             MOE233-DN42
 mnt-by:             MOE233-MNT
 status:             ASSIGNED
+nserver:            ns1.moe233.dn42
+nserver:            ns2.moe233.dn42
+ds-rdata:           61451 13 2 5C0427EABEE2D39CE5023A94D1153A453C2663BC900DE7ACD63ACEA6 C838DB96
 source:             DN42

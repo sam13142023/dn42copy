@@ -1,0 +1,10 @@
+domain:             moe233.dn42
+admin-c:            MOE233-DN42
+tech-c:             MOE233-DN42
+mnt-by:             MOE233-MNT
+nserver:            ns1.moe233.dn42 172.23.69.161
+nserver:            ns1.moe233.dn42 fd05:4b:cce::1
+nserver:            ns2.moe233.dn42 172.23.69.165
+nserver:            ns2.moe233.dn42 fd05:4b:cce::5
+ds-rdata:           54780 13 2 C209A2C87DC6F60255AA6FD4F4C3D6714BDBCFE43FF9CFE61F4DA6FA DA1E1C44
+source:             DN42
