@@ -8,3 +8,4 @@ mnt-by:             NEDIFINITA-MNT
 status:             ASSIGNED
 cidr:               172.22.159.64/26
 source:             DN42
+nserver:            ns1.undefined.dn42
