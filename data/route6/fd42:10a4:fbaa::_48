@@ -1,0 +1,5 @@
+route6:             fd42:10a4:fbaa::/48
+origin:             AS4242422970
+max-length:         48
+mnt-by:             MUEHLBACHLER-MNT
+source:             DN42

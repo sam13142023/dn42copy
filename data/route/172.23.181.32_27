@@ -1,0 +1,4 @@
+route:              172.23.181.32/27
+origin:             AS4242422970
+mnt-by:             MUEHLBACHLER-MNT
+source:             DN42

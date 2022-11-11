@@ -1,0 +1,9 @@
+inetnum:            172.23.181.32 - 172.23.181.63
+cidr:               172.23.181.32/27
+netname:            MUEHLBACHLER-NETWORK
+country:            AT
+admin-c:            MUEHLBACHLER-DN42
+tech-c:             MUEHLBACHLER-DN42
+mnt-by:             MUEHLBACHLER-MNT
+status:             ASSIGNED
+source:             DN42
