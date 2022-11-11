@@ -8,3 +8,4 @@ mnt-by:             NEDIFINITA-MNT
 status:             ASSIGNED
 cidr:               fdef:fa9b:62b::/48
 source:             DN42
+nserver:            ns1.undefined.dn42
