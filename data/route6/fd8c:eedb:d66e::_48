@@ -1,0 +1,5 @@
+route6:             fd8c:eedb:d66e::/48
+origin:             AS4242421418
+max-length:         48
+mnt-by:             SKO-MNT
+source:             DN42

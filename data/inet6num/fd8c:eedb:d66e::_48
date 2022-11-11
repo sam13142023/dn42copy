@@ -1,0 +1,10 @@
+inet6num:           fd8c:eedb:d66e:0000:0000:0000:0000:0000 - fd8c:eedb:d66e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8c:eedb:d66e::/48
+netname:            SKO-NETWORK
+descr:              Network of SKO
+country:            DE
+admin-c:            SKO-DN42
+tech-c:             SKO-DN42
+mnt-by:             SKO-MNT
+status:             ASSIGNED
+source:             DN42
