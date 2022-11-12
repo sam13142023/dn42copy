@@ -4,5 +4,7 @@ netname:            ATNET-NETWORK
 admin-c:            ATNET-DN42
 tech-c:             ATNET-DN42
 mnt-by:             ATNET-MNT
+nserver:            ns1.thystips.dn42
+nserver:            ns2.thystips.dn42
 status:             ASSIGNED
 source:             DN42
