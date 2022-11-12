@@ -1,0 +1,9 @@
+domain:             thystips.dn42
+admin-c:            ATNET-DN42
+tech-c:             ATNET-DN42
+mnt-by:             ATNET-MNT
+nserver:            ns1.thystips.dn42 172.20.187.251
+nserver:            ns1.thystips.dn42 fd1d:cc09:1366:1::5
+nserver:            ns2.thystips.dn42 172.20.187.231
+nserver:            ns2.thystips.dn42 fd1d:cc09:1366:0:ffff::5
+source:             DN42
