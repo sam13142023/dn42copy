@@ -1,0 +1,9 @@
+domain:             zyc.dn42
+admin-c:            ZYC-DN42
+tech-c:             ZYC-DN42
+mnt-by:             ZYC-MNT
+nserver:            ns1.zyc.dn42 172.22.157.66
+nserver:            ns1.zyc.dn42 fd86:aa4f:8883::2
+nserver:            ns2.zyc.dn42 172.22.157.65
+nserver:            ns2.zyc.dn42 fd86:aa4f:8883::1
+source:             DN42
