@@ -1,0 +1,9 @@
+inetnum:            172.23.38.64 - 172.23.38.95
+cidr:               172.23.38.64/27
+netname:            F333-NETWORK
+admin-c:            F333-DN42
+tech-c:             F333-DN42
+mnt-by:             F333-MNT
+status:             ASSIGNED
+nserver:            ns1.f333.dn42
+source:             DN42

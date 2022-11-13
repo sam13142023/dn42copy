@@ -1,0 +1,9 @@
+inet6num:           fdb0:f750:cce0:0000:0000:0000:0000:0000 - fdb0:f750:cce0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb0:f750:cce0::/48
+netname:            F333-NETWORK-V6
+admin-c:            F333-DN42
+tech-c:             F333-DN42
+mnt-by:             F333-MNT
+status:             ASSIGNED
+nserver:            ns1.f333.dn42
+source:             DN42

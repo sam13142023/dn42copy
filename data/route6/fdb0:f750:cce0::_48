@@ -1,0 +1,4 @@
+route6:             fdb0:f750:cce0::/48
+origin:             AS4242421252
+mnt-by:             F333-MNT
+source:             DN42

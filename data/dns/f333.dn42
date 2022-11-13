@@ -1,0 +1,7 @@
+domain:             f333.dn42
+nserver:            ns1.f333.dn42 fdb0:f750:cce0:53::1
+nserver:            ns1.f333.dn42 172.23.38.68
+admin-c:            F333-DN42
+tech-c:             F333-DN42
+mnt-by:             F333-MNT
+source:             DN42
