@@ -1,0 +1,12 @@
+inet6num:           fd7a:db07:daba:0000:0000:0000:0000:0000 - fd7a:db07:daba:ffff:ffff:ffff:ffff:ffff
+netname:            SAMOMI-IPV6
+descr:              SAMOMI-IPV6
+country:            CN
+admin-c:            SAMOMI-DN42
+tech-c:             SAMOMI-DN42
+mnt-by:             SAMOMI-MNT
+nserver:            ns1.samomi.dn42
+nserver:            ns2.samomi.dn42
+status:             ASSIGNED
+cidr:               fd7a:db07:daba::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd7a:db07:daba::/48
+descr:              fd7a:db07:daba::/48
+origin:             AS4242423528
+mnt-by:             SAMOMI-MNT
+source:             DN42
