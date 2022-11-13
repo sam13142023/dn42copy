@@ -1,0 +1,5 @@
+route:              172.23.78.192/26
+descr:              172.23.78.192/26
+origin:             AS4242423528
+mnt-by:             SAMOMI-MNT
+source:             DN42
