@@ -3,4 +3,5 @@ admin-c:            ATNET-DN42
 tech-c:             ATNET-DN42
 mnt-by:             ATNET-MNT
 auth:               pgp-fingerprint 6F877173618F32E46162788927854D448AC608E7
+remarks:            pin-sha256:bDxuTo7/eYQK87fz0xS5NXMPVGXZRdD/6Zf8Pg9/3ik=
 source:             DN42
