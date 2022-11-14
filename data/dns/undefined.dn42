@@ -1,7 +1,0 @@
-domain:             undefined.dn42
-admin-c:            NEDIFINITA-DN42
-tech-c:             NEDIFINITA-DN42
-mnt-by:             NEDIFINITA-MNT
-nserver:            ns1.undefined.dn42 172.22.159.100
-nserver:            ns1.undefined.dn42 fdef:fa9b:62b::1
-source:             DN42
