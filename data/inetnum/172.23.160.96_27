@@ -1,0 +1,9 @@
+inetnum:            172.23.160.96 - 172.23.160.127
+cidr:               172.23.160.96/27
+netname:            APTLABS-NETWORK
+admin-c:            COREMED-DN42
+tech-c:             COREMED-DN42
+mnt-by:             COREMED-MNT
+org:                ORG-APTLABS
+status:             ASSIGNED
+source:             DN42
