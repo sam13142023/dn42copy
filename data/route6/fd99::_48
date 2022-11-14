@@ -1,5 +1,5 @@
-route6:             fdd7:e654:c010::/48
-origin:             AS4242422424
+route6:             fd99::/48
+origin:             AS4242422448
 max-length:         48
 mnt-by:             PR0-MNT
 source:             DN42

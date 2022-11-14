@@ -1,0 +1,10 @@
+inet6num:           fd99:0000:0000:0000:0000:0000:0000:0000 - fd99:0000:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd99::/48
+netname:            PR0-DOWNSTREAM-TEST
+descr:              pr0-downstream Test
+country:            DE
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ASSIGNED
+source:             DN42
