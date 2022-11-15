@@ -1,0 +1,6 @@
+mntner:             COREMED-MNT
+admin-c:            COREMED-DN42
+tech-c:             COREMED-DN42
+mnt-by:             COREMED-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFB6WsAPuS+HEu+5MoZA6xU2pi042VesadIubTT3fVEC
+source:             DN42

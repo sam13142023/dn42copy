@@ -1,0 +1,11 @@
+inet6num:           fdce:b4b9:aa40:0000:0000:0000:0000:0000 - fdce:b4b9:aa40:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:b4b9:aa40::/48
+netname:            APTLABS-NETWORK
+descr:              Network of APTLABS
+country:            US
+admin-c:            COREMED-DN42
+tech-c:             COREMED-DN42
+mnt-by:             COREMED-MNT
+org:                ORG-APTLABS
+status:             ASSIGNED
+source:             DN42

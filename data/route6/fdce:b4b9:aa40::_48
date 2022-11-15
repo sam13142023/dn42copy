@@ -1,0 +1,5 @@
+route6:             fdce:b4b9:aa40::/48
+origin:             AS4242421953
+max-length:         48
+mnt-by:             COREMED-MNT
+source:             DN42
