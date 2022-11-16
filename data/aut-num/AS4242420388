@@ -1,6 +1,6 @@
 aut-num:            AS4242420388
-as-name:            KVM-AS
-descr:              KVM NETWORK
+as-name:            KVM-Net
+descr:              KVM-Net
 admin-c:            KVM-DN42
 tech-c:             KVM-DN42
 mnt-by:             KVM-MNT

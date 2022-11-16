@@ -1,8 +1,8 @@
 inetnum:            172.23.78.64 - 172.23.78.127
 cidr:               172.23.78.64/26
-netname:            KVM NETWORK IPv4
-descr:              KVM NETWORK IPv4
-country:            CN
+netname:            KVM-NET-NL
+descr:              KVM-NET-NL
+country:            NL
 admin-c:            KVM-DN42
 tech-c:             KVM-DN42
 mnt-by:             KVM-MNT
