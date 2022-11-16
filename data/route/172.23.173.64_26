@@ -1,5 +1,6 @@
 route:              172.23.173.64/26
 descr:              MOACK LAB USE
 origin:             AS4242423698
+max-length:         29
 mnt-by:             MOACK-MNT
 source:             DN42
