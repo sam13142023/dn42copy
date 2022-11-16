@@ -1,0 +1,14 @@
+inetnum:            172.20.55.128 - 172.20.55.191
+cidr:               172.20.55.128/26
+netname:            INTERWEBS-IPV4
+remarks:            INTERWEBS-IPV4
+descr:              INTERWEBS-IPV4
+country:            DE
+admin-c:            INTERWEBS-DN42
+tech-c:             INTERWEBS-DN42
+mnt-by:             INTERWEBS-MNT
+nserver:            ns1.interwebs.dn42
+nserver:            ns2.interwebs.dn42
+nserver:            ns3.interwebs.dn42
+status:             ASSIGNED
+source:             DN42

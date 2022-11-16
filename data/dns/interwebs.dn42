@@ -1,0 +1,11 @@
+domain:             interwebs.dn42
+admin-c:            INTERWEBS-DN42
+tech-c:             INTERWEBS-DN42
+mnt-by:             INTERWEBS-MNT
+nserver:            ns1.interwebs.dn42 172.20.55.151
+nserver:            ns1.interwebs.dn42 fd40:be12:88dc:53::1
+nserver:            ns2.interwebs.dn42 172.20.55.152
+nserver:            ns2.interwebs.dn42 fd40:be12:88dc:53::2
+nserver:            ns3.interwebs.dn42 172.20.55.153
+nserver:            ns3.interwebs.dn42 fd40:be12:88dc:53::2
+source:             DN42

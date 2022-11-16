@@ -1,0 +1,14 @@
+inet6num:           fd40:be12:88dc:0000:0000:0000:0000:0000 - fd40:be12:88dc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd40:be12:88dc::/48
+netname:            INTERWEBS-IPV6
+remarks:            INTERWEBS-IPV6
+descr:              INTERWEBS-IPV6
+country:            DE
+admin-c:            INTERWEBS-DN42
+tech-c:             INTERWEBS-DN42
+mnt-by:             INTERWEBS-MNT
+nserver:            ns1.interwebs.dn42
+nserver:            ns2.interwebs.dn42
+nserver:            ns3.interwebs.dn42
+status:             ASSIGNED
+source:             DN42
