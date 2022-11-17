@@ -1,0 +1,5 @@
+route6:             fd93:b89c:b538::/48
+origin:             AS4242421107
+max-length:         48
+mnt-by:             JERRITA-MNT
+source:             DN42

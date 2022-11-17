@@ -1,0 +1,12 @@
+inetnum:            172.22.183.96 - 172.22.183.127
+cidr:               172.22.183.96/27
+netname:            MISAKI-NET-IPV4
+descr:              MISAKI-NET-IPV4
+country:            CN
+admin-c:            JERRITA-DN42
+tech-c:             JERRITA-DN42
+mnt-by:             JERRITA-MNT
+nserver:            ns1.saki.dn42
+nserver:            ns2.saki.dn42
+status:             ASSIGNED
+source:             DN42

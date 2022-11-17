@@ -1,0 +1,9 @@
+domain:             saki.dn42
+admin-c:            JERRITA-DN42
+tech-c:             JERRITA-DN42
+mnt-by:             JERRITA-MNT
+nserver:            ns1.saki.dn42 172.22.183.98
+nserver:            ns1.saki.dn42 fd93:b89c:b538:53::1
+nserver:            ns2.saki.dn42 172.22.183.99
+nserver:            ns2.saki.dn42 fd93:b89c:b538:53::2
+source:             DN42
