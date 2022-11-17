@@ -1,8 +1,8 @@
 inet6num:           fdec:2606:62c0:0000:0000:0000:0000:0000 - fdec:2606:62c0:ffff:ffff:ffff:ffff:ffff
 cidr:               fdec:2606:62c0::/48
-netname:            KVM NETWORK IPv6
-descr:              KVM NETWORK IPv6
-country:            CN
+netname:            KVM-NET-NL
+descr:              KVM-NET-NL
+country:            NL
 admin-c:            KVM-DN42
 tech-c:             KVM-DN42
 mnt-by:             KVM-MNT
