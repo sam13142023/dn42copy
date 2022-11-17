@@ -1,7 +1,8 @@
-aut-num:            AS4242421991
-as-name:            RSK-AS
+domain:             rsk.dn42
 admin-c:            RSK-DN42
 tech-c:             RSK-DN42
 mnt-by:             RSK-MNT
+nserver:            ns1.rsk.dn42 172.23.54.1
+nserver:            ns2.rsk.dn42 172.23.54.2
 org:                ORG-RSK
 source:             DN42
