@@ -1,0 +1,15 @@
+inet6num:           fd40:ad4d:ae6c:0000:0000:0000:0000:0000 - fd40:ad4d:ae6c:ffff:ffff:ffff:ffff:ffff
+netname:            YUZHEN-IPV6
+descr:              Yuzhen Network IPv6
+country:            CN
+admin-c:            YUZHEN-DN42
+tech-c:             YUZHEN-DN42
+mnt-by:             YUZHEN-MNT
+nserver:            ns1.yuzhen.dn42
+nserver:            ns2.yuzhen.dn42
+nserver:            ns3.yuzhen.dn42
+nserver:            ns4.yuzhen.dn42
+nserver:            ns5.yuzhen.dn42
+status:             ASSIGNED
+cidr:               fd40:ad4d:ae6c::/48
+source:             DN42

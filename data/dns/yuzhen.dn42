@@ -1,0 +1,15 @@
+domain:             yuzhen.dn42
+admin-c:            YUZHEN-DN42
+tech-c:             YUZHEN-DN42
+mnt-by:             YUZHEN-MNT
+nserver:            ns1.yuzhen.dn42 172.23.33.193
+nserver:            ns1.yuzhen.dn42 fd40:ad4d:ae6c::1
+nserver:            ns2.yuzhen.dn42 172.23.33.194
+nserver:            ns2.yuzhen.dn42 fd40:ad4d:ae6c::2
+nserver:            ns3.yuzhen.dn42 172.23.33.195
+nserver:            ns3.yuzhen.dn42 fd40:ad4d:ae6c::3
+nserver:            ns4.yuzhen.dn42 172.23.33.196
+nserver:            ns4.yuzhen.dn42 fd40:ad4d:ae6c::4
+nserver:            ns5.yuzhen.dn42 172.23.33.197
+nserver:            ns5.yuzhen.dn42 fd40:ad4d:ae6c::5
+source:             DN42
