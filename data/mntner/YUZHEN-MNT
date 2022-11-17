@@ -1,0 +1,8 @@
+mntner:             YUZHEN-MNT
+admin-c:            YUZHEN-DN42
+tech-c:             YUZHEN-DN42
+mnt-by:             YUZHEN-MNT
+source:             DN42
+auth:               pgp-fingerprint 84971D4704F61848735190CE92191894C8EF7171
+auth:               pgp-fingerprint E370A15E3372180A5854E9052B722BAAAAAAAAAA
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmGQzkoaPDScj30Gy4jmsrkNhu6H1dbDJ0PuNspf98n

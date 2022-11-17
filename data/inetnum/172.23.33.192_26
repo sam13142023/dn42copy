@@ -1,0 +1,15 @@
+inetnum:            172.23.33.192 - 172.23.33.255
+netname:            YUZHEN-IPV4
+descr:              Yuzhen Network IPv4
+country:            CN
+admin-c:            YUZHEN-DN42
+tech-c:             YUZHEN-DN42
+mnt-by:             YUZHEN-MNT
+nserver:            ns1.yuzhen.dn42
+nserver:            ns2.yuzhen.dn42
+nserver:            ns3.yuzhen.dn42
+nserver:            ns4.yuzhen.dn42
+nserver:            ns5.yuzhen.dn42
+status:             ASSIGNED
+cidr:               172.23.33.192/26
+source:             DN42

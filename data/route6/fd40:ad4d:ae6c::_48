@@ -1,0 +1,5 @@
+route6:             fd40:ad4d:ae6c::/48
+descr:              Yuzhen Network IPv6
+origin:             AS4242422398
+mnt-by:             YUZHEN-MNT
+source:             DN42
