@@ -1,0 +1,6 @@
+route6:             fd40:be12:88dc::/48
+descr:              fd40:be12:88dc::/48
+max-length:         48
+origin:             AS4242420720
+mnt-by:             INTERWEBS-MNT
+source:             DN42

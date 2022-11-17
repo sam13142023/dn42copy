@@ -1,0 +1,6 @@
+route6:             172.20.55.128/26
+descr:              172.20.55.128/26
+max-length:         26
+origin:             AS4242420720
+mnt-by:             INTERWEBS-MNT
+source:             DN42
