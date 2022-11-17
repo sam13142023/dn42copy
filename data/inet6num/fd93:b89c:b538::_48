@@ -1,0 +1,12 @@
+inet6num:           fd93:b89c:b538:0000:0000:0000:0000:0000 - fd93:b89c:b538:ffff:ffff:ffff:ffff:ffff
+cidr:               fd93:b89c:b538::/48
+netname:            MISAKI-NET-IPV6
+descr:              MISAKI-NET-IPV6
+country:            CN
+admin-c:            JERRITA-DN42
+tech-c:             JERRITA-DN42
+mnt-by:             JERRITA-MNT
+nserver:            ns1.saki.dn42
+nserver:            ns2.saki.dn42
+status:             ASSIGNED
+source:             DN42
