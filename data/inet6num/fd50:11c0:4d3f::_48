@@ -1,4 +1,5 @@
-inetnum:            172.23.54.0 - 172.23.54.255
+inet6num:           fd50:11c0:4d3f:0000:0000:0000:0000:0000 - fd50:11c0:4d3f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd50:11c0:4d3f::/48
 netname:            RSK-NET
 country:            AE
 admin-c:            RSK-DN42
@@ -7,6 +8,5 @@ mnt-by:             RSK-MNT
 status:             ASSIGNED
 nserver:            ns1.rsk.dn42
 nserver:            ns2.rsk.dn42
-cidr:               172.23.54.0/24
 org:                ORG-RSK
 source:             DN42

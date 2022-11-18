@@ -1,0 +1,4 @@
+route:              172.23.54.0/24
+origin:             AS4242421991
+mnt-by:             RSK-MNT
+source:             DN42
