@@ -1,8 +1,8 @@
 inet6num:           fd00:48d5:0022:0000:0000:0000:0000:0000 - fd00:48d5:0022:ffff:ffff:ffff:ffff:ffff
 cidr:               fd00:48d5:22::/48
-netname:            MAGITEK-IPV6
-admin-c:            MAGITEK-DN42
-tech-c:             MAGITEK-DN42
-mnt-by:             MAGITEK-MNT
+netname:            DALAMUD-IPV6
+admin-c:            DALAMUD-DN42
+tech-c:             DALAMUD-DN42
+mnt-by:             DALAMUD-MNT
 status:             ASSIGNED
 source:             DN42
