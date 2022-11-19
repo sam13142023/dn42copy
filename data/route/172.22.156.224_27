@@ -1,0 +1,4 @@
+route:              172.22.156.224/27
+origin:             AS4242421562
+mnt-by:             MIDDINET-MNT
+source:             DN42

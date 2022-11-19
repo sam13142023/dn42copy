@@ -1,0 +1,5 @@
+route6:             fdf0:c370:eb1c::/48
+origin:             AS4242421562
+max-length:         48
+mnt-by:             MIDDINET-MNT
+source:             DN42
