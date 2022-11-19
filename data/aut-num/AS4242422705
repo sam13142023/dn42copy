@@ -4,3 +4,5 @@ admin-c:            PIGGY-DN42
 tech-c:             PIGGY-DN42
 mnt-by:             PIGGY-MNT
 source:             DN42
+remarks:            Open for peering at Seattle and Beijing
+remarks:            See https://piggy.moe/en/dn42-peering/ for details
