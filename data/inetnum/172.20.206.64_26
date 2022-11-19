@@ -1,8 +1,7 @@
 inetnum:            172.20.206.64 - 172.20.206.127
 cidr:               172.20.206.64/26
-netname:            XTEX-IPV4
-descr:              xtex IPv4 block
-country:            CN
+netname:            XTEX-NET
+descr:              xtex's IPv4 block
 admin-c:            XTEX-DN42
 tech-c:             XTEX-DN42
 mnt-by:             XTEX-MNT

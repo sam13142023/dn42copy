@@ -1,8 +1,7 @@
 inet6num:           fd10:78d4:da31:0000:0000:0000:0000:0000 - fd10:78d4:da31:ffff:ffff:ffff:ffff:ffff
 cidr:               fd10:78d4:da31::/48
-netname:            XTEX-IPV6
-descr:              xtex IPv6 block
-country:            CN
+netname:            XTEX-NET
+descr:              xtex's IPv6 block
 admin-c:            XTEX-DN42
 tech-c:             XTEX-DN42
 mnt-by:             XTEX-MNT
