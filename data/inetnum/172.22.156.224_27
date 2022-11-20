@@ -1,0 +1,12 @@
+inetnum:            172.22.156.224 - 172.22.156.255
+cidr:               172.22.156.224/27
+netname:            MIDDINET-NETWORK
+descr:              MiddiNET DN42 v4
+country:            DE
+admin-c:            MIDDICOM-DN42
+tech-c:             MIDDICOM-DN42
+mnt-by:             MIDDINET-MNT
+status:             ASSIGNED
+nserver:            ns1.middinet.dn42
+nserver:            ns2.middinet.dn42
+source:             DN42

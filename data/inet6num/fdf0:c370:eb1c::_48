@@ -1,0 +1,12 @@
+inet6num:           fdf0:c370:eb1c:0000:0000:0000:0000:0000 - fdf0:c370:eb1c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:c370:eb1c::/48
+netname:            MIDDINET-NETWORK
+descr:              MiddiNET DN42 v6
+country:            DE
+admin-c:            MIDDICOM-DN42
+tech-c:             MIDDICOM-DN42
+mnt-by:             MIDDINET-MNT
+status:             ASSIGNED
+nserver:            ns1.middinet.dn42
+nserver:            ns2.middinet.dn42
+source:             DN42
