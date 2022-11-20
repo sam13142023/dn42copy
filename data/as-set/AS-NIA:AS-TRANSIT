@@ -46,4 +46,8 @@ members:            AS76190
 admin-c:            NIA-DN42
 tech-c:             NIA-DN42
 mnt-by:             NIA-MNT
+mnt-by:             HACKER-MNT
+mnt-by:             DAVIDWANG-MNT
+mnt-by:             NATIVUS-MNT
+mnt-by:             ALEKSANA-MNT
 source:             DN42
