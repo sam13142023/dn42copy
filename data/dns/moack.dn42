@@ -2,6 +2,6 @@ domain:             moack.dn42
 admin-c:            MOACK-DN42
 tech-c:             MOACK-DN42
 mnt-by:             MOACK-MNT
-nserver:            ns1.moack.dn42 172.23.173.121
-nserver:            ns2.moack.dn42 172.23.173.122
+nserver:            ns1.moack.dn42 172.23.173.122
+nserver:            ns2.moack.dn42 172.23.173.123
 source:             DN42
