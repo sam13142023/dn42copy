@@ -1,0 +1,9 @@
+inetnum:            172.21.101.104 - 172.21.101.111
+cidr:               172.21.101.104/29
+netname:            SANAE-DN42-V4
+country:            CN
+admin-c:            SANAE-DN42
+tech-c:             SANAE-DN42
+mnt-by:             SANAE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd43:45a5:7432:0000:0000:0000:0000:0000 - fd43:45a5:7432:ffff:ffff:ffff:ffff:ffff
+cidr:               fd43:45a5:7432::/48
+netname:            SANAE-DN42-V6
+descr:              Sanae DN42 Networks IPv6 Block
+country:            CN
+admin-c:            SANAE-DN42
+tech-c:             SANAE-DN42
+mnt-by:             SANAE-MNT
+status:             ASSIGNED
+source:             DN42
