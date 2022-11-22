@@ -1,0 +1,5 @@
+route6:             fd30:9840:2023::/48
+descr:              Peer with me at tjx2361869673@gmail.com
+origin:             AS4242421523
+mnt-by:             SCORPION-MNT
+source:             DN42

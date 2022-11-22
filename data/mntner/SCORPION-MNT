@@ -1,0 +1,8 @@
+mntner:             SCORPION-MNT
+admin-c:            SCORPION-DN42
+tech-c:             SCORPION-DN42
+mnt-by:             SCORPION-MNT
+source:             DN42
+auth:               pgp-fingerprint 2ED0F4749E648E0F115A1FC35DC2657DF2CC8500
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDabTmvbYDAxQVR7MrkWDeN5A/GuU1jQdRMKaRlMKWXStFmVg3wvMebIq9mpl8aJ/wQRQEWSUzmGnNk38NrWo8t5IS+6rAspS3YoeJxxhaA9kLd+GjpdPEFbP9yO8YIqaeekJwH9e5p5Jktiiit11LiV2rviPWusDdAJK7pKJX1Lq/e1xu3a3GocKDdUVceeIQmtIlkXHGFUH7hbwBHv4vactXX989SNfMk5IO/hobA9Zwhyv3yxfyOQ6pOf5ddci9CmwNDA39SNZqsosLd+THlyGEp/UQ6wBWCw5YLLaIfaqvx6v4F69L1+Vn5M/nAQP+ExmwxS7XkRa1SgUKJ0K+EgQEWOWpaCg9CelvoMAtBoHxdffxQTzlvnEcxxCHky7SH2lv87NkbrfHQVMX3sa2K71cQn+ONqXBOF+IldL9mNWuh6cdpPOJOO8RBRPMPQpQf73WNrSiijBE7Xi0r6f99vtHGyAHH2odMCmXg8VcIHTMBiFHp+tQzZxhOssKP7t0=
+remarks:            scorpion
