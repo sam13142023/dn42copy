@@ -1,0 +1,11 @@
+inetnum:            172.23.203.128 - 172.23.203.143
+netname:            SCORPION-IPV4
+remarks:            Peer with me at tjx2361869673@gmail.com
+descr:              Peer with me at tjx2361869673@gmail.com
+country:            CN
+admin-c:            SCORPION-DN42
+tech-c:             SCORPION-DN42
+mnt-by:             SCORPION-MNT
+status:             ASSIGNED
+cidr:               172.23.203.128/28
+source:             DN42

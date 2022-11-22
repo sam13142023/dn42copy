@@ -1,0 +1,10 @@
+inet6num:           fd30:9840:2023:0000:0000:0000:0000:0000 - fd30:9840:2023:ffff:ffff:ffff:ffff:ffff
+netname:            SCORPION-IPV6
+descr:              Peer with me at tjx2361869673@gmail.com
+country:            CN
+admin-c:            SCORPION-DN42
+tech-c:             SCORPION-DN42
+mnt-by:             SCORPION-MNT
+status:             ASSIGNED
+cidr:               fd30:9840:2023::/48
+source:             DN42
