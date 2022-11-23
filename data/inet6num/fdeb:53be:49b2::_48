@@ -5,6 +5,7 @@ country:            CN
 admin-c:            EKI-DN42
 tech-c:             EKI-DN42
 mnt-by:             EKI-MNT
+nserver:            ns.eki.dn42
 status:             ASSIGNED
 cidr:               fdeb:53be:49b2::/48
 source:             DN42
