@@ -1,0 +1,6 @@
+mntner:             SANAE-MNT
+admin-c:            SANAE-DN42
+tech-c:             SANAE-DN42
+auth:               pgp-fingerprint 16F9052F665F468B164EE99587D05513B55495BD
+mnt-by:             SANAE-MNT
+source:             DN42
