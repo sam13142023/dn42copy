@@ -1,8 +1,0 @@
-route:              10.127.239.0/24
-max-length:         29
-origin:             AS4242422399
-admin-c:            QIN-YUZHEN-NEONETWORK
-tech-c:             QIN-YUZHEN-NEONETWORK
-remarks:            Imported from neonetwork, do not edit!
-mnt-by:             DN42-MNT
-source:             NEONETWORK
