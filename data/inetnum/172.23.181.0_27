@@ -7,4 +7,5 @@ tech-c:             EKI-DN42
 mnt-by:             EKI-MNT
 status:             ASSIGNED
 cidr:               172.23.181.0/27
+nserver:            ns.eki.dn42
 source:             DN42
