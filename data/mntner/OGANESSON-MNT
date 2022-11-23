@@ -1,0 +1,6 @@
+mntner:             OGANESSON-MNT
+admin-c:            OGANESSON-DN42
+tech-c:             OGANESSON-DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCzxWfnPLiHjo8NovueHViYj/ygB2HLzgwq5tYq0rA5w7rDxRwlx6YuR3uuK2Dfu5f2xCHItoDiAv7V7DWhForfVsX952jc+S53KM1ckbUSRvifEgJ5kzkrrNm+391KfW59/VJ1Q4baAil+Y6jqNiSQUuas91HOniUqNAqfRojMAubpFJGU8YAbRSZgLBm7be1vsGiy8vAOsjwkcE9GeI/KoGFF7MxRX82MqAmLMKzniJwCdEp2RbrEdjUgsHS4Zop7pen/GxRgrenFjau8usI1lyjYtMaV01wdqQvghmg/qqHea4fhpsNq7ICwHm7/xxqS84u5AiWbtxPXALGj7ZfTPC91zMazQoAwOHTA3jb1c2Zs2m1zufaNtVHFGJOpGQ4A4c8EeiS/1bZ2JUxzYMByg1wyJanbriaRikAbgbZvlR2O3L0L2tl184VAXs0QMwXXLs8MtqoVOkGl+LU1tmoQn+RBQIx391Z5jpLuzpLHwYXUZqcl7V+shc93dxNMfF8=
+mnt-by:             OGANESSON-MNT
+source:             DN42

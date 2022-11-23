@@ -1,0 +1,11 @@
+inetnum:            172.23.125.96 - 172.23.125.127
+cidr:               172.23.125.96/27
+netname:            OGANESSON-DN42-V4
+nserver:            ns1.oganesson.dn42
+descr:              Oganesson DN42 Network IPv4 Block
+country:            CN
+admin-c:            OGANESSON-DN42
+tech-c:             OGANESSON-DN42
+mnt-by:             OGANESSON-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             oganesson.dn42
+admin-c:            OGANESSON-DN42
+tech-c:             OGANESSON-DN42
+mnt-by:             OGANESSON-MNT
+nserver:            ns1.oganesson.dn42 172.23.125.96
+source:             DN42

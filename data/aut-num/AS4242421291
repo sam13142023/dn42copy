@@ -1,0 +1,7 @@
+aut-num:            AS4242421291
+as-name:            OGANESSON-AS
+descr:              oganesson's private as
+admin-c:            OGANESSON-DN42
+tech-c:             OGANESSON-DN42
+mnt-by:             OGANESSON-MNT
+source:             DN42
