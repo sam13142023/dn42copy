@@ -1,7 +1,0 @@
-mntner:             QYZ-MNT
-admin-c:            QYZ-DN42
-tech-c:             QYZ-DN42
-mnt-by:             QYZ-MNT
-source:             DN42
-auth:               pgp-fingerprint 17A745DEC7298325A69DD1C235D412B098D64338
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEY0uB+0FPR2WtNZm/YxJrJV0oiMAkgWcob+Jm7ZCYpM
