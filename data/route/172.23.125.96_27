@@ -1,0 +1,5 @@
+route:              172.23.125.96/27
+descr:              Oganesson's route
+origin:             AS4242421291
+mnt-by:             OGANESSON-MNT
+source:             DN42
