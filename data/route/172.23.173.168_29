@@ -1,4 +1,4 @@
-route:              172.23.120.16/28
+route:              172.23.173.168/29
 origin:             AS4242423751
 mnt-by:             INPRTX-MNT
 source:             DN42

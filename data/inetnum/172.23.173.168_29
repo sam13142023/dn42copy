@@ -1,9 +1,9 @@
-inetnum:            172.23.120.16 - 172.23.120.31
+inetnum:            172.23.173.168 - 172.23.173.175
 netname:            INPRTX-IPV4
 country:            CN
 admin-c:            INPRTX-DN42
 tech-c:             INPRTX-DN42
 mnt-by:             INPRTX-MNT
 status:             ASSIGNED
-cidr:               172.23.120.16/28
+cidr:               172.23.173.168/29
 source:             DN42
