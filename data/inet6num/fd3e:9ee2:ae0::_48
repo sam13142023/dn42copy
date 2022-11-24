@@ -2,7 +2,7 @@ inet6num:           fd3e:9ee2:0ae0:0000:0000:0000:0000:0000 - fd3e:9ee2:0ae0:fff
 cidr:               fd3e:9ee2:ae0::/48
 netname:            IKS-NET-IPV6
 remarks:            iks net - AS4242422595
-descr:              Peer with me at noc@olinkcloud.cn
+descr:              Telegram: signaliks
 country:            CN
 admin-c:            IKS-DN42
 tech-c:             IKS-DN42
