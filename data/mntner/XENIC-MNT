@@ -1,0 +1,6 @@
+mntner:             XENIC-MNT
+admin-c:            XENIC-DN42
+tech-c:             XENIC-DN42
+mnt-by:             XENIC-MNT
+auth:               pgp-fingerprint EE33E9001722C0B208187A9DD832C35E5BA72F84
+source:             DN42

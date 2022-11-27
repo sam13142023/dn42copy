@@ -1,0 +1,5 @@
+route6:             fd42:1a84:714c::/48
+origin:             AS4242422926
+max-length:         48
+mnt-by:             XENIC-MNT
+source:             DN42
