@@ -1,0 +1,10 @@
+inet6num:           fd42:1a84:714c:0000:0000:0000:0000:0000 - fd42:1a84:714c:ffff:ffff:ffff:ffff:ffff
+netname:            XENIC-NET6
+cidr:               fd42:1a84:714c::/48
+descr:              Xenic Network
+country:            DE
+admin-c:            XENIC-DN42
+tech-c:             XENIC-DN42
+mnt-by:             XENIC-MNT
+status:             ASSIGNED
+source:             DN42
