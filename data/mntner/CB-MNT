@@ -4,3 +4,4 @@ tech-c:             CB-DN42
 mnt-by:             CB-MNT
 source:             DN42
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL2FNlq4xEiGGhZONghNff1ohb189tQXo8agwRD0sY6F
+remarks:            pin-sha256:rxMFGvfJp3ItDfz+zLHhP9t1k5SQroKO9cszbvE9G24=
