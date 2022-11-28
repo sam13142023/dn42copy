@@ -1,0 +1,7 @@
+aut-num:            AS4242420268
+as-name:            LIUXU-AS
+descr:              Peer with me at i@liuxu.me
+admin-c:            LIUXU-DN42
+tech-c:             LIUXU-DN42
+mnt-by:             LIUXU-MNT
+source:             DN42

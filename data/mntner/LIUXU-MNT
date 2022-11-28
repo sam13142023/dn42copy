@@ -1,0 +1,6 @@
+mntner:             LIUXU-MNT
+admin-c:            LIUXU-DN42
+tech-c:             LIUXU-DN42
+mnt-by:             LIUXU-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDrCWDkez9ZU5tXyzY1RItS6PyyV5DU70Dbl+S9Xl5+j i@liuxu.me
