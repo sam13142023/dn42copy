@@ -1,0 +1,11 @@
+inetnum:            172.22.67.64 - 172.22.67.95
+netname:            LIUXU-NET-IPV4
+descr:              Peer with me at i@liuxu.me
+remarks:            Peer with me at i@liuxu.me
+country:            CN
+admin-c:            LIUXU-DN42
+tech-c:             LIUXU-DN42
+mnt-by:             LIUXU-MNT
+status:             ASSIGNED
+cidr:               172.22.67.64/27
+source:             DN42
