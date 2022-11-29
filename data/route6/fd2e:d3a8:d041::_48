@@ -1,0 +1,5 @@
+route6:             fd2e:d3a8:d041::/48
+origin:             AS4242423411
+max-length:         48
+mnt-by:             SMYERS119-MNT
+source:             DN42
