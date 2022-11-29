@@ -1,0 +1,9 @@
+domain:             razuritta.dn42
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
+descr:              For misc services.
+mnt-by:             LAPISBLUE27-MNT
+nserver:            ns1.lapinet27.dn42
+nserver:            ns2.lapinet27.dn42
+ds-rdata:           40002 15 2 55918283D2E51BE65F8BE35AFE73C9A03B3E1812188BF328B685546F B5F0E7C6
+source:             DN42
