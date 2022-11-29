@@ -1,0 +1,10 @@
+inet6num:           fd2e:d3a8:d041:0000:0000:0000:0000:0000 - fd2e:d3a8:d041:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:d3a8:d041::/48
+netname:            GOLDLINEIT-NETWORK
+country:            US
+admin-c:            SMYERS119-DN42
+tech-c:             SMYERS119-DN42
+org:                ORG-GOLDLINEIT
+mnt-by:             SMYERS119-MNT
+status:             ASSIGNED
+source:             DN42

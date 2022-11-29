@@ -1,0 +1,4 @@
+route:              172.22.148.224/28
+origin:             AS4242423411
+mnt-by:             SMYERS119-MNT
+source:             DN42
