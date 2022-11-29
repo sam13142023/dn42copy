@@ -1,7 +1,6 @@
 inetnum:            172.23.181.0 - 172.23.181.31
 netname:            EKI-IPv4
-descr:              EKI-Network IPv4
-country:            CN
+descr:              EKI-Network IPv4            
 admin-c:            EKI-DN42
 tech-c:             EKI-DN42
 mnt-by:             EKI-MNT

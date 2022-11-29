@@ -1,7 +1,6 @@
 inet6num:           fdeb:53be:49b2:0000:0000:0000:0000:0000 - fdeb:53be:49b2:ffff:ffff:ffff:ffff:ffff
 netname:            EKI-IPv6
-descr:              EKI-Network IPv6
-country:            CN
+descr:              EKI-Network IPv6          
 admin-c:            EKI-DN42
 tech-c:             EKI-DN42
 mnt-by:             EKI-MNT

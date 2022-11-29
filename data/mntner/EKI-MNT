@@ -3,4 +3,5 @@ admin-c:            EKI-DN42
 tech-c:             EKI-DN42
 mnt-by:             EKI-MNT
 source:             DN42
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCZyfgXasaf/EMR4eck7UsLN2XRN+DSXoa7wDZlF1JgQcyvbmoOX2Jx5DxHZYk9M6vG0GUc6rlXCizXId06nIoOruRLsDntk/DaPR8iRgbRgZ5htctVTpGqBOj6mOzkej0meY4ivF4zppBbEd86DC3m5eIXuLPu+if14mF5HtREMlmUh1DMRJLGfA3EIIp3IgfPJBs9/6JqjFWkweBARrjO1glKDbTW/7tKwD3OFXifDHnDk/igTnjwgjyUzWBlvGf9F3bPYKzmbOyHOa5cjJpLztLsUNc7GqgvA4tZH+P9+dQKM2a8E0T5wU+MbvirmVYUVZV7Fu1Z/muVGmzoP+58pkhQYPLY6SJiDZcrM8L2xfDKBq811+r+3hWcjN9vJs+Bbq1bJmL1aUnwSA0bi3yKRiCLVihoagQdF7EJ7LubEZSdjWvPH8Jy/Xr0d/uyS893OX7UyozrKpZyv7I5OCAvLetzSgi+vm4q+f/+4HydvXxyBYfF2Q2RqNOKnb2s81RJIotr66a/sG+Kcf4EVIy7yDTXOVhH7Ppjmgd+ShJlLmYG9oG8erji3FkbjQ2c0MTy752Zx1i9CvAzsajnfOq0A8NM6pLDVQFCwQRnfN//1r2+MU+H8hqm9wktep+KI+zeLoqLm5GUHMqamzlIlNlJXmC4u2r3+Qb19Es9cKseCQ==
+auth:               pgp-fingerprint 389B2BBE2FFA0E8442A47CB23AA3CFF5AA5859B3
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJGntOILgSJ4O4B1cBDnZJsZZDixjfC1m9rkSB1L1zPC
