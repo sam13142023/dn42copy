@@ -1,0 +1,12 @@
+inet6num:           fd26:899c:3344:0000:0000:0000:0000:0000 - fd26:899c:3344:ffff:ffff:ffff:ffff:ffff
+netname:            WAZYING-IPV6
+descr:              Peer with me at linkfivetoo@gmail.com
+country:            CN
+admin-c:            WAZYING-DN42
+tech-c:             WAZYING-DN42
+mnt-by:             WAZYING-MNT
+nserver:            ns1.wazying.dn42
+nserver:            ns2.wazying.dn42
+status:             ASSIGNED
+cidr:               fd26:899c:3344::/48
+source:             DN42
