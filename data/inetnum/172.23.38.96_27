@@ -1,0 +1,13 @@
+inetnum:            172.23.38.96 - 172.23.38.127
+netname:            WAZYING-IPV4
+remarks:            Peer with me at linkfivetoo@gmail.com
+descr:              Peer with me at linkfivetoo@gmail.com
+country:            CN
+admin-c:            WAZYING-DN42
+tech-c:             WAZYING-DN42
+mnt-by:             WAZYING-MNT
+nserver:            ns1.wazying.dn42
+nserver:            ns2.wazying.dn42
+status:             ASSIGNED
+cidr:               172.23.38.96/27
+source:             DN42

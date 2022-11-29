@@ -1,0 +1,9 @@
+domain:             wazying.dn42
+admin-c:            WAZYING-DN42
+tech-c:             WAZYING-DN42
+mnt-by:             WAZYING-MNT
+nserver:            ns1.wazying.dn42 172.23.38.98
+nserver:            ns1.wazying.dn42 fd26:899c:3344::8b:c606:ba01
+nserver:            ns2.wazying.dn42 172.23.38.99
+nserver:            ns2.wazying.dn42 fd26:899c:3344::dd:c85a:8a93
+source:             DN42
