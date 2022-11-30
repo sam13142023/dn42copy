@@ -1,0 +1,9 @@
+inet6num:           fd0c:e4a0:24cd:0000:0000:0000:0000:0000 - fd0c:e4a0:24cd:ffff:ffff:ffff:ffff:ffff
+netname:            NULLROUTE-DN42
+admin-c:            GRAWITY-DN42
+tech-c:             GRAWITY-DN42
+mnt-by:             NULLROUTE-MNT
+status:             ASSIGNED PI
+cidr:               fd0c:e4a0:24cd::/48
+nserver:            ns1.nullroute.dn42
+source:             DN42

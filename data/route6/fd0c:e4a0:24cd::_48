@@ -1,0 +1,4 @@
+route6:             fd0c:e4a0:24cd::/48
+origin:             AS206633
+mnt-by:             NULLROUTE-MNT
+source:             DN42
