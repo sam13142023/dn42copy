@@ -1,0 +1,5 @@
+route6:             fd42:1f5:5555::/48
+origin:             AS4242421807
+max-length:         48
+mnt-by:             FX-MNT
+source:             DN42
