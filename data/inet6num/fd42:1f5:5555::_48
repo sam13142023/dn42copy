@@ -1,0 +1,9 @@
+inet6num:           fd42:01f5:5555:0000:0000:0000:0000:0000 - fd42:01f5:5555:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1f5:5555::/48
+netname:            FX-NETWORK
+descr:              IPv6 address block of fx-network
+admin-c:            FX-DN42
+tech-c:             FX-DN42
+mnt-by:             FX-MNT
+status:             ASSIGNED
+source:             DN42
