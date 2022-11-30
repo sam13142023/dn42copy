@@ -1,0 +1,4 @@
+route:              172.20.43.64/27
+origin:             AS4242423814
+mnt-by:             ROCCORO-MNT
+source:             DN42

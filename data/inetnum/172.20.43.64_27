@@ -1,0 +1,8 @@
+inetnum:            172.20.43.64 - 172.20.43.95
+cidr:               172.20.43.64/27
+netname:            ROCCORO-NETWORK
+admin-c:            ROCCORO-DN42
+tech-c:             ROCCORO-DN42
+mnt-by:             ROCCORO-MNT
+status:             ASSIGNED
+source:             DN42
