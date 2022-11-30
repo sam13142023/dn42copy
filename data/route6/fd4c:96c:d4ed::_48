@@ -1,0 +1,5 @@
+route6:             fd4c:96c:d4ed::/48
+origin:             AS4242423814
+max-length:         48
+mnt-by:             ROCCORO-MNT
+source:             DN42
