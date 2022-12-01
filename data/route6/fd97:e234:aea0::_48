@@ -1,0 +1,5 @@
+route6:             fd97:e234:aea0::/48
+origin:             AS4242423427
+max-length:         48
+mnt-by:             APOCA-MNT
+source:             DN42

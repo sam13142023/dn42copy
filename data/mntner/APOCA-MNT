@@ -1,0 +1,6 @@
+mntner:             APOCA-MNT
+admin-c:            APOCA-DN42
+tech-c:             APOCA-DN42
+mnt-by:             APOCA-MNT
+auth:               pgp-fingerprint 342C97A89EB6DC97A75DFE1416169B67A0772778
+source:             DN42

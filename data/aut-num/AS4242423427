@@ -1,0 +1,7 @@
+aut-num:            AS4242423427
+as-name:            APOCA-AS
+descr:              apoca AS
+admin-c:            APOCA-DN42
+tech-c:             APOCA-DN42
+mnt-by:             APOCA-MNT
+source:             DN42

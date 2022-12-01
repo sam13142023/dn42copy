@@ -1,0 +1,9 @@
+inet6num:           fd97:e234:aea0:0000:0000:0000:0000:0000 - fd97:e234:aea0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd97:e234:aea0::/48
+netname:            APOCA-V6-NET-1
+country:            DE
+admin-c:            APOCA-DN42
+tech-c:             APOCA-DN42
+mnt-by:             APOCA-MNT
+status:             ASSIGNED
+source:             DN42
