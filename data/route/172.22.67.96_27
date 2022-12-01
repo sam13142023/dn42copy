@@ -1,0 +1,5 @@
+route:              172.22.67.96/27
+descr:              BSTluoNetwork
+origin:             AS4242420545
+mnt-by:             BSTLUO-MNT
+source:             DN42

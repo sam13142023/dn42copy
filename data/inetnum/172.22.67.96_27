@@ -1,0 +1,10 @@
+inetnum:            172.22.67.96 - 172.22.67.127
+cidr:               172.22.67.96/27
+netname:            BSTluoNetwork
+descr:              BSTluo_Network
+country:            CN
+admin-c:            BSTLUO-DN42
+tech-c:             BSTLUO-DN42
+mnt-by:             BSTLUO-MNT
+status:             ASSIGNED
+source:             DN42
