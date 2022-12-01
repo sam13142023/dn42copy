@@ -1,0 +1,6 @@
+domain:             nahfe.dn42
+admin-c:            NAHFE-DN42
+tech-c:             NAHFE-DN42
+mnt-by:             NAHFE-MNT
+nserver:            ns1.nahfe.dn42 fd00:70ff:b007::2
+source:             DN42

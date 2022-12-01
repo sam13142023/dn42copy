@@ -1,0 +1,5 @@
+route6:             fd00:70ff:b007::/48
+origin:             AS4242423031
+max-length:         48
+mnt-by:             NAHFE-MNT
+source:             DN42
