@@ -1,0 +1,10 @@
+inet6num:           fd31:6ef2:df65:0000:0000:0000:0000:0000 - fd31:6ef2:df65:ffff:ffff:ffff:ffff:ffff
+netname:            SAKE-IPV6
+descr:              Peer with me at fullstacksake@gmail.com
+country:            CN
+admin-c:            SAKE-DN42
+tech-c:             SAKE-DN42
+mnt-by:             SAKE-MNT
+status:             ASSIGNED
+cidr:               fd31:6ef2:df65::/48
+source:             DN42

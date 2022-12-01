@@ -1,0 +1,5 @@
+route:              172.23.37.128/27
+origin:             AS4242421193
+descr:              SAKE's IP space
+mnt-by:             SAKE-MNT
+source:             DN42
