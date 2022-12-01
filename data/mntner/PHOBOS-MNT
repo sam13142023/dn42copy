@@ -1,0 +1,6 @@
+mntner:             PHOBOS-MNT
+admin-c:            PHOBOS-DN42
+tech-c:             PHOBOS-DN42
+mnt-by:             PHOBOS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGI7SyHrjm3RwuD7OnDhNtnAQKIyPTkssJHXN6c0zj/g
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdb3:68c6:b829::/48
+origin:             AS4242422268
+max-length:         48
+mnt-by:             PHOBOS-MNT
+source:             DN42
