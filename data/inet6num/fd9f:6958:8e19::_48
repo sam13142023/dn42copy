@@ -1,0 +1,10 @@
+inet6num:           fd9f:6958:8e19:0000:0000:0000:0000:0000 - fd9f:6958:8e19:ffff:ffff:ffff:ffff:ffff
+netname:            ZYGLQ-IPV6
+descr:              Peer with me at zyglqexplorer2333@gmail.com
+country:            CN
+admin-c:            ZYGLQ-DN42
+tech-c:             ZYGLQ-DN42
+mnt-by:             ZYGLQ-MNT
+status:             ASSIGNED
+cidr:               fd9f:6958:8e19::/48
+source:             DN42

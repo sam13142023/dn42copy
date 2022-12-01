@@ -1,0 +1,7 @@
+mntner:             ZYGLQ-MNT
+admin-c:            ZYGLQ-DN42
+tech-c:             ZYGLQ-DN42
+mnt-by:             ZYGLQ-MNT
+source:             DN42
+auth:               pgp-fingerprint 9E475CB9FEE620DB94093F106634B581E1287085
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIiaSQjNBk0SbBVPQfGEl6JCR0enag9UQnMlz33M8Xkj zyglqexplorer2333@gmail.com
