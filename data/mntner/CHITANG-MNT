@@ -3,5 +3,4 @@ admin-c:            CHITANG-DN42
 tech-c:             CHITANG-DN42
 mnt-by:             CHITANG-MNT
 source:             DN42
-auth:               pgp-fingerprint 6F562EAC653527A019C28685149B2289DCCD7439
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEV7HAjFkhh66FAW1JtrvWyqaAhIUiAl4GEyHNbS2bWK
+auth:               pgp-fingerprint AEDF1BB86A40BB8225BDF751DF94909C825CF811
