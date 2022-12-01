@@ -1,0 +1,4 @@
+route:              172.21.105.192/27
+origin:             AS4242421737
+mnt-by:             KIDANET-MNT
+source:             DN42
