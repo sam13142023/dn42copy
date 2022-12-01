@@ -1,0 +1,9 @@
+inetnum:            172.22.125.16 - 172.22.125.31
+cidr:               172.22.125.16/28
+netname:            APOCA-V4-NET-1
+country:            DE
+admin-c:            APOCA-DN42
+tech-c:             APOCA-DN42
+mnt-by:             APOCA-MNT
+status:             ASSIGNED
+source:             DN42
