@@ -1,0 +1,10 @@
+inet6num:           fd39:b6e4:6c1e:0000:0000:0000:0000:0000 - fd39:b6e4:6c1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd39:b6e4:6c1e::/48
+netname:            KIDANET-NETWORK
+descr:              Network of KIDANET
+country:            FR
+admin-c:            KIDANET-DN42
+tech-c:             KIDANET-DN42
+mnt-by:             KIDANET-MNT
+status:             ASSIGNED
+source:             DN42

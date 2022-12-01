@@ -1,0 +1,5 @@
+route6:             fd39:b6e4:6c1e::/48
+origin:             AS4242421737
+max-length:         48
+mnt-by:             KIDANET-MNT
+source:             DN42
