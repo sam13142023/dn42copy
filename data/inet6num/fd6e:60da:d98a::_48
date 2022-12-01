@@ -1,0 +1,10 @@
+inet6num:           fd6e:60da:d98a:0000:0000:0000:0000:0000 - fd6e:60da:d98a:ffff:ffff:ffff:ffff:ffff
+netname:            XCNODE-IPV6
+descr:              Peer with me at hi@xcnode.me
+country:            US
+admin-c:            XCNODE-DN42
+tech-c:             XCNODE-DN42
+mnt-by:             XCNODE-MNT
+status:             ASSIGNED
+cidr:               fd6e:60da:d98a::/48
+source:             DN42

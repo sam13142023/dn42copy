@@ -1,0 +1,7 @@
+aut-num:            AS4242421558
+as-name:            XCNODE-AS
+descr:              Peer with me at hi@xcnode.me
+admin-c:            XCNODE-DN42
+tech-c:             XCNODE-DN42
+mnt-by:             XCNODE-MNT
+source:             DN42

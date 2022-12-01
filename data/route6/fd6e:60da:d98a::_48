@@ -1,0 +1,5 @@
+route6:             fd6e:60da:d98a::/48
+descr:              Peer with me at hi@xcnode.me
+origin:             AS4242421558
+mnt-by:             XCNODE-MNT
+source:             DN42
