@@ -1,0 +1,11 @@
+inetnum:            172.23.89.64 - 172.23.89.95
+netname:            ZYGLQ-IPV4
+remarks:            Peer with me at zyglqexplorer2333@gmail.com
+descr:              Peer with me at zyglqexplorer2333@gmail.com
+country:            CN
+admin-c:            ZYGLQ-DN42
+tech-c:             ZYGLQ-DN42
+mnt-by:             ZYGLQ-MNT
+status:             ASSIGNED
+cidr:               172.23.89.64/27
+source:             DN42
