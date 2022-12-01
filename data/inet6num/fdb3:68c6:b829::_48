@@ -1,0 +1,9 @@
+inet6num:           fdb3:68c6:b829:0000:0000:0000:0000:0000 - fdb3:68c6:b829:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb3:68c6:b829::/48
+netname:            PHOBOS-NETWORK
+descr:              Phobos Network IPv6 Block 1
+admin-c:            PHOBOS-DN42
+tech-c:             PHOBOS-DN42
+mnt-by:             PHOBOS-MNT
+status:             ASSIGNED
+source:             DN42
