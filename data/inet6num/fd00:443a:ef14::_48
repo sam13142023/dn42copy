@@ -1,7 +1,7 @@
-inetnum:            172.20.206.64 - 172.20.206.127
-cidr:               172.20.206.64/26
+inet6num:           fd00:443a:ef14:0000:0000:0000:0000:0000 - fd00:443a:ef14:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:443a:ef14::/48
 netname:            XTEX-VNET
-descr:              XTEX-VNET's IPv4 block
+descr:              XTEX-VNET's IPv6 block
 admin-c:            XTEX-DN42
 tech-c:             XTEX-DN42
 mnt-by:             XTEX-MNT
