@@ -1,0 +1,10 @@
+inet6num:           fd62:53d0:d0a2:0000:0000:0000:0000:0000 - fd62:53d0:d0a2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:53d0:d0a2::/48
+netname:            BSTluoNetwork
+descr:              BSTluo_Network
+country:            CN
+admin-c:            BSTLUO-DN42
+tech-c:             BSTLUO-DN42
+mnt-by:             BSTLUO-MNT
+status:             ASSIGNED
+source:             DN42
