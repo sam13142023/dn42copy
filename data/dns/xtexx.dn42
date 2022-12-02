@@ -3,7 +3,7 @@ admin-c:            XTEX-DN42
 tech-c:             XTEX-DN42
 mnt-by:             XTEX-MNT
 nserver:            ns1.xtexx.dn42 172.20.206.65
-nserver:            ns1.xtexx.dn42 fd10:78d4:da31:0000:0000:0000:0000:0011
+nserver:            ns1.xtexx.dn42 fd00:443a:ef14:0000:0000:0000:0001:0001
 nserver:            ns2.xtexx.dn42 172.20.206.66
-nserver:            ns2.xtexx.dn42 fd10:78d4:da31:0000:0000:0000:0000:0012
+nserver:            ns2.xtexx.dn42 fd00:443a:ef14:0000:0000:0000:0001:0002
 source:             DN42
