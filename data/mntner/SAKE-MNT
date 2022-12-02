@@ -1,0 +1,8 @@
+mntner:             SAKE-MNT
+descr:              Network Of SAKE
+admin-c:            SAKE-DN42
+tech-c:             SAKE-DN42
+auth:               pgp-fingerprint 2d53eee267a478e5c034a1f1ca3cfa7789a8736f
+mnt-by:             SAKE-MNT
+source:             DN42
+remarks:            keyserver is hkp://keyserver.ubuntu.com
