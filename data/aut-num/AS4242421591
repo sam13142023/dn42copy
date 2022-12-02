@@ -1,5 +1,7 @@
 aut-num:            AS4242421591
 as-name:            AS-KITEAB-DN42
+descr:              K1t3AB's network. Peer with me at kiteab233@proton.me
+remarks:            The network is open to peering. Contact me at kiteab233@proton.me
 admin-c:            KITEAB-DN42
 tech-c:             KITEAB-DN42
 mnt-by:             KITEAB-MNT
