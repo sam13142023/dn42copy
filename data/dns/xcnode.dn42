@@ -1,0 +1,7 @@
+domain:             xcnode.dn42
+admin-c:            XCNODE-DN42
+tech-c:             XCNODE-DN42
+mnt-by:             XCNODE-MNT
+nserver:            ns1.xcnode.dn42 172.23.89.97
+nserver:            ns2.xcnode.dn42 172.23.89.98
+source:             DN42

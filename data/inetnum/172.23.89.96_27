@@ -1,0 +1,13 @@
+inetnum:            172.23.89.96 - 172.23.89.127
+netname:            XCNODE-IPV4
+remarks:            Peer with me at hi@xcnode.me
+descr:              Peer with me at hi@xcnode.me
+country:            US
+admin-c:            XCNODE-DN42
+tech-c:             XCNODE-DN42
+mnt-by:             XCNODE-MNT
+nserver:            ns1.xcnode.dn42
+nserver:            ns2.xcnode.dn42
+status:             ASSIGNED
+cidr:               172.23.89.96/27
+source:             DN42

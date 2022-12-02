@@ -1,0 +1,6 @@
+mntner:             XCNODE-MNT
+admin-c:            XCNODE-DN42
+tech-c:             XCNODE-DN42
+mnt-by:             XCNODE-MNT
+source:             DN42
+auth:               pgp-fingerprint 67A7CDF76D799813B5239A334F73D411DCE7FB27
