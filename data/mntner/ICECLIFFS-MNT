@@ -1,0 +1,8 @@
+mntner:             ICECLIFFS-MNT
+admin-c:            ICECLIFFS-DN42
+tech-c:             ICECLIFFS-DN42
+mnt-by:             ICECLIFFS-MNT
+source:             DN42
+auth:               pgp-fingerprint 0BE2C259A99AE5B767BC1A2CA3550E3691FF9467
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPOEzWsohqYxXP+cgl7OFUMPr28IPF/nTErMHtOXS6ZV
+remarks:            rYu1nser (IceCliffs) Hi :), My blog: https://iloli.moe
