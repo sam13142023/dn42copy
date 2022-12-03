@@ -1,0 +1,11 @@
+inetnum:            172.23.244.0 - 172.23.244.63
+cidr:               172.23.244.0/26
+netname:            ICECLIFFS-IPV4
+descr:              rYu1nser's NET, Mail: security@icecliffs.cn
+country:            CN
+admin-c:            ICECLIFFS-DN42
+tech-c:             ICECLIFFS-DN42
+status:             ASSIGNED
+mnt-by:             ICECLIFFS-MNT
+source:             DN42
+remarks:            rYu1nser's Network       

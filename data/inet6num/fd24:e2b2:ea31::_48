@@ -1,0 +1,11 @@
+inet6num:           fd24:e2b2:ea31:0000:0000:0000:0000:0000 - fd24:e2b2:ea31:ffff:ffff:ffff:ffff:ffff
+netname:            ICECLIFFS-IPV6
+descr:              ICECLIFFS NETWORK SPACE
+remarks:            security@icecliffs.cn
+country:            CN
+admin-c:            ICECLIFFS-DN42
+tech-c:             ICECLIFFS-DN42
+mnt-by:             ICECLIFFS-MNT
+status:             ASSIGNED
+cidr:               fd24:e2b2:ea31::/48
+source:             DN42
