@@ -3,5 +3,5 @@ admin-c:            ZYC-DN42
 tech-c:             ZYC-DN42
 mnt-by:             ZYC-MNT
 source:             DN42
-auth:               pgp-fingerprint 10DA559A3BC2B77EABACA87548613B264B9F4FEA
-auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCff2qoBiQyo5p4rDSl3glFr90zaMzKX+owex1b8GXk3MwCGYPJG8oJLZtUXezKsArq2WzCnpj5+ex0vH0mI7uVj+vSwZ8sjdXAa/520nt/BnpdgKGgULHZ6ANlXurt100C2sml3o3TrHnprQby1XXcWDASXm5uBbahP3Ua00Nmwpz0pzEOAqpvU/Z/WNnBobA5JdePDFm/hbPP9O1xc61a6Nl40G90vctnwDTcoObgtr2SDMFWULG6Ho7ifUutt5KbAq9LXM5zjuirMkLxj2bB5oFqAU1q8soFzWhnpenIdwpEL8dXghMCWWOaVp1x1Acf0EFVBOLUBNRaJGChoD4QqE5H7qukP86iXK/DkP/fnXD62uWjtoNrSFYZopfWyYo4QloZBcazNt0n9vsEDnM1MiLvFFr/TGIJsyOaa9lav0m9Dh2pLYF1eP0Uz0JqErFOtdIrkeK3etSMAptkUJY1jAdv/pbWeTDLC3iD0SV5lIX5HjLJPX46t889vN+x15vQxR4CvISoW94mRM6pXq5lACtppoU7nKi0TBYA9ySMkqosUGmZTx9ncRCRf6D9TUo+bFWV3tR/ZpDcFSU1hFbHTmiz0MrwQrNy886t74aPMFOtLhf6WsigJiaX0PQ3Amff+RQMdBIlAbhuEuc5XJswkydXKlcn3h8TBANb3RcwTQ== zyc@zyc.name
+auth:               pgp-fingerprint F4259FBF7C46F3A5D25B190CA688B79F5E17ED10
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICUufJMOq2+7LzQ/6HzVSZWPzOQiQp2RlrDWs5fz4VJu zyc@zyc.name
