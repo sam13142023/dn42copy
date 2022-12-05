@@ -2,6 +2,7 @@ domain:             neo
 nserver:            53.255.127.10.ipv4.registry-sync.dn42
 nserver:            0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.5.0.0.f.f.f.f.7.2.1.0.0.1.d.f.ipv6.registry-sync.dn42
 ds-rdata:           56336 13 2 317f7cc14d2f74abf560cfce6f89f5187872573ba5a7af9a9b14cf47e51489e5
+ds-rdata:           37727 15 2 c32191a298279d16846eeefc157eec6be69be8edfeb4f3145c685f0752a73a8d
 remarks:            Imported from icvpn-meta, do not edit!
 remarks:            File: neonetwork
 mnt-by:             DN42-MNT
