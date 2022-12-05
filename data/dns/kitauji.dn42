@@ -1,0 +1,9 @@
+domain:             kitauji.dn42
+admin-c:            XANAWATT-DN42
+tech-c:             XANAWATT-DN42
+mnt-by:             XANAWATT-MNT
+nserver:            ns1.kitauji.dn42 172.22.179.100
+nserver:            ns1.kitauji.dn42 fd0b:4d5d:38d9::4
+nserver:            ns2.kitauji.dn42 172.22.179.101
+nserver:            ns2.kitauji.dn42 fd0b:4d5d:38d9::5
+source:             DN42

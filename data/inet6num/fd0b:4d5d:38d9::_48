@@ -1,0 +1,12 @@
+inet6num:           fd0b:4d5d:38d9:0000:0000:0000:0000:0000 - fd0b:4d5d:38d9:ffff:ffff:ffff:ffff:ffff
+netname:            KITAUJI-IPV6
+descr:              Peer with me at xanawatt@kitauji
+country:            US
+admin-c:            XANAWATT-DN42
+tech-c:             XANAWATT-DN42
+mnt-by:             XANAWATT-MNT
+status:             ASSIGNED
+cidr:               fd0b:4d5d:38d9::/48
+nserver:            ns1.kitauji.dn42
+nserver:            ns2.kitauji.dn42
+source:             DN42
