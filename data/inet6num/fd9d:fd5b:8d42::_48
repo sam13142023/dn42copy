@@ -1,0 +1,11 @@
+inet6num:           fd9d:fd5b:8d42:0000:0000:0000:0000:0000 - fd9d:fd5b:8d42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9d:fd5b:8d42::/48
+netname:            GS-NETWORK
+descr:              Network of William Goodspeed
+country:            CN
+admin-c:            GOODSPEED-DN42
+tech-c:             GOODSPEED-DN42
+org:                ORG-FSFANS
+mnt-by:             GS-MNT
+status:             ASSIGNED
+source:             DN42
