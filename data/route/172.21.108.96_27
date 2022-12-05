@@ -1,0 +1,4 @@
+route:              172.21.108.96/27
+origin:             AS4242423061
+mnt-by:             GS-MNT
+source:             DN42
