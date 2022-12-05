@@ -1,0 +1,5 @@
+route:              172.22.179.96/27
+descr:              Peer with me at xanawatt@kitauji.net
+origin:             AS4242422314
+mnt-by:             XANAWATT-MNT
+source:             DN42
