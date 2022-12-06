@@ -1,11 +1,15 @@
 route:              10.127.255.54/32
 max-length:         32
 origin:             AS4201270006
+origin:             AS4201272923
 origin:             AS4242422464
+origin:             AS4242422923
 origin:             AS4242423618
 admin-c:            JERRYXIAO-NEONETWORK
+admin-c:            MARK22K-NEONETWORK
 admin-c:            YURA-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
+tech-c:             MARK22K-NEONETWORK
 tech-c:             YURA-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT

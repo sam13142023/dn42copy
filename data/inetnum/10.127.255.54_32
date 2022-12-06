@@ -2,8 +2,10 @@ inetnum:            10.127.255.54 - 10.127.255.54
 cidr:               10.127.255.54/32
 netname:            anycast-recur-4
 admin-c:            JERRYXIAO-NEONETWORK
+admin-c:            MARK22K-NEONETWORK
 admin-c:            YURA-NEONETWORK
 tech-c:             JERRYXIAO-NEONETWORK
+tech-c:             MARK22K-NEONETWORK
 tech-c:             YURA-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
 mnt-by:             DN42-MNT
