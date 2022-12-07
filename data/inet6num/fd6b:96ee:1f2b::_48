@@ -1,0 +1,9 @@
+inet6num:           fd6b:96ee:1f2b:0000:0000:0000:0000:0000 - fd6b:96ee:1f2b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6b:96ee:1f2b::/48
+netname:            TBAHN-NETWORK
+country:            DE
+admin-c:            TBAHN-DN42
+tech-c:             TBAHN-DN42
+mnt-by:             TBAHN-MNT
+status:             ASSIGNED
+source:             DN42

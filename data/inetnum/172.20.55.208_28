@@ -1,0 +1,9 @@
+inetnum:            172.20.55.208 - 172.20.55.223
+cidr:               172.20.55.208/28
+netname:            TBAHN-NETWORK
+country:            DE
+admin-c:            TBAHN-DN42
+tech-c:             TBAHN-DN42
+mnt-by:             TBAHN-MNT
+status:             ASSIGNED
+source:             DN42
