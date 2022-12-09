@@ -1,0 +1,9 @@
+inetnum:            172.20.43.128 - 172.20.43.159
+cidr:               172.20.43.128/27
+netname:            CHARLIE-NETV4-1
+admin-c:            CHARLIE-DN42
+tech-c:             CHARLIE-DN42
+mnt-by:             CHARLIE-MNT
+nserver:            ns1.charlie.dn42
+status:             ASSIGNED
+source:             DN42

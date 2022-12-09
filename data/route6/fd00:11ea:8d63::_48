@@ -1,0 +1,5 @@
+route6:             fd00:11ea:8d63::/48
+origin:             AS4242422936
+max-length:         48
+mnt-by:             CHARLIE-MNT
+source:             DN42
