@@ -1,0 +1,7 @@
+domain:             charlie.dn42
+admin-c:            CHARLIE-DN42
+tech-c:             CHARLIE-DN42
+mnt-by:             CHARLIE-MNT
+nserver:            ns1.charlie.dn42 172.20.43.129
+nserver:            ns1.charlie.dn42 fd00:11ea:8d63:f000::1
+source:             DN42

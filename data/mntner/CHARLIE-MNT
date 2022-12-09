@@ -1,0 +1,6 @@
+mntner:             CHARLIE-MNT
+admin-c:            CHARLIE-DN42
+tech-c:             CHARLIE-DN42
+mnt-by:             CHARLIE-MNT
+source:             DN42
+auth:               pgp-fingerprint 09072B9A87C0FE91D2D3222E4584B1333FA2036D
