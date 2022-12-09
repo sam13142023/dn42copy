@@ -6,4 +6,5 @@ mnt-by:             NULLROUTE-MNT
 status:             ASSIGNED PI
 cidr:               fd0c:e4a0:24cd::/48
 nserver:            ns1.nullroute.dn42
+ds-rdata:           3869 13 2 BA7BC6708391316C1B9BE7B4276183C16CC5A34D583F9260F7604C7E7BE9665C
 source:             DN42
