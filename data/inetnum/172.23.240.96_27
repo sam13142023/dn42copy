@@ -1,0 +1,8 @@
+inetnum:            172.23.240.96 - 172.23.240.127
+cidr:               172.23.240.96/27
+netname:            BILLYIT-NETWORK
+admin-c:            BILLYIT-DN42
+tech-c:             BILLYIT-DN42
+mnt-by:             BILLYIT-MNT
+status:             ASSIGNED
+source:             DN42
