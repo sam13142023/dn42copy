@@ -1,0 +1,10 @@
+inet6num:           fd14:2975:7783:0000:0000:0000:0000:0000 - fd14:2975:7783:ffff:ffff:ffff:ffff:ffff
+cidr:               fd14:2975:7783::/48
+netname:            MARKSOLO-NETWORK
+descr:              Network of MARKSOLO
+country:            CA
+admin-c:            MARKSOLO-DN42
+tech-c:             MARKSOLO-DN42
+mnt-by:             MARKSOLO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             MARKSOLO-MNT
+admin-c:            MARKSOLO-DN42
+tech-c:             MARKSOLO-DN42
+mnt-by:             MARKSOLO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCq/A7uzW0Tr2pcin1/WLJdAR9NQ1AhE7HZIQmcicqJOmjf/enaID32BDcyRzXWkYIE0GIRZl+LthZ0JW7cFgKBRuhvu92/JAZGpBP77EW/JesZGwy+2aGVZUFxkeBdg1SU04zYSHc2nXx4kxuflPzmZ11ut5LrFZ4aB44gGQunPkctsWUVTcxp2Y2ha5TZjTq9XvpwS42If0HgcTsZShD949QtlFL9aeZMuRn+N3dTSmf6QsZI82bOzFmtbel8Z7DlYP2zLa0Ja7JL3b/6M1qfflDWUbciyf3EDESRFqQTmZqvw42UIUN5ZG5KuYEskGgyhkJz0OEVTqeBLjMqmIsM1nfs+nrEpOJRf3+sLpIWXU/j82NgM9RW1zxCF7DuwccpwVjqteN0PfkSrec9kRHtTD/PEULX/fXuPPyWq4e/iDy6r/UeTTWW7FLBWTYT+ues90He0fGWGEaNs4Nd81AcVLgw0/AbT5lyRnmDxn9h6jeLDu1sYipkIBezhVKBDzE= mark@fedora
+source:             DN42

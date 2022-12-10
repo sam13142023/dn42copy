@@ -1,0 +1,8 @@
+inetnum:            172.23.244.96 - 172.23.244.127
+cidr:               172.23.244.96/27
+netname:            MARKSOLO-NETWORK
+admin-c:            MARKSOLO-DN42
+tech-c:             MARKSOLO-DN42
+mnt-by:             MARKSOLO-MNT
+status:             ASSIGNED
+source:             DN42
