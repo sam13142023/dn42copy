@@ -1,0 +1,4 @@
+route:              172.23.244.96/27
+origin:             AS4242420283
+mnt-by:             MARKSOLO-MNT
+source:             DN42

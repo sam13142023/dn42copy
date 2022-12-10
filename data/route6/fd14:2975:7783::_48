@@ -1,0 +1,5 @@
+route6:             fd14:2975:7783::/48
+origin:             AS4242420283
+max-length:         48
+mnt-by:             MARKSOLO-MNT
+source:             DN42
