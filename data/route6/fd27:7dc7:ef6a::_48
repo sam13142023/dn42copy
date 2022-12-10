@@ -1,0 +1,5 @@
+route6:             fd27:7dc7:ef6a::/48
+origin:             AS4242422881
+max-length:         48
+mnt-by:             BILLYIT-MNT
+source:             DN42

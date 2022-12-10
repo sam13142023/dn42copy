@@ -1,0 +1,4 @@
+route:              172.23.240.96/27
+origin:             AS4242422881
+mnt-by:             BILLYIT-MNT
+source:             DN42
