@@ -1,0 +1,7 @@
+domain:             klg.dn42
+admin-c:            KLG-DN42
+tech-c:             KLG-DN42
+mnt-by:             KLG-MNT
+nserver:            ns1.klg.dn42 fdc8:351e:3ce4:53::1
+nserver:            ns1.klg.dn42 172.21.123.194
+source:             DN42

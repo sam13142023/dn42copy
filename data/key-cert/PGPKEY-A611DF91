@@ -1,0 +1,39 @@
+key-cert:           PGPKEY-A611DF91
+method:             PGP
+fingerpr:           32D0 3E92 2F68 1AF5 9ADB  8870 A158 25AE A611 DF91
+owner:              Klara Grziwok <kgrziwok@klara.so>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEY4jxlBYJKwYBBAHaRw8BAQdAmpBuzk8nzPQOrgtukhbhSLotVXfNAWrhVe2w
+certif:             Qs2EpLq0HEtsYXJhIEdyeml3b2sgPHB1YkBrbGFyYS5zbz6IkQQTFgoAOQIbAQQL
+certif:             CQgHBBUKCQgFFgIDAQACHgUCF4AWIQQy0D6SL2ga9ZrbiHChWCWuphHfkQUCY5Cw
+certif:             QQIZAQAKCRChWCWuphHfkWbQAQCcoA631vzGKoZZZbU4/EzI3ObmqIKXgIYQU7Ac
+certif:             /Tg1WwEAskqUJk0JOU6Z40w13gOqH4vsxvxuh2r6GSUgax9y+A20IUtsYXJhIEdy
+certif:             eml3b2sgPGtncnppd29rQGtsYXJhLnNvPoiOBBMWCgA2FiEEMtA+ki9oGvWa24hw
+certif:             oVglrqYR35EFAmOQr6oCGwEECwkIBwQVCgkIBRYCAwEAAh4FAheAAAoJEKFYJa6m
+certif:             Ed+ReFcBAI9Z9+QTS4GYmj14fVGHox4xwhWQj+PnPVODBEUdyL/9AQCDOpsduTye
+certif:             HMJlWJhweeYX6i/eiecuf8PA1isaMQKCAbQcS2xhcmEgR3J6aXdvayA8Z2l0QGts
+certif:             YXJhLnNvPoiOBBMWCgA2FiEEMtA+ki9oGvWa24hwoVglrqYR35EFAmOQr/sCGwEE
+certif:             CwkIBwQVCgkIBRYCAwEAAh4FAheAAAoJEKFYJa6mEd+RN80BAOAZW/Vt5rlgw2RW
+certif:             PdAr+XSyLQijgqKDE4zvVKWiaRM1AQCCphZNl14Jy6np9CMyHKk6sdM87ytUyd6i
+certif:             7Un0GO9mD7gzBGOUb3AWCSsGAQQB2kcPAQEHQGk9tS5UB87ev5yLYTq/RZ/Zv1id
+certif:             6R3obSoYB8ur6HcGiPUEGBYKACYWIQQy0D6SL2ga9ZrbiHChWCWuphHfkQUCY5Rv
+certif:             cAIbAgUJA8JnAACBCRChWCWuphHfkXYgBBkWCgAdFiEEdiBu/JpQP2ngNHVKpJ3j
+certif:             e1xSsI0FAmOUb3AACgkQpJ3je1xSsI1+oQD/db5bftQN9avMdfLyfcwfYBajutxI
+certif:             /5GfawteALO2fPUBAMdP6/cp4FaaW+U80I9POVDuiKyAm768rzV964SmpZkHB7gB
+certif:             AOwM7e2v2x5dNIJ4jakHDGrfg+fB5YlNoVtNl8quD4o2APkBKelDBJefamr2VlJH
+certif:             93GHFdlge8rfz2vQix8smXz9CLg4BGOUb4USCisGAQQBl1UBBQEBB0CaE0d9++RZ
+certif:             ZYVLqPmDHdT228Xtkx9igo+95VdyKT+9QQMBCAeIfgQYFgoAJhYhBDLQPpIvaBr1
+certif:             mtuIcKFYJa6mEd+RBQJjlG+FAhsMBQkDwmcAAAoJEKFYJa6mEd+RNPMA/026Wb/I
+certif:             4lpXTVPwD4Cug2TmWNEFaNWxbBlsIaI0vOD1AQDf9OWCSNbuFZc24d4YVttKKxLW
+certif:             D7szhW5ptY8yc7psCLgzBGOUb5kWCSsGAQQB2kcPAQEHQJdmLy9oAEnfO46eyXCy
+certif:             tT/xErx2blAkf9LE24iHrPwtiH4EGBYKACYWIQQy0D6SL2ga9ZrbiHChWCWuphHf
+certif:             kQUCY5RvmQIbIAUJA8JnAAAKCRChWCWuphHfkZ44AP90mkIMbzzRyPiOXewvIGCb
+certif:             I+9JxmgI6M54l9yV146F+AD+M7yZsM2n8Xjc2xnJi8xtSbLUR7V+/FXocOOY40QN
+certif:             YAM=
+certif:             =rWJQ
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            KLG-DN42
+tech-c:             KLG-DN42
+mnt-by:             KLG-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.21.123.192/27
+origin:             AS4242420264
+mnt-by:             KLG-MNT
+source:             DN42
