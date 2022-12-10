@@ -1,0 +1,9 @@
+inet6num:           fda4:d763:2fbc:0000:0000:0000:0000:0000 - fda4:d763:2fbc:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:d763:2fbc::/48
+netname:            MATWOLF-IPV6-RESERVED-NETWORK
+country:            IT
+admin-c:            MATWOLF-DN42
+tech-c:             MATWOLF-DN42
+mnt-by:             MATWOLF-MNT
+status:             ASSIGNED
+source:             DN42
