@@ -1,0 +1,5 @@
+route6:             fda4:d763:2fbc::/48
+origin:             AS0
+max-length:         48
+mnt-by:             MATWOLF-MNT
+source:             DN42
