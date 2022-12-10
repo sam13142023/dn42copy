@@ -1,0 +1,7 @@
+mntner:             KLG-MNT
+admin-c:            KLG-DN42
+tech-c:             KLG-DN42
+mnt-by:             KLG-MNT
+auth:               PGPKEY-A611DF91
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMeukB8DwKWw7nfrPGU3ym8+wzMqpKlKSar4YOU/vJpL
+source:             DN42

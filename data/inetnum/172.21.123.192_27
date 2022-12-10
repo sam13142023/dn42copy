@@ -1,0 +1,9 @@
+inetnum:            172.21.123.192 - 172.21.123.223
+cidr:               172.21.123.192/27
+netname:            KLG-NETWORK
+admin-c:            KLG-DN42
+tech-c:             KLG-DN42
+mnt-by:             KLG-MNT
+status:             ASSIGNED
+nserver:            ns1.klg.dn42
+source:             DN42

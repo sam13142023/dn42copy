@@ -1,0 +1,5 @@
+route6:             fdc8:351e:3ce4::/48
+origin:             AS4242420264
+max-length:         48
+mnt-by:             KLG-MNT
+source:             DN42
