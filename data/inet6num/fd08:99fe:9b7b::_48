@@ -1,0 +1,12 @@
+inet6num:           fd08:99fe:9b7b:0000:0000:0000:0000:0000 - fd08:99fe:9b7b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd08:99fe:9b7b::/48
+netname:            HOLY-TERRA-NETWORK
+descr:              To peer, contact gimlie@protonmail.com
+country:            US
+admin-c:            GIMLIE-DN42
+tech-c:             GIMLIE-DN42
+mnt-by:             GIMLIE-MNT
+status:             ASSIGNED
+nserver:            ns1.holy-terra.dn42
+nserver:            ns2.holy-terra.dn42
+source:             DN42

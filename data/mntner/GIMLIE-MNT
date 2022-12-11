@@ -1,0 +1,6 @@
+mntner:             GIMLIE-MNT
+admin-c:            GIMLIE-DN42
+tech-c:             GIMLIE-DN42
+mnt-by:             GIMLIE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILIfgQmEBcg7vTtrXIIwEzNwcYh8G3ZzDK28j/XNtHKK
+source:             DN42

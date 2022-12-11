@@ -1,0 +1,5 @@
+route6:             fd08:99fe:9b7b::/48
+origin:             AS4242422258
+max-length:         48
+mnt-by:             GIMLIE-MNT
+source:             DN42
