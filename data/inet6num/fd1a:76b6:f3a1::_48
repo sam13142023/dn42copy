@@ -1,0 +1,9 @@
+inet6num:           fd1a:76b6:f3a1:0000:0000:0000:0000:0000 - fd1a:76b6:f3a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1a:76b6:f3a1::/48
+netname:            EFFICACY38-NETWORK
+descr:              Network of EFFICACY38
+admin-c:            EFFICACY38-DN42
+tech-c:             EFFICACY38-DN42
+mnt-by:             EFFICACY38-MNT
+status:             ASSIGNED
+source:             DN42
