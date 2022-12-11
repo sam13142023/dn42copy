@@ -1,0 +1,7 @@
+domain:             holy-terra.dn42
+admin-c:            GIMLIE-DN42
+tech-c:             GIMLIE-DN42
+mnt-by:             GIMLIE-MNT
+nserver:            ns1.holy-terra.dn42 fd08:99fe:9b7b::4
+nserver:            ns2.holy-terra.dn42 fd08:99fe:9b7b::5
+source:             DN42
