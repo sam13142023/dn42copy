@@ -1,0 +1,8 @@
+inet6num:           fd66:0000:6666:0000:0000:0000:0000:0000-fd66:0000:6666:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:0:6666::/48
+netname:            66CCFF-NETWORK-IPV6
+admin-c:            66CCFF-DN42
+tech-c:             66CCFF-DN42
+mnt-by:             66CCFF-MNT
+status:             ASSIGNED
+source:             DN42

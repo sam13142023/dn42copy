@@ -1,0 +1,4 @@
+route6:             fd66:0:6666::/48
+origin:             AS4242421066
+mnt-by:             66CCFF-MNT
+source:             DN42
