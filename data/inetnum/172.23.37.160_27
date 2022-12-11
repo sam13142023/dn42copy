@@ -1,0 +1,8 @@
+inetnum:            172.23.37.160 - 172.23.37.191
+cidr:               172.23.37.160/27
+netname:            EFFICACY38-NETWORK
+admin-c:            EFFICACY38-DN42
+tech-c:             EFFICACY38-DN42
+mnt-by:             EFFICACY38-MNT
+status:             ASSIGNED
+source:             DN42

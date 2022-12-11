@@ -1,0 +1,4 @@
+route:              172.23.37.160/27
+origin:             AS4242423793
+mnt-by:             EFFICACY38-MNT
+source:             DN42
