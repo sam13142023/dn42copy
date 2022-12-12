@@ -1,0 +1,8 @@
+inetnum:            172.23.9.64-172.23.9.127
+cidr:               172.23.9.64/26
+netname:            66CCFF-NETWORK-IPV4
+admin-c:            66CCFF-DN42
+tech-c:             66CCFF-DN42
+mnt-by:             66CCFF-MNT
+status:             ASSIGNED
+source:             DN42
