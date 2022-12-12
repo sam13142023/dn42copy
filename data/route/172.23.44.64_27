@@ -1,0 +1,5 @@
+route:              172.23.44.64/27
+descr:              cynt4k's lab network
+origin:             AS4242423421
+mnt-by:             CYNT4K-MNT
+source:             DN42
