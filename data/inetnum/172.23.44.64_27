@@ -1,0 +1,9 @@
+inetnum:            172.23.44.64 - 172.23.44.95
+cidr:               172.23.44.64/27
+netname:            CYNT4K-NET
+descr:              cynt4k's lab network
+admin-c:            CYNT4K-DN42
+tech-c:             CYNT4K-DN42
+mnt-by:             CYNT4K-MNT
+status:             ASSIGNED
+source:             DN42

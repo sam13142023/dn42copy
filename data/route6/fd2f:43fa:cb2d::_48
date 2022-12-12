@@ -1,0 +1,5 @@
+route6:             fd2f:43fa:cb2d::/48
+origin:             AS4242423421
+max-length:         48
+mnt-by:             CYNT4K-MNT
+source:             DN42

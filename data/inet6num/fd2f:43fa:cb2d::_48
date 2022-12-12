@@ -1,0 +1,8 @@
+inet6num:           fd2f:43fa:cb2d:0000:0000:0000:0000:0000 - fd2f:43fa:cb2d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2f:43fa:cb2d::/48
+netname:            CYNT4K-NET
+admin-c:            CYNT4K-DN42
+tech-c:             CYNT4K-DN42
+mnt-by:             CYNT4K-MNT
+status:             ASSIGNED
+source:             DN42
