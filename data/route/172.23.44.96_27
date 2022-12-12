@@ -1,0 +1,4 @@
+route:              172.23.44.96/27
+origin:             AS4242422490
+mnt-by:             BENDIK-MNT
+source:             DN42
