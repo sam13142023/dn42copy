@@ -1,0 +1,8 @@
+inetnum:            172.23.44.96 - 172.23.44.127
+cidr:               172.23.44.96/27
+netname:            BENDIK-NETWORK
+admin-c:            BENDIK-DN42
+tech-c:             BENDIK-DN42
+mnt-by:             BENDIK-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdde:2288:ea69:0000:0000:0000:0000:0000 - fdde:2288:ea69:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:2288:ea69::/48
+netname:            BENDIK-NETWORK
+descr:              Bendiks Network
+country:            NO
+admin-c:            BENDIK-DN42
+tech-c:             BENDIK-DN42
+mnt-by:             BENDIK-MNT
+status:             ASSIGNED
+source:             DN42

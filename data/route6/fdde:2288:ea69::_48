@@ -1,0 +1,5 @@
+route6:             fdde:2288:ea69::/48
+origin:             AS4242422490
+max-length:         48
+mnt-by:             BENDIK-MNT
+source:             DN42
