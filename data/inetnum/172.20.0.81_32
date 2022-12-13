@@ -2,13 +2,15 @@ inetnum:            172.20.0.81 - 172.20.0.81
 cidr:               172.20.0.81/32
 netname:            MYIP-V4
 descr:              Anycast for myip.dn42
+mnt-by:             LARE-MNT
 nserver:            ns.lare.dn42
 nserver:            ns1.lare.dn42
 nserver:            ns2.lare.dn42
-nserver:            ns1.bandura.dn42
-mnt-by:             LARE-MNT
-mnt-by:             JLU5-MNT
 mnt-by:             MARK22K-MNT
+nserver:            ns1.bandura.dn42
+mnt-by:             JLU5-MNT
 mnt-by:             C4TG1RL5-MNT
+mnt-by:             CHARLIE-MNT
+nserver:            ns1.charlie.dn42
 status:             ASSIGNED
 source:             DN42
