@@ -1,5 +1,12 @@
 aut-num:            AS4242422936
 as-name:            CHARLIENET-DN42
+descr:              Charlie's AS
+remarks:            /-------------------------------------\
+remarks:            |          Charlie's network          |
+remarks:            >-------------------------------------<
+remarks:            | I am looking for peers:             |
+remarks:            | * http://charlie.dn42/peer.html     |
+remarks:            \-------------------------------------/
 admin-c:            CHARLIE-DN42
 tech-c:             CHARLIE-DN42
 mnt-by:             CHARLIE-MNT
