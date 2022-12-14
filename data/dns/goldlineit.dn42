@@ -1,0 +1,7 @@
+domain:             goldlineit.dn42
+nserver:            ns1.goldlineit.dn42 172.22.148.225
+nserver:            ns1.goldlineit.dn42 fd2e:d3a8:d041:172b::1
+admin-c:            SMYERS119-DN42
+tech-c:             SMYERS119-DN42
+mnt-by:             SMYERS119-MNT
+source:             DN42

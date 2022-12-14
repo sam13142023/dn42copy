@@ -2,6 +2,7 @@ inet6num:           fd2e:d3a8:d041:0000:0000:0000:0000:0000 - fd2e:d3a8:d041:fff
 cidr:               fd2e:d3a8:d041::/48
 netname:            GOLDLINEIT-NETWORK
 country:            US
+nserver:            ns1.goldlineit.dn42
 admin-c:            SMYERS119-DN42
 tech-c:             SMYERS119-DN42
 org:                ORG-GOLDLINEIT
