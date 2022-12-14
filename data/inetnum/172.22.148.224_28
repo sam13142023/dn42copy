@@ -1,6 +1,7 @@
 inetnum:            172.22.148.224 - 172.22.148.239
 cidr:               172.22.148.224/28
 netname:            GOLDLINEIT-NETWORK
+nserver:            ns1.goldlineit.dn42
 admin-c:            SMYERS119-DN42
 tech-c:             SMYERS119-DN42
 org:                ORG-GOLDLINEIT
