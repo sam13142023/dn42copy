@@ -2,3 +2,4 @@ route:              172.23.7.192/26
 origin:             AS4242422253
 mnt-by:             WOODIE-MNT
 source:             DN42
+max-length:         26
