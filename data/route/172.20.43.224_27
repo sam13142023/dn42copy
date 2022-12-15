@@ -1,0 +1,4 @@
+route:              172.20.43.224/27
+origin:             AS4242421215
+mnt-by:             KIMANE-MNT
+source:             DN42

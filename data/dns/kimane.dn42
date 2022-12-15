@@ -1,0 +1,9 @@
+domain:             kimane.dn42
+admin-c:            KIMANE-DN42
+tech-c:             KIMANE-DN42
+mnt-by:             KIMANE-MNT
+nserver:            ns1.kimane.dn42 172.20.43.225
+nserver:            ns1.kimane.dn42 fd3c:9a7a:6dfd::1
+nserver:            ns2.kimane.dn42 172.20.43.226
+nserver:            ns2.kimane.dn42 fd3c:9a7a:6dfd::2
+source:             DN42
