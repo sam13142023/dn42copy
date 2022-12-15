@@ -1,0 +1,11 @@
+domain:             xn--9s9h.dn42
+descr:              Fox was here
+admin-c:            SCOOPTA-DN42
+tech-c:             SCOOPTA-DN42
+mnt-by:             SCOOPTA-MNT
+nserver:            holo.uwu.dn42
+nserver:            c.c.uwu.dn42
+nserver:            02.uwu.dn42
+nserver:            kaguya.uwu.dn42
+ds-rdata:           6093 13 2 80AC112064E339BEB6C8CD6DB700FC203F7CB79A054501E350682C6CA08055D3
+source:             DN42
