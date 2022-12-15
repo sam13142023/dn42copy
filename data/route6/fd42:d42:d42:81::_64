@@ -1,12 +1,14 @@
 route6:             fd42:d42:d42:81::/64
 descr:              myip.dn42 anycast
+mnt-by:             LARE-MNT
 origin:             AS4242423035
+mnt-by:             JLU5-MNT
 origin:             AS4242421080
+mnt-by:             MARK22K-MNT
 origin:             AS4242422923
 origin:             AS4201272923
-origin:             AS4242421411
-mnt-by:             LARE-MNT
-mnt-by:             JLU5-MNT
-mnt-by:             MARK22K-MNT
 mnt-by:             C4TG1RL5-MNT
+origin:             AS4242421411
+mnt-by:             CHARLIE-MNT
+origin:             AS4242422936
 source:             DN42
