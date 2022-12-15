@@ -1,0 +1,12 @@
+inet6num:           fd3c:9a7a:6dfd:0000:0000:0000:0000:0000 - fd3c:9a7a:6dfd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:9a7a:6dfd::/48
+netname:            KIMANE-NETWORK
+descr:              Network of KIMANE
+country:            SE
+admin-c:            KIMANE-DN42
+tech-c:             KIMANE-DN42
+mnt-by:             KIMANE-MNT
+status:             ASSIGNED
+nserver:            ns1.kimane.dn42
+nserver:            ns2.kimane.dn42
+source:             DN42

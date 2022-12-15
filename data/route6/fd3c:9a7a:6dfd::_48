@@ -1,0 +1,5 @@
+route6:             fd3c:9a7a:6dfd::/48
+origin:             AS4242421215
+max-length:         48
+mnt-by:             KIMANE-MNT
+source:             DN42

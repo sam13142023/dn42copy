@@ -1,0 +1,6 @@
+mntner:             KIMANE-MNT
+admin-c:            KIMANE-DN42
+tech-c:             KIMANE-DN42
+mnt-by:             KIMANE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHstvLc65mxINbRjcjV+6lfGHfhSItEKnjzWJeTHXvcr mg433@Birk
+source:             DN42

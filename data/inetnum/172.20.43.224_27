@@ -1,0 +1,10 @@
+inetnum:            172.20.43.224 - 172.20.43.255
+cidr:               172.20.43.224/27
+netname:            KIMANE-NETWORK
+admin-c:            KIMANE-DN42
+tech-c:             KIMANE-DN42
+mnt-by:             KIMANE-MNT
+status:             ASSIGNED
+nserver:            ns1.kimane.dn42
+nserver:            ns2.kimane.dn42
+source:             DN42
