@@ -1,0 +1,8 @@
+inetnum:            172.22.73.64 - 172.22.73.95
+cidr:               172.22.73.64/27
+netname:            NOGNU-IPV4
+admin-c:            NOGNU-DN42
+tech-c:             NOGNU-DN42
+mnt-by:             NOGNU-MNT
+status:             ASSIGNED
+source:             DN42

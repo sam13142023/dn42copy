@@ -1,0 +1,9 @@
+inet6num:           fd17:4ef9:008c:0000:0000:0000:0000:0000 - fd17:4ef9:008c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd17:4ef9:8c::/48
+netname:            NOGNU-IPV6
+country:            DE
+admin-c:            NOGNU-DN42
+tech-c:             NOGNU-DN42
+mnt-by:             NOGNU-MNT
+status:             ASSIGNED
+source:             DN42

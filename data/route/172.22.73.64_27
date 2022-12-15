@@ -1,0 +1,4 @@
+route:              172.22.73.64/27
+origin:             AS4242420297
+mnt-by:             NOGNU-MNT
+source:             DN42

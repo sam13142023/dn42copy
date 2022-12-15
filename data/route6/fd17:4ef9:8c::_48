@@ -1,0 +1,5 @@
+route6:             fd17:4ef9:8c::/48
+origin:             AS4242420297
+max-length:         48
+mnt-by:             NOGNU-MNT
+source:             DN42
