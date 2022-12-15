@@ -1,0 +1,9 @@
+mntner:             NOGNU-MNT
+admin-c:            NOGNU-DN42
+tech-c:             NOGNU-DN42
+mnt-by:             NOGNU-MNT
+auth:               pgp-fingerprint 3F84A9F3286B8D391237F926E1BF2CAEF8ECDAB5
+remarks:            ## git singing key ##
+auth:               pgp-fingerprint 513AA88493E5A6ED9CE1FACDECC01F86BAFD3638
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCq7kZ5CzVo/I/yXbCx4PFra0Dw34GzN94NRsjLGtq1it4+S3tkFbYfuObItQyfu7sVtv5aNCPbDIhCtkgQ9OwG4QRhUNHbJTZ2mnRYfsZTQvmcwcW1KnUhwHUXvSkapMyqSGF3lDtqezrexTw0QH7hcL7lqQrI1LKUVlPvGFu8tuFnrvIZpLbwho1OcIwpvbIDsG7j2hHr3zGqS/tIXPeiEKCCeGC1sjMyjEPGHKEmWSC3Iu2XYdi8YMAY9COnuF0dtTAHsJbFchRtF9t0dh30mdjzmDneO9xAi9Nh1EWPgudY0RzC+j+6vPFKyTKobwkaGexrk8CWkqfa/S6VQwU6kkD5ob3b9h3BTXNTNQE4PV7cZtTn+E28ef2ncL9z6im4pZGPjitDsc2YbG32lfE8Zrqr1eZO+9CIbis9q67xcYhSrF13P+QeKNjJVhcQRwrUDn/2lp+jWbW4gBXoEqDmDuRNbsSFACMSoV4lbk3qtj+4e/cNIM+8sQy2n2+b1ic=
+source:             DN42
