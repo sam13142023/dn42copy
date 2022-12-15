@@ -1,0 +1,9 @@
+inetnum:            172.23.240.64 - 172.23.240.95
+cidr:               172.23.240.64/27
+netname:            VERMIUM-NETWORK
+admin-c:            VERMIUM-DN42
+tech-c:             VERMIUM-DN42
+mnt-by:             VERMIUM-MNT
+status:             ASSIGNED
+nserver:            ns1.vermium.dn42
+source:             DN42

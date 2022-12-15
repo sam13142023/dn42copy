@@ -1,0 +1,6 @@
+mntner:             VERMIUM-MNT
+admin-c:            VERMIUM-DN42
+tech-c:             VERMIUM-DN42
+mnt-by:             VERMIUM-MNT
+auth:               pgp-fingerprint 2110963605685B0CD2D284ABD45EC347BC876F0F
+source:             DN42
