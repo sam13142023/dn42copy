@@ -1,0 +1,5 @@
+route6:             fd27:a1c:b1dd::/48
+origin:             AS4242421229
+max-length:         48
+mnt-by:             VERMIUM-MNT
+source:             DN42
