@@ -1,9 +1,0 @@
-domain:             taavi.dn42
-admin-c:            TAAVI-DN42
-tech-c:             TAAVI-DN42
-mnt-by:             TAAVI-MNT
-nserver:            ns-auth1.svc.taavi.dn42 172.22.130.153
-nserver:            ns-auth1.svc.taavi.dn42 fd96:70f6:b174:ac::53a1
-nserver:            ns-auth2.svc.taavi.dn42 172.22.131.140
-nserver:            ns-auth2.svc.taavi.dn42 fdf4:e251:75d9:fffe::53a2
-source:             DN42
