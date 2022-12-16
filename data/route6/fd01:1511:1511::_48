@@ -1,0 +1,5 @@
+route6:             fd01:1511:1511::/48
+origin:             AS4242421511
+max-length:         48
+mnt-by:             LUCADEV-MNT
+source:             DN42

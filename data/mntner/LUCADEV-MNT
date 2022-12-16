@@ -1,0 +1,6 @@
+mntner:             LUCADEV-MNT
+admin-c:            LUCADEV-DN42
+tech-c:             LUCADEV-DN42
+mnt-by:             LUCADEV-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO9D/v1CGty3vxYRRBYK1VA7yKlCXgi7lYbDdnawHseK 
+source:             DN42
