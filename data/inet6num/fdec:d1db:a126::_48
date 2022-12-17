@@ -1,0 +1,11 @@
+inet6num:           fdec:d1db:a126:0000:0000:0000:0000:0000 - fdec:d1db:a126:ffff:ffff:ffff:ffff:ffff
+cidr:               fdec:d1db:a126::/48
+netname:            WEITCIS-NETWORK
+descr:              Network of .weitcis.ius.
+country:            US
+admin-c:            WEITCIS-DN42
+tech-c:             WEITCIS-DN42
+mnt-by:             WEITCIS-MNT
+status:             ASSIGNED
+nserver:            ns1.weitcis.dn42
+source:             DN42
