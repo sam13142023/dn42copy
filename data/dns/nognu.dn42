@@ -1,0 +1,7 @@
+domain:             nognu.dn42
+nserver:            ns.nognu.dn42 172.22.73.67
+nserver:            ns.nognu.dn42 fd17:4ef9:8c::3
+nserver:            ns2.nognu.dn42 172.22.73.65
+nserver:            ns2.nognu.dn42 fd17:4ef9:8c::1
+mnt-by:             NOGNU-MNT
+source:             DN42

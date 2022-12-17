@@ -1,6 +1,9 @@
 inetnum:            172.22.73.64 - 172.22.73.95
 cidr:               172.22.73.64/27
 netname:            NOGNU-IPV4
+nserver:            ns.nognu.dn42
+nserver:            ns2.nognu.dn42
+country:            DE
 admin-c:            NOGNU-DN42
 tech-c:             NOGNU-DN42
 mnt-by:             NOGNU-MNT
