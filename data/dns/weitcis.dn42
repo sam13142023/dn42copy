@@ -1,0 +1,7 @@
+domain:             weitcis.dn42
+admin-c:            WEITCIS-DN42
+tech-c:             WEITCIS-DN42
+mnt-by:             WEITCIS-MNT
+nserver:            ns1.weitcis.dn42 172.22.130.128
+nserver:            ns1.weitcis.dn42 fdec:d1db:a126:1::1
+source:             DN42

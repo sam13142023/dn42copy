@@ -1,0 +1,5 @@
+route6:             fdec:d1db:a126::/48
+origin:             AS4242421759
+max-length:         48
+mnt-by:             WEITCIS-MNT
+source:             DN42
