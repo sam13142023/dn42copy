@@ -1,0 +1,5 @@
+route:              172.22.73.96/27
+origin:             AS4242421511
+max-length:         27
+mnt-by:             LUCADEV-MNT
+source:             DN42

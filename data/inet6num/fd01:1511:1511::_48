@@ -1,0 +1,10 @@
+inet6num:           fd01:1511:1511:0000:0000:0000:0000:0000 - fd01:1511:1511:ffff:ffff:ffff:ffff:ffff
+cidr:               fd01:1511:1511::/48
+netname:            LUCADEV-NETWORK
+descr:              Network of Luca Kröger
+country:            DE
+admin-c:            LUCADEV-DN42
+tech-c:             LUCADEV-DN42
+mnt-by:             LUCADEV-MNT
+status:             ASSIGNED
+source:             DN42

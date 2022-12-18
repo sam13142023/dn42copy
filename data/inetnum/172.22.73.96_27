@@ -1,0 +1,10 @@
+inetnum:            172.22.73.96 - 172.22.73.127
+cidr:               172.22.73.96/27
+netname:            LUCADEV-NETWORK
+descr:              Network of Luca Kröger
+country:            DE
+admin-c:            LUCADEV-DN42
+tech-c:             LUCADEV-DN42
+mnt-by:             LUCADEV-MNT
+status:             ASSIGNED
+source:             DN42
