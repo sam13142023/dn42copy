@@ -1,0 +1,7 @@
+domain:             crazyloverhover.dn42
+descr:              CRAZYLOVER
+admin-c:            CRAZYLOVER-DN42
+tech-c:             CRAZYLOVER-DN42
+mnt-by:             CRAZYLOVER-MNT
+nserver:            ns1.crazyloverhover.dn42 172.21.105.137
+source:             DN42
