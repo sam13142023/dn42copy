@@ -1,0 +1,9 @@
+inetnum:            172.21.105.136 - 172.21.105.143
+cidr:               172.21.105.136/29
+netname:            CRAZYLOVER-V1-NET-1
+country:            US
+admin-c:            CRAZYLOVER-DN42
+tech-c:             CRAZYLOVER-DN42
+mnt-by:             CRAZYLOVER-MNT
+status:             ASSIGNED
+source:             DN42
