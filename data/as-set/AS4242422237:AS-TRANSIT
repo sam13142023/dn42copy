@@ -2,8 +2,6 @@ as-set:             AS4242422237:AS-TRANSIT
 admin-c:            MUNSTERNET-DN42
 tech-c:             MUNSTERNET-DN42
 mnt-by:             MUNSTERNET-MNT
-remarks:            santost12
-members:            AS4201270009
 remarks:            JRB0001
 members:            AS4242420119
 remarks:            BAUEN1-AS bauen1 Network
