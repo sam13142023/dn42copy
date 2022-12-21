@@ -1,0 +1,7 @@
+domain:             rose.dn42
+admin-c:            MIREIAWEN-DN42
+tech-c:             MIREIAWEN-DN42
+mnt-by:             MIREIAWEN-MNT
+nserver:            ns1.rose.dn42 172.20.20.132
+nserver:            ns2.rose.dn42 172.20.20.133
+source:             DN42

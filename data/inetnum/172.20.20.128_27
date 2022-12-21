@@ -1,0 +1,12 @@
+inetnum:            172.20.20.128 - 172.20.20.159
+cidr:               172.20.20.128/27
+netname:            MIREIAWEN-NETWORK
+descr:              Network of Mireiawen
+country:            FI
+admin-c:            MIREIAWEN-DN42
+tech-c:             MIREIAWEN-DN42
+mnt-by:             MIREIAWEN-MNT
+status:             ASSIGNED
+nserver:            ns1.rose.dn42
+nserver:            ns2.rose.dn42
+source:             DN42
