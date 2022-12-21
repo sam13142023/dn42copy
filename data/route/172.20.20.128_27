@@ -1,0 +1,5 @@
+route:              172.20.20.128/27
+origin:             AS4242421740
+max-length:         27
+mnt-by:             MIREIAWEN-MNT
+source:             DN42
