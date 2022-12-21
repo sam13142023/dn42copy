@@ -1,0 +1,8 @@
+aut-num:            AS142280
+as-name:            NTEREN-BACKBONE
+admin-c:            YITONG-DANG-NEONETWORK
+tech-c:             YITONG-DANG-NEONETWORK
+remarks:            Manually added to fix reference from route/10.127.128.0_24 imported from neonetwork
+mnt-by:             DN42-MNT
+remarks:            source: NEONETWORK
+source:             APNIC
