@@ -1,0 +1,4 @@
+route6:             fd22:1209:d0c1::/48
+origin:             AS4242423406
+mnt-by:             SAYORI-MNT
+source:             DN42

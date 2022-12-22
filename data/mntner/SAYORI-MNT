@@ -1,0 +1,7 @@
+mntner:             SAYORI-MNT
+admin-c:            SAYORI-DN42
+tech-c:             SAYORI-DN42
+mnt-by:             SAYORI-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6/GQ7wTCXG1S1AH6mbQihRh/MEsn3bIlCDxwlZsoE/
+remarks:            SHA256:zEoLAytN+N/PYI/3luB4nbeysTIMpN/3ru6cBhEdbn4
