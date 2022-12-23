@@ -1,0 +1,13 @@
+inetnum:            172.23.40.128 - 172.23.40.159
+cidr:               172.23.40.128/27
+netname:            AS4242423406-TESTNET-IPV4
+descr:              AS4242423406 DN42 IPv4 Testnet.
+country:            US
+admin-c:            SAYORI-DN42
+tech-c:             SAYORI-DN42
+mnt-by:             SAYORI-MNT
+nserver:            sayori.doki.dn42
+nserver:            natsuki.doki.dn42
+nserver:            yuri.doki.dn42
+status:             ASSIGNED
+source:             DN42
