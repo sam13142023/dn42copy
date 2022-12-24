@@ -1,0 +1,12 @@
+inet6num:           fd0b:7449:62d2:0000:0000:0000:0000:0000 - fd0b:7449:62d2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:7449:62d2::/48
+netname:            ABLACKCATSTAIL-NETWORK
+descr:              Network of ABLACKCATSTAIL
+country:            US
+admin-c:            ABLACKCATSTAIL-DN42
+tech-c:             ABLACKCATSTAIL-DN42
+mnt-by:             ABLACKCATSTAIL-MNT
+status:             ASSIGNED
+nserver:            ns1.blackcat.dn42
+nserver:            ns2.blackcat.dn42
+source:             DN42
