@@ -1,0 +1,6 @@
+domain:             moe.dn42
+admin-c:            XIYING-DN42
+tech-c:             XIYING-DN42
+nserver:            ns.xiying.dn42
+mnt-by:             XIYING-MNT
+source:             DN42

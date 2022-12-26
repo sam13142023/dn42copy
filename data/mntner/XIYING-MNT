@@ -1,0 +1,6 @@
+mntner:             XIYING-MNT
+admin-c:            XIYING-DN42
+tech-c:             XIYING-DN42
+mnt-by:             XIYING-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILkddMvo4Uf9i4YZ4BRJv1sKOtDevcP1K8GCuJFLpUk+ cat@DESKTOP-ER0LG44

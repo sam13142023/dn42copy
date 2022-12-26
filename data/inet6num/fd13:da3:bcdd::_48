@@ -1,0 +1,11 @@
+inet6num:           fd13:0da3:bcdd:0000:0000:0000:0000:0000 - fd13:0da3:bcdd:ffff:ffff:ffff:ffff:ffff
+netname:            XIYING-IPV6
+descr:              Peer with me at twwshine@gmail.com
+country:            CN
+admin-c:            XIYING-DN42
+tech-c:             XIYING-DN42
+mnt-by:             XIYING-MNT
+nserver:            ns.xiying.dn42
+status:             ASSIGNED
+cidr:               fd13:da3:bcdd::/48
+source:             DN42
