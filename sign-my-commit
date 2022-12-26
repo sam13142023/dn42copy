@@ -49,7 +49,7 @@ do
         --ssh)
             AUTH_METHOD='ssh'
             ;;
-        --force)
+        --push)
             DO_PUSH=1
             ;;
         --key)
