@@ -1,0 +1,5 @@
+route:              172.23.50.64/26
+descr:              Peer with me at twwshine@gmail.com
+origin:             AS4242422271
+mnt-by:             XIYING-MNT
+source:             DN42
