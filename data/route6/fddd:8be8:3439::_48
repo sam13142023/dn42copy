@@ -1,0 +1,5 @@
+route6:             fddd:8be8:3439::/48
+origin:             AS4242422399
+max-length:         48
+mnt-by:             JFY-MNT
+source:             DN42

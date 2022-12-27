@@ -1,0 +1,9 @@
+inet6num:           fddd:8be8:3439:0000:0000:0000:0000:0000 - fddd:8be8:3439:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:8be8:3439::/48
+netname:            JFY-NETWORK
+descr:              Network of jfy
+admin-c:            JFY-DN42
+tech-c:             JFY-DN42
+mnt-by:             JFY-MNT
+status:             ASSIGNED
+source:             DN42
