@@ -1,0 +1,6 @@
+mntner:             JFY-MNT
+admin-c:            JFY-DN42
+tech-c:             JFY-DN42
+mnt-by:             JFY-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB9D9akgdPl0ryCp74g5qeEgsfU2degUASeWwkVz/hEM
+source:             DN42
