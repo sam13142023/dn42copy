@@ -1,0 +1,11 @@
+inetnum:            172.20.232.192 - 172.20.232.255
+netname:            RHINELAB-IPV4
+remarks:            Why not Peer with me? my@rhinelab.io
+descr:              Why not Peer with me? my@rhinelab.io
+country:            JP
+admin-c:            RHINELAB-DN42
+tech-c:             RHINELAB-DN42
+mnt-by:             RHINELAB-MNT
+status:             ASSIGNED
+cidr:               172.20.232.192/26
+source:             DN42
