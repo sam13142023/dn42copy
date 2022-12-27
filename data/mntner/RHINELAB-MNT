@@ -1,0 +1,8 @@
+mntner:             RHINELAB-MNT
+admin-c:            RHINELAB-DN42
+tech-c:             RHINELAB-DN42
+mnt-by:             RHINELAB-MNT
+source:             DN42
+auth:               pgp-fingerprint E8B0CDD86D95C92360E20AE0CDB1BD62C406DEAE
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOI75754e0LPxz4xmltfDzPiLQUwK2xl5+hOQYMELP3q
+remarks:            A member of Kurt-Pregl Healthcare
