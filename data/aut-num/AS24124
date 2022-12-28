@@ -1,7 +1,7 @@
-aut-num:            AS4242420670
+aut-num:            AS24124
 as-name:            RHINELAB-AS
 descr:              Why not Peer with me? my@rhinelab.io
 admin-c:            RHINELAB-DN42
 tech-c:             RHINELAB-DN42
 mnt-by:             RHINELAB-MNT
-source:             DN42
+source:             APNIC

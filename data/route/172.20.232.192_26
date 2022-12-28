@@ -1,5 +1,5 @@
 route:              172.20.232.192/26
 descr:              Why not Peer with me? my@rhinelab.io
-origin:             AS4242420670
+origin:             AS24124
 mnt-by:             RHINELAB-MNT
 source:             DN42
