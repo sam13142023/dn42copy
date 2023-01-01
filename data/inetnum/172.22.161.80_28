@@ -1,0 +1,10 @@
+inetnum:            172.22.161.80 - 172.22.161.95
+netname:            XYLOFRUT-IPV4
+remarks:            Peer with me at lfyrfegozjvilrycve@proton.me
+country:            GR
+admin-c:            XYLOFRUT-DN42
+tech-c:             XYLOFRUT-DN42
+mnt-by:             XYLOFRUT-MNT
+status:             ASSIGNED
+cidr:               172.22.161.80/28
+source:             DN42
