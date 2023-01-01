@@ -2,10 +2,10 @@ domain:             doki.dn42
 admin-c:            SAYORI-DN42
 tech-c:             SAYORI-DN42
 nserver:            sayori.doki.dn42 172.23.40.129
-nserver:            sayori.doki.dn42 fd22:1209:d0c1:8100::1
+nserver:            sayori.doki.dn42 fd22:1209:d0c1:8153:5161:79ff:fe6f:7269
 nserver:            natsuki.doki.dn42 172.23.40.137
-nserver:            natsuki.doki.dn42 fd22:1209:d0c1:8900::1
+nserver:            natsuki.doki.dn42 fd22:1209:d0c1:8953:4c61:74ff:fe75:6b69
 nserver:            yuri.doki.dn42 172.23.40.145
-nserver:            yuri.doki.dn42 fd22:1209:d0c1:9100::1
+nserver:            yuri.doki.dn42 fd22:1209:d0c1:9153:0200:59ff:fe75:7269
 mnt-by:             SAYORI-MNT
 source:             DN42
