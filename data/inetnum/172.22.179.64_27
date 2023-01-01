@@ -1,0 +1,13 @@
+inetnum:            172.22.179.64 - 172.22.179.95
+cidr:               172.22.179.64/27
+netname:            NORTHREND-NETWORK
+descr:              Northrend Networks Global
+org:                ORG-NORTHREND
+country:            RO
+admin-c:            FORTLESS-DN42
+tech-c:             FORTLESS-DN42
+mnt-by:             NORTHREND-MNT
+status:             ASSIGNED
+nserver:            ns1.northrend.dn42
+nserver:            ns2.northrend.dn42
+source:             DN42
