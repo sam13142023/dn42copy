@@ -1,0 +1,5 @@
+route:              172.22.161.80/28
+descr:              peer with me at lfyrfegozjvilrycve@proton.me
+origin:             AS4242423227
+mnt-by:             XYLOFRUT-MNT
+source:             DN42

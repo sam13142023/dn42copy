@@ -1,0 +1,7 @@
+mntner:             XYLOFRUT-MNT
+admin-c:            XYLOFRUT-DN42
+tech-c:             XYLOFRUT-DN42
+mnt-by:             XYLOFRUT-MNT
+source:             DN42
+auth:               pgp-fingerprint DA9AAFE16E738284A7485C4418C6F27A257F4462
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILnudy5/kZWyJATSe1hrr75uKzjgVeGZD8FfZELpIgpo
