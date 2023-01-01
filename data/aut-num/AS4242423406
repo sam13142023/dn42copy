@@ -1,6 +1,6 @@
 aut-num:            AS4242423406
-as-name:            AS4242423406-TESTNET-DN42
-descr:              AS4242423406 DN42 Testnet
+as-name:            DOKI-DOKI-TESTNET-DN42
+descr:              Doki Doki Testnet
 admin-c:            SAYORI-DN42
 tech-c:             SAYORI-DN42
 mnt-by:             SAYORI-MNT
