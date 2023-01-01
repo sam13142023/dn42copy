@@ -1,0 +1,10 @@
+aut-num:            AS4242423319
+as-name:            NTEREN-IX-AS
+descr:              NaiveTomcat Experimental eXchange
+remarks:            An experimental exchange
+remarks:            To join contact tomdang@naivetomcat.cn
+remarks:            Or https://t.me/naivetomcat
+admin-c:            TOMDANG-DN42
+tech-c:             TOMDANG-DN42
+mnt-by:             TOMDANG-MNT
+source:             DN42
