@@ -1,0 +1,7 @@
+route:              172.20.170.192/27
+descr:              NET-P3BK4C-LAB-000
+origin:             AS4242421792
+origin:             AS4242422092
+max-length:         27
+mnt-by:             P3BK4C-MNT
+source:             DN42

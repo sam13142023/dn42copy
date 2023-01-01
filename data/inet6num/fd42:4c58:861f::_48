@@ -1,0 +1,11 @@
+inet6num:           fd42:4c58:861f:0000:0000:0000:0000:0000 - fd42:4c58:861f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4c58:861f::/48
+netname:            NET-P3BK4C-LAB-V6-000
+descr:              P3BK4C Lab IPv6 Network
+country:            GR
+admin-c:            TOMKAP-DN42
+tech-c:             TOMKAP-DN42
+mnt-by:             P3BK4C-MNT
+nserver:            dns.pebkac.dn42
+status:             ASSIGNED
+source:             DN42
