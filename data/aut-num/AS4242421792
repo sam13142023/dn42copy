@@ -1,0 +1,18 @@
+aut-num:            AS4242421792
+as-name:            AS-P3BK4C-LAB-DN42
+admin-c:            TOMKAP-DN42
+tech-c:             TOMKAP-DN42
+mnt-by:             P3BK4C-MNT
+remarks:            +--------------------------------------------+
+remarks:            |     ____ _____ ____  _  ___  _    ____     |
+remarks:            |    |  _ \___ /| __ )| |/ / || |  / ___|    |
+remarks:            |    | |_) ||_ \|  _ \| ' /| || |_| |        |
+remarks:            |    |  __/___) | |_) | . \|__   _| |___     |
+remarks:            |    |_|  |____/|____/|_|\_\  |_|  \____|    |
+remarks:            |    *************** DN42 Network Lab ***    |
+remarks:            +--------------------------------------------+
+remarks:            |                                            |
+remarks:            |     Testing stuff (h/w routers mostly!)    |
+remarks:            |                                            |
+remarks:            +--------------------------------------------+
+source:             DN42

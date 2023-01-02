@@ -1,0 +1,7 @@
+route6:             fd42:4c58:861f::/48
+descr:              NET-P3BK4C-LAB-V6-000
+origin:             AS4242421792
+origin:             AS4242422092
+max-length:         48
+mnt-by:             P3BK4C-MNT
+source:             DN42

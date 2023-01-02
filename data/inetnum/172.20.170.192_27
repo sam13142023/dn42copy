@@ -1,0 +1,11 @@
+inetnum:            172.20.170.192 - 172.20.170.223
+cidr:               172.20.170.192/27
+netname:            NET-P3BK4C-LAB-000
+descr:              P3BK4C Lab IPv4 Network
+country:            GR
+admin-c:            TOMKAP-DN42
+tech-c:             TOMKAP-DN42
+mnt-by:             P3BK4C-MNT
+nserver:            dns.pebkac.dn42
+status:             ASSIGNED
+source:             DN42
