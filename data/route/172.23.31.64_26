@@ -1,0 +1,5 @@
+route:              172.23.31.64/26
+descr:              Hats Global Network [DN42] - IPv4
+origin:             AS4242422080
+mnt-by:             NEKO-HAT-MNT
+source:             DN42

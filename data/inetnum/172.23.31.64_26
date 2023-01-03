@@ -1,0 +1,11 @@
+inetnum:            172.23.31.64 - 172.23.31.127
+netname:            HATSNET-IPV4
+descr:              Hats Global Network [DN42] - IPv4
+remarks:            Hats Global Network [DN42] - IPv4
+country:            CA
+admin-c:            NEKO-HAT-DN42
+tech-c:             NEKO-HAT-DN42
+mnt-by:             NEKO-HAT-MNT
+status:             ASSIGNED
+cidr:               172.23.31.64/26
+source:             DN42

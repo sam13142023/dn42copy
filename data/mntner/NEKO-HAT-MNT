@@ -1,0 +1,7 @@
+mntner:             NEKO-HAT-MNT
+admin-c:            NEKO-HAT-DN42
+tech-c:             NEKO-HAT-DN42
+mnt-by:             NEKO-HAT-MNT
+source:             DN42
+auth:               pgp-fingerprint 805077AFB27EAFCF69AA55005481420B23333333
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMgOvbkOKTGPvqe5oHqwcqDXlTsAtMMiCDIij6QnoL3/
