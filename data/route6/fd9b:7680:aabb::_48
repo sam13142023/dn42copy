@@ -1,0 +1,5 @@
+route6:             fd9b:7680:aabb::/48
+descr:              Hats Global Network [DN42] - IPv6
+origin:             AS4242422080
+mnt-by:             NEKO-HAT-MNT
+source:             DN42

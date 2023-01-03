@@ -1,0 +1,7 @@
+aut-num:            AS4242422080
+as-name:            HATSNET-AS
+descr:              Hats Network (DN42)
+admin-c:            NEKO-HAT-DN42
+tech-c:             NEKO-HAT-DN42
+mnt-by:             NEKO-HAT-MNT
+source:             DN42
