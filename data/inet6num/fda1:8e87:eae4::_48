@@ -1,0 +1,10 @@
+inet6num:           fda1:8e87:eae4:0000:0000:0000:0000:0000 - fda1:8e87:eae4:ffff:ffff:ffff:ffff:ffff
+cidr:               fda1:8e87:eae4::/48
+netname:            TUXFLUX-NET6-1
+descr:              Network of TUXFLUX
+country:            DE
+admin-c:            TUXFLUX-DN42
+tech-c:             TUXFLUX-DN42
+mnt-by:             TUXFLUX-MNT
+status:             ASSIGNED
+source:             DN42

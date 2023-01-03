@@ -1,0 +1,5 @@
+route:              172.20.43.160/27
+origin:             AS4242420402
+max-length:         27
+mnt-by:             TUXFLUX-MNT
+source:             DN42

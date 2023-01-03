@@ -1,0 +1,10 @@
+inetnum:            172.20.43.160 - 172.20.43.191
+cidr:               172.20.43.160/27
+netname:            TUXFLUX-NET4-1
+descr:              Network of TUXFLUX
+country:            DE
+admin-c:            TUXFLUX-DN42
+tech-c:             TUXFLUX-DN42
+mnt-by:             TUXFLUX-MNT
+status:             ASSIGNED
+source:             DN42
