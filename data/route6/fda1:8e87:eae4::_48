@@ -1,0 +1,5 @@
+route6:             fda1:8e87:eae4::/48
+origin:             AS4242420402
+max-length:         48
+mnt-by:             TUXFLUX-MNT
+source:             DN42
