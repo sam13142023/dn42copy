@@ -1,0 +1,7 @@
+mntner:             CEABQ-MNT
+admin-c:            CEABQ-DN42
+tech-c:             CEABQ-DN42
+mnt-by:             CEABQ-MNT
+source:             DN42
+auth:               pgp-fingerprint 042933214D67BC2560CAC9239AFCEF93C95E6DA1
+remarks:            https://keys.openpgp.org/vks/v1/by-fingerprint/042933214D67BC2560CAC9239AFCEF93C95E6DA1

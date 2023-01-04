@@ -1,0 +1,9 @@
+inet6num:           fd3e:df00:93c9:0000:0000:0000:0000:0000-fd3e:df00:93c9:ffff:ffff:ffff:ffff:ffff
+netname:            CEABQ-IPV6
+country:            US
+admin-c:            CEABQ-DN42
+tech-c:             CEABQ-DN42
+mnt-by:             CEABQ-MNT
+status:             ASSIGNED
+cidr:               fd3e:df00:93c9::/48
+source:             DN42
