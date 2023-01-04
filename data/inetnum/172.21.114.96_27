@@ -1,4 +1,4 @@
-inetnum:            172.21.114.96-172.21.114.127
+inetnum:            172.21.114.96 - 172.21.114.127
 cidr:               172.21.114.96/27
 netname:            CEABQ-IPV4
 country:            US
