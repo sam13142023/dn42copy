@@ -1,0 +1,7 @@
+aut-num:            AS4242421141
+as-name:            CEABQ-AS
+descr:              peer with me at dn42peer@ceabq.com
+admin-c:            CEABQ-DN42
+tech-c:             CEABQ-DN42
+mnt-by:             CEABQ-MNT
+source:             DN42
