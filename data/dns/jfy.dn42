@@ -1,0 +1,6 @@
+domain:             jfy.dn42
+admin-c:            JFY-DN42
+tech-c:             JFY-DN42
+mnt-by:             JFY-MNT
+nserver:            ns1.iedon.dn42
+source:             DN42

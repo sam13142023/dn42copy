@@ -6,4 +6,5 @@ admin-c:            JFY-DN42
 tech-c:             JFY-DN42
 mnt-by:             JFY-MNT
 status:             ASSIGNED
+nserver:            ns1.iedon.dn42
 source:             DN42
