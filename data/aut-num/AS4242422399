@@ -1,9 +1,10 @@
 aut-num:            AS4242422399
 as-name:            AS-JFY-DN42
-remarks:            ----------------------------------
-remarks:            | Web:       jfy.dn42            |
-remarks:            | Mail: dn42@jfy.simplelogin.com |
-remarks:            ----------------------------------
+remarks:            ------------------------------------------
+remarks:            | Web:      https://jfy.dn42             |
+remarks:            | Mail:        dn42@jfy.simplelogin.com  |
+remarks:            | GPG key:  https://jfy.dn42/gpg-key.txt |
+remarks:            ------------------------------------------
 admin-c:            JFY-DN42
 tech-c:             JFY-DN42
 mnt-by:             JFY-MNT
