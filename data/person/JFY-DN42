@@ -1,6 +1,11 @@
 person:             jfy
+nick:               jfy
+pgp-fingerprint:    B65BEA3192424F5C9AD4B8FB8E3BBD13F8F82C32
 e-mail:             dn42@jfy.simplelogin.com
 contact:            matrix:u/jfy:one.ems.host
+remarks:            ------------------------------------------
+remarks:            | GPG key:  https://jfy.dn42/gpg-key.txt |
+remarks:            ------------------------------------------
 nic-hdl:            JFY-DN42
 mnt-by:             JFY-MNT
 source:             DN42
