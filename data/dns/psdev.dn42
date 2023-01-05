@@ -4,6 +4,4 @@ tech-c:             PSDEV-DN42
 mnt-by:             PSDEV-MNT
 nserver:            ns1.psdev.dn42 172.20.45.100
 nserver:            ns1.psdev.dn42 fddd:470:5001:53::1
-nserver:            ns2.psdev.dn42 172.20.45.101
-nserver:            ns2.psdev.dn42 fddd:470:5001:53::2
 source:             DN42
