@@ -1,0 +1,12 @@
+inet6num:           fd33:b345:df76:0000:0000:0000:0000:0000 - fd33:b345:df76:ffff:ffff:ffff:ffff:ffff
+netname:            PERCHNET-DN42-IPV6
+descr:              bri
+country:            US
+admin-c:            BRI-DN42
+tech-c:             BRI-DN42
+mnt-by:             BRI-MNT
+status:             ASSIGNED
+nserver:            ns1.perchnet.dn42
+nserver:            ns2.perchnet.dn42
+cidr:               fd33:b345:df76::/48
+source:             DN42
