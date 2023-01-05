@@ -2,5 +2,6 @@ mntner:             JFY-MNT
 admin-c:            JFY-DN42
 tech-c:             JFY-DN42
 mnt-by:             JFY-MNT
+remarks:            pin-sha256:ja8WDBhsxehYm4l2/ha/xxWsZCBi0mqLepvqLlcGb88=
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB9D9akgdPl0ryCp74g5qeEgsfU2degUASeWwkVz/hEM
 source:             DN42
