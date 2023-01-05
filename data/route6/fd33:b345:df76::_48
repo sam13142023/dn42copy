@@ -1,0 +1,5 @@
+route6:             fd33:b345:df76::/48
+origin:             AS4242422825
+max-length:         48
+mnt-by:             BRI-MNT
+source:             DN42
