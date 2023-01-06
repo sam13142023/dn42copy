@@ -1,6 +1,7 @@
 aut-num:            AS4242421141
 as-name:            CEABQ-AS
 descr:              peer with me at dn42peer@ceabq.com
+remarks:            peer with me at dn42peer@ceabq.com, use email aecbqw@gmail.com and ceabq@ceabq.com if you need gpg
 admin-c:            CEABQ-DN42
 tech-c:             CEABQ-DN42
 mnt-by:             CEABQ-MNT
