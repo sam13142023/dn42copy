@@ -1,0 +1,5 @@
+route:              172.21.81.64/26
+descr:              Cirno DN42 Network IPv4 Block
+origin:             AS4242421045
+mnt-by:             STANG-MNT
+source:             DN42

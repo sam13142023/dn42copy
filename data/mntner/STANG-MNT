@@ -1,0 +1,8 @@
+mntner:             STANG-MNT
+admin-c:            STANG-DN42
+tech-c:             STANG-DN42
+mnt-by:             STANG-MNT
+source:             DN42
+auth:               pgp-fingerprint AB51FAC68C6D925613C12086E875B15EEAF97E8F
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIGmdiCtbUzikqcZl2qS4d5QpB3YwFzeiPKD/STkDWzB
+remarks:            SHA256:sVmGrm31jYLCnRlKDKJwaXoGyXH/CHmDNVvSQ1zaQ8k

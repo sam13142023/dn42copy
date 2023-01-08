@@ -1,0 +1,10 @@
+inet6num:           fd6e:2659:5811:0000:0000:0000:0000:0000 - fd6e:2659:5811:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6e:2659:5811::/48
+netname:            CIRNO-DN42-IPV6
+descr:              Cirno DN42 Network IPv6 Block
+country:            US
+admin-c:            STANG-DN42
+tech-c:             STANG-DN42
+mnt-by:             STANG-MNT
+status:             ASSIGNED
+source:             DN42

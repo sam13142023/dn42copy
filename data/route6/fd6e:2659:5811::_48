@@ -1,0 +1,5 @@
+route6:             fd6e:2659:5811::/48
+descr:              Cirno DN42 Network IPv6 Block
+origin:             AS4242421045
+mnt-by:             STANG-MNT
+source:             DN42
