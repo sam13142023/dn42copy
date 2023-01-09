@@ -1,0 +1,5 @@
+route6:             fd1b:a29a:d3a2::/48
+origin:             AS4242422360
+max-length:         48
+mnt-by:             SNTECH-MNT
+source:             DN42

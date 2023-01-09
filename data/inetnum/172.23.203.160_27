@@ -1,0 +1,9 @@
+inetnum:            172.23.203.160 - 172.23.203.191
+cidr:               172.23.203.160/27
+netname:            SNTECH-NETWORK
+admin-c:            SNTECH-DN42
+tech-c:             SNTECH-DN42
+mnt-by:             SNTECH-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-SNTECH
