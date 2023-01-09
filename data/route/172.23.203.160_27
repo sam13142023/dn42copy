@@ -1,0 +1,4 @@
+route:              172.23.203.160/27
+origin:             AS4242422360
+mnt-by:             SNTECH-MNT
+source:             DN42
