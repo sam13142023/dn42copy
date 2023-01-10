@@ -1,5 +1,6 @@
 aut-num:            AS4242421480
-as-name:            AS-PSDEV-DN42
+as-name:            PSDEV-NETWORK
+descr:              PSDev Network
 admin-c:            PSDEV-DN42
 tech-c:             PSDEV-DN42
 mnt-by:             PSDEV-MNT
