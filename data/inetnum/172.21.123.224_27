@@ -1,0 +1,12 @@
+inetnum:            172.21.123.224 - 172.21.123.255
+cidr:               172.21.123.224/27
+netname:            ANZ-NETWORK
+descr:              Network of ANZ
+country:            AT
+admin-c:            ANZ-DN42
+tech-c:             ANZ-DN42
+mnt-by:             ANZ-MNT
+status:             ASSIGNED
+nserver:            ns1.anz.dn42
+nserver:            ns2.anz.dn42
+source:             DN42

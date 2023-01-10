@@ -1,0 +1,5 @@
+route:              172.21.123.224/27
+origin:             AS4242420840
+max-length:         27
+mnt-by:             ANZ-MNT
+source:             DN42
