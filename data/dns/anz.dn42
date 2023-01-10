@@ -1,0 +1,9 @@
+domain:             anz.dn42
+admin-c:            ANZ-DN42
+tech-c:             ANZ-DN42
+mnt-by:             ANZ-MNT
+nserver:            ns1.anz.dn42 172.21.123.225
+nserver:            ns1.anz.dn42 fd6f:1bf6:4b30:0000:0000:0000:0000:0001
+nserver:            ns2.anz.dn42 172.21.123.226
+nserver:            ns2.anz.dn42 fd6f:1bf6:4b30:0000:0000:0000:0000:0002
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             ANZ-MNT
+admin-c:            ANZ-DN42
+tech-c:             ANZ-DN42
+mnt-by:             ANZ-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBgOasJRBaf0WqyL7I7XsgUNyjiWfJBjBoTFeeaE4feEW2nXUGBb1kenYn4t/lx1CeD1NpfDvnhqpIPzo6i7WdUsVSV/yYajWM0mInyaiXYMKtgn6N72EMcGw9KqmxKxfTnI7DDIyhd4b75oiL+YNR1Tsse3DkriyqpDIj4C7kWVbFJmRa5wejmyNxt+FoVYxobsD02gcNB0cLQZkBKxIbI7hEyXEcfeGsscRLCjwbbaQwt7eRCam647PrPDunHultpvgnIhRJoUrr0JNkGIC0J22g/wCMpb9blX+2V8R7eNEIyD8tFVmczR8ad7XV0PFXvKp5/a5RGfMOQwTq8XcfGydecZRwEV1EPgOL38y8jP30fyZMRRMSPd+kdEyX/OXLKwaVglQ8qwOcCY7yHf+LVGxdviKOzp2OQ6Mz5jFKG003+3RhDH1CBrcMEnvVoQkGIkoVomxYZS2IY41fU8fvMi+tTmW/TWrTd4V0q9bfQRONwKf4i3TOxZU2Ae0pQL0= dn42@anzola.at
+source:             DN42

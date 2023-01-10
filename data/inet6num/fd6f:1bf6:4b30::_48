@@ -1,0 +1,10 @@
+inet6num:           fd6f:1bf6:4b30:0000:0000:0000:0000:0000 - fd6f:1bf6:4b30:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:1bf6:4b30::/48
+netname:            ANZ-NETWORK
+descr:              Network of ANZ
+country:            AT
+admin-c:            ANZ-DN42
+tech-c:             ANZ-DN42
+mnt-by:             ANZ-MNT
+status:             ASSIGNED
+source:             DN42

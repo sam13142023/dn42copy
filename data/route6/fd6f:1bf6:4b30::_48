@@ -1,0 +1,5 @@
+route6:             fd6f:1bf6:4b30::/48
+origin:             AS4242420840
+max-length:         48
+mnt-by:             ANZ-MNT
+source:             DN42
