@@ -1,0 +1,10 @@
+inet6num:           fde5:ed7a:c224:0000:0000:0000:0000:0000 - fde5:ed7a:c224:ffff:ffff:ffff:ffff:ffff
+cidr:               fde5:ed7a:c224::/48
+netname:            PRICE41-NET-IPV6
+descr:              Network of Price41
+country:            FR
+admin-c:            PRICE41-DN42
+tech-c:             PRICE41-DN42
+mnt-by:             PRICE41-MNT
+status:             ASSIGNED
+source:             DN42

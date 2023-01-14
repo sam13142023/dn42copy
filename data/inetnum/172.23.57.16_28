@@ -1,0 +1,10 @@
+inetnum:            172.23.57.16 - 172.23.57.31
+cidr:               172.23.57.16/28
+netname:            PRICE41-NET-IPV4
+descr:              Network of Price41
+country:            FR
+admin-c:            PRICE41-DN42
+tech-c:             PRICE41-DN42
+mnt-by:             PRICE41-MNT
+status:             ASSIGNED
+source:             DN42
