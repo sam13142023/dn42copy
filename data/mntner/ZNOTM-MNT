@@ -1,0 +1,6 @@
+mntner:             ZNOTM-MNT
+admin-c:            ZNOTM-DN42
+tech-c:             ZNOTM-DN42
+mnt-by:             ZNOTM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICRXtz/o03WHb/BjKxDwgCOMjjh+z6GlHCPvMZwbPfqW
+source:             DN42
