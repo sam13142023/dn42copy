@@ -1,0 +1,5 @@
+route:              172.23.244.64/27
+origin:             AS4242423385
+max-length:         27
+mnt-by:             ZNOTM-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd93:5d9f:2ec4:0000:0000:0000:0000:0000 - fd93:5d9f:2ec4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd93:5d9f:2ec4::/48
+netname:            ZNOTM-NETWORK
+descr:              Network of ZNOTM
+admin-c:            ZNOTM-DN42
+tech-c:             ZNOTM-DN42
+mnt-by:             ZNOTM-MNT
+status:             ASSIGNED
+source:             DN42

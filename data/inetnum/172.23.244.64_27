@@ -1,0 +1,9 @@
+inetnum:            172.23.244.64 - 172.23.244.95
+cidr:               172.23.244.64/27
+netname:            ZNOTM-NETWORK
+descr:              Network of ZNOTM
+admin-c:            ZNOTM-DN42
+tech-c:             ZNOTM-DN42
+mnt-by:             ZNOTM-MNT
+status:             ASSIGNED
+source:             DN42
