@@ -1,0 +1,5 @@
+route:              172.23.57.16/28
+origin:             AS4242421590
+max-length:         28
+mnt-by:             PRICE41-MNT
+source:             DN42
