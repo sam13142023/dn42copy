@@ -1,0 +1,8 @@
+aut-num:            AS4242421945
+as-name:            KITTENCONNECT-AS
+descr:              KITTENCONNECT DN42 AS
+org:                ORG-KITTENCONNECT
+admin-c:            TOINUX-DN42
+tech-c:             TOINUX-DN42
+mnt-by:             KITTENCONNECT-MNT
+source:             DN42

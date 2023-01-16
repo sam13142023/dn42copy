@@ -1,0 +1,9 @@
+mntner:             KITTENCONNECT-MNT
+descr:              Bureau KittenConnect
+admin-c:            TOINUX-DN42
+tech-c:             TOINUX-DN42
+mnt-by:             TOINUX-MNT
+mnt-by:             KITTENCONNECT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL4wbvfxnLPXCXW1Tuyng13SIRnSzn10qp/usz7nC5/5
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAdp3zPHior6A83WOG9dgPLdm5DrQ2qK97XyXUGfaBgu

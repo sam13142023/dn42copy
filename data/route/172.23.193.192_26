@@ -1,0 +1,5 @@
+route:              172.23.193.192/26
+origin:             AS4242421945
+max-length:         26
+mnt-by:             KITTENCONNECT-MNT
+source:             DN42
