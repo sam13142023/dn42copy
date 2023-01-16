@@ -1,0 +1,7 @@
+aut-num:            AS4242421205
+as-name:            YLWIND-AS
+descr:              Peer with me at dn42@dev86.site
+admin-c:            YLWIND-DN42
+tech-c:             YLWIND-DN42
+mnt-by:             YLWIND-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd7d:42ea:6520:0000:0000:0000:0000:0000 - fd7d:42ea:6520:ffff:ffff:ffff:ffff:ffff
+netname:            YLWIND-IPV6
+country:            CN
+admin-c:            YLWIND-DN42
+tech-c:             YLWIND-DN42
+mnt-by:             YLWIND-MNT
+status:             ASSIGNED
+cidr:               fd7d:42ea:6520::/48
+source:             DN42
