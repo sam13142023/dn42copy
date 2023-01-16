@@ -1,0 +1,9 @@
+inetnum:            172.22.68.96 - 172.22.68.127
+netname:            YLWIND-IPV4
+country:            CN
+admin-c:            YLWIND-DN42
+tech-c:             YLWIND-DN42
+mnt-by:             YLWIND-MNT
+status:             ASSIGNED
+cidr:               172.22.68.96/27
+source:             DN42

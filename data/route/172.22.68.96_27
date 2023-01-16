@@ -1,0 +1,5 @@
+route:              172.22.68.96/27
+descr:              Peer with me at dn42@dev86.site
+origin:             AS4242421205
+mnt-by:             YLWIND-MNT
+source:             DN42
