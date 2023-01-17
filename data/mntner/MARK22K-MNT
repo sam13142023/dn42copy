@@ -3,4 +3,5 @@ admin-c:            MARK22K-DN42
 tech-c:             MARK22K-DN42
 mnt-by:             MARK22K-MNT
 auth:               pgp-fingerprint 9AA28159FCEB3CD83BC212017E869146699108C7
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG3Qi9/9mMSGXu7O7vv4Z5hZEA9RsEn7k1KSnyn4o+R8
 source:             DN42
