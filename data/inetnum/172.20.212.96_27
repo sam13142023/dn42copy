@@ -1,0 +1,11 @@
+inetnum:            172.20.212.96 - 172.20.212.127
+netname:            CMO-IPV4
+descr:              Chun Ming Ou's IP space
+remarks:            Open to peer with me at dn42@cmou.io
+country:            TW
+admin-c:            CMO-DN42
+tech-c:             CMO-DN42
+mnt-by:             CMO-MNT
+status:             ASSIGNED
+cidr:               172.20.212.96/27
+source:             DN42

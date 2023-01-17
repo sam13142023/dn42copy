@@ -1,0 +1,7 @@
+aut-num:            AS4242423551
+descr:              Primary. Open to peer, contact with me at dn42@cmou.io
+admin-c:            CMO-DN42
+tech-c:             CMO-DN42
+mnt-by:             CMO-MNT
+as-name:            CMO-AS
+source:             DN42

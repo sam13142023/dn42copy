@@ -1,0 +1,6 @@
+route:              172.20.212.96/27
+descr:              Chun Ming Ou's IP space
+remarks:            Open to peer, contact me at dn42@cmou.io
+origin:             AS4242423551
+mnt-by:             CMO-MNT
+source:             DN42
