@@ -1,0 +1,11 @@
+inet6num:           fd52:a95f:1b1b:0000:0000:0000:0000:0000 - fd52:a95f:1b1b:ffff:ffff:ffff:ffff:ffff
+netname:            CMO-IPV6
+descr:              Chun Ming Ou's IP space
+remarks:            Open to peer, contact me at dn42@cmou.io
+country:            TW
+admin-c:            CMO-DN42
+tech-c:             CMO-DN42
+mnt-by:             CMO-MNT
+status:             ASSIGNED
+cidr:               fd52:a95f:1b1b::/48
+source:             DN42

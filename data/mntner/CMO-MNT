@@ -1,0 +1,7 @@
+mntner:             CMO-MNT
+admin-c:            CMO-DN42
+tech-c:             CMO-DN42
+mnt-by:             CMO-MNT
+source:             DN42
+auth:               pgp-fingerprint DE6270A8DD9D89E58E5B600B3A3CB5ED6D898B31
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDylducDxoUjYENlrGmmKd74+1YpSknpCTp+6hmQYwtEzHhg0I7AJ/2CjfwRYQLLLu8MVw5cdOWYa4hh80QKh7r0WkXguNvrL3ns3TsFCC2pKbKkn4VOhLnjagsPHS68LpJsHBG5dnOeCD//Yochf+3+8UfioN4Bw5uyKQIx6mShDAmlIzVA9sVXv/IJpGtheTqrGTvCIep+V+uIyg0tgn5i6MsO8zJuT4en+oU5WQA8xMglJ8yKiCB9gadzoe/yQYIPLnj5EIkhb/pOuGBDqTSHRyQoQG/un8wDcRT/+M6C4xX7OA3s7xAYGIzNKdyB9Y+L+r0XTfgrfOKZ/TZEp9z
