@@ -1,0 +1,11 @@
+inetnum:            172.21.114.64 - 172.21.114.95
+netname:            BDIM-IPV4
+remarks:            Peer with me at i@bdim.moe
+descr:              Peer with me at i@bdim.moe
+country:            CN
+admin-c:            BDIM-DN42
+tech-c:             BDIM-DN42
+mnt-by:             BDIM-MNT
+status:             ASSIGNED
+cidr:               172.21.114.64/27
+source:             DN42

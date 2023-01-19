@@ -1,0 +1,5 @@
+route:              172.21.114.64/27
+descr:              Peer with me at i@bdim.moe
+origin:             AS4242422391
+mnt-by:             BDIM-MNT
+source:             DN42

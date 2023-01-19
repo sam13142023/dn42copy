@@ -1,0 +1,8 @@
+mntner:             BDIM-MNT
+admin-c:            BDIM-DN42
+tech-c:             BDIM-DN42
+mnt-by:             BDIM-MNT
+source:             DN42
+auth:               pgp-fingerprint C4AF734C899FCA1774FB34A3CE5741811D44BBAF
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDdGZMZUI3hR5sbwoPwj7QsJeD94SAhw1vG1JFhN2PO/tEJdlKIpTPc+SH1H1W/o81Wcv7HLMvdKv+HX9y3PWM26oIpX6olshCmg6FDCTKk1GR95WruavsSDIGQwwCr40dbJ5uzC8kxggJlkwwjY3YeVsdXZlc3zjDugnwlbtSvIaj12RklzYIkahMhU7AIjiEbZip+XhahXnVgkY690zuYqeJYvFtw5YWjRkjDyh/cs3hTTVrpDPTjsQyrwehYhECqjv72/EhddITBp76KlS9ZF5yOG064M3vPfHfxNB8VfgnGleG+YOMO/swwes81fUjoIedv96H+B+ZlqqwfR6n2eOq4uQrKmRQZwW/2UTHePPNhhbiLq89HkO+YR0zL9LmubbAAZEo9KVSPraG7aMlLGp4J4L2EMg2fn3eOTJ9NfCcxCmQhyfS/DhsVgsr1HFfhrsz5RUlzDL+4W44SrsGLlVKMSIrO90wovVm7JdQLZrpww8YhBxsiknsnyNHDUWE=
+remarks:            a change
