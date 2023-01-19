@@ -1,5 +1,7 @@
 route:              172.23.43.0/28
-descr:              JOT23 NAT64 IPv4 route
+descr:              JOT23 HOME NAT64 IPv4 route
+origin:             AS212888
+remarks:            ~~~ AS4242421198 to be dropped once AS212888 goes live. ~~~
 origin:             AS4242421198
 mnt-by:             TOMKEP-MNT
 source:             DN42

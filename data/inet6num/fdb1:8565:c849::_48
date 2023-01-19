@@ -1,6 +1,6 @@
 inet6num:           fdb1:8565:c849:0000:0000:0000:0000:0000 - fdb1:8565:c849:ffff:ffff:ffff:ffff:ffff
 cidr:               fdb1:8565:c849::/48
-netname:            JOT23-GLOBAL-NET
+netname:            JOT23-GLOBAL
 admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT

@@ -1,4 +1,4 @@
-aut-num:            AS4242421199
+aut-num:            AS200201
 as-name:            JOT23-GLOBAL
 descr:              JOT23 global sites
 remarks:            +--------------------+-------------------------------+
@@ -10,4 +10,4 @@ remarks:            +--------------------+-------------------------------+
 admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT
-source:             DN42
+source:             RIPE
