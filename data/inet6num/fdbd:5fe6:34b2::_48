@@ -1,0 +1,10 @@
+inet6num:           fdbd:5fe6:34b2:0000:0000:0000:0000:0000 - fdbd:5fe6:34b2:ffff:ffff:ffff:ffff:ffff
+netname:            BDIM-IPV6
+descr:              Peer with me at i@bdim.moe
+country:            CN
+admin-c:            BDIM-DN42
+tech-c:             BDIM-DN42
+mnt-by:             BDIM-MNT
+status:             ASSIGNED
+cidr:               fdbd:5fe6:34b2::/48
+source:             DN42

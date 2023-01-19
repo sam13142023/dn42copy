@@ -1,0 +1,5 @@
+route6:             fdbd:5fe6:34b2::/48
+descr:              Peer with me at i@bdim.moe
+origin:             AS4242422391
+mnt-by:             BDIM-MNT
+source:             DN42
