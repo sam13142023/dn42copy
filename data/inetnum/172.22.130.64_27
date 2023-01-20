@@ -1,0 +1,10 @@
+inetnum:            172.22.130.64 - 172.22.130.95
+cidr:               172.22.130.64/27
+netname:            XENO-V4-NET-1
+country:            FR
+admin-c:            XENO-DN42
+tech-c:             XENO-DN42
+mnt-by:             XENO-MNT
+status:             ASSIGNED
+nserver:            ns1.xeno.dn42
+source:             DN42
