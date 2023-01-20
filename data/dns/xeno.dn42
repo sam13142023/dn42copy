@@ -1,0 +1,8 @@
+domain:             xeno.dn42
+descr:              Xenot DNS
+admin-c:            XENO-DN42
+tech-c:             XENO-DN42
+mnt-by:             XENO-MNT
+nserver:            ns1.xeno.dn42 172.22.130.66
+nserver:            ns1.xeno.dn42 fd8b:27b8:c998:1::2
+source:             DN42

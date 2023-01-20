@@ -1,0 +1,6 @@
+mntner:             XENO-MNT
+admin-c:            XENO-DN42
+tech-c:             XENO-DN42
+mnt-by:             XENO-MNT
+source:             DN42
+auth:               pgp-fingerprint 8F23220EE5EDE13ACE069439CE35770A98A8F13D
