@@ -1,0 +1,8 @@
+domain:             notrnix.dn42
+admin-c:            NOTRNIX-DN42
+tech-c:             NOTRNIX-DN42
+mnt-by:             NOTRNIX-MNT
+nserver:            ns.notrnix.dn42 172.20.47.145
+nserver:            ns.notrnix.dn42 fd42:ce96:2170::1
+ds-rdata:           4284 13 2 D04A42B46726D3BE68425E1497BD5969EF327467C0A6042BEBA36A47B0E6E92C
+source:             DN42

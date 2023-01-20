@@ -1,0 +1,5 @@
+route6:             fd42:ce96:2170::/48
+origin:             AS4242421680
+max-length:         48
+mnt-by:             NOTRNIX-MNT
+source:             DN42

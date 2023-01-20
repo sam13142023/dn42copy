@@ -1,0 +1,11 @@
+inet6num:           fd42:ce96:2170:0000:0000:0000:0000:0000 - fd42:ce96:2170:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ce96:2170::/48
+netname:            NOTRNIX-NETWORK
+descr:              Network of notrnix
+admin-c:            NOTRNIX-DN42
+tech-c:             NOTRNIX-DN42
+mnt-by:             NOTRNIX-MNT
+status:             ASSIGNED
+nserver:            ns.notrnix.dn42
+ds-rdata:           33781 13 2 7164BD70E189B2F501CAC4673AC0A78C93AF5CD2661E29D7A35D6CDF649F7FBD
+source:             DN42
