@@ -1,0 +1,6 @@
+mntner:             NOTRNIX-MNT
+admin-c:            NOTRNIX-DN42
+tech-c:             NOTRNIX-DN42
+mnt-by:             NOTRNIX-MNT
+auth:               pgp-fingerprint DF6696CFC08E708C3DE9F8DC5B3A81D33D211375
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.47.144/28
+origin:             AS4242421680
+max-length:         28
+mnt-by:             NOTRNIX-MNT
+source:             DN42
