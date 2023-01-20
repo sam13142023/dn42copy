@@ -1,0 +1,12 @@
+inet6num:           fd93:6001:6ed9:0000:0000:0000:0000:0000 - fd93:6001:6ed9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd93:6001:6ed9::/48
+netname:            COLBY-V6NET
+descr:              Colby's IPv6 Network
+country:            AU
+admin-c:            COLBY-DN42
+tech-c:             COLBY-DN42
+mnt-by:             COLBY-MNT
+status:             ASSIGNED
+nserver:            ns1.derix.dn42
+nserver:            ns2.derix.dn42
+source:             DN42

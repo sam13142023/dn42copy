@@ -1,0 +1,5 @@
+route:              172.23.120.16/28
+origin:             AS4242422558
+max-length:         28
+mnt-by:             COLBY-MNT
+source:             DN42

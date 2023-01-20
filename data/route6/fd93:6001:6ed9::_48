@@ -1,0 +1,5 @@
+route6:             fd93:6001:6ed9::/48
+origin:             AS4242422558
+max-length:         48
+mnt-by:             COLBY-MNT
+source:             DN42

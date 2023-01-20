@@ -1,0 +1,12 @@
+inetnum:            172.23.120.16 - 172.23.120.31
+cidr:               172.23.120.16/28
+netname:            COLBY-NETWORK
+descr:              Colby's IPv4 Network
+country:            AU
+admin-c:            COLBY-DN42
+tech-c:             COLBY-DN42
+mnt-by:             COLBY-MNT
+status:             ASSIGNED
+nserver:            ns1.derix.dn42
+nserver:            ns2.derix.dn42
+source:             DN42
