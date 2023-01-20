@@ -1,0 +1,9 @@
+domain:             derix.dn42
+admin-c:            COLBY-DN42
+tech-c:             COLBY-DN42
+mnt-by:             COLBY-MNT
+nserver:            ns1.derix.dn42 172.23.120.17
+nserver:            ns1.derix.dn42 fd93:6001:6ed9::1
+nserver:            ns2.derix.dn42 172.23.120.18
+nserver:            ns2.derix.dn42 fd93:6001:6ed9::2
+source:             DN42
