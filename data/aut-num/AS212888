@@ -1,4 +1,4 @@
-aut-num:            AS4242421198
+aut-num:            AS212888
 as-name:            JOT23-HOME
 descr:              JOT23 home network
 remarks:            +----------------------------------------------------+
@@ -12,4 +12,4 @@ remarks:            +--------------------+-------------------------------+
 admin-c:            TOMKEP-DN42
 tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT
-source:             DN42
+source:             RIPE
