@@ -1,0 +1,13 @@
+inetnum:            172.20.165.224 - 172.20.165.255
+netname:            ADRNET-V4
+descr:              ADRlab V4 network
+country:            US
+admin-c:            ADRLAB-DN42
+tech-c:             ADRLAB-DN42
+mnt-by:             ADRLAB-MNT
+org:                ORG-ADRLAB
+status:             ASSIGNED
+cidr:               172.20.165.224/27
+nserver:            ns1.adr.dn42
+nserver:            ns2.adr.dn42
+source:             DN42

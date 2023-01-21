@@ -1,0 +1,13 @@
+inet6num:           fd6e:9e16:e408:0000:0000:0000:0000:0000 - fd6e:9e16:e408:ffff:ffff:ffff:ffff:ffff
+netname:            ADRNET-V6
+descr:              ADRlab V6 network
+cidr:               fd6e:9e16:e408::/48
+country:            US
+admin-c:            ADRLAB-DN42
+tech-c:             ADRLAB-DN42
+mnt-by:             ADRLAB-MNT
+org:                ORG-ADRLAB
+status:             ASSIGNED
+nserver:            ns1.adr.dn42
+nserver:            ns2.adr.dn42
+source:             DN42

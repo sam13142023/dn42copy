@@ -1,0 +1,6 @@
+mntner:             ADRLAB-MNT
+admin-c:            ADRLAB-DN42
+tech-c:             ADRLAB-DN42
+mnt-by:             ADRLAB-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPBMHmwgacduS8IQKf9T12qaYiCmKJI8P4LSgvCIAMAs
