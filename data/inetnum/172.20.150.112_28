@@ -1,0 +1,11 @@
+inetnum:            172.20.150.112 - 172.20.150.127
+cidr:               172.20.150.112/28
+netname:            ZONOIA-NET6
+descr:              Zonoia's IPv4 Network
+country:            NL
+admin-c:            ZONOIA-DN42
+tech-c:             ZONOIA-DN42
+mnt-by:             ZONOIA-MNT
+status:             ASSIGNED
+nserver:            ns1.zonoia.dn42
+source:             DN42

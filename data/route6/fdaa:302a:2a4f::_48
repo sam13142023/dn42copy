@@ -1,0 +1,5 @@
+route6:             fdaa:302a:2a4f::/48
+origin:             AS4242422580
+max-length:         48
+mnt-by:             ZONOIA-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.150.112/28
+origin:             AS4242422580
+max-length:         28
+mnt-by:             ZONOIA-MNT
+source:             DN42
