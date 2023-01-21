@@ -1,0 +1,11 @@
+inet6num:           fdaa:302a:2a4f:0000:0000:0000:0000:0000 - fdaa:302a:2a4f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdaa:302a:2a4f::/48
+netname:            ZONOIA-NET6
+descr:              Zonoia's IPv6 Network
+country:            NL
+admin-c:            ZONOIA-DN42
+tech-c:             ZONOIA-DN42
+mnt-by:             ZONOIA-MNT
+status:             ASSIGNED
+nserver:            ns1.zonoia.dn42
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             zonoia.dn42
+admin-c:            ZONOIA-DN42
+tech-c:             ZONOIA-DN42
+mnt-by:             ZONOIA-MNT
+nserver:            ns1.zonoia.dn42 172.20.150.113
+nserver:            ns1.zonoia.dn42 fdaa:302a:2a4f::1
+source:             DN42
