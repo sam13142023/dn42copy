@@ -1,0 +1,7 @@
+domain:             znotm.dn42
+admin-c:            ZNOTM-DN42
+tech-c:             ZNOTM-DN42
+mnt-by:             ZNOTM-MNT
+nserver:            ns1.znotm.dn42 172.23.244.65
+nserver:            ns1.znotm.dn42 fd93:5d9f:2ec4::1
+source:             DN42

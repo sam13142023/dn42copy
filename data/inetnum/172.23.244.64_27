@@ -6,4 +6,5 @@ admin-c:            ZNOTM-DN42
 tech-c:             ZNOTM-DN42
 mnt-by:             ZNOTM-MNT
 status:             ASSIGNED
+nserver:            ns1.znotm.dn42
 source:             DN42
