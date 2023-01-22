@@ -1,0 +1,11 @@
+domain:             adr.dn42
+descr:              adr
+org:                ORG-ADRLAB
+admin-c:            ADRLAB-DN42
+tech-c:             ADRLAB-DN42
+mnt-by:             ADRLAB-MNT
+nserver:            ns1.adr.dn42 172.20.165.225
+nserver:            ns1.adr.dn42 fd6e:9e16:e408:53::1
+nserver:            ns2.adr.dn42 172.20.165.226
+nserver:            ns2.adr.dn42 fd6e:9e16:e408:53::2
+source:             DN42

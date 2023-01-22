@@ -1,0 +1,5 @@
+route6:             fd6e:9e16:e408::/48
+origin:             AS4242422450
+max-length:         48
+mnt-by:             ADRLAB-MNT
+source:             DN42
