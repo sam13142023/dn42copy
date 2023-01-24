@@ -1,0 +1,11 @@
+aut-num:            AS4242423580
+as-name:            TANUKI-IX-AS
+remarks:            Tanuki IX Route Server(DN42)
+remarks:            A simple and experimental IX in DN42.
+remarks:            Feel free to contact me via e-mail.
+remarks:            E-mail: i@razuritta.me
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
+org:                ORG-TANUKI
+mnt-by:             LAPISBLUE27-MNT
+source:             DN42

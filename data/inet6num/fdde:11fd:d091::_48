@@ -1,0 +1,13 @@
+inet6num:           fdde:11fd:d091:0000:0000:0000:0000:0000 - fdde:11fd:d091:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:11fd:d091::/48
+netname:            TANUKI-EXCHANGE-NET
+descr:              IPv6 Address for Tanuki-IX Peering LAN
+country:            CN
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
+org:                ORG-TANUKI
+mnt-by:             LAPISBLUE27-MNT
+nserver:            ns1.lapinet27.dn42
+nserver:            ns2.lapinet27.dn42
+status:             ASSIGNED
+source:             DN42
