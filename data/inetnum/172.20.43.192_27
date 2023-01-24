@@ -1,0 +1,10 @@
+inetnum:            172.20.43.192 - 172.20.43.223
+netname:            JOHACKO-IPV4
+descr:              Reseau de johacko
+country:            FR
+admin-c:            JOHACKO-DN42
+tech-c:             JOHACKO-DN42
+mnt-by:             JOHACKO-MNT
+status:             ASSIGNED
+cidr:               172.20.43.192/27
+source:             DN42
