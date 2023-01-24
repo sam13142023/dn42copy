@@ -6,7 +6,8 @@ country:            CN
 admin-c:            ZYC-DN42
 tech-c:             ZYC-DN42
 mnt-by:             ZYC-MNT
-nserver:            ns1.zyc.dn42
-nserver:            ns2.zyc.dn42
+nserver:            jp-tyo1.zyc.dn42
+nserver:            us-lax1.zyc.dn42
+nserver:            cn-bj1.zyc.dn42
 status:             ASSIGNED
 source:             DN42
