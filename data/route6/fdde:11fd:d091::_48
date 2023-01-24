@@ -1,0 +1,5 @@
+route6:             fdde:11fd:d091::/48
+origin:             AS0
+max-length:         48
+mnt-by:             LAPISBLUE27-MNT
+source:             DN42

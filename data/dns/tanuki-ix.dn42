@@ -1,0 +1,10 @@
+domain:             tanuki-ix.dn42
+admin-c:            RAZURITTA-DN42
+tech-c:             RAZURITTA-DN42
+org:                ORG-TANUKI
+descr:              For DN42 Website of Tanuki-IX in DN42
+mnt-by:             LAPISBLUE27-MNT
+nserver:            ns1.lapinet27.dn42
+nserver:            ns2.lapinet27.dn42
+ds-rdata:           11490 15 2 5970CD832073ABB91EEF2F06EC31B4F582499DF2282A9A18D8BB0F72 FA56E0E8
+source:             DN42
