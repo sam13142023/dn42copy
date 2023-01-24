@@ -1,0 +1,5 @@
+route6:             fdc5:ffee:defb::/48
+origin:             AS4242422296
+max-length:         48
+mnt-by:             JOHACKO-MNT
+source:             DN42

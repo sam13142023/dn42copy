@@ -1,0 +1,5 @@
+route:              172.20.43.192/27
+descr:              Reseau johacko
+origin:             AS4242422296
+mnt-by:             JOHACKO-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdc5:ffee:defb:0000:0000:0000:0000:0000 - fdc5:ffee:defb:ffff:ffff:ffff:ffff:ffff
+netname:            JOHACKO-IPV6
+descr:              Reseau johacko
+country:            FR
+admin-c:            JOHACKO-DN42
+tech-c:             JOHACKO-DN42
+mnt-by:             JOHACKO-MNT
+status:             ASSIGNED
+cidr:               fdc5:ffee:defb::/48
+source:             DN42

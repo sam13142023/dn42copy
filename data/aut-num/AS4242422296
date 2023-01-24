@@ -1,0 +1,7 @@
+aut-num:            AS4242422296
+as-name:            JOHACKO-AS
+descr:              johacko network
+admin-c:            JOHACKO-DN42
+tech-c:             JOHACKO-DN42
+mnt-by:             JOHACKO-MNT
+source:             DN42
