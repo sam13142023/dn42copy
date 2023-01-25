@@ -6,8 +6,9 @@ country:            CN
 admin-c:            POTAT0-DN42
 tech-c:             POTAT0-DN42
 mnt-by:             POTAT0-MNT
-nserver:            ns1.potat0.dn42
-nserver:            ns2.potat0.dn42
+nserver:            us1.potat0.dn42
+nserver:            jp1.potat0.dn42
+nserver:            no1.potat0.dn42
 status:             ASSIGNED
 cidr:               172.23.246.0/26
 ds-rdata:           3657 13 2 0039D1E8DA560685830A7B6B06ED37A735B62A0480D0BFCB9663A84F D49D9065
