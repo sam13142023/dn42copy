@@ -1,0 +1,5 @@
+route:              172.21.72.128/25
+descr:              MisakaRoute IPv4
+origin:             AS4242420772
+mnt-by:             MISAKA10072-MNT
+source:             DN42

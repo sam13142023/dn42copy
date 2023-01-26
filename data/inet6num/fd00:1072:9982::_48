@@ -1,0 +1,11 @@
+inet6num:           fd00:1072:9982:0000:0000:0000:0000:0000 - fd00:1072:9982:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:1072:9982::/48
+netname:            MisakaNetwork-10072-IPv6
+descr:              MisakaNetwork IPv6
+nserver:            ns.mis1072.dn42
+country:            CN
+admin-c:            MISAKA10072-DN42
+tech-c:             MISAKA10072-DN42
+mnt-by:             MISAKA10072-MNT
+status:             ASSIGNED
+source:             DN42
