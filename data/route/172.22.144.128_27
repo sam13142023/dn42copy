@@ -1,0 +1,4 @@
+route:              172.22.144.128/27
+origin:             AS4242420590
+mnt-by:             RAVI-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd67:9656:8821:0000:0000:0000:0000:0000 - fd67:9656:8821:ffff:ffff:ffff:ffff:ffff
+cidr:               fd67:9656:8821::/48
+netname:            RAVI-DN42-V6
+country:            CN
+admin-c:            RAVI-DN42
+tech-c:             RAVI-DN42
+mnt-by:             RAVI-MNT
+status:             ASSIGNED
+source:             DN42
