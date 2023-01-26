@@ -1,0 +1,10 @@
+inetnum:            172.22.68.64 - 172.22.68.95
+cidr:               172.22.68.64/27
+netname:            FYHS-IPV4
+descr:              Network of FYHS
+country:            CN
+admin-c:            FYHS-DN42
+tech-c:             FYHS-DN42
+mnt-by:             FYHS-MNT
+status:             ASSIGNED
+source:             DN42

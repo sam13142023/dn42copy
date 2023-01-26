@@ -1,0 +1,10 @@
+inet6num:           fd2b:0626:d882:0000:0000:0000:0000:0000 - fd2b:0626:d882:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2b:626:d882::/48
+netname:            FYHS-IPV6
+descr:              Network of FYHS
+country:            CN
+admin-c:            FYHS-DN42
+tech-c:             FYHS-DN42
+mnt-by:             FYHS-MNT
+status:             ASSIGNED
+source:             DN42
