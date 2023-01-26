@@ -1,0 +1,4 @@
+route:              172.22.68.64/27
+origin:             AS4242421218
+mnt-by:             FYHS-MNT
+source:             DN42
