@@ -1,0 +1,9 @@
+inetnum:            172.22.144.128 - 172.22.144.159
+cidr:               172.22.144.128/27
+netname:            RAVI-DN42-V4
+country:            CN
+admin-c:            RAVI-DN42
+tech-c:             RAVI-DN42
+mnt-by:             RAVI-MNT
+status:             ASSIGNED
+source:             DN42

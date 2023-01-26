@@ -1,0 +1,4 @@
+route6:             fd67:9656:8821::/48
+origin:             AS4242420590
+mnt-by:             RAVI-MNT
+source:             DN42
