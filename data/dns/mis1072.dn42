@@ -1,0 +1,7 @@
+domain:             mis1072.dn42
+admin-c:            MISAKA10072-DN42
+tech-c:             MISAKA10072-DN42
+mnt-by:             MISAKA10072-MNT
+nserver:            ns.mis1072.dn42	172.21.72.253
+nserver:            ns.mis1072.dn42	fd00:1072:9982:53::1
+source:             DN42

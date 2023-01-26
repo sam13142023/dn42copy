@@ -1,0 +1,5 @@
+route6:             fd00:1072:9982::/48
+descr:              MisakaRoute IPv6
+origin:             AS4242420772
+mnt-by:             MISAKA10072-MNT
+source:             DN42
