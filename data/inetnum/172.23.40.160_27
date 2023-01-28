@@ -1,0 +1,11 @@
+inetnum:            172.23.40.160 - 172.23.40.191
+netname:            BAIYUANNEKO-IPV4
+remarks:            Peer with me at baiyang-lzy@outlook.com
+descr:              Peer with me at baiyang-lzy@outlook.com
+country:            CN
+admin-c:            BAIYUANNEKO-DN42
+tech-c:             BAIYUANNEKO-DN42
+mnt-by:             BAIYUANNEKO-MNT
+status:             ASSIGNED
+cidr:               172.23.40.160/27
+source:             DN42
