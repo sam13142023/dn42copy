@@ -1,0 +1,10 @@
+inetnum:            172.23.224.64 - 172.23.224.95
+cidr:               172.23.224.64/27
+netname:            FRANKRUAN-DN42-V4
+descr:              Frank Ruan DN42 Network IPv4 Block
+country:            CN
+admin-c:            FRANKRUAN-DN42
+tech-c:             FRANKRUAN-DN42
+mnt-by:             FRANKRUAN-MNT
+status:             ASSIGNED
+source:             DN42

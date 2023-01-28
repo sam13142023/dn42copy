@@ -1,0 +1,5 @@
+route:              172.23.224.64/27
+descr:              Frank Ruan DN42 Network IPv4 Block
+origin:             AS4242423525
+mnt-by:             FRANKRUAN-MNT
+source:             DN42
