@@ -1,0 +1,4 @@
+route6:             fd5f:1c00:c1::/48
+origin:             AS4242420426
+mnt-by:             WILDCODER-MNT
+source:             DN42
