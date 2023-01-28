@@ -1,6 +1,0 @@
-mntner:             ABLACKCATSTAIL-MNT
-admin-c:            ABLACKCATSTAIL-DN42
-tech-c:             ABLACKCATSTAIL-DN42
-mnt-by:             ABLACKCATSTAIL-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGYoO1k0d3KYO9RZsDT7P/nkyn8hZZ51B6RaOB0B6RCA matts@panther
-source:             DN42
