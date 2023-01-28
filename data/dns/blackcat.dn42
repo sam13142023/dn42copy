@@ -1,9 +1,0 @@
-domain:             blackcat.dn42
-admin-c:            ABLACKCATSTAIL-DN42
-tech-c:             ABLACKCATSTAIL-DN42
-mnt-by:             ABLACKCATSTAIL-MNT
-nserver:            ns1.blackcat.dn42 172.20.165.194
-nserver:            ns1.blackcat.dn42 fd0b:7449:62d2::3
-nserver:            ns2.blackcat.dn42 172.20.165.195
-nserver:            ns2.blackcat.dn42 fd0b:7449:62d2::4
-source:             DN42
