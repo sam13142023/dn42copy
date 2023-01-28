@@ -1,7 +1,7 @@
 key-cert:           PGPKEY-740E765D
 method:             PGP
 owner:              David Zhixu Liu <david@fixmix.tech>
-fingerpr:           F692 28A3 DADE CB2B FCEE 6EB3 8EC0 4651 740E 765D
+fingerpr:           F692 28A3 DADE CB2B FCEE 6EB3 8EC0 4651 740E 765D
 certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
 certif:             
 certif:             mQINBGCl+hkBEAC5z/guBsUsn2o5HgwBFUvPHlFfkkvFO6NTDIkijBGAEa/pY5l2

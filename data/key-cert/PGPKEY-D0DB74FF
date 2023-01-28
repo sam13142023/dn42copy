@@ -1,7 +1,7 @@
 key-cert:           PGPKEY-D0DB74FF
 method:             PGP
 owner:              Tom Atkinson <tom@skylit-networks.com>
-fingerpr:           F272 EE4E 4AAC F82F 45C7  3E97 8C3A 2772 D0DB 74FF
+fingerpr:           F272 EE4E 4AAC F82F 45C7  3E97 8C3A 2772 D0DB 74FF
 certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
 certif:             
 certif:             mQINBF7ncqsBEACpv7o/YKYeffz7lTutYTL1JGqOk34dj6Q2Bdaz2T7RyzoUlbnd
