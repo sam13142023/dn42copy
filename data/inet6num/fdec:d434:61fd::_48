@@ -1,0 +1,10 @@
+inet6num:           fdec:d434:61fd:0000:0000:0000:0000:0000 - fdec:d434:61fd:ffff:ffff:ffff:ffff:ffff
+netname:            BAIYUANNEKO-IPV6
+descr:              Peer with me at baiyang-lzy@outlook.com
+country:            CN
+admin-c:            BAIYUANNEKO-DN42
+tech-c:             BAIYUANNEKO-DN42
+mnt-by:             BAIYUANNEKO-MNT
+status:             ASSIGNED
+cidr:               fdec:d434:61fd::/48
+source:             DN42
