@@ -1,0 +1,10 @@
+inet6num:           fdca:300b:dbbb:0000:0000:0000:0000:0000 - fdca:300b:dbbb:ffff:ffff:ffff:ffff:ffff
+cidr:               fdca:300b:dbbb::/48
+netname:            FRANKRUAN-DN42-V6
+descr:              Frank Ruan DN42 Network IPv6 Block
+country:            CN
+admin-c:            FRANKRUAN-DN42
+tech-c:             FRANKRUAN-DN42
+mnt-by:             FRANKRUAN-MNT
+status:             ASSIGNED
+source:             DN42

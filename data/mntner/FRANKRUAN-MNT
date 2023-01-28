@@ -1,0 +1,8 @@
+mntner:             FRANKRUAN-MNT
+admin-c:            FRANKRUAN-DN42
+tech-c:             FRANKRUAN-DN42
+mnt-by:             FRANKRUAN-MNT
+source:             DN42
+auth:               pgp-fingerprint 04B87733FCCF034FAB9CE53818BDAAAAAAAAAAAA
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPzfn2sNANtYWueGNSiK4tz7JiSJFIdgpwWy09FC8W8cd/tsxKUVOqUIfgMAn7NXZf4lh4AehuWNyLb2CiVpVq5Is5LoiysMZUiT9Ecs4yfiINQT+flh/dKkwsMfloBDNfu3cA1eDdNNMnWxj/cfQP3tw8CsQHgDI6hDZAi/1w71yjuKacwWVuTPsu10qj0ms+GjF7PlX/OtUOpdcznV97zi8Jxp72rNGXlQ7DkpEbwJlVm9vxCJn+m3LAqWORKlZBAYaK/ZmncJyAboicNPzU5A1p+SL07koXLl3ODo+B+TLjpaZPwvlpN+YWklTLrjkDMRq3Idl8i4jo89rO2va9
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBPwfHSK72IG5/2N0OmqTz7x/Qyq2FGuyFbZva7flMuq9pE/8a+lMpvBFC98r4O/GS4w7laLWZHomnkWWFoTNwrc=
