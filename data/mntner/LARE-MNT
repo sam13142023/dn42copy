@@ -4,4 +4,10 @@ tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJgYX0eZRNbp/+aqS3a4nq8PJr3NS1qNPAr10bRmseye lare@lare.cc
 auth:               pgp-fingerprint 8D745EB5F879864532C6C33030C10A93B8B8E9FE
+remarks:            below new keytypes
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF8iCSa5PUB4UvAL+dSl2tEPbXkfrGXyOGUY7oqWisJV openpgp:Yubi5C
+auth:               sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJPjsR3HEk78SMheVCkcOp+g3rtcxChQawbVGRE67FtrAAAABHNzaDo= yubi5C
+auth:               sk-ecdsa-sha2-nistp256@openssh.com AAAAInNrLWVjZHNhLXNoYTItbmlzdHAyNTZAb3BlbnNzaC5jb20AAAAIbmlzdHAyNTYAAABBBGJZ+PblSFTFnpOqMAuFcyDaF0eAF0KBwXpn3rUx1aJAQCMGoFFqWBCIiHmNmLQ8so0lP28UilWdzbar1hM1RYQAAAAEc3NoOg== yubikey
+remarks:            emergency offline backup key:
+auth:               pgp-fingerprint AB0D21989309CCDA18F3D09F2BA348357FA47F98
 source:             DN42
