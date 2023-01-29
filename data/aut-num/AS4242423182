@@ -1,0 +1,17 @@
+aut-num:            AS4242423182
+as-name:            CRXN-GATEWAY
+descr:              CRXN gateway
+remarks:            This is the AS number reserved for the CRXN project
+remarks:            and interconnection with dn42. For technical reasons,
+remarks:            direct peering with this AS is not possible.
+mp-import:          from AS4201272923 accept ANY
+mp-export:          to AS4201272923 announce AS4242423182
+mp-import:          from AS4242422596 accept ANY
+mp-export:          to AS4242422596 announce AS4242423182
+mp-import:          from AS4242422923 accept ANY
+mp-export:          to AS4242422923 announce AS4242423182
+admin-c:            COMMUNITY-CRXN
+tech-c:             COMMUNITY-CRXN
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

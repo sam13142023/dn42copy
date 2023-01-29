@@ -1,0 +1,6 @@
+inet6num:           fdc2:9471:e3ba:0000:0000:0000:0000:0000 - fdc2:9471:e3ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc2:9471:e3ba::/48
+netname:            alexsrv.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

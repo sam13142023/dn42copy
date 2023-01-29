@@ -1,0 +1,15 @@
+role:               COMMUNITY-CRXN
+nic-hdl:            COMMUNITY-CRXN
+remarks:            This is the technical and administrative contact to
+remarks:            the CRXN. CRXN is a community which is why there is
+remarks:            no fixed contact person. The people listed here are
+remarks:            only CRXN and dn42 participants. You can find the
+remarks:            CRXN community on Matrix #crxn:matrix.org or
+remarks:            on IRC #crxn@bnet.
+remarks:            
+remarks:            EntityDB: https://codeberg.org/CRXN/entitydb
+remarks:            Website: http://deavmi.assigned.network/projects/crxn/
+remarks:            Mirror: https://crxn.de/docs/
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

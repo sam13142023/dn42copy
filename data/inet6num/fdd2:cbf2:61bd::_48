@@ -1,0 +1,6 @@
+inet6num:           fdd2:cbf2:61bd:0000:0000:0000:0000:0000 - fdd2:cbf2:61bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd2:cbf2:61bd::/48
+netname:            oldnet.home.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

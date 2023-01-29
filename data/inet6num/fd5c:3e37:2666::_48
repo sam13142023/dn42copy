@@ -1,0 +1,8 @@
+inet6num:           fd5c:3e37:2666:0000:0000:0000:0000:0000 - fd5c:3e37:2666:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5c:3e37:2666::/48
+netname:            Bandura Communications
+admin-c:            BANDURA-CRXN
+tech-c:             BANDURA-CRXN
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

@@ -1,0 +1,5 @@
+route6:             fdae:d3e4:83e4::/48
+origin:             AS4242423182
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

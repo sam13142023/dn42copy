@@ -1,0 +1,6 @@
+inet6num:           fd40:aa42:4f39:0000:0000:0000:0000:0000 - fd40:aa42:4f39:ffff:ffff:ffff:ffff:ffff
+cidr:               fd40:aa42:4f39::/48
+netname:            iot.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

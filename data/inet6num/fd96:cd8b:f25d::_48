@@ -1,0 +1,6 @@
+inet6num:           fd96:cd8b:f25d:0000:0000:0000:0000:0000 - fd96:cd8b:f25d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:cd8b:f25d::/48
+netname:            community.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

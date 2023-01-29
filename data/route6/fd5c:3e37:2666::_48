@@ -1,0 +1,8 @@
+route6:             fd5c:3e37:2666::/48
+origin:             AS4242423182
+max-length:         56
+admin-c:            BANDURA-CRXN
+tech-c:             BANDURA-CRXN
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN
