@@ -1,6 +1,8 @@
 inet6num:           fd86:aa4f:8883:0000:0000:0000:0000:0000 - fd86:aa4f:8883:ffff:ffff:ffff:ffff:ffff
 netname:            ZYC-NETWORK-V6
-descr:              Peer with me at zyc@zyc.name
+descr:              zyc Network IPv6 Block
+remarks:            Peer with me at zyc@zyc.name
+remarks:            Peer info at https://blog.zyc.name/2023/01/24/dn42-peering-info/
 country:            CN
 admin-c:            ZYC-DN42
 tech-c:             ZYC-DN42
