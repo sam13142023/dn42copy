@@ -2,5 +2,6 @@ mntner:             NCON-MNT
 admin-c:            NCON-DN42
 tech-c:             NCON-DN42
 mnt-by:             NCON-MNT
+remarks:            Registry Maintenance: Irregular or legacy auth method
 auth:               signify RWSvfI1GKZa0vq5C/Kp8Uf8xEpiR6dkHrBPLaeEvDlPFKMpsgIxGY3j/
 source:             DN42

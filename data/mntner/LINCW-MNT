@@ -3,6 +3,6 @@ admin-c:            LINCW-DN42
 tech-c:             LINCW-DN42
 mnt-by:             LINCW-MNT
 source:             DN42
-auth:               gpg-fingerprint 48815AE70A38F5164CDECD6D60E98BF2BC8746B2
+auth:               pgp-fingerprint 48815AE70A38F5164CDECD6D60E98BF2BC8746B2
 auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCuKdeWp6wkd39Y1fojHFX8pokOdN9FMAjIBQ563V9eG1NMg9Z8KU4a0mCOVwDTxEz4gmGawkhzRkHagRcFpk0J0U4RjFsuwM6wZbDt9jXNs1BGfEbP5I1WNZFD7N83ID7kA7DhiJYDOnoIp4G91+09snvPtMLUrPyTa0w9vu41p01HiSAsakPCaZO8ctAwzavj1vuv+HEcIx7Yqtz10V0gYfxlIEwRjOGWqLP0UCSISzCw2ZXPHmEPXBLhV9YOMFt04FF6szM3EZM3BcwGUaFzfjg+PYADaVwVThXEnWCezMFhzbF2ugP7jGrGTG/l/h7fwAAHEQX51g+tRM8yfFKASKj8Wn3mtLZzxgVf94CIYrSJmOhRGipr1FbglWmo1FG4+Spv/dNnXXTEj9KOeKhOb8yMcSzDjChdYtlDqyyW2bFEtzx74FykqX9a/Nx8Aukm3/tMbhegI8qmHIL0HcboPW2QBlOpc2ccntcq8lhKjtQTodmzCjV/2XuJMONq4lM=
 remarks:            pin-sha256:fWJXCazy9/6QEcuGRGO/vfgnskMmn3aoXbbne9MSqGI
