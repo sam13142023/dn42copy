@@ -1,0 +1,6 @@
+inet6num:           fdd4:975c:1440:0000:0000:0000:0000:0000 - fdd4:975c:1440:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd4:975c:1440::/48
+netname:            skiqqy.xyz
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

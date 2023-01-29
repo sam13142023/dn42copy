@@ -1,0 +1,6 @@
+inet6num:           fd08:8441:e254:0000:0000:0000:0000:0000 - fd08:8441:e254:ffff:ffff:ffff:ffff:ffff
+cidr:               fd08:8441:e254::/48
+netname:            tunneler.network.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

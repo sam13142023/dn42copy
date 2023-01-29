@@ -1,0 +1,10 @@
+inet6num:           fd92:58b6:02b2:0000:0000:0000:0000:0000 - fd92:58b6:02b2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd92:58b6:2b2::/48
+netname:            Bandura Communications
+nserver:            ns1.bandura.crxn
+ds-rdata:           3115 15 2 37C7191FD4573523AAECDAAA127B983191B8F06C9CF0270C6B15CFFD609E8AB7
+admin-c:            BANDURA-CRXN
+tech-c:             BANDURA-CRXN
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

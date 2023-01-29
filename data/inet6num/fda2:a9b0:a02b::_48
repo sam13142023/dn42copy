@@ -1,0 +1,6 @@
+inet6num:           fda2:a9b0:a02b:0000:0000:0000:0000:0000 - fda2:a9b0:a02b:ffff:ffff:ffff:ffff:ffff
+cidr:               fda2:a9b0:a02b::/48
+netname:            tiknetwork.home.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

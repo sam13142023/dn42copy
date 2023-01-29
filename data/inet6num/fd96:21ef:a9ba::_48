@@ -1,0 +1,6 @@
+inet6num:           fd96:21ef:a9ba:0000:0000:0000:0000:0000 - fd96:21ef:a9ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:21ef:a9ba::/48
+netname:            reddawn.network
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

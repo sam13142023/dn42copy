@@ -1,0 +1,6 @@
+inet6num:           fdf1:1dc1:f54d:0000:0000:0000:0000:0000 - fdf1:1dc1:f54d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:1dc1:f54d::/48
+netname:            deavmi.community.quickconnect.network1
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

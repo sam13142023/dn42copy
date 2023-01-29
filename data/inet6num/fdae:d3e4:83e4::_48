@@ -1,0 +1,6 @@
+inet6num:           fdae:d3e4:83e4:0000:0000:0000:0000:0000 - fdae:d3e4:83e4:ffff:ffff:ffff:ffff:ffff
+cidr:               fdae:d3e4:83e4::/48
+netname:            newnet.home.deavmi.crxn
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN

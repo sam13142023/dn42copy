@@ -1,0 +1,7 @@
+domain:             crxn
+nserver:            ns1.crxn fd92:58b6:2b2:0:0:0:0:54
+ds-rdata:           1624 15 2 CE9AE07ABC41D7A509530DEBEFFA79D42DE7167208435D3E1881BB5448ABAEAF
+ds-rdata:           29517 15 2 E987FC2F366AE8FE75F3EEBD160002437D5B1A8E5B17BA04AE19CCC529A579C9
+remarks:            Imported from CRXN, do not edit!
+mnt-by:             DN42-MNT
+source:             CRXN
