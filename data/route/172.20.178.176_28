@@ -1,0 +1,5 @@
+route:              172.20.178.176/28
+origin:             AS4242423671
+max-length:         28
+mnt-by:             AKIMITSU-MNT
+source:             DN42

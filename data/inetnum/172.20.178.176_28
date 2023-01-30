@@ -1,0 +1,10 @@
+inetnum:            172.20.178.176 - 172.20.178.191
+cidr:               172.20.178.176/28
+netname:            AKIMITSU-NETWORK
+descr:              Network of AKIMITSU
+country:            CN
+admin-c:            AKIMITSU-DN42
+tech-c:             AKIMITSU-DN42
+mnt-by:             AKIMITSU-MNT
+status:             ASSIGNED
+source:             DN42
