@@ -1,0 +1,10 @@
+inet6num:           fdff:b6f0:4b20:0000:0000:0000:0000:0000 - fdff:b6f0:4b20:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:b6f0:4b20::/48
+netname:            AKIMITSU-NETWORK
+descr:              Network of AKIMITSU
+country:            CN
+admin-c:            AKIMITSU-DN42
+tech-c:             AKIMITSU-DN42
+mnt-by:             AKIMITSU-MNT
+status:             ASSIGNED
+source:             DN42

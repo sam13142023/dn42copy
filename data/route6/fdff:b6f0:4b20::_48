@@ -1,0 +1,5 @@
+route6:             fdff:b6f0:4b20::/48
+origin:             AS4242423671
+max-length:         48
+mnt-by:             AKIMITSU-MNT
+source:             DN42
