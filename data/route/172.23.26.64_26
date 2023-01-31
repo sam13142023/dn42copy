@@ -1,0 +1,5 @@
+route:              172.23.26.64/26
+origin:             AS4242421705
+mnt-by:             ENOCH-MNT
+source:             DN42
+max-length:         26

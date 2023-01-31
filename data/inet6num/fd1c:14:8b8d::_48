@@ -1,0 +1,10 @@
+inet6num:           fd1c:0014:8b8d:0000:0000:0000:0000:0000 - fd1c:0014:8b8d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1c:14:8b8d::/48
+netname:            LAYSENSE-DN42-NET6
+country:            CN
+admin-c:            ENOCH-DN42
+tech-c:             ENOCH-DN42
+mnt-by:             ENOCH-MNT
+org:                ORG-LAYSENSE
+status:             ASSIGNED
+source:             DN42

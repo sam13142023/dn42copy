@@ -1,0 +1,6 @@
+mntner:             ENOCH-MNT
+admin-c:            ENOCH-DN42
+tech-c:             ENOCH-DN42
+mnt-by:             ENOCH-MNT
+auth:               pgp-fingerprint 024F024797E47B64D43B42D5B32DDFC2DE2CE20B
+source:             DN42
