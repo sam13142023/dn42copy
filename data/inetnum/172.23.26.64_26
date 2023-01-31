@@ -1,0 +1,11 @@
+inetnum:            172.23.26.64 - 172.23.26.127
+cidr:               172.23.26.64/26
+netname:            LAYSENSE-DN42-NET
+descr:              Laysense Test Network
+country:            CN
+admin-c:            ENOCH-DN42
+tech-c:             ENOCH-DN42
+mnt-by:             ENOCH-MNT
+org:                ORG-LAYSENSE
+status:             ASSIGNED
+source:             DN42

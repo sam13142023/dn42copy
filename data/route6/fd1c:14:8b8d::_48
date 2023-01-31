@@ -1,0 +1,5 @@
+route6:             fd1c:14:8b8d::/48
+origin:             AS4242421705
+mnt-by:             ENOCH-MNT
+max-length:         48
+source:             DN42
