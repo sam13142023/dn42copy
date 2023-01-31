@@ -1,0 +1,5 @@
+route:              172.23.85.96/27
+origin:             AS4242420752
+max-length:         27
+mnt-by:             PASSPORT-MNT
+source:             DN42

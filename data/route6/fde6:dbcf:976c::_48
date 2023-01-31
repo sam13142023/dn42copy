@@ -1,0 +1,5 @@
+route6:             fde6:dbcf:976c::/48
+origin:             AS4242420752
+max-length:         48
+mnt-by:             PASSPORT-MNT
+source:             DN42
