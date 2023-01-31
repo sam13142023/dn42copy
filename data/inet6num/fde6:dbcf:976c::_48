@@ -1,0 +1,10 @@
+inet6num:           fde6:dbcf:976c:0000:0000:0000:0000:0000 - fde6:dbcf:976c:ffff:ffff:ffff:ffff:ffff
+cidr:               fde6:dbcf:976c::/48
+netname:            PASSPORT-NET
+descr:              Network of PASSPORT
+country:            US
+admin-c:            PASSPORT-DN42
+tech-c:             PASSPORT-DN42
+mnt-by:             PASSPORT-MNT
+status:             ASSIGNED
+source:             DN42

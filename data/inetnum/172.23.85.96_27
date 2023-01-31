@@ -1,0 +1,10 @@
+inetnum:            172.23.85.96 - 172.23.85.127
+cidr:               172.23.85.96/27
+netname:            PASSPORT-NETWORK
+descr:              Network of PASSPORT
+country:            US
+admin-c:            PASSPORT-DN42
+tech-c:             PASSPORT-DN42
+mnt-by:             PASSPORT-MNT
+status:             ASSIGNED
+source:             DN42
