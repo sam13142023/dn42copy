@@ -1,7 +1,8 @@
 inet6num:           fda0:3e43:0d8e:0000:0000:0000:0000:0000 - fda0:3e43:0d8e:ffff:ffff:ffff:ffff:ffff
 netname:            SUNYZ-IPV6
-descr:              Sunyz Network. Peer with me at me@sunyanzheng.cn
-country:            CN
+remarks:            Peer with me at i@sunyz.net
+descr:              Peer with me at i@sunyz.net
+country:            CA
 admin-c:            SUNYZ-DN42
 tech-c:             SUNYZ-DN42
 mnt-by:             SUNYZ-MNT
