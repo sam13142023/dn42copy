@@ -1,0 +1,7 @@
+domain:             ravi.dn42
+admin-c:            RAVI-DN42
+tech-c:             RAVI-DN42
+mnt-by:             RAVI-MNT
+nserver:            ns1.ravi.dn42 172.22.144.133
+nserver:            ns1.ravi.dn42 fd67:9656:8821::18:2ad0:ff10
+source:             DN42
