@@ -1,0 +1,7 @@
+domain:             neko.dn42
+admin-c:            BAIYUANNEKO-DN42
+tech-c:             BAIYUANNEKO-DN42
+mnt-by:             BAIYUANNEKO-MNT
+nserver:            ns1.neko.dn42 172.23.40.161
+nserver:            ns1.neko.dn42 fdec:d434:61fd::1
+source:             DN42
