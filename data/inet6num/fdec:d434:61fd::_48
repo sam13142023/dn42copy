@@ -8,3 +8,4 @@ mnt-by:             BAIYUANNEKO-MNT
 status:             ASSIGNED
 cidr:               fdec:d434:61fd::/48
 source:             DN42
+nserver:            ns1.neko.dn42
