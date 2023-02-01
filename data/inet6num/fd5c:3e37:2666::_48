@@ -1,6 +1,8 @@
 inet6num:           fd5c:3e37:2666:0000:0000:0000:0000:0000 - fd5c:3e37:2666:ffff:ffff:ffff:ffff:ffff
 cidr:               fd5c:3e37:2666::/48
 netname:            Bandura Communications
+nserver:            ns1.bandura.crxn
+ds-rdata:           59395 15 2 B9E23D70A1B866DC825FD7C60A6CD81A749CCBBE277DC6AEBD5C5CE5BBB48A57
 admin-c:            BANDURA-CRXN
 tech-c:             BANDURA-CRXN
 remarks:            Imported from CRXN, do not edit!
