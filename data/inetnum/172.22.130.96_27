@@ -1,0 +1,10 @@
+inetnum:            172.22.130.96 - 172.22.130.127
+cidr:               172.22.130.96/27
+netname:            VANILLA-NETWORK
+descr:              Network of VANILLA
+country:            CN
+admin-c:            VANILLA-DN42
+tech-c:             VANILLA-DN42
+mnt-by:             VANILLA-MNT
+status:             ASSIGNED
+source:             DN42

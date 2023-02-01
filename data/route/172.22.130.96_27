@@ -1,0 +1,5 @@
+route:              172.22.130.96/27
+origin:             AS4242421317
+max-length:         27
+mnt-by:             VANILLA-MNT
+source:             DN42

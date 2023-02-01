@@ -1,0 +1,6 @@
+mntner:             VANILLA-MNT
+admin-c:            VANILLA-DN42
+tech-c:             VANILLA-DN42
+mnt-by:             VANILLA-MNT
+auth:               pgp-fingerprint 2649340CC909F821D25167143750028ED04FA42E
+source:             DN42
