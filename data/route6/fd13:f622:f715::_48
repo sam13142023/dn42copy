@@ -1,0 +1,5 @@
+route6:             fd13:f622:f715::/48
+origin:             AS4242421317
+max-length:         48
+mnt-by:             VANILLA-MNT
+source:             DN42
