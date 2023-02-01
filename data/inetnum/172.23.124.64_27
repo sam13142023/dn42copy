@@ -1,0 +1,10 @@
+inetnum:            172.23.124.64 - 172.23.124.95
+netname:            HENRY-IPV4
+descr:              Peer with me at pengtianhong6@gmail.com
+country:            CN
+admin-c:            HENRY-DN42
+tech-c:             HENRY-DN42
+mnt-by:             HENRY-MNT
+status:             ASSIGNED
+cidr:               172.23.124.64/27
+source:             DN42

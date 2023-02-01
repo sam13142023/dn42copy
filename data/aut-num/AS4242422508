@@ -1,0 +1,7 @@
+aut-num:            AS4242422508
+as-name:            HENRY-AS
+descr:              AS for HENRY
+admin-c:            HENRY-DN42
+tech-c:             HENRY-DN42
+mnt-by:             HENRY-MNT
+source:             DN42
