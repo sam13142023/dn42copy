@@ -3,5 +3,5 @@ admin-c:            HANLIN-DN42
 tech-c:             HANLIN-DN42
 mnt-by:             HANLIN-MNT
 nserver:            ns1.hanlin.dn42 172.23.163.33
-nserver:            ns1.hanlin.dn42 fd88:1926:817:3::1
+nserver:            ns1.hanlin.dn42 fd88:1926:817:3::2
 source:             DN42
