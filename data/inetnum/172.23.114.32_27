@@ -1,8 +1,8 @@
 inetnum:            172.23.114.32 - 172.23.114.63
 netname:            SUNYZ-IPV4
-remarks:            Sunyz Network. Peer with me at me@sunyanzheng.cn
-descr:              Sunyz Network. Peer with me at me@sunyanzheng.cn
-country:            CN
+remarks:            Peer with me at i@sunyz.net
+descr:              Peer with me at i@sunyz.net
+country:            CA
 admin-c:            SUNYZ-DN42
 tech-c:             SUNYZ-DN42
 mnt-by:             SUNYZ-MNT
