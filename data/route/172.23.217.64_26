@@ -1,5 +1,5 @@
-route:              172.23.217.64/27
+route:              172.23.217.64/26
 origin:             AS4242422825
-max-length:         27
+max-length:         26
 mnt-by:             BRI-MNT
 source:             DN42
