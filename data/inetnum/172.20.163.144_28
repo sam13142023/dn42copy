@@ -1,0 +1,8 @@
+inetnum:            172.20.163.144 - 172.20.163.159
+cidr:               172.20.163.144/28
+netname:            CORTMIEM-NETWORK
+admin-c:            CORTMIEM-DN42
+tech-c:             CORTMIEM-DN42
+mnt-by:             CORTMIEM-MNT
+status:             ASSIGNED
+source:             DN42

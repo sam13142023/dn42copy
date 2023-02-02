@@ -1,0 +1,4 @@
+route:              172.20.163.144/28
+origin:             AS4242420634
+mnt-by:             CORTMIEM-MNT
+source:             DN42
