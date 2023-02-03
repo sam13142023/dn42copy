@@ -1,0 +1,5 @@
+route:              172.20.165.192/27
+origin:             AS4242423451
+remarks:            You may refer to https://zub.pub/page/dn42 for details.
+mnt-by:             RUBICK-MNT
+source:             DN42

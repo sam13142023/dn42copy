@@ -1,0 +1,9 @@
+mntner:             RUBICK-MNT
+admin-c:            RUBICK-DN42
+tech-c:             RUBICK-DN42
+mnt-by:             RUBICK-MNT
+source:             DN42
+auth:               pgp-fingerprint E7D97C1287907441F1A8599115A6FCCCCCCCCCCC
+auth:               pgp-fingerprint 8CFDF877207CBB3F5B578D531EACE66666666666
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIORw4r8L6gEqoYVx+KqIqf5xkB3gGvxLfpTGpQpm+2Z5
+remarks:            ssh sha256 is SHA256:R8vtwOzdH6hw4f2JEOoAbeqVrOz9JNH0X48q8Q+tchI
