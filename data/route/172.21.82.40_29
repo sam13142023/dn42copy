@@ -1,0 +1,5 @@
+route:              172.21.82.40/29
+descr:              Qyn's IP space
+origin:             AS4242422463
+mnt-by:             QYN-MNT
+source:             DN42
