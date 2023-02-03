@@ -14,25 +14,53 @@
 
 usage()
 {
-    echo "Usage: $0 [options] MNTNER"
-    echo 'Generic options:'
-    echo ' --pgp,    sign using your PGP key'
-    echo ' --ssh,    sign using your ssh key'
-    echo ' --push,   force push result'
-    echo ' --verify, check existing signature is correct'
-    echo ' --commit, verify this specific commit'
-    echo ' --help,   display this message'
-    echo 'SSH specific options:'
-    echo ' --key,    (required for signing) specify SSH private key file to use (public key file for signing via ssh-agent)'
+    cat <<EOF
+
+This script can automatically sign commits using supported SSH or PGP 
+authentication methods. Remember to push the new signature to the server
+after signing (using 'git push --force' or the --push option).
+
+The script will attempt to use the first available auth method, or you
+can force it to use PGP or SSH methods with the relevant options.
+
+For SSH signatures the script may be able to find your key via ssh-agent
+otherwise you must use the --key option to tell it which key to use.
+
+Usage: $0 [options] YOUR-MNTNER-MNT
+
+Generic options:
+  --pgp,             force signature to use a PGP key
+  --ssh,             force signature to use an SSH key
+  --push,            force push the result after signature and verification
+  --verify,          check an existing signature on the latest commit
+  --commit <hash>,   check the signature on a specific commit
+  --help,            display this message
+
+PGP specific options:
+  --print <fprint>,  specify fingerprint of GPG key to use if you 
+                     don't want to use the first available key
+
+SSH specific options:
+  --key <file>,      specify SSH key file to use if not using ssh-agent
+                     or want to use a different key than the first available
+                     (this can be a public or private keyfile)
+  --method <type>,   either 'git' or 'comment' to force SSH signatures
+                     to use a specific method, defaults to 'git'
+
+EOF
+
 }
 
 ##########################################################################
 # defaults
 
 DO_PUSH=0
+DO_SQUASH=1
 AUTH_METHOD=''
 MNTNER=''
 SSH_KEYFILE=''
+SSH_METHOD='git'
+GPG_PRINT=''
 VERIFY_ONLY=0
 COMMIT_SHA=''
 
@@ -52,16 +80,28 @@ do
         --push)
             DO_PUSH=1
             ;;
-        --key)
-            shift
-            SSH_KEYFILE="$1"
+        --no-squash)
+            DO_SQUASH=0
             ;;
         --verify)
             VERIFY_ONLY=1
             ;;
         --commit)
             shift
+            VERIFY_ONLY=1
             COMMIT_SHA="$1"
+            ;;
+        --key)
+            shift
+            SSH_KEYFILE="$1"
+            ;;
+        --method)
+            shift
+            SSH_METHOD="$1"
+            ;;
+        --print)
+            shift
+            GPG_PRINT="$1"
             ;;
         --help)
             usage
@@ -72,8 +112,8 @@ do
             then
                 MNTNER=$1
             else
-                echo "ERROR: Unknown option: $1"
-                usage
+                >&2 echo "ERROR: Unknown option: $1"
+                >&2 usage
                 exit 1
             fi
             ;;
@@ -84,14 +124,32 @@ do
 done
 
 ##########################################################################
-# initial sanity checks
+# perform some initial sanity checks
+
+# check working directory
+if [ ! -d '.git' ] && [ ! -d 'data/mntner' ]
+then
+    >&2 echo "ERROR: This script must be run in the root directory of a registry clone"
+    exit 1
+fi
+
+# fill in the last commit if it wasn't specified already
+if [ -z "$COMMIT_SHA" ]
+then
+    COMMIT_SHA=$(git log -n 1 --format=format:%H)
+fi
+
+# reset local git configuration
+git config --local --unset gpg.format
+git config --local --unset user.signingkey
+git config --local --unset gpg.ssh.allowedSignersFile
 
 # if verifying only, try to guess some info from the existing sig
 if [ "$VERIFY_ONLY" -eq 1 ]
 then
     if [ -z "$MNTNER" ]
     then
-        MNTNER=$(git log ${COMMIT_SHA} -n 1 --format=format:%B | \
+        MNTNER=$(git log "$COMMIT_SHA" -n 1 --format=format:%B | \
                      grep '^### mntner:' | \
                      cut -d':' -f2 | tr -d ' ')
         if [ -n "$MNTNER" ]
@@ -102,7 +160,7 @@ then
 
     if [ -z "$AUTH_METHOD" ]
     then
-        AUTH_METHOD=$(git log ${COMMIT_SHA} -n 1 --format=format:%B | \
+        AUTH_METHOD=$(git log "$COMMIT_SHA" -n 1 --format=format:%B | \
                           grep '^### method:' | \
                           cut -d':' -f2 | tr -d ' ')
         if [ -n "$AUTH_METHOD" ]
@@ -121,77 +179,134 @@ fi
 
 if [ ! -f "data/mntner/${MNTNER}" ]
 then
-    echo "ERROR: mntner '${MNTNER}' not found"
+    >&2 echo "ERROR: mntner '${MNTNER}' not found"
     exit 1
 fi
 
+# figure out the git version
+gitv_major=$(git --version | cut -d' ' -f3 | cut -d'.' -f1)
+gitv_minor=$(git --version | cut -d'.' -f2)
+
+# the script needs at least git 2.5
+if { [ "$gitv_major" -eq 2 ] && [ "$gitv_minor" -lt 5 ]; } || \
+       [ "$gitv_major" -lt 2 ]
+then
+    >&2 echo "ERROR: This script requires a git version 2.5"
+    >&2 echo "---"
+    >&2 git --version
+    exit 1
+fi
+
+# if signing, check the repo is ready
 if [ "$VERIFY_ONLY" -ne 1 ]
 then
 
     # check for untracked or uncommitted changes
     if [ -n "$(git status --porcelain)" ]
     then
-        echo "ERROR: git worktree has unstaged or uncommitted changes"
-        echo "This script can only be run once your commit is completed"
-        echo "---"
-        git status
+        >&2 echo "ERROR: git worktree has unstaged or uncommitted changes"
+        >&2 echo "This script can only be run once your commit is completed"
+        >&2 echo "---"
+        >&2 git status
         exit 1
     fi
     
     # check that the commit has been squashed
-    ./squash-my-commits --verify 
-    if [ $? -ne 0 ]
+    if [ "$DO_SQUASH" -eq 1 ]
     then
-        echo "ERROR: Ensure your commits are squashed before signing"
-        echo "Run the included script: ./squash-my-commits"
-        exit 1
+        if ! ./squash-my-commits --verify
+        then
+            >&2 echo "ERROR: Ensure your commits are squashed before signing"
+            >&2 echo "Run the included script: ./squash-my-commits"
+            exit 1
+        fi
     fi
     
     # check for an existing signature
-    git log -n 1 --format=format:%B 2>&1 | grep '^### DN42 Signature' > /dev/null
-    if [ $? -eq 0 ]
+    if git log -n 1 --format=format:%B 2>&1 | grep '^### DN42 Signature' > /dev/null
     then
-        echo "ERROR: The last commit appears to already be signed"
-        echo "---"
-        git log -n 1 --show-signature
+        >&2 echo "ERROR: The last commit appears to already be signed"
+        >&2 echo "---"
+        >&2 git log -n 1 --show-signature
         exit 1
     fi
     
 fi
 
 ##########################################################################
-# helper functions
+# helper functions 
 
-guess_auth_method()
+# guess a signature method based on the first auth attribute in a MNTNER
+guess_mntner_method()
 {
-    # look for the first auth method in the mntner object
-    method=$(grep '^auth' "data/mntner/${MNTNER}" | \
-                 head -n 1 | tr -s ' ' | cut -d' ' -f2 | cut -d'-' -f1)
-    # didn't find anything ?
-    if [ -z "$method" ]
-    then
-        echo "Unable to find mntner auth method for ${MNTNER}"
-        echo "Try specifying the method manually"
-        usage
-        exit 1
-    fi
-
+    method=$(grep '^auth:' "data/mntner/${MNTNER}" | head -n 1 | cut -c21- | cut -d' ' -f1)
     case "$method" in
-        pgp)
-            AUTH_METHOD='pgp'
+        pgp-fingerprint|PGPKEY-*)
+            echo 'pgp'
             ;;
-        PGPKEY)
-            AUTH_METHOD='pgp'
+        ssh-*|sk-ssh-*|ecdsa-*|sk-ecdsa-*)
+            echo "ssh"
             ;;
-        ssh)
-            AUTH_METHOD='ssh'
+        '')
+            >&2 echo "ERROR: Unable to find any auth attributes for $MNTNER"
+            exit 1
             ;;
         *)
-            echo "ERROR: Auth method is unknown or unimplemented"
+            >&2 echo "ERROR: Unknown or unimplemented auth method '$method'"
+            >&2 echo 'Check the auth attribute is actually supported '
+            >&2 echo 'or specify the signature type manually.'
             exit 1
+            ;;
     esac
 }
 
+##########################################################################
+#
+# PGP Section - functions for signing and verify PGP signatures
+#
+##########################################################################
+# PGP Helper functions
+
+# create a list of authorised PGP fingerprints
+get_pgp_prints()
+{
+    pgp_prints=$(mktemp)
+
+    # cut auth methods from mntner
+    grep '^auth:' "data/mntner/${MNTNER}" | cut -c21- | \
+        while read -r auth_method auth_data
+        do
+            case "$auth_method" in
+                pgp-fingerprint)
+                    # use the fingerprint directly
+                    echo "$auth_data" | \
+                        tr '[:lower:]' '[:upper:]' >> "$pgp_prints"
+                    ;;
+                PGPKEY-*)
+                    if [ ! -f "data/key-cert/$auth_method" ]
+                    then
+                        >&2 echo "ERROR: failed to find key-cert object: $auth_method"
+                        rm "$pgp_prints"
+                        exit 1
+                    fi
+                    
+                    # get the fingerprint from key-cert file
+                    grep '^fingerpr:' "data/key-cert/$auth_method" | \
+                        cut -c21- | tr -d ' ' | \
+                        tr '[:lower:]' '[:upper:]' >> "$pgp_prints"
+                    ;;
+            esac
+        done
+
+    if [ ! -s "$pgp_prints" ]
+    then
+        >&2 echo "ERROR: failed to find any pgp fingerprints for $MNTNER"
+        rm "$pgp_prints"
+        exit 1
+    fi
+
+    echo "$pgp_prints"
+}
 
 ##########################################################################
 # PGP signing function
@@ -199,14 +314,27 @@ guess_auth_method()
 sign_pgp()
 {
     # check first if there is already a signature
-    git log -n 1 --show-signature | grep "^gpg" > /dev/null 2>&1
-    if [ $? -eq 0 ]
+    if git log -n 1 --show-signature | grep "^gpg" > /dev/null 2>&1
     then
-        echo "ERROR: The last commit appears to already be signed."
-        echo "---"
-        git log -n 1 --show-signature
+        >&2 echo "ERROR: The last commit appears to already be signed."
+        >&2 echo "---"
+        >&2 git log -n 1 --show-signature
         exit 1
     fi
+
+    # if the fingerprint wasn't specified, obtain from the MNTNER
+    if [ -z "$GPG_PRINT" ]
+    then
+        pgp_prints=$(get_pgp_prints)
+        GPG_PRINT=$(head -n 1 "$pgp_prints")
+        rm "$pgp_prints"
+    fi
+
+    echo "PGP signing using fingerprint: $GPG_PRINT"
+
+    # configure local git for pgp signing
+    git config --local --unset gpg.format
+    git config --local user.signingKey "$GPG_PRINT"
 
     # create a new comment with some additional metadata
     comment="$(git log -n 1 --format=format:%B)
@@ -217,19 +345,14 @@ sign_pgp()
 "
 
     # PGP signing is straightforward
-    git commit --amend --no-edit -S -m "$comment"
-
-    # assuming it's actually configured properly ....
-    if [ $? -ne 0 ]
+    if ! git commit --amend --no-edit -S -m "$comment"
     then
-        echo "ERROR: failed to sign commit"
-        echo "Have you configured git with your PGP key ?"
-        echo "For example, to configure your key globally:"
-        echo " - Find your key using: gpg --list-keys"
-        echo " - Then add it to git:  " \
-             "git config --global user.signingkey <FPRINT>"
+        >&2 echo "ERROR: failed to sign commit"
         exit 1
     fi
+
+    # update the COMMIT_SHA for the verification phase
+    COMMIT_SHA=$(git log -n 1 --format=format:%H)
 }
 
 ##########################################################################
@@ -239,128 +362,375 @@ verify_pgp()
 {
     echo "Verifying PGP signature"
 
-    # find the current commit hash
-    hash=$(git log ${COMMIT_SHA} -n 1 --format=format:%H)
-
     # requires git 2.5
-    git verify-commit "$hash"
-    if [ $? -ne 0 ]
+    if ! git verify-commit "$COMMIT_SHA"
     then
-        echo "ERROR: failed to verify PGP signature"
+        >&2 echo "ERROR: failed to verify PGP signature"
         exit 1
     fi
     echo " - PGP signature verified ok"
 
+    # create a list of authorised pgp fingerprints
+    valid_prints=$(get_pgp_prints)
+
     # extract the fingerprint of the key that was successful
-    prints=$(git verify-commit --raw "$hash" 2>&1 | \
+    prints=$(git verify-commit --raw "$COMMIT_SHA" 2>&1 | \
                  grep "VALIDSIG" | cut -f3,12 -d' ')
     for print in $prints
     do
-        grep "^auth" data/mntner/${MNTNER} | grep -i $print > /dev/null 2>&1
-        if [ $? -eq 0 ]
+        if grep "$print" "$valid_prints" > /dev/null 2>&1
         then
-            echo " - matched with auth attribute for $MNTNER"
+            echo "Matched fingerprint with auth attribute for $MNTNER"
             echo "Successfully verified PGP signature"
+            rm "$valid_prints"
             return
         fi
     done
 
-    echo "ERROR: unable to match key fingerprint with mntner: $MNTNER"
+    >&2 echo "ERROR: unable to match key fingerprint with mntner: $MNTNER"
+    rm "$valid_prints"    
     exit 1
+}
+
+
+##########################################################################
+#
+# SSH Section - functions for signing and verify SSH signatures
+#
+##########################################################################
+# SSH helper functions
+
+# return only ssh auth methods for mntner
+filter_ssh_auths()
+{
+    grep '^auth:' "data/mntner/${MNTNER}" | cut -c21- | \
+        while read -r line
+        do
+            case "$line" in
+                ssh-*|sk-ssh-*|ecdsa-*|sk-ecdsa-*)
+                    echo "$line"
+                    ;;
+            esac
+        done        
+}
+
+# create an allowed signers file using the mntner auth attributes
+get_allowed_signers()
+{
+    allowed=$(mktemp)
+    filter_ssh_auths | sed "s/^/${MNTNER} /" > "$allowed"
+    echo "$allowed"
+}
+
+# try and find a suitable keyfile that we can sign with
+check_keyfile()
+{
+    pubkeyfile=''
+    
+    # guess the public key if a keyfile wasn't specified
+    if [ -z "$SSH_KEYFILE" ]
+    then
+        pubkeyfile=$(mktemp)
+
+        echo "Obtaining public key from $MNTNER auth attributes"
+
+        # get the public key from mntner auth records
+        filter_ssh_auths | head -n 1 > "$pubkeyfile"
+        if [ ! -s "$pubkeyfile" ]
+        then
+            >&2 echo "ERROR: Unable to auto determine SSH public key"
+            >&2 echo "Try specifying the key directly using --key"
+            rm "$pubkeyfile"
+            exit 1
+        fi        
+        
+        # check if the pubkey is available in agent
+        pubkey=$(tr -s ' ' < "$pubkeyfile" | cut -d' ' -f1,2)
+        if ssh-add -L | grep "^$pubkey" > /dev/null 2>&1
+        then
+            # key was found in agent ok
+            SSH_KEYFILE="$pubkeyfile"
+        else
+            # no key found in agent, clean up the keyfile first
+            rm "$pubkeyfile"
+            pubkeyfile=''
+            
+            if [ -d "${HOME}/.ssh" ]
+            then
+                # as a last resort, try scanning the 'usual' ssh
+                # directory to find the key in there
+                
+                SSH_KEYFILE=$(grep -l "^$pubkey" "${HOME}"/.ssh/*.pub)
+            fi                    
+
+            if [ -n "$SSH_KEYFILE" ]
+            then
+                >&2 echo "Found SSH key in: $SSH_KEYFILE"
+            else
+                # all attempts failed
+                >&2 cat <<EOF
+ERROR: Unable to identify public key in ssh-agent or home directory
+- When auto detecting the public key from you mntner object it
+- is required that the private key is available in ssh-agent or
+- in your ${HOME}/.ssh/ directory.
+- Please add your key to ssh-agent or use the --key option to 
+- specify where the private key is directly.
+---
+Pubkey: $pubkey
+EOF
+                exit 1
+            fi
+        fi
+    fi
+
+    # try to validate the public key
+    if ! pubkey=$(ssh-keygen -l -f "$SSH_KEYFILE")
+    then
+        >&2 echo "ERROR: $SSH_KEYFILE doesn't look like a valid SSH key"
+        >&2 echo "Try specifying the public or private key directly using --key"
+        >&2 echo "File contents:"
+        >&2 cat "$SSH_KEYFILE"
+        if [ -n "$pubkeyfile" ]; then rm "$pubkeyfile"; fi
+        exit 1
+    fi
+
+    echo "Using: $pubkey"    
 }
 
 ##########################################################################
 # SSH signing function
 
-sign_ssh()
+# SSH signature using git signatures
+sign_ssh_git()
 {
-    # check for ssh-keygen signing capability
-    ssh-keygen -Y sign 2>&1 | grep 'missing namespace' > /dev/null
-    if [ $? -ne 0 ]
-    then
-        echo "ERROR: This script requires the key signing capability " \
-             "from OpenSSH ssh-keygen > version 8"
-        echo "---"
-        ssh -V
-        exit 1
-    fi
-
-    if [ -z "$SSH_KEYFILE" ]
-    then
-        echo "ERROR: You must specify your SSH private key " \
-             "using --key"
-        exit 1
-    fi
+    check_keyfile
     
-    # find the current commit hash
-    hash=$(git log -n 1 --format=format:%H)
+    # configure local git signing
+    git config --local gpg.format ssh
+    git config --local user.signingKey "$SSH_KEYFILE"
 
+    # create a new comment with some additional metadata
+    comment="$(git log -n 1 --format=format:%B)
+
+### DN42 Signature
+### method: ssh-git
+### mntner: $MNTNER
+"
+
+    # the signature is now straightforward
+    git commit --amend --no-edit -S -m "$comment"
+    result=$?
+
+    # clean up pubkeyfile first
+    if [ -n "$pubkeyfile" ]; then rm "$pubkeyfile"; fi
+
+    # was there an error ?
+    if [ "$result" -ne 0 ]
+    then
+        >&2 echo "ERROR: failed to sign commit"
+        >&2 echo " - Try specifying your key using --key"
+        >&2 echo " - or adding your key to ssh-agent"
+        exit 1
+    fi
+
+    # update the COMMIT_SHA for the verification phase
+    COMMIT_SHA=$(git log -n 1 --format=format:%H)
+}
+
+
+# SSH signature by adding in to the comment
+sign_ssh_comment()
+{
+    check_keyfile
+    
     # create the signature
-    sig=$(echo "$hash" | ssh-keygen -Y sign -n dn42 -f "$SSH_KEYFILE")
+    sig=$(echo "$COMMIT_SHA" | \
+              ssh-keygen -Y sign -n dn42 -f "$SSH_KEYFILE")
+    result=$?
 
+    # clean up pubkeyfile first
+    if [ -n "$pubkeyfile" ]; then rm "$pubkeyfile"; fi
+
+    # check for errors
+    if [ "$result" -ne 0 ]
+    then
+        >&2 echo "ERROR: ssh-keygen signing failed"
+        >&2 echo " - Try specifying your key using --key"
+        >&2 echo " - or adding the key to ssh-agent"
+        if [ -n "$pubkeyfile" ]; then rm "$pubkeyfile"; fi        
+        exit 1
+    fi
+
+    # create a comment including the signature
     comment="$(git log -n 1 --format=format:%B)
 
 ### DN42 Signature
 ### method: ssh
 ### mntner: $MNTNER
-### text: $hash 
+### text: $COMMIT_SHA
 $sig
 "
 
     # update the commit with the sig
     git commit --amend --no-edit -m "$comment"
+
+    # update the COMMIT_SHA for the verification phase
+    COMMIT_SHA=$(git log -n 1 --format=format:%H)
+}
+
+sign_ssh()
+{
+    # check for ssh-keygen signing capability
+    if ! ssh-keygen -Y sign 2>&1 | grep 'missing namespace' > /dev/null
+    then
+        >&2 cat <<EOF
+ERROR: This script requires the key signing capability from 
+OpenSSH ssh-keygen that was introduced in version 8.
+
+If you are unable to upgrade ssh-keygen you must use one of the
+manual signing methods detailed in the dn42 wiki:
+
+https://dn42.dev/howto/Registry-Authentication
+
+---
+EOF
+        >&2 ssh -V
+        exit 1
+    fi
+
+    # if we have git >= 2.34 the commit can be git signed
+    if [ "$SSH_METHOD" != "comment" ]
+    then
+        if { [ "$gitv_major" -eq 2 ] && [ "$gitv_minor" -ge 34 ]; } || \
+               [ "$gitv_major" -gt 2 ]
+        then
+            echo "Detected git version >= 2.34, using git SSH signature"
+            sign_ssh_git
+            return
+        else
+            echo "Detected git version < 2.34, cannot sign using git"
+        fi
+    fi
+    
+    echo "Defaulting to comment based signature"
+    sign_ssh_comment
 }
 
 ##########################################################################
 # verify SSH signature
 
-verify_ssh()
+# verify a git based SSH signature
+verify_ssh_git()
 {
-    echo "Verifying SSH signature"
+    echo "Verifying SSH signature in git"
 
-    # create a temporary files for the 'allowed' keys file and signature
-    afile=$(mktemp)
-    sfile=$(mktemp)
-    
-    # extract and reformat the temp keys in to the allowed file
-    grep '^auth' "data/mntner/${MNTNER}" | tr -s ' ' | cut -d' ' -f2- | \
-        grep '^ssh-' | sed "s/^/${MNTNER} /" > "$afile"
+    # check git version
+    if { [ "$gitv_major" -eq 2 ] && [ "$gitv_minor" -lt 34 ]; } || \
+           [ "$gitv_major" -lt 2 ]
+    then
+        >&2 echo "Detected git version < 2.34, unable to verify git signatures"
+        >&2 echo "- Upgrade git to at least version 2.34"
+        exit 1
+    fi
 
-    # extract the signed text from the git comment
-    text=$(git log ${COMMIT_SHA} -n 1 --format=format:%B | grep '^### text:' |
-               cut -d':' -f2 | tr -d ' ')
+    # create an allowed signers file and configure it in git
+    allowed=$(get_allowed_signers)
+    git config --local gpg.ssh.allowedSignersFile "$allowed"
 
-    # extract the SSH signature from the comment
+    # signature can now be verified similar to pgp case
+
+    # find the current commit hash
+    git verify-commit "$COMMIT_SHA"
+    result=$?
+
+    # clean up allowed signers file before doing anything else
+    git config --local --unset gpg.ssh.allowedSignersFile
+    rm "$allowed"            
+
+    # did the signature successfully validate ?
+    if [ "$result" -ne 0 ]
+    then
+        >&2 echo "ERROR: failed to verify SSH signature"
+        exit 1
+    fi
+
+    echo "SSH signature verified ok"
+}
+
+# verify a comment based SSH signature
+verify_ssh_comment()
+{
+    echo "Verifying SSH signature comment"
+
+    # create the allowed signers file
+    allowed=$(get_allowed_signers)
+
+    # extract the text that was signed from the git comment
+    text=$(git log "$COMMIT_SHA" -n 1 --format=format:%B | \
+               grep '^### text:' | cut -d':' -f2 | tr -d ' ')
+
+    # also extract the SSH signature from the comment
+    signature=$(mktemp)
     begin="-----BEGIN SSH SIGNATURE-----"
     end="-----END SSH SIGNATURE-----"
-    git log ${COMMIT_SHA} -n 1 --format=format:%B | \
-        sed "/^$begin\$/,/^$end\$/!d" > "$sfile"
-
-    # and finally verify
-    echo "$text" | ssh-keygen -Y verify -f "$afile" \
-                              -n dn42 -I $MNTNER -s "$sfile"
-    # grab the result and then clean up
+    git log "$COMMIT_SHA" -n 1 --format=format:%B | \
+        sed "/^$begin\$/,/^$end\$/!d" > "$signature"
+    
+    # now we can verify the signature
+    echo "$text" | ssh-keygen -Y verify -f "$allowed" \
+                              -n dn42 -I "$MNTNER" -s "$signature"
+    # grab the result and clean up before doing anything else
     result=$?
-    rm -f "$afile" "$sfile"
+    rm "$allowed" "$signature"
 
     # did it work ?
-    if [ $result -eq 0 ]
+    if [ "$result" -eq 0 ]
     then
         echo "Successfully verified SSH sigature"
     else
-        echo "ERROR: signature verification failed"
+        >&2 echo "ERROR: signature verification failed"
         exit 1
-    fi
+    fi    
 }
 
+# SSH verify wrapper
+verify_ssh()
+{
+    # determine signature type from log comment
+    method=$(git log "$COMMIT_SHA" -n 1 --format=format:%B | \
+                 grep '^### method:' | cut -d':' -f2 | tr -d ' ')
+    case "$method" in
+        'ssh')
+            verify_ssh_comment
+            ;;
+        'ssh-git')
+            verify_ssh_git
+            ;;
+        '')
+            echo "WARNING: No dn42 signature found, attempting git based verification"
+            verify_ssh_git
+            ;;
+        *)
+            >&2 echo "ERROR: commit does not appear to be signed by SSH"
+            >&2 echo "Found signature method: $method"
+            exit 1
+            ;;
+    esac
+}    
 
 ##########################################################################
-# body of the script starts here
+#
+# Script body - the script resumes here
+#
+##########################################################################
 
 if [ -z "$AUTH_METHOD" ]
 then
-    echo "Attempting to guess auth method from the mntner object"
-    guess_auth_method
+    if [ "$VERIFY_ONLY" -ne 1 ]
+    then
+        echo "Attempting to guess signature method from mntner object"
+        AUTH_METHOD=$(guess_mntner_method)
+    fi
 fi
 
 # decide what to do
@@ -372,19 +742,25 @@ case "$AUTH_METHOD" in
             sign_pgp
         fi
         verify_pgp
-    ;;
-    ssh)
+        ;;
+    ssh|ssh-git)
         if [ "$VERIFY_ONLY" -ne 1 ]
         then
             echo "Signing using SSH key"
             sign_ssh
         fi
         verify_ssh
-    ;;
-    *)
-        echo "ERROR: Unknown or unimplemented auth method: $AUTH_METHOD"
+        ;;
+    '')
+        >&2 echo "ERROR: Unable to automatically determine signing method"
+        >&2 echo "Use the --ssh or --pgp options to force a particular method"
         exit 1
-    ;;
+        ;;
+    *)
+        >&2 echo "ERROR: Unknown or unimplemented auth method: $AUTH_METHOD"
+        >&2 echo "Use the --ssh or --pgp options to force a particular method"
+        exit 1
+        ;;
 esac
 
 ##########################################################################
@@ -401,7 +777,9 @@ then
     echo 'Force pushing changes'
     git push --force
 else
+    echo '---'
     echo 'Remember to push your changes using: git push --force'
+    echo '---'    
 fi
 
 exit 0
