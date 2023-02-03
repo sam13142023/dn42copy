@@ -1,0 +1,12 @@
+inetnum:            172.20.165.192 - 172.20.165.223
+cidr:               172.20.165.192/27
+netname:            RUBICK-IPV4
+descr:              Rubick's IPV4 space
+remarks:            My network is open to peering; see https://zub.pub/page/dn42
+remarks:            or directly contact me at rubick@zub.pub
+country:            HK
+admin-c:            RUBICK-DN42
+tech-c:             RUBICK-DN42
+mnt-by:             RUBICK-MNT
+status:             ASSIGNED
+source:             DN42

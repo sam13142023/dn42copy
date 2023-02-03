@@ -1,0 +1,10 @@
+inet6num:           fddd:e0b7:de92:0000:0000:0000:0000:0000 - fddd:e0b7:de92:ffff:ffff:ffff:ffff:ffff
+netname:            RUBICK-IPV6
+descr:              Rubick's IPV6 space
+country:            HK
+admin-c:            RUBICK-DN42
+tech-c:             RUBICK-DN42
+mnt-by:             RUBICK-MNT
+status:             ASSIGNED
+cidr:               fddd:e0b7:de92::/48
+source:             DN42
