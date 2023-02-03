@@ -1,0 +1,5 @@
+route6:             fd32:5063:40c2:ea0a::/64
+descr:              Qyn's IP space
+origin:             AS4242422463
+mnt-by:             QYN-MNT
+source:             DN42

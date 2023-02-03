@@ -1,0 +1,10 @@
+inet6num:           fd32:5063:40c2:ea0a:0000:0000:0000:0000 - fd32:5063:40c2:ea0a:ffff:ffff:ffff:ffff
+netname:            QYN-IPV6
+descr:              Qyn's IP space
+country:            CN
+admin-c:            QYN-DN42
+tech-c:             QYN-DN42
+mnt-by:             QYN-MNT
+status:             ASSIGNED
+cidr:               fd32:5063:40c2:ea0a::/64
+source:             DN42
