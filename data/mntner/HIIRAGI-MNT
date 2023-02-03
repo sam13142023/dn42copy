@@ -2,5 +2,5 @@ mntner:             HIIRAGI-MNT
 admin-c:            HIIRAGI-DN42
 tech-c:             HIIRAGI-DN42
 mnt-by:             HIIRAGI-MNT
-auth:               gpg-fingerprint 1B7851506912F45002CBF782EF5F233F68B5A12B
+auth:               pgp-fingerprint 1B7851506912F45002CBF782EF5F233F68B5A12B
 source:             DN42

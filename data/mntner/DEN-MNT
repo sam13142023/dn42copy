@@ -2,6 +2,7 @@ mntner:             DEN-MNT
 descr:              DEN DN42 Network Maintainer
 admin-c:            DEN-DN42
 tech-c:             DEN-DN42
+remarks:            Registry Maintenance: Irregular or legacy auth method
 auth:               from-git-repo https://git.dn42/billessig/registry.git
 mnt-by:             DEN-MNT
 source:             DN42

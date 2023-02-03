@@ -3,4 +3,4 @@ admin-c:            MODZILLA-DN42
 tech-c:             MODZILLA-DN42
 mnt-by:             MODZILLA-MNT
 source:             DN42
-auth:               pgp fingerprint AC5B4A31B7FBF8B8DC0ABB2281BF3E765C0B92D2
+auth:               pgp-fingerprint AC5B4A31B7FBF8B8DC0ABB2281BF3E765C0B92D2

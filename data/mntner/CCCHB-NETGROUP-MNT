@@ -1,4 +1,5 @@
 mntner:             CCCHB-NETGROUP-MNT
+remarks:            Registry Maintenance: Irregular or legacy auth method
 auth:               MTN-FRITZ
 auth:               PGPKEY-758AF1B8
 admin-c:            FRITZ-DN42

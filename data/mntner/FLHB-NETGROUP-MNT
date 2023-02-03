@@ -1,6 +1,8 @@
 mntner:             FLHB-NETGROUP-MNT
+remarks:            Registry Maintenance: Irregular or legacy auth method
 auth:               MTN-FRITZ
 auth:               PGPKEY-758AF1B8
+remarks:            Registry Maintenance: Irregular or legacy auth method
 auth:               MTN-FLHB-NETGROUP
 admin-c:            FRITZ-DN42
 admin-c:            PYROPETER-DN42
