@@ -1,0 +1,10 @@
+inet6num:           fd9a:76c0:fe64:0000:0000:0000:0000:0000 - fd9a:76c0:fe64:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9a:76c0:fe64::/48
+netname:            NANAMINAKANO-DN42-V6
+descr:              NanamiNakano DN42 Network IPv6 Block
+country:            CN
+admin-c:            NANAMINAKANO-DN42
+tech-c:             NANAMINAKANO-DN42
+mnt-by:             NANAMINAKANO-MNT
+status:             ASSIGNED
+source:             DN42
