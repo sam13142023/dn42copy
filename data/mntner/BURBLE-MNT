@@ -3,7 +3,8 @@ descr:              burble.dn42 https://dn42.burble.com/
 admin-c:            BURBLE-DN42
 tech-c:             BURBLE-DN42
 auth:               pgp-fingerprint 1C08F282095CCDA432AECC657B9FE8780CFB6593
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEHX0ACN/GQbC5z0kSjK+XNfUqFeV7sy+QMtVABNkcKU
+auth:               sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIFBuXyDHDxD5ota5Q6HvUbudmVIU8mqPTt+pnCnauvGjAAAACXNzaDpiZG40Mg== burble@dn42/kaus
+auth:               sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIA/LGDXapM5ScZclCgyF5R36ukO34mE3X0L1ZaTU7BAaAAAACXNzaDpiZG40Mg== burble@dn42/sargas
 remarks:            pin-sha256:wvRr/PBVJzuHVpVOhP4Uqi324nYIixppDXIRas4jd8s=
 mnt-by:             BURBLE-MNT
 source:             DN42
