@@ -1,0 +1,9 @@
+inetnum:            172.23.79.96 - 172.23.79.127
+cidr:               172.23.79.96/27
+netname:            NANAMINAKANO-DN42-V4
+country:            CN
+admin-c:            NANAMINAKANO-DN42
+tech-c:             NANAMINAKANO-DN42
+mnt-by:             NANAMINAKANO-MNT
+status:             ASSIGNED
+source:             DN42
