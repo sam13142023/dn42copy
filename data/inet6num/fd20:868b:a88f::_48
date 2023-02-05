@@ -1,0 +1,11 @@
+inet6num:           fd20:868b:a88f:0000:0000:0000:0000:0000 - fd20:868b:a88f:ffff:ffff:ffff:ffff:ffff
+netname:            FLOK-IP6NET
+descr:              vanheusden.com dn42 ipv6
+country:            NL
+admin-c:            FLOK-DN42
+tech-c:             FLOK-DN42
+zone-c:             FLOK-DN42
+mnt-by:             FLOK-MNT
+status:             ASSIGNED
+cidr:               fd20:868b:a88f::/48
+source:             DN42
