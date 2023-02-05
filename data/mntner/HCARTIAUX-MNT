@@ -1,0 +1,7 @@
+mntner:             HCARTIAUX-MNT
+admin-c:            HCARTIAUX-DN42
+tech-c:             HCARTIAUX-DN42
+mnt-by:             HCARTIAUX-MNT
+auth:               pgp-fingerprint 62C5D78FE715CF7CA974B5AF37183CEF550DF40B
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICtAyNLxu6GqPOLQutasE70tPMOSF+WS9LmK6kldYwPD
+source:             DN42

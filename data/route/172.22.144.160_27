@@ -1,0 +1,5 @@
+route:              172.22.144.160/27
+origin:             AS4242420263
+max-length:         27
+mnt-by:             HCARTIAUX-MNT
+source:             DN42
