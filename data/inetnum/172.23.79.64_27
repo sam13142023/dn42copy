@@ -1,0 +1,7 @@
+inetnum:            172.23.79.64 - 172.23.79.95
+cidr:               172.23.79.64/27
+country:            NL
+netname:            FLOK-NET
+mnt-by:             FLOK-MNT
+source:             DN42
+status:             ASSIGNED

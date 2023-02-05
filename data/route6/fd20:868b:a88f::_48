@@ -1,0 +1,6 @@
+route6:             fd20:868b:a88f::/48
+max-length:         48
+descr:              www.vanheusden.com dn42 ipv6
+origin:             AS4242423134
+mnt-by:             FLOK-MNT
+source:             DN42
