@@ -1,0 +1,9 @@
+domain:             hcartiaux.dn42
+admin-c:            HCARTIAUX-DN42
+tech-c:             HCARTIAUX-DN42
+mnt-by:             HCARTIAUX-MNT
+nserver:            ns1.hcartiaux.dn42 172.22.144.161
+nserver:            ns1.hcartiaux.dn42 fd35:7515:7d51:53::1
+nserver:            ns2.hcartiaux.dn42 172.22.144.162
+nserver:            ns2.hcartiaux.dn42 fd35:7515:7d51:53::2
+source:             DN42

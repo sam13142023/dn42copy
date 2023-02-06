@@ -1,0 +1,5 @@
+route6:             fd28:7515:7d51::/48
+origin:             AS4242420263
+max-length:         48
+mnt-by:             HCARTIAUX-MNT
+source:             DN42

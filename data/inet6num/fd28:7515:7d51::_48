@@ -1,0 +1,12 @@
+inet6num:           fd28:7515:7d51:0000:0000:0000:0000:0000 - fd28:7515:7d51:ffff:ffff:ffff:ffff:ffff
+cidr:               fd28:7515:7d51::/48
+netname:            HCARTIAUX-NETWORK
+descr:              Network of HCARTIAUX
+country:            FR
+admin-c:            HCARTIAUX-DN42
+tech-c:             HCARTIAUX-DN42
+mnt-by:             HCARTIAUX-MNT
+status:             ASSIGNED
+nserver:            ns1.hcartiaux.dn42
+nserver:            ns2.hcartiaux.dn42
+source:             DN42
