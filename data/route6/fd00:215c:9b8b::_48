@@ -1,0 +1,5 @@
+route6:             fd00:215c:9b8b::/48
+origin:             AS4242423676
+max-length:         48
+mnt-by:             SHUNI-MNT
+source:             DN42

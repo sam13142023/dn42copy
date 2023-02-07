@@ -1,0 +1,11 @@
+inet6num:           fd00:215c:9b8b:0000:0000:0000:0000:0000 - fd00:215c:9b8b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:215c:9b8b::/48
+netname:            SHUNI-NETWORK
+country:            DE
+admin-c:            SHUNI-DN42
+tech-c:             SHUNI-DN42
+mnt-by:             SHUNI-MNT
+status:             ASSIGNED
+nserver:            ns1.shuni.dn42
+nserver:            ns2.shuni.dn42
+source:             DN42

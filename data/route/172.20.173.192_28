@@ -1,0 +1,5 @@
+route:              172.20.173.192/28
+origin:             AS4242423676
+max-length:         28
+mnt-by:             SHUNI-MNT
+source:             DN42
