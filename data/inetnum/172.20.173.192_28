@@ -1,0 +1,11 @@
+inetnum:            172.20.173.192 - 172.20.173.207
+cidr:               172.20.173.192/28
+netname:            SHUNI-NETWORK
+country:            DE
+admin-c:            SHUNI-DN42
+tech-c:             SHUNI-DN42
+mnt-by:             SHUNI-MNT
+status:             ASSIGNED
+nserver:            ns1.shuni.dn42
+nserver:            ns2.shuni.dn42
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             SHUNI-MNT
+admin-c:            SHUNI-DN42
+tech-c:             SHUNI-DN42
+mnt-by:             SHUNI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICFbhkfgwDHAa1/N0weDaT6/hkRrKtv8Kdw1id8xUfM+
+source:             DN42

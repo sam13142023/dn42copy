@@ -1,0 +1,9 @@
+domain:             shuni.dn42
+admin-c:            SHUNI-DN42
+tech-c:             SHUNI-DN42
+mnt-by:             SHUNI-MNT
+nserver:            ns1.shuni.dn42 172.20.173.193
+nserver:            ns1.shuni.dn42 fd00:215c:9b8b:53::1
+nserver:            ns2.shuni.dn42 172.20.173.194
+nserver:            ns2.shuni.dn42 fd00:215c:9b8b:53::2
+source:             DN42
