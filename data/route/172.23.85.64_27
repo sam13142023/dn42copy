@@ -1,0 +1,5 @@
+route:              172.23.85.64/27
+origin:             AS4242422013
+max-length:         27
+mnt-by:             OWIN-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.85.64 - 172.23.85.95
+cidr:               172.23.85.64/27
+netname:            OWIN-NETWORK
+descr:              Network of Owin
+country:            US
+admin-c:            OWIN-DN42
+tech-c:             OWIN-DN42
+mnt-by:             OWIN-MNT
+status:             ASSIGNED
+source:             DN42
