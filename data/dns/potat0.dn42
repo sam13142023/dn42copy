@@ -2,11 +2,11 @@ domain:             potat0.dn42
 admin-c:            POTAT0-DN42
 tech-c:             POTAT0-DN42
 mnt-by:             POTAT0-MNT
-nserver:            us1.potat0.dn42 172.23.246.1
-nserver:            us1.potat0.dn42 fd2c:1323:4042::1
-nserver:            jp1.potat0.dn42 172.23.246.2
-nserver:            jp1.potat0.dn42 fd2c:1323:4042::2
-nserver:            no1.potat0.dn42 172.23.246.3
-nserver:            no1.potat0.dn42 fd2c:1323:4042::3
+nserver:            us1.potat0.dn42 172.23.246.3
+nserver:            us1.potat0.dn42 fd2c:1323:4042::3
+nserver:            jp1.potat0.dn42 172.23.246.4
+nserver:            jp1.potat0.dn42 fd2c:1323:4042::4
+nserver:            no1.potat0.dn42 172.23.246.5
+nserver:            no1.potat0.dn42 fd2c:1323:4042::5
 ds-rdata:           29004 13 2 28AFACEA2ACDA38340C7BFF8240FF971EC4803B0B766A1F33B1B4ACF 0EF56AED
 source:             DN42
