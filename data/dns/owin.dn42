@@ -1,0 +1,7 @@
+domain:             owin.dn42
+admin-c:            OWIN-DN42
+tech-c:             OWIN-DN42
+mnt-by:             OWIN-MNT
+nserver:            ns1.owin.dn42 172.23.85.69
+nserver:            ns2.owin.dn42 172.23.85.70
+source:             DN42
