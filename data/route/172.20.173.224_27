@@ -1,0 +1,4 @@
+route:              172.20.173.224/27
+origin:             AS4242421373
+mnt-by:             VITALIJUS-MNT
+source:             DN42
