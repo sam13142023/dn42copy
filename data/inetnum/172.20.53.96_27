@@ -3,6 +3,7 @@ cidr:               172.20.53.96/27
 descr:              Transfer Network
 netname:            KIOUBIT-NETWORK-TRANSFER
 nserver:            ns1.kioubit.dn42
+ds-rdata:           25606 13 2 ce96afe51e8ca8fae66bc2cdd2b20e5a8a4ca24a3afdcc58b842ce06baad78a7
 status:             ASSIGNED
 admin-c:            KIOUBIT-DN42
 tech-c:             KIOUBIT-DN42
