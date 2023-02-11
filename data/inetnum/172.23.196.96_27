@@ -1,0 +1,11 @@
+inetnum:            172.23.196.96 - 172.23.196.127
+netname:            XKRME-IPV4
+remarks:            Peer with me at xiaoke@kyuan.net
+descr:              Peer with me at xiaoke@kyuan.net
+country:            HK
+admin-c:            XKRME-DN42
+tech-c:             XKRME-DN42
+mnt-by:             XKRME-MNT
+status:             ASSIGNED
+cidr:               172.23.196.96/27
+source:             DN42
