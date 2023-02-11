@@ -1,0 +1,5 @@
+route:              172.23.196.96/27
+descr:              Peer with me at xiaoke@kyuan.net
+origin:             AS4242421733
+mnt-by:             XKRME-MNT
+source:             DN42
