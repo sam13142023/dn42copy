@@ -1,0 +1,8 @@
+inet6num:           fd13:71c2:235a:0000:0000:0000:0000:0000 - fd13:71c2:235a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd13:71c2:235a::/48
+netname:            VITALIJUS-IPV6
+admin-c:            VITALIJUS-DN42
+tech-c:             VITALIJUS-DN42
+mnt-by:             VITALIJUS-MNT
+status:             ASSIGNED
+source:             DN42

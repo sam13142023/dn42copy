@@ -1,0 +1,8 @@
+inetnum:            172.20.173.224 - 172.20.173.255
+cidr:               172.20.173.224/27
+netname:            VITALIJUS-IPV4
+admin-c:            VITALIJUS-DN42
+tech-c:             VITALIJUS-DN42
+mnt-by:             VITALIJUS-MNT
+status:             ASSIGNED
+source:             DN42
