@@ -3,7 +3,7 @@ descr:              Information about services: https://dn42.g-load.eu
 admin-c:            KIOUBIT-DN42
 tech-c:             KIOUBIT-DN42
 mnt-by:             KIOUBIT-MNT
-nserver:            ns1.kioubit.dn42 172.20.14.33
-nserver:            ns1.kioubit.dn42 fdcf:8538:9ad5:1111::1
+nserver:            ns1.kioubit.dn42 172.20.14.34
+nserver:            ns1.kioubit.dn42 fdcf:8538:9ad5:1111::2
 ds-rdata:           63337 13 2 7292d7707ca71abb1a68788680dd0c4aa8971df37e86498b740a9791a2a5cf5c
 source:             DN42
