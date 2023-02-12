@@ -2,6 +2,7 @@ inetnum:            172.20.14.32 - 172.20.14.63
 cidr:               172.20.14.32/27
 netname:            KIOUBIT-NETWORK
 nserver:            ns1.kioubit.dn42
+ds-rdata:           2371 13 2 880560be13ce2968fc8050631ef7f8c8de97883636b03dac66ac1564253c7660
 country:            GR
 status:             ASSIGNED
 admin-c:            KIOUBIT-DN42

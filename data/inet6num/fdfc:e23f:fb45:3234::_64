@@ -3,6 +3,7 @@ cidr:               fdfc:e23f:fb45:3234::/64
 descr:              Transfer Network
 netname:            KIOUBIT-NETWORK-IPV6-TRANSFER
 nserver:            ns1.kioubit.dn42
+ds-rdata:           13395 13 2 e0c55a04cf198d542f24ae9631ac8d10f8099731c4e4c1dae1a7ab113c873425
 status:             ASSIGNED
 admin-c:            KIOUBIT-DN42
 tech-c:             KIOUBIT-DN42
