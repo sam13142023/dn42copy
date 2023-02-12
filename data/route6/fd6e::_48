@@ -1,0 +1,5 @@
+route6:             fd6e::/48
+descr:              Yuzhen Network IPv6 Block
+origin:             AS4242422692
+mnt-by:             Q-MNT
+source:             DN42

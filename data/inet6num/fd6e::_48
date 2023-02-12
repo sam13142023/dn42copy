@@ -1,0 +1,11 @@
+inet6num:           fd6e:0000:0000:0000:0000:0000:0000:0000 - fd6e:0000:0000:ffff:ffff:ffff:ffff:ffff
+netname:            Q-IPV6
+descr:              Yuzhen Network IPv6 Block
+country:            CN
+admin-c:            Q-DN42
+mnt-by:             Q-MNT
+nserver:            ns.q.dn42
+status:             ASSIGNED
+cidr:               fd6e::/48
+remarks:            For details, please use `whois -h irr.q.dn42 <IP>`.
+source:             DN42

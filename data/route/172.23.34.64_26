@@ -1,0 +1,5 @@
+route:              172.23.34.64/26
+descr:              Yuzhen Network IPv4 Block
+origin:             AS4242422692
+mnt-by:             Q-MNT
+source:             DN42
