@@ -4,5 +4,6 @@ netname:            PUROFLE-NETWORK
 admin-c:            PUROFLE-DN42
 tech-c:             PUROFLE-DN42
 mnt-by:             PUROFLE-MNT
+nserver:            ns1.purofle.dn42
 status:             ASSIGNED
 source:             DN42

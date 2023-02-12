@@ -1,0 +1,8 @@
+domain:             purofle.dn42
+descr:              Purofle on dn42
+admin-c:            PUROFLE-DN42
+tech-c:             PUROFLE-DN42
+mnt-by:             PUROFLE-MNT
+nserver:            ns1.purofle.dn42 172.23.90.96
+nserver:            ns1.purofle.dn42 fd12:ab:d32:1::1
+source:             DN42
