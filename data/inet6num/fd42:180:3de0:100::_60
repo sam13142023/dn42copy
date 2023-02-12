@@ -5,7 +5,7 @@ mnt-by:             JRB0001-MNT
 mnt-by:             XUU-MNT
 mnt-by:             BURBLE-MNT
 nserver:            ns1.burble.dn42
-ds-rdata:           12105 13 2 62835302ba66838d4cca7a0079d2ba06f91c01a20d691552cff2db9a54550489
+ds-rdata:           4521 13 2 d3545257bdfa40102d106c8199339639e3d52af17f02e23da68814d25a184462
 status:             ASSIGNED PI
 cidr:               fd42:180:3de0:100::/60
 source:             DN42
