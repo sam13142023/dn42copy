@@ -3,4 +3,5 @@ admin-c:            XESXEN-DN42
 tech-c:             XESXEN-DN42
 mnt-by:             XESXEN-MNT
 auth:               pgp-fingerprint 2CE2E9D74776D96CD65AB0C96001AAE97C319893
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXvnz0lpu+oEwhzB5wA2rE47e3mXcS3btkNFtDoEgqzA28BWTUCc3apUizwyfe8Duro4IPwKR4G+3BEpgmi3syzIZJ3IqibSF5QYn8usIxFLYki/2bN40xd4Ea2kAxPbm/lDVUiC9yFYQBECL+kjAvW4n862DvUtiVEgMzpVItCaAa+UHH5WB6JHmTXgSqyuzW29azLbipKQ63Pc5KsAEGFcn+jknbtiSQHTScsc7Lz3dfYdiDzGrGUvIN/oP/W4e+ypu7R9KWyhk+P0OO2SJWI05y2o995vPwaNJnKBibSHCEn2huW7IEzQn1egNQfT9zzXkXUcPm1+KQouMWzQhz
 source:             DN42
