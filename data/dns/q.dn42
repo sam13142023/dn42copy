@@ -1,0 +1,7 @@
+domain:             q.dn42
+admin-c:            Q-DN42
+tech-c:             Q-DN42
+mnt-by:             Q-MNT
+nserver:            ns.q.dn42 172.23.34.65
+nserver:            ns.q.dn42 fd6e:0:0:1::1
+source:             DN42
