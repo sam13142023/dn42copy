@@ -1,0 +1,8 @@
+inetnum:            10.127.192.0 - 10.127.192.255
+cidr:               10.127.192.0/24
+netname:            AS-NEVLEZAY-DN42
+admin-c:            ALEXEY-BOLDYREV-NEONETWORK
+tech-c:             ALEXEY-BOLDYREV-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
