@@ -1,0 +1,4 @@
+route:              172.22.109.64/27
+origin:             AS4242420578
+mnt-by:             STEVELOCK-MNT
+source:             DN42

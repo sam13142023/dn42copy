@@ -1,0 +1,9 @@
+inet6num:           fdda:13d7:8d38:0000:0000:0000:0000:0000 - fdda:13d7:8d38:ffff:ffff:ffff:ffff:ffff
+cidr:               fdda:13d7:8d38::/48
+netname:            STEVELOCK-IPV6
+country:            US
+admin-c:            STEVELOCK-DN42
+tech-c:             STEVELOCK-DN42
+mnt-by:             STEVELOCK-MNT
+status:             ASSIGNED
+source:             DN42

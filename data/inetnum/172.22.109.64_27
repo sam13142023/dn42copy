@@ -1,0 +1,9 @@
+inetnum:            172.22.109.64 - 172.22.109.95
+netname:            STEVELOCK-IPV4
+country:            US
+admin-c:            STEVELOCK-DN42
+tech-c:             STEVELOCK-DN42
+mnt-by:             STEVELOCK-MNT
+status:             ASSIGNED
+cidr:               172.22.109.64/27
+source:             DN42

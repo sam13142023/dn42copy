@@ -1,0 +1,6 @@
+mntner:             STEVELOCK-MNT
+admin-c:            STEVELOCK-DN42
+tech-c:             STEVELOCK-DN42
+mnt-by:             STEVELOCK-MNT
+auth:               pgp-fingerprint A3229A6E4452BCC465F0ED1119FAE14DD79ACFD0
+source:             DN42

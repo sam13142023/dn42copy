@@ -1,0 +1,5 @@
+route6:             fdda:13d7:8d38::/48
+origin:             AS4242420578
+max-length:         48
+mnt-by:             STEVELOCK-MNT
+source:             DN42
