@@ -1,0 +1,6 @@
+route6:             fdee:c5:de42::/48
+mnt-by:             SEAS0-MNT
+origin:             AS4242422031
+admin-c:            SEAS0-DN42
+tech-c:             SEAS0-DN42
+source:             DN42

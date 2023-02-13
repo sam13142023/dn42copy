@@ -1,0 +1,9 @@
+inetnum:            172.20.218.64 - 172.20.218.95
+cidr:               172.20.218.64/27
+netname:            SEAS0-IPV4
+status:             ASSIGNED
+admin-c:            SEAS0-DN42
+tech-c:             SEAS0-DN42
+mnt-by:             SEAS0-MNT
+remarks:            Pair with me at season1277@outlook.com
+source:             DN42
