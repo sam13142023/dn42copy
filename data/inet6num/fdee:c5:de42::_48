@@ -1,0 +1,9 @@
+inet6num:           fdee:00c5:de42:0000:0000:0000:0000:0000 - fdee:00c5:de42:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:c5:de42::/48
+netname:            SEAS0-IPv6
+status:             ASSIGNED
+admin-c:            SEAS0-DN42
+tech-c:             SEAS0-DN42
+mnt-by:             SEAS0-MNT
+remarks:            Pair with me at season1277@outlook.com
+source:             DN42

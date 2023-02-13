@@ -1,0 +1,7 @@
+mntner:             SEAS0-MNT
+mnt-by:             SEAS0-MNT
+admin-c:            SEAS0-DN42
+tech-c:             SEAS0-DN42
+auth:               pgp-fingerprint BDCE56BADE3AD213062E1F66C46EC7614A9012DE
+auth:               sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJleIj5iFnfGlaNXMsnA7kZZHgPPukXVx1kVBKo/DxYEAAAAB3NzaDpZQks=
+source:             DN42
