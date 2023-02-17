@@ -2,6 +2,6 @@ mntner:             DCR-MNT
 admin-c:            DCR-DN42
 tech-c:             DCR-DN42
 mnt-by:             DCR-MNT
-descr:              DCR BGP Playground Using PALOALTO
-auth:               pgp-fingerprint 6676F899F8619E12FEC4BFC35AF4ACF06E1253AE
+descr:              DCR BGP Testing and Learning Experience!
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDkSTMeMwxcsB//g0Y/87YTnGCwWjVUUcM0JNQQYeQ360Ey2yyPvp3bBRspRTZfqO5DMjAQ8P+Kj6tPFSSWSoPCFyDqS23bOKhOl50HMXg6kMtqXvbB1y7zotQsVZBXAn6/N4pudkVpmm5+KE5EC0D2A7q6/FwkVGTN2KR+UJPwQwXfBop898U2MCq9pRnFJvRUIP17RgHYaljTN700M/9rssBo0ZG0A1wtPAlcaZ9p/pIlAWmdWJoST+A58Xkd1gsyKIXrcynh6BQRtzszd493O5GdPTD6/oSQCNERPbhccRbmWqzWWt2J1m4+oKzR5hzMPCSEp8P+LsaiqPW8x4QFo1IpjeBdKvIxsmjOU8/yAeaYXAEUeA0uyWEUO8LR3waIJqKNbinghZMqnk5Ff/1tIa22RZ/k4AA/kD+9ZiPEtjtwhAxMw3y7cdFJNDC0f0ADMngZfMkxYskavpldInuCzPghAgdGngGtBUsQlsMOP309S0aNHi+P8B5rTFlHTzU+VP6+JOs8jkXD4RPh+tDEIOvP05+/QDDOeArBBbiw/0tNcimMfkVIQalxDrYxakUyvOCdzwT9GPCRXIWt/pY1jXy+MkrxhfIySdh/2EUVfhNCuQGiBrFnSqiiwplXf3R6HsoQHGZPFzBabru2Tn2U6KsZt73YoKSz694sI5qevQ== dustin.reeves@gmail.com
 source:             DN42
