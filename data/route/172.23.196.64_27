@@ -1,0 +1,6 @@
+route:              172.23.196.64/27
+descr:              Peer with me at discord:Mayboy#4320
+origin:             AS4242420968
+max-length:         27
+mnt-by:             MAYBOY-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd5d:1f04:1f96:0000:0000:0000:0000:0000 - fd5d:1f04:1f96:ffff:ffff:ffff:ffff:ffff
+netname:            MAYBOY-IPV6
+descr:              Peer with me at discord:Mayboy#4320
+country:            TW
+admin-c:            MAYBOY-DN42
+tech-c:             MAYBOY-DN42
+mnt-by:             MAYBOY-MNT
+status:             ASSIGNED
+cidr:               fd5d:1f04:1f96::/48
+source:             DN42

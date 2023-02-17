@@ -1,0 +1,11 @@
+inetnum:            172.23.196.64 - 172.23.196.95
+netname:            MAYBOY-IPV4
+remarks:            Peer with me at discord:Mayboy#4320
+descr:              Peer with me at discord:Mayboy#4320
+country:            TW
+admin-c:            MAYBOY-DN42
+tech-c:             MAYBOY-DN42
+mnt-by:             MAYBOY-MNT
+status:             ASSIGNED
+cidr:               172.23.196.64/27
+source:             DN42

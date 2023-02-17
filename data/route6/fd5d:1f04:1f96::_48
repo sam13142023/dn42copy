@@ -1,0 +1,6 @@
+route6:             fd5d:1f04:1f96::/48
+descr:              Peer with me at Discord:Mayboy#4320
+origin:             AS4242420968
+max-length:         48
+mnt-by:             MAYBOY-MNT
+source:             DN42
