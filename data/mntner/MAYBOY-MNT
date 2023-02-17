@@ -1,0 +1,7 @@
+mntner:             MAYBOY-MNT
+admin-c:            MAYBOY-DN42
+tech-c:             MAYBOY-DN42
+mnt-by:             MAYBOY-MNT
+source:             DN42
+auth:               pgp-fingerprint 7FE843AAFCE427B4FD7081E0FF47AB04A2EA4179
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIEzRNHrMtkPFuVjHdLxDgujH27tpmT7Zr1/6IWMxeHR
