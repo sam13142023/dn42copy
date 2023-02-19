@@ -1,0 +1,10 @@
+inet6num:           fd32:0bcc:0b8e:0000:0000:0000:0000:0000 - fd32:0bcc:0b8e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd32:bcc:b8e::/48
+netname:            CHENGCHENG-IPV6
+descr:              Network of CHENGCHENG
+country:            CN
+admin-c:            CHENGCHENG-DN42
+tech-c:             CHENGCHENG-DN42
+mnt-by:             CHENGCHENG-MNT
+status:             ASSIGNED
+source:             DN42
