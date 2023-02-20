@@ -1,0 +1,9 @@
+inetnum:            172.23.131.128 - 172.23.131.191
+cidr:               172.23.131.128/26
+netname:            MERCURYCLD-000
+country:            FR
+admin-c:            SAVALET-DN42
+tech-c:             SAVALET-DN42
+mnt-by:             MERCURYCLD-MNT
+status:             ASSIGNED
+source:             DN42
