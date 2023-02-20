@@ -1,0 +1,11 @@
+inetnum:            172.20.171.128 - 172.20.171.159
+netname:            AKINAZUKI-IPV4
+remarks:            Peer with me at noc@ttt.moe
+descr:              Peer with me at noc@ttt.moe
+country:            JP
+admin-c:            AKINAZUKI-DN42
+tech-c:             AKINAZUKI-DN42
+mnt-by:             AKINAZUKI-MNT
+status:             ASSIGNED
+cidr:               172.20.171.128/27
+source:             DN42

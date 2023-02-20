@@ -1,0 +1,5 @@
+route:              172.20.171.128/27
+descr:              Peer with me at noc@ttt.moe
+origin:             AS134606
+mnt-by:             AKINAZUKI-MNT
+source:             DN42
