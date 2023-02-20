@@ -1,0 +1,5 @@
+route:              172.21.65.192/27
+descr:              sbchild test network
+origin:             AS4242420534
+mnt-by:             SBCHILD-MNT
+source:             DN42
