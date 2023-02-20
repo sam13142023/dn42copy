@@ -1,0 +1,7 @@
+aut-num:            AS4242420534
+as-name:            SBCHILD-AS
+descr:              test network for production
+admin-c:            SBCHILD-DN42
+tech-c:             SBCHILD-DN42
+mnt-by:             SBCHILD-MNT
+source:             DN42

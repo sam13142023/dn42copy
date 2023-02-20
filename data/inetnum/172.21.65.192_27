@@ -1,0 +1,11 @@
+inetnum:            172.21.65.192 - 172.21.65.223
+cidr:               172.21.65.192/27
+netname:            SBCHILD-IPV4
+descr:              sbchild test network
+remarks:            sbchild test network
+mnt-by:             SBCHILD-MNT
+status:             ASSIGNED
+source:             DN42
+country:            CN
+admin-c:            SBCHILD-DN42
+tech-c:             SBCHILD-DN42

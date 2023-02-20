@@ -1,0 +1,10 @@
+inet6num:           fde2:55a2:70c4:0000:0000:0000:0000:0000 - fde2:55a2:70c4:ffff:ffff:ffff:ffff:ffff
+netname:            SBCHILD-IPV6
+descr:              sbchild test network
+country:            CN
+admin-c:            SBCHILD-DN42
+tech-c:             SBCHILD-DN42
+mnt-by:             SBCHILD-MNT
+status:             ASSIGNED
+cidr:               fde2:55a2:70c4::/48
+source:             DN42
