@@ -1,0 +1,18 @@
+domain:             vanilla.dn42
+admin-c:            ORG-VANILLA-DN42
+tech-c:             ORG-VANILLA-DN42
+mnt-by:             BAIYUANNEKO-MNT
+mnt-by:             RADIONOISE-MNT
+mnt-by:             MINAZUKI-MNT
+nserver:            chocola.vanilla.dn42 172.23.33.200
+nserver:            maple.vanilla.dn42 172.23.33.201
+nserver:            cinnamon.vanilla.dn42 172.23.33.202
+nserver:            azuki.vanilla.dn42 172.23.33.203
+nserver:            coconut.vanilla.dn42 172.23.33.204
+nserver:            chocola.vanilla.dn42 fdfd:721::aaaa
+nserver:            maple.vanilla.dn42 fdfd:721::bbbb
+nserver:            cinnamon.vanilla.dn42 fdfd:721::cccc
+nserver:            azuki.vanilla.dn42 fdfd:721::dddd
+nserver:            coconut.vanilla.dn42 fdfd:721::eeee
+org:                ORG-VANILLA
+source:             DN42

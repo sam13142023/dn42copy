@@ -1,0 +1,10 @@
+role:               Vanilla Group
+nic-hdl:            ORG-VANILLA-DN42
+mnt-by:             BAIYUANNEKO-MNT
+mnt-by:             RADIONOISE-MNT
+mnt-by:             MINAZUKI-MNT
+admin-c:            BAIYUANNEKO-DN42
+tech-c:             BAIYUANNEKO-DN42
+tech-c:             RADIONOISE-DN42
+org:                ORG-VANILLA
+source:             DN42
