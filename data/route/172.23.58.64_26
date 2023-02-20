@@ -1,0 +1,5 @@
+route:              172.23.58.64/26
+origin:             AS4242420856
+max-length:         26
+mnt-by:             CHENGCHENG-MNT
+source:             DN42

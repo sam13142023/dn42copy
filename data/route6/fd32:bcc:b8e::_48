@@ -1,0 +1,5 @@
+route6:             fd32:bcc:b8e::/48
+origin:             AS4242420856
+max-length:         48
+mnt-by:             CHENGCHENG-MNT
+source:             DN42

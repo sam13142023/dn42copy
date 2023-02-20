@@ -1,0 +1,10 @@
+inetnum:            172.23.58.64 - 172.23.58.127
+cidr:               172.23.58.64/26
+netname:            CHENGCHENG-IPV4
+descr:              Network of CHENGCHENG
+country:            CN
+admin-c:            CHENGCHENG-DN42
+tech-c:             CHENGCHENG-DN42
+mnt-by:             CHENGCHENG-MNT
+status:             ASSIGNED
+source:             DN42

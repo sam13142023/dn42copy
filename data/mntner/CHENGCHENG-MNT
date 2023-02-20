@@ -1,0 +1,7 @@
+mntner:             CHENGCHENG-MNT
+admin-c:            CHENGCHENG-DN42
+tech-c:             CHENGCHENG-DN42
+mnt-by:             CHENGCHENG-MNT
+auth:               pgp-fingerprint DAC841095CE9F91A3D8F3CDE5DA1A013A12DDBAE
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQO39XsgFq3tyWRb5Mybbx5Xe9ra0SlnPD5l5Rc0M2Q6Nvx/oSK4HDwWfzI1hav+a199llqo9zxTpNee91QAQe5DMEk3l/bm+of1iK53mdPwhA/Hip9v49D3CUMOszgVxZtktmHwTZWukWH+rUtsz/CwjC4980nNiLir9+UUPJTK7VQDIkA2wn3fG0y94edWD5W1Zi9OVfCYIixoZW3rVxeNSMrffM3S2MYtiQusO2BmxCZeya7lmJ2SWGReuG8mDt47FM2PMBxmICUu0LSzsIs0k4R0zkK8l2dCiVbuK81QUD1y7vzpadWHdZdevj1IJXAEKQMLWMumlmiHiZfwG6wIS4thb4HW2TLz1eqjTC6rGKFGn6FBin46gyCgVEYFjOjIrnBiFSvoiQHJyL6xBwo8XfWwGJP/sHYz/4YVqnrEcDmEN4JFowiNAe3qosJ2uKF2Xz+Q5kgSDgBX8iWiotu0cdUgrpX+GWgGc+C4NwPkodaCBZXXYIbPNJ2ps9nx8=
+source:             DN42
