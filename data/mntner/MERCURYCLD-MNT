@@ -1,0 +1,6 @@
+mntner:             MERCURYCLD-MNT
+admin-c:            SAVALET-DN42
+tech-c:             SAVALET-DN42
+mnt-by:             MERCURYCLD-MNT
+auth:               pgp-fingerprint ABBF256E2F7AC33D94CC4D464A5944248945031A
+source:             DN42
