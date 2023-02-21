@@ -1,7 +1,7 @@
 inetnum:            172.20.42.136 - 172.20.42.143
 netname:            TIVIPAX-IPV4
-remarks:            Peer with me at tivipax0@gmail.com
-descr:              Peer with me at tivipax0@gmail.com
+remarks:            Peer with me at dn42@pax.moe
+descr:              Peer with me at dn42@pax.moe
 country:            CN
 admin-c:            TIVIPAX-DN42
 tech-c:             TIVIPAX-DN42
