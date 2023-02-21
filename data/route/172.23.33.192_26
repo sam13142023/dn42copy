@@ -1,0 +1,6 @@
+route:              172.23.33.192/26
+origin:             AS4242423465
+mnt-by:             BAIYUANNEKO-MNT
+mnt-by:             RADIONOISE-MNT
+mnt-by:             MINAZUKI-MNT
+source:             DN42

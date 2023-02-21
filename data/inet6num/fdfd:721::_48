@@ -1,0 +1,17 @@
+inet6num:           fdfd:0721:0000:0000:0000:0000:0000:0000 - fdfd:0721:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:721::/48
+netname:            VANILLA-V6
+country:            CN
+admin-c:            ORG-VANILLA-DN42
+tech-c:             ORG-VANILLA-DN42
+mnt-by:             BAIYUANNEKO-MNT
+mnt-by:             RADIONOISE-MNT
+mnt-by:             MINAZUKI-MNT
+nserver:            chocola.vanilla.dn42
+nserver:            maple.vanilla.dn42
+nserver:            cinnamon.vanilla.dn42
+nserver:            azuki.vanilla.dn42
+nserver:            coconut.vanilla.dn42
+org:                ORG-VANILLA
+status:             ASSIGNED
+source:             DN42

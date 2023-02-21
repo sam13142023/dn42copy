@@ -1,0 +1,6 @@
+route6:             fdfd:721::/48
+origin:             AS4242423465
+mnt-by:             BAIYUANNEKO-MNT
+mnt-by:             RADIONOISE-MNT
+mnt-by:             MINAZUKI-MNT
+source:             DN42
