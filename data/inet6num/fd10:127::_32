@@ -1,7 +1,7 @@
 inet6num:           fd10:0127:0000:0000:0000:0000:0000:0000 - fd10:0127:ffff:ffff:ffff:ffff:ffff:ffff
 cidr:               fd10:127::/32
 netname:            NEONETWORK
-nserver:            root-dns.neo.
+nserver:            root-dns.neo
 ds-rdata:           22562 13 2 5DCF1C8189C8A005A5621A217816EB19390862BCCEC0917A568415CD58DCEC52
 ds-rdata:           27574 15 2 09BAAD36E187D53ECADCEBEF76BABFD6C9FB0AF5F4844596F3CA0C906ED8637E
 remarks:            Imported from neonetwork, do not edit!

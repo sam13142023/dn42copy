@@ -1,7 +1,7 @@
 inetnum:            10.127.0.0 - 10.127.255.255
 cidr:               10.127.0.0/16
 netname:            NEONETWORK
-nserver:            root-dns.neo.
+nserver:            root-dns.neo
 ds-rdata:           22312 13 2 16859DEDDC7966541B4507D4612B00EA6FB95B2773E51D4BCC201E16F6178B0F
 ds-rdata:           22644 15 2 BA8389BD2F3EA36B7280A9A166FA3CC05D6AF53A3FF987E62D37CF401D2C380B
 remarks:            Imported from neonetwork, do not edit!
