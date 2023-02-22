@@ -1,0 +1,10 @@
+inet6num:           fd84:09a2:00b1:0000:0000:0000:0000:0000 - fd84:09a2:00b1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd84:9a2:b1::/48
+netname:            DCR-NETWORK
+country:            US
+admin-c:            DCR-DN42
+tech-c:             DCR-DN42
+mnt-by:             DCR-MNT
+status:             ASSIGNED
+nserver:            ns1.dcr.dn42
+source:             DN42
