@@ -4,4 +4,5 @@ country:            US
 netname:            DCR-NET
 mnt-by:             DCR-MNT
 source:             DN42
+nserver:            ns1.dcr.dn42
 status:             ASSIGNED

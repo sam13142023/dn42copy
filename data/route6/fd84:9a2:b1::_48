@@ -1,0 +1,5 @@
+route6:             fd84:9a2:b1::/48
+descr:              fd84:9a2:b1::/48 route for dcr
+origin:             AS4242422102
+mnt-by:             DCR-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             dcr.dn42
+descr:              main domain for dcr-mnt
+admin-c:            DCR-DN42
+tech-c:             DCR-DN42
+mnt-by:             DCR-MNT
+nserver:            ns1.dcr.dn42 172.20.149.161
+nserver:            ns1.dcr.dn42 fd84:9a2:b1::161
+source:             DN42
