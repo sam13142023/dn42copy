@@ -1,0 +1,4 @@
+route:              172.20.171.160/27
+origin:             AS4242421566
+mnt-by:             WENTAO-MNT
+source:             DN42

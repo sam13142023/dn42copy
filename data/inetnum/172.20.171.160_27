@@ -1,0 +1,8 @@
+inetnum:            172.20.171.160 - 172.20.171.191
+cidr:               172.20.171.160/27
+netname:            WENTAO-IPV4
+admin-c:            WENTAO-DN42
+tech-c:             WENTAO-DN42
+mnt-by:             WENTAO-MNT
+status:             ASSIGNED
+source:             DN42
