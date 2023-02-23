@@ -1,0 +1,5 @@
+route:              172.22.124.16/28
+origin:             AS4242422449
+mnt-by:             T0BIII-MNT
+max-length:         28
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.124.16 - 172.22.124.31
+cidr:               172.22.124.16/28
+netname:            T0BIII-V4-NET-1
+descr:              T0BIII-V4-NET-1
+country:            DE
+admin-c:            T0BIII-DN42
+tech-c:             T0BIII-DN42
+mnt-by:             T0BIII-MNT
+nserver:            ns1.t0biii.dn42
+status:             ASSIGNED
+source:             DN42
