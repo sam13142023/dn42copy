@@ -1,0 +1,5 @@
+route6:             fda6:a1d6:a1d7::/48
+origin:             AS4242420477
+max-length:         48
+mnt-by:             123DARKFIBER-MNT
+source:             DN42

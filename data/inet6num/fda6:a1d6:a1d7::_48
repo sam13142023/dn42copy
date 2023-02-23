@@ -1,0 +1,9 @@
+inet6num:           fda6:a1d6:a1d7:0000:0000:0000:0000:0000 - fda6:a1d6:a1d7:ffff:ffff:ffff:ffff:ffff
+cidr:               fda6:a1d6:a1d7::/48
+netname:            123DARKFIBER-NETWORK
+country:            NL
+status:             ASSIGNED
+admin-c:            123DARKFIBER-DN42
+tech-c:             123DARKFIBER-DN42
+mnt-by:             123DARKFIBER-MNT
+source:             DN42
