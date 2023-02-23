@@ -1,0 +1,9 @@
+inetnum:            172.21.105.224 - 172.21.105.255
+cidr:               172.21.105.224/27
+netname:            123DARKFIBER-NETWORK
+country:            NL
+status:             ASSIGNED
+admin-c:            123DARKFIBER-DN42
+tech-c:             123DARKFIBER-DN42
+mnt-by:             123DARKFIBER-MNT
+source:             DN42

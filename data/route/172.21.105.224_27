@@ -1,0 +1,5 @@
+route:              172.21.105.224/27
+origin:             AS4242420477
+max-length:         27
+mnt-by:             123DARKFIBER-MNT
+source:             DN42
