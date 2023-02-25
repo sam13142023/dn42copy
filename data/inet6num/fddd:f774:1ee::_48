@@ -1,0 +1,10 @@
+inet6num:           fddd:f774:01ee:0000:0000:0000:0000:0000 - fddd:f774:01ee:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:f774:1ee::/48
+netname:            UNDEFINED-NETWORK
+descr:              Network of Error
+country:            DE
+admin-c:            ERROR-DN42
+tech-c:             ERROR-DN42
+mnt-by:             ERROR-MNT
+status:             ASSIGNED
+source:             DN42

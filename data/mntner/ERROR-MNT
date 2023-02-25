@@ -1,0 +1,6 @@
+mntner:             ERROR-MNT
+admin-c:            ERROR-DN42
+tech-c:             ERROR-DN42
+mnt-by:             ERROR-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF/+P1q5JyA05ACCi0oKWBifDfNheLNdJnDCkw1IIr0a
+source:             DN42
