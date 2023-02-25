@@ -1,0 +1,5 @@
+route6:             fddd:f774:1ee::/48
+origin:             AS4242423076
+max-length:         48
+mnt-by:             ERROR-MNT
+source:             DN42
