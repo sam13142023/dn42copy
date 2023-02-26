@@ -1,0 +1,11 @@
+inetnum:            172.20.168.112 - 172.20.168.127
+country:            JP
+descr:              Meet DN42 - Research and end user access
+netname:            MEET-DN42-NET
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+status:             ASSIGNED
+nserver:            ns1.iedon.dn42
+cidr:               172.20.168.112/28
+source:             DN42

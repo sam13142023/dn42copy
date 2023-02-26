@@ -1,0 +1,6 @@
+domain:             meet.dn42
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+nserver:            ns1.iedon.dn42
+source:             DN42
