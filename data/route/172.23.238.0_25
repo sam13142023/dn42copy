@@ -1,0 +1,5 @@
+route:              172.23.238.0/25
+origin:             AS4242422797
+max-length:         25
+mnt-by:             NAWAN-MNT
+source:             DN42

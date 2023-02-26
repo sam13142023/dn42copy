@@ -1,0 +1,10 @@
+inetnum:            172.23.238.0 - 172.23.238.127
+netname:            NAWAN-NETWORK
+descr:              NAWAN NETWORK
+country:            CA
+admin-c:            NAWAN-DN42
+tech-c:             NAWAN-DN42
+mnt-by:             NAWAN-MNT
+status:             ASSIGNED
+cidr:               172.23.238.0/25
+source:             DN42

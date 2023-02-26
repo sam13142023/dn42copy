@@ -1,0 +1,10 @@
+inet6num:           fd1e:90fa:e065:0000:0000:0000:0000:0000 - fd1e:90fa:e065:ffff:ffff:ffff:ffff:ffff
+netname:            NAWAN-IPV6
+descr:              NAWAN Network
+country:            CA
+admin-c:            NAWAN-DN42
+tech-c:             NAWAN-DN42
+mnt-by:             NAWAN-MNT
+status:             ASSIGNED
+cidr:               fd1e:90fa:e065::/48
+source:             DN42
