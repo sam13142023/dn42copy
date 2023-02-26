@@ -1,0 +1,5 @@
+route6:             fd20:a870::/48
+descr:              Meet DN42 Network IPv6 Block
+origin:             AS4242422589
+mnt-by:             IEDON-MNT
+source:             DN42

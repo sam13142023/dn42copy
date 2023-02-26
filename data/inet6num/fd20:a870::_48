@@ -1,0 +1,11 @@
+inet6num:           fd20:a870:0000:0000:0000:0000:0000:0000 - fd20:a870:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd20:a870::/48
+country:            JP
+descr:              Meet DN42 - Research and end user access
+netname:            MEET-DN42-NET
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+nserver:            ns1.iedon.dn42
+status:             ASSIGNED
+source:             DN42

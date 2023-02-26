@@ -1,0 +1,9 @@
+aut-num:            AS4242422589
+as-name:            MEET-AS
+descr:              Meet DN42 Services
+remarks:            This is the ASN for providing access to DN42,
+remarks:            and research purposes.
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+source:             DN42
