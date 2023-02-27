@@ -1,0 +1,10 @@
+inetnum:            172.23.91.224 - 172.23.91.239
+cidr:               172.23.91.224/28
+netname:            LDTI-4-NETWORK
+descr:              IPv4 of LDTI
+country:            IL
+admin-c:            LDTI-DN42
+tech-c:             LDTI-DN42
+mnt-by:             LDTI-MNT
+status:             ASSIGNED
+source:             DN42

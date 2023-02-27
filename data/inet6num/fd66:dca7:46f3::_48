@@ -1,0 +1,10 @@
+inet6num:           fd66:dca7:46f3:0000:0000:0000:0000:0000 - fd66:dca7:46f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:dca7:46f3::/48
+netname:            LDTI-6-NETWORK
+descr:              IPv6 Network of LDTI
+country:            IL
+admin-c:            LDTI-DN42
+tech-c:             LDTI-DN42
+mnt-by:             LDTI-MNT
+status:             ASSIGNED
+source:             DN42
