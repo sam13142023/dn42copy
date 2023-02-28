@@ -1,0 +1,6 @@
+mntner:             ASUHE-MNT
+admin-c:            ASUHE-DN42
+tech-c:             ASUHE-DN42
+mnt-by:             ASUHE-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEP/iqI6vbDjPlEcwqnYN9m1FObJyMmV8yKoSIe6MR6g asuhe@msn.com

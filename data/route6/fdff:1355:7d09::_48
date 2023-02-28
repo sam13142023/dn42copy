@@ -1,0 +1,6 @@
+route6:             fdff:1355:7d09::/48
+descr:              Asuhe DN42 Network IPv6 Block
+origin:             AS4242423830
+max-length:         48
+mnt-by:             ASUHE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdff:1355:7d09:0000:0000:0000:0000:0000 - fdff:1355:7d09:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:1355:7d09::/48
+netname:            ASUHE-DN42-V6
+descr:              Asuhe DN42 Network IPv6 Block
+country:            CN
+admin-c:            ASUHE-DN42
+tech-c:             ASUHE-DN42
+mnt-by:             ASUHE-MNT
+status:             ASSIGNED
+source:             DN42
