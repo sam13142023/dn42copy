@@ -1,0 +1,11 @@
+inet6num:           fd22:8bef:4230:0000:0000:0000:0000:0000 - fd22:8bef:4230:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:8bef:4230::/48
+netname:            PAT-NET
+descr:              Network of Patrick
+country:            DE
+admin-c:            PAT-DN42
+tech-c:             PAT-DN42
+mnt-by:             PAT-MNT
+status:             ASSIGNED
+nserver:            ns1.pat.dn42
+source:             DN42
