@@ -1,0 +1,7 @@
+aut-num:            AS4242423772
+admin-c:            LDTI-DN42
+tech-c:             LDTI-DN42
+mnt-by:             LDTI-MNT
+as-name:            LDTI-AS
+source:             DN42
+descr:              LDTI's AS

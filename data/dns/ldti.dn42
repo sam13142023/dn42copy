@@ -1,0 +1,7 @@
+domain:             ldti.dn42
+admin-c:            LDTI-DN42
+tech-c:             LDTI-DN42
+mnt-by:             LDTI-MNT
+nserver:            ns1.ldti.dn42 172.23.91.225
+nserver:            ns1.ldti.dn42 fd66:dca7:46f3::1
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.91.224/28
+origin:             AS4242423772
+max-length:         28
+mnt-by:             LDTI-MNT
+source:             DN42
