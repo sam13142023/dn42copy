@@ -1,0 +1,5 @@
+route6:             fd22:8bef:4230::/48
+origin:             AS4242420915
+max-length:         48
+mnt-by:             PAT-MNT
+source:             DN42

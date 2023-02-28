@@ -1,0 +1,6 @@
+mntner:             PAT-MNT
+admin-c:            PAT-DN42
+tech-c:             PAT-DN42
+mnt-by:             PAT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOynE8PlgGDUIKbseBpyFlBkyZSY9GLNly2oZZ1bZ1FO
