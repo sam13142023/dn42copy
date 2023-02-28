@@ -1,0 +1,12 @@
+inet6num:           fde0:93fa:07a0:c1ca:0000:0000:0000:0000 - fde0:93fa:07a0:c1ca:ffff:ffff:ffff:ffff
+netname:            MCAST-IX-NET6
+descr:              mcast ix
+country:            HU
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+nserver:            ns.nop.dn42
+nserver:            ns.lare.dn42
+status:             ASSIGNED
+cidr:               fde0:93fa:7a0:c1ca::/64
+source:             DN42

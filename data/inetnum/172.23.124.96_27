@@ -1,0 +1,10 @@
+inetnum:            172.23.124.96 - 172.23.124.127
+cidr:               172.23.124.96/27
+netname:            MCAST-IX-NETWORK
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+nserver:            ns.nop.dn42
+nserver:            ns.lare.dn42
+status:             ASSIGNED
+source:             DN42

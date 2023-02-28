@@ -1,0 +1,5 @@
+route:              172.23.124.96/27
+descr:              MCAST-IX
+origin:             AS0
+mnt-by:             NOP-MNT
+source:             DN42

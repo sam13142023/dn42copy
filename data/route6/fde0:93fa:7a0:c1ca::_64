@@ -1,0 +1,5 @@
+route6:             fde0:93fa:7a0:c1ca::/64
+descr:              mcast ix
+origin:             AS0
+mnt-by:             NOP-MNT
+source:             DN42
