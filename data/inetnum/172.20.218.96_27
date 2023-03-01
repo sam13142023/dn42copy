@@ -1,0 +1,10 @@
+inetnum:            172.20.218.96 - 172.20.218.127
+cidr:               172.20.218.96/27
+netname:            ASUHE-DN42-V4
+descr:              Asuhe DN42 Network IPv4 Block
+country:            CN
+admin-c:            ASUHE-DN42
+tech-c:             ASUHE-DN42
+mnt-by:             ASUHE-MNT
+status:             ASSIGNED
+source:             DN42

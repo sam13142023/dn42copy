@@ -1,0 +1,6 @@
+route:              172.20.218.96/27
+descr:              Asuhe DN42 Network IPv4 Block
+origin:             AS4242423830
+max-length:         27
+mnt-by:             ASUHE-MNT
+source:             DN42
