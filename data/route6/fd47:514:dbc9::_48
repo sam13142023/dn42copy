@@ -1,0 +1,5 @@
+route6:             fd47:514:dbc9::/48
+origin:             AS4242423467
+max-length:         48
+mnt-by:             ZEHKA-MNT
+source:             DN42

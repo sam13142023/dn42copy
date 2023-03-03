@@ -1,0 +1,5 @@
+route:              172.22.162.224/27
+origin:             AS4242423467
+max-length:         27
+mnt-by:             ZEHKA-MNT
+source:             DN42

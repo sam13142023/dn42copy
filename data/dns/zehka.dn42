@@ -1,0 +1,9 @@
+domain:             zehka.dn42
+admin-c:            ZEHKA-DN42
+tech-c:             ZEHKA-DN42
+mnt-by:             ZEHKA-MNT
+nserver:            ns1.zehka.dn42 172.22.162.226
+nserver:            ns1.zehka.dn42 fd47:514:dbc9:1337::1
+nserver:            ns2.zehka.dn42 172.22.162.227
+nserver:            ns2.zehka.dn42 fd47:514:dbc9:1337::2
+source:             DN42
