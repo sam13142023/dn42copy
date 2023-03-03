@@ -1,0 +1,12 @@
+inet6num:           fd47:0514:dbc9:0000:0000:0000:0000:0000 - fd47:0514:dbc9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd47:514:dbc9::/48
+netname:            ZEHKA-NETWORK-V6-RO
+descr:              Primary IPv6 space of Zehka
+country:            RO
+admin-c:            ZEHKA-DN42
+tech-c:             ZEHKA-DN42
+mnt-by:             ZEHKA-MNT
+status:             ASSIGNED
+nserver:            ns1.zehka.dn42
+nserver:            ns2.zehka.dn42
+source:             DN42

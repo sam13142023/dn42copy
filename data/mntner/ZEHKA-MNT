@@ -1,0 +1,6 @@
+mntner:             ZEHKA-MNT
+admin-c:            ZEHKA-DN42
+tech-c:             ZEHKA-DN42
+mnt-by:             ZEHKA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMONND42QG3fjTD1VjSxkylHuEunS6iIarS6a2I7hYAk zehka@Samwise
+source:             DN42
