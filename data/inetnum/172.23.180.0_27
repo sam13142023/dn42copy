@@ -1,10 +1,11 @@
 inetnum:            172.23.180.0 - 172.23.180.31
-netname:            LILY-IPV4
+netname:            Lily-Network-DN42-IPv4
 descr:              Lily Network IPv4 Block
-country:            CN
-admin-c:            KONGCHENGLIGE-DN42
-tech-c:             KONGCHENGLIGE-DN42
+country:            GB
+admin-c:            LILYBOUQUET-DN42
+tech-c:             LILYBOUQUET-DN42
 mnt-by:             LILY-MNT
+mnt-by:             LINK2-MNT
 org:                ORG-LILY
 nserver:            anycast.lily.dn42
 status:             ASSIGNED

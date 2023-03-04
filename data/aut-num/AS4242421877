@@ -1,8 +1,10 @@
 aut-num:            AS4242421877
 as-name:            LILY_NETWORK
-admin-c:            KONGCHENGLIGE-DN42
-tech-c:             KONGCHENGLIGE-DN42
+descr:              LinkSecond Network Backbone & Lily Network DN42 Backbone
+admin-c:            LILYBOUQUET-DN42
+tech-c:             LILYBOUQUET-DN42
 mnt-by:             LILY-MNT
+mnt-by:             LINK2-MNT
 org:                ORG-LILY
 remarks:            ---------------------------------
 remarks:            | Lily Networking               |

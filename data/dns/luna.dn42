@@ -1,6 +1,6 @@
 domain:             luna.dn42
 admin-c:            LILYBOUQUET-DN42
-tech-c:             KONGCHENGLIGE-DN42
+tech-c:             LILYBOUQUET-DN42
 mnt-by:             LILY-MNT
 org:                ORG-LILY
 nserver:            anycast.lily.dn42
