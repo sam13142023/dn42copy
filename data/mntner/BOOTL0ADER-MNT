@@ -1,0 +1,6 @@
+mntner:             BOOTL0ADER-MNT
+admin-c:            BOOTL0ADER-DN42
+tech-c:             BOOTL0ADER-DN42
+mnt-by:             BOOTL0ADER-MNT
+source:             DN42
+auth:               pgp-fingerprint DA2DBB0D46D17FE158551055982E80062A26D068

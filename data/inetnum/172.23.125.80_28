@@ -1,0 +1,10 @@
+inetnum:            172.23.125.80 - 172.23.125.95
+cidr:               172.23.125.80/28
+netname:            BOOTL0ADER-NETWORK
+descr:              BOOTL0ADER IPv4 Network
+country:            CA
+admin-c:            BOOTL0ADER-DN42
+tech-c:             BOOTL0ADER-DN42
+mnt-by:             BOOTL0ADER-MNT
+status:             ASSIGNED
+source:             DN42

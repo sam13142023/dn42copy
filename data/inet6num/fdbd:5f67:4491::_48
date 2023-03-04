@@ -1,0 +1,10 @@
+inet6num:           fdbd:5f67:4491:0000:0000:0000:0000:0000 - fdbd:5f67:4491:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbd:5f67:4491::/48
+netname:            BOOTL0ADER-NETWORK
+descr:              BOOTL0ADER IPv6 Network
+country:            CA
+admin-c:            BOOTL0ADER-DN42
+tech-c:             BOOTL0ADER-DN42
+mnt-by:             BOOTL0ADER-MNT
+status:             ASSIGNED
+source:             DN42

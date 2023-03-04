@@ -1,0 +1,5 @@
+route6:             fdbd:5f67:4491::/48
+origin:             AS4242421838
+max-length:         48
+mnt-by:             BOOTL0ADER-MNT
+source:             DN42

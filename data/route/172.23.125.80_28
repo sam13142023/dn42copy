@@ -1,0 +1,5 @@
+route:              172.23.125.80/28
+origin:             AS4242421838
+max-length:         28
+mnt-by:             BOOTL0ADER-MNT
+source:             DN42
