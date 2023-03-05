@@ -1,0 +1,10 @@
+inetnum:            172.20.238.64 - 172.20.238.95
+cidr:               172.20.238.64/27
+netname:            MAXWGAMER-NETWORK
+descr:              Network of MaxWgamer
+country:            FR
+admin-c:            MAXWGAMER-DN42
+tech-c:             MAXWGAMER-DN42
+mnt-by:             MAXWGAMER-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdb3:e4b6:eb0d::/48
+origin:             AS4242422640
+max-length:         48
+mnt-by:             MAXWGAMER-MNT
+source:             DN42

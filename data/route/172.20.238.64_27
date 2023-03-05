@@ -1,0 +1,5 @@
+route:              172.20.238.64/27
+origin:             AS4242422640
+max-length:         27
+mnt-by:             MAXWGAMER-MNT
+source:             DN42

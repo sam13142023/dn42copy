@@ -1,0 +1,6 @@
+mntner:             MAXWGAMER-MNT
+admin-c:            MAXWGAMER-DN42
+tech-c:             MAXWGAMER-DN42
+mnt-by:             MAXWGAMER-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDewBL950cpny1wvLJs7+vCJwbDAMBaFCWoH13DlwfLjpH8QrGEeLAtjRLT29LUR0LVXDODrL1e5iC0StNyUttQwCGBCkX25t2s2le2W8rdhajCmCLidffOGlWuwkg8YXpjfm4r+8jiIKNS62ufFU/vsRs8twbcug5lD9Ckimc0mX7xhiErnXtqTLdDzNHAiSiq0V1ND3rf4CCQT7FBuPAv/tLw/Q9doUL5tybKV65PWRxK7JCD/ozSe+7lRvA7/aAUdqtCQ/GOGG8/iza4rLxVg3gQDn/3d0/dlKhqW1JNndmcnyeXzP6f5Glv09wNdipFjiB7LYmLb5St/T3ZmfaaY/51k7mEvgIb+2T1FRqTnFumd1xC9lSWehOTPmxc+X3GulZ+Mrlb4Z7gaWUmFMtjGEPU6CXcudBfY1m2vn6+S1f9qSB35M94+S6H8ikLS/tGqez8kV+apsZUz7remn2KNcAc5zU0XeG2+pqkO+LpJLvVohS9WVsc8CyisLCNzxc= root@dn42
+source:             DN42
