@@ -1,0 +1,10 @@
+inetnum:            172.22.98.128- 172.22.98.159
+netname:            POPIPO-IPV4
+remarks:            Peer with me at xun794@gmail.com
+country:            CN
+admin-c:            POPIPO-DN42
+tech-c:             POPIPO-DN42
+mnt-by:             POPIPO-MNT
+status:             ASSIGNED
+cidr:               172.22.98.128/27
+source:             DN42
