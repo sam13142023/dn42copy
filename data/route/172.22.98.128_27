@@ -1,0 +1,5 @@
+route:              172.22.98.128/27
+descr:              Hello!
+origin:             AS4242420794
+mnt-by:             POPIPO-MNT
+source:             DN42

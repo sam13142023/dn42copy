@@ -1,0 +1,9 @@
+inet6num:           fd9d:3336:fe5d:0000:0000:0000:0000:0000 - fd9d:3336:fe5d:ffff:ffff:ffff:ffff:ffff
+netname:            POPIPO-IPV6
+country:            CN
+admin-c:            POPIPO-DN42
+tech-c:             POPIPO-DN42
+mnt-by:             POPIPO-MNT
+status:             ASSIGNED
+cidr:               fd9d:3336:fe5d::/48
+source:             DN42
