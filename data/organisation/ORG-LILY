@@ -1,8 +1,9 @@
 organisation:       ORG-LILY
 org-name:           Lily Network
-admin-c:            KONGCHENGLIGE-DN42
-tech-c:             KONGCHENGLIGE-DN42
+admin-c:            LILYBOUQUET-DN42
+tech-c:             LILYBOUQUET-DN42
 abuse-c:            LILYBOUQUET-DN42
 www:                https://lilynet.work
 mnt-by:             LILY-MNT
+mnt-by:             LINK2-MNT
 source:             DN42
