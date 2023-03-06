@@ -1,0 +1,10 @@
+domain:             lws.dn42
+admin-c:            LWS-DN42
+tech-c:             LWS-DN42
+mnt-by:             LWS-MNT
+org:                ORG-LWS
+nserver:            ns1.lws.dn42 172.20.225.65
+nserver:            ns1.lws.dn42 fd10:9ddd:add0:0::53
+nserver:            ns2.lws.dn42 172.20.225.81
+nserver:            ns2.lws.dn42 fd10:9ddd:add0:1::53
+source:             DN42

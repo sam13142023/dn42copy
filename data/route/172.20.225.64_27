@@ -1,0 +1,5 @@
+route:              172.20.225.64/27
+origin:             AS4242422103
+max-length:         27
+mnt-by:             LWS-MNT
+source:             DN42

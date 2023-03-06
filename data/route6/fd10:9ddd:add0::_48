@@ -1,0 +1,5 @@
+route6:             fd10:9ddd:add0::/48
+origin:             AS4242422103
+max-length:         48
+mnt-by:             LWS-MNT
+source:             DN42
