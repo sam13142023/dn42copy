@@ -151,7 +151,7 @@ set -e
 echo 'Rebasing local changes against the registry master'
 git rebase dn42registry/master
 
-echo 'Squashing $count commits ...'
+echo "Squashing $count commits..."
 
 # construct a new comment based on previous commits
 comment="squashed commit:
