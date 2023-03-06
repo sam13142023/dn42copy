@@ -1,6 +1,8 @@
 inetnum:            172.23.217.0 - 172.23.217.31
 netname:            SERNET-DN42-IPV4
 country:            CN
+nserver:            ns1.sherpherd.dn42
+nserver:            ns2.sherpherd.dn42
 admin-c:            HAKSRPD-DN42
 tech-c:             HAKSRPD-DN42
 mnt-by:             SERNET-MNT
