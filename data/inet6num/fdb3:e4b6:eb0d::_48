@@ -1,0 +1,10 @@
+inet6num:           fdb3:e4b6:eb0d:0000:0000:0000:0000:0000 - fdb3:e4b6:eb0d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb3:e4b6:eb0d::/48
+netname:            MAXWGAMER-NETWORK
+descr:              Network of MaxWgamer
+country:            FR
+admin-c:            MAXWGAMER-DN42
+tech-c:             MAXWGAMER-DN42
+mnt-by:             MAXWGAMER-MNT
+status:             ASSIGNED
+source:             DN42
