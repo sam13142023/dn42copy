@@ -3,4 +3,4 @@ admin-c:            SUNYZ-DN42
 tech-c:             SUNYZ-DN42
 mnt-by:             SUNYZ-MNT
 source:             DN42
-auth:               pgp-fingerprint 52993755350944FB17914C97638BEF43897B6602
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKhRgziUtjU0UbR9OrKiynTLEYsXuPyNJTHjaEdfqU6X
