@@ -1,0 +1,7 @@
+domain:             qyn.dn42
+admin-c:            QYN-DN42
+tech-c:             QYN-DN42
+mnt-by:             QYN-MNT
+nserver:            ns1.qyn.dn42 172.21.82.42
+nserver:            ns1.qyn.dn42 fd32:5063:40c2:ea0a::2
+source:             DN42

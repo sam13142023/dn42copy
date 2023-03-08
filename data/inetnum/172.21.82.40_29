@@ -5,6 +5,7 @@ country:            CN
 admin-c:            QYN-DN42
 tech-c:             QYN-DN42
 mnt-by:             QYN-MNT
+nserver:            ns1.qyn.dn42
 status:             ASSIGNED
 cidr:               172.21.82.40/29
 source:             DN42
