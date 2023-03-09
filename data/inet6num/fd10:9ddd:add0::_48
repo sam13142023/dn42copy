@@ -1,0 +1,13 @@
+inet6num:           fd10:9ddd:add0:0000:0000:0000:0000:0000 - fd10:9ddd:add0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:9ddd:add0::/48
+netname:            LWS-NETWORK
+descr:              Network of LWS
+country:            FR
+admin-c:            LWS-DN42
+tech-c:             LWS-DN42
+mnt-by:             LWS-MNT
+org:                ORG-LWS
+nserver:            ns1.lws.dn42
+nserver:            ns2.lws.dn42
+status:             ASSIGNED
+source:             DN42

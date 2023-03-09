@@ -1,0 +1,7 @@
+mntner:             LWS-MNT
+descr:              LWS Network
+admin-c:            LWS-DN42
+tech-c:             LWS-DN42
+mnt-by:             LWS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDN6EJIZHtoGyQ3ihZ+hB1Z2eHWcLOIjSmtlOz4qDb5LCT1h+xtqvBKUbG9Jb5U5VNSUqepJOUygN2FyxdBE6HqQ9c0zSYLp6uRmEAg3PyDDsF+mApRfg3zQl/kP+9ERpxKt+EYSjzJgKgOSivaluDd7T5m3+nsRh85t8OE9gxGnP6vE/KruoBvncYVMvJahCy9kw1rx80Ik7x+hlkZ231Y7TAWiUOnF8dUkSbUamX7ItQvsNUs1w6jMLXp6hkHd/oeyH7GRaUPwlvKgVW+72658HOSWm1UbyZVhfSXsKeZjWLKfHBr+lIluuAIve1u9K+bz1RIlRtoGTFm7gBGo8Up
+source:             DN42

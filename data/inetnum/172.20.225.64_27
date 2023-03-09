@@ -1,0 +1,13 @@
+inetnum:            172.20.225.64 - 172.20.225.95
+cidr:               172.20.225.64/27
+netname:            LWS-NETWORK
+descr:              Network of LWS
+country:            FR
+admin-c:            LWS-DN42
+tech-c:             LWS-DN42
+mnt-by:             LWS-MNT
+org:                ORG-LWS
+nserver:            ns1.lws.dn42
+nserver:            ns2.lws.dn42
+status:             ASSIGNED
+source:             DN42
