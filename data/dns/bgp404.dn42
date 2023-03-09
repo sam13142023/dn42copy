@@ -1,0 +1,9 @@
+domain:             bgp404.dn42
+admin-c:            BGP404-DN42
+tech-c:             BGP404-DN42
+mnt-by:             BGP404-MNT
+nserver:            ns1.bgp404.dn42 172.23.251.121
+nserver:            ns1.bgp404.dn42 fde9:6c3c:138a:53::1
+nserver:            ns2.bgp404.dn42 172.23.251.122
+nserver:            ns2.bgp404.dn42 fde9:6c3c:138a:53::2
+source:             DN42

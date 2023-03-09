@@ -1,0 +1,4 @@
+route6:             fde9:6c3c:138a::/48
+origin:             AS4242422151
+mnt-by:             BGP404-MNT
+source:             DN42

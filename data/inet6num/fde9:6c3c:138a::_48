@@ -1,0 +1,9 @@
+inet6num:           fde9:6c3c:138a:0000:0000:0000:0000:0000 - fde9:6c3c:138a:ffff:ffff:ffff:ffff:ffff
+cidr:               fde9:6c3c:138a::/48
+country:            HK
+netname:            BGP404V6-NET
+admin-c:            BGP404-DN42
+tech-c:             BGP404-DN42
+mnt-by:             BGP404-MNT
+status:             ASSIGNED
+source:             DN42

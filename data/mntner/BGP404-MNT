@@ -1,0 +1,6 @@
+mntner:             BGP404-MNT
+admin-c:            BGP404-DN42
+tech-c:             BGP404-DN42
+mnt-by:             BGP404-MNT
+auth:               pgp-fingerprint 950BF3EA5AF37FD82EED42B18273F851FC793F4D
+source:             DN42

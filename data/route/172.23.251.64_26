@@ -1,0 +1,4 @@
+route:              172.23.251.64/26
+origin:             AS4242422151
+mnt-by:             BGP404-MNT
+source:             DN42
