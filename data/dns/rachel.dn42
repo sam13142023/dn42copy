@@ -1,0 +1,10 @@
+domain:             rachel.dn42
+admin-c:            RACHEL-DN42
+tech-c:             RACHEL-DN42
+mnt-by:             RACHEL-MNT
+remarks:            { contact: rachel@rachelbonnie.com }
+nserver:            ns1.rachel.dn42 172.23.57.80
+nserver:            ns1.rachel.dn42 fd48:a00a:2604:53::80
+nserver:            ns2.rachel.dn42 172.23.57.90
+nserver:            ns2.rachel.dn42 fd48:a00a:2604:53::90
+source:             DN42
