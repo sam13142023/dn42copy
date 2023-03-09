@@ -6,5 +6,6 @@ country:            UK
 admin-c:            USMAN-DN42
 tech-c:             USMAN-DN42
 mnt-by:             USMAN-MNT
+nserver:            ns1.usman.dn42
 status:             ASSIGNED
 source:             DN42
