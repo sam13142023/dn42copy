@@ -1,0 +1,5 @@
+route6:             fdca:6f9e:3285::/48
+origin:             AS4242421140
+max-length:         48
+mnt-by:             A0S-MNT
+source:             DN42

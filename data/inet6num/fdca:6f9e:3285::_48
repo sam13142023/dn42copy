@@ -1,0 +1,9 @@
+inet6num:           fdca:6f9e:3285:0000:0000:0000:0000:0000 - fdca:6f9e:3285:ffff:ffff:ffff:ffff:ffff
+cidr:               fdca:6f9e:3285::/48
+netname:            A0S-NET
+mnt-by:             A0S-MNT
+admin-c:            A0S-DN42
+tech-c:             A0S-DN42
+country:            DE
+status:             ASSIGNED
+source:             DN42
