@@ -1,0 +1,13 @@
+inetnum:            172.23.57.64 - 172.23.57.127
+cidr:               172.23.57.64/26
+netname:            RACHELS-NETWORK
+descr:              IPv4 address space for Rachel's Network
+remarks:            { contact: rachel@rachelbonnie.com }
+country:            US
+admin-c:            RACHEL-DN42
+tech-c:             RACHEL-DN42
+mnt-by:             RACHEL-MNT
+nserver:            ns1.rachel.dn42
+nserver:            ns2.rachel.dn42
+status:             ASSIGNED
+source:             DN42

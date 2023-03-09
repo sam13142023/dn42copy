@@ -1,0 +1,4 @@
+route6:             fd48:a00a:2604::/48
+origin:             AS4242420557
+mnt-by:             RACHEL-MNT
+source:             DN42

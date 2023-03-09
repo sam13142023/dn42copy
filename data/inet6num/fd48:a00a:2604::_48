@@ -1,0 +1,13 @@
+inet6num:           fd48:a00a:2604:0000:0000:0000:0000:0000 - fd48:a00a:2604:ffff:ffff:ffff:ffff:ffff
+netname:            RACHELS-NETWORK
+descr:              IPv6 address space for Rachel's Network
+remarks:            { contact: rachel@rachelbonnie.com }
+country:            US
+admin-c:            RACHEL-DN42
+tech-c:             RACHEL-DN42
+mnt-by:             RACHEL-MNT
+status:             ASSIGNED
+nserver:            ns1.rachel.dn42
+nserver:            ns2.rachel.dn42
+cidr:               fd48:a00a:2604::/48
+source:             DN42
