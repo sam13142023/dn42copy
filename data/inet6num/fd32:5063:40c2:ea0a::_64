@@ -5,7 +5,6 @@ country:            CN
 admin-c:            QYN-DN42
 tech-c:             QYN-DN42
 mnt-by:             QYN-MNT
-nserver:            ns1.qyn.dn42
 status:             ASSIGNED
 cidr:               fd32:5063:40c2:ea0a::/64
 source:             DN42
