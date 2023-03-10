@@ -1,5 +1,6 @@
 mntner:             MARLINC-MNT
 remarks:            pin-sha256:oe5rzzhH2Xn51ehUtmHdrfhvslTYXeaaODFaM9C+p7Y=
+auth:               pgp-fingerprint 3447AD948D18E6C25917F6E3FE267E2529E70DF1
 admin-c:            MARLINC-DN42
 tech-c:             MARLINC-DN42
 mnt-by:             MARLINC-MNT
