@@ -1,0 +1,11 @@
+inet6num:           fdde:7d4f:e027:0000:0000:0000:0000:0000 - fdde:7d4f:e027:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:7d4f:e027::/48
+netname:            ROZINT-NETWORK
+descr:              Network of Rozint
+country:            US
+org:                ORG-ROZINT
+admin-c:            ROZINT-DN42
+tech-c:             ROZINT-DN42
+mnt-by:             ROZINT-MNT
+status:             ASSIGNED
+source:             DN42
