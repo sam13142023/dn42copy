@@ -1,0 +1,11 @@
+inetnum:            172.23.251.64 - 172.23.251.127
+cidr:               172.23.251.64/26
+country:            HK
+netname:            BGP404-NET
+admin-c:            BGP404-DN42
+tech-c:             BGP404-DN42
+mnt-by:             BGP404-MNT
+nserver:            ns1.bgp404.dn42
+nserver:            ns2.bgp404.dn42
+status:             ASSIGNED
+source:             DN42
