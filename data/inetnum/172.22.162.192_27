@@ -1,0 +1,10 @@
+inetnum:            172.22.162.192 - 172.22.162.223
+cidr:               172.22.162.192/27
+netname:            ROZINT-NETWORK
+country:            US
+org:                ORG-ROZINT
+admin-c:            ROZINT-DN42
+tech-c:             ROZINT-DN42
+mnt-by:             ROZINT-MNT
+status:             ASSIGNED
+source:             DN42

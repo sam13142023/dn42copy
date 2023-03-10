@@ -1,0 +1,6 @@
+mntner:             ROZINT-MNT
+admin-c:            ROZINT-DN42
+tech-c:             ROZINT-DN42
+mnt-by:             ROZINT-MNT
+auth:               pgp-fingerprint 314A0E69A669D0F35F2F8E9B0CF0441D440F74CE
+source:             DN42
