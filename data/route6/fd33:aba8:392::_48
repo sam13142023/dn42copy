@@ -1,0 +1,5 @@
+route6:             fd33:aba8:392::/48
+descr:              Marlinc home network
+origin:             AS4242423941
+mnt-by:             MARLINC-MNT
+source:             DN42
