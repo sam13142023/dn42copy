@@ -1,0 +1,8 @@
+domain:             ipinfo.dn42
+admin-c:            RACHEL-DN42
+tech-c:             RACHEL-DN42
+mnt-by:             RACHEL-MNT
+remarks:            { contact: rachel@rachelbonnie.com }
+nserver:            ns1.rachel.dn42
+nserver:            ns2.rachel.dn42
+source:             DN42
