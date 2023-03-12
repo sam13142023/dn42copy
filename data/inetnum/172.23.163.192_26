@@ -4,7 +4,10 @@ descr:              Home network
 tech-c:             MARLINC-DN42
 mnt-by:             MARLINC-MNT
 status:             ALLOCATED
-nserver:            ns1.nl-zuid.dn42
+nserver:            ns1.marlinc.dn42
+ds-rdata:           30971 13 2 084143257688111c968e353d42afbf59f63b63b428efb73d8b1aa90ec6abc714
+ds-rdata:           30971 13 4 fb3f952bf324e3e9f08ca5f592c212fce37ce23732ea70c06b4106c07539ab4f2d0a39fe824135b5d621f42259ae0cbf
+country:            NL
 cidr:               172.23.163.192/26
-netname:            Unnamed 172.23.163.192/26 Network
+netname:            MARLINC-HOME
 source:             DN42

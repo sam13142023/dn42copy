@@ -5,6 +5,7 @@ remarks:            Used for:
 remarks:            - Amsterdam IX
 remarks:            - Internal network
 nserver:            ns1.nl-zuid.dn42
+nserver:            ns2.nl-zuid.dn42
 country:            NL
 admin-c:            NL-ZUID-DN42
 tech-c:             NL-ZUID-DN42

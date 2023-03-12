@@ -1,10 +1,13 @@
 inet6num:           fd33:aba8:0392:0000:0000:0000:0000:0000 - fd33:aba8:0392:ffff:ffff:ffff:ffff:ffff
-netname:            MARLINC-DN42
+netname:            MARLINC-HOME
 descr:              Marlinc
 admin-c:            MARLINC-DN42
 tech-c:             MARLINC-DN42
 mnt-by:             MARLINC-MNT
 nserver:            ns1.marlinc.dn42
+ds-rdata:           63185 13 2 bd4ca09fb2f3c752455f56f046a825841fae1440ef8834bac4ef60a3bcb0fb1a
+ds-rdata:           63185 13 4 41c58a359ae7d35cdbfee5623903c0feb2a8064101c524eadc4a25a23f87ea71f900ea944f7ec32873a30903d48ff6b1
+country:            NL
 status:             ALLOCATED
 cidr:               fd33:aba8:392::/48
 source:             DN42
