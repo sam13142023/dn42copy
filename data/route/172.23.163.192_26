@@ -1,5 +1,6 @@
 route:              172.23.163.192/26
-descr:              Route to Marlinc's home network
+descr:              Marlinc home network
 origin:             AS4242423941
+max-length:         26
 mnt-by:             MARLINC-MNT
 source:             DN42

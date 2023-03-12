@@ -2,5 +2,8 @@ domain:             marlinc.dn42
 admin-c:            MARLINC-DN42
 tech-c:             MARLINC-DN42
 mnt-by:             MARLINC-MNT
-nserver:            ns1.nl-zuid.dn42
+nserver:            ns1.marlinc.dn42 172.23.163.230
+nserver:            ns1.marlinc.dn42 fd33:aba8:392:10:4d8:c7ff:fe5f:a6d5
+ds-rdata:           28320 13 2 3d827b01fbf837e6d0de96d3acd50509e7a525b30c77b0c665dfe0c6908befaa
+ds-rdata:           28320 13 4 d2de0c75cc533c217836e070f02a0f3cddae3a58323c47766fe2476456252bea1f8e3595b8849a9f25323f1c1e089976
 source:             DN42

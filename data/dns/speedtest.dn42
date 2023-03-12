@@ -2,5 +2,7 @@ domain:             speedtest.dn42
 admin-c:            NL-ZUID-DN42
 tech-c:             NL-ZUID-DN42
 mnt-by:             MARLINC-MNT
-nserver:            ns1.nl-zuid.dn42
+nserver:            ns1.marlinc.dn42
+ds-rdata:           49793 13 2 9a7306ec2ef05e23934bc381ace8e917c2bae0e52297f59eb7feb2b57a5456b6
+ds-rdata:           49793 13 4 90d1575d3d11f5246ffb5bbe6cfa6573031aa49c099924b54d50b4cfd493da97f6efb60ef001bc67e0f972dc83906b67
 source:             DN42

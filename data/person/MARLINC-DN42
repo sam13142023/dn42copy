@@ -3,4 +3,7 @@ nic-hdl:            MARLINC-DN42
 www:                https://marlinc.dn42
 mnt-by:             MARLINC-MNT
 e-mail:             marlinc@marlinc.dn42
+e-mail:             dn42@marlinc.nl
+contact:            irc:marlinc@hackint
+contact:            irc:marlinc@irc.dn42
 source:             DN42
