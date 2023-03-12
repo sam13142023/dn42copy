@@ -3,5 +3,8 @@ admin-c:            RACHEL-DN42
 tech-c:             RACHEL-DN42
 mnt-by:             RACHEL-MNT
 source:             DN42
+remarks:            { Contact: rachel@rachelbonnie.com }
+remarks:            { Open peering policy! }
+remarks:            pin-sha256:Ryy9EogvHrqBAOGs8bAR3zKPWgd0x16V59kCzwqZa7s=
 auth:               pgp-fingerprint 4455B653E067646D19333BBFC4197AE63444D70E
 auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDG1alBDZV7+CsbUe99CCfy+5B4I1AvJoqz+u0Y3oPnktTgfm/LWTE5SH+lJBXF5X6Gu93qz8QReUWI/+f09An3+vJo6E+tIMIQren0RLrZHoxikALxUZNkJVmvVIwRFoiMXzRB3vaEra26st1W7ouqii9dX8TGR9IwbE+aLJ0XNO515McrqvkBFNlmLxIkEn/nPHOm+7bA4SxFjzg4kPrhL0TNrmi4nW7g/O/i2Na5RYQiyXrmZV7XUchGpfYcxHfTma4Q/hIkgTI5TCz50sDDPiol7sAVJmv5wcFOtmIhKkKebTk63SCA9z3Hr3joSh1ur1/imnrtPNLbnyjT3w7q7DV3Y1UWRqX83RaDpoAT42L0VCPPZOQlTFiVCrGO90I4X8AZsuVeqzMurhXLUAzKMTV/pT6lqhQqSXt5svls8hzDDCC4L1afib+q4QiScgM2bSK4xuvsT6lXqX/MNWmaEmHrlpPTXhNqe+Pl/tiPkE7f+LhA+KGnVX4Tn3TKoZ8=
