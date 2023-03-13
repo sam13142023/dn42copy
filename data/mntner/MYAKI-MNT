@@ -1,0 +1,7 @@
+mntner:             MYAKI-MNT
+admin-c:            MYAKI-DN42
+tech-c:             MYAKI-DN42
+mnt-by:             MYAKI-MNT
+source:             DN42
+auth:               pgp-fingerprint 1FE7423F70AE59C1CD7D7113AB51EF35CBC942D3
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDYeFnxDE2ZdFJTzR+uVvCqKesasOHAy6FToqhJglCU9LsQvVsh9GobYpEqWLp4zP7FsTtGpg2e3/NBgrXXhRgcpxWWHo8RExDlggaPC4jvvaXIvtVJLUXLgGg9zYwbyFyvUcOA2bvIuQuD7NkJetOYiY/E97IOkUwSv5naB1UEhKLkPqwTXLsRVEqb+hONrx4ZMku0nOZKHo0lg2UMtPB874MHJPeU0UJsxyRh8cAOYhMvt72RDcWvLn2FntAouVlYrXcCpGPO7eyQYkVMd93KUaDKDWL1dcVY9oCOfiW3VbscevIsqKxFm27wbxrMck3cRTL0NbFYCI0WLdrMHvLXd6JORU9ppxpZWNX7jntHcUpTEeMvmkchIkwowD8+cGaa8ZOzKhgmF48B4Rv5DmHMD9L1kcVQpEMBnfvmwALeO2htfAhORSvVisGN1Kk4ZXfA5OQkKoaDZiCTkJNWKa+v0vYtxKsdJ3z+Y5/B+P+XP946wf6DmITTFyLGmd5LjxU=

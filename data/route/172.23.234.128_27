@@ -1,0 +1,5 @@
+route:              172.23.234.128/27
+descr:              neko.net!
+origin:             AS4242422769
+mnt-by:             MYAKI-MNT
+source:             DN42

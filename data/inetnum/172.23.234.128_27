@@ -1,0 +1,10 @@
+inetnum:            172.23.234.128 - 172.23.234.159
+netname:            NEKONET-IPV4
+descr:              neko.net
+country:            CN
+admin-c:            MYAKI-DN42
+tech-c:             MYAKI-DN42
+mnt-by:             MYAKI-MNT
+status:             ASSIGNED
+cidr:               172.23.234.128/27
+source:             DN42
