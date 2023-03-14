@@ -2,5 +2,5 @@ mntner:             MOH53N-MNT
 admin-c:            MOH53N-DN42
 tech-c:             MOH53N-DN42
 mnt-by:             MOH53N-MNT
-auth:               pgp-fingerprint 2066942EE4F0D7F54AA1BF71B2EEFD315281375B
+auth:               pgp-fingerprint 094B192E57BD31050DA7C8378302640874D63CA0
 source:             DN42
