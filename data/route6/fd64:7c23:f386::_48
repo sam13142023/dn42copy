@@ -1,0 +1,5 @@
+route6:             fd64:7c23:f386::/48
+origin:             AS4242421203
+max-length:         48
+mnt-by:             SERAPHJACK-MNT
+source:             DN42

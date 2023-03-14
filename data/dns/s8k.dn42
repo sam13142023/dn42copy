@@ -1,0 +1,9 @@
+domain:             s8k.dn42
+admin-c:            SERAPHJACK-DN42
+tech-c:             SERAPHJACK-DN42
+mnt-by:             SERAPHJACK-MNT
+nserver:            ns1.s8k.dn42 172.23.120.65
+nserver:            ns1.s8k.dn42 fd64:7c23:f386::1
+nserver:            ns2.s8k.dn42 172.23.120.66
+nserver:            ns2.s8k.dn42 fd64:7c23:f386::2
+source:             DN42
