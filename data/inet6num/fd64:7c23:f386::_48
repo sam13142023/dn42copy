@@ -1,0 +1,12 @@
+inet6num:           fd64:7c23:f386:0000:0000:0000:0000:0000 - fd64:7c23:f386:ffff:ffff:ffff:ffff:ffff
+cidr:               fd64:7c23:f386::/48
+netname:            S8K-NETWORK
+descr:              S8k Network
+country:            CN
+admin-c:            SERAPHJACK-DN42
+tech-c:             SERAPHJACK-DN42
+mnt-by:             SERAPHJACK-MNT
+status:             ASSIGNED
+nserver:            ns1.s8k.dn42
+nserver:            ns2.s8k.dn42
+source:             DN42

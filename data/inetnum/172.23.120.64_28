@@ -1,0 +1,12 @@
+inetnum:            172.23.120.64 - 172.23.120.79
+cidr:               172.23.120.64/28
+netname:            S8K-NETWORK
+descr:              S8K Network
+country:            CN
+admin-c:            SERAPHJACK-DN42
+tech-c:             SERAPHJACK-DN42
+mnt-by:             SERAPHJACK-MNT
+status:             ASSIGNED
+nserver:            ns1.s8k.dn42
+nserver:            ns2.s8k.dn42
+source:             DN42

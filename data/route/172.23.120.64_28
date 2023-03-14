@@ -1,0 +1,4 @@
+route:              172.23.120.64/28
+origin:             AS4242421203
+mnt-by:             SERAPHJACK-MNT
+source:             DN42
