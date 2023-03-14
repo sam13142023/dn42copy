@@ -1,0 +1,10 @@
+inet6num:           fd64:0042:ffff:0000:0000:0000:0000:0000 - fd64:0042:ffff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd64:42:ffff::/48
+netname:            IX64-NETWORK
+descr:              IPv6 Network of IX64
+country:            CN
+admin-c:            IX64-DN42
+tech-c:             IX64-DN42
+mnt-by:             IX64-MNT
+status:             ASSIGNED
+source:             DN42
