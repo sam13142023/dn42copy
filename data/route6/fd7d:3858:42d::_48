@@ -1,4 +1,4 @@
-route:              fd7d:3858:42d::/48
+route6:             fd7d:3858:42d::/48
 origin:             AS4242423702
 mnt-by:             LAUNCHPAD-MNT
 source:             DN42
