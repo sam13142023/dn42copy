@@ -1,0 +1,8 @@
+mntner:             JKSU-MNT
+admin-c:            JKSU-DN42
+tech-c:             JKSU-DN42
+mnt-by:             JKSU-MNT
+source:             DN42
+auth:               pgp-fingerprint E16C9222DE7E3C277485EF98EFBDEAE153D59E5D
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBASw6rCNodam5e0Ns0ZTXrGvxFWvE4CcZuPbiK4hsDP root@ip007
+remarks:            jksu

@@ -1,0 +1,10 @@
+inet6num:           fdc6:2ac0:db72:0000:0000:0000:0000:0000 - fdc6:2ac0:db72:ffff:ffff:ffff:ffff:ffff
+netname:            JKSU-IPV6
+descr:              Peer with me at 403342009@qq.com
+country:            CN
+admin-c:            JKSU-DN42
+tech-c:             JKSU-DN42
+mnt-by:             JKSU-MNT
+status:             ASSIGNED
+cidr:               fdc6:2ac0:db72::/48
+source:             DN42
