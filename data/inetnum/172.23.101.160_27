@@ -1,0 +1,11 @@
+inetnum:            172.23.101.160 - 172.23.101.191
+netname:            JKSU-IPV4
+remarks:            Peer with me at 403342009@qq.com
+descr:              Peer with me at 403342009@qq.com
+country:            CN
+admin-c:            JKSU-DN42
+tech-c:             JKSU-DN42
+mnt-by:             JKSU-MNT
+status:             ASSIGNED
+cidr:               172.23.101.160/27
+source:             DN42
