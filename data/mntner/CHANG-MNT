@@ -1,0 +1,8 @@
+mntner:             CHANG-MNT
+admin-c:            CHANG-DN42
+tech-c:             CHANG-DN42
+mnt-by:             CHANG-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKVMdj6bUJ1RUnZmOFdm75MduChEcSVfgim4+Zddgdh4 ubuntu@VM-4-14-ubuntu
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCxGWOolupabV80mm97Rgo9eaectuCRWaE7oMc8eVxFYOjQTMWb6ZA2TzYr21DseOkPyQ2F2Bd+ccb5JiO1SYSqIwp1BdNviTIC+CZBA3WU9vhqyLaj2MbuSRNSY3l/H+lgnLRTzR5gemz3M8CHAV3LjbxhDwtDUMh8vJEeIUBxdJYPiwhwdft8ExbtxtImtQSBxDPbXek64b0LsOH2aiq9AN1v3E6BCiAj2jNkR8PdPSKLm7XR6iZSRIbSQVxB9124qSwA4QpTevdWmgH1t0V83WGTzhDIcGh7YsdX2sJ3NALwxKt4NJSa3tBJNiTh4hbE/iiY6EhQ9xEKtWa8OBRLILLB9Yno8ghlszv1ZT9qyMx0vFQUcRYedP/tYih2X/XZ2AcNGLJ2FZMNIQwYdc/Y7CD+gdtW/vzG/SI3ivUZv1pDLSDJIlDNsn7iy32+yGfR//eqKaGP8ZLqGmTLekZfB2pbfuzPr/zdOTHwV8zj9oRbANOXEOjKb1D+RtmAw3s= gaohaoyang1999222@163.com
+remarks:            for AS relationship research
