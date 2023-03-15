@@ -1,0 +1,11 @@
+inetnum:            172.20.15.224 - 172.20.15.239
+netname:            CHANG-IPV4
+remarks:            Peer with me at 1522268169@qq.com
+descr:              for AS relationship research
+country:            CN
+admin-c:            CHANG-DN42
+tech-c:             CHANG-DN42
+mnt-by:             CHANG-MNT
+status:             ASSIGNED
+cidr:               172.20.15.224/28
+source:             DN42

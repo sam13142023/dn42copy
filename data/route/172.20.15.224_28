@@ -1,0 +1,5 @@
+route:              172.20.15.224/28
+descr:              for AS relationship research
+origin:             AS4242422554
+mnt-by:             CHANG-MNT
+source:             DN42
