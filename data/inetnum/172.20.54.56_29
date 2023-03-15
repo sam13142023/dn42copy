@@ -1,0 +1,9 @@
+inetnum:            172.20.54.56 - 172.20.54.63
+cidr:               172.20.54.56/29
+netname:            LAUNCHPAD-IPV4
+country:            CN
+admin-c:            LAUNCHPAD-DN42
+tech-c:             LAUNCHPAD-DN42
+mnt-by:             LAUNCHPAD-MNT
+status:             ASSIGNED
+source:             DN42
