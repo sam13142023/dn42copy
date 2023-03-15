@@ -1,0 +1,6 @@
+mntner:             LAUNCHPAD-MNT
+admin-c:            LAUNCHPAD-DN42
+tech-c:             LAUNCHPAD-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINP54KXs3cAM/9Y6ZkDjtBHUyl91NmfQo+VoPXwXPE2O
+mnt-by:             LAUNCHPAD-MNT
+source:             DN42
