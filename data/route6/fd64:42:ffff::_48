@@ -1,0 +1,5 @@
+route6:             fd64:42:ffff::/48
+origin:             AS4242423364
+max-length:         27
+mnt-by:             IX64-MNT
+source:             DN42

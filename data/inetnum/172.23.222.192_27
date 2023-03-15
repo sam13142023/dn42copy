@@ -1,0 +1,10 @@
+inetnum:            172.23.222.192 - 172.23.222.223
+cidr:               172.23.222.192/27
+netname:            IX64-NETWORK
+descr:              IPv4 Network of IX64
+country:            CN
+admin-c:            IX64-DN42
+tech-c:             IX64-DN42
+mnt-by:             IX64-MNT
+status:             ASSIGNED
+source:             DN42
