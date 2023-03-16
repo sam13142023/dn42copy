@@ -1,0 +1,7 @@
+domain:             lpnet0.dn42
+admin-c:            LAUNCHPAD-DN42
+tech-c:             LAUNCHPAD-DN42
+mnt-by:             LAUNCHPAD-MNT
+nserver:            ns1.lpnet0.dn42 172.20.54.57
+nserver:            ns1.lpnet0.dn42 fd7d:3858:42d::1
+source:             DN42

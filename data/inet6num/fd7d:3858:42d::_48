@@ -1,6 +1,7 @@
 inet6num:           fd7d:3858:042d:0000:0000:0000:0000:0000 - fd7d:3858:042d:ffff:ffff:ffff:ffff:ffff
 cidr:               fd7d:3858:42d::/48
-netname:            LAUNCHPAD-IPV6
+netname:            LAUNCHPAD-NET-IPV6
+nserver:            ns1.lpnet0.dn42
 country:            CN
 admin-c:            LAUNCHPAD-DN42
 tech-c:             LAUNCHPAD-DN42
