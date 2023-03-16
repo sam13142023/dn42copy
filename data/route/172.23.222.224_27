@@ -1,0 +1,6 @@
+route:              172.23.222.224/27
+descr:              Peer with me at 007@ip007.website
+origin:             AS4242421622
+mnt-by:             XIAOMA-MNT
+source:             DN42
+max-length:         27

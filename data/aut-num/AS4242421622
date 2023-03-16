@@ -1,0 +1,7 @@
+aut-num:            AS4242421622
+as-name:            XIAOMA-AS
+descr:              Peer with me at 007@ip007.website
+admin-c:            XIAOMA-DN42
+tech-c:             XIAOMA-DN42
+mnt-by:             XIAOMA-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.222.224 - 172.23.222.255
+netname:            XIAOMA-IPV4
+remarks:            Peer with me at 007@ip007.website
+descr:              Peer with me at 007@ip007.website
+country:            CN
+admin-c:            XIAOMA-DN42
+tech-c:             XIAOMA-DN42
+mnt-by:             XIAOMA-MNT
+status:             ASSIGNED
+cidr:               172.23.222.224/27
+source:             DN42

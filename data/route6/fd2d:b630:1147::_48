@@ -1,0 +1,6 @@
+route6:             fd2d:b630:1147::/48
+descr:              Peer with me at 007@ip007.website
+origin:             AS4242421622
+mnt-by:             XIAOMA-MNT
+source:             DN42
+max-length:         48

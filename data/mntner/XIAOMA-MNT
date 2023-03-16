@@ -1,0 +1,6 @@
+mntner:             XIAOMA-MNT
+admin-c:            XIAOMA-DN42
+tech-c:             XIAOMA-DN42
+mnt-by:             XIAOMA-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILNwxx3v/faWAUPkUsgnUpAY1ZItm1Q6rocbgrEwzFBB xiaomage@xiaomagedeMacBook-Pro.local
