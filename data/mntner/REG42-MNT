@@ -1,0 +1,6 @@
+mntner:             REG42-MNT
+admin-c:            REG42-DN42
+tech-c:             REG42-DN42
+mnt-by:             REG42-MNT
+source:             DN42
+auth:               pgp-fingerprint 4140406A7A65E9CAFDB1BBD6E6D2F2DF2CE5BA55
