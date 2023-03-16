@@ -1,0 +1,10 @@
+inet6num:           fd2d:b630:1147:0000:0000:0000:0000:0000 - fd2d:b630:1147:ffff:ffff:ffff:ffff:ffff
+netname:            XIAOMA-IPV6
+descr:              Peer with me at 007@ip007.website
+country:            CN
+admin-c:            XIAOMA-DN42
+tech-c:             XIAOMA-DN42
+mnt-by:             XIAOMA-MNT
+status:             ASSIGNED
+cidr:               fd2d:b630:1147::/48
+source:             DN42
