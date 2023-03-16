@@ -1,4 +1,5 @@
 route6:             fd27:2761:faba::/48
+max-length:         48
 origin:             AS4242422851
 mnt-by:             THEBAMPLAYER-MNT
 source:             DN42
