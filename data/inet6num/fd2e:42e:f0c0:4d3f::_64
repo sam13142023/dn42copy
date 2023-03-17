@@ -1,0 +1,9 @@
+inet6num:           fd2e:042e:f0c0:4d3f:0000:0000:0000:0000 - fd2e:042e:f0c0:4d3f:ffff:ffff:ffff:ffff
+cidr:               fd2e:42e:f0c0:4d3f::/64
+netname:            REG42-V6-NETWORK
+country:            US
+admin-c:            REG42-DN42
+tech-c:             REG42-DN42
+mnt-by:             REG42-MNT
+status:             ASSIGNED
+source:             DN42

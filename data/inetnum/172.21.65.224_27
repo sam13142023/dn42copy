@@ -1,0 +1,9 @@
+inetnum:            172.21.65.224 - 172.21.65.255
+netname:            REG42-V4-NETWORK
+country:            US
+admin-c:            REG42-DN42
+tech-c:             REG42-DN42
+mnt-by:             REG42-MNT
+status:             ASSIGNED
+cidr:               172.21.65.224/27
+source:             DN42
