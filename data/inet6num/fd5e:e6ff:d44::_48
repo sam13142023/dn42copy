@@ -1,0 +1,11 @@
+inet6num:           fd5e:e6ff:0d44:0000:0000:0000:0000:0000 - fd5e:e6ff:0d44:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:e6ff:d44::/48
+netname:            BSDAC-NETWORK
+descr:              Network of BSDAC
+country:            US
+admin-c:            BSDAC-DN42
+tech-c:             BSDAC-DN42
+mnt-by:             BSDAC-MNT
+org:                ORG-BSDAC
+status:             ASSIGNED
+source:             DN42

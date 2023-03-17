@@ -1,0 +1,6 @@
+mntner:             BSDAC-MNT
+admin-c:            BSDAC-DN42
+tech-c:             BSDAC-DN42
+mnt-by:             BSDAC-MNT
+source:             DN42
+auth:               pgp-fingerprint 20A9B4588D0CCDB3D39A472D3DE6A178AD3D78BE

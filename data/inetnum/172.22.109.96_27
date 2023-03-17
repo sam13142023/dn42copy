@@ -1,0 +1,11 @@
+inetnum:            172.22.109.96 - 172.22.109.127
+cidr:               172.22.109.96/27
+netname:            BSDAC-NETWORK
+descr:              Network of BSDAC
+country:            US
+admin-c:            BSDAC-DN42
+tech-c:             BSDAC-DN42
+mnt-by:             BSDAC-MNT
+org:                ORG-BSDAC
+status:             ASSIGNED
+source:             DN42
