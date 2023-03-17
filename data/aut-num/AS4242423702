@@ -1,5 +1,6 @@
 aut-num:            AS4242423702
-as-name:            LAUNCHPAD-AS
+as-name:            LAUNCHPAD-NETWORK-AS
+descr:              LAUNCHPAD-NETWORK - Peer with me: zengweikang2511@gmail.com
 admin-c:            LAUNCHPAD-DN42
 tech-c:             LAUNCHPAD-DN42
 mnt-by:             LAUNCHPAD-MNT
