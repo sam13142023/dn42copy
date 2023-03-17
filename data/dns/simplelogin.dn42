@@ -1,0 +1,11 @@
+domain:             simplelogin.dn42
+descr:              simplelogin server for dn42.cc aliases
+remarks:            signup only via dn42 (on this domain)
+admin-c:            LARE-DN42
+tech-c:             LARE-DN42
+mnt-by:             LARE-MNT
+nserver:            ns.lare.dn42
+nserver:            ns1.lare.dn42
+nserver:            ns2.lare.dn42
+ds-rdata:           60052 13 2 CBDDCFC082831C453DEA84372EE45820DBD18FD0FC364342A15F5A0FD1EFA1FA
+source:             DN42
