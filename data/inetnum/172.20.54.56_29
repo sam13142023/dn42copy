@@ -1,6 +1,7 @@
 inetnum:            172.20.54.56 - 172.20.54.63
 cidr:               172.20.54.56/29
-netname:            LAUNCHPAD-NETWORK-IPV4
+netname:            LAUNCHPAD-NETWORK
+descr:              LAUNCHPAD-NETWORK - Peer with me: zengweikang2511@gmail.com
 nserver:            ns1.lpnet0.dn42
 country:            CN
 admin-c:            LAUNCHPAD-DN42
