@@ -1,0 +1,9 @@
+inetnum:            172.22.146.128 - 172.22.146.191
+cidr:               172.22.146.128/26
+netname:            SUNSHINE-NETWORK
+admin-c:            SUNSHINE-DN42
+country:            SG
+tech-c:             SUNSHINE-DN42
+mnt-by:             SUNSHINE-MNT
+status:             ASSIGNED
+source:             DN42
