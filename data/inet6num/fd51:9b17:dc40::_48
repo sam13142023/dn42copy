@@ -1,0 +1,10 @@
+inet6num:           fd51:9b17:dc40:0000:0000:0000:0000:0000 - fd51:9b17:dc40:ffff:ffff:ffff:ffff:ffff
+cidr:               fd51:9b17:dc40::/48
+netname:            CASKD-NETWORK
+descr:              caskd's DN42 presence
+country:            DE
+admin-c:            CASKD-DN42
+tech-c:             CASKD-DN42
+mnt-by:             CASKD-MNT
+status:             ASSIGNED
+source:             DN42

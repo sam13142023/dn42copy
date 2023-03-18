@@ -1,0 +1,6 @@
+mntner:             CASKD-MNT
+admin-c:            CASKD-DN42
+tech-c:             CASKD-DN42
+mnt-by:             CASKD-MNT
+auth:               pgp-fingerprint 9F26C055276035DDACAABD39E5AE8A47B8EFC7ED
+source:             DN42
