@@ -1,0 +1,8 @@
+aut-num:            AS4242421660
+as-name:            SUNSHINE-AS
+descr:              Sunshine's network, open to peering.
+remarks:            My network is open to peering;
+admin-c:            SUNSHINE-DN42
+tech-c:             SUNSHINE-DN42
+mnt-by:             SUNSHINE-MNT
+source:             DN42

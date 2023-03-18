@@ -1,0 +1,11 @@
+inet6num:           fd70:e301:5918:0000:0000:0000:0000:0000 - fd70:e301:5918:ffff:ffff:ffff:ffff:ffff
+netname:            SUNSHINE-IPV6
+descr:              Sunshine's IP space
+remarks:            My network is open to peering;
+country:            SG
+admin-c:            SUNSHINE-DN42
+tech-c:             SUNSHINE-DN42
+mnt-by:             SUNSHINE-MNT
+status:             ASSIGNED
+cidr:               fd70:e301:5918::/48
+source:             DN42

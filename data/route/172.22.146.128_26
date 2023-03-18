@@ -1,0 +1,7 @@
+route:              172.22.146.128/26
+descr:              Sunshine's IP space
+remarks:            Allowed to use by both my main AS and testing AS
+remarks:            My network is open to peering;
+origin:             AS4242421660
+mnt-by:             SUNSHINE-MNT
+source:             DN42
