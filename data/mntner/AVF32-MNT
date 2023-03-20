@@ -1,0 +1,6 @@
+mntner:             AVF32-MNT
+admin-c:            AVF32-DN42
+tech-c:             AVF32-DN42
+mnt-by:             AVF32-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINfjz+7m5jPFZLW2K3ZU6j1rYZ66IaP/pQeSWIMT4rHF
+source:             DN42

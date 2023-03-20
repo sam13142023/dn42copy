@@ -1,0 +1,5 @@
+route:              172.22.71.64/27
+origin:             AS4242420367
+max-length:         27
+mnt-by:             AVF32-MNT
+source:             DN42

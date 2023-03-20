@@ -1,0 +1,10 @@
+inetnum:            172.22.71.64 - 172.22.71.95
+cidr:               172.22.71.64/27
+netname:            AVF32-NETWORK
+descr:              Network of AVF32
+country:            GB
+admin-c:            AVF32-DN42
+tech-c:             AVF32-DN42
+mnt-by:             AVF32-MNT
+status:             ASSIGNED
+source:             DN42
