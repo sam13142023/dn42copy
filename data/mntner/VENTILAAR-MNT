@@ -2,6 +2,6 @@ mntner:             VENTILAAR-MNT
 admin-c:            VENTILAAR-DN42
 tech-c:             VENTILAAR-DN42
 mnt-by:             VENTILAAR-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINuOGoZ2O/N7asYLbra5Sc5gGJHScPGWxyKVu1LX9mZe
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINeYTxefxGG0jKbb40kKOO5PgDkwVQO8XyxlMEsLgNid
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMZ55l6NzSIVM/B01OiXVgCKr5qvManuFJDmLOVKRR6o
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIZ2EWUAAkxIuahMhqr8SEQ4J3v97BUZB5N20bLTaIaA
 source:             DN42
