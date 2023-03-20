@@ -1,5 +1,5 @@
-inet6num:           fdfd:0022:0046:0000:0000:0000:0000:0000 - fdfd:0022:0046:ffff:ffff:ffff:ffff:ffff
-cidr:               fdfd:22:46::/48
+inet6num:           fdef:7b3a:d88f:0000:0000:0000:0000:0000 - fdef:7b3a:d88f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:7b3a:d88f::/48
 netname:            VENTILAAR-IPV6
 country:            NL
 admin-c:            VENTILAAR-DN42
