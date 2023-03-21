@@ -1,7 +1,0 @@
-route6:             fd42:2a2b:acf1::/48
-max-length:         48
-descr:              massar.dn42 https://dn42.ch/
-origin:             AS4242420577
-pingable:           fd42:4a2b:acf1::1
-mnt-by:             MASSAR-MNT
-source:             DN42
