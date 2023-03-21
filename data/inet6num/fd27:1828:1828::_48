@@ -1,0 +1,10 @@
+inet6num:           fd27:1828:1828:0000:0000:0000:0000:0000 - fd27:1828:1828:ffff:ffff:ffff:ffff:ffff
+cidr:               fd27:1828:1828::/48
+netname:            AVF32-NETWORK
+descr:              Network of AVF32
+country:            GB
+admin-c:            AVF32-DN42
+tech-c:             AVF32-DN42
+mnt-by:             AVF32-MNT
+status:             ASSIGNED
+source:             DN42

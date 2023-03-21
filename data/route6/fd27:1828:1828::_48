@@ -1,0 +1,5 @@
+route6:             fd27:1828:1828::/48
+origin:             AS4242420367
+max-length:         48
+mnt-by:             AVF32-MNT
+source:             DN42
