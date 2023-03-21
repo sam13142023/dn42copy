@@ -5,4 +5,5 @@ admin-c:            FORTERA-DN42
 tech-c:             FORTERA-DN42
 mnt-by:             FORTERA-MNT
 status:             ASSIGNED
+nserver:            ns0.fortera.dn42
 source:             DN42

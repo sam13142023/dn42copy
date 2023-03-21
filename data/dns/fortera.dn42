@@ -3,6 +3,6 @@ descr:              DNS zone for AS4242421062 resources
 admin-c:            FORTERA-DN42
 tech-c:             FORTERA-DN42
 mnt-by:             FORTERA-MNT
-nserver:            ns0.fortera.dn42 172.22.138.42
-nserver:            ns0.fortera.dn42 fdd8:b33e:a9fc:1::2
+nserver:            ns0.fortera.dn42 172.22.138.44
+nserver:            ns0.fortera.dn42 fdd8:b33e:a9fc:1::4
 source:             DN42
