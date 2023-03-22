@@ -2,5 +2,5 @@ mntner:             MOE233-MNT
 admin-c:            MOE233-DN42
 tech-c:             MOE233-DN42
 mnt-by:             MOE233-MNT
-auth:               pgp-fingerprint 8999046406E2C23458F31B7FD22CCCCCCCCCCCCC
+auth:               pgp-fingerprint D621D48517C6A5EB512512C61D209F5450DA6A84
 source:             DN42
