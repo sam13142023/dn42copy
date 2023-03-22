@@ -2,5 +2,6 @@ domain:             as4242422851.dn42
 admin-c:            THEBAMPLAYER-DN42
 tech-c:             THEBAMPLAYER-DN42
 mnt-by:             THEBAMPLAYER-MNT
+ds-rdata:           41462 13 2 CF6CC0A7E7B5806155CD6C671CA7F5C8C8FCCB5FCEC9A6C586E35EC38C0FA83C
 nserver:            ns.thebamplayer.dn42
 source:             DN42

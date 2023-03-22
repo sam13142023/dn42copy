@@ -4,4 +4,5 @@ tech-c:             THEBAMPLAYER-DN42
 mnt-by:             THEBAMPLAYER-MNT
 nserver:            ns.thebamplayer.dn42 172.23.77.17
 nserver:            ns.thebamplayer.dn42 fd27:2761:faba::1
+ds-rdata:           33976 13 2 0C8A60E12C84345E637328C532BDE2CBEE6BB0A141FF343F139284B78D564D63
 source:             DN42

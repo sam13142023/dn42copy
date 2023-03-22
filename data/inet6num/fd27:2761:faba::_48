@@ -7,4 +7,5 @@ tech-c:             THEBAMPLAYER-DN42
 mnt-by:             THEBAMPLAYER-MNT
 status:             ASSIGNED
 source:             DN42
+ds-rdata:           20248 13 2 2E711C5D67109D50ABD626619D3472E98461EE0E554C64B05FD5A1780150ECDC
 nserver:            ns.thebamplayer.dn42
