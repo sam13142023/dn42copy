@@ -1,0 +1,5 @@
+route:              172.22.71.0/27
+origin:             AS4242423024
+max-length:         27
+mnt-by:             WEILISSO-MNT
+source:             DN42

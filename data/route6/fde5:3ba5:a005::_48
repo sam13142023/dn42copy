@@ -1,0 +1,5 @@
+route6:             fde5:3ba5:a005::/48
+origin:             AS4242423024
+max-length:         48
+mnt-by:             WEILISSO-MNT
+source:             DN42

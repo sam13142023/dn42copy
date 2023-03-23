@@ -1,0 +1,10 @@
+inet6num:           fde5:3ba5:a005:0000:0000:0000:0000:0000 - fde5:3ba5:a005:ffff:ffff:ffff:ffff:ffff
+cidr:               fde5:3ba5:a005::/48
+netname:            WEILISSO-NETWORK
+descr:              Network for weil isso
+country:            DE
+admin-c:            WEILISSO-DN42
+tech-c:             WEILISSO-DN42
+mnt-by:             WEILISSO-MNT
+status:             ASSIGNED
+source:             DN42
