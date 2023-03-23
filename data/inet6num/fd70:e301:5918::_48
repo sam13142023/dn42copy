@@ -8,4 +8,6 @@ tech-c:             SUNSHINE-DN42
 mnt-by:             SUNSHINE-MNT
 status:             ASSIGNED
 cidr:               fd70:e301:5918::/48
+nserver:            ns1.sunshine.dn42
+ds-rdata:           51090 13 2 55DF4DABAAB97100DCB3CC7E8FBEEEC42A5C288038D7F3BCE761D320 5AB8C617
 source:             DN42

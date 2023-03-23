@@ -6,4 +6,6 @@ country:            SG
 tech-c:             SUNSHINE-DN42
 mnt-by:             SUNSHINE-MNT
 status:             ASSIGNED
+nserver:            ns1.sunshine.dn42
+ds-rdata:           61076 13 2 7380AC10F882D27D1F25722FB73ECB88B5062756D5119DD049087171 FF6111D1
 source:             DN42

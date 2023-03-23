@@ -1,0 +1,8 @@
+domain:             sunshine.dn42
+admin-c:            SUNSHINE-DN42
+tech-c:             SUNSHINE-DN42
+mnt-by:             SUNSHINE-MNT
+nserver:            ns1.sunshine.dn42 172.22.146.129
+nserver:            ns1.sunshine.dn42 fd70:e301:5918::53
+ds-rdata:           16268 13 2 182C661A26D3694CC8D38FE3360A836DDD1E0886310D74695D91F75E 4FC248E9
+source:             DN42
