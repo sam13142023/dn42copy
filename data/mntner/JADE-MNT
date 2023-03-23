@@ -1,0 +1,6 @@
+mntner:             JADE-MNT
+admin-c:            JADE-DN42
+tech-c:             JADE-DN42
+mnt-by:             JADE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJWJrAOaAxZvznv6uFavJMp9DamQJ0gC78E94FsS1kLU
+source:             DN42
