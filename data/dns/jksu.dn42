@@ -1,0 +1,9 @@
+domain:             jksu.dn42
+admin-c:            JKSU-DN42
+tech-c:             JKSU-DN42
+mnt-by:             JKSU-MNT
+nserver:            ns1.jksu.dn42 172.23.101.161
+nserver:            ns1.jksu.dn42 fdc6:2ac0:db72::1
+nserver:            ns2.jksu.dn42 172.23.101.162
+nserver:            ns2.jksu.dn42 fdc6:2ac0:db72::3
+source:             DN42
