@@ -1,0 +1,10 @@
+inet6num:           fdd3:7032:8d46:0000:0000:0000:0000:0000 - fdd3:7032:8d46:ffff:ffff:ffff:ffff:ffff
+netname:            ZHNET-IPV6
+descr:              Opreator by ZH Network NOC: info@zhnet.co.uk
+country:            US
+admin-c:            ZHNET-DN42
+tech-c:             ZHNET-DN42
+mnt-by:             ZHNET-MNT
+status:             ASSIGNED
+cidr:               fdd3:7032:8d46::/48
+source:             DN42
