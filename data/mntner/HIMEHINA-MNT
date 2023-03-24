@@ -1,0 +1,7 @@
+mntner:             HIMEHINA-MNT
+admin-c:            HIMEHINA-DN42
+tech-c:             HIMEHINA-DN42
+mnt-by:             HIMEHINA-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAlkn1eoUAvr5dt7nBvz4ehDUPcpXZBel9x/QzuNvyMq
+remarks:            HIMEHINA
