@@ -1,0 +1,10 @@
+inetnum:            172.20.142.64 - 172.20.142.95
+cidr:               172.20.142.64/27
+netname:            JADE-NETWORK
+descr:              Network of Jade
+country:            DE
+admin-c:            JADE-DN42
+tech-c:             JADE-DN42
+mnt-by:             JADE-MNT
+status:             ASSIGNED
+source:             DN42

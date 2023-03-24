@@ -1,0 +1,10 @@
+inet6num:           fd20:7b8d:9afb:0000:0000:0000:0000:0000 - fd20:7b8d:9afb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd20:7b8d:9afb::/48
+netname:            JADE-NETWORK
+descr:              Network of Jade
+country:            DE
+admin-c:            JADE-DN42
+tech-c:             JADE-DN42
+mnt-by:             JADE-MNT
+status:             ASSIGNED
+source:             DN42

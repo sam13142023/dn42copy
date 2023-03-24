@@ -1,0 +1,5 @@
+route6:             fd20:7b8d:9afb::/48
+origin:             AS4242421499
+max-length:         48
+mnt-by:             JADE-MNT
+source:             DN42
