@@ -1,0 +1,5 @@
+route6:             fd7f:8672:2121::/48
+descr:              HIMEHINA.
+origin:             AS4242423121
+mnt-by:             HIMEHINA-MNT
+source:             DN42

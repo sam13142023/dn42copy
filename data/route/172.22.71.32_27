@@ -1,0 +1,5 @@
+route:              172.22.71.32/27
+descr:              HIMEHINA.
+origin:             AS4242423121
+mnt-by:             HIMEHINA-MNT
+source:             DN42

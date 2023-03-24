@@ -1,0 +1,10 @@
+inet6num:           fd7f:8672:2121:0000:0000:0000:0000:0000 - fd7f:8672:2121:ffff:ffff:ffff:ffff:ffff
+netname:            HIMEHINA-IPV6
+descr:              HIMEHINA.
+country:            CN
+admin-c:            HIMEHINA-DN42
+tech-c:             HIMEHINA-DN42
+mnt-by:             HIMEHINA-MNT
+status:             ASSIGNED
+cidr:               fd7f:8672:2121::/48
+source:             DN42
