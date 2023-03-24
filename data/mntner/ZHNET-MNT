@@ -1,0 +1,6 @@
+mntner:             ZHNET-MNT
+admin-c:            ZHNET-DN42
+tech-c:             ZHNET-DN42
+mnt-by:             ZHNET-MNT
+source:             DN42
+auth:               pgp-fingerprint D8294AE65B09A66E406A8FF96B9C50A6B303B4A2

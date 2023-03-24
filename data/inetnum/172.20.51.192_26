@@ -1,0 +1,11 @@
+inetnum:            172.20.51.192 - 172.20.51.255
+netname:            ZHNET-IPV4
+remarks:            ZH Network NOC: info@zhnet.co.uk (Ash Emily)
+descr:              Opreator by Ash Emily fom ZH Network (zhnet.co.uk).
+country:            US
+admin-c:            ZHNET-DN42
+tech-c:             ZHNET-DN42
+mnt-by:             ZHNET-MNT
+status:             ASSIGNED
+cidr:               172.20.51.192/26
+source:             DN42
