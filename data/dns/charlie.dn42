@@ -4,5 +4,5 @@ tech-c:             CHARLIE-DN42
 mnt-by:             CHARLIE-MNT
 nserver:            ns1.charlie.dn42 172.20.43.132
 nserver:            ns1.charlie.dn42 fd00:11ea:8d63:f000::1
-ds-rdata:           49885 7 2 9067147456D303BB00E592E1A5364B78D36B06FAF203E3446643DB3D B74E02A1
+ds-rdata:           27566 13 2 A82BCED874FC0336FE247FD1678AD73D54A6700CDB9EF4A456F7BEE0 4B3B635E
 source:             DN42

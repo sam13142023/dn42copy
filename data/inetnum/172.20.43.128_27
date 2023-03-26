@@ -5,7 +5,7 @@ admin-c:            CHARLIE-DN42
 tech-c:             CHARLIE-DN42
 mnt-by:             CHARLIE-MNT
 nserver:            ns1.charlie.dn42
-ds-rdata:           25614 7 2 312502C37521B647981B1CF6E217412B203699E574C65BBF03B4E021 BD1B24AF
+ds-rdata:           23874 13 2 BC2C7ADF6A0F077183AA07E89259A5285FF3F2CEB6438DE9B470C2BB 4E0947AF
 country:            GB
 status:             ASSIGNED
 source:             DN42
