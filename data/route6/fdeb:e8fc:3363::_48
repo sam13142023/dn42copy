@@ -1,0 +1,5 @@
+route6:             fdeb:e8fc:3363::/48
+origin:             AS4242421266
+max-length:         48
+mnt-by:             HAYASHIMA-MNT
+source:             DN42

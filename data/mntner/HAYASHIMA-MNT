@@ -1,0 +1,16 @@
+mntner:             HAYASHIMA-MNT
+admin-c:            HAYASHIMA-DN42
+tech-c:             HAYASHIMA-DN42
+mnt-by:             HAYASHIMA-MNT
+org:                ORG-HCL21
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB78PSiLkC4zc931b4jsjbHiVjUoZQ0GtRzwO0w4y9FC
+remarks:            ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣴⣶⡄
+remarks:            ⠄⠄⠄⠄⠄⠄⢠⣴⣶⣤⠄⠸⠁⣸⡇
+remarks:            ⠄⠄⠄⠄⠄⢠⣿⣿⣿⡈⢷⣿⠄⡿
+remarks:            ⠄⠄⠄⠄⠄⠘⠛⠁⠈⢣⠸⠿⢸⠃
+remarks:            ⢠⣶⣿⠿⣿⣶⡄⠄⣠⣶⡿⢿⣷⣄⠄⠄⣴⣾⠿⢿⣷⣄⠄⢀⣴⡾⠿⣷⣦⡀
+remarks:            ⢸⡿⠄⠄⢈⣿⣿⠄⣿⡿⠄⠄⢹⣿⡆⠸⣿⠃⠄⠄⣿⣿⠄⠘⠟⠄⠄⣸⣿⠇
+remarks:            ⠄⠄⢀⣤⣾⡿⠁⠄⣿⡇⠄⠄⢸⣿⡇⠄⠄⠄⣠⣾⡿⠋⠄⠄⠄⠾⠿⢿⣯⡄
+remarks:            ⢀⣴⣿⡿⠃⠄⠄⠄⣿⣧⠄⠄⢸⣿⡇⠄⣠⣾⡿⠋⠄⠄⠄⣴⣦⠄⠄⠄⣿⡇
+remarks:            ⢸⣿⣿⣶⣶⣶⣶⠄⠙⢿⣷⣶⡿⠟⠄⠸⣿⣿⣶⣶⣶⣶⠄⠘⠿⣷⣶⣾⡿⠃
+source:             DN42

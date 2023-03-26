@@ -1,0 +1,10 @@
+domain:             hayashima.dn42
+admin-c:            HAYASHIMA-DN42
+tech-c:             HAYASHIMA-DN42
+mnt-by:             HAYASHIMA-MNT
+org:                ORG-HCL21
+nserver:            ns1.hayashima.dn42 172.22.77.193
+nserver:            ns1.hayashima.dn42 fdeb:e8fc:3363:53::1
+nserver:            ns2.hayashima.dn42 172.22.77.194
+nserver:            ns2.hayashima.dn42 fdeb:e8fc:3363:53::2
+source:             DN42
