@@ -1,0 +1,14 @@
+inetnum:            172.22.77.192 - 172.22.77.255
+cidr:               172.22.77.192/26
+netname:            HAYASHIMA-IPV4
+descr:              Network of HAYASHIMA
+country:            JP
+org:                ORG-HCL21
+admin-c:            HAYASHIMA-DN42
+tech-c:             HAYASHIMA-DN42
+mnt-by:             HAYASHIMA-MNT
+nserver:            ns1.hayashima.dn42
+nserver:            ns2.hayashima.dn42
+status:             ASSIGNED
+remarks:            Please email me at dn42@cosmiclatte.org if you would like to peer
+source:             DN42

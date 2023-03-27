@@ -1,0 +1,5 @@
+route:              172.22.77.192/26
+origin:             AS4242421266
+max-length:         26
+mnt-by:             HAYASHIMA-MNT
+source:             DN42
