@@ -6,4 +6,6 @@ status:             ASSIGNED
 admin-c:            123DARKFIBER-DN42
 tech-c:             123DARKFIBER-DN42
 mnt-by:             123DARKFIBER-MNT
+nserver:            ns1.123darkfiber.dn42
+ds-rdata:           8251 13 2 782c4b5bf057d88740ca4eb8ed53432cc8e20fecb799d60c0a1e2848cf548e9b
 source:             DN42

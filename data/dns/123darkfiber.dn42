@@ -1,0 +1,8 @@
+domain:             123darkfiber.dn42
+admin-c:            123DARKFIBER-DN42
+tech-c:             123DARKFIBER-DN42
+mnt-by:             123DARKFIBER-MNT
+nserver:            ns1.123darkfiber.dn42 172.21.105.227
+nserver:            ns1.123darkfiber.dn42 fda6:a1d6:a1d7:beef::53
+ds-rdata:           50657 13 2 a06c4422d73c6db939b65eb3371ddd7ec09a3917dae0ba2d25c55ef416528a90
+source:             DN42
