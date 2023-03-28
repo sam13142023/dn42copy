@@ -1,0 +1,11 @@
+inet6num:           fde9:a887:1bab:0000:0000:0000:0000:0000 - fde9:a887:1bab:ffff:ffff:ffff:ffff:ffff
+cidr:               fde9:a887:1bab::/48
+org:                ORG-VERVETECH
+netname:            UPPAL-NETWORK
+descr:              DN42 Network for UPPAL
+country:            PK
+admin-c:            UPPAL-DN42
+tech-c:             UPPAL-DN42
+mnt-by:             UPPAL-MNT
+status:             ASSIGNED
+source:             DN42

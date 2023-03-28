@@ -1,0 +1,5 @@
+route:              172.20.238.96/27
+origin:             AS4242420767
+max-length:         27
+mnt-by:             UPPAL-MNT
+source:             DN42
