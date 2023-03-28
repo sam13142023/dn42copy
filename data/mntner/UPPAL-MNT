@@ -1,0 +1,6 @@
+mntner:             UPPAL-MNT
+admin-c:            UPPAL-DN42
+tech-c:             UPPAL-DN42
+mnt-by:             UPPAL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCcSrpkocax7YeHhWQm+YYXeOyT478olY0YgGWc1FA6CShBV6I4MpciAP+W702V5D57Z47fnLDLsoutTxM+gstJKyssFhLP9tLonxZXfy9rOU9hMFxohD2Tr4dzXouHN3tM7qCFrTl0qTJpW4w0Y41uh9caM3rbAdRH3APl/If+IwMIZOSMxTr0kgAAaatafWU33/YLS/CNCX/F6V2ZsFNvHcAfMMzs8R0FTk2up4OCTX33pYGEk7xIT1U7KtsnPeAuRskWjrAiwKPWJBLYsreEBiLXfc0oUPLPaT733APClVPLxrPkGurJ6jsez5h3pVAtCHO2+CyD5ifW3PVoFCIj uppal@Junaids-MacBook-Pro.local
+source:             DN42

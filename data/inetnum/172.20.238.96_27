@@ -1,0 +1,11 @@
+inetnum:            172.20.238.96 - 172.20.238.127
+cidr:               172.20.238.96/27
+org:                ORG-VERVETECH
+netname:            UPPAL-NETWORK
+descr:              Network for UPPAL
+country:            PK
+admin-c:            UPPAL-DN42
+tech-c:             UPPAL-DN42
+mnt-by:             UPPAL-MNT
+status:             ASSIGNED
+source:             DN42
