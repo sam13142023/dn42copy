@@ -1,0 +1,5 @@
+route:              172.22.132.80/28
+origin:             AS4242421780
+mnt-by:             SFSARFE-MNT
+max-length:         28
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.132.80 - 172.22.132.95
+cidr:               172.22.132.80/28
+netname:            SFSARFE-NETWORK
+descr:              Network of SFSARFE
+country:            GB
+admin-c:            SFSARFE-DN42
+tech-c:             SFSARFE-DN42
+mnt-by:             SFSARFE-MNT
+status:             ASSIGNED
+nserver:            ns.sfsarfe.dn42
+source:             DN42

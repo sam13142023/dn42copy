@@ -1,0 +1,6 @@
+domain:             sfsarfe.dn42
+admin-c:            SFSARFE-DN42
+tech-c:             SFSARFE-DN42
+mnt-by:             SFSARFE-MNT
+nserver:            ns.sfsarfe.dn42 172.22.132.80
+source:             DN42
