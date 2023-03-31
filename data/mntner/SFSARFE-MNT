@@ -1,0 +1,6 @@
+mntner:             SFSARFE-MNT
+admin-c:            SFSARFE-DN42
+tech-c:             SFSARFE-DN42
+mnt-by:             SFSARFE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL1uXruOj16tS/q8KambhYwkLCSwGk/U67dy2MUI0X5V
+source:             DN42
