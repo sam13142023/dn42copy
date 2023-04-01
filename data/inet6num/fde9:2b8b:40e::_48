@@ -1,0 +1,10 @@
+inet6num:           fde9:2b8b:040e:0000:0000:0000:0000:0000 - fde9:2b8b:040e:ffff:ffff:ffff:ffff:ffff
+netname:            MZWING-IPV6
+descr:              Peer with me at mzwing@mzwing.eu.org
+country:            CN
+admin-c:            MZWING-DN42
+tech-c:             MZWING-DN42
+mnt-by:             MZWING-MNT
+status:             ASSIGNED
+cidr:               fde9:2b8b:40e::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.149.144/28
+descr:              Peer with me at mzwing@mzwing.eu.org
+origin:             AS4242422145
+mnt-by:             MZWING-MNT
+source:             DN42

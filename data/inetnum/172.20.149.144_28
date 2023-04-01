@@ -1,0 +1,11 @@
+inetnum:            172.20.149.144 - 172.20.149.159
+netname:            MZWING-IPV4
+remarks:            Peer with me at mzwing@mzwing.eu.org
+descr:              Peer with me at mzwing@mzwing.eu.org
+country:            CN
+admin-c:            MZWING-DN42
+tech-c:             MZWING-DN42
+mnt-by:             MZWING-MNT
+status:             ASSIGNED
+cidr:               172.20.149.144/28
+source:             DN42

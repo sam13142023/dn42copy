@@ -1,0 +1,6 @@
+mntner:             MZWING-MNT
+admin-c:            MZWING-DN42
+tech-c:             MZWING-DN42
+mnt-by:             MZWING-MNT
+source:             DN42
+auth:               pgp-fingerprint 73126029C784BEEF57CCD95B420940EC2FE61E20
