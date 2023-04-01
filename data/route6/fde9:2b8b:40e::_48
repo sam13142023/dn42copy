@@ -1,0 +1,5 @@
+route6:             fde9:2b8b:40e::/48
+descr:              Peer with me at mzwing@mzwing.eu.org
+origin:             AS4242422145
+mnt-by:             MZWING-MNT
+source:             DN42
