@@ -1,0 +1,5 @@
+route6:             fdeb:2636:4217::/48
+origin:             AS4242421780
+max-length:         48
+mnt-by:             SFSARFE-MNT
+source:             DN42

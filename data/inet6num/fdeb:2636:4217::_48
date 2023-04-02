@@ -1,0 +1,11 @@
+inet6num:           fdeb:2636:4217:0000:0000:0000:0000:0000 - fdeb:2636:4217:ffff:ffff:ffff:ffff:ffff
+cidr:               fdeb:2636:4217::/48
+netname:            SFSARFE-V6-NETWORK
+descr:              IPv6 Network of sfsarfe
+country:            GB
+admin-c:            SFSARFE-DN42
+tech-c:             SFSARFE-DN42
+mnt-by:             SFSARFE-MNT
+status:             ASSIGNED
+nserver:            ns.sfsarfe.dn42
+source:             DN42
