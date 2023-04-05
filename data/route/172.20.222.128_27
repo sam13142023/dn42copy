@@ -1,0 +1,4 @@
+route:              172.20.222.128/27
+origin:             AS4242421151
+mnt-by:             EMERALDGAMES-MNT
+source:             DN42
