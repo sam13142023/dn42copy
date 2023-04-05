@@ -1,0 +1,6 @@
+domain:             simito.dn42
+admin-c:            SIMITO-DN42
+tech-c:             SIMITO-DN42
+mnt-by:             SIMITO-MNT
+nserver:            ns1.simito.dn42 172.20.59.240
+source:             DN42

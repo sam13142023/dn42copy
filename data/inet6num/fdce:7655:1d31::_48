@@ -1,0 +1,10 @@
+inet6num:           fdce:7655:1d31:0000:0000:0000:0000:0000 - fdce:7655:1d31:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:7655:1d31::/48
+netname:            SIMITO-NETWORK
+descr:              Network of SIMITO
+country:            CA
+admin-c:            SIMITO-DN42
+tech-c:             SIMITO-DN42
+mnt-by:             SIMITO-MNT
+status:             ASSIGNED
+source:             DN42
