@@ -1,0 +1,5 @@
+route:              172.20.59.224/27
+origin:             AS4242421809
+max-length:         27
+mnt-by:             SIMITO-MNT
+source:             DN42

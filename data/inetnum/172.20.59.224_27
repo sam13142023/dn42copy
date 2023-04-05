@@ -1,0 +1,11 @@
+inetnum:            172.20.59.224 - 172.20.59.255
+cidr:               172.20.59.224/27
+netname:            SIMITO-NETWORK
+descr:              Network of SIMITO
+country:            CA
+admin-c:            SIMITO-DN42
+tech-c:             SIMITO-DN42
+mnt-by:             SIMITO-MNT
+status:             ASSIGNED
+nserver:            ns1.simito.dn42
+source:             DN42

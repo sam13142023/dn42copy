@@ -1,0 +1,5 @@
+route6:             fdce:7655:1d31::/48
+origin:             AS4242421809
+max-length:         48
+mnt-by:             SIMITO-MNT
+source:             DN42

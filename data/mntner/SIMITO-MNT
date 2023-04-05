@@ -1,0 +1,6 @@
+mntner:             SIMITO-MNT
+admin-c:            SIMITO-DN42
+tech-c:             SIMITO-DN42
+mnt-by:             SIMITO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJGY/sU8UEhQE1+xfaYYJkltjpHVVHBT7aI/scOwaXrw simito.dev@gmail.com
+source:             DN42
