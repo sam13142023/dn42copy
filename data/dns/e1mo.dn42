@@ -4,4 +4,6 @@ tech-c:             E1MO-DN42
 mnt-by:             E1MO-MNT
 nserver:            ns1.e1mo.dn42 172.20.229.161
 nserver:            ns1.e1mo.dn42 fded:e0fd:05fe::1
+nserver:            ns2.e1mo.dn42 172.20.229.169
+nserver:            ns2.e1mo.dn42 fded:e0fd:05fe:100::1
 source:             DN42
