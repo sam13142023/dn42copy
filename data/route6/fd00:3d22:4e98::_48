@@ -1,0 +1,5 @@
+route6:             fd00:3d22:4e98::/48
+descr:              Route6 for xytoki network
+origin:             AS4242422298
+mnt-by:             XYTOKI-MNT
+source:             DN42

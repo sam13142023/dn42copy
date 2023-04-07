@@ -1,0 +1,5 @@
+route:              172.22.98.224/27
+descr:              Route4 for xytoki network
+origin:             AS4242422298
+mnt-by:             XYTOKI-MNT
+source:             DN42

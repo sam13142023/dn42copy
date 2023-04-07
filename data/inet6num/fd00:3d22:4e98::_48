@@ -1,0 +1,11 @@
+inet6num:           fd00:3d22:4e98:0000:0000:0000:0000:0000 - fd00:3d22:4e98:ffff:ffff:ffff:ffff:ffff
+netname:            XYTOKI-v6
+descr:              xyToki network
+country:            CN
+admin-c:            XYTOKI-DN42
+tech-c:             XYTOKI-DN42
+mnt-by:             XYTOKI-MNT
+nserver:            ns1.xytoki.dn42
+status:             ASSIGNED
+cidr:               fd00:3d22:4e98::/48
+source:             DN42

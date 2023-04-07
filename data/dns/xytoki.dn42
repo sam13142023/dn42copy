@@ -1,0 +1,7 @@
+domain:             xytoki.dn42
+admin-c:            XYTOKI-DN42
+tech-c:             XYTOKI-DN42
+mnt-by:             XYTOKI-MNT
+nserver:            ns1.xytoki.dn42 172.22.98.254
+nserver:            ns1.xytoki.dn42 fd00:3d22:4e98::1
+source:             DN42
