@@ -1,5 +1,13 @@
 aut-num:            AS4242422246
 as-name:            ventilaar-net
+remarks:            -------------------------------------------------------
+                    Open for peering, see website for more details.
+                    This network is IPv6-only, dn42 and clearnet.
+                    -------------------------------------------------------
+                    https://www.ventilaar.nl/dn42 (network information)
+                    https://lg.dn42.ventilaar.net (looking glass, soon)
+                    https://dn42.ventilaar.net    (automatic peering, soon)
+                    -------------------------------------------------------
 admin-c:            VENTILAAR-DN42
 tech-c:             VENTILAAR-DN42
 mnt-by:             VENTILAAR-MNT

@@ -1,0 +1,6 @@
+domain:             ventilaar.dn42
+nserver:            ns1.ventilaar.dn42 fdef:7b3a:d88f:153::53
+admin-c:            VENTILAAR-DN42
+tech-c:             VENTILAAR-DN42
+mnt-by:             VENTILAAR-MNT
+source:             DN42
