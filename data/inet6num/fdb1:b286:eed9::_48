@@ -1,0 +1,10 @@
+inet6num:           fdb1:b286:eed9:0000:0000:0000:0000:0000 - fdb1:b286:eed9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb1:b286:eed9::/48
+netname:            BDISCO-NETWORK
+country:            US
+admin-c:            BDISCO-DN42
+tech-c:             BDISCO-DN42
+mnt-by:             BDISCO-MNT
+status:             ASSIGNED
+nserver:            ns1.bdisco.dn42
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.224.160 - 172.23.224.191
+cidr:               172.23.224.160/27
+netname:            BDISCO-NETWORK
+country:            US
+admin-c:            BDISCO-DN42
+tech-c:             BDISCO-DN42
+mnt-by:             BDISCO-MNT
+status:             ASSIGNED
+nserver:            ns1.bdisco.dn42
+source:             DN42

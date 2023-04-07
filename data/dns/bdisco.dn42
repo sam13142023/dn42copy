@@ -1,0 +1,7 @@
+domain:             bdisco.dn42
+admin-c:            BDISCO-DN42
+tech-c:             BDISCO-DN42
+mnt-by:             BDISCO-MNT
+nserver:            ns1.bdisco.dn42 172.23.224.162
+nserver:            ns1.bdisco.dn42 fdb1:b286:eed9:53::1
+source:             DN42
