@@ -1,0 +1,7 @@
+mntner:             XYTOKI-MNT
+admin-c:            XYTOKI-DN42
+tech-c:             XYTOKI-DN42
+mnt-by:             XYTOKI-MNT
+source:             DN42
+auth:               pgp-fingerprint 7F1A6D4DD00DE093377E24F1DDCB9D9994269899
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJvLWK/XB8GDiEJxH6tHgiwZPkfNXq385i6zfjuGpOgy

@@ -1,0 +1,7 @@
+aut-num:            AS4242422298
+as-name:            XYTOKI-AS
+descr:              AS for XYTOKI network
+admin-c:            XYTOKI-DN42
+tech-c:             XYTOKI-DN42
+mnt-by:             XYTOKI-MNT
+source:             DN42
