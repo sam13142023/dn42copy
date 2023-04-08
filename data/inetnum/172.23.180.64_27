@@ -1,0 +1,11 @@
+inetnum:            172.23.180.64 - 172.23.180.95
+netname:            BIGFEI-IPV4
+descr:              Bigfei's IP space
+country:            CN
+admin-c:            BIGFEI-DN42
+tech-c:             BIGFEI-DN42
+mnt-by:             BIGFEI-MNT
+nserver:            ns.bigfei.dn42
+status:             ASSIGNED
+cidr:               172.23.180.64/27
+source:             DN42

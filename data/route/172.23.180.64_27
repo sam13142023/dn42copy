@@ -1,0 +1,6 @@
+route:              172.23.180.64/27
+descr:              BIGFEI's IPv4 Testnet
+max-length:         27
+origin:             AS4242423571
+mnt-by:             BIGFEI-MNT
+source:             DN42
