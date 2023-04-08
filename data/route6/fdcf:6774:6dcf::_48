@@ -1,0 +1,6 @@
+route6:             fdcf:6774:6dcf::/48
+descr:              TBERGDE-NETWORK
+origin:             AS4242422326
+max-length:         48
+mnt-by:             TBERGDE-MNT
+source:             DN42

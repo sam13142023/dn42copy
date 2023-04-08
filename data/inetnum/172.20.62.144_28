@@ -1,0 +1,8 @@
+inetnum:            172.20.62.144 - 172.20.62.159
+cidr:               172.20.62.144/28
+netname:            TBERGDE-NETWORK
+admin-c:            TBERGDE-DN42
+tech-c:             TBERGDE-DN42
+mnt-by:             TBERGDE-MNT
+status:             ASSIGNED
+source:             DN42

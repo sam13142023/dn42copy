@@ -1,0 +1,8 @@
+inet6num:           fdcf:6774:6dcf:0000:0000:0000:0000:0000 - fdcf:6774:6dcf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:6774:6dcf::/48
+netname:            TBERGDE-NETWORK
+admin-c:            TBERGDE-DN42
+tech-c:             TBERGDE-DN42
+mnt-by:             TBERGDE-MNT
+status:             ASSIGNED
+source:             DN42
