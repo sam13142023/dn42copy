@@ -1,0 +1,7 @@
+aut-num:            AS4242421931
+as-name:            GOJIRA-AS
+descr:              Gojira's DN42 network
+admin-c:            GOJIRA-DN42
+tech-c:             GOJIRA-DN42
+mnt-by:             GOJIRA-MNT
+source:             DN42

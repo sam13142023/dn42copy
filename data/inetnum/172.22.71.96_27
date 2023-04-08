@@ -1,0 +1,11 @@
+inetnum:            172.22.71.96 - 172.22.71.127
+cidr:               172.22.71.96/27
+netname:            GOJIRA-NETWORK
+descr:              Gojira network
+country:            UA
+admin-c:            GOJIRA-DN42
+tech-c:             GOJIRA-DN42
+mnt-by:             GOJIRA-MNT
+status:             ASSIGNED
+nserver:            ns.gojira.dn42
+source:             DN42

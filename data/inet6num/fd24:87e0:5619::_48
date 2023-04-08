@@ -1,0 +1,11 @@
+inet6num:           fd24:87e0:5619:0000:0000:0000:0000:0000 - fd24:87e0:5619:ffff:ffff:ffff:ffff:ffff
+cidr:               fd24:87e0:5619::/48
+netname:            GOJIRA-NETWORK
+descr:              Gojira network
+country:            UA
+admin-c:            GOJIRA-DN42
+tech-c:             GOJIRA-DN42
+mnt-by:             GOJIRA-MNT
+status:             ASSIGNED
+nserver:            ns.gojira.dn42
+source:             DN42

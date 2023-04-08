@@ -1,0 +1,7 @@
+domain:             gojira.dn42
+admin-c:            GOJIRA-DN42
+tech-c:             GOJIRA-DN42
+mnt-by:             GOJIRA-MNT
+nserver:            ns.gojira.dn42 172.22.71.97
+nserver:            ns.gojira.dn42 fd24:87e0:5619::96
+source:             DN42
