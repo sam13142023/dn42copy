@@ -10,6 +10,7 @@ nserver:            ns.highdef.dn42
 mnt-by:             MARK22K-MNT
 nserver:            ns1.bandura.dn42
 mnt-by:             C4TG1RL5-MNT
+nserver:            ns1.catgirls.dn42
 mnt-by:             CHARLIE-MNT
 nserver:            ns1.charlie.dn42
 source:             DN42

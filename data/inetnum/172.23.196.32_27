@@ -1,10 +1,6 @@
 inetnum:            172.23.196.32 - 172.23.196.63
 cidr:               172.23.196.32/27
-netname:            C4TG1RL5-NETWORK-IPV4
-descr:              Catgirls - legacy net
-country:            DE
-country:            PL
-country:            US
+netname:            C4TG1RL5
 admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 mnt-by:             C4TG1RL5-MNT

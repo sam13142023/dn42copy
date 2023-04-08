@@ -1,10 +1,6 @@
 inet6num:           fd42:deca:fbad:0000:0000:0000:0000:0000 - fd42:deca:fbad:ffff:ffff:ffff:ffff:ffff
 cidr:               fd42:deca:fbad::/48
-netname:            C4TG1RL5-NETWORK
-descr:              Catgirls! - DECAF BAD
-country:            DE
-country:            PL
-country:            US
+netname:            C4TG1RL5
 admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 mnt-by:             C4TG1RL5-MNT
