@@ -1,0 +1,5 @@
+route6:             fd24:87e0:5619::/48
+origin:             AS4242421931
+max-length:         48
+mnt-by:             GOJIRA-MNT
+source:             DN42

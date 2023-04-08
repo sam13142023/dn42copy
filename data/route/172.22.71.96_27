@@ -1,0 +1,5 @@
+route:              172.22.71.96/27
+origin:             AS4242421931
+max-length:         27
+mnt-by:             GOJIRA-MNT
+source:             DN42
