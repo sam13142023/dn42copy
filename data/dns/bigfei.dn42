@@ -1,0 +1,7 @@
+domain:             bigfei.dn42
+admin-c:            BIGFEI-DN42
+tech-c:             BIGFEI-DN42
+mnt-by:             BIGFEI-MNT
+nserver:            ns.bigfei.dn42 172.23.180.68
+nserver:            ns.bigfei.dn42 fd23:571a:dc20::68
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242423571
+as-name:            BIGFEI-AS
+descr:              Bigfei's DN42 network
+admin-c:            BIGFEI-DN42
+tech-c:             BIGFEI-DN42
+mnt-by:             BIGFEI-MNT
+source:             DN42

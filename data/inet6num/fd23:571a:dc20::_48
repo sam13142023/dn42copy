@@ -1,0 +1,10 @@
+inet6num:           fd23:571a:dc20:0000:0000:0000:0000:0000 - fd23:571a:dc20:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:571a:dc20::/48
+netname:            BIGFEI-NETWORK
+country:            CN
+admin-c:            BIGFEI-DN42
+tech-c:             BIGFEI-DN42
+mnt-by:             BIGFEI-MNT
+status:             ASSIGNED
+nserver:            ns.bigfei.dn42
+source:             DN42

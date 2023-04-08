@@ -1,0 +1,6 @@
+route6:             fd23:571a:dc20::/48
+descr:              BIGFEI's IPv6 Testnet
+max-length:         48
+origin:             AS4242423571
+mnt-by:             BIGFEI-MNT
+source:             DN42
