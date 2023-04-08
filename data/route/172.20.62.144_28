@@ -1,0 +1,6 @@
+route:              172.20.62.144/28
+origin:             AS4242422326
+max-length:         28
+descr:              TBERGDE-NETWORK
+mnt-by:             TBERGDE-MNT
+source:             DN42
