@@ -1,0 +1,10 @@
+inet6num:           fdeb:d925:32e2:0000:0000:0000:0000:0000 - fdeb:d925:32e2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdeb:d925:32e2::/48
+netname:            JANIK-NETWORK
+descr:              Network of Janik
+country:            DE
+admin-c:            JANIK-DN42
+tech-c:             JANIK-DN42
+mnt-by:             JANIK-MNT
+status:             ASSIGNED
+source:             DN42

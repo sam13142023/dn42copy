@@ -1,0 +1,6 @@
+mntner:             JANIK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBO1hknTRfxm8lTQ41SNGS0Kvuctz4f3i4qrZ946eALW
+admin-c:            JANIK-DN42
+tech-c:             JANIK-DN42
+mnt-by:             JANIK-MNT
+source:             DN42
