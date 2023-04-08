@@ -1,0 +1,5 @@
+route6:             fdb1:b286:eed9::/48
+origin:             AS4242422634
+max-length:         48
+mnt-by:             BDISCO-MNT
+source:             DN42

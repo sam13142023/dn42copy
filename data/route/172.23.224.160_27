@@ -1,0 +1,5 @@
+route:              172.23.224.160/27
+origin:             AS4242422634
+max-length:         27
+mnt-by:             BDISCO-MNT
+source:             DN42
