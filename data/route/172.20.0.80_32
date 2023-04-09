@@ -1,0 +1,11 @@
+route:              172.20.0.80/32
+descr:              wiki-ng.dn42 anycast
+mnt-by:             LARE-MNT
+origin:             AS4242423035
+mnt-by:             C4TG1RL5-MNT
+origin:             AS4242421411
+mnt-by:             TY3R0X-MNT
+origin:             AS4242422596
+mnt-by:             CHARLIE-MNT
+origin:             AS4242422936
+source:             DN42
