@@ -1,0 +1,8 @@
+inetnum:            172.20.47.192 - 172.20.47.207
+cidr:               172.20.47.192/28
+netname:            XORPHE-NET
+admin-c:            XORPHE-DN42
+tech-c:             XORPHE-DN42
+mnt-by:             XORPHE-MNT
+status:             ASSIGNED
+source:             DN42

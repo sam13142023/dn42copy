@@ -1,0 +1,4 @@
+route:              172.20.47.192/28
+origin:             AS4242423559
+mnt-by:             XORPHE-MNT
+source:             DN42
