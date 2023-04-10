@@ -1,0 +1,8 @@
+inet6num:           fdde:87a0:171b:0000:0000:0000:0000:0000 - fdde:87a0:171b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:87a0:171b::/48
+netname:            XORPHE-NET
+admin-c:            XORPHE-DN42
+tech-c:             XORPHE-DN42
+mnt-by:             XORPHE-MNT
+status:             ASSIGNED
+source:             DN42
