@@ -1,0 +1,10 @@
+inetnum:            172.23.120.96 - 172.23.120.127
+cidr:               172.23.120.96/27
+country:            DE
+netname:            EXYS-NETWORK
+admin-c:            AEP-DN42
+tech-c:             AEP-DN42
+mnt-by:             EXYS-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-EXYS

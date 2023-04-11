@@ -1,0 +1,11 @@
+inet6num:           fde5:86e1:32d2:0000:0000:0000:0000:0000 - fde5:86e1:32d2:ffff:ffff:ffff:ffff:ffff
+cidr:               fde5:86e1:32d2::/48
+netname:            EXYS-6-NETWORK
+descr:              IPv6 Network of EXYS
+country:            DE
+admin-c:            AEP-DN42
+tech-c:             AEP-DN42
+mnt-by:             EXYS-MNT
+status:             ASSIGNED
+source:             DN42
+org:                ORG-EXYS

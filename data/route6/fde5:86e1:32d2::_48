@@ -1,0 +1,5 @@
+route6:             fde5:86e1:32d2::/48
+descr:              EXYS-NET
+origin:             AS4242421599
+mnt-by:             EXYS-MNT
+source:             DN42
