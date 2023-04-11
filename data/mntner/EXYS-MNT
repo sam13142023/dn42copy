@@ -1,0 +1,7 @@
+mntner:             EXYS-MNT
+descr:              EXYS DN42 Network
+admin-c:            AEP-DN42
+tech-c:             AEP-DN42
+mnt-by:             EXYS-MNT
+auth:               pgp-fingerprint AEDFBA1C6AF682A54A1CF1623C4B0792D141538E
+source:             DN42
