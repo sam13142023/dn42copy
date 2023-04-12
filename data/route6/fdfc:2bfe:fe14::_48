@@ -1,0 +1,5 @@
+route6:             fdfc:2bfe:fe14::/48
+origin:             AS4242423484
+max-length:         48
+mnt-by:             EARTHWORM-MNT
+source:             DN42
