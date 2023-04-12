@@ -1,0 +1,7 @@
+aut-num:            AS4242423484
+as-name:            EWPLAYGROUND-AS
+descr:              Playground for experimenting with Network Protocols
+admin-c:            EARTHWORM-DN42
+tech-c:             EARTHWORM-DN42
+mnt-by:             EARTHWORM-MNT
+source:             DN42

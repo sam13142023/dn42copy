@@ -1,0 +1,6 @@
+mntner:             EARTHWORM-MNT
+admin-c:            EARTHWORM-DN42
+tech-c:             EARTHWORM-DN42
+mnt-by:             EARTHWORM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEzYfbILrQTL6vyYpqwmJZdNJxCkxbn8Z3pB3+KKIjco
+source:             DN42

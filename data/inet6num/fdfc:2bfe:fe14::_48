@@ -1,0 +1,10 @@
+inet6num:           fdfc:2bfe:fe14:0000:0000:0000:0000:0000 - fdfc:2bfe:fe14:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:2bfe:fe14::/48
+netname:            EARTHWORM-NETWORK
+descr:              Network of EARTHWORM
+country:            DE
+admin-c:            EARTHWORM-DN42
+tech-c:             EARTHWORM-DN42
+mnt-by:             EARTHWORM-MNT
+status:             ASSIGNED
+source:             DN42
