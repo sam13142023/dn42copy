@@ -1,0 +1,7 @@
+domain:             weil-isso.dn42
+nserver:            gw1.weil-isso.dn42 fde5:3ba5:a005::1
+nserver:            gw1.weil-isso.dn42 172.22.71.1
+admin-c:            WEILISSO-DN42
+tech-c:             WEILISSO-DN42
+mnt-by:             WEILISSO-MNT
+source:             DN42
