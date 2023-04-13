@@ -1,0 +1,14 @@
+inetnum:            172.20.0.80 - 172.20.0.80
+cidr:               172.20.0.80/32
+netname:            WIKI-NG-V4
+descr:              Anycast for wiki-ng.dn42
+mnt-by:             LARE-MNT
+nserver:            ns.lare.dn42
+mnt-by:             C4TG1RL5-MNT
+nserver:            ns1.catgirls.dn42
+mnt-by:             TY3R0X-MNT
+nserver:            b0l3yah-prototype.ty3r0x.dn42
+mnt-by:             CHARLIE-MNT
+nserver:            ns1.charlie.dn42
+status:             ASSIGNED
+source:             DN42
