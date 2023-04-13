@@ -1,0 +1,13 @@
+inetnum:            172.23.26.128 - 172.23.26.159
+cidr:               172.23.26.128/27
+netname:            CMSROBO-NETWORK
+descr:              Network of CMS Robotics
+country:            TW
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+org:                ORG-CMSROBO
+nserver:            ns1.cmsrobo.dn42
+nserver:            ns2.cmsrobo.dn42
+status:             ASSIGNED
+source:             DN42

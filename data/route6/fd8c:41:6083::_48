@@ -1,0 +1,5 @@
+route6:             fd8c:41:6083::/48
+origin:             AS4242423045
+max-length:         48
+mnt-by:             KENNHUANG-MNT
+source:             DN42

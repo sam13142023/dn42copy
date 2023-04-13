@@ -1,0 +1,9 @@
+domain:             cmsrobo.dn42
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+nserver:            ns1.cmsrobo.dn42 172.23.26.129
+nserver:            ns1.cmsrobo.dn42 fd8c:41:6083:53::1
+nserver:            ns2.cmsrobo.dn42 172.23.26.130
+nserver:            ns2.cmsrobo.dn42 fd8c:41:6083:53::2
+source:             DN42

@@ -1,0 +1,13 @@
+inet6num:           fd8c:0041:6083:0000:0000:0000:0000:0000 - fd8c:0041:6083:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8c:41:6083::/48
+netname:            CMSROBO-NETWORK
+descr:              Network of CMS Robotics
+country:            TW
+admin-c:            KENNHUANG-DN42
+tech-c:             KENNHUANG-DN42
+mnt-by:             KENNHUANG-MNT
+org:                ORG-CMSROBO
+nserver:            ns1.cmsrobo.dn42
+nserver:            ns2.cmsrobo.dn42
+status:             ASSIGNED
+source:             DN42
