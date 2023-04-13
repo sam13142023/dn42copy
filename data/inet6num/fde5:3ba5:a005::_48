@@ -8,3 +8,4 @@ tech-c:             WEILISSO-DN42
 mnt-by:             WEILISSO-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            gw1.weil-isso.dn42
