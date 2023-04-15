@@ -1,0 +1,5 @@
+route6:             fd55:7072:6576::/48
+origin:             AS4242422475
+max-length:         48
+mnt-by:             PREVARINITE-MNT
+source:             DN42

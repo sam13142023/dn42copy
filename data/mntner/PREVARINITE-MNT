@@ -1,0 +1,8 @@
+mntner:             PREVARINITE-MNT
+descr:              Prevarinite Maintainer
+admin-c:            PREVARINITE-DN42
+tech-c:             PREVARINITE-DN42
+mnt-by:             PREVARINITE-MNT
+auth:               PGPKEY-DDC5DDE6
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK31J89HnB+VZFBOwBUGL1P9T7yVtk8qPlmJofO3Gb/Y
+source:             DN42

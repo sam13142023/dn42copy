@@ -1,0 +1,13 @@
+inet6num:           fd55:7072:6576:0000:0000:0000:0000:0000 - fd55:7072:6576:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:7072:6576::/48
+netname:            PREVARINITE-INET6
+descr:              Modern IPv6 allocations for Prevarinite
+nserver:            dave.ns.pvn.dn42
+nserver:            steve.ns.pvn.dn42
+org:                ORG-PREVARINITE
+country:            GB
+admin-c:            PREVARINITE-DN42
+tech-c:             PREVARINITE-DN42
+mnt-by:             PREVARINITE-MNT
+status:             ASSIGNED
+source:             DN42

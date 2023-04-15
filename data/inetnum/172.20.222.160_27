@@ -1,0 +1,13 @@
+inetnum:            172.20.222.160 - 172.20.222.191
+cidr:               172.20.222.160/27
+netname:            PREVARINITE-INET4
+descr:              Legacy IPv4 allocations for Prevarinite
+nserver:            dave.ns.pvn.dn42
+nserver:            steve.ns.pvn.dn42
+org:                ORG-PREVARINITE
+country:            GB
+admin-c:            PREVARINITE-DN42
+tech-c:             PREVARINITE-DN42
+mnt-by:             PREVARINITE-MNT
+status:             ASSIGNED
+source:             DN42
