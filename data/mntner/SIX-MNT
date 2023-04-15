@@ -1,0 +1,8 @@
+mntner:             SIX-MNT
+descr:              sixfalls TaoNet
+mnt-by:             SIX-MNT
+admin-c:            SIX-DN42
+tech-c:             SIX-DN42
+org:                ORG-TAONET
+auth:               pgp-fingerprint 00292CBEE7433A76E57B3218C8ED8535AB96A37E
+source:             DN42

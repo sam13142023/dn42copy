@@ -1,0 +1,5 @@
+route:              172.20.29.0/26
+origin:             AS4242421577
+max-length:         26
+mnt-by:             SIX-MNT
+source:             DN42

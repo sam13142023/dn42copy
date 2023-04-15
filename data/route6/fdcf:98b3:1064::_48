@@ -1,0 +1,5 @@
+route6:             fdcf:98b3:1064::/48
+origin:             AS4242421577
+max-length:         48
+mnt-by:             SIX-MNT
+source:             DN42
