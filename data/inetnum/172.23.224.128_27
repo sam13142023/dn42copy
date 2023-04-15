@@ -1,0 +1,8 @@
+inetnum:            172.23.224.128 - 172.23.224.159
+cidr:               172.23.224.128/27
+netname:            STACK5543-NETWORK
+admin-c:            STACK5543-DN42
+tech-c:             STACK5543-DN42
+mnt-by:             STACK5543-MNT
+status:             ASSIGNED
+source:             DN42
