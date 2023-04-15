@@ -1,0 +1,11 @@
+inet6num:           fdcf:98b3:1064:0000:0000:0000:0000:0000 - fdcf:98b3:1064:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:98b3:1064::/48
+netname:            TAO-NETWORK
+descr:              TaoNet(work)
+country:            US
+admin-c:            SIX-DN42
+tech-c:             SIX-DN42
+org:                ORG-TAONET
+mnt-by:             SIX-MNT
+status:             ASSIGNED
+source:             DN42

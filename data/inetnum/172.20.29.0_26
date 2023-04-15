@@ -1,0 +1,11 @@
+inetnum:            172.20.29.0 - 172.20.29.63
+cidr:               172.20.29.0/26
+netname:            TAO-NETWORK
+descr:              TaoNet(work)
+country:            US
+admin-c:            SIX-DN42
+tech-c:             SIX-DN42
+mnt-by:             SIX-MNT
+status:             ASSIGNED
+org:                ORG-TAONET
+source:             DN42
