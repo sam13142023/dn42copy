@@ -1,0 +1,30 @@
+aut-num:            AS4242422475
+as-name:            PREVARINITE
+descr:              Prevarinite Network
+admin-c:            PREVARINITE-DN42
+tech-c:             PREVARINITE-DN42
+mnt-by:             PREVARINITE-MNT
+org:                ORG-PREVARINITE
+source:             DN42
+remarks:            
+remarks:            +-------------------------------------------+
+remarks:            |                Prevarinite                |
+remarks:            +-------------------------------------------+
+remarks:            | Prevarinite is a small network maintained |
+remarks:            | by a single person. It is used primarily  |
+remarks:            | for experimenting with BGP, however some  |
+remarks:            | services are available on the network.    |
+remarks:            |                                           |
+remarks:            | We have a few peering locations,          |
+remarks:            | primarily in the US and Europe, most of   |
+remarks:            | which should be available 24/7, and so    |
+remarks:            | safe for peering.                         |
+remarks:            |                                           |
+remarks:            | Some of our servers even have unmetered   |
+remarks:            | bandwidth, which should make them a good  |
+remarks:            | choice for intermediary points.           |
+remarks:            +-------------------------------------------+
+remarks:            | Contact: admin@prevarinite.com            |
+remarks:            | DNS: dave.ns.pvn.dn42 steve.ns.pvn.dn42   |
+remarks:            | Looking Glass: https://heimdall.pvn.dn42  |
+remarks:            +-------------------------------------------+
