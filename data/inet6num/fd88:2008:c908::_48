@@ -1,0 +1,9 @@
+inet6num:           fd88:2008:c908:0000:0000:0000:0000:0000 - fd88:2008:c908:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:2008:c908::/48
+netname:            STACK5543-NETWORK
+descr:              Network of STACK5543
+admin-c:            STACK5543-DN42
+tech-c:             STACK5543-DN42
+mnt-by:             STACK5543-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd88:2008:c908::/48
+origin:             AS4242422844
+max-length:         48
+mnt-by:             STACK5543-MNT
+source:             DN42
