@@ -3,6 +3,7 @@ descr:              Prevarinite Maintainer
 admin-c:            PREVARINITE-DN42
 tech-c:             PREVARINITE-DN42
 mnt-by:             PREVARINITE-MNT
+remarks:            pin-sha256:rQJXCGO0REnZnC3mMNoyxF5VOy1F2ZqTyV02ElRrt0Y=
 auth:               PGPKEY-DDC5DDE6
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK31J89HnB+VZFBOwBUGL1P9T7yVtk8qPlmJofO3Gb/Y
 source:             DN42

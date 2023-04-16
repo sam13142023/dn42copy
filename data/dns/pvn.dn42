@@ -9,4 +9,7 @@ nserver:            dave.ns.pvn.dn42 fd55:7072:6576:53::1
 nserver:            dave.ns.pvn.dn42 172.20.222.160
 nserver:            steve.ns.pvn.dn42 fd55:7072:6576:53::2
 nserver:            steve.ns.pvn.dn42 172.20.222.161
+ds-rdata:           4021 13 1 5dc70018e256c8cc361ad4bb2cb9aedde29ccbab
+ds-rdata:           4021 13 2 01ac34979d8c6e2c5f25f33f5014c4e428f9233762b0cd6476315183a6da2f55
+ds-rdata:           4021 13 4 2bffa72004ba858c5909c18ffbf081a2d13999bcf5901a8898f60383027d05ceb1b8f157287a6043a696c76bacda9f4c
 source:             DN42

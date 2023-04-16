@@ -4,6 +4,9 @@ netname:            PREVARINITE-INET4
 descr:              Legacy IPv4 allocations for Prevarinite
 nserver:            dave.ns.pvn.dn42
 nserver:            steve.ns.pvn.dn42
+ds-rdata:           26602 13 1 8529744f52eb733023e03862ef49ac4150e5cbcc
+ds-rdata:           26602 13 2 dfcbd27558f41b1c65f026f1354be1869bd0e226fae656699488ed106a8be449
+ds-rdata:           26602 13 4 3f722a608f4084f45a036aca56f0f2a6a30f8d62fa1b2ea4903bd8f48978259e2bab702b15a106334542f52ec2478e97
 org:                ORG-PREVARINITE
 country:            GB
 admin-c:            PREVARINITE-DN42
