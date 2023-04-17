@@ -1,0 +1,6 @@
+route:              172.22.144.192/26
+descr:              HopeNow-IPv4,Peer with me at sharworange@hope-now.top
+origin:             AS4242421251
+max-length:         26
+mnt-by:             SHARWORANGE-MNT
+source:             DN42

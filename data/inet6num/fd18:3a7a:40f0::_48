@@ -1,0 +1,11 @@
+inet6num:           fd18:3a7a:40f0:0000:0000:0000:0000:0000 - fd18:3a7a:40f0:ffff:ffff:ffff:ffff:ffff
+netname:            HopeNow-IPV6
+descr:              HopeNow-IPv6,Peer with me at sharworange@hope-now.top
+country:            CN
+org:                ORG-HOPENOW
+admin-c:            SHARWORANGE-DN42
+tech-c:             SHARWORANGE-DN42
+mnt-by:             SHARWORANGE-MNT
+status:             ASSIGNED
+cidr:               fd18:3a7a:40f0::/48
+source:             DN42
