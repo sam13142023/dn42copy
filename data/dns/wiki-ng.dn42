@@ -7,10 +7,11 @@ mnt-by:             C4TG1RL5-MNT
 admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 nserver:            ns1.catgirls.dn42
-mnt-by:             TY3R0X-MNT
+mnt-by:             CHAOX-MNT
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
-nserver:            b0l3yah-prototype.ty3r0x.dn42
+nserver:            incognet.chaox.dn42
+nserver:            redxen.chaox.dn42
 mnt-by:             CHARLIE-MNT
 admin-c:            CHARLIE-DN42
 tech-c:             CHARLIE-DN42

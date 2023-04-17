@@ -6,8 +6,9 @@ mnt-by:             LARE-MNT
 nserver:            ns.lare.dn42
 mnt-by:             C4TG1RL5-MNT
 nserver:            ns1.catgirls.dn42
-mnt-by:             TY3R0X-MNT
-nserver:            b0l3yah-prototype.ty3r0x.dn42
+mnt-by:             CHAOX-MNT
+nserver:            incognet.chaox.dn42
+nserver:            redxen.chaox.dn42
 mnt-by:             CHARLIE-MNT
 nserver:            ns1.charlie.dn42
 status:             ASSIGNED
