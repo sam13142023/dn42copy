@@ -1,6 +1,9 @@
 domain:             bonobonet.dn42
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
-mnt-by:             TY3R0X-MNT
-nserver:            b0l3yah-prototype.ty3r0x.dn42
+org:                ORG-CHAOX
+mnt-by:             CHAOX-MNT
+mnt-by:             MARK22K-MNT
+nserver:            incognet.chaox.dn42
+nserver:            redxen.chaox.dn42
 source:             DN42

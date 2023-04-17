@@ -1,31 +1,41 @@
 aut-num:            AS4242422596
-as-name:            AS-TY3R0XHOME-DN42
-descr:              Ty3r0X's Home Network [RO]
+as-name:            Chaox-Network
+descr:              Chaox Operations Network (DN42 & CRXN)
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
-mnt-by:             TY3R0X-MNT
+org:                ORG-CHAOX
 remarks:            +------------------------------------------------------------+
-remarks:            |                                                            |
-remarks:            | @@@@@@@  @@@ @@@  @@@@@@   @@@@@@@    @@@@@@@@   @@@  @@@  |
-remarks:            | @@@@@@@  @@@ @@@  @@@@@@@  @@@@@@@@  @@@@@@@@@@  @@@  @@@  |
-remarks:            |   @@!    @@! !@@      @@@  @@!  @@@  @@!   @@@@  @@!  !@@  |
-remarks:            |   !@!    !@! @!!      @!@  !@!  @!@  !@!  @!@!@  !@!  @!!  |
-remarks:            |   @!!     !@!@!   @!@!!@   @!@!!@!   @!@ @! !@!   !@@!@!   |
-remarks:            |   !!!      @!!!   !!@!@!   !!@!@!    !@!!!  !!!    @!!!    |
-remarks:            |   !!:      !!:        !!:  !!: :!!   !!:!   !!!   !: :!!   |
-remarks:            |   :!:      :!:        :!:  :!:  !:!  :!:    !:!  :!:  !:!  |
-remarks:            |    ::       ::    :: ::::  ::   :::  ::::::: ::   ::  :::  |
+remarks:            |     ███                                                    |
+remarks:            |  ███   ███ ███                                             |
+remarks:            | ███        ███         ███        ███     ███   ███        |
+remarks:            | ███        █████     ███  ███   ███  ███    ██ ███         |
+remarks:            | ███        ███  ██  ███   ███  ███    ███    ██            |
+remarks:            |  ███   ███ ██   ███ ███   ███   ███  ███   ██  ███         |
+remarks:            |    █████   ██   ███   ███ ████    ███     ███   ███ . dn42 |
 remarks:            |                                                            |
 remarks:            +--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//+
-remarks:            |								 |
-remarks:            |          Ty3r0X's Home Network - Open for peering          |
-remarks:            |             https://ty3r0x.chaox.ro/dn42.xhtml             |
 remarks:            |                                                            |
-remarks:            |          E-mail.......: ty3r0x[at)disroot[dot)org          |
-remarks:            |          IRC (Hackint): ty3r0x                             |
-remarks:            |          Looking Glass: http://lg.ty3r0x.dn42              |
+remarks:            |     Chaox Operations DN42 x CRXN Network (AS4242422596)    |
 remarks:            |                                                            |
-remarks:            |------------------------------------------------------------|
-remarks:            |  Node: Romania - Moldovan region (contact for peering)     |
+remarks:            |  Current peering locations: New York, US (Racknerd)        |
+remarks:            |                             Ams, Netherlands (IncogNET)    |
+remarks:            |                             Germany (RedXen) (Alpha)       |
+remarks:            |                             Romania (HostMaze)             |
+remarks:            |                             London, UK (Polarian) (WIP)    |
+remarks:            |                                                            |
+remarks:            |         BGP-MP, Extended Next Hop are SUPPORTED            |
+remarks:            |         BGP Communities are SUPPORTED (65535)              |
+remarks:            |                                                            |
+remarks:            |      This Autonomous System was the former Ty3r0X's        |
+remarks:            |      Home Network, now with global coverage and more       |
+remarks:            |      services, thank you for the first peerings :)         |
+remarks:            |                                                            |
+remarks:            |        Contact: Email & XMPP..: ty3r0x@chaox.ro            |
+remarks:            |                 IRC (Hackint).: ty3r0x                     |
+remarks:            |                 Telegram......: @ty3r0x                    |
+remarks:            |                 Matrix........: @ty3r0x:melroy.org         |
+remarks:            |                                                            |
+remarks:            |  For more information please check https://chaox.ro/dn42   |
 remarks:            +------------------------------------------------------------+
+mnt-by:             CHAOX-MNT
 source:             DN42

@@ -1,11 +1,17 @@
 inetnum:            172.22.69.0 - 172.22.69.31
 cidr:               172.22.69.0/27
-netname:            TY3R0XHOME-NETWORK
-descr:              Ty3r0X's network IPv4.
+netname:            CHAOX-NETWORK
+descr:              Chaox Operations IPv4 block
 country:            RO
-nserver:            b0l3yah-prototype.ty3r0x.dn42
+remarks:            -----
+remarks:            Chaox IPv4 Block
+remarks:            Abuse: ty3r0x@chaox.ro
+remarks:            -----
+nserver:            redxen.chaox.dn42
+nserver:            incognet.chaox.dn42
 admin-c:            TY3R0X-DN42
 tech-c:             TY3R0X-DN42
-mnt-by:             TY3R0X-MNT
+org:                ORG-CHAOX
+mnt-by:             CHAOX-MNT
 status:             ASSIGNED
 source:             DN42

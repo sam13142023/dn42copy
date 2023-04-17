@@ -1,0 +1,7 @@
+mntner:             CHAOX-MNT
+admin-c:            TY3R0X-DN42
+tech-c:             TY3R0X-DN42
+mnt-by:             CHAOX-MNT
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKqNSWjOCr+whmJDaug7NFRZnqQb5/wp19I4tVKk3JiwpXxFjURUPnJsKKodmCR4Kpam/tD5eHodqStQKUewvcI= ty3r0x@C0rt3X
+auth:               pgp-fingerprint 08C1409AF173BEB101E0511A1987C830BBC99F38
+source:             DN42
