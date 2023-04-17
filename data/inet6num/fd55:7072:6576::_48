@@ -4,6 +4,9 @@ netname:            PREVARINITE-INET6
 descr:              Modern IPv6 allocations for Prevarinite
 nserver:            dave.ns.pvn.dn42
 nserver:            steve.ns.pvn.dn42
+ds-rdata:           41040 13 1 6375797387cb92b597ac2282c05676ca34bab817
+ds-rdata:           41040 13 2 7ce9b53b356301186d692b77d3295771a88e7a690d3ff67e565723b4b4bd7bfd
+ds-rdata:           41040 13 4 1de349acc0fc13be7bbe7613c7eef4e2f0d0ccd5d6b6543873410e0e9f4567d311222266c10ac25483d1d620f0ff6eeb
 org:                ORG-PREVARINITE
 country:            GB
 admin-c:            PREVARINITE-DN42
