@@ -1,0 +1,8 @@
+aut-num:            AS4242421251
+as-name:            HopeNow-AS
+descr:              HopeNow-ASN,Peer with me at sharworange@hope-now.top
+org:                ORG-HOPENOW
+admin-c:            SHARWORANGE-DN42
+tech-c:             SHARWORANGE-DN42
+mnt-by:             SHARWORANGE-MNT
+source:             DN42

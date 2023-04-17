@@ -1,0 +1,6 @@
+route6:             fd18:3a7a:40f0::/48
+descr:              Peer with me at sharworange@hope-now.top
+origin:             AS4242421251
+max-length:         48
+mnt-by:             SHARWORANGE-MNT
+source:             DN42
