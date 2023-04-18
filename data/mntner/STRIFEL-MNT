@@ -1,0 +1,6 @@
+mntner:             STRIFEL-MNT
+admin-c:            STRIFEL-DN42
+tech-c:             STRIFEL-DN42
+mnt-by:             STRIFEL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDPtYKBj4w07QnxBSq4SgKudx0/BnQtLLmO/p3Qi8iFkyzjkIliGysmeT6ipwSs0T1xfP+G29iz0x93j4gZviAmEtoX8rWDjttu4hVo9jeV2nT8jeKQnLEGcWeWakU0cPLylU/u7CyyxHi4wWiByQXUHYmL7Kx0MKjgv+f/PrlMIGMsEHcTK+JDYLeelIaSpbOLPHpoBshcn/Mh+S/gS6xQgxiqlHWYyCp1poz3hoTDz6peKW2wAFtXp9QTI6FKMwmCL5j99WQi5eJHczrH2DwLvnqr5uZrtsNmre+FS4tfHYfDPZ4MM6l87rl/h5df9d/1tmU9B8pxwdJlaUvhW79
+source:             DN42

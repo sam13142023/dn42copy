@@ -1,0 +1,11 @@
+inetnum:            172.20.225.96 - 172.20.225.127
+cidr:               172.20.225.96/27
+netname:            FOSSAG-NETWORK
+descr:              NETWORK OF FOSS-AG
+country:            DE
+admin-c:            STRIFEL-DN42
+tech-c:             STRIFEL-DN42
+org:                ORG-FOSSAG
+mnt-by:             STRIFEL-MNT
+status:             ASSIGNED
+source:             DN42
