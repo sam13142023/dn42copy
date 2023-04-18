@@ -1,0 +1,5 @@
+route:              172.20.225.96/27
+origin:             AS4242422870
+max-length:         27
+mnt-by:             STRIFEL-MNT
+source:             DN42

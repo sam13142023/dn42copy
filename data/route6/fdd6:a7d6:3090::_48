@@ -1,0 +1,5 @@
+route6:             fdd6:a7d6:3090::/48
+origin:             AS4242422870
+max-length:         48
+mnt-by:             STRIFEL-MNT
+source:             DN42

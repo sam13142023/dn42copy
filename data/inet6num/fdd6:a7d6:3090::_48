@@ -1,0 +1,11 @@
+inet6num:           fdd6:a7d6:3090:0000:0000:0000:0000:0000 - fdd6:a7d6:3090:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd6:a7d6:3090::/48
+netname:            FOSSAG-NETWORK
+descr:              NETWORK OF FOSS-AG
+country:            DE
+admin-c:            STRIFEL-DN42
+tech-c:             STRIFEL-DN42
+org:                ORG-FOSSAG
+mnt-by:             STRIFEL-MNT
+status:             ASSIGNED
+source:             DN42
