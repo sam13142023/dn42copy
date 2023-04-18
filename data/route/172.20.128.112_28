@@ -1,0 +1,5 @@
+route:              172.20.128.112/28
+origin:             AS4242423684
+max-length:         28
+mnt-by:             CHICKENCHASER-MNT
+source:             DN42

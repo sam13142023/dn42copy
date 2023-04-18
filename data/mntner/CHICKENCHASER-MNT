@@ -1,0 +1,7 @@
+mntner:             CHICKENCHASER-MNT
+admin-c:            CHICKENCHASER-DN42
+tech-c:             CHICKENCHASER-DN42
+mnt-by:             CHICKENCHASER-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICcV7bb1RSu4U1DUVMDUIdwSKRTPl8jtJ+jJeVpmqL7t
+abuse-mailbox:      chickenchaser+dn42-abuse@disroot.org
+source:             DN42
