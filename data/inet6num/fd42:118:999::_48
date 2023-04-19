@@ -1,0 +1,10 @@
+inet6num:           fd42:0118:0999:0000:0000:0000:0000:0000 - fd42:0118:0999:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:118:999::/48
+netname:            NEW-EMERGENCY-NET
+descr:              The New and Improved Emergency Network
+country:            GB
+admin-c:            ALETHKIT-DN42
+tech-c:             ALETHKIT-DN42
+mnt-by:             ALETHKIT-MNT
+status:             ASSIGNED
+source:             DN42

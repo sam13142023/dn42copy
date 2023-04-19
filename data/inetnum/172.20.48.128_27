@@ -1,0 +1,10 @@
+inetnum:            172.20.48.128 - 172.20.48.159
+cidr:               172.20.48.128/27
+netname:            NEW-EMERGENCY-NET
+descr:              Main IPv4 allocation for The New Emergency Network
+country:            GB
+admin-c:            ALETHKIT-DN42
+tech-c:             ALETHKIT-DN42
+mnt-by:             ALETHKIT-MNT
+status:             ASSIGNED
+source:             DN42

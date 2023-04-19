@@ -1,0 +1,6 @@
+mntner:             ALETHKIT-MNT
+admin-c:            ALETHKIT-DN42
+tech-c:             ALETHKIT-DN42
+mnt-by:             ALETHKIT-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDQewWFtw/wiGaJJGwqcwKB/Vy4vLVXCDSRrXyc3SkiB
+source:             DN42
