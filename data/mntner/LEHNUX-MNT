@@ -1,0 +1,7 @@
+mntner:             LEHNUX-MNT
+admin-c:            LEHNUX-DN42
+tech-c:             LEHNUX-DN42
+mnt-by:             LEHNUX-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaBvWFWIYcUEibBMu/BE0QC0CPzcineGiYgNtXlY9dR eddsa-key-lehnux-20210803
+abuse-mailbox:      admin@lehnux.net
+source:             DN42

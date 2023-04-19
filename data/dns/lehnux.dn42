@@ -1,0 +1,9 @@
+domain:             lehnux.dn42
+admin-c:            LEHNUX-DN42
+tech-c:             LEHNUX-DN42
+mnt-by:             LEHNUX-MNT
+nserver:            ns1.lehnux.dn42 172.20.192.17
+nserver:            ns1.lehnux.dn42 fda0:874e:c549::1
+nserver:            ns2.lehnux.dn42 172.20.192.18
+nserver:            ns2.lehnux.dn42 fda0:874e:c549::2
+source:             DN42
