@@ -1,0 +1,12 @@
+inet6num:           fda0:874e:c549:0000:0000:0000:0000:0000 - fda0:874e:c549:ffff:ffff:ffff:ffff:ffff
+cidr:               fda0:874e:c549::/48
+netname:            LEHNUX-NETWORK
+descr:              Network of LEHNUX
+country:            FR
+admin-c:            LEHNUX-DN42
+tech-c:             LEHNUX-DN42
+mnt-by:             LEHNUX-MNT
+status:             ASSIGNED
+nserver:            ns1.lehnux.dn42
+nserver:            ns2.lehnux.dn42
+source:             DN42

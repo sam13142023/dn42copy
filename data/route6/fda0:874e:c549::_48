@@ -1,0 +1,5 @@
+route6:             fda0:874e:c549::/48
+origin:             AS4242420446
+max-length:         48
+mnt-by:             LEHNUX-MNT
+source:             DN42

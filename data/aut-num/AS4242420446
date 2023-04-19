@@ -1,0 +1,7 @@
+aut-num:            AS4242420446
+as-name:            LEHNUX-AS
+descr:              Test AS
+admin-c:            LEHNUX-DN42
+tech-c:             LEHNUX-DN42
+mnt-by:             LEHNUX-MNT
+source:             DN42

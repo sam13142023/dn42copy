@@ -1,0 +1,5 @@
+route:              172.20.192.16/28
+origin:             AS4242420446
+max-length:         28
+mnt-by:             LEHNUX-MNT
+source:             DN42
