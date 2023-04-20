@@ -1,0 +1,5 @@
+route6:             fd42:118:999::/48
+origin:             AS4242422831
+max-length:         48
+mnt-by:             ALETHKIT-MNT
+source:             DN42
