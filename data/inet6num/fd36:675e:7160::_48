@@ -1,0 +1,8 @@
+inet6num:           fd36:675e:7160:0000:0000:0000:0000:0000 - fd36:675e:7160:ffff:ffff:ffff:ffff:ffff
+cidr:               fd36:675e:7160::/48
+netname:            TOBI-NET6-1
+admin-c:            TOBI-DN42
+tech-c:             TOBI-DN42
+mnt-by:             TOBI-MNT
+status:             ASSIGNED
+source:             DN42

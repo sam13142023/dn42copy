@@ -1,0 +1,7 @@
+mntner:             TOBI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIQpvSfCoLZ4P9Dlmm6NuuZswdLbStbzSxIanhewDeEy
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxodXMkE+TCK+niR7mrdLMfgfx11Vt40/cxFlCtUm5W
+admin-c:            TOBI-DN42
+tech-c:             TOBI-DN42
+mnt-by:             TOBI-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.26.160/29
+origin:             AS4242420577
+max-length:         29
+mnt-by:             TOBI-MNT
+source:             DN42
