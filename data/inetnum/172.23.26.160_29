@@ -1,0 +1,8 @@
+inetnum:            172.23.26.160 - 172.23.26.167
+cidr:               172.23.26.160/29
+netname:            TOBI-NET4-1
+admin-c:            TOBI-DN42
+tech-c:             TOBI-DN42
+mnt-by:             TOBI-MNT
+status:             ASSIGNED
+source:             DN42

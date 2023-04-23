@@ -1,0 +1,5 @@
+route6:             fd36:675e:7160::/48
+origin:             AS4242420577
+max-length:         48
+mnt-by:             TOBI-MNT
+source:             DN42
