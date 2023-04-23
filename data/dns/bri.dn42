@@ -4,4 +4,7 @@ tech-c:             BRI-DN42
 mnt-by:             BRI-MNT
 nserver:            ns1.perchnet.dn42
 nserver:            ns2.perchnet.dn42
+nserver:            dc01.perchnet.dn42
+nserver:            dc02.perchnet.dn42
+nserver:            dc126.perchnet.dn42
 source:             DN42

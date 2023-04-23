@@ -6,4 +6,9 @@ nserver:            ns1.perchnet.dn42 172.23.217.65
 nserver:            ns1.perchnet.dn42 fd33:b345:df76:367::1
 nserver:            ns2.perchnet.dn42 172.23.217.66
 nserver:            ns2.perchnet.dn42 fd33:b345:df76:367::2
+nserver:            dc01.perchnet.dn42 172.23.217.74
+nserver:            dc01.perchnet.dn42 fd33:b345:df76::cafe:dc01
+nserver:            dc02.perchnet.dn42 172.23.217.76
+nserver:            dc02.perchnet.dn42 fd33:b345:df76::cafe:dc02
+nserver:            dc126.perchnet.dn42 172.23.217.126
 source:             DN42

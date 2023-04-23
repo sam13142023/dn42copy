@@ -8,5 +8,8 @@ mnt-by:             BRI-MNT
 status:             ASSIGNED
 nserver:            ns1.perchnet.dn42
 nserver:            ns2.perchnet.dn42
+nserver:            dc01.perchnet.dn42
+nserver:            dc02.perchnet.dn42
+nserver:            dc126.perchnet.dn42
 cidr:               fd33:b345:df76::/48
 source:             DN42
