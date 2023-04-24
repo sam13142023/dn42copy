@@ -1,0 +1,5 @@
+route:              172.20.47.224/27
+origin:             AS4242422916
+max-length:         27
+mnt-by:             QU4RTZ-MNT
+source:             DN42

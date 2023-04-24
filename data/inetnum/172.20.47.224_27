@@ -1,0 +1,10 @@
+inetnum:            172.20.47.224 - 172.20.47.255
+cidr:               172.20.47.224/27
+netname:            Q4NET
+descr:              QU4RTZ Networks
+country:            CN
+admin-c:            AZURITE-DN42
+tech-c:             AZURITE-DN42
+mnt-by:             QU4RTZ-MNT
+status:             ASSIGNED
+source:             DN42
