@@ -1,0 +1,5 @@
+route6:             fd22:1547:32ff::/48
+origin:             AS4242420832
+max-length:         48
+mnt-by:             32BITCAFE-MNT
+source:             DN42
