@@ -1,0 +1,5 @@
+route:              172.21.78.64/26
+origin:             AS4242420832
+max-length:         26
+mnt-by:             32BITCAFE-MNT
+source:             DN42

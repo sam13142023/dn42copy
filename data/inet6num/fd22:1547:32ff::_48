@@ -1,0 +1,11 @@
+inet6num:           fd22:1547:32ff:0000:0000:0000:0000:0000 - fd22:1547:32ff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:1547:32ff::/48
+netname:            32BITCAFE-IPV6
+descr:              Network of 32-Bit Cafe (IPv6)
+country:            US
+admin-c:            KAYLEE-DN42
+tech-c:             KAYLEE-DN42
+mnt-by:             32BITCAFE-MNT
+org:                ORG-32BITCAFE
+status:             ASSIGNED
+source:             DN42
