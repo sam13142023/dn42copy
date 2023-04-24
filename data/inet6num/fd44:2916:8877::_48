@@ -1,0 +1,10 @@
+inet6num:           fd44:2916:8877:0000:0000:0000:0000:0000 - fd44:2916:8877:ffff:ffff:ffff:ffff:ffff
+cidr:               fd44:2916:8877::/48
+netname:            Q4NET
+descr:              QU4RTZ Networks
+country:            CN
+admin-c:            AZURITE-DN42
+tech-c:             AZURITE-DN42
+mnt-by:             QU4RTZ-MNT
+status:             ASSIGNED
+source:             DN42

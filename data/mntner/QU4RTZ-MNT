@@ -1,0 +1,6 @@
+mntner:             QU4RTZ-MNT
+admin-c:            AZURITE-DN42
+tech-c:             AZURITE-DN42
+mnt-by:             QU4RTZ-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMbimNwLxSVYBbmwq5qkPLQTT4VwB5jGk+ceO3PttYg8
+source:             DN42
