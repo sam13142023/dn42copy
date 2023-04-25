@@ -1,0 +1,12 @@
+inetnum:            172.23.120.80 - 172.23.120.95
+cidr:               172.23.120.80/28
+netname:            26HZ-IPV4
+descr:              Hertz's lab network IPv4 Block
+country:            CN
+admin-c:            26HZ-DN42
+tech-c:             26HZ-DN42
+mnt-by:             26HZ-MNT
+nserver:            ns1.26hz.dn42
+nserver:            ns2.26hz.dn42
+status:             ASSIGNED
+source:             DN42

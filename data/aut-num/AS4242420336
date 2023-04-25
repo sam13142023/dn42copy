@@ -1,0 +1,7 @@
+aut-num:            AS4242420336
+as-name:            26HZ-AS
+descr:              Hertz's DN42 Network
+admin-c:            26HZ-DN42
+tech-c:             26HZ-DN42
+mnt-by:             26HZ-MNT
+source:             DN42

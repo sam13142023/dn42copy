@@ -1,0 +1,12 @@
+inet6num:           fdce:8080:5ced:0000:0000:0000:0000:0000 - fdce:8080:5ced:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:8080:5ced::/48
+netname:            26HZ-IPV6
+descr:              Hertz's lab network IPv6 Block
+country:            CN
+admin-c:            26HZ-DN42
+tech-c:             26HZ-DN42
+mnt-by:             26HZ-MNT
+nserver:            ns1.26hz.dn42
+nserver:            ns2.26hz.dn42
+status:             ASSIGNED
+source:             DN42

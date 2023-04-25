@@ -1,0 +1,9 @@
+domain:             26hz.dn42
+admin-c:            26HZ-DN42
+tech-c:             26HZ-DN42
+mnt-by:             26HZ-MNT
+nserver:            ns1.26hz.dn42 172.23.120.93
+nserver:            ns1.26hz.dn42 fdce:8080:5ced::1
+nserver:            ns2.26hz.dn42 172.23.120.94
+nserver:            ns2.26hz.dn42 fdce:8080:5ced::2
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             26HZ-MNT
+admin-c:            26HZ-DN42
+tech-c:             26HZ-DN42
+auth:               pgp-fingerprint 313D25B98161B946F3E00E30A0F6A25F63CD3D72
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIISu+L5PsqNB5ynI3tLYGDK3Z2KOKT3tcpsqAFgV7DI/ hertz@26hz.com.cn
+mnt-by:             26HZ-MNT
+source:             DN42
