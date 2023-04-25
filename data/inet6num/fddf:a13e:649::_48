@@ -1,0 +1,10 @@
+inet6num:           fddf:a13e:0649:0000:0000:0000:0000:0000 - fddf:a13e:0649:ffff:ffff:ffff:ffff:ffff
+netname:            ROKKIEA-IPV6
+descr:              A newfish of DN42, learning everything.
+country:            CN
+admin-c:            ROKKIEA-DN42
+tech-c:             ROKKIEA-DN42
+mnt-by:             ROKKIEA-MNT
+status:             ASSIGNED
+cidr:               fddf:a13e:649::/48
+source:             DN42
