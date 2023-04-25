@@ -1,0 +1,12 @@
+inet6num:           fd13:b00f:4c1c:0000:0000:0000:0000:0000 - fd13:b00f:4c1c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd13:b00f:4c1c::/48
+netname:            13F0-NETWORK
+descr:              13f0 Network
+nserver:            ns1.13f0.dn42
+nserver:            ns2.13f0.dn42
+org:                ORG-13F0
+admin-c:            KOU-DN42
+tech-c:             KOU-DN42
+mnt-by:             KOU-MNT
+status:             ASSIGNED
+source:             DN42
