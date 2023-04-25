@@ -1,0 +1,5 @@
+route6:             fdce:8080:5ced::/48
+descr:              Hertz's lab route
+origin:             AS4242420336
+mnt-by:             26HZ-MNT
+source:             DN42
