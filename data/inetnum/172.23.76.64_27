@@ -1,0 +1,10 @@
+inetnum:            172.23.76.64 - 172.23.76.95
+netname:            ROKKIEA-IPV4
+remarks:            A newfish of DN42, learning everything.
+country:            CN
+admin-c:            ROKKIEA-DN42
+tech-c:             ROKKIEA-DN42
+mnt-by:             ROKKIEA-MNT
+status:             ASSIGNED
+cidr:               172.23.76.64/27
+source:             DN42

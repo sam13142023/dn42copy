@@ -1,0 +1,5 @@
+route:              172.23.76.64/27
+descr:              A newfish of DN42, learning everything.
+origin:             AS4242420366
+mnt-by:             ROKKIEA-MNT
+source:             DN42
