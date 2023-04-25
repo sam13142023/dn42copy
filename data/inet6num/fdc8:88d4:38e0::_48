@@ -1,0 +1,10 @@
+inet6num:           fdc8:88d4:38e0:0000:0000:0000:0000:0000 - fdc8:88d4:38e0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:88d4:38e0::/48
+netname:            DANOG-NETWORK
+descr:              Daniil's home network.
+country:            IT
+admin-c:            DANOG-DN42
+tech-c:             DANOG-DN42
+mnt-by:             DANOG-MNT
+status:             ASSIGNED
+source:             DN42

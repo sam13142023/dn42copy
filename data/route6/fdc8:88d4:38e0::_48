@@ -1,0 +1,5 @@
+route6:             fdc8:88d4:38e0::/48
+origin:             AS4242422196
+max-length:         48
+mnt-by:             DANOG-MNT
+source:             DN42
