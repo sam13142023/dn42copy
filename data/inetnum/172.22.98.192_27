@@ -1,0 +1,12 @@
+inetnum:            172.22.98.192 - 172.22.98.223
+cidr:               172.22.98.192/27
+netname:            13F0-NETWORK
+descr:              13f0 Network
+nserver:            ns1.13f0.dn42
+nserver:            ns2.13f0.dn42
+org:                ORG-13F0
+admin-c:            KOU-DN42
+tech-c:             KOU-DN42
+mnt-by:             KOU-MNT
+status:             ASSIGNED
+source:             DN42

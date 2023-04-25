@@ -1,0 +1,5 @@
+route6:             fd13:b00f:4c1c::/48
+origin:             AS4242421413
+max-length:         48
+mnt-by:             KOU-MNT
+source:             DN42

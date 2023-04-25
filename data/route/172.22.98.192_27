@@ -1,0 +1,5 @@
+route:              172.22.98.192/27
+origin:             AS4242421413
+max-length:         27
+mnt-by:             KOU-MNT
+source:             DN42

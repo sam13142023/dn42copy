@@ -1,0 +1,10 @@
+domain:             13f0.dn42
+admin-c:            KOU-DN42
+tech-c:             KOU-DN42
+mnt-by:             KOU-MNT
+org:                ORG-13F0
+nserver:            ns1.13f0.dn42 172.22.98.192
+nserver:            ns1.13f0.dn42 fd13:b00f:4c1c::1
+nserver:            ns2.13f0.dn42 172.22.98.193
+nserver:            ns2.13f0.dn42 fd13:b00f:4c1c::2
+source:             DN42

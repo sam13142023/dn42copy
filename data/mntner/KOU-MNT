@@ -1,0 +1,7 @@
+mntner:             KOU-MNT
+admin-c:            KOU-DN42
+tech-c:             KOU-DN42
+mnt-by:             KOU-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEvM0xCLziR+ZT/SYE1aZM6dklbw4fEC17TWqbADIZRH kou@demiurge
+auth:               pgp-fingerprint 526738632BAE15C7070E97FDE7D86830A0092DA0
+source:             DN42
