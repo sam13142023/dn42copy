@@ -8,4 +8,6 @@ tech-c:             KAYLEE-DN42
 mnt-by:             32BITCAFE-MNT
 org:                ORG-32BITCAFE
 status:             ASSIGNED
+nserver:            ns1.32bitcafe.dn42
+nserver:            ns2.32bitcafe.dn42
 source:             DN42

@@ -1,0 +1,10 @@
+domain:             32bitcafe.dn42
+admin-c:            KAYLEE-DN42
+tech-c:             KAYLEE-DN42
+mnt-by:             32BITCAFE-MNT
+org:                ORG-32BITCAFE
+nserver:            ns1.32bitcafe.dn42 172.21.78.65
+nserver:            ns1.32bitcafe.dn42 fd22:1547:32ff::1
+nserver:            ns1.32bitcafe.dn42 172.21.78.66
+nserver:            ns1.32bitcafe.dn42 fd22:1547:32ff::2
+source:             DN42
