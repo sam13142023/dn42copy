@@ -1,5 +1,6 @@
 mntner:             SERXOZ-MNT
-admin-c:            DUMMY-DN42
-tech-c:             DUMMY-DN42
+admin-c:            SERXOZ-DN42
+tech-c:             SERXOZ-DN42
 mnt-by:             SERXOZ-MNT
 source:             DN42
+auth:               pgp-fingerprint E91414C0AA5F7FDB4E67E13160EE8A62F5FD8DF6
