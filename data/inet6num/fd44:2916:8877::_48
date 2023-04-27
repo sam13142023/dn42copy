@@ -6,5 +6,6 @@ country:            CN
 admin-c:            AZURITE-DN42
 tech-c:             AZURITE-DN42
 mnt-by:             QU4RTZ-MNT
+nserver:            ns1.qu4rtz.dn42
 status:             ASSIGNED
 source:             DN42
