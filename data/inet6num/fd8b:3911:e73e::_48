@@ -1,0 +1,10 @@
+inet6num:           fd8b:3911:e73e:0000:0000:0000:0000:0000 - fd8b:3911:e73e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8b:3911:e73e::/48
+netname:            SERXOZ-INET6
+descr:              IPv6 allocations for Serxoz
+country:            ES
+admin-c:            SERXOZ-DN42
+tech-c:             SERXOZ-DN42
+mnt-by:             SERXOZ-MNT
+status:             ASSIGNED
+source:             DN42
