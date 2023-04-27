@@ -1,0 +1,7 @@
+route6:             fd8b:3911:e73e::/48
+origin:             AS4242423335
+max-length:         48
+admin-c:            SERXOZ-DN42
+tech-c:             SERXOZ-DN42
+mnt-by:             SERXOZ-MNT
+source:             DN42
