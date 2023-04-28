@@ -7,5 +7,6 @@ admin-c:            AZURITE-DN42
 tech-c:             AZURITE-DN42
 mnt-by:             QU4RTZ-MNT
 nserver:            ns1.qu4rtz.dn42
+ds-rdata:           8041 15 2 5269D79D93E1801E814F993457C9A9AD3092EC272C2244D9116C781C F15E7EA7
 status:             ASSIGNED
 source:             DN42
