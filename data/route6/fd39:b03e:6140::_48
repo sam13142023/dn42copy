@@ -1,4 +1,5 @@
 route6:             fd39:b03e:6140::/48
 origin:             AS4242423124
+origin:             AS199680
 mnt-by:             SZCZOT3K-MNT
 source:             DN42
