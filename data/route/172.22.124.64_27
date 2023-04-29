@@ -1,0 +1,5 @@
+route:              172.22.124.64/27
+origin:             AS4242422446
+max-length:         27
+mnt-by:             GSHAPIRO-MNT
+source:             DN42

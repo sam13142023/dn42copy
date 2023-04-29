@@ -1,0 +1,10 @@
+inetnum:            172.22.124.64 - 172.22.124.95
+cidr:               172.22.124.64/27
+netname:            GSHAPIRO-NET-124-64
+country:            US
+admin-c:            GSHAPIRO-DN42
+tech-c:             GSHAPIRO-DN42
+mnt-by:             GSHAPIRO-MNT
+nserver:            ns.gshapiro.dn42
+status:             ASSIGNED
+source:             DN42

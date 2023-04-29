@@ -1,0 +1,7 @@
+domain:             gshapiro.dn42
+admin-c:            GSHAPIRO-DN42
+tech-c:             GSHAPIRO-DN42
+mnt-by:             GSHAPIRO-MNT
+nserver:            ns.gshapiro.dn42 172.22.124.64
+nserver:            ns.gshapiro.dn42 fd42:4246:1e7f::1
+source:             DN42
