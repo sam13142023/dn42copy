@@ -1,0 +1,9 @@
+inetnum:            172.20.154.80 - 172.20.154.95
+cidr:               172.20.154.80/28
+nserver:            ns1.moycat.dn42
+netname:            MOYCAT-NETWORK
+admin-c:            MOYCAT-DN42
+tech-c:             MOYCAT-DN42
+mnt-by:             MOYCAT-MNT
+status:             ASSIGNED
+source:             DN42
