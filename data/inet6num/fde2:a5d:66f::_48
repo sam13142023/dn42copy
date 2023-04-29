@@ -1,0 +1,11 @@
+inet6num:           fde2:0a5d:066f:0000:0000:0000:0000:0000 - fde2:0a5d:066f:ffff:ffff:ffff:ffff:ffff
+cidr:               fde2:a5d:66f::/48
+netname:            MAINFRAME6-NETWORK
+descr:              v6 network of ORG-MAINFRAME
+country:            DE
+admin-c:            LORDIII-DN42
+tech-c:             LORDIII-DN42
+mnt-by:             LORDIII-MNT
+org:                ORG-MAINFRAME
+status:             ASSIGNED
+source:             DN42

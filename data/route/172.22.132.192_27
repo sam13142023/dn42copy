@@ -1,0 +1,5 @@
+route:              172.22.132.192/27
+origin:             AS4242423302
+max-length:         27
+mnt-by:             LORDIII-MNT
+source:             DN42
