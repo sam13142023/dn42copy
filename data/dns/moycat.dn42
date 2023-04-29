@@ -1,0 +1,7 @@
+domain:             moycat.dn42
+admin-c:            MOYCAT-DN42
+tech-c:             MOYCAT-DN42
+mnt-by:             MOYCAT-MNT
+nserver:            ns1.moycat.dn42 172.20.154.81
+nserver:            ns1.moycat.dn42 fdaa:23ac:880b::1
+source:             DN42

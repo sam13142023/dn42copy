@@ -1,0 +1,5 @@
+route:              172.20.154.80/28
+origin:             AS4242421912
+max-length:         28
+mnt-by:             MOYCAT-MNT
+source:             DN42

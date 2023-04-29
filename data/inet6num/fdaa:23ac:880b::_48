@@ -1,0 +1,9 @@
+inet6num:           fdaa:23ac:880b:0000:0000:0000:0000:0000 - fdaa:23ac:880b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdaa:23ac:880b::/48
+nserver:            ns1.moycat.dn42
+netname:            MOYCAT-NET
+admin-c:            MOYCAT-DN42
+tech-c:             MOYCAT-DN42
+mnt-by:             MOYCAT-MNT
+status:             ASSIGNED
+source:             DN42

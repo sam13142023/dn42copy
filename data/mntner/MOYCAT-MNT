@@ -1,0 +1,6 @@
+mntner:             MOYCAT-MNT
+admin-c:            MOYCAT-DN42
+tech-c:             MOYCAT-DN42
+mnt-by:             MOYCAT-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBXSf5mcUsV8ipFuz6qVfiw+0nSxzUzSvvzcwMjXXsgh
+source:             DN42
