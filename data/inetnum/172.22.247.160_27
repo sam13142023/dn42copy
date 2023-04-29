@@ -1,0 +1,11 @@
+inetnum:            172.22.247.160 - 172.22.247.191
+netname:            STUDYINGLOVER-IPV4
+remarks:            Peer with me at studyinglover@outlook.com
+descr:              Peer with me at studyinglover@outlook.com
+country:            CN
+admin-c:            STUDYINGLOVER-DN42
+tech-c:             STUDYINGLOVER-DN42
+mnt-by:             STUDYINGLOVER-MNT
+status:             ASSIGNED
+cidr:               172.22.247.160/27
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.247.160/27
+descr:              Peer with me at studyinglover@outlook.com
+origin:             AS4242421245
+mnt-by:             STUDYINGLOVER-MNT
+source:             DN42
