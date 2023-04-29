@@ -1,0 +1,5 @@
+route6:             fd42:4246:1e7f::/48
+origin:             AS4242422446
+max-length:         48
+mnt-by:             GSHAPIRO-MNT
+source:             DN42
