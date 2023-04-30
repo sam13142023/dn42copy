@@ -2,5 +2,5 @@ mntner:             ALEMAL-MNT
 admin-c:            ALEMAL-DN42
 mnt-by:             ALEMAL-MNT
 tech-c:             ALEMAL-DN42
-auth:               pgp-fingerprint E6C120D5C8B2C5560CEBF04F1A342B8A923304EC
+auth:               pgp-fingerprint 41F7DED7C0FD646A616E3C1BDD4010C834154D8D
 source:             DN42

@@ -1,6 +1,6 @@
-aut-num:            AS4242421525
-as-name:            AleMal-Network
+domain:             alemal.dn42
 admin-c:            ALEMAL-DN42
 tech-c:             ALEMAL-DN42
 mnt-by:             ALEMAL-MNT
+nserver:            ns.alemal.dn42 172.20.12.225
 source:             DN42
