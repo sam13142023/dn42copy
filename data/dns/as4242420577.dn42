@@ -1,0 +1,6 @@
+domain:             as4242420577.dn42
+admin-c:            TOBI-DN42
+tech-c:             TOBI-DN42
+mnt-by:             TOBI-MNT
+nserver:            ns.as4242420577.dn42 fd36:675e:7160:116a::53
+source:             DN42

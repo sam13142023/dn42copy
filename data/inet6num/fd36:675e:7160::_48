@@ -5,4 +5,5 @@ admin-c:            TOBI-DN42
 tech-c:             TOBI-DN42
 mnt-by:             TOBI-MNT
 status:             ASSIGNED
+nserver:            ns.as4242420577.dn42
 source:             DN42
