@@ -1,7 +1,0 @@
-domain:             eki.dn42
-admin-c:            EKI-DN42
-tech-c:             EKI-DN42
-mnt-by:             EKI-MNT
-nserver:            ns.eki.dn42 172.23.181.11
-nserver:            ns.eki.dn42 fdeb:53be:49b2:1111::1
-source:             DN42
