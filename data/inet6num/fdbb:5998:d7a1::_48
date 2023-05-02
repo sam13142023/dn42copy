@@ -1,0 +1,10 @@
+inet6num:           fdbb:5998:d7a1:0000:0000:0000:0000:0000 - fdbb:5998:d7a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbb:5998:d7a1::/48
+netname:            CSH-NETWORK
+descr:              Network of CSH
+country:            US
+admin-c:            CSH-DN42
+tech-c:             CSH-DN42
+mnt-by:             CSH-MNT
+status:             ASSIGNED
+source:             DN42
