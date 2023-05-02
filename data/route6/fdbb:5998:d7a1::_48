@@ -1,0 +1,5 @@
+route6:             fdbb:5998:d7a1::/48
+origin:             AS4242421328
+max-length:         48
+mnt-by:             CSH-MNT
+source:             DN42
