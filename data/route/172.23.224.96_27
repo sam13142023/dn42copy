@@ -1,0 +1,5 @@
+route:              172.23.224.96/27
+origin:             AS4242420128
+max-length:         27
+mnt-by:             YINFENG-MNT
+source:             DN42

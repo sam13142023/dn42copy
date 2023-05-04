@@ -1,0 +1,10 @@
+inetnum:            172.23.224.96 - 172.23.224.127
+cidr:               172.23.224.96/27
+netname:            YINFENG-NETWORK
+descr:              Network of Yinfeng
+country:            CN
+admin-c:            YINFENG-DN42
+tech-c:             YINFENG-DN42
+mnt-by:             YINFENG-MNT
+status:             ASSIGNED
+source:             DN42
