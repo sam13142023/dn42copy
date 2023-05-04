@@ -1,0 +1,5 @@
+route6:             fd72:db83:badd::/48
+origin:             AS4242420128
+max-length:         48
+mnt-by:             YINFENG-MNT
+source:             DN42

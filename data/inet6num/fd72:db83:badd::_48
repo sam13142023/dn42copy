@@ -1,0 +1,10 @@
+inet6num:           fd72:db83:badd:0000:0000:0000:0000:0000 - fd72:db83:badd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd72:db83:badd::/48
+netname:            YINFENG-NETWORK
+descr:              Network of Yinfeng
+country:            CN
+admin-c:            YINFENG-DN42
+tech-c:             YINFENG-DN42
+mnt-by:             YINFENG-MNT
+status:             ASSIGNED
+source:             DN42
