@@ -1,0 +1,10 @@
+inetnum:            172.22.109.128 - 172.22.109.159
+cidr:               172.22.109.128/27
+netname:            SENAYUKI-IPV4
+descr:              Peer with me at admin@senayuki.moe
+country:            CN
+admin-c:            SENAYUKI-DN42
+tech-c:             SENAYUKI-DN42
+mnt-by:             SENAYUKI-MNT
+status:             ASSIGNED
+source:             DN42
