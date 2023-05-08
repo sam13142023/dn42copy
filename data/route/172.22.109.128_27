@@ -1,0 +1,5 @@
+route:              172.22.109.128/27
+origin:             AS4242423662
+descr:              Peer with me at admin@senayuki.moe
+mnt-by:             SENAYUKI-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdc5:d04c:4a8a::/48
+origin:             AS4242423662
+descr:              Peer with me at admin@senayuki.moe
+mnt-by:             SENAYUKI-MNT
+source:             DN42

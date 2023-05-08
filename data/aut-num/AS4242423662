@@ -1,0 +1,7 @@
+aut-num:            AS4242423662
+as-name:            SENAYUKI-AS
+descr:              Peer with me at admin@senayuki.moe
+admin-c:            SENAYUKI-DN42
+tech-c:             SENAYUKI-DN42
+mnt-by:             SENAYUKI-MNT
+source:             DN42

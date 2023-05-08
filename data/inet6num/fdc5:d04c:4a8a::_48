@@ -1,0 +1,10 @@
+inet6num:           fdc5:d04c:4a8a:0000:0000:0000:0000:0000 - fdc5:d04c:4a8a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:d04c:4a8a::/48
+netname:            SENAYUKI-IPV6
+descr:              Peer with me at admin@senayuki.moe
+country:            CN
+admin-c:            SENAYUKI-DN42
+tech-c:             SENAYUKI-DN42
+mnt-by:             SENAYUKI-MNT
+status:             ASSIGNED
+source:             DN42
