@@ -1,0 +1,5 @@
+route:              172.20.154.128/27
+origin:             AS4242420910
+max-length:         27
+mnt-by:             KNURPS-MNT
+source:             DN42

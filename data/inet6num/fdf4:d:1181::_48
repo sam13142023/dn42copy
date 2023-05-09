@@ -1,0 +1,12 @@
+inet6num:           fdf4:000d:1181:0000:0000:0000:0000:0000 - fdf4:000d:1181:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:d:1181::/48
+netname:            KNURPS-NETWORK
+descr:              KNURPS v6 ULA
+country:            DE
+admin-c:            KNURPS-DN42
+tech-c:             KNURPS-DN42
+mnt-by:             KNURPS-MNT
+nserver:            ns1.knurps.dn42
+nserver:            ns2.knurps.dn42
+status:             ASSIGNED
+source:             DN42

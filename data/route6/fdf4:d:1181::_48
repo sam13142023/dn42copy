@@ -1,0 +1,5 @@
+route6:             fdf4:d:1181::/48
+origin:             AS4242420910
+max-length:         48
+mnt-by:             KNURPS-MNT
+source:             DN42
