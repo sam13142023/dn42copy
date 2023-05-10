@@ -4,6 +4,6 @@ admin-c:            AZURITE-DN42
 tech-c:             AZURITE-DN42
 mnt-by:             QU4RTZ-MNT
 nserver:            ns1.qu4rtz.dn42 172.20.47.253
-nserver:            ns1.qu4rtz.dn42 fd44:2916:8877:253::1
+nserver:            ns1.qu4rtz.dn42 fd44:2916:8877:c253::1
 ds-rdata:           35173 15 2 1709DF9C18940EB6DB2E3E9B87526F24EB089022BF780EE9161600CA 9BCB20DE
 source:             DN42
