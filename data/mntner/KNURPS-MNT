@@ -1,0 +1,7 @@
+mntner:             KNURPS-MNT
+descr:              Knurps Maintenance Object
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHe36CIZFPsKGK7mT8G6F8VdEoaS59a2Yc7pz/pUUBmr knurps@x13
+admin-c:            KNURPS-DN42
+tech-c:             KNURPS-DN42
+mnt-by:             KNURPS-MNT
+source:             DN42
