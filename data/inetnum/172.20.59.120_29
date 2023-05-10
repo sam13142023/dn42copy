@@ -1,8 +1,0 @@
-inetnum:            172.20.59.120 - 172.20.59.127
-cidr:               172.20.59.120/29
-netname:            BANDYSOL IPv4
-admin-c:            BANDYSOL-DN42
-tech-c:             BANDYSOL-DN42
-mnt-by:             MARK22K-MNT
-status:             ASSIGNED
-source:             DN42

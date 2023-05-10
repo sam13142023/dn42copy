@@ -1,8 +1,0 @@
-inet6num:           fd92:8743:372e:0000:0000:0000:0000:0000 - fd92:8743:372e:ffff:ffff:ffff:ffff:ffff
-cidr:               fd92:8743:372e::/48
-netname:            BANDYSOL IPv6
-admin-c:            BANDYSOL-DN42
-tech-c:             BANDYSOL-DN42
-mnt-by:             MARK22K-MNT
-status:             ASSIGNED
-source:             DN42
