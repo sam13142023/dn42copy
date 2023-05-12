@@ -1,0 +1,10 @@
+inetnum:            172.23.234.160 - 172.23.234.191
+netname:            FUNNYBUNNY-IPV4
+descr:              Mark Sin's IP space
+country:            HK
+admin-c:            FUNNYBUNNY-DN42
+tech-c:             FUNNYBUNNY-DN42
+mnt-by:             FUNNYBUNNY-MNT
+status:             ASSIGNED
+cidr:               172.23.234.160/27
+source:             DN42
