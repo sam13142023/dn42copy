@@ -15,3 +15,9 @@ steps:
 trigger:
   event:
   - pull_request
+
+---
+kind: signature
+hmac: a7844c78365f463971354b5650affed18c0ca3ffd05e9c96a7c3390558c84fb9
+
+...
