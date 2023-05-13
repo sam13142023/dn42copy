@@ -1,0 +1,10 @@
+inet6num:           fd2c:7197:b39c:0000:0000:0000:0000:0000-fd2c:7197:b39c:ffff:ffff:ffff:ffff:ffff
+netname:            FUNNYBUNNY-IPV6
+descr:              Mark Sin's IP space
+country:            HK
+admin-c:            FUNNYBUNNY-DN42
+tech-c:             FUNNYBUNNY-DN42
+mnt-by:             FUNNYBUNNY-MNT
+status:             ASSIGNED
+cidr:               fd2c:7197:b39c::/48
+source:             DN42

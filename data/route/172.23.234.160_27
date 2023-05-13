@@ -1,0 +1,6 @@
+route:              172.23.234.160/27
+descr:              Mark Sin's IP space
+origin:             AS4242422531
+origin:             AS4242422531
+mnt-by:             FUNNYBUNNY-MNT
+source:             DN42
