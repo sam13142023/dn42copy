@@ -3,4 +3,5 @@ admin-c:            SFSARFE-DN42
 tech-c:             SFSARFE-DN42
 mnt-by:             SFSARFE-MNT
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL1uXruOj16tS/q8KambhYwkLCSwGk/U67dy2MUI0X5V
+remarks:            pin-sha256:dwXNs24JmK5qoZ2CO0oAwSIbmC/ciFIF4HFm9vZdbo4=
 source:             DN42
