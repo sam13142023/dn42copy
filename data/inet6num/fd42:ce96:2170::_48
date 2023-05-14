@@ -7,5 +7,5 @@ tech-c:             NOTRNIX-DN42
 mnt-by:             NOTRNIX-MNT
 status:             ASSIGNED
 nserver:            ns.notrnix.dn42
-ds-rdata:           33781 13 2 7164BD70E189B2F501CAC4673AC0A78C93AF5CD2661E29D7A35D6CDF649F7FBD
+ds-rdata:           43624 13 2 6D794E58EBBCCFF1B06FB7099ACAD2DBAEC7612934BF9A0FF69F4AE4C233C884
 source:             DN42
