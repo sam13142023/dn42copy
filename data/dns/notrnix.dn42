@@ -4,5 +4,5 @@ tech-c:             NOTRNIX-DN42
 mnt-by:             NOTRNIX-MNT
 nserver:            ns.notrnix.dn42 172.20.47.145
 nserver:            ns.notrnix.dn42 fd42:ce96:2170::1
-ds-rdata:           4284 13 2 D04A42B46726D3BE68425E1497BD5969EF327467C0A6042BEBA36A47B0E6E92C
+ds-rdata:           60150 13 2 4D6D1F4955891706570A2434DDCF0693BF4A1914EC8B57A02C9E8515C877D2D4
 source:             DN42
