@@ -1,0 +1,8 @@
+inet6num:           fd9e:d2f7:1e01:0000:0000:0000:0000:0000 - fd9e:d2f7:1e01:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:d2f7:1e01::/48
+netname:            GKCL-IPV6
+admin-c:            GKCL-DN42
+tech-c:             GKCL-DN42
+mnt-by:             GKCL-MNT
+status:             ASSIGNED
+source:             DN42

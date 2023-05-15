@@ -1,0 +1,6 @@
+mntner:             GKCL-MNT
+admin-c:            GKCL-DN42
+tech-c:             GKCL-DN42
+mnt-by:             GKCL-MNT
+source:             DN42
+auth:               pgp-fingerprint 545289193DD07BFF2BDF28800AD773CE46FD0F87
