@@ -1,0 +1,5 @@
+route6:             fd9e:d2f7:1e01::/48
+origin:             AS4242423429
+max-length:         48
+mnt-by:             GKCL-MNT
+source:             DN42
