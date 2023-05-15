@@ -1,0 +1,5 @@
+route:              172.23.181.0/27
+max-length:         27
+origin:             AS4242420532
+mnt-by:             PANGLAN-MNT
+source:             DN42
