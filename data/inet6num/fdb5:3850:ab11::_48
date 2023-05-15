@@ -1,0 +1,9 @@
+inet6num:           fdb5:3850:ab11:0000:0000:0000:0000:0000 - fdb5:3850:ab11:ffff:ffff:ffff:ffff:ffff
+netname:            PANGLAN-IPV6
+country:            CN
+admin-c:            PANGLAN-DN42
+tech-c:             PANGLAN-DN42
+mnt-by:             PANGLAN-MNT
+status:             ASSIGNED
+cidr:               fdb5:3850:ab11::/48
+source:             DN42

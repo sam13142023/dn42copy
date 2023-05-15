@@ -1,0 +1,11 @@
+inetnum:            172.23.181.0 - 172.23.181.31
+netname:            PANGLAN-IPV4
+remarks:            Peer with me at i@yinn.party
+descr:              Peer with me at i@yinn.party
+country:            CN
+admin-c:            PANGLAN-DN42
+tech-c:             PANGLAN-DN42
+mnt-by:             PANGLAN-MNT
+status:             ASSIGNED
+cidr:               172.23.181.0/27
+source:             DN42

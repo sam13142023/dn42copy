@@ -1,0 +1,4 @@
+route6:             fdb5:3850:ab11::/48
+origin:             AS4242420532
+mnt-by:             PANGLAN-MNT
+source:             DN42

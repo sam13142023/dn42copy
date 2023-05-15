@@ -1,0 +1,7 @@
+mntner:             PANGLAN-MNT
+admin-c:            PANGLAN-DN42
+tech-c:             PANGLAN-DN42
+mnt-by:             PANGLAN-MNT
+source:             DN42
+auth:               pgp-fingerprint 137B4E24551A0F2D58025F422620BA22005ADED3
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH+pKzEd89mZQz/k5TGBc1Tp8tPAYSfJkDIgsxTCgrLa i@yinn.party
