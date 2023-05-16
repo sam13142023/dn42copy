@@ -1,0 +1,5 @@
+route6:             fd92:3f43:6dfe::/48
+origin:             AS4242422051
+max-length:         48
+mnt-by:             ASYMPTOTE-MNT
+source:             DN42

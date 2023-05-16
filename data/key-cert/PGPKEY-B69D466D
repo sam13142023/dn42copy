@@ -1,0 +1,17 @@
+key-cert:           PGPKEY-B69D466D
+method:             PGP
+fingerpr:           5CC6 261B 4FCF 4F94 F58D 5422 55DB B2A6 B69D 466D
+owner:              wang666756 <wang666756@gmail.com>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEZGLkARYJKwYBBAHaRw8BAQdAWd4im5/Z71FprNkk+TxbeHpnKu1uFgMkN2Ai
+certif:             /mTqjIe0IXdhbmc2NjY3NTYgPHdhbmc2NjY3NTZAZ21haWwuY29tPoiQBBMWCAA4
+certif:             FiEEXMYmG0/PT5T1jVQiVduypradRm0FAmRi5AECGyMFCwkIBwIGFQoJCAsCBBYC
+certif:             AwECHgECF4AACgkQVduypradRm0RyAD/X5NfwXM/d8i8tv4CmxnvYQHp9V+Zary7
+certif:             5MZsZsXuOXsA/3LsqxLuyZD/gPhEKTQnylvY1douyiOSyKM/bQlLiDgP
+certif:             =PL3x
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            ASYMPTOTE-DN42
+tech-c:             ASYMPTOTE-DN42
+mnt-by:             ASYMPTOTE-MNT
+source:             DN42

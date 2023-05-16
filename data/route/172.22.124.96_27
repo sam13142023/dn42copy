@@ -1,0 +1,4 @@
+route:              172.22.124.96/27
+origin:             AS4242422051
+mnt-by:             ASYMPTOTE-MNT
+source:             DN42
