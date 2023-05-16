@@ -4,6 +4,8 @@ country:            CN
 admin-c:            INPRTX-DN42
 tech-c:             INPRTX-DN42
 mnt-by:             INPRTX-MNT
+nserver:            ns1.inprtx.dn42
+nserver:            ns2.inprtx.dn42
 status:             ASSIGNED
 cidr:               fdf4:56da:a360::/48
 source:             DN42
