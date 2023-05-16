@@ -1,0 +1,8 @@
+inetnum:            172.22.124.96 - 172.22.124.127
+cidr:               172.22.124.96/27
+netname:            ASYMPTOTE-NETWORK
+admin-c:            ASYMPTOTE-DN42
+tech-c:             ASYMPTOTE-DN42
+mnt-by:             ASYMPTOTE-MNT
+status:             ASSIGNED
+source:             DN42

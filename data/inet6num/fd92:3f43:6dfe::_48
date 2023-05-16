@@ -1,0 +1,8 @@
+inet6num:           fd92:3f43:6dfe:0000:0000:0000:0000:0000 - fd92:3f43:6dfe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd92:3f43:6dfe::/48
+netname:            ASYMPTOTE-NETWORK
+admin-c:            ASYMPTOTE-DN42
+tech-c:             ASYMPTOTE-DN42
+mnt-by:             ASYMPTOTE-MNT
+status:             ASSIGNED
+source:             DN42
