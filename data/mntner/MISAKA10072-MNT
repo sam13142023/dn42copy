@@ -1,6 +1,6 @@
 mntner:             MISAKA10072-MNT
 admin-c:            MISAKA10072-DN42
 tech-c:             MISAKA10072-DN42
-auth:               pgp-fingerprint BDC1979176F66DE8AF5F718C25CC6CC76A4BDFB4
+auth:               pgp-fingerprint E7EEDA9272B4F72C3556D6010EAAD79D73CC0BE9
 mnt-by:             MISAKA10072-MNT
 source:             DN42
