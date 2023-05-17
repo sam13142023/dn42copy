@@ -1,0 +1,5 @@
+route:              172.20.46.120/29
+origin:             AS4242421560
+max-length:         29
+mnt-by:             ECNOIRX-MNT
+source:             DN42

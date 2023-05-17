@@ -1,0 +1,11 @@
+inetnum:            172.20.46.120 - 172.20.46.127
+cidr:               172.20.46.120/29
+netname:            ECNOIRX-NETWORK
+descr:              DN42 network of ecnoirx (IPv4)
+admin-c:            ECNOIRX-DN42
+tech-c:             ECNOIRX-DN42
+mnt-by:             ECNOIRX-MNT
+status:             ASSIGNED
+nserver:            ns.ecnoirx.dn42
+ds-rdata:           12174 13 2 3845791E25CDE5D9F9EE6FA825C12F99B2E6965F00C2DF9592F697C2C79AA84B
+source:             DN42
