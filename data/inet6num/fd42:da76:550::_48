@@ -1,0 +1,11 @@
+inet6num:           fd42:da76:0550:0000:0000:0000:0000:0000 - fd42:da76:0550:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:da76:550::/48
+netname:            ECNOIRX-NETWORK
+descr:              DN42 network of ecnoirx (IPv6)
+admin-c:            ECNOIRX-DN42
+tech-c:             ECNOIRX-DN42
+mnt-by:             ECNOIRX-MNT
+status:             ASSIGNED
+nserver:            ns.ecnoirx.dn42
+ds-rdata:           39400 13 2 4EFC2495CBCE419934D2866BDC43553C095497C3F597D134E43258603C411E11
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             ecnoirx.dn42
+admin-c:            ECNOIRX-DN42
+tech-c:             ECNOIRX-DN42
+mnt-by:             ECNOIRX-MNT
+nserver:            ns.ecnoirx.dn42 172.20.46.121
+nserver:            ns.ecnoirx.dn42 fd42:da76:550::1
+ds-rdata:           42123 13 2 68E4E12EB157B1C972B4621D34CC97332A5F07953DEA0C2CC07C6EC9D19A0162
+source:             DN42
