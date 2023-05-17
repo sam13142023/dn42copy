@@ -1,5 +1,0 @@
-route:              172.22.138.32/27
-origin:             AS4242421062
-max-length:         27
-mnt-by:             FORTERA-MNT
-source:             DN42

@@ -1,9 +1,0 @@
-inetnum:            172.22.138.32 - 172.22.138.63
-cidr:               172.22.138.32/27
-netname:            FORTERA-IPV4
-admin-c:            FORTERA-DN42
-tech-c:             FORTERA-DN42
-mnt-by:             FORTERA-MNT
-status:             ASSIGNED
-nserver:            ns0.fortera.dn42
-source:             DN42

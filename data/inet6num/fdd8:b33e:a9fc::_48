@@ -1,9 +1,0 @@
-inet6num:           fdd8:b33e:a9fc:0000:0000:0000:0000:0000 - fdd8:b33e:a9fc:ffff:ffff:ffff:ffff:ffff
-cidr:               fdd8:b33e:a9fc::/48
-netname:            FORTERA-IPV6
-admin-c:            FORTERA-DN42
-tech-c:             FORTERA-DN42
-mnt-by:             FORTERA-MNT
-status:             ASSIGNED
-nserver:            ns0.fortera.dn42
-source:             DN42
