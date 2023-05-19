@@ -1,0 +1,7 @@
+domain:             smps.dn42
+admin-c:            SMPS-DN42
+tech-c:             SMPS-DN42
+mnt-by:             SMPS-MNT
+nserver:            ns.smps.dn42 172.20.178.253
+nserver:            ns.smps.dn42 fdb8:4967:7a1c:253::1
+source:             DN42

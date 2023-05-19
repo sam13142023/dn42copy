@@ -1,0 +1,9 @@
+inet6num:           fdb8:4967:7a1c:0000:0000:0000:0000:0000 - fdb8:4967:7a1c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb8:4967:7a1c::/48
+netname:            SMPS-NET-INET6
+admin-c:            SMPS-DN42
+tech-c:             SMPS-DN42
+mnt-by:             SMPS-MNT
+status:             ASSIGNED
+nserver:            ns.smps.dn42
+source:             DN42

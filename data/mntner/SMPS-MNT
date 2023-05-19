@@ -1,0 +1,6 @@
+mntner:             SMPS-MNT
+admin-c:            SMPS-DN42
+tech-c:             SMPS-DN42
+mnt-by:             SMPS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL37LmQiiWVdMx9o3HYJsjOizCLHQQBFLL2oliLio/iy
+source:             DN42
