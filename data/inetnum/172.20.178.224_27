@@ -1,0 +1,11 @@
+inetnum:            172.20.178.224 - 172.20.178.255
+netname:            SMPS-NET-INET
+country:            AT
+country:            DE
+admin-c:            SMPS-DN42
+tech-c:             SMPS-DN42
+mnt-by:             SMPS-MNT
+nserver:            ns.smps.dn42
+status:             ASSIGNED
+cidr:               172.20.178.224/27
+source:             DN42

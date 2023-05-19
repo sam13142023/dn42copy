@@ -1,0 +1,5 @@
+route6:             fdb8:4967:7a1c::/48
+origin:             AS4242423466
+max-length:         48
+mnt-by:             SMPS-MNT
+source:             DN42
