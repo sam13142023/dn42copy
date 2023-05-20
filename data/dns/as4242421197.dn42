@@ -1,0 +1,11 @@
+domain:             as4242421197.dn42
+descr:              AS4242421197
+admin-c:            SCOOPTA-DN42
+tech-c:             SCOOPTA-DN42
+mnt-by:             SCOOPTA-MNT
+nserver:            holo.uwu.dn42
+nserver:            c.c.uwu.dn42
+nserver:            02.uwu.dn42
+nserver:            kaguya.uwu.dn42
+ds-rdata:           45819 13 2 6B202E86E9A7DDDE2C0461A811842100B5518CA88DCC537095524DC8A4227288
+source:             DN42
