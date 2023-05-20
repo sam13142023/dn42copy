@@ -1,4 +1,4 @@
-route:              172.23.217.0/27
+route:              172.20.209.64/26
 descr:              Peering worldwide, Asia region node preferred. Contact me at haksrpd@outlook.com
 origin:             AS4242423947
 mnt-by:             SERNET-MNT
