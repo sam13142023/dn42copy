@@ -1,0 +1,4 @@
+route:              172.20.45.96/27
+origin:             AS4242422451
+mnt-by:             JNOEL-MNT
+source:             DN42

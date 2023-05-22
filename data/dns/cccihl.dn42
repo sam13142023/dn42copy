@@ -1,0 +1,7 @@
+domain:             cccihl.dn42
+admin-c:            JNOEL-DN42
+tech-c:             JNOEL-DN42
+mnt-by:             JNOEL-MNT
+nserver:            ns1.cccihl.dn42 172.20.45.100
+nserver:            ns1.cccihl.dn42 fd2a:6859:3c85:4::100
+source:             DN42
