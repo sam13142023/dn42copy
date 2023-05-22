@@ -2,6 +2,6 @@ domain:             highdef.dn42
 admin-c:            JLU5-DN42
 tech-c:             JLU5-DN42
 mnt-by:             JLU5-MNT
-nserver:            ns.highdef.dn42 172.22.108.21
+nserver:            ns.highdef.dn42 172.22.108.54
 nserver:            ns.highdef.dn42 fd86:bad:11b7:53::1
 source:             DN42
