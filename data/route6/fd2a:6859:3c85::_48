@@ -1,0 +1,5 @@
+route6:             fd2a:6859:3c85::/48
+origin:             AS4242422451
+max-length:         48
+mnt-by:             JNOEL-MNT
+source:             DN42

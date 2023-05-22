@@ -1,0 +1,10 @@
+inet6num:           fd2a:6859:3c85:0000:0000:0000:0000:0000 - fd2a:6859:3c85:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2a:6859:3c85::/48
+netname:            CCCIHL-NETWORK
+country:            CA
+nserver:            ns1.cccihl.dn42
+admin-c:            JNOEL-DN42
+tech-c:             JNOEL-DN42
+mnt-by:             JNOEL-MNT
+status:             ASSIGNED
+source:             DN42
