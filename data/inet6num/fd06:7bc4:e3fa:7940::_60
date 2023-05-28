@@ -1,0 +1,11 @@
+inet6num:           fd06:7bc4:e3fa:7940:0000:0000:0000:0000 - fd06:7bc4:e3fa:794f:ffff:ffff:ffff:ffff
+netname:            SERNET-IX-IPv6
+descr:              Allocation block for SERNET-IX
+nserver:            ns1.sernet.dn42
+nserver:            ns2.sernet.dn42
+admin-c:            HAKSRPD-DN42
+tech-c:             HAKSRPD-DN42
+mnt-by:             SERNET-MNT
+status:             ASSIGNED
+cidr:               fd06:7bc4:e3fa:7940::/60
+source:             DN42

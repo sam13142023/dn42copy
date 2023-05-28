@@ -1,0 +1,9 @@
+domain:             sernet.dn42
+admin-c:            HAKSRPD-DN42
+tech-c:             HAKSRPD-DN42
+mnt-by:             SERNET-MNT
+nserver:            ns1.sernet.dn42 172.20.209.120
+nserver:            ns1.sernet.dn42 fdfa:7906:8262::1010
+nserver:            ns2.sernet.dn42 172.23.209.121
+nserver:            ns2.sernet.dn42 fdfa:7906:8262::1011
+source:             DN42
