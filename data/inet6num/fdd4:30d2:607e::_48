@@ -1,0 +1,10 @@
+inet6num:           fdd4:30d2:607e:0000:0000:0000:0000:0000 - fdd4:30d2:607e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd4:30d2:607e::/48
+netname:            FLISK-NETWORK
+descr:              flisk's homelab network
+country:            DE
+admin-c:            FLISK-DN42
+tech-c:             FLISK-DN42
+mnt-by:             FLISK-MNT
+status:             ASSIGNED
+source:             DN42

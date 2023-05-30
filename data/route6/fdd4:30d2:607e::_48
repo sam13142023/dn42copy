@@ -1,0 +1,5 @@
+route6:             fdd4:30d2:607e::/48
+origin:             AS4242420390
+max-length:         48
+mnt-by:             FLISK-MNT
+source:             DN42
