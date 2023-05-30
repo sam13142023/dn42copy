@@ -1,0 +1,11 @@
+inetnum:            172.23.217.0 - 172.23.217.31
+cidr:               172.23.217.0/27
+netname:            NERDYSYSTEMS-NETWORK
+descr:              NerdySystems Networks
+country:            US
+admin-c:            NERDYSYSTEMS-DN42
+tech-c:             NERDYSYSTEMS-DN42
+mnt-by:             NERDYSYSTEMS-MNT
+org:                ORG-NERDYSYSTEMS
+status:             ASSIGNED
+source:             DN42
