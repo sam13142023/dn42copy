@@ -1,0 +1,8 @@
+mntner:             NERDYSYSTEMS-MNT
+descr:              NerdySystems maintainer
+abuse-mailbox:      abuse@nerdysystems.net
+admin-c:            NERDYSYSTEMS-DN42
+tech-c:             NERDYSYSTEMS-DN42
+mnt-by:             NERDYSYSTEMS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDlLsc2Jk6dNvXepNkYvd21zDft+upnnq965klCaXYq1pEKtIyb33j+Bq5JuCjkZO0Uw0gsFyTtkufZ+jQElwRrnMLCsPrMy7/Wfd1yjJAXRAgGAaiq4Bywg4YNspaO/JfQbthftdEXWgLG19Mx6RqqMT4Qh6TK7BiktzjyOEdI9JY0E1raz8HM2d7+5UbGMqvl/OTVhUOmT9CqIXpvvFY6TNLwD0tuOtnBtIEofuETt2PU3iPW9uMei4AJJDo7hMtyrHWia+rlWbofjih7E9R78vB8CS9ukFEq+6AeZE1ZeEV9HQsaM97dtcNSWpaPbohKV072b6EBP8pozPpFLUPxKO1EOH3X3xRM47t6KPwA5ANFav4vnTUT13sUT4ntlTSxPtPNM5jYxEgQdwHPKomk7Hfqsj+QM94zj8B8CIo/Lb3pbRMhMBzX57dU7zxsvWrcc3Kvk1zXpbs+KCv3QoIp9Wd0s6GE82iqBSg6VYegIjePk/2vKohJ05hpWbGwXnM=
+source:             DN42

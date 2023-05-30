@@ -1,0 +1,5 @@
+route6:             fd0e:c9b3:8c89::/48
+origin:             AS4242421460
+max-length:         48
+mnt-by:             NERDYSYSTEMS-MNT
+source:             DN42

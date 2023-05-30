@@ -1,0 +1,11 @@
+inet6num:           fd0e:c9b3:8c89:0000:0000:0000:0000:0000 - fd0e:c9b3:8c89:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0e:c9b3:8c89::/48
+netname:            NERDYSYSTEMS-NETWORK
+descr:              NerdySystems Networks
+country:            US
+admin-c:            NERDYSYSTEMS-DN42
+tech-c:             NERDYSYSTEMS-DN42
+mnt-by:             NERDYSYSTEMS-MNT
+org:                ORG-NERDYSYSTEMS
+status:             ASSIGNED
+source:             DN42
