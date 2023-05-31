@@ -1,0 +1,6 @@
+mntner:             FLISK-MNT
+admin-c:            FLISK-DN42
+tech-c:             FLISK-DN42
+mnt-by:             FLISK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBYq6SASi9W4h0BTbShjj+AQw53RAFfS63CwYMh2/WsR
+source:             DN42
