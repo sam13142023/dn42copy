@@ -1,5 +1,4 @@
 route:              172.20.149.64/27
-origin:             AS4242423124
 origin:             AS199680
 mnt-by:             SZCZOT3K-MNT
 source:             DN42
