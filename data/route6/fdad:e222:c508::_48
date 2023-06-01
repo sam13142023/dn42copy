@@ -1,0 +1,5 @@
+route6:             fdad:e222:c508::/48
+origin:             AS4242423039
+max-length:         48
+mnt-by:             MOW-MNT
+source:             DN42
