@@ -1,0 +1,8 @@
+inetnum:            172.22.98.160 - 172.22.98.191
+cidr:               172.22.98.160/27
+netname:            GAO-NETWORK
+admin-c:            GAO-DN42
+tech-c:             GAO-DN42
+mnt-by:             GAO-MNT
+status:             ASSIGNED
+source:             DN42

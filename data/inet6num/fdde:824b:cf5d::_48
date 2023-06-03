@@ -1,0 +1,10 @@
+inet6num:           fdde:824b:cf5d:0000:0000:0000:0000:0000 - fdde:824b:cf5d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:824b:cf5d::/48
+netname:            GAO-NET
+descr:              GAO DN42 network
+country:            CN
+admin-c:            GAO-DN42
+tech-c:             GAO-DN42
+mnt-by:             GAO-MNT
+status:             ASSIGNED
+source:             DN42
