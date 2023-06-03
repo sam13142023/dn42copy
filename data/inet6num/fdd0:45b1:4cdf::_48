@@ -1,0 +1,7 @@
+inet6num:           fdd0:45b1:4cdf:0000:0000:0000:0000:0000 - fdd0:45b1:4cdf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd0:45b1:4cdf::/48
+netname:            XGWQ-NETWORK
+country:            DE
+mnt-by:             XGWQ-MNT
+status:             ASSIGNED
+source:             DN42
