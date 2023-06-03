@@ -1,0 +1,6 @@
+mntner:             MOW-MNT
+admin-c:            MOW-DN42
+tech-c:             MOW-DN42
+mnt-by:             MOW-MNT
+auth:               pgp-fingerprint 34EE6B9E6A58CF660A2B1CB83699D5D0A050DA2B
+source:             DN42

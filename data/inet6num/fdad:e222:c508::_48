@@ -1,0 +1,10 @@
+inet6num:           fdad:e222:c508:0000:0000:0000:0000:0000 - fdad:e222:c508:ffff:ffff:ffff:ffff:ffff
+cidr:               fdad:e222:c508::/48
+netname:            SNEPI-NET
+descr:              Network of Cyrus, Nik and Thorri
+country:            DE
+admin-c:            MOW-DN42
+tech-c:             MOW-DN42
+mnt-by:             MOW-MNT
+status:             ASSIGNED
+source:             DN42
