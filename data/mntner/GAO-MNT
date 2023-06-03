@@ -1,0 +1,6 @@
+mntner:             GAO-MNT
+admin-c:            GAO-DN42
+tech-c:             GAO-DN42
+mnt-by:             GAO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEf1AMT/+nlYlsgRYignQaPrFghxGJrNzT68TJgmq7t5
+source:             DN42

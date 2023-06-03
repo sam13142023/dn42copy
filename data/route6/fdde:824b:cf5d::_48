@@ -1,0 +1,5 @@
+route6:             fdde:824b:cf5d::/48
+origin:             AS4242420266
+max-length:         48
+mnt-by:             GAO-MNT
+source:             DN42
