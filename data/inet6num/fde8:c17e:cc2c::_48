@@ -1,0 +1,10 @@
+inet6num:           fde8:c17e:cc2c:0000:0000:0000:0000:0000 - fde8:c17e:cc2c:ffff:ffff:ffff:ffff:ffff
+netname:            CELIACLAIRE-IPV6
+descr:              Peer with me at sion4536@gmail.com
+country:            CN
+admin-c:            CELIACLAIRE-DN42
+tech-c:             CELIACLAIRE-DN42
+mnt-by:             CELIACLAIRE-MNT
+status:             ASSIGNED
+cidr:               fde8:c17e:cc2c::/48
+source:             DN42
