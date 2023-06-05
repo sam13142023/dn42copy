@@ -1,0 +1,11 @@
+inetnum:            172.23.224.224 - 172.23.224.255
+netname:            CELIACLAIRE-IPV4
+remarks:            Peer with me at sion4536@gmail.com
+descr:              Peer with me at sion4536@gmail.com
+country:            CN
+admin-c:            CELIACLAIRE-DN42
+tech-c:             CELIACLAIRE-DN42
+mnt-by:             CELIACLAIRE-MNT
+status:             ASSIGNED
+cidr:               172.23.224.224/27
+source:             DN42
