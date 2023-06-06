@@ -1,0 +1,5 @@
+route6:             fd6f:b5f5:a00::/48
+origin:             AS4242420867
+max-length:         48
+mnt-by:             THEDCSPACE-MNT
+source:             DN42

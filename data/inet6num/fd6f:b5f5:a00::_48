@@ -1,0 +1,10 @@
+inet6num:           fd6f:b5f5:0a00:0000:0000:0000:0000:0000 - fd6f:b5f5:0a00:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:b5f5:a00::/48
+netname:            THEDCSPACE-NET
+descr:              v6 network THEDCSPACE
+country:            GB
+admin-c:            THEDCSPACE-DN42
+tech-c:             THEDCSPACE-DN42
+mnt-by:             THEDCSPACE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.238.48/28
+origin:             AS4242420867
+max-length:         28
+mnt-by:             THEDCSPACE-MNT
+source:             DN42
