@@ -1,0 +1,10 @@
+inetnum:            172.20.238.48 - 172.20.238.63
+cidr:               172.20.238.48/28
+netname:            THEDCSPACE-NET
+descr:              v4 network THEDCSPACE
+country:            GB
+admin-c:            THEDCSPACE-DN42
+tech-c:             THEDCSPACE-DN42
+mnt-by:             THEDCSPACE-MNT
+status:             ASSIGNED
+source:             DN42
