@@ -1,0 +1,12 @@
+inetnum:            172.20.59.192 - 172.20.59.223
+cidr:               172.20.59.192/27
+netname:            JK-NETWORK
+descr:              Network of JK
+country:            CN
+admin-c:            JK-DN42
+tech-c:             JK-DN42
+mnt-by:             JK-MNT
+status:             ASSIGNED
+nserver:            ns1.jk.dn42
+nserver:            ns2.jk.dn42
+source:             DN42

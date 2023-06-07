@@ -1,0 +1,5 @@
+route:              172.20.59.192/27
+origin:             AS4242420727
+max-length:         27
+mnt-by:             JK-MNT
+source:             DN42
