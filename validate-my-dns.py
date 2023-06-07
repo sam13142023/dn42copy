@@ -36,7 +36,7 @@ import dns.exception
 REGISTRY_PATH = "."
 # amounts of seconds to wait for a reply
 TIMEOUT = 3
-# amount of threads to use when scanning dns servers
+# amount of threads to use when scanning dns servers: 0: disable ThreadPool (run everything in main thread), 1: enable ThreadPool with one thread, >1: Threadpool with n Threads
 THREADS = 16
 
 # --- end configuration
@@ -584,7 +584,7 @@ def main(mntner):
     # global _tmp_continue, _tmp_found
     # _tmp_found = False
     # _tmp_continue = "10.in-addr.arpa"
-    def threaded_check_dns(domain_name):
+    def check_dns(domain_name):
         global errors, summary
         # global _tmp_found, _tmp_continue
         # if domain_name == _tmp_continue:
@@ -641,10 +641,10 @@ def main(mntner):
                         f"WARN: master nserver '{master_ns}' returned by {ip}({nserver}) not in the list of the specified nservers of {domain_name}")
                     summary[domain_name][SUMMARY.WRONG_SOA] += 1
                     errors += 1
-                    continue
 
                 _ns = get_ns(domain_name, ip)
                 if _ns == False:
+                    # it is ok to just "continue", because that funcion already prints warnings/errors
                     continue
                 # print(f"DEBUG: response {_ns}")
                 if not f"{nserver}." in _ns:
@@ -652,7 +652,6 @@ def main(mntner):
                         f"WARN: returned nservers returned by {ip}({nserver}) for {domain_name} does not include it self")
                     summary[domain_name][SUMMARY.WRONG_NS] += 1
                     errors += 1
-                    continue
 
                 for _nserver in domains[domain_name]["nserver"]:
                     for _server in _ns:
@@ -709,12 +708,18 @@ def main(mntner):
                     summary[domain_name][SUMMARY.DNSSEC_FAIL] += 1
                     errors += 1
             # break
-
-    # create ThreadPool and run threaded_check_dns against all domains
-    pool = ThreadPool(processes=THREADS)
-    results = pool.map(threaded_check_dns, domains)
-    pool.close()
-    pool.join()
+    if THREADS < 0 or type(THREADS) != int:
+        # check if THREADS is set properly
+        raise ValueError("THREADS must be a positive integer or 0")
+    elif THREADS == 0:
+        for domain in domains:
+            check_dns(domain)
+    else:
+        # create ThreadPool and run check_dns faster against all domains
+        pool = ThreadPool(processes=THREADS)
+        results = pool.map(check_dns, domains)
+        pool.close()
+        pool.join()
 
     # --- show a summary as a table ---
 
