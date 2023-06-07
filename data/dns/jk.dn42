@@ -1,0 +1,9 @@
+domain:             jk.dn42
+admin-c:            JK-DN42
+tech-c:             JK-DN42
+mnt-by:             JK-MNT
+nserver:            ns1.jk.dn42 172.20.59.192
+nserver:            ns1.jk.dn42 fddd:e143:976a::1
+nserver:            ns2.jk.dn42 172.20.59.193
+nserver:            ns2.jk.dn42 fddd:e143:976a::2
+source:             DN42

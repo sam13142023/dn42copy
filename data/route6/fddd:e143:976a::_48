@@ -1,0 +1,5 @@
+route6:             fddd:e143:976a::/48
+origin:             AS4242423999
+max-length:         48
+mnt-by:             JK-MNT
+source:             DN42
