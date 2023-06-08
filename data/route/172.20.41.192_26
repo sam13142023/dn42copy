@@ -1,0 +1,5 @@
+route:              172.20.41.192/26
+origin:             AS4242422155
+max-length:         26
+mnt-by:             GABI-MNT
+source:             DN42
