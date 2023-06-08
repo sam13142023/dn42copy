@@ -1,0 +1,9 @@
+inet6num:           fd58:def5:b3f6:0000:0000:0000:0000:0000 - fd58:def5:b3f6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd58:def5:b3f6::/48
+netname:            NRB-NETWORK
+descr:              Network of NRB
+admin-c:            NRB-DN42
+tech-c:             NRB-DN42
+mnt-by:             NRB-MNT
+status:             ASSIGNED
+source:             DN42
