@@ -1,0 +1,6 @@
+mntner:             WENLONG-MNT
+admin-c:            WENLONG-DN42
+tech-c:             WENLONG-DN42
+mnt-by:             WENLONG-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILpEk7mmGz44O36Dq37Oujg99UeYIJTEejxKAkCwU77I
