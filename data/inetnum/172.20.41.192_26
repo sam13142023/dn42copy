@@ -1,0 +1,9 @@
+inetnum:            172.20.41.192 - 172.20.41.255
+cidr:               172.20.41.192/26
+netname:            GRASS-NETWORK-LAB
+country:            RO
+admin-c:            GABI-DN42
+tech-c:             GABI-DN42
+mnt-by:             GABI-MNT
+status:             ASSIGNED
+source:             DN42
