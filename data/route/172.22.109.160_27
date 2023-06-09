@@ -1,0 +1,4 @@
+route:              172.22.109.160/27
+origin:             AS4242422366
+mnt-by:             WENLONG-MNT
+source:             DN42
