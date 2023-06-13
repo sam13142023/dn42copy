@@ -3,8 +3,8 @@ admin-c:            FORTLESS-DN42
 tech-c:             FORTLESS-DN42
 org:                ORG-NORTHREND
 mnt-by:             NORTHREND-MNT
-nserver:            ns1.northrend.dn42 172.20.222.237
-nserver:            ns1.northrend.dn42 fd22:e64a:7281::10
-nserver:            ns2.northrend.dn42 172.20.222.238
-nserver:            ns2.northrend.dn42 fd22:e64a:7281::11
+nserver:            ns1.northrend.dn42 172.22.179.79
+nserver:            ns1.northrend.dn42 fd22:e64a:7281:5353::a200
+nserver:            ns2.northrend.dn42 172.22.179.80
+nserver:            ns2.northrend.dn42 fd22:e64a:7281:53::a200
 source:             DN42

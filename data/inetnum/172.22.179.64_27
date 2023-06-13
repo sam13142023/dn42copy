@@ -1,7 +1,7 @@
 inetnum:            172.22.179.64 - 172.22.179.95
 cidr:               172.22.179.64/27
 netname:            NORTHREND-NETWORK
-descr:              Northrend Networks Global
+descr:              Northrend Network Internals
 org:                ORG-NORTHREND
 country:            RO
 admin-c:            FORTLESS-DN42
