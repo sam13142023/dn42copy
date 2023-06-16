@@ -1,0 +1,6 @@
+route:              172.23.30.0/26
+descr:              Amane Network
+remarks:            Just a Network
+origin:             AS4242423530
+mnt-by:             AMANE-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.30.0 - 172.23.30.63
+cidr:               172.23.30.0/26
+netname:            AMANE-DN42
+descr:              Amane Network on DN42
+remarks:            Contact to https://nofmoebot.t.me to peer
+country:            HK
+admin-c:            AMANE-DN42
+tech-c:             AMANE-DN42
+mnt-by:             AMANE-MNT
+status:             ASSIGNED
+source:             DN42
