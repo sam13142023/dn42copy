@@ -1,0 +1,4 @@
+route:              172.22.158.0/26
+origin:             AS200782
+mnt-by:             YOITSU-MNT
+source:             DN42

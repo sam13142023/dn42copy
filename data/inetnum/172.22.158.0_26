@@ -1,0 +1,8 @@
+inetnum:            172.22.158.0 - 172.22.158.63
+cidr:               172.22.158.0/26
+netname:            Yoitsu-Network-DN42
+admin-c:            YOITSU-DN42
+tech-c:             YOITSU-DN42
+mnt-by:             YOITSU-MNT
+status:             ASSIGNED
+source:             DN42

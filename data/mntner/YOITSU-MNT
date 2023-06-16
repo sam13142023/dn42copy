@@ -1,0 +1,5 @@
+mntner:             YOITSU-MNT
+admin-c:            YOITSU-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxJYLtLryuK3ymBtKQwhfvbUW6b6vQPuCpu7C+za/DM
+mnt-by:             YOITSU-MNT
+source:             DN42
