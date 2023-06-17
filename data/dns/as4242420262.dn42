@@ -1,8 +1,0 @@
-domain:             as4242420262.dn42
-descr:              AS4242420262's domain
-admin-c:            MTZFEDERICO-DN42
-tech-c:             MTZFEDERICO-DN42
-mnt-by:             MTZFEDERICO-MNT
-nserver:            ns1.as4242420262.dn42 172.22.114.100
-nserver:            ns1.as4242420262.dn42 fd42:24ac:df57:5353::53
-source:             DN42
