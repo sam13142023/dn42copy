@@ -1,0 +1,8 @@
+inet6num:           fdd7:addd:744e:0000:0000:0000:0000:0000 - fdd7:addd:744e:ffff:ffff:ffff:ffff:ffff
+netname:            U8336TEA-V6
+country:            US
+admin-c:            U8336TEA-DN42
+mnt-by:             U8336TEA-MNT
+status:             ASSIGNED
+cidr:               fdd7:addd:744e::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.62.72/29
+origin:             AS4242420866
+max-length:         29
+mnt-by:             U8336TEA-MNT
+source:             DN42

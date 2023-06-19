@@ -1,0 +1,5 @@
+route6:             fdd7:addd:744e::/48
+origin:             AS4242420866
+max-length:         48
+mnt-by:             U8336TEA-MNT
+source:             DN42
