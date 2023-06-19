@@ -1,0 +1,4 @@
+route:              172.21.85.64/27
+origin:             AS4242421815
+mnt-by:             BOZHAN-MNT
+source:             DN42
