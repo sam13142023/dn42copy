@@ -1,0 +1,9 @@
+inetnum:            172.21.85.64 - 172.21.85.95
+netname:            BOZHAN-IPV4
+country:            CN
+admin-c:            BOZHAN-DN42
+tech-c:             BOZHAN-DN42
+mnt-by:             BOZHAN-MNT
+status:             ASSIGNED
+cidr:               172.21.85.64/27
+source:             DN42
