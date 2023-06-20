@@ -1,0 +1,11 @@
+inetnum:            172.23.205.64 - 172.23.205.95
+netname:            REALBRANDON-IPV4
+remarks:            Hello world from brandonhan2068@gmail.com
+descr:              Hello world from brandonhan2068@gmail.com
+country:            GB
+admin-c:            REALBRANDON-DN42
+tech-c:             REALBRANDON-DN42
+mnt-by:             REALBRANDON-MNT
+status:             ASSIGNED
+cidr:               172.23.205.64/27
+source:             DN42

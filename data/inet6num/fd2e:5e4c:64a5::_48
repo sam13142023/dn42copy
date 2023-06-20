@@ -1,0 +1,10 @@
+inet6num:           fd2e:5e4c:64a5:0000:0000:0000:0000:0000 - fd2e:5e4c:64a5:ffff:ffff:ffff:ffff:ffff
+netname:            REALBRANDON-IPV6
+descr:              Hello world from brandonhan2068@gmail.com
+country:            GB
+admin-c:            REALBRANDON-DN42
+tech-c:             REALBRANDON-DN42
+mnt-by:             REALBRANDON-MNT
+status:             ASSIGNED
+cidr:               fd2e:5e4c:64a5::/48
+source:             DN42
