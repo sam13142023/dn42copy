@@ -1,0 +1,11 @@
+inetnum:            172.20.183.88 - 172.20.183.95
+cidr:               172.20.183.88/29
+netname:            PIVIPI-NET
+nserver:            ns1.pivipi.dn42
+nserver:            ns2.pivipi.dn42
+country:            PL
+admin-c:            MINECON724-DN42
+tech-c:             MINECON724-DN42
+mnt-by:             MINECON724-MNT
+status:             ASSIGNED
+source:             DN42
