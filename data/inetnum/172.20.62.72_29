@@ -1,0 +1,8 @@
+inetnum:            172.20.62.72 - 172.20.62.79
+netname:            U8336TEA-V4
+country:            US
+admin-c:            U8336TEA-DN42
+mnt-by:             U8336TEA-MNT
+status:             ASSIGNED
+cidr:               172.20.62.72/29
+source:             DN42

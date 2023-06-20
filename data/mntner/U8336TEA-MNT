@@ -1,0 +1,5 @@
+mntner:             U8336TEA-MNT
+admin-c:            U8336TEA-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJrxvWkxxn0yhSD72aAFE7dCr6vOXGM7n5OqDvh3UxbQ 
+mnt-by:             U8336TEA-MNT
+source:             DN42
