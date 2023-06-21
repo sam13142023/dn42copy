@@ -1,0 +1,9 @@
+inetnum:            172.23.76.96 - 172.23.76.127
+cidr:               172.23.76.96/27
+netname:            NRB-NETWORK
+descr:              Network of NRB
+admin-c:            NRB-DN42
+tech-c:             NRB-DN42
+mnt-by:             NRB-MNT
+status:             ASSIGNED
+source:             DN42
