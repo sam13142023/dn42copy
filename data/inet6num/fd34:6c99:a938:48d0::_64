@@ -1,0 +1,9 @@
+inet6num:           fd34:6c99:a938:48d0:0000:0000:0000:0000 - fd34:6c99:a938:48d0:ffff:ffff:ffff:ffff
+cidr:               fd34:6c99:a938:48d0::/64
+netname:            RDAMJI27-V6-NET-1
+country:            CA
+admin-c:            RDAMJI27-DN42
+tech-c:             RDAMJI27-DN42
+mnt-by:             RDAMJI27-MNT
+status:             ASSIGNED
+source:             DN42

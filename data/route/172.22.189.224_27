@@ -1,0 +1,5 @@
+route:              172.22.189.224/27
+origin:             AS4242422572
+max-length:         27
+mnt-by:             RDAMJI27-MNT
+source:             DN42
