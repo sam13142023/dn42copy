@@ -1,0 +1,5 @@
+route6:             fd42:1194:c0de::/48
+origin:             AS4242423786
+max-length:         48
+mnt-by:             KYBERORG-MNT
+source:             DN42

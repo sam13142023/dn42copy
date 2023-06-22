@@ -1,0 +1,5 @@
+route:              172.23.101.144/28
+origin:             AS4242423786
+max-length:         28
+mnt-by:             KYBERORG-MNT
+source:             DN42
