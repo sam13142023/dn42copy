@@ -1,8 +1,0 @@
-mntner:             ARISUM-MNT
-descr:              arisum
-auth:               pgp-fingerprint E7D68E34C200F71C183E7FF246ACFD2CC5C59E46
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDXV/dRlW9C0JPFa0yuhI6iAejpSj5qn9uP9hDJAXQhG
-admin-c:            ARISUM-DN42
-tech-c:             ARISUM-DN42
-mnt-by:             ARISUM-MNT
-source:             DN42
