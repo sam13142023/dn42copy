@@ -6,4 +6,5 @@ nserver:            ns1.pivipi.dn42 172.20.183.89
 nserver:            ns1.pivipi.dn42 fdfe:8d0:7450::1
 nserver:            ns2.pivipi.dn42 172.20.183.90
 nserver:            ns2.pivipi.dn42 fdfe:8d0:7450::2
+ds-rdata:           38293 15 2 9ad51e0828125cead729a5fe28ca99ec2ef66fea71c24e1eacc12ff86bf139e8
 source:             DN42

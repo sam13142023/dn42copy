@@ -3,6 +3,7 @@ cidr:               172.20.183.88/29
 netname:            PIVIPI-NET
 nserver:            ns1.pivipi.dn42
 nserver:            ns2.pivipi.dn42
+ds-rdata:           62403 15 2 80a57e76a65ec0495265efbdb922d92356721b7ec61746053d7944fdaf0811e3
 country:            PL
 admin-c:            MINECON724-DN42
 tech-c:             MINECON724-DN42
