@@ -1,0 +1,8 @@
+mntner:             KYBERORG-MNT
+descr:              KYB-LAB
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+mnt-by:             KYBERORG-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBE7L4+yNelvo5rPq7FS0ARIzvIx8CaNdz4YiqW4dmOKhnDUBS0GJnjsGdtIbT3OUGUnk8ub7grPU5+T39RDmYPpCs/gf9LaGOKo7NTM5hQwG2+dAwxE1qRMpawSNC8uJnklWtFVS5J7ysLcqeR0K/ZjBSklrIpimvwteI/cjMaBCCjTEBQ8FnpxrZYY2qbBLyLneQjFWgD3+cm9Init0GCxhSw8J94StosN1DQloiKFX50sjY/9a3kNvzKAuo4FCSCKmDOuEqm+zrkFKz8NDpUy1TMxwfnyFTjsmTZUqMpkN0E1Be30N/hDI7ak1XxryC8N93hQarEEgQV7Dmwye7
+auth:               pgp-fingerprint 0D776C8B45AACCEA04FAF2FE7096A50E13E775D0
