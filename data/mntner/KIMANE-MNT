@@ -2,5 +2,5 @@ mntner:             KIMANE-MNT
 admin-c:            KIMANE-DN42
 tech-c:             KIMANE-DN42
 mnt-by:             KIMANE-MNT
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHstvLc65mxINbRjcjV+6lfGHfhSItEKnjzWJeTHXvcr mg433@Birk
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICoiE+DqG3s3aDpjYZsiLcoU+SDgnRaKP0Q3DWRvQB2B mg433@harry-potter
 source:             DN42
