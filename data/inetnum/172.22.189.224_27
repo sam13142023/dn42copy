@@ -1,0 +1,10 @@
+inetnum:            172.22.189.224 - 172.22.189.255
+cidr:               172.22.189.224/27
+netname:            RDAMJI27-NETWORK
+descr:              Network of RDAMJI27
+country:            CA
+admin-c:            RDAMJI27-DN42
+tech-c:             RDAMJI27-DN42
+mnt-by:             RDAMJI27-MNT
+status:             ASSIGNED
+source:             DN42
