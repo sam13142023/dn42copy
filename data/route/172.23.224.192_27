@@ -1,0 +1,5 @@
+route:              172.23.224.192/27
+origin:             AS4242422415
+max-length:         27
+mnt-by:             MRICKL-MNT
+source:             DN42

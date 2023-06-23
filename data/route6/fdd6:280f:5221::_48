@@ -1,0 +1,4 @@
+route6:             fdd6:280f:5221::/48
+origin:             AS4242422415
+mnt-by:             MRICKL-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdd6:280f:5221:0000:0000:0000:0000:0000 - fdd6:280f:5221:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd6:280f:5221::/48
+netname:            MRICKL-IPV6
+descr:              IPv6 Network from MRICKL
+country:            DE
+admin-c:            MRICKL-DN42
+tech-c:             MRICKL-DN42
+mnt-by:             MRICKL-MNT
+status:             ASSIGNED
+source:             DN42
