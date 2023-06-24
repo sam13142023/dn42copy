@@ -1,7 +1,0 @@
-domain:             arisum.dn42
-admin-c:            ARISUM-DN42
-tech-c:             ARISUM-DN42
-mnt-by:             ARISUM-MNT
-nserver:            ns1.arisum.dn42 172.21.86.97
-nserver:            ns1.arisum.dn42 fd94:30a:dee0::
-source:             DN42
