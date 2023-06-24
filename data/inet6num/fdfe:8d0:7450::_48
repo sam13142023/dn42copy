@@ -3,6 +3,7 @@ cidr:               fdfe:8d0:7450::/48
 netname:            PIVIPI-NET
 nserver:            ns1.pivipi.dn42
 nserver:            ns2.pivipi.dn42
+ds-rdata:           64024 15 2 f4490800c5d6a8810d8f461397e38aae377f4b81a6b5f7d8b2a3c240fb602882
 country:            PL
 admin-c:            MINECON724-DN42
 tech-c:             MINECON724-DN42
