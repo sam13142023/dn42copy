@@ -1,0 +1,10 @@
+inetnum:            172.23.224.192 - 172.23.224.223
+cidr:               172.23.224.192/27
+netname:            MRICKL-IPv4
+descr:              IPv4 Network from MRICKL
+country:            DE
+admin-c:            MRICKL-DN42
+tech-c:             MRICKL-DN42
+mnt-by:             MRICKL-MNT
+status:             ASSIGNED
+source:             DN42
