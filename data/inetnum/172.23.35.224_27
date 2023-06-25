@@ -1,0 +1,10 @@
+inetnum:            172.23.35.224 - 172.23.35.255
+cidr:               172.23.35.224/27
+netname:            STETSED-NETWORK
+descr:              Stetseds Network
+country:            NL
+admin-c:            STETSED-DN42
+tech-c:             STETSED-DN42
+mnt-by:             STETSED-MNT
+status:             ASSIGNED
+source:             DN42
