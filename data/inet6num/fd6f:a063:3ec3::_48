@@ -1,0 +1,10 @@
+inet6num:           fd6f:a063:3ec3:0000:0000:0000:0000:0000 - fd6f:a063:3ec3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:a063:3ec3::/48
+netname:            STETSED-NETWORK
+descr:              Stetseds Network
+country:            NL
+admin-c:            STETSED-DN42
+tech-c:             STETSED-DN42
+mnt-by:             STETSED-MNT
+status:             ASSIGNED
+source:             DN42

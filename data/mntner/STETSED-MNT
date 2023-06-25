@@ -1,0 +1,6 @@
+mntner:             STETSED-MNT
+admin-c:            STETSED-DN42
+tech-c:             STETSED-DN42
+mnt-by:             STETSED-MNT
+auth:               pgp-fingerprint C5D184E877B017D600FC3C041692BF3D5214DA36
+source:             DN42

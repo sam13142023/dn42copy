@@ -1,0 +1,5 @@
+route6:             fd6f:a063:3ec3::/48
+origin:             AS4242423709
+max-length:         48
+mnt-by:             STETSED-MNT
+source:             DN42
