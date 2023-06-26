@@ -1,0 +1,9 @@
+inet6num:           fd00:aaeb:a55a:0000:0000:0000:0000:0000 - fd00:aaeb:a55a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:aaeb:a55a::/48
+netname:            CENT-NETWORK
+descr:              Network of Cent
+admin-c:            CENT-DN42
+tech-c:             CENT-DN42
+mnt-by:             CENT-MNT
+status:             ASSIGNED
+source:             DN42
