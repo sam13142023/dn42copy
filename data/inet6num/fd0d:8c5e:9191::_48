@@ -1,0 +1,10 @@
+inet6num:           fd0d:8c5e:9191:0000:0000:0000:0000:0000 - fd0d:8c5e:9191:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0d:8c5e:9191::/48
+netname:            PADDY-DN42-V6
+descr:              Paddy DN42 Network IPv6 Block
+country:            CN
+admin-c:            PADDY-DN42
+tech-c:             PADDY-DN42
+mnt-by:             PADDY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.183.64/28
+descr:              Paddy DN42 Network V4
+origin:             AS4242421799
+mnt-by:             PADDY-MNT
+source:             DN42
