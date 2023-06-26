@@ -1,0 +1,9 @@
+inet6num:           fd71:29f8:e2ff:0000:0000:0000:0000:0000 - fd71:29f8:e2ff:ffff:ffff:ffff:ffff:ffff
+netname:            STEVENSUN-NETWORK-IPV6
+country:            CN
+admin-c:            STEVENSUN-DN42
+tech-c:             STEVENSUN-DN42
+mnt-by:             STEVENSUN-MNT
+status:             ASSIGNED
+cidr:               fd71:29f8:e2ff::/48
+source:             DN42
