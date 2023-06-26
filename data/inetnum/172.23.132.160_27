@@ -1,0 +1,8 @@
+inetnum:            172.23.132.160 - 172.23.132.191
+cidr:               172.23.132.160/27
+netname:            MARIA-IPV4
+admin-c:            MARIA-DN42
+tech-c:             MARIA-DN42
+mnt-by:             MARIA-MNT
+status:             ASSIGNED
+source:             DN42
