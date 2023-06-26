@@ -15,6 +15,8 @@
 
 # Nr    Action    Prefix                      MinLen  MaxLen    # Comment
 
+0010    deny      fdd6:6302:7c04::/48         48       128      # Filter test, see fdd6:6302:7c04::/48
+
 1001    permit    fd00::/8                    44       64       # ULA (defined)
 
 9999    deny      ::/0                         0      128       # block the rest
