@@ -1,0 +1,5 @@
+route:              172.22.132.224/27
+origin:             AS4242422948
+max-length:         27
+mnt-by:             CENT-MNT
+source:             DN42

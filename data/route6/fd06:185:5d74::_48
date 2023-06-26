@@ -1,0 +1,5 @@
+route6:             fd06:185:5d74::/48
+descr:              Peer with me at dn42@maria-global.net
+origin:             AS4242423780
+mnt-by:             MARIA-MNT
+source:             DN42

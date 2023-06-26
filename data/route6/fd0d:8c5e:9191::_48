@@ -1,0 +1,5 @@
+route6:             fd0d:8c5e:9191::/48
+descr:              Paddy DN42 Network V6
+origin:             AS4242421799
+mnt-by:             PADDY-MNT
+source:             DN42
