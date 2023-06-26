@@ -1,0 +1,7 @@
+aut-num:            AS4242423780
+as-name:            MARIA-AS
+descr:              Peer with me at dn42@maria-global.net
+admin-c:            MARIA-DN42
+tech-c:             MARIA-DN42
+mnt-by:             MARIA-MNT
+source:             DN42

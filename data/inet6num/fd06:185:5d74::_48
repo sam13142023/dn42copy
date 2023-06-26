@@ -1,0 +1,10 @@
+inet6num:           fd06:0185:5d74:0000:0000:0000:0000:0000 - fd06:0185:5d74:ffff:ffff:ffff:ffff:ffff
+netname:            MARIA-IPV6
+descr:              Peer with me at dn42@maria-global.net
+country:            HK
+admin-c:            MARIA-DN42
+tech-c:             MARIA-DN42
+mnt-by:             MARIA-MNT
+status:             ASSIGNED
+cidr:               fd06:185:5d74::/48
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             MARIA-MNT
+admin-c:            MARIA-DN42
+tech-c:             MARIA-DN42
+mnt-by:             MARIA-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGL3HjCAlz4SY1AZmjq4bf2RXT9aGzL3jgAZpbDXyH8v linusx_1@outlook.com

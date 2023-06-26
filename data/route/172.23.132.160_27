@@ -1,0 +1,5 @@
+route:              172.23.132.160/27
+descr:              Peer with me at dn42@maria-global.net
+origin:             AS4242423780
+mnt-by:             MARIA-MNT
+source:             DN42
