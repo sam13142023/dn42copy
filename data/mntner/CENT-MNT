@@ -1,0 +1,6 @@
+mntner:             CENT-MNT
+admin-c:            CENT-DN42
+tech-c:             CENT-DN42
+mnt-by:             CENT-MNT
+auth:               pgp-fingerprint 9072E741AA3884FF83C958420BE11DFD76C1BFCE
+source:             DN42

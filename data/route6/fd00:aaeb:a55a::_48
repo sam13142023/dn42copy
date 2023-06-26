@@ -1,0 +1,5 @@
+route6:             fd00:aaeb:a55a::/48
+origin:             AS4242422948
+max-length:         48
+mnt-by:             CENT-MNT
+source:             DN42

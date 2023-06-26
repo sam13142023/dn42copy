@@ -1,0 +1,9 @@
+inetnum:            172.22.132.224 - 172.22.132.255
+cidr:               172.22.132.224/27
+netname:            CENT-NETWORK
+descr:              Network of cent
+admin-c:            CENT-DN42
+tech-c:             CENT-DN42
+mnt-by:             CENT-MNT
+status:             ASSIGNED
+source:             DN42
