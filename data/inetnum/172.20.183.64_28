@@ -1,0 +1,10 @@
+inetnum:            172.20.183.64 - 172.20.183.79
+cidr:               172.20.183.64/28
+netname:            PADDY-DN42-V4
+descr:              PADDY DN42 Network IPv4 Block
+country:            CN
+admin-c:            PADDY-DN42
+tech-c:             PADDY-DN42
+mnt-by:             PADDY-MNT
+status:             ASSIGNED
+source:             DN42
