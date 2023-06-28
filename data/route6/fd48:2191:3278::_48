@@ -1,0 +1,5 @@
+route6:             fd48:2191:3278::/48
+origin:             AS4242421102
+max-length:         48
+mnt-by:             TEUFELCHEN-MNT
+source:             DN42
