@@ -1,6 +1,6 @@
 inetnum:            10.127.111.0 - 10.127.111.255
 cidr:               10.127.111.0/24
-netname:            Kusakabe-Neo-IP4
+netname:            KSKB-NEO-IP4
 admin-c:            KUSAKABESI-NEONETWORK
 tech-c:             KUSAKABESI-NEONETWORK
 remarks:            Imported from neonetwork, do not edit!
