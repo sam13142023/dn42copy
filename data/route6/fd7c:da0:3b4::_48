@@ -1,0 +1,5 @@
+route6:             fd7c:da0:3b4::/48
+origin:             AS4242422417
+max-length:         48
+mnt-by:             DUCKL1NG-MNT
+source:             DN42

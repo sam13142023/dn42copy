@@ -1,0 +1,5 @@
+route:              172.21.86.96/27
+origin:             AS4242422417
+max-length:         27
+mnt-by:             DUCKL1NG-MNT
+source:             DN42
