@@ -1,0 +1,11 @@
+inetnum:            172.22.138.32 - 172.22.138.63
+netname:            CALVIN-IPV4
+remarks:            Peer with me at calvinchaochao@outlook.com
+descr:              Peer with me at calvinchaochao@outlook.com
+country:            CN
+admin-c:            CALVIN-DN42
+tech-c:             CALVIN-DN42
+mnt-by:             CALVIN-MNT
+status:             ASSIGNED
+cidr:               172.22.138.32/27
+source:             DN42
