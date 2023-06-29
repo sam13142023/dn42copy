@@ -1,0 +1,6 @@
+mntner:             DUCKL1NG-MNT
+admin-c:            DUCKL1NG-DN42
+tech-c:             DUCKL1NG-DN42
+mnt-by:             DUCKL1NG-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICqt80WLu9/gvCnm4IQv94VOZxd9npu4mA7tGbinNiY4
+source:             DN42

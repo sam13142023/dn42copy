@@ -1,0 +1,10 @@
+inet6num:           fd7c:0da0:03b4:0000:0000:0000:0000:0000 - fd7c:0da0:03b4:ffff:ffff:ffff:ffff:ffff
+netname:            DUCKL1NG-NET6
+descr:              Duckl1ng IPv6 Space
+country:            PL
+admin-c:            DUCKL1NG-DN42
+tech-c:             DUCKL1NG-DN42
+mnt-by:             DUCKL1NG-MNT
+cidr:               fd7c:da0:3b4::/48
+status:             ASSIGNED
+source:             DN42
