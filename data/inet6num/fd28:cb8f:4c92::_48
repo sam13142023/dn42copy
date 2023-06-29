@@ -1,6 +1,7 @@
 inet6num:           fd28:cb8f:4c92:0000:0000:0000:0000:0000 - fd28:cb8f:4c92:ffff:ffff:ffff:ffff:ffff
-netname:            KSKB-NETv6
-descr:              KSKB-Network IPv6
+netname:            KSKB-DN42v6
+descr:              KSKB-DN42 Network IPv6
+remarks:            Geofeed https://dn42.kskb.eu.org/files/dn42geofeed.csv
 country:            TW
 admin-c:            KSKB-DN42
 tech-c:             KSKB-DN42
