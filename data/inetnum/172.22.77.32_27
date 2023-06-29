@@ -1,6 +1,7 @@
 inetnum:            172.22.77.32 - 172.22.77.63
-netname:            KSKB-NETv4
-descr:              KSKB-Network IPv4
+netname:            KSKB-DN42v4
+descr:              KSKB-DN42 Network IPv4
+remarks:            Geofeed: https://dn42.kskb.eu.org/files/dn42geofeed.csv
 country:            TW
 admin-c:            KSKB-DN42
 tech-c:             KSKB-DN42
