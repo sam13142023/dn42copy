@@ -1,5 +1,5 @@
-inet6num:           fd42:1194:c0de:0000:0000:0000:0000:0000 - fd42:1194:c0de:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:1194:c0de::/48
+inet6num:           fd42:1194:0047:0000:0000:0000:0000:0000 - fd42:1194:0047:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1194:47::/48
 netname:            KYB-NETWORK
 descr:              Kyb Network
 country:            EE
