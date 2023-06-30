@@ -1,0 +1,10 @@
+inetnum:            172.23.180.96 - 172.23.180.127
+netname:            F2K1DE-IPV4
+descr:              IPv4 Network of F2K1DE
+country:            DE
+admin-c:            F2K1DE-DN42
+tech-c:             F2K1DE-DN42
+mnt-by:             F2K1DE-MNT
+status:             ASSIGNED
+cidr:               172.23.180.96/27
+source:             DN42
