@@ -1,0 +1,10 @@
+inet6num:           fd00:f2c1:c0fe:0000:0000:0000:0000:0000 - fd00:f2c1:c0fe:ffff:ffff:ffff:ffff:ffff
+netname:            F2K1DE-IPV6
+descr:              IPv6 Network of F2K1DE
+country:            DE
+admin-c:            F2K1DE-DN42
+tech-c:             F2K1DE-DN42
+mnt-by:             F2K1DE-MNT
+status:             ASSIGNED
+cidr:               fd00:f2c1:c0fe::/48
+source:             DN42

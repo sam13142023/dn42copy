@@ -1,0 +1,5 @@
+route:              172.23.180.96/27
+origin:             AS4242420970
+max-length:         27
+mnt-by:             F2K1DE-MNT
+source:             DN42
