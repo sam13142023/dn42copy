@@ -1,0 +1,10 @@
+inetnum:            172.23.205.96 - 172.23.205.127
+cidr:               172.23.205.96/27
+netname:            24kcsplus-DN42-ipv4
+descr:              24kcsplus DN42 test Network IPv4 Block
+country:            CN
+admin-c:            24KCSPLUS-DN42
+tech-c:             24KCSPLUS-DN42
+mnt-by:             24KCSPLUS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.205.96/27
+descr:              24kcsplus DN42 test Network IPv4 route
+origin:             AS4242421347
+mnt-by:             24KCSPLUS-MNT
+source:             DN42

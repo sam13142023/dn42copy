@@ -1,0 +1,10 @@
+inet6num:           fd12:7000:00d0:0000:0000:0000:0000:0000 - fd12:7000:00d0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:7000:d0::/48
+netname:            24kcsplus-DN42-ipv6
+descr:              24kcspus DN42 test Network IPv6 Block
+country:            CN
+admin-c:            24KCSPLUS-DN42
+tech-c:             24KCSPLUS-DN42
+mnt-by:             24KCSPLUS-MNT
+status:             ASSIGNED
+source:             DN42

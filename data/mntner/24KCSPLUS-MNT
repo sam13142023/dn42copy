@@ -1,0 +1,6 @@
+mntner:             24KCSPLUS-MNT
+admin-c:            24KCSPLUS-DN42
+tech-c:             24KCSPLUS-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE7mRdh1ZdbVgKKoPvA30daKORBADqOrkpBnzbWhVB5L 24kcsplus@gmail.com
+mnt-by:             24KCSPLUS-MNT
+source:             DN42
