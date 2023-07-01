@@ -1,0 +1,5 @@
+route6:             fd12:7000:d0::/48
+descr:              24kcsplus DN42 test Network IPv6 route
+origin:             AS4242421347
+mnt-by:             24KCSPLUS-MNT
+source:             DN42
