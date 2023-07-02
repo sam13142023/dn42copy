@@ -1,0 +1,10 @@
+inet6num:           fd62:16fd:20b0:0000:0000:0000:0000:0000 - fd62:16fd:20b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:16fd:20b0::/48
+netname:            ZDONG-IPV6
+descr:              Network of ZDONG
+country:            US
+admin-c:            ZDONG-DN42
+tech-c:             ZDONG-DN42
+mnt-by:             ZDONG-MNT
+status:             ASSIGNED
+source:             DN42

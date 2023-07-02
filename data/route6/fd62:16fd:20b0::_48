@@ -1,0 +1,5 @@
+route6:             fd62:16fd:20b0::/48
+origin:             AS4242422354
+max-length:         48
+mnt-by:             ZDONG-MNT
+source:             DN42

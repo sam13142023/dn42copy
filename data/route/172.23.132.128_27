@@ -1,0 +1,5 @@
+route:              172.23.132.128/27
+origin:             AS4242422354
+max-length:         27
+mnt-by:             ZDONG-MNT
+source:             DN42
