@@ -1,0 +1,5 @@
+route:              172.22.169.144/29
+descr:              Peer with me at youyoulyz@foxmail.com
+origin:             AS4242421343
+mnt-by:             YOUYOULYZ-MNT
+source:             DN42

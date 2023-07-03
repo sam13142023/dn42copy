@@ -1,0 +1,10 @@
+inet6num:           fda2:a129:2bca:0000:0000:0000:0000:0000 - fda2:a129:2bca:ffff:ffff:ffff:ffff:ffff
+netname:            YOUYOULYZ-IPV6
+descr:              Peer with me at youyoulyz@foxmail.com
+country:            CN
+admin-c:            YOUYOULYZ-DN42
+tech-c:             YOUYOULYZ-DN42
+mnt-by:             YOUYOULYZ-MNT
+status:             ASSIGNED
+cidr:               fda2:a129:2bca::/48
+source:             DN42
