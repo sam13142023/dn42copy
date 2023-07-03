@@ -1,0 +1,5 @@
+route6:             fd3e:bc05:2d6::/48
+origin:             AS4242422786
+mnt-by:             UVOK-MNT
+source:             DN42
+max-length:         48
