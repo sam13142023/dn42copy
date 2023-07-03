@@ -1,0 +1,8 @@
+inet6num:           fd3e:bc05:02d6:0000:0000:0000:0000:0000 - fd3e:bc05:02d6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3e:bc05:2d6::/48
+netname:            UVOK-NET
+admin-c:            UVOK-DN42
+tech-c:             UVOK-DN42
+mnt-by:             UVOK-MNT
+status:             ASSIGNED
+source:             DN42

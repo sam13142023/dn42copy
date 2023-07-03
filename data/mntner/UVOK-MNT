@@ -1,0 +1,6 @@
+mntner:             UVOK-MNT
+admin-c:            UVOK-DN42
+tech-c:             UVOK-DN42
+mnt-by:             UVOK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN4Zz9+jPgVPhD0F/n+Wz6RrWbj7F8EkqOp0CYl0dDEw dnfourtwo@uvokchee.de
+source:             DN42
