@@ -1,0 +1,7 @@
+mntner:             YOUYOULYZ-MNT
+admin-c:            YOUYOULYZ-DN42
+tech-c:             YOUYOULYZ-DN42
+mnt-by:             YOUYOULYZ-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHt7SaXsVfjwb4yq6BsKvO7yPJFs0tWWycR0Mut5+xQ0
+remarks:            pin-sha256:o1lfYvcdcYy81UIuZMZO1CkCLX+vJOdD5GLw1cmeStU=

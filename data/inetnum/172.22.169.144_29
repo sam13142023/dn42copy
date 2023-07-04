@@ -1,0 +1,11 @@
+inetnum:            172.22.169.144 - 172.22.169.151
+netname:            YOUYOULYZ-IPV4
+remarks:            Peer with me at youyoulyz@foxmail.com
+descr:              Peer with me at youyoulyz@foxmail.com
+country:            CN
+admin-c:            YOUYOULYZ-DN42
+tech-c:             YOUYOULYZ-DN42
+mnt-by:             YOUYOULYZ-MNT
+status:             ASSIGNED
+cidr:               172.22.169.144/29
+source:             DN42
