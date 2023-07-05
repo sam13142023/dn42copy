@@ -1,0 +1,5 @@
+route:              172.23.40.192/26
+origin:             AS4242420861
+max-length:         26
+mnt-by:             TYREE-MNT
+source:             DN42

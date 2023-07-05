@@ -1,0 +1,5 @@
+route6:             fd8b:43ef:e2e8::/48
+max-length:         48
+origin:             AS4242420861
+mnt-by:             TYREE-MNT
+source:             DN42

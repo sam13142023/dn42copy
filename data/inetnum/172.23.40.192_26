@@ -1,0 +1,10 @@
+inetnum:            172.23.40.192 - 172.23.40.255
+cidr:               172.23.40.192/26
+netname:            TYREE-NETWORK
+descr:              Tyrees IPv4 Network
+country:            CA
+admin-c:            TYREE-DN42
+tech-c:             TYREE-DN42
+mnt-by:             TYREE-MNT
+status:             ASSIGNED
+source:             DN42

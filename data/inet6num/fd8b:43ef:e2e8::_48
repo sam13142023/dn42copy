@@ -1,0 +1,10 @@
+inet6num:           fd8b:43ef:e2e8:0000:0000:0000:0000:0000 - fd8b:43ef:e2e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8b:43ef:e2e8::/48
+netname:            TYREE-NETWORK
+descr:              Tyrees IPv6 Network
+country:            CA
+admin-c:            TYREE-DN42
+tech-c:             TYREE-DN42
+mnt-by:             TYREE-MNT
+status:             ASSIGNED
+source:             DN42
