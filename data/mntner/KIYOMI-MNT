@@ -1,0 +1,6 @@
+mntner:             KIYOMI-MNT
+admin-c:            KIYOMI-DN42
+tech-c:             KIYOMI-DN42
+mnt-by:             KIYOMI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFxVANr+Srl3UtSy/ArUEV/ZveLH0kSaOkGV0FGC4aby leijiajie.ljj@qq.com
+source:             DN42

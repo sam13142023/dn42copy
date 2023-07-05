@@ -1,0 +1,11 @@
+inetnum:            172.20.39.80 - 172.20.39.95
+netname:            KIYOMI-IPV4
+remarks:            Peer with me at leijiajie.ljj@qq.com
+descr:              Peer with me at leijiajie.ljj@qq.com
+country:            CN
+admin-c:            KIYOMI-DN42
+tech-c:             KIYOMI-DN42
+mnt-by:             KIYOMI-MNT
+status:             ASSIGNED
+cidr:               172.20.39.80/28
+source:             DN42

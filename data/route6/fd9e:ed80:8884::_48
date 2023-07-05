@@ -1,0 +1,6 @@
+route6:             fd9e:ed80:8884::/48
+descr:              Peer with me at leijiajie.ljj@qq.com
+origin:             AS4242421350
+max-length:         48
+mnt-by:             KIYOMI-MNT
+source:             DN42
