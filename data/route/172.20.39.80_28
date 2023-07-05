@@ -1,0 +1,5 @@
+route:              172.20.39.80/28
+origin:             AS4242421350
+max-length:         28
+mnt-by:             KIYOMI-MNT
+source:             DN42

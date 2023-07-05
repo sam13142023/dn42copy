@@ -1,0 +1,10 @@
+inet6num:           fd9e:ed80:8884:0000:0000:0000:0000:0000 - fd9e:ed80:8884:ffff:ffff:ffff:ffff:ffff
+netname:            KIYOMI-IPV6
+descr:              Peer with me at leijiajie.ljj@qq.com
+country:            CN
+admin-c:            KIYOMI-DN42
+tech-c:             KIYOMI-DN42
+mnt-by:             KIYOMI-MNT
+status:             ASSIGNED
+cidr:               fd9e:ed80:8884::/48
+source:             DN42
