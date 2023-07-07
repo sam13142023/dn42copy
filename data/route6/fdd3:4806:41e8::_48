@@ -1,0 +1,5 @@
+route6:             fdd3:4806:41e8::/48
+origin:             AS4242422532
+max-length:         48
+mnt-by:             22DECEMBRE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdd3:4806:41e8:0000:0000:0000:0000:0000 - fdd3:4806:41e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:4806:41e8::/48
+netname:            22DECEMBRE-NETWORK
+descr:              Network of Stephane 22Decembre
+country:            DK
+admin-c:            22DECEMBRE-DN42
+tech-c:             22DECEMBRE-DN42
+mnt-by:             22DECEMBRE-MNT
+status:             ASSIGNED
+source:             DN42
