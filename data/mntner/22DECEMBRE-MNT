@@ -3,4 +3,5 @@ admin-c:            22DECEMBRE-DN42
 tech-c:             22DECEMBRE-DN42
 mnt-by:             22DECEMBRE-MNT
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMGxicO5xTPjHYTBLazQaGk+O/lcWpLzOvnMpnzKEAyM
+auth:               pgp-fingerprint EDD5B34750E88557459882C09341972F64F5194D
 source:             DN42
