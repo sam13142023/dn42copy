@@ -6,3 +6,4 @@ tech-c:             UVOK-DN42
 mnt-by:             UVOK-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.uvok.dn42

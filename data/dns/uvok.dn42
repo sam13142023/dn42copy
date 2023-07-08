@@ -1,0 +1,6 @@
+domain:             uvok.dn42
+admin-c:            UVOK-DN42
+tech-c:             UVOK-DN42
+mnt-by:             UVOK-MNT
+nserver:            ns1.uvok.dn42 fd3e:bc05:2d6::1
+source:             DN42
