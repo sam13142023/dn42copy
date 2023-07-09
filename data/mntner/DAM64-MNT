@@ -1,0 +1,6 @@
+mntner:             DAM64-MNT
+admin-c:            DAM64-DN42
+tech-c:             DAM64-DN42
+mnt-by:             DAM64-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFxxCkZdFWgDx5xgm3JtWmu18xoyrSvcS28LTNHivqoW
+source:             DN42

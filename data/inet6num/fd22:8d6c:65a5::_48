@@ -1,0 +1,10 @@
+inet6num:           fd22:8d6c:65a5:0000:0000:0000:0000:0000 - fd22:8d6c:65a5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:8d6c:65a5::/48
+netname:            DAM64-NETWORK
+descr:              Network of DAM64
+country:            FR
+admin-c:            DAM64-DN42
+tech-c:             DAM64-DN42
+mnt-by:             DAM64-MNT
+status:             ASSIGNED
+source:             DN42
