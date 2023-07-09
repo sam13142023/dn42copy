@@ -6,5 +6,7 @@ country:            US
 admin-c:            ZDONG-DN42
 tech-c:             ZDONG-DN42
 mnt-by:             ZDONG-MNT
+nserver:            ns-a.zdong.dn42
+ds-rdata:           15066 13 2 B74898A60C7678795A687936377B4630444F95AE6015DD7C5FA5A2DE 107B8196
 status:             ASSIGNED
 source:             DN42

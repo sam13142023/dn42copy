@@ -1,0 +1,8 @@
+domain:             zdong.dn42
+admin-c:            ZDONG-DN42
+tech-c:             ZDONG-DN42
+mnt-by:             ZDONG-MNT
+nserver:            ns-a.zdong.dn42 172.23.132.129
+nserver:            ns-a.zdong.dn42 fd62:16fd:20b0:1::1
+ds-rdata:           42783 13 2 8C8C092A8C60E27263D390170C02BB7E0233D6E6A5775B9A27D05B3B DEDDD8D8
+source:             DN42
