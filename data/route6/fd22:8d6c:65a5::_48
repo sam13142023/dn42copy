@@ -1,0 +1,5 @@
+route6:             fd22:8d6c:65a5::/48
+origin:             AS4242420964
+max-length:         48
+mnt-by:             DAM64-MNT
+source:             DN42

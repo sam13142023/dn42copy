@@ -1,0 +1,10 @@
+inetnum:            172.22.158.64 - 172.22.158.95
+cidr:               172.22.158.64/27
+netname:            DAM64-NETWORK
+descr:              Network of DAM64
+country:            FR
+admin-c:            DAM64-DN42
+tech-c:             DAM64-DN42
+mnt-by:             DAM64-MNT
+status:             ASSIGNED
+source:             DN42
