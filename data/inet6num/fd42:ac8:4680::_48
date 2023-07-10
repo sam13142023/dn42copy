@@ -1,0 +1,9 @@
+inet6num:           fd42:0ac8:4680:0000:0000:0000:0000:0000 - fd42:0ac8:4680:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ac8:4680::/48
+netname:            LEMONRFX-NETWORK
+descr:              DN42 Network of lemonrfx (IPv6)
+admin-c:            LEMONRFX-DN42
+tech-c:             LEMONRFX-DN42
+mnt-by:             LEMONRFX-MNT
+status:             ASSIGNED
+source:             DN42

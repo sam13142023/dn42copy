@@ -1,0 +1,9 @@
+inetnum:            172.20.132.144 - 172.20.132.159
+cidr:               172.20.132.144/28
+netname:            LEMONRFX-NETWORK
+descr:              DN42 Network of lemonrfx (IPv4)
+admin-c:            LEMONRFX-DN42
+tech-c:             LEMONRFX-DN42
+mnt-by:             LEMONRFX-MNT
+status:             ASSIGNED
+source:             DN42
