@@ -2,6 +2,6 @@ mntner:             MINECON724-MNT
 admin-c:            MINECON724-DN42
 tech-c:             MINECON724-DN42
 mnt-by:             MINECON724-MNT
-abuse-mailbox:      abuse.recliner605@8shield.net
+abuse-mailbox:      abuse+dn42@inferior.network
 auth:               pgp-fingerprint A58EF6EDF650BD26BE77457672C6C65765CFA587
 source:             DN42
