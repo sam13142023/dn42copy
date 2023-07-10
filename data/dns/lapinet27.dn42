@@ -4,8 +4,8 @@ tech-c:             RAZURITTA-DN42
 descr:              For Backbone RDNS and core services.
 mnt-by:             LAPISBLUE27-MNT
 nserver:            ns1.lapinet27.dn42 172.22.180.100
-nserver:            ns1.lapinet27.dn42 fd0b:da1a:9768:301::53
+nserver:            ns1.lapinet27.dn42 fd0b:da1a:9768:2000::53
 nserver:            ns2.lapinet27.dn42 172.22.180.113
-nserver:            ns2.lapinet27.dn42 fd0b:da1a:9768:501::53
+nserver:            ns2.lapinet27.dn42 fd0b:da1a:9768:3000::53
 ds-rdata:           38051 8 2 E8209C74945052F285AE0BBBA14D4480DB379D213C1EF0CF6A009697 09C4508D
 source:             DN42
