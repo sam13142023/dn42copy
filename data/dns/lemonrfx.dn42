@@ -1,0 +1,8 @@
+domain:             lemonrfx.dn42
+admin-c:            LEMONRFX-DN42
+tech-c:             LEMONRFX-DN42
+mnt-by:             LEMONRFX-MNT
+nserver:            ns1.lemonrfx.dn42 172.20.132.145
+nserver:            ns1.lemonrfx.dn42 fd42:ac8:4680:1::1
+ds-rdata:           13560 13 2 1474FD4E305478D39E415027FCC9F34031DE6B4EF4C818E35B7ABA29F5945B28
+source:             DN42
