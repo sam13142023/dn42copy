@@ -5,5 +5,7 @@ descr:              DN42 Network of lemonrfx (IPv6)
 admin-c:            LEMONRFX-DN42
 tech-c:             LEMONRFX-DN42
 mnt-by:             LEMONRFX-MNT
+nserver:            ns1.lemonrfx.dn42
+ds-rdata:           58756 13 2 53E115EAA9DCCB3DDC6D8FB728A2A00B2B14BBC9E5E1246ADA4E4897557F4324
 status:             ASSIGNED
 source:             DN42
