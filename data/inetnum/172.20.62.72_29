@@ -5,4 +5,6 @@ admin-c:            U8336TEA-DN42
 mnt-by:             U8336TEA-MNT
 status:             ASSIGNED
 cidr:               172.20.62.72/29
+nserver:            ns1.u8336tea.dn42
+ds-rdata:           20487 15 2 E4DFEC54AAC27449E5632AD75272F4E5835DBC199D8E160A61664CD7FB769436
 source:             DN42

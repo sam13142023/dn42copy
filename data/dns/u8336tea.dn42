@@ -1,0 +1,8 @@
+domain:             u8336tea.dn42
+admin-c:            U8336TEA-DN42
+tech-c:             U8336TEA-DN42
+mnt-by:             U8336TEA-MNT
+nserver:            ns1.u8336tea.dn42 172.20.62.74
+nserver:            ns1.u8336tea.dn42 fdd7:addd:744e::1
+ds-rdata:           24202 15 2 E69BAF5A6DD011CA6F306FD0D0AD16AC308DA3F22145DEE64083F30B54A56FC4
+source:             DN42
