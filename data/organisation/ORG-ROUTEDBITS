@@ -1,6 +1,11 @@
 organisation:       ORG-ROUTEDBITS
 org-name:           RoutedBits Networks
+e-mail:             noc@routedbits.com
 admin-c:            ORG-ROUTEDBITS-DN42
+admin-c:            JVOSS-DN42
+admin-c:            YZGUY-DN42
 tech-c:             ORG-ROUTEDBITS-DN42
+tech-c:             JVOSS-DN42
+tech-c:             YZGUY-DN42
 mnt-by:             ROUTEDBITS-MNT
 source:             DN42

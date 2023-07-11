@@ -3,6 +3,6 @@ admin-c:            ORG-ROUTEDBITS-DN42
 tech-c:             ORG-ROUTEDBITS-DN42
 org:                ORG-ROUTEDBITS
 mnt-by:             ROUTEDBITS-MNT
-auth:               pgp-fingerprint 12B986AC4336D490B4F64BA4568646F0E0AC6F96
-auth:               pgp-fingerprint 1a698d2ea3260e544ef1033678b3803bfff37571
+mnt-by:             JVOSS-MNT
+mnt-by:             YZGUY-MNT
 source:             DN42
