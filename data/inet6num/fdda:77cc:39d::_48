@@ -1,0 +1,10 @@
+inet6num:           fdda:77cc:039d:0000:0000:0000:0000:0000 - fdda:77cc:039d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdda:77cc:39d::/48
+netname:            INFRAKERL-DN42NET
+descr:              IPv6-Network for Learning
+country:            DE
+admin-c:            INFRAKERL-DN42
+tech-c:             INFRAKERL-DN42
+mnt-by:             INFRAKERL-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             INFRAKERL-MNT
+admin-c:            INFRAKERL-DN42
+tech-c:             INFRAKERL-DN42
+mnt-by:             INFRAKERL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrC/u1zB717tCznfPlVQ3lI9JRU6w2N4T87fVE2xqyFkDd2UrhZj0TL2zA+yoqKWp2/0ZKpo9q+hOQc6STa5D8vlu/h34bkCUSCGKqU0dlDXW3enItdYJ00gDdfuPul/E6RYcCGv08ELnF9B8YnqDxiHITtUs1LqI9xWdnAzMhOq1HLXlLAAla+hXpzT1eLdQOa/1v34yL+j/HvezdJERrL4h2w2WZM0c/U1XUaBy0QRxccHRyjJRlV9XjMayYKZ4I8Yr4ALPiAD77/NkjRosKnshlNY4pKgaR9bvrdz/WQtCjtmTz2fSsYnXkHR5NwRk81QnB9pJeQx7QB4QC6H3Rc/WPe/U6qxD5oGTADaN/zw2zrDs5UXmUBvLxn96lYYWt2ytHM00/Ge9My5sLqsrbcmP4j+eH8tUat0waCHLqzwh5jQe3+970xNP6wyYtVEYgQ4LJp8AYeB5l5B6Sx5cqgy2PgWzzSeo93krcgZjKwgECWj/cc8SGOj7CEv9Vdc0= InfraKerl@InfraKerlNB
+source:             DN42
