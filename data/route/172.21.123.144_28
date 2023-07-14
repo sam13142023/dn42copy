@@ -1,0 +1,5 @@
+route:              172.21.123.144/28
+origin:             AS4242421432
+max-length:         28
+mnt-by:             INFRAKERL-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdda:77cc:39d::/48
+origin:             AS4242421432
+max-length:         48
+mnt-by:             INFRAKERL-MNT
+source:             DN42

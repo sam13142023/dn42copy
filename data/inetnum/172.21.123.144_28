@@ -1,0 +1,10 @@
+inetnum:            172.21.123.144 - 172.21.123.159
+cidr:               172.21.123.144/28
+netname:            INFRAKERL-DN42NET
+descr:              Network for learning DN42
+country:            DE
+admin-c:            INFRAKERL-DN42
+tech-c:             INFRAKERL-DN42
+mnt-by:             INFRAKERL-MNT
+status:             ASSIGNED
+source:             DN42
