@@ -4,4 +4,6 @@ admin-c:            ORG-ROUTEDBITS-DN42
 tech-c:             ORG-ROUTEDBITS-DN42
 org:                ORG-ROUTEDBITS
 mnt-by:             ROUTEDBITS-MNT
+mnt-by:             JVOSS-MNT
+mnt-by:             YZGUY-MNT
 source:             DN42
