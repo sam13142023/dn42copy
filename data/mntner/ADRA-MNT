@@ -3,4 +3,5 @@ descr:              Maintainer for Adraenwan
 admin-c:            ADRA-DN42
 tech-c:             ADRA-DN42
 mnt-by:             ADRA-MNT
+auth:               pgp-fingerprint 9E3DD7E5ACA64BB87572FAB09E173B00F6A5D63E
 source:             DN42
