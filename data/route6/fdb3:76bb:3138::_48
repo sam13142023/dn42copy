@@ -1,0 +1,5 @@
+route6:             fdb3:76bb:3138::/48
+origin:             AS4242420736
+max-length:         48
+mnt-by:             TK-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdb3:76bb:3138:0000:0000:0000:0000:0000 - fdb3:76bb:3138:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb3:76bb:3138::/48
+netname:            TK-NETWORK
+descr:              Network of TK
+country:            NL
+admin-c:            TK-DN42
+tech-c:             TK-DN42
+mnt-by:             TK-MNT
+status:             ASSIGNED
+source:             DN42
