@@ -1,0 +1,5 @@
+route:              172.20.214.64/27
+origin:             AS4242420736
+max-length:         27
+mnt-by:             TK-MNT
+source:             DN42

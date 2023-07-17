@@ -1,0 +1,10 @@
+inetnum:            172.20.214.64 - 172.20.214.95
+cidr:               172.20.214.64/27
+netname:            TK-NETWORK
+descr:              Network of TK
+country:            NL
+admin-c:            TK-DN42
+tech-c:             TK-DN42
+mnt-by:             TK-MNT
+status:             ASSIGNED
+source:             DN42
