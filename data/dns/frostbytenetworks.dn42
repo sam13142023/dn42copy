@@ -1,0 +1,9 @@
+domain:             frostbytenetworks.dn42
+admin-c:            FROSTBYTE-DN42
+tech-c:             FROSTBYTE-DN42
+mnt-by:             FROSTBYTE-MNT
+nserver:            ns1.frostbytenetworks.dn42 172.22.149.129
+nserver:            ns1.frostbytenetworks.dn42 fd37:53c5:2e33::1
+nserver:            ns2.frostbytenetworks.dn42 172.22.149.130
+nserver:            ns2.frostbytenetworks.dn42 fd37:53c5:2e33::2
+source:             DN42

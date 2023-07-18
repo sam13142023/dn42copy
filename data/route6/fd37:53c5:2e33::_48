@@ -1,0 +1,5 @@
+route6:             fd37:53c5:2e33::/48
+origin:             AS4242420836
+max-length:         48
+mnt-by:             FROSTBYTE-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.149.128 - 172.22.149.159
+cidr:               172.22.149.128/27
+netname:            FROSTBYTE-NETWORK
+nserver:            ns1.frostbytenetworks.dn42
+descr:              Network of Frostbyte Networks
+country:            ZA
+admin-c:            FROSTBYTE-DN42
+tech-c:             FROSTBYTE-DN42
+mnt-by:             FROSTBYTE-MNT
+status:             ASSIGNED
+source:             DN42
