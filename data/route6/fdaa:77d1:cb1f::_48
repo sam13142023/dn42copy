@@ -1,0 +1,5 @@
+route6:             fdaa:77d1:cb1f::/48
+origin:             AS4242421136
+max-length:         48
+mnt-by:             KAPPERTJETOR-MNT
+source:             DN42

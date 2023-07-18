@@ -1,0 +1,6 @@
+mntner:             KAPPERTJETOR-MNT
+admin-c:            KAPPERTJETOR-DN42
+tech-c:             KAPPERTJETOR-DN42
+mnt-by:             KAPPERTJETOR-MNT
+auth:               ssh-ed5519 AAAAC3NzaC1lZDI1NTE5AAAAICivTc/RnRhm7EZfi/px3YfYuwlHW31bULLaodlnV6eT jesse@ubuntu
+source:             DN42
