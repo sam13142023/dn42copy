@@ -1,0 +1,10 @@
+inetnum:            172.23.35.192 - 172.23.35.223
+cidr:               172.23.35.192/27
+netname:            KAPPERTJETOR-NETWORK
+descr:              Network of KAPPERTJETOR
+country:            NL
+admin-c:            KAPPERTJETOR-DN42
+tech-c:             KAPPERTJETOR-DN42
+mnt-by:             KAPPERTJETOR-MNT
+status:             ASSIGNED
+source:             DN42

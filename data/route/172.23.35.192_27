@@ -1,0 +1,5 @@
+route:              172.23.35.192/27
+origin:             AS4242421369
+max-length:         27
+mnt-by:             KAPPERTJETOR-MNT
+source:             DN42
