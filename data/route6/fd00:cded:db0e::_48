@@ -1,0 +1,5 @@
+route6:             fd00:cded:db0e::/48
+origin:             AS4242420626
+max-length:         48
+mnt-by:             JAM1010-MNT
+source:             DN42
