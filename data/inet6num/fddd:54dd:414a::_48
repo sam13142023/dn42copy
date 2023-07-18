@@ -1,0 +1,10 @@
+inet6num:           fddd:54dd:414a:0000:0000:0000:0000:0000 - fddd:54dd:414a:ffff:ffff:ffff:ffff:ffff
+netname:            QRZ-IPV6
+descr:              Peer with me at qrzbing@foxmail.com
+country:            CN
+admin-c:            QRZ-DN42
+tech-c:             QRZ-DN42
+mnt-by:             QRZ-MNT
+status:             ASSIGNED
+cidr:               fddd:54dd:414a::/48
+source:             DN42
