@@ -1,0 +1,6 @@
+mntner:             QRZ-MNT
+admin-c:            QRZ-DN42
+tech-c:             QRZ-DN42
+mnt-by:             QRZ-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEggo6VnZ4RTfcv0yQ7ClCgaQUhI7ALbKmE3lkYXUlt9

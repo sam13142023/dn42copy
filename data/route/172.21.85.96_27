@@ -1,0 +1,5 @@
+route:              172.21.85.96/27
+descr:              Peer with me at qrzbing@foxmail.com
+origin:             AS4242421398
+mnt-by:             QRZ-MNT
+source:             DN42
