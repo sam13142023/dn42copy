@@ -1,0 +1,6 @@
+mntner:             JAM1010-MNT
+admin-c:            JAM1010-DN42
+tech-c:             JAM1010-DN42
+mnt-by:             JAM1010-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDx1dVQJDl5u8x8QIrGleVZmmExz3Tg9pHiIOzbFFy1D
+source:             DN42

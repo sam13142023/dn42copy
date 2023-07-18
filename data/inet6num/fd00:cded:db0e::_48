@@ -1,0 +1,8 @@
+inet6num:           fd00:cded:db0e:0000:0000:0000:0000:0000 - fd00:cded:db0e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:cded:db0e::/48
+netname:            JAM1010-NET
+admin-c:            JAM1010-DN42
+tech-c:             JAM1010-DN42
+mnt-by:             JAM1010-MNT
+status:             ASSIGNED
+source:             DN42

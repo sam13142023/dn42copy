@@ -1,0 +1,8 @@
+inetnum:            172.23.190.96 - 172.23.190.127
+netname:            JAM1010-NET
+admin-c:            JAM1010-DN42
+tech-c:             JAM1010-DN42
+mnt-by:             JAM1010-MNT
+cidr:               172.23.190.96/27
+source:             DN42
+status:             ASSIGNED

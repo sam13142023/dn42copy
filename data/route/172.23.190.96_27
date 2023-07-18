@@ -1,0 +1,5 @@
+route:              172.23.190.96/27
+origin:             AS4242420626
+max-length:         27
+mnt-by:             JAM1010-MNT
+source:             DN42
