@@ -1,0 +1,7 @@
+inet6num:           fd88:b85c:9f28:0000:0000:0000:0000:0000 - fd88:b85c:9f28:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:b85c:9f28::/48
+netname:            BETA-DN42-IPV6
+status:             ASSIGNED
+remarks:            Powered by DN42
+mnt-by:             BETA-MNT
+source:             DN42

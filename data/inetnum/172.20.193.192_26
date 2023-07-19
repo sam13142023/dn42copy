@@ -1,0 +1,7 @@
+inetnum:            172.20.193.192 - 172.20.193.255
+cidr:               172.20.193.192/26
+netname:            BETA-DN42-IPV4
+status:             ASSIGNED
+remarks:            Powered by DN42
+mnt-by:             BETA-MNT
+source:             DN42
