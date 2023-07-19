@@ -1,0 +1,8 @@
+route:              10.127.134.0/24
+max-length:         29
+origin:             AS4201272032
+admin-c:            RAZURITTA-NEONETWORK
+tech-c:             RAZURITTA-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

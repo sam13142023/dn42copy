@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:2032:0000:0000:0000:0000:0000 - fd10:0127:2032:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:2032::/48
+netname:            LAPISNET6-NEO
+admin-c:            RAZURITTA-NEONETWORK
+tech-c:             RAZURITTA-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

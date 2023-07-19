@@ -1,0 +1,8 @@
+route6:             fd10:127:2032::/48
+max-length:         64
+origin:             AS4201272032
+admin-c:            RAZURITTA-NEONETWORK
+tech-c:             RAZURITTA-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

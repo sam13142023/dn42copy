@@ -1,0 +1,8 @@
+inetnum:            10.127.134.0 - 10.127.134.255
+cidr:               10.127.134.0/24
+netname:            LAPISNET4-NEO
+admin-c:            RAZURITTA-NEONETWORK
+tech-c:             RAZURITTA-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
