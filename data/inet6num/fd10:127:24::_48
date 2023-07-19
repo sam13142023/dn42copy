@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0024:0000:0000:0000:0000:0000 - fd10:0127:0024:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:24::/48
+netname:            NEKOID-INET6
+admin-c:            NEKOID-NEONETWORK
+tech-c:             NEKOID-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
