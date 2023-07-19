@@ -1,0 +1,7 @@
+mntner:             FROSTBYTE-MNT
+descr:              FROSTBYTE
+admin-c:            FROSTBYTE-DN42
+tech-c:             FROSTBYTE-DN42
+mnt-by:             FROSTBYTE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDK6DU9yXbxPMAlSDmXwT4eVyDgR6NSDtAVFKIvytdtc/IoMZJgMf3P5KJs3ACybctbXEbjTBDzMUwEpeEyH59CtaLVGVkhjIlQOw+nOlBsdLffSzSTkG3l2ShyIYP4tnqj4qM2eO69R3n63b+5jbZwbpzZBA8AjXV0CLRMSlY0KnO1BbYm3O3WZol+a/pRNstoDJ2FAlmYyJRtei6NoUktwqFykmrOlYSm3OsZWCB2rc4sF8jkIRw8xzNTAXKV6856WlqUDPXu35yphsiowgpZB7It5kJ1MXAjmlXtQNXwDnnV+Qjp2PfGSaKSpZGNTZ/hmsR3gUEhxHZbfT4b5DHljk013Sm7CfqD6o+SVZfsmYqyk/83SAQvl+F6obuS4QtQFKTEBg33bbZ/F2nNQYRi2u4jNOTImYXTHOb1zW5p4UD1hDmgAQU0U/kjbjn7iGWprnIIYAPqWmbwIyqrqm7JMRGbkwOJqmzp69Q7N8COVH9+l/dY6mHR8f5f9FJQiaM= root@DN42
+source:             DN42

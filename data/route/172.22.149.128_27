@@ -1,0 +1,5 @@
+route:              172.22.149.128/27
+origin:             AS4242420836
+max-length:         27
+mnt-by:             FROSTBYTE-MNT
+source:             DN42

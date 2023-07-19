@@ -1,0 +1,12 @@
+inet6num:           fd37:53c5:2e33:0000:0000:0000:0000:0000 - fd37:53c5:2e33:ffff:ffff:ffff:ffff:ffff
+cidr:               fd37:53c5:2e33::/48
+netname:            FROSTBYTE-NETWORK
+descr:              Frostbyte Networks
+country:            ZA
+admin-c:            FROSTBYTE-DN42
+tech-c:             FROSTBYTE-DN42
+nserver:            ns1.frostbytenetworks.dn42
+nserver:            ns2.frostbytenetworks.dn42
+mnt-by:             FROSTBYTE-MNT
+status:             ASSIGNED
+source:             DN42
