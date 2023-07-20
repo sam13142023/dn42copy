@@ -1,0 +1,5 @@
+route6:             fdff:c1e4:3e63::/48
+origin:             AS4242421480
+max-length:         48
+mnt-by:             NEKOID-MNT
+source:             DN42

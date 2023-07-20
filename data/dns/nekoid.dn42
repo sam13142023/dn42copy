@@ -1,0 +1,7 @@
+domain:             nekoid.dn42
+admin-c:            NEKOID-DN42
+tech-c:             NEKOID-DN42
+mnt-by:             NEKOID-MNT
+nserver:            ns1.nekoid.dn42 172.23.190.65
+nserver:            ns1.nekoid.dn42 fdff:c1e4:3e63:53::1
+source:             DN42

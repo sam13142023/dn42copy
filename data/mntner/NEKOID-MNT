@@ -1,0 +1,6 @@
+mntner:             NEKOID-MNT
+admin-c:            NEKOID-DN42
+tech-c:             NEKOID-DN42
+mnt-by:             NEKOID-MNT
+auth:               pgp-fingerprint 77857DC6BBB6429C8BE209F5D68E0BFE4115B78C
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdff:c1e4:3e63:0000:0000:0000:0000:0000 - fdff:c1e4:3e63:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:c1e4:3e63::/48
+netname:            NEKOID-NETWORK
+descr:              NEKOID IPv6 Network - Welcome to peering with me at info@nekoid.cc
+country:            HK
+admin-c:            NEKOID-DN42
+tech-c:             NEKOID-DN42
+mnt-by:             NEKOID-MNT
+status:             ASSIGNED
+nserver:            ns1.nekoid.dn42
+source:             DN42
