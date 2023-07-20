@@ -4,7 +4,7 @@ admin-c:            XTEX-DN42
 tech-c:             XTEX-DN42
 mnt-by:             XTEX-MNT
 source:             DN42
-auth:               pgp-fingerprint 43D55EC7285804D1E9FEAAFB978F2E760D9DB0EB
+auth:               pgp-fingerprint 7231804B052C670F15A6771DB918086ED8045B91
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC9Xq225dYzTPQLc3ixSeRSlaq/8pSTAVI+flvSMMApe
-auth:               PGPKEY-0D9DB0EB
-remarks:            pin-sha256:qlF/PiX6FHbApp4IFWB77zkkjpdJhQEJiOEvyBWsRkw=
+auth:               sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBec9mnzRi149os0tSb2zA0aJf/c7/6wF6W5weK8+fHPAAAABHNzaDo=
+auth:               PGPKEY-D8045B91

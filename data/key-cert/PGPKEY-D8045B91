@@ -1,0 +1,35 @@
+key-cert:           PGPKEY-D8045B91
+method:             PGP
+owner:              xtexChooser <xtexchooser@duck.com>
+fingerpr:           7231 804B 052C 670F 15A6 771D B918 086E D804 5B91
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEZJzV9RYJKwYBBAHaRw8BAQdApAD/OWwICgMjl1ScioLml/7oq+CRogvhw9rZ
+certif:             sPjFx6y0FHh0ZXggPHh0ZXhAeHRleHgubWw+iJMEExYKADsCGyMFCwkIBwICIgIG
+certif:             FQoJCAsCBBYCAwECHgcCF4AWIQRyMYBLBSxnDxWmdx25GAhu2ARbkQUCZLkwcAAK
+certif:             CRC5GAhu2ARbkQ9AAP4/g7/KJR169V3BSUheMyq9SkPc1TCvBMvv1L7BhKHpAgEA
+certif:             j9ywK5cEbtG1wGFTYqRFOCTI0E2ro/DcNDdRIXdzRQuIlgQTFgoAPgIbIwULCQgH
+certif:             AgIiAgYVCgkICwIEFgIDAQIeBwIXgBYhBHIxgEsFLGcPFaZ3HbkYCG7YBFuRBQJk
+certif:             nNY6AhkBAAoJELkYCG7YBFuRL6kBAPO2xwsAlu4avTKCN7zLlu11gOp+EhRV1liW
+certif:             BZkVi6QzAP4mvVxCwU+dsVuiaAsu6crziUkTTO5asOivFoo1DsmjC7QbeHRleCA8
+certif:             eHRleGNob29zZXJAZHVjay5jb20+iJMEExYKADsWIQRyMYBLBSxnDxWmdx25GAhu
+certif:             2ARbkQUCZJzWEAIbIwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRC5GAhu
+certif:             2ARbkcLRAQCHRq/ZPUZpfXrGq3BLQo8t/eW5hnaORPp52GrIMK1hMQEAiSE1j+JF
+certif:             Jv7mHoE+0Psl++GhBQW67VqYn4PeD+d6tQm0FHh0ZXggPHh0ZXhAZW52cy5uZXQ+
+certif:             iJMEExYKADsWIQRyMYBLBSxnDxWmdx25GAhu2ARbkQUCZJzWKgIbIwULCQgHAgIi
+certif:             AgYVCgkICwIEFgIDAQIeBwIXgAAKCRC5GAhu2ARbkT6mAP9WxxQ8n4+9+bh/3tmW
+certif:             90wHS7MIyy9BNxtoDWAFExfAVwD/cyAwIve/o7nVqACTiB+SwPYk0fIoXqPeUKLR
+certif:             oWs60wW0GHh0ZXggPHh0ZXhAeHRleHguZXUub3JnPoiWBBMWCgA+AhsjBQsJCAcC
+certif:             AiICBhUKCQgLAgQWAgMBAh4HAheAFiEEcjGASwUsZw8VpncduRgIbtgEW5EFAmS5
+certif:             MHACGQEACgkQuRgIbtgEW5EylAEA0sYizlD2Zd+J33cls1SCR7oQNGMio8Pn3rmK
+certif:             bLPVfJ4A/0+AsLnJXelcX3a/vKLeDKqY9Oy7Y6oqrV5pPZq3gcYKuDgEZJzV9RIK
+certif:             KwYBBAGXVQEFAQEHQNJzjesOrfUllSzdtc1F5xYXxWCDiaLXh903J2bkBbROAwEI
+certif:             B4h4BBgWCgAgFiEEcjGASwUsZw8VpncduRgIbtgEW5EFAmSc1fUCGwwACgkQuRgI
+certif:             btgEW5FbhAEAzNVBJEeVeqfgeOyl/EHlK/cKidfD9VhLG/7sDUE0zHkBAJl4nMzi
+certif:             Ge6yruoa3Q54i6QUS5K/UZfSONbx6Uoy15EB
+certif:             =CBF8
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            XTEX-DN42
+tech-c:             XTEX-DN42
+mnt-by:             XTEX-MNT
+source:             DN42
