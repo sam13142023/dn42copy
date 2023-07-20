@@ -1,0 +1,5 @@
+route:              172.23.190.64/27
+origin:             AS4242421480
+max-length:         27
+mnt-by:             NEKOID-MNT
+source:             DN42
