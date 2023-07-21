@@ -1,0 +1,5 @@
+route:              172.20.214.96/27
+descr:              Peer with me at sgt.garyroach@live.cn
+origin:             AS4242420819
+mnt-by:             798998203-MNT
+source:             DN42

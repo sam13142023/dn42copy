@@ -1,0 +1,11 @@
+inetnum:            172.20.214.96 - 172.20.214.127
+netname:            798998203-IPV4
+remarks:            Peer with me at sgt.garyroach@live.cn
+descr:              Peer with me at sgt.garyroach@live.cn
+country:            CN
+admin-c:            798998203-DN42
+tech-c:             798998203-DN42
+mnt-by:             798998203-MNT
+status:             ASSIGNED
+cidr:               172.20.214.96/27
+source:             DN42
