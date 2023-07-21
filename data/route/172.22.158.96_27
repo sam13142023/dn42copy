@@ -1,0 +1,5 @@
+route:              172.22.158.96/27
+origin:             AS4242422951
+max-length:         27
+mnt-by:             NBI-MNT
+source:             DN42
