@@ -1,0 +1,5 @@
+route6:             fd9b:a56f:137d::/48
+origin:             AS4242422951
+max-length:         48
+mnt-by:             NBI-MNT
+source:             DN42

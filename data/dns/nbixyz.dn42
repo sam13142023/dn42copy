@@ -1,0 +1,9 @@
+domain:             nbixyz.dn42
+admin-c:            NBI-DN42
+tech-c:             NBI-DN42
+mnt-by:             NBI-MNT
+nserver:            p.dns.nbixyz.dn42 172.22.158.100
+nserver:            p.dns.nbixyz.dn42 fd9b:a56f:137d:f::35:1
+nserver:            s.dns.nbixyz.dn42 172.22.158.110
+nserver:            s.dns.nbixyz.dn42 fd9b:a56f:137d:f::35:2
+source:             DN42

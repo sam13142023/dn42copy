@@ -1,0 +1,6 @@
+mntner:             NBI-MNT
+admin-c:            NBI-DN42
+tech-c:             NBI-DN42
+mnt-by:             NBI-MNT
+auth:               pgp-fingerprint F85F0D33F54B5A6B387BCD2CB3D74C076061A121
+source:             DN42
