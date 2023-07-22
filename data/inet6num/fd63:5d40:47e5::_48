@@ -2,7 +2,7 @@ inet6num:           fd63:5d40:47e5:0000:0000:0000:0000:0000 - fd63:5d40:47e5:fff
 cidr:               fd63:5d40:47e5::/48
 netname:            LARE-NETWORK-V6
 descr:              Network of LARE
-country:            BE
+country:            DE
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
