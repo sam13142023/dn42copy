@@ -2,7 +2,7 @@ inetnum:            172.22.125.128 - 172.22.125.191
 cidr:               172.22.125.128/26
 netname:            LARE-NETWORK-V4
 descr:              Lare's IPv4 Network
-country:            BE
+country:            DE
 admin-c:            LARE-DN42
 tech-c:             LARE-DN42
 mnt-by:             LARE-MNT
