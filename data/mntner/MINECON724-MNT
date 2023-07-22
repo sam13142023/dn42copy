@@ -2,6 +2,6 @@ mntner:             MINECON724-MNT
 admin-c:            MINECON724-DN42
 tech-c:             MINECON724-DN42
 mnt-by:             MINECON724-MNT
-abuse-mailbox:      abuse+dn42@inferior.network
-auth:               pgp-fingerprint A58EF6EDF650BD26BE77457672C6C65765CFA587
+abuse-mailbox:      me@inferior.network
+auth:               pgp-fingerprint 95B8D923E3DCD17349D56B3FA2C7B98FBF30AA0B
 source:             DN42
