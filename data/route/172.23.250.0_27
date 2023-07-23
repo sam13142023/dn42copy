@@ -1,4 +1,4 @@
-route:              172.22.172.0/27
+route:              172.23.250.0/27
 origin:             AS4242420339
 mnt-by:             PDOSTAL-MNT
 source:             DN42
