@@ -1,0 +1,9 @@
+inetnum:            172.20.154.160 - 172.20.154.167
+netname:            BANDYSOL-IPV4
+country:            CN
+admin-c:            BANDYSOL-DN42
+tech-c:             BANDYSOL-DN42
+mnt-by:             BANDYSOL-MNT
+status:             ASSIGNED
+cidr:               172.20.154.160/29
+source:             DN42

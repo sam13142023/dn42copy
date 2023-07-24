@@ -1,0 +1,9 @@
+inet6num:           fd06:4ce0:27bf:0000:0000:0000:0000:0000 - fd06:4ce0:27bf:ffff:ffff:ffff:ffff:ffff
+netname:            BANDYSOL-IPV6
+country:            CN
+admin-c:            BANDYSOL-DN42
+tech-c:             BANDYSOL-DN42
+mnt-by:             BANDYSOL-MNT
+status:             ASSIGNED
+cidr:               fd06:4ce0:27bf::/48
+source:             DN42
