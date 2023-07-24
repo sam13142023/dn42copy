@@ -1,0 +1,7 @@
+domain:             pdostal.dn42
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+nserver:            ns1.pdostal.dn42 172.23.250.1
+nserver:            ns1.pdostal.dn42 fd42:4242:339:23::1
+source:             DN42

@@ -1,10 +1,11 @@
 inetnum:            172.22.172.0 - 172.22.172.31
-netname:            PDOSTAL-IP4PDHOME
-descr:              Pavel Dostal's PDHOME 172.22.172.0/27 block
+netname:            PDOSTAL-IP4VPN
+descr:              pdostal IPv4 VPN network
 country:            CZ
 admin-c:            PDOSTAL-DN42
 tech-c:             PDOSTAL-DN42
 mnt-by:             PDOSTAL-MNT
+nserver:            ns1.pdostal.dn42
 status:             ASSIGNED
 cidr:               172.22.172.0/27
 source:             DN42
