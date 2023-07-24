@@ -1,0 +1,4 @@
+route:              172.20.154.160/29
+origin:             AS4242422171
+mnt-by:             BANDYSOL-MNT
+source:             DN42
