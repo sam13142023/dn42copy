@@ -1,0 +1,10 @@
+inet6num:           fd2d:5027:1014:0000:0000:0000:0000:0000 - fd2d:5027:1014:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2d:5027:1014::/48
+netname:            ASTUTUS-NETWORK
+descr:              Network of ASTUTUS
+country:            CH
+admin-c:            ASTUTUS-DN42
+tech-c:             ASTUTUS-DN42
+mnt-by:             ASTUTUS-MNT
+status:             ASSIGNED
+source:             DN42
