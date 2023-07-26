@@ -1,0 +1,5 @@
+route6:             fd2d:5027:1014::/48
+origin:             AS4242421014
+max-length:         48
+mnt-by:             ASTUTUS-MNT
+source:             DN42

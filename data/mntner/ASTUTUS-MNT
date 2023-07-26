@@ -1,0 +1,6 @@
+mntner:             ASTUTUS-MNT
+admin-c:            ASTUTUS-DN42
+tech-c:             ASTUTUS-DN42
+mnt-by:             ASTUTUS-MNT
+auth:               pgp-fingerprint 05E5B89D80C25328FA6DC21FA99C6A4E3C856DA9
+source:             DN42
