@@ -1,0 +1,5 @@
+route6:             fd2a:a906:2b5f::/48
+origin:             AS4242420292
+max-length:         48
+mnt-by:             NERV-MNT
+source:             DN42
