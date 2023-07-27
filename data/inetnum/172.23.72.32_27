@@ -1,0 +1,10 @@
+inetnum:            172.23.72.32 - 172.23.72.63
+cidr:               172.23.72.32/27
+netname:            GHOULNET
+descr:              ghoulnet
+country:            CA
+admin-c:            GHOUL-DN42
+tech-c:             GHOUL-DN42
+mnt-by:             GHOUL-MNT
+status:             ASSIGNED
+source:             DN42

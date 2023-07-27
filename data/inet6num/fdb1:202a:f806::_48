@@ -1,0 +1,10 @@
+inet6num:           fdb1:202a:f806:0000:0000:0000:0000:0000 - fdb1:202a:f806:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb1:202a:f806::/48
+netname:            GHOULNET
+descr:              ghoulnet
+country:            CA
+admin-c:            GHOUL-DN42
+tech-c:             GHOUL-DN42
+mnt-by:             GHOUL-MNT
+status:             ASSIGNED
+source:             DN42

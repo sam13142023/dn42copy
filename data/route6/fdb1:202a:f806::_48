@@ -1,0 +1,4 @@
+route6:             fdb1:202a:f806::/48
+origin:             AS4242422975
+mnt-by:             GHOUL-MNT
+source:             DN42
