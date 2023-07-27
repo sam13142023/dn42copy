@@ -5,6 +5,7 @@ country:            CN
 admin-c:            RAVI-DN42
 tech-c:             RAVI-DN42
 mnt-by:             RAVI-MNT
-nserver:            ns1.ravi.dn42
+nserver:            ns.ravi.dn42
+ds-rdata:           16836 13 2 3c70fff094629c71ee27b24fabfd491f181ab865126a3a328ce0556e90ef9e23
 status:             ASSIGNED
 source:             DN42
