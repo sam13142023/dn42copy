@@ -1,0 +1,5 @@
+route:              172.21.117.64/26
+descr:              Inky Network
+origin:             AS4242420294
+mnt-by:             INKY-MNT
+source:             DN42

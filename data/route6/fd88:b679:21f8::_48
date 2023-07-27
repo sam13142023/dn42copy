@@ -1,0 +1,5 @@
+route6:             fd88:b679:21f8::/48
+descr:              Inky Network
+origin:             AS4242420294
+mnt-by:             INKY-MNT
+source:             DN42

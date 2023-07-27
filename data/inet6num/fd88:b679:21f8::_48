@@ -1,0 +1,10 @@
+inet6num:           fd88:b679:21f8:0000:0000:0000:0000:0000 - fd88:b679:21f8:ffff:ffff:ffff:ffff:ffff
+netname:            INKY-IPV6
+descr:              Inky Network
+country:            US
+admin-c:            INKY-DN42
+tech-c:             INKY-DN42
+mnt-by:             INKY-MNT
+status:             ASSIGNED
+cidr:               fd88:b679:21f8::/48
+source:             DN42
