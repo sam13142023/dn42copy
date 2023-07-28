@@ -1,0 +1,5 @@
+route6:             fd2b:1365:db9a::/48
+origin:             AS4242421260
+max-length:         48
+mnt-by:             YUCHOW-MNT
+source:             DN42
