@@ -1,0 +1,5 @@
+route:              172.20.231.128/28
+origin:             AS4242420396
+max-length:         28
+mnt-by:             X0UL-MNT
+source:             DN42

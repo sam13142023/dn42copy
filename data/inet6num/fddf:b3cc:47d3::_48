@@ -1,0 +1,11 @@
+inet6num:           fddf:b3cc:47d3:0000:0000:0000:0000:0000 - fddf:b3cc:47d3:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:b3cc:47d3::/48
+netname:            X0UL-NETWORK
+descr:              _X0UL_
+country:            US
+admin-c:            X0UL-DN42
+tech-c:             X0UL-DN42
+mnt-by:             X0UL-MNT
+nserver:            ns1.x0ul.dn42
+status:             ASSIGNED
+source:             DN42
