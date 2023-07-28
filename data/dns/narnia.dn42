@@ -1,0 +1,6 @@
+domain:             narnia.dn42
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+nserver:            ns1.narnia.dn42 fd23::2
+source:             DN42

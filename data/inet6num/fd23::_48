@@ -7,4 +7,5 @@ tech-c:             NARNIA-DN42
 mnt-by:             NARNIA-MNT
 status:             ASSIGNED PI
 cidr:               fd23::/48
+nserver:            ns1.narnia.dn42
 source:             DN42
