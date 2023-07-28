@@ -1,0 +1,5 @@
+route6:             fddf:b3cc:47d3::/48
+origin:             AS4242420396
+max-length:         48
+mnt-by:             X0UL-MNT
+source:             DN42

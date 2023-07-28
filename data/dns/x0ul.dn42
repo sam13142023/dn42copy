@@ -1,0 +1,7 @@
+domain:             x0ul.dn42
+admin-c:            X0UL-DN42
+tech-c:             X0UL-DN42
+mnt-by:             X0UL-MNT
+nserver:            ns1.x0ul.dn42 172.20.231.131
+nserver:            ns1.x0ul.dn42 fddf:b3cc:47d3::53
+source:             DN42
