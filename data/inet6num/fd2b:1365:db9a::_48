@@ -1,0 +1,10 @@
+inet6num:           fd2b:1365:db9a:0000:0000:0000:0000:0000 - fd2b:1365:db9a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2b:1365:db9a::/48
+netname:            R&D NETWORK OF CMD,Inc.
+descr:              R&D NETWORK OF CMD,Inc.
+country:            HK
+admin-c:            YUCHOW-DN42
+tech-c:             YUCHOW-DN42
+mnt-by:             YUCHOW-MNT
+status:             ASSIGNED
+source:             DN42

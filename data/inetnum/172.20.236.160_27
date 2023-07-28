@@ -1,0 +1,9 @@
+inetnum:            172.20.236.160 - 172.20.236.191
+cidr:               172.20.236.160/27
+netname:            R&D NETWORK OF CMD,Inc.
+descr:              R&D NETWORK OF CMD,Inc.
+admin-c:            YUCHOW-DN42
+tech-c:             YUCHOW-DN42
+mnt-by:             YUCHOW-MNT
+status:             ASSIGNED
+source:             DN42

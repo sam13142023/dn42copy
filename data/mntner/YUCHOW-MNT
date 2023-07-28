@@ -1,0 +1,6 @@
+mntner:             YUCHOW-MNT
+admin-c:            YUCHOW-DN42
+tech-c:             YUCHOW-DN42
+mnt-by:             YUCHOW-MNT
+source:             DN42
+auth:               pgp-fingerprint 75DE8EDBA97A67F04C0EC6ACC1A80D05BFC89BDA
