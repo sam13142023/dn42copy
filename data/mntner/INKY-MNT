@@ -1,0 +1,7 @@
+mntner:             INKY-MNT
+admin-c:            INKY-DN42
+tech-c:             INKY-DN42
+mnt-by:             INKY-MNT
+source:             DN42
+auth:               pgp-fingerprint CA6D4F66F75AB8CB761FB25FDEBF11773068FC02
+remarks:            Inky
