@@ -1,0 +1,7 @@
+route:              172.20.225.128/28
+origin:             AS4242423562
+max-length:         28
+admin-c:            DEVMINER-DN42
+tech-c:             DEVMINER-DN42
+mnt-by:             DEVMINER-MNT
+source:             DN42

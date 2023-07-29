@@ -1,0 +1,9 @@
+domain:             devminer.dn42
+nserver:            ns1.devminer.dn42 172.20.225.129
+nserver:            ns1.devminer.dn42 fd00:3720:b00b:babe::53
+nserver:            ns2.devminer.dn42 172.20.225.130
+nserver:            ns2.devminer.dn42 fd00:3720:b00b:babe::54
+admin-c:            DEVMINER-DN42
+tech-c:             DEVMINER-DN42
+mnt-by:             DEVMINER-MNT
+source:             DN42

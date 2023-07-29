@@ -1,0 +1,12 @@
+inetnum:            172.20.225.128 - 172.20.225.143
+cidr:               172.20.225.128/28
+netname:            DEVMINERS-HOMELAB
+descr:              devminer's homelab
+country:            DE
+nserver:            ns1.devminer.dn42
+nserver:            ns2.devminer.dn42
+tech-c:             DEVMINER-DN42
+admin-c:            DEVMINER-DN42
+mnt-by:             DEVMINER-MNT
+status:             ASSIGNED
+source:             DN42
