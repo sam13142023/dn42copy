@@ -1,0 +1,10 @@
+inetnum:            172.23.114.128 - 172.23.114.159
+cidr:               172.23.114.128/27
+netname:            ASTUTUS-NETWORK
+descr:              Network of ASTUTUS
+country:            CH
+admin-c:            ASTUTUS-DN42
+tech-c:             ASTUTUS-DN42
+mnt-by:             ASTUTUS-MNT
+status:             ASSIGNED
+source:             DN42
