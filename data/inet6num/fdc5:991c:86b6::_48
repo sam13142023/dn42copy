@@ -1,0 +1,10 @@
+inet6num:           fdc5:991c:86b6:0000:0000:0000:0000:0000 - fdc5:991c:86b6:ffff:ffff:ffff:ffff:ffff
+netname:            JAN74607-NETWORK-V6
+descr:              Network of JAN74607 v6
+country:            DE
+admin-c:            JAN74607-DN42
+tech-c:             JAN74607-DN42
+mnt-by:             JAN74607-MNT
+status:             ASSIGNED
+cidr:               fdc5:991c:86b6::/48
+source:             DN42
