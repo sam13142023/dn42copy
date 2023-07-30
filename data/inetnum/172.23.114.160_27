@@ -1,0 +1,10 @@
+inetnum:            172.23.114.160 - 172.23.114.191
+cidr:               172.23.114.160/27
+netname:            JAN74607-NETWORK-V4
+descr:              Network of JAN74607 v4
+country:            DE
+admin-c:            JAN74607-DN42
+tech-c:             JAN74607-DN42
+mnt-by:             JAN74607-MNT
+status:             ASSIGNED
+source:             DN42

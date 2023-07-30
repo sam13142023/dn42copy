@@ -1,0 +1,5 @@
+route6:             fdc5:991c:86b6::/48
+origin:             AS4242421746
+mnt-by:             JAN74607-MNT
+max-length:         48
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.114.160/27
+origin:             AS4242421746
+max-length:         27
+mnt-by:             JAN74607-MNT
+source:             DN42
