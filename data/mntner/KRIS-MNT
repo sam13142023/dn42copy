@@ -1,0 +1,6 @@
+mntner:             KRIS-MNT
+admin-c:            KRIS-DN42
+tech-c:             KRIS-DN42
+mnt-by:             KRIS-MNT
+source:             DN42
+auth:               pgp-fingerprint 0894C47CAF861578C5A37180D2916D2F0685038A
