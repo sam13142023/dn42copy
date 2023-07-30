@@ -1,0 +1,10 @@
+inet6num:           fdcb:8724:1819:0000:0000:0000:0000:0000 - fdcb:8724:1819:ffff:ffff:ffff:ffff:ffff
+netname:            KRIS-IPV6
+descr:              Peer with me at pnim0506@gmail.com
+country:            CN
+admin-c:            KRIS-DN42
+tech-c:             KRIS-DN42
+mnt-by:             KRIS-MNT
+status:             ASSIGNED
+cidr:               fdcb:8724:1819::/48
+source:             DN42
