@@ -1,0 +1,5 @@
+route6:             fd75:5e4e:8236::/48
+origin:             AS4242420431
+max-length:         48
+mnt-by:             REETUS-MNT
+source:             DN42
