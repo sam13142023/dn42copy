@@ -1,0 +1,10 @@
+inet6num:           fd75:5e4e:8236:0000:0000:0000:0000:0000 - fd75:5e4e:8236:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:5e4e:8236::/48
+netname:            REETUS-NETWORK
+descr:              REETUS Network
+country:            TH
+admin-c:            REETUS-DN42
+tech-c:             REETUS-DN42
+mnt-by:             REETUS-MNT
+status:             ASSIGNED
+source:             DN42

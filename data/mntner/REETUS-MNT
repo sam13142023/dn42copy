@@ -2,4 +2,5 @@ mntner:             REETUS-MNT
 admin-c:            REETUS-DN42
 tech-c:             REETUS-DN42
 mnt-by:             REETUS-MNT
+auth:               PGPKEY-6858A509
 source:             DN42
