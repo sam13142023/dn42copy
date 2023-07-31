@@ -1,0 +1,5 @@
+route:              172.21.67.32/27
+descr:              Peer with me at afonsoantonio2003@gmail.com
+origin:             AS4242421367
+mnt-by:             DIMAGUY-MNT
+source:             DN42

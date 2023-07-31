@@ -1,0 +1,8 @@
+mntner:             DIMAGUY-MNT
+admin-c:            DIMAGUY-DN42
+tech-c:             DIMAGUY-DN42
+mnt-by:             DIMAGUY-MNT
+auth:               pgp-fingerprint e703e607da4a01ac7333dfc9ea61671a4f5bf0dd
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICmMZWtXL4DqFmdckb7oxNhsQqhcLr8MkqxCFQydDWSf
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICZOFzpYltU+zUpNPTYlB4t0yMRZRMLpolWsHlB07sK6
+source:             DN42
