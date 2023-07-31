@@ -1,0 +1,10 @@
+inetnum:            172.23.247.96 - 172.23.247.127
+cidr:               172.23.247.96/27
+netname:            DRGN-NETv4
+descr:              IPv4 Network of DRGN
+country:            NL
+admin-c:            DRGN-DN42
+tech-c:             DRGN-DN42
+mnt-by:             DRGN-MNT
+status:             ASSIGNED
+source:             DN42

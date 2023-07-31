@@ -1,0 +1,10 @@
+inet6num:           fd70:d2f9:8218:0000:0000:0000:0000:0000 - fd70:d2f9:8218:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:d2f9:8218::/48
+netname:            DRGN-NETv6
+descr:              IPv6 Network of DRGN
+country:            NL
+admin-c:            DRGN-DN42
+tech-c:             DRGN-DN42
+mnt-by:             DRGN-MNT
+status:             ASSIGNED
+source:             DN42
