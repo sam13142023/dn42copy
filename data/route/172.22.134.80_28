@@ -1,0 +1,5 @@
+route:              172.22.134.80/28
+origin:             AS4242420431
+max-length:         28
+mnt-by:             REETUS-MNT
+source:             DN42
