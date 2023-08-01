@@ -1,0 +1,12 @@
+inet6num:           fd22:0145:0689:0000:0000:0000:0000:0000 - fd22:0145:0689:ffff:ffff:ffff:ffff:ffff 
+netname:            LOCRAY-IPV6
+descr:              Peer with me at nehc_moe@hotmail.com
+country:            CN
+admin-c:            LOCRAY-DN42
+tech-c:             LOCRAY-DN42
+mnt-by:             LOCRAY-MNT
+nserver:            ns1.locray.dn42
+nserver:            ns2.locray.dn42
+status:             ASSIGNED
+cidr:               fd22:145:689::/48
+source:             DN42

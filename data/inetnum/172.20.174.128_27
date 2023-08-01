@@ -1,0 +1,13 @@
+inetnum:            172.20.174.128 - 172.20.174.159
+netname:            LOCRAY-IPV4
+remarks:            Peer with me at nehc_moe@hotmail.com
+descr:              Peer with me at nehc_moe@hotmail.com
+country:            CN
+admin-c:            LOCRAY-DN42
+tech-c:             LOCRAY-DN42
+mnt-by:             LOCRAY-MNT
+nserver:            ns1.locray.dn42
+nserver:            ns2.locray.dn42
+status:             ASSIGNED
+cidr:               172.20.174.128/27
+source:             DN42

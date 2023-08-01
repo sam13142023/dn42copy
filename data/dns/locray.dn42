@@ -1,0 +1,8 @@
+domain:             locray.dn42
+admin-c:            LOCRAY-DN42
+tech-c:             LOCRAY-DN42
+mnt-by:             LOCRAY-MNT
+nserver:            ns1.locray.dn42 172.20.174.130
+nserver:            ns2.locray.dn42 fd08:0706:3ebd::6
+remarks:            DNS hosted by locray.dn42
+source:             DN42

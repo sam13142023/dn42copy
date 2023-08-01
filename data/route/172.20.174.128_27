@@ -1,0 +1,5 @@
+route:              172.20.174.128/27
+descr:              Peer with me at nehc_moe@hotmail.com
+origin:             AS4242422276
+mnt-by:             LOCRAY-MNT
+source:             DN42
