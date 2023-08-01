@@ -1,0 +1,10 @@
+inetnum:            172.22.134.80 - 172.22.134.95
+cidr:               172.22.134.80/28
+netname:            REETUS-NETWORK
+descr:              Network of REETUS
+country:            TH
+admin-c:            REETUS-DN42
+tech-c:             REETUS-DN42
+mnt-by:             REETUS-MNT
+status:             ASSIGNED
+source:             DN42
