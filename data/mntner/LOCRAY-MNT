@@ -1,0 +1,7 @@
+mntner:             LOCRAY-MNT
+admin-c:            LOCRAY-DN42
+tech-c:             LOCRAY-DN42
+mnt-by:             LOCRAY-MNT
+source:             DN42
+auth:               pgp-fingerprint C2FAC56811B586988C51BD2CA33C1DFEC44ED449
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDY3W44tFT5/Iyp4nJ5+gEnLuA043GP4SYUpmlzlOJ2iv4+bojNrTMpa2bVQZvFQX9keLbkNP6TvWT4vVxvno50hi9nRl/7Yw4y6GOEdJdEvVQAFJw7ghmOaVEi4gQIn1+sxEl46GHdL4zRxOC6Y8wwUhqX4yZQjq0WVr8/d5aNttiwENOaYScYwRnXcYJHnUVtRfGSrI1JeEmx+B7DM6MUODC9SeDvbTsG1Zq1UnCnjBdNIL+BQtMTCga8FaqKTZ4jIbgWs2sh6N0pcY0B8WC+xKX7g8KDyezn03plewO88Cuc7yurkephOprvwan0BK+Ym4nJPYaS/ZOg1Lb2uwxbFXbc3nZpSffYuUgPtTEtBnaTQw4bevcgoaEV0noSXYH97WX6B7CG4b9pfrbBCQc3Q6QpS5tdf8ovc3VnFaJK686kQHNNUmn7ovFoH1Ci6R+80wWNVKOOqP0HdgIUiOon/fCQnI2dBNcHXwHlXSPhjlAu83607pjswY5IR3gWQ7jTMp9XNFeEy+9QANKnOcQ5kS/nfZKT+rMosbk4P6AVyL7Pnby5T8wt0WkUM+hkjRCKQKmPRjEULl2C8dPCFvg5C2UhzNueMOz6MHO3gBAdDGOnzqvv2vHAsjV8bB+OvtemID1/FuEy83zaofJIDTmn+Cm27Evc6iyh69v1bu0xVw== nehc_moe@hotmail.com

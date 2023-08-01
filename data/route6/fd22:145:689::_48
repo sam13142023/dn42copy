@@ -1,0 +1,5 @@
+route6:             fd22:145:689::/48
+descr:              Peer with me at nehc_moe@hotmail.com
+origin:             AS4242422276
+mnt-by:             LOCRAY-MNT
+source:             DN42
