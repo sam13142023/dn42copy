@@ -1,0 +1,6 @@
+mntner:             DRGN-MNT
+admin-c:            DRGN-DN42
+tech-c:             DRGN-DN42
+mnt-by:             DRGN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPpzzQerdWtvibYiFHgawNC/BtyLzilrENfoGM0o7vyL
+source:             DN42

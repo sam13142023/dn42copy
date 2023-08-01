@@ -1,0 +1,5 @@
+route:              172.23.247.96/27
+origin:             AS4242422709
+max-length:         27
+mnt-by:             DRGN-MNT
+source:             DN42

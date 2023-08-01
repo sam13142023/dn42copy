@@ -1,0 +1,5 @@
+route6:             fd70:d2f9:8218::/48
+origin:             AS4242422709
+max-length:         48
+mnt-by:             DRGN-MNT
+source:             DN42
