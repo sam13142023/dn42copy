@@ -1,0 +1,10 @@
+inet6num:           fddc:2ab7:1248:0000:0000:0000:0000:0000 - fddc:2ab7:1248:ffff:ffff:ffff:ffff:ffff
+netname:            DIMAGUY-IPV6
+descr:              Peer with me at afonsoantonio2003@gmail.com
+country:            PT
+admin-c:            DIMAGUY-DN42
+tech-c:             DIMAGUY-DN42
+mnt-by:             DIMAGUY-MNT
+status:             ASSIGNED
+cidr:               fddc:2ab7:1248::/48
+source:             DN42
