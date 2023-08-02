@@ -1,0 +1,13 @@
+inetnum:            172.20.198.96 - 172.20.198.127
+cidr:               172.20.198.96/27
+netname:            FR-METAINNOVATIVE-NETWORK
+descr:              Network of MetaInnovative
+country:            FR
+admin-c:            METAINNOVATIVE-DN42
+tech-c:             METAINNOVATIVE-DN42
+org:                ORG-METAINNOVATIVE
+mnt-by:             METAINNOVATIVE-MNT
+status:             ASSIGNED
+nserver:            ns1.metainnovative.dn42
+nserver:            ns1.metainnovative.dn42
+source:             DN42
