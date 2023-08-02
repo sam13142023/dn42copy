@@ -1,0 +1,12 @@
+inetnum:            172.23.231.0 - 172.23.231.31
+cidr:               172.23.231.0/27
+netname:            KYB-NETWORK
+descr:              Kyb HomeLab IPv4 Network Range
+remarks:            peer with me at asm@kmail.ee
+country:            EE
+nserver:            ns1.kyb.dn42
+nserver:            ns2.kyb.dn42
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+status:             ASSIGNED
+source:             DN42
