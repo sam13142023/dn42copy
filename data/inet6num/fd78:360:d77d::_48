@@ -1,0 +1,10 @@
+inet6num:           fd78:0360:d77d:0000:0000:0000:0000:0000 - fd78:0360:d77d:ffff:ffff:ffff:ffff:ffff
+netname:            WILLWANG-IPV6
+descr:              willwillwang88@hotmail.com
+country:            CN
+admin-c:            WILLWANG-DN42
+tech-c:             WILLWANG-DN42
+mnt-by:             WILLWANG-MNT
+status:             ASSIGNED
+cidr:               fd78:360:d77d::/48
+source:             DN42
