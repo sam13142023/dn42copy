@@ -1,0 +1,10 @@
+inet6num:           fdd5:47a9:18b4:0000:0000:0000:0000:0000 - fdd5:47a9:18b4:ffff:ffff:ffff:ffff:ffff
+netname:            KITEMOON-IPV6
+descr:              Peer with me at DN42@70m.cc
+country:            CN
+admin-c:            KITEMOON-DN42
+tech-c:             KITEMOON-DN42
+mnt-by:             KITEMOON-MNT
+status:             ASSIGNED
+cidr:               fdd5:47a9:18b4::/48
+source:             DN42

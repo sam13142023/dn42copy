@@ -1,0 +1,5 @@
+route:              172.20.178.192/27
+descr:              Peer with me at dn42@70m.cc
+origin:             AS4242423025
+mnt-by:             KITEMOON-MNT
+source:             DN42
