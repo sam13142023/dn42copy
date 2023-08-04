@@ -1,0 +1,10 @@
+inetnum:            172.23.231.32 - 172.23.231.63
+cidr:               172.23.231.32/27
+netname:            KONEY-IPV4
+country:            CN
+status:             ASSIGNED
+admin-c:            KONEY-DN42
+tech-c:             KONEY-DN42
+mnt-by:             KONEY-MNT
+source:             DN42
+remarks:            jiel998@163.com

@@ -1,0 +1,4 @@
+route:              172.23.231.32/27
+origin:             AS4242423106
+mnt-by:             KONEY-MNT
+source:             DN42

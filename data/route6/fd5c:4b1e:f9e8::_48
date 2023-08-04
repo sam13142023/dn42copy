@@ -1,0 +1,5 @@
+route6:             fd5c:4b1e:f9e8::/48
+origin:             AS4242423106
+max-length:         48
+mnt-by:             KONEY-MNT
+source:             DN42
