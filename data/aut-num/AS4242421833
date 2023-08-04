@@ -1,0 +1,8 @@
+aut-num:            AS4242421833
+as-name:            ACME-AS
+descr:              ACME Labs
+org:                ORG-ACME
+tech-c:             BODEMS-DN42
+admin-c:            BODEMS-DN42
+mnt-by:             BODEMS-MNT
+source:             DN42

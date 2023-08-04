@@ -1,0 +1,11 @@
+inet6num:           fddf:3897:eab6:0000:0000:0000:0000:0000 - fddf:3897:eab6:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:3897:eab6::/48
+netname:            ACME-ORG-NET6
+descr:              ACME Labs IPv6 ULA
+country:            DE
+org:                ORG-ACME
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+status:             ASSIGNED
+source:             DN42

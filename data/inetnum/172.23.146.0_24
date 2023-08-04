@@ -1,9 +1,9 @@
 inetnum:            172.23.146.0 - 172.23.146.255
-netname:            NET-BODEMS-IP4-DN42
-descr:              Bodems IPv4-Net
+netname:            NET-ACME-IP4-DN42
+descr:              ACME Labs IPv4-Net
 country:            DE
-nserver:            ns0.bodems.dn42
-nserver:            ns1.bodems.dn42
+nserver:            rt-core.acmelabs.dn42
+org:                ORG-ACME
 admin-c:            BODEMS-DN42
 tech-c:             BODEMS-DN42
 mnt-by:             BODEMS-MNT

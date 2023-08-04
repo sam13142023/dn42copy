@@ -1,0 +1,8 @@
+organisation:       ORG-ACME
+org-name:           ACME Labs e.V.
+descr:              ACME Labs e.V.
+www:                https://acmelabs.space
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+source:             DN42
