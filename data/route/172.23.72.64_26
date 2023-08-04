@@ -1,0 +1,5 @@
+route:              172.23.72.64/26
+origin:             AS4242420599
+max-length:         26
+mnt-by:             FREAKISH-MNT
+source:             DN42

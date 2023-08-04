@@ -1,0 +1,9 @@
+inet6num:           fdf1:420a:008a:0000:0000:0000:0000:0000 - fdf1:420a:008a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:420a:8a::/48
+netname:            FREAKISH-NETWORK
+admin-c:            FREAKISH-DN42
+tech-c:             FREAKISH-DN42
+mnt-by:             FREAKISH-MNT
+status:             ASSIGNED
+nserver:            ns1.freakish.dn42
+source:             DN42
