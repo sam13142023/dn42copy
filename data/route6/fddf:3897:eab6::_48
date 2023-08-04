@@ -1,5 +1,5 @@
-route:              172.23.146.0/24
-descr:              ACME Labs IPv4
+route6:             fddf:3897:eab6::/48
+descr:              ACME Labs IPv6 ULA
 origin:             AS4242421833
 mnt-by:             BODEMS-MNT
 source:             DN42

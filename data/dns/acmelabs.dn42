@@ -1,0 +1,8 @@
+domain:             acmelabs.dn42
+nserver:            rt-core.acmelabs.dn42 172.23.146.1
+nserver:            rt-core.acmelabs.dn42 fddf:3897:eab6::1
+org:                ORG-ACME
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+source:             DN42
