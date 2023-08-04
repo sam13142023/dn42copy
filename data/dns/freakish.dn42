@@ -1,0 +1,7 @@
+domain:             freakish.dn42
+admin-c:            FREAKISH-DN42
+tech-c:             FREAKISH-DN42
+mnt-by:             FREAKISH-MNT
+nserver:            ns1.freakish.dn42 172.23.72.64
+nserver:            ns1.freakish.dn42 fdf1:420a:8a::1
+source:             DN42
