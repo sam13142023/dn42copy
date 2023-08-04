@@ -1,0 +1,5 @@
+route6:             fdd5:47a9:18b4::/48
+descr:              Peer with me at DN42@70m.cc
+origin:             AS4242423025
+mnt-by:             KITEMOON-MNT
+source:             DN42

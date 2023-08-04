@@ -1,0 +1,11 @@
+inetnum:            172.20.178.192 - 172.20.178.223
+netname:            KITEMOON-IPV4
+remarks:            Peer with me at DN42@70m.cc
+descr:              Peer with me at DN42@70m.cc
+country:            CN
+admin-c:            KITEMOON-DN42
+tech-c:             KITEMOON-DN42
+mnt-by:             KITEMOON-MNT
+status:             ASSIGNED
+cidr:               172.20.178.192/27
+source:             DN42
