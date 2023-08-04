@@ -1,0 +1,8 @@
+inet6num:           fd5c:4b1e:f9e8:0000:0000:0000:0000:0000 - fd5c:4b1e:f9e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5c:4b1e:f9e8::/48
+netname:            CHAOSVPN-V-KONEY
+admin-c:            KONEY-DN42
+tech-c:             KONEY-DN42
+mnt-by:             KONEY-MNT
+status:             ASSIGNED
+source:             DN42
