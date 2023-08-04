@@ -1,0 +1,11 @@
+inetnum:            172.20.236.128 - 172.20.236.159
+netname:            WILLWANG-IPV4
+remarks:            willwillwang88@hotmail.com
+descr:              willwillwang88@hotmail.com
+country:            CN
+admin-c:            WILLWANG-DN42
+tech-c:             WILLWANG-DN42
+mnt-by:             WILLWANG-MNT
+status:             ASSIGNED
+cidr:               172.20.236.128/27
+source:             DN42
