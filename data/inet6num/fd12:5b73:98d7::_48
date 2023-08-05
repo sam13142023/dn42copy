@@ -1,0 +1,10 @@
+inet6num:           fd12:5b73:98d7:0000:0000:0000:0000:0000 - fd12:5b73:98d7:ffff:ffff:ffff:ffff:ffff
+netname:            KALINOTE-IPV6
+descr:              Contact with me at contact@kalinote.top
+country:            CN
+admin-c:            KALINOTE-DN42
+tech-c:             KALINOTE-DN42
+mnt-by:             KALINOTE-MNT
+status:             ASSIGNED
+cidr:               fd12:5b73:98d7::/48
+source:             DN42
