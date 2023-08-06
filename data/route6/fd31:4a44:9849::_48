@@ -1,0 +1,5 @@
+route6:             fd31:4a44:9849::/48
+origin:             AS4242420730
+max-length:         48
+mnt-by:             METAINNOVATIVE-MNT
+source:             DN42

@@ -1,0 +1,13 @@
+inet6num:           fd31:4a44:9849:0000:0000:0000:0000:0000 - fd31:4a44:9849:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:4a44:9849::/48
+netname:            FR-METAINNOVATIVE-NETWORK
+descr:              Network of MetaInnovative
+country:            FR
+admin-c:            METAINNOVATIVE-DN42
+tech-c:             METAINNOVATIVE-DN42
+org:                ORG-METAINNOVATIVE
+mnt-by:             METAINNOVATIVE-MNT
+status:             ASSIGNED
+nserver:            ns1.metainnovative.dn42
+nserver:            ns1.metainnovative.dn42
+source:             DN42
