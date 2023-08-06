@@ -1,0 +1,6 @@
+mntner:             KALINOTE-MNT
+admin-c:            KALINOTE-DN42
+tech-c:             KALINOTE-DN42
+mnt-by:             KALINOTE-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEKq9HrvqW44bvWyUpyQMZUz3lPtbxukB2fSwKaDGBnY root@C20230719028578

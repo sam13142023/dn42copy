@@ -1,0 +1,7 @@
+aut-num:            AS4242420181
+as-name:            KALINOTE-AS
+descr:              Peer with me at contact@kalinote.top
+admin-c:            KALINOTE-DN42
+tech-c:             KALINOTE-DN42
+mnt-by:             KALINOTE-MNT
+source:             DN42
