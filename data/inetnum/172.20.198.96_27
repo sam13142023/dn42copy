@@ -9,5 +9,5 @@ org:                ORG-METAINNOVATIVE
 mnt-by:             METAINNOVATIVE-MNT
 status:             ASSIGNED
 nserver:            ns1.metainnovative.dn42
-nserver:            ns1.metainnovative.dn42
+nserver:            ns2.metainnovative.dn42
 source:             DN42
