@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0036:0000:0000:0000:0000:0000 - fd10:0127:0036:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:36::/48
+netname:            TSINGYAO-NEO-NET6-IX36
+admin-c:            TSINGYAO-NEONETWORK
+tech-c:             TSINGYAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,8 @@
+inetnum:            10.127.36.0 - 10.127.36.255
+cidr:               10.127.36.0/24
+netname:            TSINTYAO-NEO-NET4-IX36
+admin-c:            TSINGYAO-NEONETWORK
+tech-c:             TSINGYAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK
