@@ -1,0 +1,5 @@
+route:              172.22.181.0/26
+origin:             AS4242420637
+max-length:         26
+mnt-by:             KERNET-MNT
+source:             DN42

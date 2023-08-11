@@ -1,0 +1,5 @@
+route6:             fd47:741:637::/48
+origin:             AS4242420637
+max-length:         48
+mnt-by:             KERNET-MNT
+source:             DN42

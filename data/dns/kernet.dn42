@@ -1,0 +1,9 @@
+domain:             kernet.dn42
+nserver:            athena.ns.kernet.dn42 fd47:471:673:ac53::1
+nserver:            athena.ns.kernet.dn42 172.22.181.53
+nserver:            bendis.ns.kernet.dn42 fd47:471:673:ab53::1
+nserver:            bendis.ns.kernet.dn42 172.22.181.61
+admin-c:            KERNET-DN42
+tech-c:             KERNET-DN42
+mnt-by:             KERNET-MNT
+source:             DN42

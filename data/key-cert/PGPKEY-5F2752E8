@@ -1,0 +1,26 @@
+key-cert:           PGPKEY-5F2752E8
+method:             PGP
+owner:              KERNet NOC <noc@kernet.icu>
+fingerpr:           5004 381B FDE3 C003 219A  445C 7F25 9D32 5F27 52E8
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEZNZk7RYJKwYBBAHaRw8BAQdAsBnURQsC6i8mr0Rrqr4Yc7Rc3NJW2dk2JX4e
+certif:             N1XP2MO0G0tFUk5ldCBOT0MgPG5vY0BrZXJuZXQuaWN1PoiQBBMWCAA4FiEEUAQ4
+certif:             G/3jwAMhmkRcfyWdMl8nUugFAmTWZO0CGwMFCwkIBwIGFQoJCAsCBBYCAwECHgEC
+certif:             F4AACgkQfyWdMl8nUuh+KAEA2RJkuqsCatLE0qE7zWvmV97fvCy826mN5oSVH7CA
+certif:             8CsA/isQygDWmZGH0rQA089m9AOL9uPJSa620hNlnbS/A/0HuDgEZNZk7RIKKwYB
+certif:             BAGXVQEFAQEHQCJ8kZV7xhxkZVqrStVyJU1xaR0/Cbox4Hvcg5zOgfIAAwEIB4h4
+certif:             BBgWCAAgFiEEUAQ4G/3jwAMhmkRcfyWdMl8nUugFAmTWZO0CGwwACgkQfyWdMl8n
+certif:             Uuj+ggEA2wFoXKPqa7aVyysqLk5CcBX++2jKJ9D+U2bqG3sx45kA/3hcJ5DfCe4J
+certif:             Ktg17VUTRsmTFSWtzgBxRf8taAFl3toFuDMEZNZlKxYJKwYBBAHaRw8BAQdA9Aqy
+certif:             QBLGDQK7FkQkJ7C4aeCeaXjeS6DxoNHeTq46xeiI7wQYFggAIBYhBFAEOBv948AD
+certif:             IZpEXH8lnTJfJ1LoBQJk1mUrAhsiAIEJEH8lnTJfJ1LodiAEGRYIAB0WIQSsBRsh
+certif:             tgQI7YV4VAqsmNhJAFWxrQUCZNZlKwAKCRCsmNhJAFWxrbzqAP0fy+tIRXpfqv0q
+certif:             xQhdwtNEmaz4rsvj1hM64/Q827KUMwD/SIa1cSk2UcJigIJht1fIqqqoeCs2dQEv
+certif:             H4bBqoAPMAt2DQD/dDqfItjmmrPHYXweB1qTWvBeyEEzaC5nngTc5socsOgA/RdQ
+certif:             An19Vi0dQ4l7vgtDX956w5AqDMoIlx2WtyNKi4kO
+certif:             =DB6D
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            KERNET-DN42
+mnt-by:             KERNET-MNT
+source:             DN42
