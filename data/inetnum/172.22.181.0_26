@@ -1,0 +1,11 @@
+inetnum:            172.22.181.0 - 172.22.181.63
+cidr:               172.22.181.0/26
+netname:            KERNet42-IPv4-1
+country:            GB
+nserver:            athena.ns.kernet.dn42
+nserver:            bendis.ns.kernet.dn42
+admin-c:            KERNET-DN42
+tech-c:             KERNET-DN42
+status:             ASSIGNED
+mnt-by:             KERNET-MNT
+source:             DN42

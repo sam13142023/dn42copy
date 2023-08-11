@@ -1,0 +1,11 @@
+inet6num:           fd47:0741:0637:0000:0000:0000:0000:0000 - fd47:0741:0637:ffff:ffff:ffff:ffff:ffff
+cidr:               fd47:741:637::/48
+netname:            KERNet42-IPv6-1
+country:            GB
+nserver:            athena.ns.kernet.dn42
+nserver:            bendis.ns.kernet.dn42
+admin-c:            KERNET-DN42
+tech-c:             KERNET-DN42
+status:             ASSIGNED
+mnt-by:             KERNET-MNT
+source:             DN42
