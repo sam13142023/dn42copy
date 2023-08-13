@@ -7,3 +7,4 @@ mnt-by:             UVOK-MNT
 status:             ASSIGNED
 source:             DN42
 nserver:            ns1.uvok.dn42
+nserver:            ns2.uvok.dn42
