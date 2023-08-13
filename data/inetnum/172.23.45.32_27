@@ -1,0 +1,9 @@
+inetnum:            172.23.45.32 - 172.23.45.63
+cidr:               172.23.45.32/27
+netname:            BILL-GLOBAL-NETWORK-2
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+status:             ALLOCATED
+remarks:            reserved for future use
+source:             DN42

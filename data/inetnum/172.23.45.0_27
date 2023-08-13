@@ -1,6 +1,6 @@
-inetnum:            172.23.33.0 - 172.23.33.63
-cidr:               172.23.33.0/26
-netname:            BILL-HOME-NETWORK
+inetnum:            172.23.45.0 - 172.23.45.31
+cidr:               172.23.45.0/27
+netname:            BILL-GLOBAL-NETWORK-1
 admin-c:            BILL-DN42
 tech-c:             BILL-DN42
 mnt-by:             BILL-MNT
