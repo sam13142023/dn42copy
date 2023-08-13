@@ -1,0 +1,10 @@
+inetnum:            172.20.235.96 - 172.20.235.127
+cidr:               172.20.235.96/27
+netname:            PAT93-NETWORK
+descr:              Network of PAT93
+country:            AT
+admin-c:            PAT93-DN42
+tech-c:             PAT93-DN42
+mnt-by:             PAT93-MNT
+status:             ASSIGNED
+source:             DN42

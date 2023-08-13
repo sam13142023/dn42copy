@@ -1,0 +1,10 @@
+inet6num:           fd93:0202:affe:0000:0000:0000:0000:0000 - fd93:0202:affe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd93:202:affe::/48
+netname:            PAT93-NETWORK
+descr:              Network of PAT93
+country:            AT
+admin-c:            PAT93-DN42
+tech-c:             PAT93-DN42
+mnt-by:             PAT93-MNT
+status:             ASSIGNED
+source:             DN42
