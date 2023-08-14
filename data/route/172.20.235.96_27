@@ -1,0 +1,5 @@
+route:              172.20.235.96/27
+origin:             AS4242423293
+max-length:         27
+mnt-by:             PAT93-MNT
+source:             DN42
