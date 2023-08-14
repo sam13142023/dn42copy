@@ -1,0 +1,5 @@
+route:              172.22.149.160/27
+origin:             AS4242422136
+max-length:         27
+mnt-by:             ABOVETHELAYER-MNT
+source:             DN42
