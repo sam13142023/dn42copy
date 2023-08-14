@@ -1,0 +1,10 @@
+inetnum:            172.22.149.160 - 172.22.149.191
+cidr:               172.22.149.160/27
+netname:            ABOVETHELAYER-NETWORK
+descr:              Network of ABOVETHELAYER
+country:            PT
+admin-c:            ABOVETHELAYER-DN42
+tech-c:             ABOVETHELAYER-DN42
+mnt-by:             ABOVETHELAYER-MNT
+status:             ASSIGNED
+source:             DN42
