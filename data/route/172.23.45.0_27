@@ -1,0 +1,4 @@
+route:              172.23.45.0/27
+origin:             AS4242420803
+mnt-by:             BILL-MNT
+source:             DN42
