@@ -1,0 +1,8 @@
+route6:             fd48:fa31:502b:8000::/56
+origin:             AS4242423077
+descr:              Private Cloud 1
+max-length:         56
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+source:             DN42

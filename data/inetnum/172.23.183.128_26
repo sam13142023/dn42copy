@@ -1,0 +1,12 @@
+inetnum:            172.23.183.128 - 172.23.183.191
+cidr:               172.23.183.128/26
+netname:            FERRETS-NETWORK-IPV4-1
+descr:              Main Net for Ferrets' Network
+country:            CN
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+status:             ASSIGNED
+nserver:            ns1.ferrets.dn42
+nserver:            ns2.ferrets.dn42
+source:             DN42

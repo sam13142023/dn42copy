@@ -1,0 +1,8 @@
+route:              172.23.183.160/29
+origin:             AS4242423077
+descr:              Private Cloud 1
+max-length:         29
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+source:             DN42

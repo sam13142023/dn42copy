@@ -1,0 +1,8 @@
+route:              172.23.183.128/26
+origin:             AS4242423077
+descr:              Main Net for Ferrets' Network
+max-length:         26
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+source:             DN42
