@@ -3,4 +3,6 @@ admin-c:            PAT93-DN42
 tech-c:             PAT93-DN42
 mnt-by:             PAT93-MNT
 auth:               pgp-fingerprint 9CBFDC6733591F34E0B4CBAD414688A70517A2C2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCeXegpai7T0qhDvXMPwHieYTG2MkmCdW3fQX9WYd/u4JhmX8Um443OIvmKLk8UNrx9Qz9VyNjeap3uvyki3BpJ2yhCXJZwWHhOLWlIsi7G6CLKSxI1Uam9It/5Q9Yna6gfHVsqLFYis4dr2jhX0T+FvHBaAox3Glw1/s9zPV75fDiSOoae9+M9bSD7cAI/h92/x4QuFj+L/7+zw7tHdoehl9fKbn/eN4HKrZEbY+NveLf8NIoxtffGmmfV+nN/JntBEwLwqtOsmQ+WpMw7+XG07eUCJ5W1aKIkdcLDi520G455l+nHZxcAMzlDaKfCEEo83UVEEpA+V+JjDQQXiAoXeRj6qzn2LbQj7aiHHebv5bOcoXfWoYCixXk13Bgjrntumt63E5PPfUOHa9zq9GFdLQcORnaHFGQTeLuPTnrAjsPwQ1zF3xOOBhC8RLRAM3fxagrHI+uZrSvHmawmtFl8wnNWy8E4Ae2x+1xxD+1iXGqKbpiuWG6yE74b+57Zcxk=
+remarks:            pin-sha256:sExsLZg4fSjFvheTFQzxZbpHzFlrXO8SLHyoclgaqIU=
 source:             DN42

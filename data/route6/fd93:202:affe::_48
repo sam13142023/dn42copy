@@ -1,5 +1,5 @@
 route6:             fd93:202:affe::/48
 origin:             AS4242423293
-max-length:         48
+max-length:         64
 mnt-by:             PAT93-MNT
 source:             DN42

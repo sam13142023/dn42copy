@@ -7,4 +7,5 @@ admin-c:            PAT93-DN42
 tech-c:             PAT93-DN42
 mnt-by:             PAT93-MNT
 status:             ASSIGNED
+nserver:            ns.pat93.dn42
 source:             DN42
