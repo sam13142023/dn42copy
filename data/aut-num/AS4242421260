@@ -1,6 +1,6 @@
 aut-num:            AS4242421260
-as-name:            CMD-NETWORK-AS
-descr:              R&D NETWORK OF CMD,Inc.
+as-name:            CMD-NETWORK
+descr:              RESEARCH NETWORK OF CMD,Inc.
 admin-c:            YUCHOW-DN42
 tech-c:             YUCHOW-DN42
 mnt-by:             YUCHOW-MNT
