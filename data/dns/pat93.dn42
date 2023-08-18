@@ -1,0 +1,8 @@
+domain:             pat93.dn42
+descr:              pat93 DNS
+admin-c:            PAT93-DN42
+tech-c:             PAT93-DN42
+mnt-by:             PAT93-MNT
+nserver:            ns.pat93.dn42 172.20.235.97
+nserver:            ns.pat93.dn42 fd93:202:affe::53
+source:             DN42
