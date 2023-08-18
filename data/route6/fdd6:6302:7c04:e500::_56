@@ -1,0 +1,17 @@
+route6:             fdd6:6302:7c04:e500::/56
+remarks:            This is a test if ROA generators respect the filter6.txt.
+                    All ROA objects with the prefix fdd6:6302:7c04::/48 must
+                    therefore not be included in ROA.
+                    If a ROA generator nevertheless generates route objects
+                    with the prefix, it should not be used.
+                    MARK22K-MNT is responsible for this test.
+                    The following objects are part of the test:
+                    - inet6num/fdd6:6302:7c04::_48
+                    - route6/fdd6:6302:7c04::_48
+                    - route6/fdd6:6302:7c04::_64
+                    - route6/fdd6:6302:7c04:4870::_64
+                    - route6/fdd6:6302:7c04:e500::_56
+origin:             AS4242422923
+origin:             AS4201272923
+mnt-by:             MARK22K-MNT
+source:             DN42
