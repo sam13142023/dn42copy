@@ -1,0 +1,5 @@
+route:              172.20.198.64/27
+descr:              Pigeon Network DN42
+origin:             AS4242420919
+mnt-by:             GUGU-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd6c:bfd0:1122:0000:0000:0000:0000:0000 - fd6c:bfd0:1122:ffff:ffff:ffff:ffff:ffff
+netname:            GUGU-DN42-V6
+descr:              Pigeon Network DN42
+country:            CN
+admin-c:            GUGU-DN42
+tech-c:             GUGU-DN42
+mnt-by:             GUGU-MNT
+status:             ASSIGNED
+cidr:               fd6c:bfd0:1122::/48
+source:             DN42
