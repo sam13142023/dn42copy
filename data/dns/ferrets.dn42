@@ -1,0 +1,9 @@
+domain:             ferrets.dn42
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+nserver:            ns1.ferrets.dn42 172.23.183.161
+nserver:            ns1.ferrets.dn42 fd48:fa31:502b:8000::1
+nserver:            ns2.ferrets.dn42 172.23.183.169
+nserver:            ns2.ferrets.dn42 fd48:fa31:502b:8100::1
+source:             DN42

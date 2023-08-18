@@ -1,0 +1,7 @@
+aut-num:            AS4242423077
+as-name:            Ferrets_Network
+descr:              Lab environment
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+source:             DN42

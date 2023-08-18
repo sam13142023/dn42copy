@@ -1,0 +1,6 @@
+mntner:             FERRETS-MNT
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+auth:               pgp-fingerprint 0B8CFE4EA4311E734A42DA6FA67CBCEB66739B68
+source:             DN42

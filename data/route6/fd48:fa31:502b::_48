@@ -1,0 +1,8 @@
+route6:             fd48:fa31:502b::/48
+origin:             AS4242423077
+descr:              Main Net for Ferrets' Network
+max-length:         48
+admin-c:            FERRETS-DN42
+tech-c:             FERRETS-DN42
+mnt-by:             FERRETS-MNT
+source:             DN42
