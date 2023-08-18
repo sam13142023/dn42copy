@@ -1,0 +1,24 @@
+inet6num:           fd42:0028:0099:0000:0000:0000:0000:0000 - fd42:0028:0099:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:28:99::/48
+netname:            NET-QDN-IPV6
+country:            CN
+admin-c:            QDN-DN42
+tech-c:             QDN-DN42
+mnt-by:             QDN-MNT
+org:                ORG-QDN
+nserver:            ns1.qdn.dn42
+nserver:            ns2.qdn.dn42
+status:             ASSIGNED
+source:             DN42
+descr:              QingYao Decentralized Network
+remarks:            Web site: http://www.qdn.dn42 | https://dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Always happy to peer with you ! Contact me for peering :
+remarks:            email: peer@qingyao.network | Telegram : yujintong
+remarks:            Looking Glass : http://lg.qdn.dn42 | https://lg-dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Web site : https://dn42.qingyao.network/
+remarks:            - Wireguard preferred
+remarks:            - Support Multi-Protocol over BGPv6
+remarks:            --------------------------------------------------------

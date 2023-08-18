@@ -1,0 +1,13 @@
+domain:             qdn.dn42
+admin-c:            QDN-DN42
+tech-c:             QDN-DN42
+mnt-by:             QDN-MNT
+org:                ORG-QDN
+country:            CN
+nserver:            ns1.qdn.dn42    172.20.225.166
+nserver:            ns2.qdn.dn42    172.20.225.177
+nserver:            ns-anycast.qdn.dn42    172.20.225.188
+nserver:            ns1.qdn.dn42    fd42:28:99::166
+nserver:            ns2.qdn.dn42    fd42:28:99::177
+nserver:            ns-anycast.qdn.dn42    fd42:28:99::188
+source:             DN42

@@ -1,0 +1,24 @@
+inetnum:            172.20.225.160 - 172.20.225.191
+cidr:               172.20.225.160/27
+netname:            NET-QDN-IPV4
+country:            CN
+admin-c:            QDN-DN42
+tech-c:             QDN-DN42
+mnt-by:             QDN-MNT
+org:                ORG-QDN
+nserver:            ns1.qdn.dn42
+nserver:            ns2.qdn.dn42
+status:             ASSIGNED
+source:             DN42
+descr:              QingYao Decentralized Network
+remarks:            Web site: http://www.qdn.dn42 | https://dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Always happy to peer with you ! Contact me for peering :
+remarks:            email: peer@qingyao.network | Telegram : yujintong
+remarks:            Looking Glass : http://lg.qdn.dn42 | https://lg-dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Web site : https://dn42.qingyao.network/
+remarks:            - Wireguard preferred
+remarks:            - Support Multi-Protocol over BGPv6
+remarks:            --------------------------------------------------------
