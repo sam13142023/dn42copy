@@ -1,0 +1,10 @@
+inet6num:           fdca:33c3:31f3:0000:0000:0000:0000:0000 - fdca:33c3:31f3:ffff:ffff:ffff:ffff:ffff
+netname:            DINGZHEN-IPV6
+descr:              I Got Smoke
+country:            CN
+admin-c:            DINGZHEN-DN42
+tech-c:             DINGZHEN-DN42
+mnt-by:             DINGZHEN-MNT
+status:             ASSIGNED
+cidr:               fdca:33c3:31f3::/48
+source:             DN42
