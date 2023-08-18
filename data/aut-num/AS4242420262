@@ -1,0 +1,19 @@
+aut-num:            AS4242420262
+as-name:            QDN-AS
+admin-c:            QDN-DN42
+tech-c:             QDN-DN42
+mnt-by:             QDN-MNT
+org:                ORG-QDN
+source:             DN42
+descr:              QingYao Decentralized Network
+remarks:            Web: http://www.qdn.dn42 | https://dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Always happy to peer with you ! Contact me for peering :
+remarks:            email: peer@qingyao.network | Telegram : yujintong
+remarks:            Looking Glass : http://lg.qdn.dn42 | https://lg-dn42.qingyao.network
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Web site : https://wdn.qingyao.network/
+remarks:            - Wireguard preferred
+remarks:            - Support Multi-Protocol over BGPv6
+remarks:            --------------------------------------------------------

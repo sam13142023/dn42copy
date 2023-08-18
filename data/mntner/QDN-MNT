@@ -1,0 +1,9 @@
+mntner:             QDN-MNT
+admin-c:            QDN-DN42
+tech-c:             QDN-DN42
+mnt-by:             QDN-MNT
+org:                ORG-QDN
+auth:               pgp-fingerprint 813D0D1B2FCC196C8B3EAE39B40F30EB01C829E4
+auth:               PGPKEY-01C829E4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKQcxHpftej34Ixe5TJCiMi794PPLOmPBCZgJQK/tB3v noc@qingyao.network
+source:             DN42
