@@ -2,5 +2,5 @@ mntner:             METAINNOVATIVE-MNT
 admin-c:            METAINNOVATIVE-DN42
 tech-c:             METAINNOVATIVE-DN42
 mnt-by:             METAINNOVATIVE-MNT
-auth:               pgp-fingerprint 17E39F9E2101BBF24340BB4F3963D3F0DFDC9B74
+auth:               pgp-fingerprint A46C796E8793F068491B6A2356F774865799F42F
 source:             DN42
