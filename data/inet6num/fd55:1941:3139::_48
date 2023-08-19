@@ -1,0 +1,9 @@
+inet6num:           fd55:1941:3139:0000:0000:0000:0000:0000 - fd55:1941:3139:ffff:ffff:ffff:ffff:ffff
+netname:            MCLAB-ipv6
+country:            CN
+admin-c:            MCLAB-DN42
+tech-c:             MCLAB-DN42
+mnt-by:             MCLAB-MNT
+status:             ASSIGNED
+cidr:               fd55:1941:3139::/48
+source:             DN42

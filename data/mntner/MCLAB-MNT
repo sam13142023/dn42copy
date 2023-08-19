@@ -1,0 +1,6 @@
+mntner:             MCLAB-MNT
+admin-c:            MCLAB-DN42
+tech-c:             MCLAB-DN42
+mnt-by:             MCLAB-MNT
+source:             DN42
+auth:               pgp-fingerprint 12A50E779F69C8CACCA7BFCAD74D08888ECDF9CB
