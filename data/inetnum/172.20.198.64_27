@@ -1,0 +1,11 @@
+inetnum:            172.20.198.64 - 172.20.198.95
+netname:            GUGU-DN42-v4
+remarks:            Peer with me at admin@oracle.icu
+descr:              Pigeon Network DN42
+country:            CN
+admin-c:            GUGU-DN42
+tech-c:             GUGU-DN42
+mnt-by:             GUGU-MNT
+status:             ASSIGNED
+cidr:               172.20.198.64/27
+source:             DN42

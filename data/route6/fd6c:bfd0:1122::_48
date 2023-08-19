@@ -1,0 +1,5 @@
+route6:             fd6c:bfd0:1122::/48
+descr:              Pigeon Network DN42
+origin:             AS4242420919
+mnt-by:             GUGU-MNT
+source:             DN42
