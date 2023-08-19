@@ -1,0 +1,4 @@
+route6:             fd55:1941:3139::/48
+origin:             AS4242420619
+mnt-by:             MCLAB-MNT
+source:             DN42
