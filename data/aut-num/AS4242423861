@@ -1,0 +1,8 @@
+aut-num:            AS4242423861
+as-name:            ASM-AS
+descr:              Kyberorg Xperimental/Personal AS
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+remarks:            Peer with me at asm@kmail.ee
+mnt-by:             KYBERORG-MNT
+source:             DN42

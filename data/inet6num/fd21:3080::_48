@@ -8,7 +8,7 @@ admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
 org:                ORG-KYB
 nserver:            ns1.kyb.dn42
-nserver:            ns2.kyb.dn42
+nserver:            ns9.kyb.dn42
 mnt-by:             KYBERORG-MNT
 status:             ASSIGNED
 source:             DN42
