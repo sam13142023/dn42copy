@@ -6,6 +6,6 @@ mnt-by:             KYBERORG-MNT
 org:                ORG-KYB
 nserver:            ns1.kyb.dn42 172.23.231.1
 nserver:            ns1.kyb.dn42 fd21:3080::1
-nserver:            ns2.kyb.dn42 172.23.231.13
-nserver:            ns2.kyb.dn42 fd21:3080::53
+nserver:            ns9.kyb.dn42 172.23.231.11
+nserver:            ns9.kyb.dn42 fd21:3080::9:1:1
 source:             DN42

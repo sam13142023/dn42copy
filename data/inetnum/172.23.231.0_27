@@ -5,7 +5,7 @@ descr:              Kyb HomeLab IPv4 Network Range
 remarks:            peer with me at asm@kmail.ee
 country:            EE
 nserver:            ns1.kyb.dn42
-nserver:            ns2.kyb.dn42
+nserver:            ns9.kyb.dn42
 admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
 status:             ASSIGNED

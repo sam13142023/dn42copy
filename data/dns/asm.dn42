@@ -1,0 +1,8 @@
+domain:             asm.dn42
+descr:              Kyberorg XPerimental/Personal network domain
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+mnt-by:             KYBERORG-MNT
+nserver:            ns.asm.dn42 172.20.6.123
+nserver:            ns.asm.dn42 fd21:3087::53
+source:             DN42

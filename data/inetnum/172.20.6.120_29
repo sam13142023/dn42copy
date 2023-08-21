@@ -1,0 +1,11 @@
+inetnum:            172.20.6.120 - 172.20.6.127
+cidr:               172.20.6.120/29
+netname:            ASM-NETWORK
+descr:              Kyberorg XPerimental/Personal IPv4 Network Range
+remarks:            peer with me at asm@kmail.ee
+country:            EE
+nserver:            ns.asm.dn42
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+status:             ASSIGNED
+source:             DN42
