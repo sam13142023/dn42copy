@@ -1,0 +1,5 @@
+route6:             fd68:d2aa:edd9::/48
+origin:             AS4242422056
+max-length:         48
+mnt-by:             HAKUYA-MNT
+source:             DN42
