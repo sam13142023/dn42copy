@@ -1,0 +1,5 @@
+route6:             fd84:f015:38ad::/48
+descr:              MMR's IPv6 Router
+origin:             AS4242420839
+mnt-by:             MMR-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+aut-num:            AS4242420839
+as-name:            MMR-AS
+descr:              From Langfang, Hebei, China. Built by a high school OIer.
+remarks:            --------------------------------
+remarks:            MMR‘s DN42 Network
+remarks:            Just Peer With Me!
+remarks:            --------------------------------
+admin-c:            MMR-DN42
+tech-c:             MMR-DN42
+mnt-by:             MMR-MNT
+source:             DN42

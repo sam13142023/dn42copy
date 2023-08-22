@@ -1,0 +1,10 @@
+inet6num:           fd84:f015:38ad:0000:0000:0000:0000:0000 - fd84:f015:38ad:ffff:ffff:ffff:ffff:ffff
+cidr:               fd84:f015:38ad::/48
+netname:            MMR-DN42-V6
+descr:              MMR‘s IPv6 Block
+country:            CN
+admin-c:            MMR-DN42
+tech-c:             MMR-DN42
+mnt-by:             MMR-MNT
+status:             ASSIGNED
+source:             DN42
