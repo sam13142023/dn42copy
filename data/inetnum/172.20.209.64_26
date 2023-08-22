@@ -1,7 +1,8 @@
 inetnum:            172.20.209.64 - 172.20.209.127
 netname:            SERNET-DN42-IPV4
-nserver:            ns1.sherpherd.dn42
-nserver:            ns2.sherpherd.dn42
+nserver:            ns1.sernet.dn42
+nserver:            ns2.sernet.dn42
+ds-rdata:           34429 13 2 8B98416ABE7AE20D4E267947FEE3EB013AD7CAF64A0FCDBCE6CDFD526402DE72
 admin-c:            HAKSRPD-DN42
 tech-c:             HAKSRPD-DN42
 mnt-by:             SERNET-MNT

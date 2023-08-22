@@ -6,4 +6,5 @@ nserver:            ns1.sherpherd.dn42 172.20.209.120
 nserver:            ns1.sherpherd.dn42 fdfa:7906:8262::1010
 nserver:            ns2.sherpherd.dn42 172.23.209.121
 nserver:            ns2.sherpherd.dn42 fdfa:7906:8262::1011
+ds-rdata:           41534 13 2 83229DC406DBE50A442483D4F16ABA709DAD3543C3CB986D9226AFB40ADD4E95
 source:             DN42

@@ -3,6 +3,7 @@ netname:            SERNET-IX-IPv6
 descr:              Allocation block for SERNET-IX
 nserver:            ns1.sernet.dn42
 nserver:            ns2.sernet.dn42
+ds-rdata:           22967 13 2 5EF300FA2684819D2A576703106ECAA999483F68AD109FD832FB8D3331094CF8
 admin-c:            HAKSRPD-DN42
 tech-c:             HAKSRPD-DN42
 mnt-by:             SERNET-MNT

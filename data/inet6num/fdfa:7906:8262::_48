@@ -1,9 +1,9 @@
 inet6num:           fdfa:7906:8262:0000:0000:0000:0000:0000 - fdfa:7906:8262:ffff:ffff:ffff:ffff:ffff
 netname:            SERNET-DN42-IPV6
 descr:              Peering worldwide, Asia region node preferred. Contact me at haksrpd@outlook.com
-country:            CN
-nserver:            ns1.sherpherd.dn42
-nserver:            ns2.sherpherd.dn42
+nserver:            ns1.sernet.dn42
+nserver:            ns2.sernet.dn42
+ds-rdata:           12244 13 2 907A3E7EC079D90C9B9B84B92F5F52785F7C4F42DB36CD20F0324FC8077BAA30
 admin-c:            HAKSRPD-DN42
 tech-c:             HAKSRPD-DN42
 mnt-by:             SERNET-MNT
