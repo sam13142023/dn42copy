@@ -1,0 +1,6 @@
+mntner:             MMR-MNT
+admin-c:            MMR-DN42
+tech-c:             MMR-DN42
+auth:               pgp-fingerprint E7B477DAF68EDF76E243B72B6B2351DFD174B7E1
+mnt-by:             MMR-MNT
+source:             DN42

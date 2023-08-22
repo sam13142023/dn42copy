@@ -1,0 +1,5 @@
+route:              172.23.161.0/27
+descr:              MMR's IPV4 Router
+origin:             AS4242420839
+mnt-by:             MMR-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.161.0 - 172.23.161.31
+cidr:               172.23.161.0/27
+netname:            MMR-IPV4
+descr:              MMR's IPV4
+country:            CN
+admin-c:            MMR-DN42
+tech-c:             MMR-DN42
+mnt-by:             MMR-MNT
+status:             ASSIGNED
+source:             DN42
