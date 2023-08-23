@@ -2,5 +2,5 @@ route:              172.20.216.64/26
 descr:              Peer with me at Ling@nekowireless.io
 origin:             AS4242422966
 max-length:         26
-mnt-by:             LINGAYO-MNT
+mnt-by:             LINGYAO-MNT
 source:             DN42
