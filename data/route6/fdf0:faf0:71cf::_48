@@ -1,0 +1,5 @@
+route6:             fdf0:faf0:71cf::/48
+origin:             AS4242423022
+max-length:         48
+mnt-by:             BGPENGU-MNT
+source:             DN42

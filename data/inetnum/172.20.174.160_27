@@ -1,0 +1,10 @@
+inetnum:            172.20.174.160 - 172.20.174.191
+cidr:               172.20.174.160/27
+netname:            BGPENGU-NETWORK
+descr:              BGPengus Network
+country:            DE
+admin-c:            BGPENGU-DN42
+tech-c:             BGPENGU-DN42
+mnt-by:             BGPENGU-MNT
+status:             ASSIGNED
+source:             DN42
