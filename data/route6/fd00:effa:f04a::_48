@@ -1,0 +1,5 @@
+route6:             fd00:effa:f04a::/48
+origin:             AS4242421268
+max-length:         48
+mnt-by:             RDME-MNT
+source:             DN42
