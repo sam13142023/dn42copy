@@ -1,0 +1,10 @@
+inet6num:           fd68:d2aa:edd9:0000:0000:0000:0000:0000 - fd68:d2aa:edd9:ffff:ffff:ffff:ffff:ffff
+netname:            HAKUYA-NET
+descr:              Hakuya Network
+country:            CN
+admin-c:            HAKUYA-DN42
+tech-c:             HAKUYA-DN42
+mnt-by:             HAKUYA-MNT
+status:             ASSIGNED
+cidr:               fd68:d2aa:edd9::/48
+source:             DN42
