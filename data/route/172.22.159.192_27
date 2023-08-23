@@ -1,0 +1,4 @@
+route:              172.22.159.192/27
+origin:             AS4242421268
+mnt-by:             RDME-MNT
+source:             DN42

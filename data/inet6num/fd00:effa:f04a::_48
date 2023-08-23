@@ -1,0 +1,10 @@
+inet6num:           fd00:effa:f04a:0000:0000:0000:0000:0000 - fd00:effa:f04a:ffff:ffff:ffff:ffff:ffff
+netname:            RDME-NETWORK
+descr:              Red Mage Network
+country:            SI
+admin-c:            RDME-DN42
+tech-c:             RDME-DN42
+mnt-by:             RDME-MNT
+status:             ASSIGNED
+cidr:               fd00:effa:f04a::/48
+source:             DN42

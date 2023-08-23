@@ -1,0 +1,10 @@
+inetnum:            172.22.159.192 - 172.22.159.223
+cidr:               172.22.159.192/27
+netname:            RDME-NETWORK
+descr:              Red Mage Network
+country:            SI
+admin-c:            RDME-DN42
+tech-c:             RDME-DN42
+mnt-by:             RDME-MNT
+status:             ASSIGNED
+source:             DN42
