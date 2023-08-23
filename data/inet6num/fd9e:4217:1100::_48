@@ -1,0 +1,10 @@
+inet6num:           fd9e:4217:1100:0000:0000:0000:0000:0000 - fd9e:4217:1100:ffff:ffff:ffff:ffff:ffff
+netname:            LINGYAO-IPV6
+descr:              Peer with me at Ling@nekowireless.io
+country:            CN
+admin-c:            LINGYAO-DN42
+tech-c:             LINGYAO-DN42
+mnt-by:             LINGYAO-MNT
+status:             ASSIGNED
+cidr:               fd9e:4217:1100::/48
+source:             DN42

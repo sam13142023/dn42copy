@@ -1,0 +1,11 @@
+inetnum:            172.20.216.64 - 172.20.216.127
+netname:            LINGYAO-IPV4
+remarks:            Peer with me at Ling@nekowireless.io
+descr:              Peer with me at Ling@nekowireless.io
+country:            CN
+admin-c:            LINGYAO-DN42
+tech-c:             LINGYAO-DN42
+mnt-by:             LINGYAO-MNT
+status:             ASSIGNED
+cidr:               172.20.216.64/26
+source:             DN42
