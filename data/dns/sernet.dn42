@@ -6,4 +6,5 @@ nserver:            ns1.sernet.dn42 172.20.209.120
 nserver:            ns1.sernet.dn42 fdfa:7906:8262::1010
 nserver:            ns2.sernet.dn42 172.23.209.121
 nserver:            ns2.sernet.dn42 fdfa:7906:8262::1011
+ds-rdata:           21434 13 2 788144123CAA60EB4F38B18837365FC8F76895C666C9F0523A08A163FA564B8D
 source:             DN42
