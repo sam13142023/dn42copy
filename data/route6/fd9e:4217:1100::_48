@@ -1,0 +1,6 @@
+route6:             fd9e:4217:1100::/48
+descr:              Peer with me at Ling@nekowireless.io
+origin:             AS4242422966
+max-length:         48
+mnt-by:             LINGYAO-MNT
+source:             DN42

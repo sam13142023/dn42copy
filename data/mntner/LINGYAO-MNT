@@ -1,0 +1,7 @@
+mntner:             LINGYAO-MNT
+admin-c:            LINGYAO-DN42
+tech-c:             LINGYAO-DN42
+mnt-by:             LINGYAO-MNT
+source:             DN42
+auth:               pgp-fingerprint 06FFD9686EB3EA75A99FB0533D27011981A2439C
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBFDmPcRigvnVWYtVMjhP+lrvmBicTjPLonE2K2APnAX

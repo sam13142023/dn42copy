@@ -1,0 +1,7 @@
+aut-num:            AS4242422966
+as-name:            LINGYAO-AS
+descr:              Peer with me at Ling@nekowireless.io
+admin-c:            LINGYAO-DN42
+tech-c:             LINGYAO-DN42
+mnt-by:             LINGYAO-MNT
+source:             DN42
