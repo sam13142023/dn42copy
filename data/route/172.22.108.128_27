@@ -1,0 +1,5 @@
+route:              172.22.108.128/27
+origin:             AS4242420619
+max-length:         27
+mnt-by:             MCLAB-MNT
+source:             DN42
