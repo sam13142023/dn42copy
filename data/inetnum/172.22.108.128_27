@@ -1,0 +1,9 @@
+inetnum:            172.22.108.128 - 172.22.108.159
+netname:            MCLAB-IPV4
+country:            CN
+admin-c:            MCLAB-DN42
+tech-c:             MCLAB-DN42
+mnt-by:             MCLAB-MNT
+status:             ASSIGNED
+cidr:               172.22.108.128/27
+source:             DN42
