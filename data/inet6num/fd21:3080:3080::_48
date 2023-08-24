@@ -1,14 +1,14 @@
-inet6num:           fd21:3080:0000:0000:0000:0000:0000:0000 - fd21:3080:0000:ffff:ffff:ffff:ffff:ffff
-cidr:               fd21:3080::/48
+inet6num:           fd21:3080:3080:0000:0000:0000:0000:0000 - fd21:3080:3080:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:3080:3080::/48
 netname:            KYB-NETWORK
 descr:              Kyb HomeLab IPv6 Network Range
 remarks:            peer with me at asm@kmail.ee
 country:            EE
 admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
-org:                ORG-KYB
 nserver:            ns1.kyb.dn42
 nserver:            ns9.kyb.dn42
+org:                ORG-KYB
 mnt-by:             KYBERORG-MNT
 status:             ASSIGNED
 source:             DN42
