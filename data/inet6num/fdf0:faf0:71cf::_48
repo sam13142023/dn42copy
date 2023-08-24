@@ -1,0 +1,10 @@
+inet6num:           fdf0:faf0:71cf:0000:0000:0000:0000:0000 - fdf0:faf0:71cf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:faf0:71cf::/48
+netname:            BGPENGU-NETWORK
+descr:              BGPengus Network
+country:            DE
+admin-c:            BGPENGU-DN42
+tech-c:             BGPENGU-DN42
+mnt-by:             BGPENGU-MNT
+status:             ASSIGNED
+source:             DN42
