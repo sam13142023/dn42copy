@@ -1,0 +1,7 @@
+mntner:             JBNRZ-MNT
+admin-c:            JBNRZ-DN42
+tech-c:             JBNRZ-DN42
+mnt-by:             JBNRZ-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIzgoBKRH+4wWYUXk3AlkWFbOK57UJ031KgtOqnliG2
+remarks:            JBNRZ
