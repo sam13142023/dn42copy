@@ -1,0 +1,10 @@
+inetnum:            172.23.72.0 - 172.23.72.31
+netname:            LONGTIANMU-IPV4
+country:            CN
+admin-c:            LONGTIANMU-DN42
+tech-c:             LONGTIANMU-DN42
+mnt-by:             LONGTIANMU-MNT
+status:             ASSIGNED
+cidr:               172.23.72.0/27
+remarks:            Created by dn42 admin to match route object
+source:             DN42
