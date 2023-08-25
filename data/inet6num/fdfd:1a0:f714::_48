@@ -1,0 +1,10 @@
+inet6num:           fdfd:01a0:f714:0000:0000:0000:0000:0000 - fdfd:01a0:f714:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:1a0:f714::/48
+netname:            SEREK-NETWORK
+country:            US
+admin-c:            SEREK-DN42
+tech-c:             SEREK-DN42
+mnt-by:             SEREK-MNT
+status:             ASSIGNED
+nserver:            ns1.serek.dn42
+source:             DN42

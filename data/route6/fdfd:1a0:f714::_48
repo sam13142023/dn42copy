@@ -1,0 +1,5 @@
+route6:             fdfd:1a0:f714::/48
+origin:             AS4242422285
+max-length:         48
+mnt-by:             SEREK-MNT
+source:             DN42

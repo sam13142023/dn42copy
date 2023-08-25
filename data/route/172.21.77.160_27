@@ -1,0 +1,5 @@
+route:              172.21.77.160/27
+origin:             AS4242422285
+max-length:         27
+mnt-by:             SEREK-MNT
+source:             DN42

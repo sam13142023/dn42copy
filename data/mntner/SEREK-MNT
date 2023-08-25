@@ -1,0 +1,6 @@
+mntner:             SEREK-MNT
+admin-c:            SEREK-DN42
+tech-c:             SEREK-DN42
+mnt-by:             SEREK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOFyVit0RfzUzV3uSA9yAo9QIomZKx+hKhxX/vfIrZ7q
+source:             DN42
