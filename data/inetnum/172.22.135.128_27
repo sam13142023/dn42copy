@@ -1,0 +1,11 @@
+inetnum:            172.22.135.128 - 172.22.135.159
+netname:            JBNRZ-IPV4
+remarks:            JBNRZ
+descr:              Peer with me at 3537659915@qq.com
+country:            CN
+admin-c:            JBNRZ-DN42
+tech-c:             JBNRZ-DN42
+mnt-by:             JBNRZ-MNT
+status:             ASSIGNED
+cidr:               172.22.135.128/27
+source:             DN42

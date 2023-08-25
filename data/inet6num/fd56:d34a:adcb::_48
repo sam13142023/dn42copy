@@ -1,0 +1,10 @@
+inet6num:           fd56:d34a:adcb:0000:0000:0000:0000:0000 - fd56:d34a:adcb:ffff:ffff:ffff:ffff:ffff
+netname:            JBNRZ-IPV6
+descr:              Peer with me at 3537659915@qq.com
+country:            CN
+admin-c:            JBNRZ-DN42
+tech-c:             JBNRZ-DN42
+mnt-by:             JBNRZ-MNT
+status:             ASSIGNED
+cidr:               fd56:d34a:adcb::/48
+source:             DN42
