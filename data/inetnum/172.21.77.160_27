@@ -1,0 +1,10 @@
+inetnum:            172.21.77.160 - 172.21.77.191
+cidr:               172.21.77.160/27
+netname:            SEREK-NETWORK
+country:            US
+admin-c:            SEREK-DN42
+tech-c:             SEREK-DN42
+mnt-by:             SEREK-MNT
+status:             ASSIGNED
+nserver:            ns1.serek.dn42
+source:             DN42

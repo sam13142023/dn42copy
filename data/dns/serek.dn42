@@ -1,0 +1,7 @@
+domain:             serek.dn42
+admin-c:            SEREK-DN42
+tech-c:             SEREK-DN42
+mnt-by:             SEREK-MNT
+nserver:            ns1.serek.dn42 172.21.77.161
+nserver:            ns1.serek.dn42 fdfd:01a0:f714:53::1
+source:             DN42
