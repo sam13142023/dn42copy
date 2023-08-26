@@ -1,0 +1,6 @@
+domain:             tux.dn42
+admin-c:            TUX-DN42
+tech-c:             TUX-DN42
+mnt-by:             TUX-MNT
+nserver:            dns.tux.dn42 fd3c:af3f:4777::1
+source:             DN42
