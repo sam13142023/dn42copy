@@ -1,0 +1,6 @@
+mntner:             TUX-MNT
+admin-c:            TUX-DN42
+tech-c:             TUX-DN42
+mnt-by:             TUX-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPh4i9env6lI9f0dp1veHPr4m9YRpk+lfVatAQWhwvmV cloud

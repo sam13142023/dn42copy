@@ -1,0 +1,11 @@
+inet6num:           fd3c:af3f:4777:0000:0000:0000:0000:0000 - fd3c:af3f:4777:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:af3f:4777::/48
+netname:            NET-TUX-V6-000
+descr:              TUX IPv6 Network
+country:            GR
+admin-c:            TUX-DN42
+tech-c:             TUX-DN42
+mnt-by:             TUX-MNT
+nserver:            dns.tux.dn42
+status:             ASSIGNED
+source:             DN42
