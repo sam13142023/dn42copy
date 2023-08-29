@@ -6,5 +6,6 @@ country:            TH
 admin-c:            REETUS-DN42
 tech-c:             REETUS-DN42
 mnt-by:             REETUS-MNT
+nserver:            dns.reetus.dn42
 status:             ASSIGNED
 source:             DN42

@@ -1,0 +1,6 @@
+domain:             reetus.dn42
+admin-c:            REETUS-DN42
+tech-c:             REETUS-DN42
+mnt-by:             REETUS-MNT
+nserver:            dns.reetus.dn42 fd75:5e4e:8236:10::53
+source:             DN42
