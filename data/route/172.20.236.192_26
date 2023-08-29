@@ -1,0 +1,4 @@
+route:              172.20.236.192/26
+origin:             AS4242423290
+mnt-by:             LUCASLAH-MNT
+source:             DN42

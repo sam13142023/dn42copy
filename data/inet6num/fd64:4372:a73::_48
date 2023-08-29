@@ -1,0 +1,8 @@
+inet6num:           fd64:4372:0a73:0000:0000:0000:0000:0000 - fd64:4372:0a73:ffff:ffff:ffff:ffff:ffff
+cidr:               fd64:4372:a73::/48
+netname:            LUCASLAH-NETWORK
+admin-c:            LUCASLAH-DN42
+tech-c:             LUCASLAH-DN42
+mnt-by:             LUCASLAH-MNT
+status:             ASSIGNED
+source:             DN42
