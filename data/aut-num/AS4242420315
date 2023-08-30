@@ -1,0 +1,8 @@
+aut-num:            AS4242420315
+as-name:            JUSSI-AS
+descr:              Jussi Hartikainen Personal AS
+admin-c:            JUSSI-DN42
+tech-c:             JUSSI-DN42
+remarks:            Peer with me at jussi@kmail.ee
+mnt-by:             JUSSI-MNT
+source:             DN42
