@@ -1,0 +1,5 @@
+route6:             fd64:4372:a73::/48
+origin:             AS4242423290
+max-length:         48
+mnt-by:             LUCASLAH-MNT
+source:             DN42

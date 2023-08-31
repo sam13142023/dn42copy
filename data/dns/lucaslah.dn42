@@ -1,0 +1,7 @@
+domain:             lucaslah.dn42
+admin-c:            LUCASLAH-DN42
+tech-c:             LUCASLAH-DN42
+mnt-by:             LUCASLAH-MNT
+nserver:            lucaslah.dn42 fd64:4372:a73::2
+nserver:            lucaslah.dn42 172.20.236.194
+source:             DN42

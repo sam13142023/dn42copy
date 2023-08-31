@@ -1,0 +1,8 @@
+inetnum:            172.20.236.192 - 172.20.236.255
+cidr:               172.20.236.192/26
+netname:            LUCASLAH-NETWORK
+admin-c:            LUCASLAH-DN42
+tech-c:             LUCASLAH-DN42
+mnt-by:             LUCASLAH-MNT
+status:             ASSIGNED
+source:             DN42
