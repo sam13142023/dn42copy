@@ -1,0 +1,11 @@
+inetnum:            172.23.30.64 - 172.23.30.95
+cidr:               172.23.30.64/27
+netname:            JUSSI-NETWORK
+descr:              Jussi Hartikainen Personal IPv4 Network
+remarks:            peer with me at jussi@kmail.ee
+country:            FI
+admin-c:            JUSSI-DN42
+tech-c:             JUSSI-DN42
+mnt-by:             JUSSI-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd20:0030:0040:0000:0000:0000:0000:0000 - fd20:0030:0040:ffff:ffff:ffff:ffff:ffff
+cidr:               fd20:30:40::/48
+netname:            JUSSI-NETWORK
+descr:              Jussi Hartikainen Personal IPv6 Network
+remarks:            peer with me at jussi@kmail.ee
+country:            FI
+admin-c:            JUSSI-DN42
+tech-c:             JUSSI-DN42
+mnt-by:             JUSSI-MNT
+status:             ASSIGNED
+source:             DN42

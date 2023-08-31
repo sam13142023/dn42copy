@@ -1,0 +1,7 @@
+mntner:             JUSSI-MNT
+admin-c:            JUSSI-DN42
+tech-c:             JUSSI-DN42
+mnt-by:             JUSSI-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCe7sC/gLqivaWAH4Uz+m3iS4F0TZ8/T5oQZVkrDY8YzvuZ3zRYGNH9BJOl5YCArqGoBEbHmBR1icmzGJZSdU584/UHIOTWKdzLMfuYUX17MBdujyAOzn1qejF+LpunXIOlI6AyPk2fYyYaIZ+C/7WTxdJVZN6zodvwHieYEIBkgqRGiQ/NyZ+CLubyiyolorFtBmwa4L0Vb3zP/QdJUMLhwk0mG1/K5fYBT16uQDnWhnLaEwwv9qWbkwq1671RYRe/tJWbhHJqex0RfUCSRY9xIhdJ8oX2dpJhirE1bwvKkcKEYS567PqeAcvBmXuAOmom0/hwLVQnGd72dOd0YS+UruIzaNqbQHijvzcdHfA54zCEKbpvc1X1o0c7Drc1P+60KgJpWjf4vOyIbD/rlbAXQXju5CzGyUHgKhOO+Pziid39CBEljZslGaiDxK0DXC/zTV5RAa3qPkCEo1z1IvHJLa32wN7Iyn92w36dN7zOrdsW7+y+SocdPrmxy5XbG8s=
+auth:               pgp-fingerprint 88361017EA295659E0C0E2FE0C6E1370169962A4
