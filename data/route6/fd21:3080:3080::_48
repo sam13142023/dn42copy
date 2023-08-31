@@ -2,4 +2,5 @@ route6:             fd21:3080:3080::/48
 origin:             AS4242423786
 max-length:         48
 mnt-by:             KYBERORG-MNT
+mnt-by:             JUSSI-MNT
 source:             DN42

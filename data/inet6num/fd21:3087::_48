@@ -1,7 +1,7 @@
 inet6num:           fd21:3087:0000:0000:0000:0000:0000:0000 - fd21:3087:0000:ffff:ffff:ffff:ffff:ffff
 cidr:               fd21:3087::/48
 netname:            ASM-NETWORK
-descr:              Kyberorg XPerimental/Personal IPv6 Network Range
+descr:              Kyberorg Personal IPv6 Network Range
 remarks:            peer with me at asm@kmail.ee
 country:            EE
 admin-c:            KYBERORG-DN42
