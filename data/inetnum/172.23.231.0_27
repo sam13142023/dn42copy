@@ -1,12 +1,14 @@
 inetnum:            172.23.231.0 - 172.23.231.31
 cidr:               172.23.231.0/27
-netname:            KYB-NETWORK
-descr:              Kyb HomeLab IPv4 Network Range
-remarks:            peer with me at asm@kmail.ee
+netname:            KLAB-NETWORK
+descr:              KLab HomeLab IPv4 Network Range
+remarks:            peer with us at asm@kmail.ee or jussi@kmail.ee
 country:            EE
-nserver:            ns1.kyb.dn42
-nserver:            ns9.kyb.dn42
+nserver:            ns1.klab.dn42
+nserver:            ns9.klab.dn42
 admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
+mnt-by:             KYBERORG-MNT
+mnt-by:             JUSSI-MNT
 status:             ASSIGNED
 source:             DN42

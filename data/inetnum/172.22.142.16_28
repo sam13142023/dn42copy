@@ -1,11 +1,12 @@
 inetnum:            172.22.142.16 - 172.22.142.31
 cidr:               172.22.142.16/28
 netname:            ASM-NETWORK
-descr:              Kyberorg XPerimental/Personal IPv4 Network Range
+descr:              Kyberorg Personal IPv4 Network Range
 remarks:            peer with me at asm@kmail.ee
 country:            EE
 nserver:            ns.asm.dn42
 admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
+mnt-by:             KYBERORG-MNT
 status:             ASSIGNED
 source:             DN42

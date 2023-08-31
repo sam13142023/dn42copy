@@ -1,9 +1,10 @@
 aut-num:            AS4242423786
-as-name:            KYB-AS
-descr:              Kyb HomeLab AS
+as-name:            KLAB-AS
+descr:              KLab HomeLab AS
 admin-c:            KYBERORG-DN42
 tech-c:             KYBERORG-DN42
-org:                ORG-KYB
+org:                ORG-KLAB
 remarks:            Peer with me at asm@kmail.ee
 mnt-by:             KYBERORG-MNT
+mnt-by:             JUSSI-MNT
 source:             DN42

@@ -1,0 +1,12 @@
+domain:             klab.dn42
+descr:              KLab domain
+admin-c:            KYBERORG-DN42
+tech-c:             KYBERORG-DN42
+mnt-by:             KYBERORG-MNT
+mnt-by:             JUSSI-MNT
+org:                ORG-KLAB
+nserver:            ns1.klab.dn42 172.23.231.1
+nserver:            ns1.klab.dn42 fd21:3080:3080::1
+nserver:            ns9.klab.dn42 172.23.231.11
+nserver:            ns9.klab.dn42 fd21:3080:3080:9::11
+source:             DN42
