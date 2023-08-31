@@ -3,4 +3,5 @@ admin-c:            ZDONG-DN42
 tech-c:             ZDONG-DN42
 mnt-by:             ZDONG-MNT
 auth:               pgp-fingerprint 46FAF0C7A64C875B8BE97CF70719D07C292713B8
+remarks:            pin-sha256:pPX7R735rZXU5h4/r+3pTYQVDOwTRtkU/w6j5H9PfAg=
 source:             DN42
