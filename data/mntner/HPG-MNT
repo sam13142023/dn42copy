@@ -1,0 +1,6 @@
+mntner:             HPG-MNT
+admin-c:            HPG-DN42
+tech-c:             HPG-DN42
+mnt-by:             HPG-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILhd1mIgI5mW3JaPU678cSiUBZFkc5Rmy+idgA4PZiME
+source:             DN42
