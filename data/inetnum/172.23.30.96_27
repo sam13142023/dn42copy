@@ -1,0 +1,11 @@
+inetnum:            172.23.30.96 - 172.23.30.127
+cidr:               172.23.30.96/27
+netname:            HPG4-NETWORK
+country:            NZ
+admin-c:            HPG-DN42
+tech-c:             HPG-DN42
+mnt-by:             HPG-MNT
+status:             ASSIGNED
+nserver:            ns1.hpg.dn42
+nserver:            ns2.hpg.dn42
+source:             DN42

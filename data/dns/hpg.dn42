@@ -1,0 +1,8 @@
+domain:             hpg.dn42
+descr:              Harrison
+admin-c:            HPG-DN42
+tech-c:             HPG-DN42
+mnt-by:             HPG-MNT
+nserver:            ns1.hpg.dn42 172.23.30.97
+nserver:            ns1.hpg.dn42 fde3:9e96:418f::2
+source:             DN42

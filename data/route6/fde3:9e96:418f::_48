@@ -1,0 +1,5 @@
+route6:             fde3:9e96:418f::/48
+origin:             AS4242420965
+max-length:         48
+mnt-by:             HPG-MNT
+source:             DN42

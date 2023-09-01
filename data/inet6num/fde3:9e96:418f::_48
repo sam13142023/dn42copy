@@ -1,0 +1,9 @@
+inet6num:           fde3:9e96:418f:0000:0000:0000:0000:0000 - fde3:9e96:418f:ffff:ffff:ffff:ffff:ffff
+cidr:               fde3:9e96:418f::/48
+netname:            HPG6-NETWORK
+country:            NZ
+admin-c:            HPG-DN42
+tech-c:             HPG-DN42
+mnt-by:             HPG-MNT
+status:             ASSIGNED
+source:             DN42

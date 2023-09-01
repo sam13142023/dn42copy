@@ -1,0 +1,4 @@
+route:              172.23.30.96/27
+origin:             AS4242420965
+mnt-by:             HPG-MNT
+source:             DN42
