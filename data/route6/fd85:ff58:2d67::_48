@@ -1,0 +1,5 @@
+route6:             fd85:ff58:2d67::/48
+origin:             AS4242422472
+descr:              NCNSR-NETWORK
+mnt-by:             NCNSR-MNT
+source:             DN42
