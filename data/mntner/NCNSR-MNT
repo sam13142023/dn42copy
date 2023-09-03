@@ -1,0 +1,8 @@
+mntner:             NCNSR-MNT
+admin-c:            NCNSR-DN42
+tech-c:             NCNSR-DN42
+mnt-by:             NCNSR-MNT
+source:             DN42
+auth:               pgp-fingerprint 8C791E8545E8C0E2EB450BD673CB05057C33B99D
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCogscN8AvYGBZKTkA9HznHpmSibgn8pVPMXUdq3wlXUfvfJABbRH2WbER7IelHGiXismmYkpICh+LB0j7iyL7o2ehuGvUv7UPKcn6zr579Z3YPNVKGcCuzq/VzWqXV9jt7afa/Gcg1pY6wyI2Dk0k8CpUqGB66l2Tv5ihtgwht/1N0XXy2E9xn4hRf7xJl9UD6SxL5efZ70I+wSlOARik4inHC6rBR/ezmvijF3zOg/bDSai2l3859aNZkLQVMniRqoh4a+D+/XuwLDM7siHc20olWG5n1Z8mVGnYxGjAvggz7EJ9IXkgtIpYQKcnlP/ufG825IeMJbXMwAE/dSUx0EwJF59Tg4zjRLAVrkdKfZBRmEE7bgLQNAErf7Y38MUga0fMaPauQF/h1MJ7QZ4jxfAH5a9jAvhIt173Bb45/PSG5uhQuYLVRxnhoMgcn23798370Z3WnP/rP9EyKLTuIbdxkA0oift+jIoCQhfk4uFIZ2P0ull42//rhkMASSu1HX3cN6/cFTHYhY10JsOpuW/C2KCCf+N45DclZGWoILnkRHvFkMNMPvF5Y0AdYVL861szCeTfjRbpO9xMbhgM7SDWacjEEV2M1NwUSl3tKDAgkcrd78XlGY4MixwFbTq8YSbI7t/6hM6pe0kInqHGj/OfWOf/RQWZBl6d5xuL26w==
+remarks:            NCNSR-NETWORK

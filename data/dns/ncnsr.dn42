@@ -1,0 +1,9 @@
+domain:             ncnsr.dn42
+admin-c:            NCNSR-DN42
+tech-c:             NCNSR-DN42
+mnt-by:             NCNSR-MNT
+nserver:            ns1.ncnsr.dn42 172.22.189.193
+nserver:            ns1.ncnsr.dn42 fd85:ff58:2d67::1
+nserver:            ns2.ncnsr.dn42 172.22.189.194
+nserver:            ns2.ncnsr.dn42 fd85:ff58:2d67::2
+source:             DN42

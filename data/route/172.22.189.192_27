@@ -1,0 +1,5 @@
+route:              172.22.189.192/27
+origin:             AS4242422472
+descr:              NCNSR-NETWORK
+mnt-by:             NCNSR-MNT
+source:             DN42

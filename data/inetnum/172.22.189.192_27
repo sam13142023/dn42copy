@@ -1,0 +1,12 @@
+inetnum:            172.22.189.192 - 172.22.189.223
+country:            TW
+remarks:            NCNSR-NETWORK
+netname:            NCNSR-IPV4
+admin-c:            NCNSR-DN42
+tech-c:             NCNSR-DN42
+mnt-by:             NCNSR-MNT
+status:             ASSIGNED
+cidr:               172.22.189.192/27
+nserver:            ns1.ncnsr.dn42
+nserver:            ns2.ncnsr.dn42
+source:             DN42

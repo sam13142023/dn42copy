@@ -1,0 +1,12 @@
+inet6num:           fd85:ff58:2d67:0000:0000:0000:0000:0000 - fd85:ff58:2d67:ffff:ffff:ffff:ffff:ffff
+country:            TW
+descr:              NCNSR-NETWORK
+netname:            NCNSR-IPV6
+admin-c:            NCNSR-DN42
+tech-c:             NCNSR-DN42
+mnt-by:             NCNSR-MNT
+status:             ASSIGNED
+cidr:               fd85:ff58:2d67::/48
+nserver:            ns1.ncnsr.dn42
+nserver:            ns2.ncnsr.dn42
+source:             DN42
