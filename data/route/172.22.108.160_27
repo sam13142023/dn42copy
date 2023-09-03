@@ -1,0 +1,5 @@
+route:              172.22.108.160/27
+origin:             AS4242420896
+max-length:         27
+mnt-by:             JVL-MNT
+source:             DN42
