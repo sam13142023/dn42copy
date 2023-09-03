@@ -1,0 +1,6 @@
+mntner:             AKIHI-MNT
+admin-c:            AKIHI-DN42
+tech-c:             AKIHI-DN42
+mnt-by:             AKIHI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKZbgd0V1L4uFzluf0aHOXVX8lH+8UJfPYBYKZYtp6CP 
+source:             DN42

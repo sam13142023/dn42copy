@@ -1,0 +1,4 @@
+route:              172.21.77.192/27
+origin:             AS4242420398
+mnt-by:             AKIHI-MNT
+source:             DN42

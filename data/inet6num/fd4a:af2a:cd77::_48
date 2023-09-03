@@ -1,0 +1,9 @@
+inet6num:           fd4a:af2a:cd77:0000:0000:0000:0000:0000 - fd4a:af2a:cd77:ffff:ffff:ffff:ffff:ffff
+netname:            BOLETUS-NETWORK-IPV6
+country:            CN
+admin-c:            AKIHI-DN42
+tech-c:             AKIHI-DN42
+mnt-by:             AKIHI-MNT
+status:             ASSIGNED
+cidr:               fd4a:af2a:cd77::/48
+source:             DN42
