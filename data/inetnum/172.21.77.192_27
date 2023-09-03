@@ -1,0 +1,9 @@
+inetnum:            172.21.77.192 - 172.21.77.223
+netname:            BOLETUS-NETWORK
+country:            CN
+admin-c:            AKIHI-DN42
+tech-c:             AKIHI-DN42
+mnt-by:             AKIHI-MNT
+status:             ASSIGNED
+cidr:               172.21.77.192/27
+source:             DN42
