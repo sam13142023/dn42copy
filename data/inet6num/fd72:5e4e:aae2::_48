@@ -1,0 +1,9 @@
+inet6num:           fd72:5e4e:aae2:0000:0000:0000:0000:0000 - fd72:5e4e:aae2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd72:5e4e:aae2::/48
+netname:            JVL-NETWORK
+country:            TR
+admin-c:            JVL-DN42
+tech-c:             JVL-DN42
+mnt-by:             JVL-MNT
+status:             ASSIGNED
+source:             DN42

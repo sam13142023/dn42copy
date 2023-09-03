@@ -1,0 +1,9 @@
+inetnum:            172.22.108.160 - 172.22.108.191
+cidr:               172.22.108.160/27
+netname:            JVL-NETWORK
+country:            TR
+admin-c:            JVL-DN42
+tech-c:             JVL-DN42
+mnt-by:             JVL-MNT
+status:             ASSIGNED
+source:             DN42
