@@ -1,0 +1,5 @@
+route:              172.22.135.160/27
+origin:             AS4242421170
+max-length:         27
+mnt-by:             REJSIK-MNT
+source:             DN42

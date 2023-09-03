@@ -1,0 +1,6 @@
+mntner:             REJSIK-MNT
+admin-c:            REJSIK-DN42
+tech-c:             REJSIK-DN42
+mnt-by:             REJSIK-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCbujR26B4Ok1d6Z2QFukjOrj8vhfQt19YZtwc/nWkGkrUKwPLZBaEEtAJuadViTt0wcN2P2uxA4PXN2kz7ZuTg6HAqbwxGvEaHGYqDO6izrHlIGLEWmXS7WDW+Z2/lRyHJ/iZZgTCQpwa9sO6azOE4vE+zOHKxO1d8PmwcpbwliZcOYX3x0X9Aoobi9TTutKH6I+0Zh85D5YFJ8uWiUVQaPyB7k8VLJc0biPDsFv2aYw19MvgwJSdQZVNG7ciezZPIVrFoppq0Cx34mTBYl5KBGIig6FDF8wP1iWgj7Ta2ECGlMIUB28PIgkYAf4ikIKiG1uagMTia0pZ27VGUuatPDnc5VSHrW0vM+ywohYypgIB8f/1VluIqk5Rlz30DIq/CR/bInw5VTBEP+X8RGo4pjKf9QLouNEZUQ/hvVY7jTaln2Ba/wlGnbY/JlObZukeFP3p0eW4hRzj8WFhStd5sscGifAuVSG0w/uZq7omNdVwqDEULBBeGFuwtpVkKOCgxqTMpV5n96MP9sdC41a9UnXjMieCSJ/rifAIYpKzlUi4O7Tb+EYACSEHUX+j7jBaHzuIJJaiBgn+ET2mVEyPdli9ygvOLkp21BRXvkoeRM6x6Dn38JfyCjgfVfaYgBRX6eqO6asV7Bc9HsS+aTENPyAPp3d0AzwXkJEEI4Vs9Tw== root@rejsik
+source:             DN42
