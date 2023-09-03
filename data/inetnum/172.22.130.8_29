@@ -1,0 +1,10 @@
+inetnum:            172.22.130.8 - 172.22.130.15
+cidr:               172.22.130.8/29
+netname:            MELMI-NET
+descr:              MelmiNet
+country:            US
+admin-c:            MELMI-DN42
+tech-c:             MELMI-DN42
+mnt-by:             MELMI-MNT
+status:             ASSIGNED
+source:             DN42

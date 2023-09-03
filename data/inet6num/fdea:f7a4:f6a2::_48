@@ -1,0 +1,10 @@
+inet6num:           fdea:f7a4:f6a2:0000:0000:0000:0000:0000 - fdea:f7a4:f6a2:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:f7a4:f6a2::/48
+netname:            MELMI-NET
+descr:              MelmiNet
+country:            US
+admin-c:            MELMI-DN42
+tech-c:             MELMI-DN42
+mnt-by:             MELMI-MNT
+status:             ASSIGNED
+source:             DN42
