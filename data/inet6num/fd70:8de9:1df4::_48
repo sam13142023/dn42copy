@@ -1,0 +1,12 @@
+inet6num:           fd70:8de9:1df4:0000:0000:0000:0000:0000 - fd70:8de9:1df4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:8de9:1df4::/48
+netname:            REJSIKv6-NETWORK
+descr:              Network of REJSIK - ipv6
+country:            CZ
+admin-c:            REJSIK-DN42
+tech-c:             REJSIK-DN42
+mnt-by:             REJSIK-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.rejsik.dn42
+nserver:            ns2.rejsik.dn42

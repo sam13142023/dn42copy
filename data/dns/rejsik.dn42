@@ -1,0 +1,9 @@
+domain:             rejsik.dn42
+admin-c:            REJSIK-DN42
+tech-c:             REJSIK-DN42
+mnt-by:             REJSIK-MNT
+nserver:            ns1.rejsik.dn42 172.22.135.161
+nserver:            ns1.rejsik.dn42 fd70:8de9:1df4::1
+nserver:            ns2.rejsik.dn42 172.22.135.162
+nserver:            ns2.rejsik.dn42 fd70:8de9:1df4::2
+source:             DN42

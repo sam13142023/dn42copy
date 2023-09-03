@@ -1,0 +1,5 @@
+route6:             fd70:8de9:1df4::/48
+origin:             AS4242421170
+max-length:         48
+mnt-by:             REJSIK-MNT
+source:             DN42

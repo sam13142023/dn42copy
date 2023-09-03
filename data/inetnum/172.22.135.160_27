@@ -1,0 +1,12 @@
+inetnum:            172.22.135.160 - 172.22.135.191
+cidr:               172.22.135.160/27
+netname:            REJSIK-NETWORK
+descr:              Network of REJSIK - ipv4
+country:            CZ
+admin-c:            REJSIK-DN42
+tech-c:             REJSIK-DN42
+mnt-by:             REJSIK-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.rejsik.dn42
+nserver:            ns2.rejsik.dn42
