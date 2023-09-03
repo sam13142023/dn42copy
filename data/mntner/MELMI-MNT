@@ -1,0 +1,7 @@
+mntner:             MELMI-MNT
+admin-c:            MELMI-DN42
+tech-c:             MELMI-DN42
+mnt-by:             MELMI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILc3N8cdlLZxAEBbRTZPb7RU8RSZdjsm/qbzbwc8VQCX crowley
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIECJbW2bIsr6p6x5+aydhboY6pda6ynTIZh/RndQUWLJ sisko
+source:             DN42

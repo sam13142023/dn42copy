@@ -1,0 +1,5 @@
+route6:             fdea:f7a4:f6a2::/48
+origin:             AS4242421479
+max-length:         48
+mnt-by:             MELMI-MNT
+source:             DN42
