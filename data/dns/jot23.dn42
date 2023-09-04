@@ -4,5 +4,5 @@ tech-c:             TOMKEP-DN42
 mnt-by:             TOMKEP-MNT
 nserver:            ns1.jot23.dn42 fdb1:8565:c849::53
 nserver:            ns2.jot23.dn42 fddd:fdef:2ea1::53
-ds-rdata:           49130 8 2 d6af9fff8df8c485950790d390ed684bff7c0dc2105f9f788addb5295a9de456
+ds-rdata:           52532 8 2 1A805B1ABAC91F967D0FA2EF442D1B5B0B0ADA35B47E043E79BA3FE0388EDEDD
 source:             DN42
