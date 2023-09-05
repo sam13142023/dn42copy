@@ -1,0 +1,5 @@
+route:              172.20.192.8/29
+origin:             AS4242420129
+max-length:         29
+mnt-by:             MINECON724-MNT
+source:             DN42
