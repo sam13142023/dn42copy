@@ -1,0 +1,8 @@
+inetnum:            172.22.79.96 - 172.22.79.127
+cidr:               172.22.79.96/27
+netname:            RF5-IPV4
+admin-c:            RF5-DN42
+tech-c:             RF5-DN42
+mnt-by:             RF5-MNT
+status:             ASSIGNED
+source:             DN42
