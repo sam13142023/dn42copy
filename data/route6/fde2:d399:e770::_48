@@ -1,0 +1,5 @@
+route6:             fde2:d399:e770::/48
+origin:             AS4242422930
+max-length:         48
+mnt-by:             RF5-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fde2:d399:e770:0000:0000:0000:0000:0000 - fde2:d399:e770:ffff:ffff:ffff:ffff:ffff
+netname:            RF5-IPV6
+admin-c:            RF5-DN42
+tech-c:             RF5-DN42
+mnt-by:             RF5-MNT
+status:             ASSIGNED
+cidr:               fde2:d399:e770::/48
+source:             DN42

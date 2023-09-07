@@ -1,0 +1,7 @@
+aut-num:            AS4242422930
+as-name:            RF5-AS
+descr:              RF5's Main network, open to peering.
+admin-c:            RF5-DN42
+tech-c:             RF5-DN42
+mnt-by:             RF5-MNT
+source:             DN42
