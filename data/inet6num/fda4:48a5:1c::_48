@@ -1,0 +1,10 @@
+inet6num:           fda4:48a5:001c:0000:0000:0000:0000:0000 - fda4:48a5:001c:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:48a5:1c::/48
+netname:            MUSTGROWXYZ-NETWORK
+descr:              Network of MustGrowXyz
+country:            AU
+admin-c:            MUSTGROWXYZ-DN42
+tech-c:             MUSTGROWXYZ-DN42
+mnt-by:             MUSTGROWXYZ-MNT
+status:             ASSIGNED
+source:             DN42
