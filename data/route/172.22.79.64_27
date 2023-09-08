@@ -1,0 +1,5 @@
+route:              172.22.79.64/27
+origin:             AS4242421085
+max-length:         27
+mnt-by:             NOCTEMNET-MNT
+source:             DN42

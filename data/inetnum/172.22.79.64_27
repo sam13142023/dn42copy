@@ -1,0 +1,10 @@
+inetnum:            172.22.79.64 - 172.22.79.95
+cidr:               172.22.79.64/27
+netname:            NOCTEMNET-NETWORK
+descr:              Network of NOCTEMNET
+country:            US
+admin-c:            NOCTEMNET-DN42
+tech-c:             NOCTEMNET-DN42
+mnt-by:             NOCTEMNET-MNT
+status:             ASSIGNED
+source:             DN42
