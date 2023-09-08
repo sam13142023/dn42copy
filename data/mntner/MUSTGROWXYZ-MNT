@@ -1,0 +1,8 @@
+mntner:             MUSTGROWXYZ-MNT
+descr:              MustGrowXyz Maintainer object
+admin-c:            MUSTGROWXYZ-DN42
+tech-c:             MUSTGROWXYZ-DN42
+mnt-by:             MUSTGROWXYZ-MNT
+source:             DN42
+auth:               pgp-fingerprint 271B13D110D49665DBEE57E6F1952B4BD8385CB2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCkDduFi+c8sDhSr5hSdrC5nWUo11EqK5I/1kL2yk2hZ7BWFjhitNBiyfFLG76EUKydrdIELgmEnd5GGiu3NczsadxDoJ2AZuk3raMz1GChIDhd02Cway8bwOK8fC2peaiXPiftax+ir4f/E52Gz7Pcknums4K2c/24vgNhongP3frbtKGqJP5BuJyAGQ4jAvh7Z9OFaxiUrg+kgeZQ1YDVhDUY4gw2u/VpzKmRyC01EkP7TnZ0dzsl44YdT5iF5yovJaLEK7YnHObbSo8ZEnwHpTJtV0pJ8KM6kS+pI/5Wmihv9bb8Jv8KeG7teYIjDCDiygeNba7RvXLL9gLRCcx/+YvA6TTZ8aV/peaF5SNJqHY+NiOUOh60FkOZjXf8Z963qoZxARZLqb+CEOP1Ngkj6zRbdBYVnUvZdpcNOIIHJOL8EO3eMe/h+Ahoh6jGXY7fC7wt7TpH+5qfq/m6XRQueBACeFTm0Ax8ateMOIEwHeDKEZfr5QxnOMtp8/ZANi63RvGZDDTgKQsqIwA8eT4K5MEmXdqjLq/i6AVML1AQrnzWSrLCSHy2YZd351yvG77wq1n1NxdV148Rqx/eOetapwKf4CMnFcxUW/fcqFktjGJzhnau9pQ7h+nZ2/Fxfvkc4EbhfD8EFq+SoYk7o1ZCM7KPXKkVnK/aX92HeXs2+Q==
