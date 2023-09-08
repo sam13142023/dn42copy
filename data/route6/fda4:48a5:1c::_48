@@ -1,4 +1,4 @@
-route6:             fda4:48a5:001c::/48
+route6:             fda4:48a5:1c::/48
 origin:             AS4242422075
 max-length:         48
 mnt-by:             MUSTGROWXYZ-MNT
