@@ -1,0 +1,5 @@
+route6:             fda7:cc6e:ccd9::/48
+origin:             AS4242421085
+max-length:         48
+mnt-by:             NOCTEMNET-MNT
+source:             DN42

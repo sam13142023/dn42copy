@@ -1,0 +1,9 @@
+domain:             noctemnet.dn42
+admin-c:            NOCTEMNET-DN42
+tech-c:             NOCTEMNET-DN42
+mnt-by:             NOCTEMNET-MNT
+nserver:            ns1.noctemnet.dn42 172.22.79.65
+nserver:            ns1.noctemnet.dn42 fda7:cc6e:ccd9:53::1
+nserver:            ns2.noctemnet.dn42 172.22.79.65
+nserver:            ns2.noctemnet.dn42 fda7:cc6e:ccd9:53::2
+source:             DN42
