@@ -7,4 +7,7 @@ admin-c:            MELMI-DN42
 tech-c:             MELMI-DN42
 mnt-by:             MELMI-MNT
 status:             ASSIGNED
+nserver:            ns1.melmi.dn42
+ds-rdata:           29987 13 1 11e27c3a14620e549b7f0f7e307a99854283f4da
+ds-rdata:           29987 13 2 9f5fc0fa495a27242f4d6bc8d610139cc8503f2dfd7dce25866e047649b43a4a
 source:             DN42

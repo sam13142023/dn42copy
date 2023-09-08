@@ -1,0 +1,9 @@
+domain:             melmi.dn42
+admin-c:            MELMI-DN42
+tech-c:             MELMI-DN42
+mnt-by:             MELMI-MNT
+nserver:            ns1.melmi.dn42 172.22.130.9
+nserver:            ns1.melmi.dn42 fdea:f7a4:f6a2:53::1
+ds-rdata:           2328 13 1 9c0a27058b82b875b268b6767f9de051be50b288
+ds-rdata:           2328 13 2 04949c3b58589f0001925eeff956d4abed4c61e0bc40fdda01861158fa757c91
+source:             DN42
