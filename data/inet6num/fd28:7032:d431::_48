@@ -5,5 +5,7 @@ descr:              TGLAB Network
 admin-c:            TGLAB-DN42
 tech-c:             TGLAB-DN42
 mnt-by:             TGLAB-MNT
+nserver:            ns1.tglab.dn42
+nserver:            ns2.tglab.dn42
 status:             ASSIGNED
 source:             DN42
