@@ -1,0 +1,9 @@
+domain:             tglab.dn42
+admin-c:            TGLAB-DN42
+tech-c:             TGLAB-DN42
+mnt-by:             TGLAB-MNT
+nserver:            ns1.tglab.dn42 172.23.248.162
+nserver:            ns2.tglab.dn42 172.23.248.163
+nserver:            ns1.tglab.dn42 fd28:7032:d431::2
+nserver:            ns2.tglab.dn42 fd28:7032:d431::3
+source:             DN42
