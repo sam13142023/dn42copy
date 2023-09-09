@@ -1,0 +1,5 @@
+route6:             fd6e:33b7:1295::/48
+origin:             AS4242422925
+max-length:         48
+mnt-by:             INDIUM-MNT
+source:             DN42

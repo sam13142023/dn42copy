@@ -1,0 +1,10 @@
+inet6num:           fd6e:33b7:1295:0000:0000:0000:0000:0000 - fd6e:33b7:1295:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6e:33b7:1295::/48
+netname:            INDIUM-NETWORK
+descr:              Indium's
+country:            CN
+admin-c:            INDIUM-DN42
+tech-c:             INDIUM-DN42
+mnt-by:             INDIUM-MNT
+status:             ASSIGNED
+source:             DN42
