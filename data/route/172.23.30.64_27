@@ -1,5 +1,4 @@
 route:              172.23.30.64/27
 origin:             AS4242420315
-max-length:         27
 mnt-by:             JUSSI-MNT
 source:             DN42

@@ -1,6 +1,5 @@
 route:              172.23.231.0/27
 origin:             AS4242423786
-max-length:         27
 mnt-by:             KYBERORG-MNT
 mnt-by:             JUSSI-MNT
 source:             DN42

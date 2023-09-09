@@ -1,5 +1,4 @@
 route6:             fd20:30:40::/48
 origin:             AS4242420315
-max-length:         48
 mnt-by:             JUSSI-MNT
 source:             DN42
