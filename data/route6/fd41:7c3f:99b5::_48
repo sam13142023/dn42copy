@@ -1,0 +1,5 @@
+route6:             fd41:7c3f:99b5::/48
+origin:             AS4242423879
+max-length:         48
+mnt-by:             2B3R-MNT
+source:             DN42
