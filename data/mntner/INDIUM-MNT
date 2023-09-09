@@ -1,0 +1,6 @@
+mntner:             INDIUM-MNT
+admin-c:            INDIUM-DN42
+tech-c:             INDIUM-DN42
+mnt-by:             INDIUM-MNT
+source:             DN42
+auth:               pgp-fingerprint 9404032DB37C63520F733594BA24F8FDA70F1607
