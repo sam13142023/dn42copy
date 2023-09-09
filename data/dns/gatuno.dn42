@@ -2,6 +2,6 @@ domain:             gatuno.dn42
 admin-c:            GATUNO-DN42
 tech-c:             GATUNO-DN42
 mnt-by:             GATUNO-MNT
-nserver:            ns1.gatuno.dn42 172.22.122.9
-nserver:            ns1.gatuno.dn42 fd42:470:f0ef::9
+nserver:            ns1.gatuno.dn42 172.22.122.15
+nserver:            ns1.gatuno.dn42 fd42:470:f0ef::15
 source:             DN42
