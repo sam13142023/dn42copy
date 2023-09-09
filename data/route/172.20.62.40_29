@@ -1,0 +1,5 @@
+route:              172.20.62.40/29
+origin:             AS4242422075
+max-length:         29
+mnt-by:             MUSTGROWXYZ-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.62.40 - 172.20.62.47
+cidr:               172.20.62.40/29
+netname:            MUSTGROWXYZ-NETWORK
+descr:              Network of MustGrowXyz
+country:            AU
+admin-c:            MUSTGROWXYZ-DN42
+tech-c:             MUSTGROWXYZ-DN42
+mnt-by:             MUSTGROWXYZ-MNT
+status:             ASSIGNED
+source:             DN42
