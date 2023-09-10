@@ -1,0 +1,11 @@
+inetnum:            172.23.131.96-172.23.131.127
+cidr:               172.23.131.96/27
+netname:            PGNHD-NETWORK-IPV4
+descr:              Network of PGNHD-DN42
+country:            DE
+admin-c:            PGNHD-DN42
+tech-c:             PGNHD-DN42
+mnt-by:             PGNHD-MNT
+status:             ASSIGNED
+nserver:            ns1.pgnhd.dn42
+source:             DN42
