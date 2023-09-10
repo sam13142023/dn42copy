@@ -1,0 +1,10 @@
+inet6num:           fd41:7c3f:99b5:0000:0000:0000:0000:0000 - fd41:7c3f:99b5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:7c3f:99b5::/48
+netname:            2B3R-NETWORK
+descr:              Network of 2B3R
+country:            UK
+admin-c:            2B3R-DN42
+tech-c:             2B3R-DN42
+mnt-by:             2B3R-MNT
+status:             ASSIGNED
+source:             DN42

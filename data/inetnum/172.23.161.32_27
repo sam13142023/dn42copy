@@ -1,0 +1,10 @@
+inetnum:            172.23.161.32 - 172.23.161.63
+cidr:               172.23.161.32/27
+netname:            2B3R-NETWORK
+descr:              Network of 2B3R
+country:            UK
+admin-c:            2B3R-DN42
+tech-c:             2B3R-DN42
+mnt-by:             2B3R-MNT
+status:             ASSIGNED
+source:             DN42
