@@ -1,0 +1,7 @@
+domain:             maya.dn42
+admin-c:            MAYA-DN42
+tech-c:             MAYA-DN42
+mnt-by:             MAYA-MNT
+nserver:            ns1.maya.dn42 fd3b:d3a:3d6::2:1
+nserver:            ns2.maya.dn42 fd3b:d3a:3d6::2:2
+source:             DN42

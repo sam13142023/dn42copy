@@ -1,0 +1,12 @@
+inet6num:           fd3b:0d3a:03d6:0000:0000:0000:0000:0000 - fd3b:0d3a:03d6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3b:d3a:3d6::/48
+netname:            MAYA-RED
+descr:              Red Maya
+country:            ES
+admin-c:            MAYA-DN42
+tech-c:             MAYA-DN42
+mnt-by:             MAYA-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.maya.dn42
+nserver:            ns2.maya.dn42

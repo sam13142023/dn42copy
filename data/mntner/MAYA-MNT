@@ -1,0 +1,6 @@
+mntner:             MAYA-MNT
+admin-c:            MAYA-DN42
+tech-c:             MAYA-DN42
+mnt-by:             MAYA-MNT
+auth:               pgp-fingerprint ECFB86EECB1236448A06970AAABAB510F1BC251C
+source:             DN42
