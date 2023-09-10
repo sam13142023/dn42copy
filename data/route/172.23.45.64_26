@@ -1,0 +1,4 @@
+route:              172.23.45.64/26
+origin:             AS4242421330
+mnt-by:             HACKER-MNT
+source:             DN42

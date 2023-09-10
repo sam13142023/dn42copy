@@ -1,6 +1,6 @@
-inetnum:            172.23.13.96 - 172.23.13.127
-cidr:               172.23.13.96/27
-netname:            HACKER-NETWORK-1
+inetnum:            172.23.45.64 - 172.23.45.127
+cidr:               172.23.45.64/26
+netname:            HACKER-NETWORK-2
 descr:              hacker's network
 admin-c:            HACKER-DN42
 tech-c:             HACKER-DN42
