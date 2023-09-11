@@ -1,0 +1,5 @@
+route6:             fda8:b49d:98d5::/48
+origin:             AS4242421433
+max-length:         48
+mnt-by:             FORTERA-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             FORTERA-MNT
+admin-c:            FORTERA-DN42
+tech-c:             FORTERA-DN42
+mnt-by:             FORTERA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG7xe/q/YrFu0FIhnphP2ft+d0iwjcokanGow6f/O6jJ
+source:             DN42

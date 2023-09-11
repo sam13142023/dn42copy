@@ -1,0 +1,10 @@
+inet6num:           fda8:b49d:98d5:0000:0000:0000:0000:0000 - fda8:b49d:98d5:ffff:ffff:ffff:ffff:ffff
+cidr:               fda8:b49d:98d5::/48
+netname:            FORTERA-NETWORK
+descr:              Primary IPv6 block for Fortera
+country:            AU
+admin-c:            FORTERA-DN42
+tech-c:             FORTERA-DN42
+mnt-by:             FORTERA-MNT
+status:             ASSIGNED
+source:             DN42
