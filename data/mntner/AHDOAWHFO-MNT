@@ -1,0 +1,8 @@
+mntner:             AHDOAWHFO-MNT
+admin-c:            AHDOAWHFO-DN42
+tech-c:             AHDOAWHFO-DN42
+mnt-by:             AHDOAWHFO-MNT
+source:             DN42
+auth:               pgp-fingerprint D7F059C1E1C22205AF264EEFE08C292435F7A129
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINJ2jGtJJhBPlA5wxE7QKADSaTHCcaqG6ZnAk06VPu9T
+remarks:            AHDOAWHFO'S MNTNER

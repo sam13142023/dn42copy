@@ -1,0 +1,11 @@
+inetnum:            172.22.118.192 - 172.22.118.255
+netname:            AHDOAWHFO-IPV4
+remarks:            Peer with me at ahdoawhfo@gmail.com
+descr:              Peer with me at ahdoawhfo@gmail.com
+country:            US
+admin-c:            AHDOAWHFO-DN42
+tech-c:             AHDOAWHFO-DN42
+mnt-by:             AHDOAWHFO-MNT
+status:             ASSIGNED
+cidr:               172.22.118.192/26
+source:             DN42
