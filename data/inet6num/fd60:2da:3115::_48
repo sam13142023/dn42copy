@@ -1,0 +1,10 @@
+inet6num:           fd60:02da:3115:0000:0000:0000:0000:0000 - fd60:02da:3115:ffff:ffff:ffff:ffff:ffff
+netname:            AHDOAWHFO-IPV6
+descr:              Peer with me at ahdoawhfo@gmail.com
+country:            US
+admin-c:            AHDOAWHFO-DN42
+tech-c:             AHDOAWHFO-DN42
+mnt-by:             AHDOAWHFO-MNT
+status:             ASSIGNED
+cidr:               fd60:2da:3115::/48
+source:             DN42
