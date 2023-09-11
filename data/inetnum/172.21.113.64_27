@@ -1,0 +1,10 @@
+inetnum:            172.21.113.64 - 172.21.113.95
+cidr:               172.21.113.64/27
+netname:            FORTERA-NETWORK
+descr:              Primary IPv4 block of Fortera
+country:            AU
+admin-c:            FORTERA-DN42
+tech-c:             FORTERA-DN42
+mnt-by:             FORTERA-MNT
+status:             ASSIGNED
+source:             DN42
