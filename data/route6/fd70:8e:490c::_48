@@ -1,0 +1,5 @@
+route6:             fd70:8e:490c::/48
+origin:             AS4242422183
+max-length:         48
+mnt-by:             PGNHD-MNT
+source:             DN42
