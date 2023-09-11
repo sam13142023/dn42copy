@@ -1,4 +1,4 @@
-inetnum:            172.23.131.96-172.23.131.127
+inetnum:            172.23.131.96 - 172.23.131.127
 cidr:               172.23.131.96/27
 netname:            PGNHD-NETWORK-IPV4
 descr:              Network of PGNHD-DN42
