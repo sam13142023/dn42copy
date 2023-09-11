@@ -1,0 +1,5 @@
+route6:             fd3b:d3a:3d6::/48
+origin:             AS4242422711
+max-length:         48
+mnt-by:             MAYA-MNT
+source:             DN42
