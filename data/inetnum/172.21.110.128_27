@@ -1,0 +1,10 @@
+inetnum:            172.21.110.128 - 172.21.110.159
+cidr:               172.21.110.128/27
+netname:            Indium-IPv4
+descr:              Network of Indium's
+country:            CN
+admin-c:            INDIUM-DN42
+tech-c:             INDIUM-DN42
+mnt-by:             INDIUM-MNT
+status:             ASSIGNED
+source:             DN42
