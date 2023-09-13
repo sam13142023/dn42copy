@@ -1,5 +1,5 @@
-inet6num:           fd42:9707:96bd:0000:0000:0000:0000:0000 - fd42:9707:96bd:ffff:ffff:ffff:ffff:ffff
-cidr:               fd42:9707:96bd::/48
+inet6num:           fd70:2618:53d4:0000:0000:0000:0000:0000 - fd70:2618:53d4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:2618:53d4::/48
 netname:            FELIX-NET
 descr:              Felix Core Network
 country:            US
