@@ -1,0 +1,5 @@
+route:              172.21.110.128/27
+origin:             AS4242422925
+max-length:         27
+mnt-by:             INDIUM-MNT
+source:             DN42
