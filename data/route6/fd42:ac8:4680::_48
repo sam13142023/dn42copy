@@ -1,5 +1,5 @@
 route6:             fd42:ac8:4680::/48
-origin:             AS4242422960
+origin:             AS4242421320
 max-length:         48
 mnt-by:             LEMONRFX-MNT
 source:             DN42
