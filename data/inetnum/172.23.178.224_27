@@ -1,0 +1,10 @@
+inetnum:            172.23.178.224 - 172.23.178.255
+cidr:               172.23.178.224/27
+netname:            HISH-NETWORK
+descr:              My Personal IPv4 Network
+country:            UA
+admin-c:            HISHAC-DN42
+tech-c:             HISHAC-DN42
+mnt-by:             HISHAC-MNT
+status:             ASSIGNED
+source:             DN42
