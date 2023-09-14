@@ -5,4 +5,6 @@ tech-c:             FELIX-DN42
 mnt-by:             FELIX-MNT
 nserver:            ns1.felix.dn42 172.21.121.2
 nserver:            ns1.felix.dn42 fd70:2618:53d4::2
+ds-rdata:           51191 13 2 51de3419c73e88ff899f7f2ad385324d4cf36d9b946a55dcdcd4bf72b37899d1
+ds-rdata:           51191 13 4 7c92758f21faa535615ff42c338d769f8becd76e096c78e5fb3de3859ca56b2630c87c9bdc4732bf720b2ddc5a759f6d
 source:             DN42
