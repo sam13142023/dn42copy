@@ -7,5 +7,7 @@ admin-c:            FELIX-DN42
 tech-c:             FELIX-DN42
 mnt-by:             FELIX-MNT
 nserver:            ns1.felix.dn42
+ds-rdata:           14433 13 2 1818a5c91900e76e9df685fd9a6084ff180231fb6277f8407401a5781f0130cd
+ds-rdata:           14433 13 4 fe91244540b77816f7941493618d8f2d275e79eb9196b4bf0990946c10ae65152c28af61f7125bf9b50c9ef26153d69c
 status:             ASSIGNED
 source:             DN42
