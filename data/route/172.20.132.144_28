@@ -1,5 +1,5 @@
 route:              172.20.132.144/28
-origin:             AS4242422960
+origin:             AS4242421320
 max-length:         28
 mnt-by:             LEMONRFX-MNT
 source:             DN42
