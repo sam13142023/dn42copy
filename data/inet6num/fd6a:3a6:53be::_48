@@ -1,0 +1,10 @@
+inet6num:           fd6a:03a6:53be:0000:0000:0000:0000:0000 - fd6a:03a6:53be:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6a:3a6:53be::/48
+netname:            BAKABAKA9-DN42-V6
+descr:              BAKABAKA9 DN42 Network IPv6 Block
+country:            CN
+admin-c:            BAKABAKA9-DN42
+tech-c:             BAKABAKA9-DN42
+mnt-by:             BAKABAKA9-MNT
+status:             ASSIGNED
+source:             DN42
