@@ -1,0 +1,6 @@
+mntner:             P45H3-MNT
+admin-c:            P45H3-DN42
+tech-c:             P45H3-DN42
+mnt-by:             P45H3-MNT
+source:             DN42
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBACru91dLaJsIBX4UT8zd2aRKcWKp+siFBruulEddMElHiJyQ6xaUNU2Mw+ebJ2jO8h1cby3FdXWlmr51d/QuIFqYACAECLuJCnERzYT314knsUambEuCEtlzq6ag0rvzabCYosEblXWGYMbjaUv1yjH0Nsp+0ld1ZU9oUjMPbAPeESWDw== root@dn42

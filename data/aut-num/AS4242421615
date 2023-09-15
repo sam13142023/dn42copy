@@ -1,0 +1,8 @@
+aut-num:            AS4242421615
+as-name:            P45H3-AS
+descr:              P45H3 Personal ASN
+admin-c:            P45H3-DN42
+tech-c:             P45H3-DN42
+remarks:            Peer with me at p45h3@mail.ru
+mnt-by:             P45H3-MNT
+source:             DN42

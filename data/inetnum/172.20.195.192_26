@@ -1,0 +1,11 @@
+inetnum:            172.20.195.192 - 172.20.195.255
+cidr:               172.20.195.192/26
+netname:            P45H3-NET
+descr:              My Personal IPv4 Network
+remarks:            Peer with me at p45h3@mail.ru
+country:            RU
+admin-c:            P45H3-DN42
+tech-c:             P45H3-DN42
+mnt-by:             P45H3-MNT
+status:             ASSIGNED
+source:             DN42
