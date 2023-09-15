@@ -1,0 +1,5 @@
+route:              172.21.113.96/27
+origin:             AS4242420774
+max-length:         27
+mnt-by:             XIEXILIN-MNT
+source:             DN42

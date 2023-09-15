@@ -1,0 +1,5 @@
+route6:             fd6b:ddd4:ddf4::/48
+origin:             AS4242420774
+max-length:         48
+mnt-by:             XIEXILIN-MNT
+source:             DN42
