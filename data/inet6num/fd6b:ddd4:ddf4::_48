@@ -1,0 +1,10 @@
+inet6num:           fd6b:ddd4:ddf4:0000:0000:0000:0000:0000 - fd6b:ddd4:ddf4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6b:ddd4:ddf4::/48
+netname:            BAKANETWORK
+descr:              Network for Baka
+country:            CN
+admin-c:            XIEXILIN-DN42
+tech-c:             XIEXILIN-DN42
+mnt-by:             XIEXILIN-MNT
+status:             ASSIGNED
+source:             DN42
