@@ -1,0 +1,10 @@
+inet6num:           fd41:5811:fbd5:0000:0000:0000:0000:0000 - fd41:5811:fbd5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:5811:fbd5::/48
+netname:            ZELFIX-NETWORK-IPV6
+descr:              Network of ZELFIX
+country:            NL
+admin-c:            ZELFIX-DN42
+tech-c:             ZELFIX-DN42
+mnt-by:             ZELFIX-MNT
+status:             ASSIGNED
+source:             DN42
