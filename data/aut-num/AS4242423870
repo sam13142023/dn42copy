@@ -1,0 +1,8 @@
+aut-num:            AS4242423870
+as-name:            ZELFIX
+remarks:            Peering by gre, wireguard
+descr:              ZELFIX-AS
+admin-c:            ZELFIX-DN42
+tech-c:             ZELFIX-DN42
+mnt-by:             ZELFIX-MNT
+source:             DN42
