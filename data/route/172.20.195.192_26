@@ -1,0 +1,4 @@
+route:              172.20.195.192/26
+origin:             AS4242421615
+mnt-by:             P45H3-MNT
+source:             DN42
