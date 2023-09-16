@@ -1,0 +1,11 @@
+mntner:             TRCLOUD-MNT
+admin-c:            BLUEFUNNY-DN42
+admin-c:            XIAOMCKEDOU233-DN42
+tech-c:             BLUEFUNNY-DN42
+tech-c:             XIAOMCKEDOU233-DN42
+mnt-by:             TRCLOUD-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK3HCVCcBCLFuEJDcrfbueVGrD0EBXcUNUHrELVijDeT
+auth:               pgp-fingerprint F46039B58A2C2367012162049388416141EA09AD
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFbeDirG4T9bXuqBoOgc8pHKv63LJkQFcfrKSG5wl3Y
+auth:               pgp-fingerprint AE309E2BC90046EF37C7CC5198B0EE00C9016345

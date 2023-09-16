@@ -1,0 +1,15 @@
+inet6num:           fd7f:d949:25c4:1e84:0000:0000:0000:0000 - fd7f:d949:25c4:1e84:ffff:ffff:ffff:ffff
+netname:            TRCLOUD-IPV6
+descr:              Peer with me at dn42@trcloud.network
+country:            CN
+admin-c:            BLUEFUNNY-DN42
+admin-c:            XIAOMCKEDOU233-DN42
+tech-c:             BLUEFUNNY-DN42
+tech-c:             XIAOMCKEDOU233-DN42
+org:                ORG-TRCLOUD
+mnt-by:             TRCLOUD-MNT
+nserver:            ns1.trcloud.dn42
+nserver:            ns2.trcloud.dn42
+status:             ASSIGNED
+cidr:               fd7f:d949:25c4:1e84::/64
+source:             DN42

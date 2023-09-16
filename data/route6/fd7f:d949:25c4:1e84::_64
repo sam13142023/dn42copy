@@ -1,0 +1,5 @@
+route6:             fd7f:d949:25c4:1e84::/64
+descr:              Peer with me at dn42@trcloud.network
+origin:             AS4242423597
+mnt-by:             TRCLOUD-MNT
+source:             DN42

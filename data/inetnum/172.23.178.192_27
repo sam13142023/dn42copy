@@ -1,0 +1,16 @@
+inetnum:            172.23.178.192 - 172.23.178.223
+netname:            TRCLOUD-IPV4
+remarks:            Peer with me at dn42@trcloud.network
+descr:              Peer with me at dn42@trcloud.network
+country:            CN
+admin-c:            BLUEFUNNY-DN42
+admin-c:            XIAOMCKEDOU233-DN42
+tech-c:             BLUEFUNNY-DN42
+tech-c:             XIAOMCKEDOU233-DN42
+org:                ORG-TRCLOUD
+mnt-by:             TRCLOUD-MNT
+nserver:            ns1.trcloud.dn42
+nserver:            ns2.trcloud.dn42
+status:             ASSIGNED
+cidr:               172.23.178.192/27
+source:             DN42
