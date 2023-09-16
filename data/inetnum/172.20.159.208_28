@@ -1,0 +1,10 @@
+inetnum:            172.20.159.208 - 172.20.159.223
+cidr:               172.20.159.208/28
+netname:            PEANUTS-NETWORK
+descr:              Network of PEANUTS
+country:            CA
+admin-c:            PEANUTS-DN42
+tech-c:             PEANUTS-DN42
+mnt-by:             PEANUTS-MNT
+status:             ASSIGNED
+source:             DN42
