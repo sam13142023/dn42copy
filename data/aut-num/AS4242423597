@@ -1,0 +1,10 @@
+aut-num:            AS4242423597
+as-name:            TRCLOUD-NETWORK
+descr:              Peer with me at dn42@trcloud.network
+admin-c:            BLUEFUNNY-DN42
+admin-c:            XIAOMCKEDOU233-DN42
+tech-c:             BLUEFUNNY-DN42
+tech-c:             XIAOMCKEDOU233-DN42
+org:                ORG-TRCLOUD
+mnt-by:             TRCLOUD-MNT
+source:             DN42

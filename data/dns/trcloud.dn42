@@ -1,0 +1,12 @@
+domain:             trcloud.dn42
+admin-c:            BLUEFUNNY-DN42
+admin-c:            XIAOMCKEDOU233-DN42
+tech-c:             BLUEFUNNY-DN42
+tech-c:             XIAOMCKEDOU233-DN42
+org:                ORG-TRCLOUD
+mnt-by:             TRCLOUD-MNT
+nserver:            ns1.trcloud.dn42 172.23.178.192
+nserver:            ns1.trcloud.dn42 fd7f:d949:25c4:1e84:fd3a:d343:a696:7d6a
+nserver:            ns2.trcloud.dn42 172.23.178.193
+nserver:            ns2.trcloud.dn42 fd7f:d949:25c4:1e84:fd3a:d343:a696:7d6b
+source:             DN42
