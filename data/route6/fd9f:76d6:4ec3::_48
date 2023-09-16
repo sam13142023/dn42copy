@@ -1,0 +1,5 @@
+route6:             fd9f:76d6:4ec3::/48
+origin:             AS4242422669
+max-length:         48
+mnt-by:             GROPIED-MNT
+source:             DN42
