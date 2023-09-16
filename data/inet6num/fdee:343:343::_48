@@ -1,0 +1,10 @@
+inet6num:           fdee:0343:0343:0000:0000:0000:0000:0000 - fdee:0343:0343:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:343:343::/48
+netname:            PEANUTS-NETWORK
+descr:              Network of PEANUTS
+country:            CA
+admin-c:            PEANUTS-DN42
+tech-c:             PEANUTS-DN42
+mnt-by:             PEANUTS-MNT
+status:             ASSIGNED
+source:             DN42
