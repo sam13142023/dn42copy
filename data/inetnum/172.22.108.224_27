@@ -1,0 +1,11 @@
+inetnum:            172.22.108.224 - 172.22.108.255
+cidr:               172.22.108.224/27
+netname:            VADIMP-NETWORK
+descr:              My Personal IPv4 Network
+remarks:            Peer with me at vadimparinov2014@gmail.com
+country:            RU
+admin-c:            VADIMP-DN42
+tech-c:             VADIMP-DN42
+mnt-by:             VADIMP-MNT
+status:             ASSIGNED
+source:             DN42

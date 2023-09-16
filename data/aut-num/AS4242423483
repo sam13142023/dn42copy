@@ -1,0 +1,8 @@
+aut-num:            AS4242423483
+as-name:            VADIMP-AS
+descr:              MyPersonal AS
+admin-c:            VADIMP-DN42
+tech-c:             VADIMP-DN42
+remarks:            Peer with me at vadimparinov2014@gmail.com
+mnt-by:             VADIMP-MNT
+source:             DN42

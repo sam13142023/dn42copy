@@ -1,0 +1,4 @@
+route:              172.22.108.224/27
+origin:             AS4242423483
+mnt-by:             VADIMP-MNT
+source:             DN42

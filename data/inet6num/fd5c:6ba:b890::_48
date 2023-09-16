@@ -1,0 +1,11 @@
+inet6num:           fd5c:06ba:b890:0000:0000:0000:0000:0000 - fd5c:06ba:b890:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5c:6ba:b890::/48
+netname:            VADIMP-NETWORK
+descr:              My Personal IPv6 Network
+remarks:            peer with me at me@domain.tld
+country:            RU
+admin-c:            VADIMP-DN42
+tech-c:             VADIMP-DN42
+mnt-by:             VADIMP-MNT
+status:             ASSIGNED
+source:             DN42
