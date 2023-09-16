@@ -1,0 +1,9 @@
+inetnum:            172.22.159.224 - 172.22.159.255
+netname:            HERMIT-IPV4
+country:            CN
+admin-c:            HERMIT-DN42
+tech-c:             HERMIT-DN42
+mnt-by:             HERMIT-MNT
+status:             ASSIGNED
+cidr:               172.22.159.224/27
+source:             DN42

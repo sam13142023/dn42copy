@@ -1,0 +1,4 @@
+route6:             fdac:ff5c:d136::/48
+origin:             AS4242420830
+mnt-by:             HERMIT-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.159.224/27
+origin:             AS4242420830
+max-length:         27
+mnt-by:             HERMIT-MNT
+source:             DN42
