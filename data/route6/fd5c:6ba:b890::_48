@@ -1,0 +1,4 @@
+route6:             fd5c:6ba:b890::/48
+origin:             AS4242423483
+mnt-by:             VADIMP-MNT
+source:             DN42
