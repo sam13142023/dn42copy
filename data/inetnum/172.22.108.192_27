@@ -1,0 +1,10 @@
+inetnum:            172.22.108.192 - 172.22.108.223
+cidr:               172.22.108.192/27
+netname:            GROPIED-NETWORK
+descr:              Network of GROPIED
+country:            FR
+admin-c:            GROPIED-DN42
+tech-c:             GROPIED-DN42
+mnt-by:             GROPIED-MNT
+status:             ASSIGNED
+source:             DN42

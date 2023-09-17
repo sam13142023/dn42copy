@@ -1,0 +1,5 @@
+route:              172.22.108.192/27
+origin:             AS4242422669
+max-length:         27
+mnt-by:             GROPIED-MNT
+source:             DN42
