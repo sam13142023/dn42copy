@@ -1,0 +1,11 @@
+inet6num:           fd5d:cf83:c331:0000:0000:0000:0000:0000 - fd5d:cf83:c331:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5d:cf83:c331::/48
+netname:            OPENNET-NETWORK
+descr:              OPENNET IPv6 Network
+remarks:            peer with me at peering@opennet.kz
+country:            KZ
+admin-c:            OPENNET-DN42
+tech-c:             OPENNET-DN42
+mnt-by:             OPENNET-MNT
+status:             ASSIGNED
+source:             DN42

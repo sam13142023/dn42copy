@@ -1,0 +1,7 @@
+aut-num:            AS4242423084
+as-name:            OPENNET-AS
+admin-c:            OPENNET-DN42
+tech-c:             OPENNET-DN42
+remarks:            Peer with me at peering@opennet.kz
+mnt-by:             OPENNET-MNT
+source:             DN42
