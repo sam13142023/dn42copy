@@ -1,0 +1,13 @@
+inetnum:            172.21.109.64 - 172.21.109.95
+cidr:               172.21.109.64/27
+netname:            JAPE-NETWORK
+descr:              Network of Jape
+country:            US
+admin-c:            BAGAWK-DN42
+tech-c:             BAGAWK-DN42
+mnt-by:             BAGAWK-MNT
+org:                ORG-JAPE
+status:             ASSIGNED
+nserver:            ns1.jape.dn42
+ds-rdata:           16250 15 2 9a3b1a462ae7db2faae7906f68927a7c3379840e8fbc8730449af52459b80c83
+source:             DN42

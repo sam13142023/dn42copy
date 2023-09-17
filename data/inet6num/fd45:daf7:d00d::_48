@@ -1,0 +1,13 @@
+inet6num:           fd45:daf7:d00d:0000:0000:0000:0000:0000 - fd45:daf7:d00d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd45:daf7:d00d::/48
+netname:            JAPE-NETWORK
+descr:              Network of Jape
+country:            US
+admin-c:            BAGAWK-DN42
+tech-c:             BAGAWK-DN42
+mnt-by:             BAGAWK-MNT
+status:             ASSIGNED
+nserver:            ns1.jape.dn42
+ds-rdata:           36825 15 2 effa3d88d5b26da15d1c23e616eda9fbf693d23ffe7a7d8269d21466b6914981
+org:                ORG-JAPE
+source:             DN42
