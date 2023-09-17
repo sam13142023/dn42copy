@@ -1,0 +1,11 @@
+inet6num:           fdb1:4242:3538:0000:0000:0000:0000:0000 - fdb1:4242:3538:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb1:4242:3538::/48
+netname:            BITRAF-NETWORK
+descr:              Network of Bitraf
+country:            NO
+org:                ORG-BITRAF
+admin-c:            TRYGVIS-DN42
+tech-c:             TRYGVIS-DN42
+mnt-by:             TRYGVIS-MNT
+status:             ASSIGNED
+source:             DN42

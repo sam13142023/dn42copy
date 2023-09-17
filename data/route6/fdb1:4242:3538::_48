@@ -1,0 +1,5 @@
+route6:             fdb1:4242:3538::/48
+origin:             AS4242423538
+descr:              BITRAF
+mnt-by:             TRYGVIS-MNT
+source:             DN42
