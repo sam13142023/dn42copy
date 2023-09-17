@@ -1,0 +1,7 @@
+mntner:             TRYGVIS-MNT
+admin-c:            TRYGVIS-DN42
+tech-c:             TRYGVIS-DN42
+mnt-by:             TRYGVIS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL3UZyrbXX7WMHqcZCRspkoSIfB6egrbOxXPf1zyZkAw trygvis@arius-v4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEkisPUAai4P3Scj1gWdV2TcDr54tb20BDy0NAkGOZnF trygvis@akili-v2
+source:             DN42
