@@ -1,0 +1,6 @@
+mntner:             HERMIT-MNT
+admin-c:            HERMIT-DN42
+tech-c:             HERMIT-DN42
+mnt-by:             HERMIT-MNT
+source:             DN42
+auth:               pgp-fingerprint 452EED58976AEF46A128D7418B0754DED7F72FB9

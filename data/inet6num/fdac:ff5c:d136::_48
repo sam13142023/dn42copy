@@ -1,0 +1,9 @@
+inet6num:           fdac:ff5c:d136:0000:0000:0000:0000:0000 - fdac:ff5c:d136:ffff:ffff:ffff:ffff:ffff
+netname:            HERMIT-IPV6
+country:            CN
+admin-c:            HERMIT-DN42
+tech-c:             HERMIT-DN42
+mnt-by:             HERMIT-MNT
+status:             ASSIGNED
+cidr:               fdac:ff5c:d136::/48
+source:             DN42
