@@ -1,0 +1,5 @@
+route6:             fd45:daf7:d00d::/48
+origin:             AS4242422949
+max-length:         48
+mnt-by:             BAGAWK-MNT
+source:             DN42

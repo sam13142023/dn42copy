@@ -1,0 +1,9 @@
+domain:             jape.dn42
+admin-c:            BAGAWK-DN42
+tech-c:             BAGAWK-DN42
+mnt-by:             BAGAWK-MNT
+nserver:            ns1.jape.dn42 172.21.109.65
+nserver:            ns1.jape.dn42 fd45:daf7:d00d::1
+ds-rdata:           28456 15 2 830c1b426640329ae9074b305894fb19540d3fa5d2d75e43346c2e4a56fbc90a
+org:                ORG-JAPE
+source:             DN42

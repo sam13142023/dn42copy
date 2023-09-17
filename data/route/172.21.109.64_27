@@ -1,0 +1,5 @@
+route:              172.21.109.64/27
+origin:             AS4242422949
+max-length:         27
+mnt-by:             BAGAWK-MNT
+source:             DN42

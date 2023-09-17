@@ -1,0 +1,6 @@
+mntner:             BAGAWK-MNT
+admin-c:            BAGAWK-DN42
+tech-c:             BAGAWK-DN42
+mnt-by:             BAGAWK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMXeKz01tmS0jbU+A0G65QmlKQ/6LilQ59KVqJeKCqrm
+source:             DN42
