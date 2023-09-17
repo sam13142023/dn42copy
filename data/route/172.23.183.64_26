@@ -1,0 +1,5 @@
+route:              172.23.183.64/26
+origin:             AS4242423084
+max-length:         26
+mnt-by:             OPENNET-MNT
+source:             DN42

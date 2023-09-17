@@ -1,0 +1,11 @@
+inetnum:            172.23.183.64 - 172.23.183.127
+cidr:               172.23.183.64/26
+netname:            OPENNET-NETWORK
+descr:              OPENNET IPv4 Network
+remarks:            Peer with me at peering@opennet.kz
+country:            KZ
+admin-c:            OPENNET-DN42
+tech-c:             OPENNET-DN42
+mnt-by:             OPENNET-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd5d:cf83:c331::/48
+origin:             AS4242423084
+max-length:         48
+mnt-by:             OPENNET-MNT
+source:             DN42

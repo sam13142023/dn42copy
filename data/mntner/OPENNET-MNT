@@ -1,0 +1,6 @@
+mntner:             OPENNET-MNT
+admin-c:            OPENNET-DN42
+tech-c:             OPENNET-DN42
+mnt-by:             OPENNET-MNT
+source:             DN42
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAAeXjBvhOvEsCJHy1slmXGzaPTa/NQoKoRQDDK8vN4Nee36q0ywXT/o6E5MemCBr3aho2iRbhzismj3zqKOFPtvFADuH0ENe5Qr41q64Yxq5TJ2ZJ2V+E0f6RxOQ7WM6qyMpndE32fJEJ0BninW+QvRCPZd3vsRPBVvtnJZbO0cFT9oKw== bash@DN42-git
