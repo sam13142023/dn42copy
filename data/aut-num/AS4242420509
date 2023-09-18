@@ -1,0 +1,8 @@
+aut-num:            AS4242420509
+as-name:            IPFW-AS
+descr:              My IPFW Personal AS
+admin-c:            IPFW-DN42
+tech-c:             IPFW-DN42
+remarks:            Peer with me at ipfw24@gmail.com or another human-oriented message
+mnt-by:             IPFW-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             IPFW-MNT
+admin-c:            IPFW-DN42
+tech-c:             IPFW-DN42
+mnt-by:             IPFW-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDS9Wfc2odcS1OkBOSQICwuw4W0V+6gg0ckNP/QhdnM2set9KGLgExjOPQNpcfY3vCQCJQQmnxugHqKYh9MvPqYXM1LPT6bI2x4Q70LvAmuFyP4q9yaJ7PZNrknJNMld5me3WTmu4ni33X+F9QB9RexKX8W0pNTJiMVRmneR+9RRdzpUNm2iCN6/KH/xz6VEFLMw5N/7FjfppjjFJ+WGULZsMy2UsUcT3NC7rBR21yrvhmLDImG/Dq48sAraRGUzmgLAJ/cGBlkvf+XeW/gBBAeX5iaadKCFj31ez0MTlYJ3zeG9jJW4+DcfP4UFiZo4B+GlksyCU1NfRymteNKFnHcfFbrcEhQ9jsU6o+1KeF5BXGdE6hT3KGjCT1QuFTHuXha8qLW2272GY6r9DbJKmt0l6oN+G5OuHW6CabMCCsnIH21KKB8D4pwjeJH+fezJBmFREkh2+zHULwAWPIqrfbBIAIpXq4BP3g4QhmlECFZtcPi0VxTQrby5C0TxjF0Pc8= u0_a342@localhost
