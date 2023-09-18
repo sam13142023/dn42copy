@@ -1,0 +1,6 @@
+domain:             cent.dn42
+admin-c:            CENT-DN42
+tech-c:             CENT-DN42
+mnt-by:             CENT-MNT
+nserver:            ns1.cent.dn42 fd00:aaeb:a55a:1337::3
+source:             DN42

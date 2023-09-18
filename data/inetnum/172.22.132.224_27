@@ -6,4 +6,5 @@ admin-c:            CENT-DN42
 tech-c:             CENT-DN42
 mnt-by:             CENT-MNT
 status:             ASSIGNED
+nserver:            ns1.cent.dn42
 source:             DN42
