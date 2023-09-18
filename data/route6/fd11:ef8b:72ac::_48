@@ -1,0 +1,5 @@
+route6:             fd11:ef8b:72ac::/48
+origin:             AS4242421161
+max-length:         48
+mnt-by:             MINECON724-MNT
+source:             DN42
