@@ -1,0 +1,4 @@
+route:              172.21.110.224/27
+origin:             AS4242420509
+mnt-by:             IPFW-MNT
+source:             DN42

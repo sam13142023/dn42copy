@@ -1,0 +1,11 @@
+inet6num:           fd95:fb4b:ac0f:0000:0000:0000:0000:0000 - fd95:fb4b:ac0f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd95:fb4b:ac0f::/48
+netname:            IPFW-NETWORK
+descr:              My IPv6 Network
+remarks:            peer with me at ipfw24@gmail.com
+country:            RU
+admin-c:            IPFW-DN42
+tech-c:             IPFW-DN42
+mnt-by:             IPFW-MNT
+status:             ASSIGNED
+source:             DN42

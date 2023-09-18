@@ -1,0 +1,4 @@
+route6:             fd95:fb4b:ac0f::/48
+origin:             AS4242420509
+mnt-by:             IPFW-MNT
+source:             DN42

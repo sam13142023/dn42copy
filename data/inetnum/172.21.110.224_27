@@ -1,0 +1,11 @@
+inetnum:            172.21.110.224 - 172.21.110.255
+cidr:               172.21.110.224/27
+netname:            IPFW-NETWORK
+descr:              My IPv4 Network
+remarks:            Peer with me at ipfw24@gmail.com
+country:            RU
+admin-c:            IPFW-DN42
+tech-c:             IPFW-DN42
+mnt-by:             IPFW-MNT
+status:             ASSIGNED
+source:             DN42
