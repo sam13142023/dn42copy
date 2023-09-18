@@ -1,0 +1,8 @@
+aut-num:            AS4242420902
+as-name:            ANDREY0001-AS
+descr:              ANDREY0001 Personal AS
+admin-c:            ANDREY0001-DN42
+tech-c:             ANDREY0001-DN42
+remarks:            Peer with me at sa@sorokin.org (Wireguard only)
+mnt-by:             ANDREY0001-MNT
+source:             DN42

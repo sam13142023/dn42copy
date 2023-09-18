@@ -1,0 +1,5 @@
+route6:             fd47:8ce0:e3::/48
+origin:             AS4242420902
+mnt-by:             ANDREY0001-MNT
+max-length:         48
+source:             DN42

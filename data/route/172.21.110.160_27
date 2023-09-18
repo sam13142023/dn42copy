@@ -1,0 +1,5 @@
+route:              172.21.110.160/27
+origin:             AS4242420902
+max-length:         27
+mnt-by:             ANDREY0001-MNT
+source:             DN42
