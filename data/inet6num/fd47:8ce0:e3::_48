@@ -1,0 +1,12 @@
+inet6num:           fd47:8ce0:00e3:0000:0000:0000:0000:0000 - fd47:8ce0:00e3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd47:8ce0:e3::/48
+netname:            ANDREY0001-NETWORK
+descr:              ANDREY0001 Personal IPv6 Network
+remarks:            peer with me at sa@sorokin.org
+country:            AZ
+admin-c:            ANDREY0001-DN42
+tech-c:             ANDREY0001-DN42
+mnt-by:             ANDREY0001-MNT
+nserver:            ns1.andrey0001.dn42
+status:             ASSIGNED
+source:             DN42

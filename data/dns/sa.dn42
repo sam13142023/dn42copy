@@ -1,0 +1,6 @@
+domain:             sa.dn42
+admin-c:            ANDREY0001-DN42
+tech-c:             ANDREY0001-DN42
+mnt-by:             ANDREY0001-MNT
+nserver:            ns1.andrey0001.dn42
+source:             DN42

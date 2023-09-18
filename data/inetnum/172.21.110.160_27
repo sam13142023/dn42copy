@@ -1,0 +1,12 @@
+inetnum:            172.21.110.160 - 172.21.110.191
+cidr:               172.21.110.160/27
+netname:            ANDREY0001-NETWORK
+descr:              ANDREY0001 IPv4 Network
+remarks:            Peer with me at sa@sorokin.org
+country:            AZ
+admin-c:            ANDREY0001-DN42
+tech-c:             ANDREY0001-DN42
+mnt-by:             ANDREY0001-MNT
+nserver:            ns1.andrey0001.dn42
+status:             ASSIGNED
+source:             DN42
