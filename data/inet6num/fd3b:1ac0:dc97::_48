@@ -1,0 +1,10 @@
+inet6num:           fd3b:1ac0:dc97:0000:0000:0000:0000:0000 - fd3b:1ac0:dc97:ffff:ffff:ffff:ffff:ffff
+netname:            ADRA-NET6
+descr:              IPv6 block for ADRA network
+country:            FR
+admin-c:            BABZ-DN42
+tech-c:             BABZ-DN42
+mnt-by:             ADRA-MNT
+status:             ASSIGNED
+cidr:               fd3b:1ac0:dc97::/48
+source:             DN42
