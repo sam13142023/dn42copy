@@ -1,0 +1,5 @@
+route:              172.21.68.192/27
+origin:             AS4242420868
+max-length:         27
+mnt-by:             KHOA-MNT
+source:             DN42
