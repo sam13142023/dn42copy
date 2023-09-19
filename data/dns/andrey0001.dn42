@@ -3,5 +3,7 @@ admin-c:            ANDREY0001-DN42
 tech-c:             ANDREY0001-DN42
 mnt-by:             ANDREY0001-MNT
 nserver:            ns1.andrey0001.dn42 172.21.110.169
+nserver:            ns2.andrey0001.dn42 172.21.110.162
 nserver:            ns1.andrey0001.dn42 fd47:8ce0:e3:410::1
+nserver:            ns2.andrey0001.dn42 fd47:8ce0:e3::162
 source:             DN42
