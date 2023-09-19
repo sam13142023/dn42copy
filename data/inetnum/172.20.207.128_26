@@ -1,0 +1,12 @@
+inetnum:            172.20.207.128 - 172.20.207.191
+cidr:               172.20.207.128/26
+netname:            PROLAN-NETWORK
+descr:              Test Anycast routing
+remarks:            Peer with me at root@prolan.pw
+country:            RU
+admin-c:            PROLAN-DN42
+tech-c:             PROLAN-DN42
+mnt-by:             PROLAN-MNT
+status:             ASSIGNED
+nserver:            ns1.prolan.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd0a:1ed1:bbb6::/48
+origin:             AS4242421195
+max-length:         50
+mnt-by:             PROLAN-MNT
+source:             DN42

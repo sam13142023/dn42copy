@@ -1,0 +1,8 @@
+domain:             prolan.dn42
+descr:              Prolan
+admin-c:            PROLAN-DN42
+tech-c:             PROLAN-DN42
+mnt-by:             PROLAN-MNT
+nserver:            ns1.prolan.dn42 172.20.193.161
+nserver:            ns1.prolan.dn42 fd0a:1ed1:bbb6::
+source:             DN42

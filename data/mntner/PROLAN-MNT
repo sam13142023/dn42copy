@@ -1,0 +1,6 @@
+mntner:             PROLAN-MNT
+admin-c:            PROLAN-DN42
+tech-c:             PROLAN-DN42
+mnt-by:             PROLAN-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGG2ZJudSwpn3O/m9BgGfN1NVPmTGRsqPdV5RmRYeKNN
