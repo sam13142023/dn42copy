@@ -1,0 +1,7 @@
+mntner:             GARRY-MNT
+admin-c:            GARRY-DN42
+tech-c:             GARRY-DN42
+mnt-by:             GARRY-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBOFSURMhb8gM3aQKtFfeqCnURU4bC9qbMRDzFgdcz0
+auth:               pgp-fingerprint 101E2D39517621CD8CC31871BA7471A05D60F412
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.114.224 - 172.23.114.255
+cidr:               172.23.114.224/27
+netname:            PEPETELCO-NETWORKV4
+descr:              Pepetelecom ipv4 net
+country:            FR
+admin-c:            GARRY-DN42
+tech-c:             GARRY-DN42
+mnt-by:             GARRY-MNT
+status:             ASSIGNED
+source:             DN42
