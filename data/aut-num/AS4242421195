@@ -1,0 +1,8 @@
+aut-num:            AS4242421195
+as-name:            PROLAN-AS
+descr:              ASN For test Anycast
+admin-c:            PROLAN-DN42
+tech-c:             PROLAN-DN42
+remarks:            Peer with me at root@prolan.pw
+mnt-by:             PROLAN-MNT
+source:             DN42

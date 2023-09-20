@@ -1,0 +1,5 @@
+route:              172.20.207.128/26
+origin:             AS4242421195
+max-length:         28
+mnt-by:             PROLAN-MNT
+source:             DN42

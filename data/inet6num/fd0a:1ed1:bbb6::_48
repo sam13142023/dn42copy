@@ -1,0 +1,12 @@
+inet6num:           fd0a:1ed1:bbb6:0000:0000:0000:0000:0000 - fd0a:1ed1:bbb6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0a:1ed1:bbb6::/48
+netname:            PROLANv6-NETWORK
+descr:              My Personal IPv6 Network
+remarks:            peer with me at root@prolan.pw
+country:            RU
+admin-c:            PROLAN-DN42
+tech-c:             PROLAN-DN42
+mnt-by:             PROLAN-MNT
+status:             ASSIGNED
+nserver:            ns1.prolan.dn42
+source:             DN42
