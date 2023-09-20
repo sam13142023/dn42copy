@@ -1,0 +1,6 @@
+route:              172.23.247.16/28
+max-length:         28
+descr:              pixia2005@gmail.com
+origin:             AS4242423729
+mnt-by:             PIXIA-MNT
+source:             DN42

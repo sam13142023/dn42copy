@@ -1,0 +1,9 @@
+inet6num:           fd83:4f44:4298:0000:0000:0000:0000:0000 - fd83:4f44:4298:ffff:ffff:ffff:ffff:ffff
+netname:            PIXIA-ipv6
+country:            CN
+admin-c:            PIXIA-DN42
+tech-c:             PIXIA-DN42
+mnt-by:             PIXIA-MNT
+status:             ASSIGNED
+cidr:               fd83:4f44:4298::/48
+source:             DN42
