@@ -1,0 +1,4 @@
+route:              172.23.114.224/27
+origin:             AS4242420551
+mnt-by:             GARRY-MNT
+source:             DN42
