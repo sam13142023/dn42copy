@@ -1,0 +1,12 @@
+inetnum:            172.20.171.192 - 172.20.171.223
+cidr:               172.20.171.192/27
+netname:            HUDYS-NETWORK
+descr:              Network of HudyLan.dn42
+country:            CZ
+admin-c:            HUDYS-DN42
+tech-c:             HUDYS-DN42
+mnt-by:             HUDYS-MNT
+nserver:            ns1.hudylan.dn42
+nserver:            ns2.hudylan.dn42
+status:             ASSIGNED
+source:             DN42

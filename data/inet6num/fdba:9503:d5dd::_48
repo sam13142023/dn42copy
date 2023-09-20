@@ -1,0 +1,12 @@
+inet6num:           fdba:9503:d5dd:0000:0000:0000:0000:0000 - fdba:9503:d5dd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdba:9503:d5dd::/48
+netname:            HUDYS-NETWORK
+descr:              Network of HudyLan.dn42
+country:            CZ
+admin-c:            HUDYS-DN42
+tech-c:             HUDYS-DN42
+mnt-by:             HUDYS-MNT
+nserver:            ns1.hudylan.dn42
+nserver:            ns2.hudylan.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdba:9503:d5dd::/48
+origin:             AS4242422919
+max-length:         48
+mnt-by:             HUDYS-MNT
+source:             DN42
