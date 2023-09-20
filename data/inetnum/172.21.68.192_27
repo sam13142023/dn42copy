@@ -1,5 +1,6 @@
 inetnum:            172.21.68.192 - 172.21.68.223
 cidr:               172.21.68.192/27
+nserver:            ns.khoa.dn42
 netname:            KHOA-NETWORK
 status:             ASSIGNED
 admin-c:            KHOA-DN42

@@ -1,5 +1,5 @@
-aut-num:            AS4242420868
-as-name:            KHOA-AS
+domain:             khoa.dn42
+nserver:            ns.khoa.dn42 172.21.68.222
 admin-c:            KHOA-DN42
 tech-c:             KHOA-DN42
 mnt-by:             KHOA-MNT
