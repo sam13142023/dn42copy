@@ -1,0 +1,5 @@
+route:              172.20.171.192/27
+origin:             AS4242422919
+max-length:         27
+mnt-by:             HUDYS-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             HUDYS-MNT
+admin-c:            HUDYS-DN42
+tech-c:             HUDYS-DN42
+mnt-by:             HUDYS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK586G5vSFdc4Y4nMmQV1ZVxlsrUrUnsQvo7RuEaOC8S hudys@hudys.cz
+source:             DN42

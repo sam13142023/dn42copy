@@ -1,0 +1,9 @@
+domain:             hudylan.dn42
+admin-c:            HUDYS-DN42
+tech-c:             HUDYS-DN42
+mnt-by:             HUDYS-MNT
+nserver:            ns1.hudylan.dn42 172.20.171.193
+nserver:            ns1.hudylan.dn42 fdba:9503:d5dd:ffff::1
+nserver:            ns2.hudylan.dn42 172.20.171.194
+nserver:            ns2.hudylan.dn42 fdba:9503:d5dd:ffff::2
+source:             DN42
