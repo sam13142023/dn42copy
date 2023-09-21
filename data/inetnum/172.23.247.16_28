@@ -1,0 +1,11 @@
+inetnum:            172.23.247.16 - 172.23.247.31
+netname:            PIXIA-IPV4
+remarks:            pixia2005@gmail.com
+descr:              pixia2005@gmail.com
+country:            CN
+admin-c:            PIXIA-DN42
+tech-c:             PIXIA-DN42
+mnt-by:             PIXIA-MNT
+cidr:               172.23.247.16/28
+source:             DN42
+status:             ASSIGNED

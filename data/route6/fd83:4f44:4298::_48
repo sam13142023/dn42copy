@@ -1,0 +1,6 @@
+route6:             fd83:4f44:4298::/48
+max-length:         48
+descr:              pixia2005@gmail.com
+origin:             AS4242423729
+mnt-by:             PIXIA-MNT
+source:             DN42
