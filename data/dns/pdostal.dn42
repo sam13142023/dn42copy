@@ -3,5 +3,7 @@ admin-c:            PDOSTAL-DN42
 tech-c:             PDOSTAL-DN42
 mnt-by:             PDOSTAL-MNT
 nserver:            ns1.pdostal.dn42 172.23.250.1
-nserver:            ns1.pdostal.dn42 fd42:4242:339:23::1
+nserver:            ns1.pdostal.dn42 fd42:4242:339::1
+ds-rdata:           38396 13 2 3c7ca6a3f5d05d16313fec99956ee9aca4dd69a04dcfeb05f66b033657ea8976
+ds-rdata:           57030 13 2 63f348ac14ff80842374176da11e81050f2384e4d80f19e1c13bb32dca29f048
 source:             DN42
