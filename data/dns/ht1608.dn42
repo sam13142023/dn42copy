@@ -1,0 +1,9 @@
+domain:             ht1608.dn42
+admin-c:            HT1608-DN42
+tech-c:             HT1608-DN42
+mnt-by:             HT1608-MNT
+nserver:            ns1.ht1608.dn42 172.21.110.201
+nserver:            ns1.ht1608.dn42 fd8e:8fd2:857d::11
+nserver:            ns2.ht1608.dn42 172.21.110.202
+nserver:            ns2.ht1608.dn42 fd8e:8fd2:857d::12
+source:             DN42

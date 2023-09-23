@@ -1,0 +1,5 @@
+route6:             fd8e:8fd2:857d::/48
+origin:             AS4242420722
+max-length:         48
+mnt-by:             HT1608-MNT
+source:             DN42
