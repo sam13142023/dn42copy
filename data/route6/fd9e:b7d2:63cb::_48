@@ -1,0 +1,5 @@
+route6:             fd9e:b7d2:63cb::/48
+origin:             AS4242420948
+max-length:         48
+mnt-by:             DUDE-MNT
+source:             DN42
