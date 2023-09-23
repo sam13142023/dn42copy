@@ -1,0 +1,7 @@
+domain:             dudenet.dn42
+admin-c:            DUDE-DN42
+tech-c:             DUDE-DN42
+mnt-by:             DUDE-MNT
+nserver:            ns.dudenet.dn42 172.21.109.97
+nserver:            ns.dudenet.dn42 fd9e:b7d2:63cb::1
+source:             DN42

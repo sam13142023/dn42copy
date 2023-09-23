@@ -1,0 +1,11 @@
+inet6num:           fd9e:b7d2:63cb:0000:0000:0000:0000:0000 - fd9e:b7d2:63cb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:b7d2:63cb::/48
+netname:            DUDE-NETWORK
+descr:              Dude Net
+country:            US
+admin-c:            DUDE-DN42
+tech-c:             DUDE-DN42
+mnt-by:             DUDE-MNT
+status:             ASSIGNED
+nserver:            ns.dudenet.dn42
+source:             DN42
