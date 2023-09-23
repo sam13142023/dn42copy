@@ -1,0 +1,9 @@
+inetnum:            172.21.110.192 - 172.21.110.223
+cidr:               172.21.110.192/27
+netname:            HT1608-IPV4
+descr:              HT1608-IPV4
+admin-c:            HT1608-DN42
+tech-c:             HT1608-DN42
+mnt-by:             HT1608-MNT
+status:             ASSIGNED
+source:             DN42
