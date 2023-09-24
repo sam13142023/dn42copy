@@ -1,0 +1,10 @@
+inet6num:           fdc1:abd3:e81f:0000:0000:0000:0000:0000 - fdc1:abd3:e81f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc1:abd3:e81f::/48
+netname:            UTLEYCCKS-NET
+descr:              UTLEYCC KS Network
+country:            US
+admin-c:            JUTLEY-DN42
+tech-c:             JUTLEY-DN42
+mnt-by:             UTLEYCCKS-MNT
+status:             ASSIGNED
+source:             DN42

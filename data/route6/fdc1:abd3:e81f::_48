@@ -1,5 +1,5 @@
-route:              172.20.189.0/25
+route6:             fdc1:abd3:e81f::/48
 origin:             AS4242420037
-max-length:         25
+max-length:         48
 mnt-by:             UTLEYCCKS-MNT
 source:             DN42
