@@ -1,0 +1,6 @@
+mntner:             MEMIUM-MNT
+admin-c:            XELANTRO-DN42
+tech-c:             XELANTRO-DN42
+mnt-by:             MEMIUM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFnovGhH4fg0zxm92z652pCFg1Car+SuWsR/OVIyQVZG dn42@memium.de
+source:             DN42
