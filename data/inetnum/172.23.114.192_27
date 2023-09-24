@@ -1,0 +1,10 @@
+inetnum:            172.23.114.192 - 172.23.114.223
+cidr:               172.23.114.192/27
+netname:            BOBFORTYTWO-NETWORK
+descr:              Network of BOB42
+country:            DE
+admin-c:            BOBFORTYTWO-DN42
+tech-c:             BOBFORTYTWO-DN42
+mnt-by:             BOBFORTYTWO-MNT
+status:             ASSIGNED
+source:             DN42

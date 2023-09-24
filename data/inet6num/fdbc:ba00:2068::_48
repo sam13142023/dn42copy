@@ -1,0 +1,10 @@
+inet6num:           fdbc:ba00:2068:0000:0000:0000:0000:0000 - fdbc:ba00:2068:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbc:ba00:2068::/48
+netname:            BOBFORTYTWO-NETWORK
+descr:              Network of Bob
+country:            DE
+admin-c:            BOBFORTYTWO-DN42
+tech-c:             BOBFORTYTWO-DN42
+mnt-by:             BOBFORTYTWO-MNT
+status:             ASSIGNED
+source:             DN42

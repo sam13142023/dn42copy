@@ -1,0 +1,5 @@
+route6:             fdbc:ba00:2068::/48
+origin:             AS4242422302
+max-length:         48
+mnt-by:             BOBFORTYTWO-MNT
+source:             DN42
