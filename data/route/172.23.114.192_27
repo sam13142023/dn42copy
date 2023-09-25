@@ -1,0 +1,5 @@
+route:              172.23.114.192/27
+origin:             AS4242422302
+max-length:         27
+mnt-by:             BOBFORTYTWO-MNT
+source:             DN42
