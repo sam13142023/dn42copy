@@ -1,0 +1,4 @@
+route6:             fdd4:72ca:b7e3::/48
+origin:             AS4242423828
+mnt-by:             NET-CLOUD-MNT
+source:             DN42

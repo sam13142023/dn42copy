@@ -1,0 +1,11 @@
+inetnum:            172.21.77.224 - 172.21.77.255
+cidr:               172.21.77.224/27
+netname:            RU-NET-CLOUD-NET-MSK
+descr:              RU-NET-CLOUD-NET-MSK
+remarks:            Peer with me at antiflag_86@mail.ru
+country:            RU
+admin-c:            NET-CLOUD-DN42
+tech-c:             NET-CLOUD-DN42
+mnt-by:             NET-CLOUD-MNT
+status:             ASSIGNED
+source:             DN42

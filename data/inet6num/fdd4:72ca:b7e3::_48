@@ -1,0 +1,11 @@
+inet6num:           fdd4:72ca:b7e3:0000:0000:0000:0000:0000 - fdd4:72ca:b7e3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd4:72ca:b7e3::/48
+netname:            RU-NET-CLOUD-NET-MSK
+descr:              RU-NET-CLOUD-NET-MSK
+remarks:            Peer with me at antiflag_86@mail.ru
+country:            RU
+admin-c:            NET-CLOUD-DN42
+tech-c:             NET-CLOUD-DN42
+mnt-by:             NET-CLOUD-MNT
+status:             ASSIGNED
+source:             DN42

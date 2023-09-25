@@ -1,0 +1,7 @@
+mntner:             NET-CLOUD-MNT
+admin-c:            NET-CLOUD-DN42
+tech-c:             NET-CLOUD-DN42
+mnt-by:             NET-CLOUD-MNT
+source:             DN42
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAE9CqvD5sOTFUnsR73Bz11O9+isCP4CLXsJ8ierubiVNNxap3Pv5WS9E/2x5wL1jqlroy8R+7VsGpcD3uTijnocvQGSOa0OGqbUtVyFgxfbklMHu4lOubT5MNWeDx5bEMOTpC0ooMirJ12igVN8XqJus4wiwxoozjVBzN1xKhpKI7loRg== andrey@net-xms.net-cloud.site
+auth:               pgp-fingerprint A057E3DF00A83EAF73DE6B6C7B9B35683DA0604E
