@@ -1,0 +1,9 @@
+inet6num:           fdde:3dd3:bab3:0000:0000:0000:0000:0000 - fdde:3dd3:bab3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:3dd3:bab3::/48
+netname:            MEMIUM-NET
+admin-c:            XELANTRO-DN42
+tech-c:             XELANTRO-DN42
+org:                ORG-MEMIUM
+mnt-by:             MEMIUM-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdde:3dd3:bab3::/48
+origin:             AS4242422540
+max-length:         48
+mnt-by:             MEMIUM-MNT
+source:             DN42
