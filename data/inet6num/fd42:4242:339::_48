@@ -6,6 +6,8 @@ admin-c:            PDOSTAL-DN42
 tech-c:             PDOSTAL-DN42
 mnt-by:             PDOSTAL-MNT
 nserver:            ns1.pdostal.dn42
+ds-rdata:           10149 13 2 120f8582883cfe5e16925279a43d8cca9204344bb24fbc2b84eec75283853021
+ds-rdata:           54562 13 2 26030532e2172ca422075bc960edd01c9e57e23d606dafaf49dbede305687202
 status:             ASSIGNED
 cidr:               fd42:4242:339::/48
 source:             DN42
