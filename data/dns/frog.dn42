@@ -3,5 +3,9 @@ admin-c:            C4TG1RL5-DN42
 tech-c:             C4TG1RL5-DN42
 mnt-by:             C4TG1RL5-MNT
 org:                ORG-C4TG1RL5
-nserver:            ns1.catgirls.dn42
+nserver:            ns1.frog.dn42 172.23.196.40
+nserver:            ns1.frog.dn42 fd42:deca:fbad::7
+remarks:            C4TG1RL5 DNS testing object
+ds-rdata:           32706 15 2 9E1C9CA1764539B022151954D6018BB922F19CEAE85F31EE5B8EB571 3A0E75C4
+ds-rdata:           57841 15 2 4485DB80B3401D4BFE1A3F7604CC90825CD38A91646DA81FCAC102DF 4714AE7C
 source:             DN42
