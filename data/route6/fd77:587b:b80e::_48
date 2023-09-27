@@ -1,0 +1,5 @@
+route6:             fd77:587b:b80e::/48
+origin:             AS4242421077
+max-length:         48
+mnt-by:             IO-MNT
+source:             DN42

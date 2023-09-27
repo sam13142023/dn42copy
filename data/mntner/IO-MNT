@@ -1,0 +1,6 @@
+mntner:             IO-MNT
+admin-c:            LICOSAN-DN42
+tech-c:             LICOSAN-DN42
+mnt-by:             IO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPVaSERQJGZF2F5t20tbQ9ZZp9oXzVOzC6x26ByOoJ5n
+source:             DN42

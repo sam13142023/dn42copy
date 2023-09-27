@@ -1,0 +1,5 @@
+route:              172.23.77.128/27
+origin:             AS4242421077
+max-length:         27
+mnt-by:             IO-MNT
+source:             DN42
