@@ -1,0 +1,11 @@
+inet6num:           fd77:587b:b80e:0000:0000:0000:0000:0000 - fd77:587b:b80e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd77:587b:b80e::/48
+netname:            IO-NETWORK
+descr:              iO
+country:            FR
+admin-c:            LICOSAN-DN42
+tech-c:             LICOSAN-DN42
+mnt-by:             IO-MNT
+org:                ORG-IO
+status:             ASSIGNED
+source:             DN42

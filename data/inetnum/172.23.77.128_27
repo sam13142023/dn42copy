@@ -1,0 +1,11 @@
+inetnum:            172.23.77.128 - 172.23.77.159
+cidr:               172.23.77.128/27
+netname:            IO-NETWORK
+descr:              iO
+country:            FR
+admin-c:            LICOSAN-DN42
+tech-c:             LICOSAN-DN42
+mnt-by:             IO-MNT
+org:                ORG-IO
+status:             ASSIGNED
+source:             DN42
