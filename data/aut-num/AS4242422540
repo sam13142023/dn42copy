@@ -3,5 +3,6 @@ as-name:            AS-MEMIUM
 admin-c:            XELANTRO-DN42
 tech-c:             XELANTRO-DN42
 org:                ORG-MEMIUM
+descr:              Memium DN42 network
 mnt-by:             MEMIUM-MNT
 source:             DN42

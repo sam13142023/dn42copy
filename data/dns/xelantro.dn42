@@ -1,0 +1,8 @@
+domain:             xelantro.dn42
+admin-c:            XELANTRO-DN42
+tech-c:             XELANTRO-DN42
+mnt-by:             MEMIUM-MNT
+org:                ORG-MEMIUM
+nserver:            ns1.memium.dn42
+ds-rdata:           53436 13 2 D94B61ECEBD5E58737F05EFC41779CF0CF5670E129CEF06C479F10BB8C6D4EAB
+source:             DN42
