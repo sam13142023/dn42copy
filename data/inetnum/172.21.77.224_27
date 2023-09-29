@@ -8,4 +8,5 @@ admin-c:            NET-CLOUD-DN42
 tech-c:             NET-CLOUD-DN42
 mnt-by:             NET-CLOUD-MNT
 status:             ASSIGNED
+nserver:            ns.net-cloud.dn42
 source:             DN42
