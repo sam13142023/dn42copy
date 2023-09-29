@@ -1,0 +1,7 @@
+domain:             net-cloud.dn42
+admin-c:            NET-CLOUD-DN42
+tech-c:             NET-CLOUD-DN42
+mnt-by:             NET-CLOUD-MNT
+nserver:            ns.net-cloud.dn42 172.21.77.226
+nserver:            ns.net-cloud.dn42 fdd4:72ca:b7e3:53::1
+source:             DN42
