@@ -3,4 +3,5 @@ admin-c:            XELANTRO-DN42
 tech-c:             XELANTRO-DN42
 mnt-by:             MEMIUM-MNT
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFnovGhH4fg0zxm92z652pCFg1Car+SuWsR/OVIyQVZG dn42@memium.de
+remarks:            pin-sha256:X8CTsfckLR2rItr4aSh/4/N1zJO2R+2E7DkKZBVUG3Q=
 source:             DN42
