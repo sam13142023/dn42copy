@@ -1,0 +1,8 @@
+domain:             sheltienet.dn42
+admin-c:            SONY-DN42
+tech-c:             SONY-DN42
+mnt-by:             SONY-MNT
+nserver:            ns1.sheltienet.dn42 172.23.77.161
+nserver:            ns1.sheltienet.dn42 fd3d:6e6e:d2f2:1::1
+org:                ORG-SHELTIENET
+source:             DN42

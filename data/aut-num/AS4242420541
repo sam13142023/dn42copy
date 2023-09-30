@@ -1,0 +1,8 @@
+aut-num:            AS4242420541
+org:                ORG-SHELTIENET
+as-name:            SHELTIENET-AS
+descr:              Sheltie Networks lab network
+admin-c:            SONY-DN42
+tech-c:             SONY-DN42
+mnt-by:             SONY-MNT
+source:             DN42
