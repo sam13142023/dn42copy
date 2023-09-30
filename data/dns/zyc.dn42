@@ -2,10 +2,7 @@ domain:             zyc.dn42
 admin-c:            ZYC-DN42
 tech-c:             ZYC-DN42
 mnt-by:             ZYC-MNT
-nserver:            jp-tyo1.zyc.dn42 172.22.157.70
 nserver:            jp-tyo1.zyc.dn42 fd86:aa4f:8883::6
-nserver:            us-lax1.zyc.dn42 172.22.157.66
 nserver:            us-lax1.zyc.dn42 fd86:aa4f:8883::1
-nserver:            cn-bj1.zyc.dn42 172.22.157.114
 nserver:            cn-bj1.zyc.dn42 fd86:aa4f:8883:1234::1
 source:             DN42
