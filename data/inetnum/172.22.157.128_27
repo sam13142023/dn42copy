@@ -1,0 +1,9 @@
+inetnum:            172.22.157.128 - 172.22.157.159
+netname:            SUYUN-IPV4
+country:            CN
+admin-c:            SUYUN-DN42
+tech-c:             SUYUN-DN42
+mnt-by:             SUYUN-MNT
+status:             ASSIGNED
+cidr:               172.22.157.128/27
+source:             DN42
