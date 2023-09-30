@@ -1,0 +1,6 @@
+mntner:             SONY-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3RolOCAWtyeasAI8WWeTR/sn7sHQ3Yl2tjapDlE0vXkNEbT4Ky6uTifWCuF/kYcRPw7Rr8+dAAgJ/1Ve+Gme2Dx0PnOBMpfkU8vQIbZ5Zrn55qlVuN2JR4csGoLv07M0RTj7wbHv9aT4rB2JOORvRdLKl9YX4EXvBokCPa5Win3xmO82eRuSvMq9kZS6qNSTDVy1lXS2WcEcLXmB0bgfqmSdEyPjTxs0azBTdf4lvwK9+7WNKaQDIlkqlixtqRCz8VaDbzXVw9xY4cZxYetDVj33SiULu68dDdfDciBe0s3ISAY4xt3Y0J0encbafbhLTvunK4LWpvfBZEwEHWCUF9baf+wKLGwUJEcwx7r/W1aNMz50RBEjLyqZ4S001e4irys36jUgo9OsrHKEc074SbMO92KiYu4p68NHlnVsX+cmWw6lQbnJUB1BFB4RaXW4iHKzXAkw4RePgw7c1arNWjCVyjDLnkjJzXQGomPmiLPxPfEUrVqzHjq5YnvHRszM=
+admin-c:            SONY-DN42
+tech-c:             SONY-DN42
+mnt-by:             SONY-MNT
+source:             DN42

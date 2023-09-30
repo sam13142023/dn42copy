@@ -1,0 +1,13 @@
+inetnum:            172.23.77.160 - 172.23.77.191
+netname:            SHELTIENET-IPV4
+org:                ORG-SHELTIENET
+remarks:            SHELTIENET
+descr:              Sheltie Networks address space
+country:            IE
+admin-c:            SONY-DN42
+tech-c:             SONY-DN42
+mnt-by:             SONY-MNT
+status:             ASSIGNED
+cidr:               172.23.77.160/27
+nserver:            ns1.sheltienet.dn42
+source:             DN42

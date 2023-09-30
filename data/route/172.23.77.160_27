@@ -1,0 +1,5 @@
+route:              172.23.77.160/27
+origin:             AS4242420541
+max-length:         27
+mnt-by:             SONY-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd3d:6e6e:d2f2::/48
+origin:             AS4242420541
+max-length:         48
+mnt-by:             SONY-MNT
+source:             DN42
