@@ -1,0 +1,4 @@
+route:              172.22.157.128/27
+origin:             AS4242422052
+mnt-by:             SUYUN-MNT
+source:             DN42
