@@ -1,0 +1,8 @@
+aut-num:            AS4242420495
+as-name:            ALE22GOR-AS
+descr:              ale22gor AS for bgp learning
+admin-c:            ALE22GOR-DN42
+tech-c:             ALE22GOR-DN42
+remarks:            Peer with me at dmitryegorenko@gmail.com
+mnt-by:             ALE22GOR-MNT
+source:             DN42

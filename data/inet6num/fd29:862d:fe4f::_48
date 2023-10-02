@@ -1,0 +1,11 @@
+inet6num:           fd29:862d:fe4f:0000:0000:0000:0000:0000 - fd29:862d:fe4f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd29:862d:fe4f::/48
+netname:            ALE22GOR-NETWORK
+descr:              My Personal IPv4 Network
+remarks:            Peer with me at dmitryegorenko@gmail.com
+country:            RU
+admin-c:            ALE22GOR-DN42
+tech-c:             ALE22GOR-DN42
+mnt-by:             ALE22GOR-MNT
+status:             ASSIGNED
+source:             DN42

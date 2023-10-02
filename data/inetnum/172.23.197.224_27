@@ -1,0 +1,11 @@
+inetnum:            172.23.197.224 - 172.23.197.255
+cidr:               172.23.197.224/27
+netname:            ALE22GOR-NETWORK
+descr:              My Personal IPv4 Network
+remarks:            Peer with me at dmitryegorenko@gmail.com
+country:            RU
+admin-c:            ALE22GOR-DN42
+tech-c:             ALE22GOR-DN42
+mnt-by:             ALE22GOR-MNT
+status:             ASSIGNED
+source:             DN42
