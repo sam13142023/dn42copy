@@ -1,0 +1,7 @@
+mntner:             MAGMAUS3-MNT
+descr:              magmaus3's maintainer object
+admin-c:            MAGMAUS3-DN42
+tech-c:             MAGMAUS3-DN42
+mnt-by:             MAGMAUS3-MNT
+auth:               pgp-fingerprint 51621C2977AC96FC930A71EF966755D3F4A9B251
+source:             DN42
