@@ -1,0 +1,7 @@
+mntner:             ALE22GOR-MNT
+admin-c:            ALE22GOR-DN42
+tech-c:             ALE22GOR-DN42
+mnt-by:             ALE22GOR-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJvn/Wa43ISipPrW+kiIlhRezAnbkbBocaYuKTSvVf+d dmitryegorenko@gmail.com
+auth:               pgp-fingerprint 44CA0BA0F9A05D43F73CC62A288A71CC0ADE37FE
