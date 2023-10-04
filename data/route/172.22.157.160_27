@@ -1,0 +1,5 @@
+route:              172.22.157.160/27
+origin:             AS4242421329
+max-length:         27
+mnt-by:             DIXON-MNT
+source:             DN42
