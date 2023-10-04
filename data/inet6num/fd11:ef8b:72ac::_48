@@ -1,0 +1,8 @@
+inet6num:           fd11:ef8b:72ac:0000:0000:0000:0000:0000 - fd11:ef8b:72ac:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:ef8b:72ac::/48
+netname:            Minecon724
+admin-c:            MINECON724-DN42
+tech-c:             MINECON724-DN42
+mnt-by:             MINECON724-MNT
+status:             ASSIGNED
+source:             DN42
