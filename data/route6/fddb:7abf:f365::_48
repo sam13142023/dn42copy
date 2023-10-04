@@ -1,0 +1,7 @@
+route6:             fddb:7abf:f365::/48
+origin:             AS4242422559
+max-length:         48
+mnt-by:             B0782FA6AD-MNT
+admin-c:            B0782FA6AD-DN42
+tech-c:             B0782FA6AD-DN42
+source:             DN42

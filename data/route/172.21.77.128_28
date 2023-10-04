@@ -1,0 +1,7 @@
+route:              172.21.77.128/28
+origin:             AS4242422559
+max-length:         28
+admin-c:            B0782FA6AD-DN42
+tech-c:             B0782FA6AD-DN42
+mnt-by:             B0782FA6AD-MNT
+source:             DN42

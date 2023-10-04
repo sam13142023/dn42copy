@@ -1,0 +1,9 @@
+inetnum:            172.21.77.128 - 172.21.77.143
+netname:            B0782FA6AD-IPV4
+descr:              Experimental ipv4 network
+tech-c:             B0782FA6AD-DN42
+admin-c:            B0782FA6AD-DN42
+mnt-by:             B0782FA6AD-MNT
+cidr:               172.21.77.128/28
+status:             ASSIGNED
+source:             DN42
