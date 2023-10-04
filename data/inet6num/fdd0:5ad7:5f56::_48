@@ -1,0 +1,7 @@
+inet6num:           fdd0:5ad7:5f56:0000:0000:0000:0000:0000 - fdd0:5ad7:5f56:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd0:5ad7:5f56::/48
+netname:            BILL-HOME-NETWORK
+status:             ASSIGNED
+admin-c:            BILL-DN42
+mnt-by:             BILL-MNT
+source:             DN42

@@ -1,6 +1,6 @@
 inet6num:           fd72:436c:8f56:0000:0000:0000:0000:0000 - fd72:436c:8f56:ffff:ffff:ffff:ffff:ffff
 cidr:               fd72:436c:8f56::/48
-netname:            BILL-NETWORK
+netname:            BILL-GLOBAL-NETWORK
 admin-c:            BILL-DN42
 tech-c:             BILL-DN42
 mnt-by:             BILL-MNT

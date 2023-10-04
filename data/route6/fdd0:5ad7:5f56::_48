@@ -1,0 +1,5 @@
+route6:             fdd0:5ad7:5f56::/48
+origin:             AS4242420803
+max-length:         56
+mnt-by:             BILL-MNT
+source:             DN42
