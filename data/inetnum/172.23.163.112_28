@@ -1,8 +1,0 @@
-inetnum:            172.23.163.112 - 172.23.163.127
-cidr:               172.23.163.112/28
-netname:            KPTDC-NETWORK
-admin-c:            KPTDC-DN42
-tech-c:             KPTDC-DN42
-mnt-by:             KPTDC-MNT
-status:             ASSIGNED
-source:             DN42
