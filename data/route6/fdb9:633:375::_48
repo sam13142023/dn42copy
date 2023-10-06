@@ -1,0 +1,5 @@
+route6:             fdb9:633:375::/48
+origin:             AS4242422052
+max-length:         48
+mnt-by:             SUYUN-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fdb9:0633:0375:0000:0000:0000:0000:0000 - fdb9:0633:0375:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb9:633:375::/48
+netname:            SUYUN-IPV6
+country:            CN
+admin-c:            SUYUN-DN42
+tech-c:             SUYUN-DN42
+mnt-by:             SUYUN-MNT
+status:             ASSIGNED
+source:             DN42
