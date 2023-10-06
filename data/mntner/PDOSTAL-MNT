@@ -4,4 +4,7 @@ admin-c:            PDOSTAL-DN42
 tech-c:             PDOSTAL-DN42
 mnt-by:             PDOSTAL-MNT
 auth:               pgp-fingerprint CEC9A9AAB7F69CE84136D67A65BDCDAB70974BA9
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPCvAJLBFT5gy/U1pzblRshhibaSY6j4qqEJU0A2gm5F pdostal@laptop.pdostal.cz
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBNqDvUZvnRqJ4ZLz/wjiCdqG/iTZBCxo9NjmxEbQR8sNPWnm39dw/10xSz2cC7MmkOOeACEr0ihpZfS48Hm8158= pdostal@laptop.pdostal.cz
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCW1AFnflfnPfKg12oAlESachI/BKlMXQ4CpAHBqrVBqlyb4bbma9fNNAlomD+qzKkorxRGIkxK/6WwIwTZpaiz84H+FlpIrPJeiz1jDeSqW+apP/trh95CvwKgCocXZQeA8O0lRy1RtPZYwKNONR427urIYTavrFcxpqeEYD/C2A+v4QdGlSJQHXsMbgZ2egFJlG7n/b0o4tJAH4YmiiKIECq7S03SHWzd8d5ZKzSxwGq35C/HBLBcgvi47jSQZC9H4eyuFY8xSb+fvi4jPXaZlbDlDaJJ9GrwgWbjyJIiwyMAhrxlaG31DmcJoMecxZ0f/ZXIDCSzSG02N93SsBH7 pdostal@laptop.pdostal.cz
 source:             DN42
