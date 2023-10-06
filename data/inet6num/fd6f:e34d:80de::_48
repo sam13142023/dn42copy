@@ -1,9 +1,11 @@
 inet6num:           fd6f:e34d:80de:0000:0000:0000:0000:0000 - fd6f:e34d:80de:ffff:ffff:ffff:ffff:ffff
-netname:            BOZHAN-IPV6
-country:            CN
-admin-c:            BOZHAN-DN42
-tech-c:             BOZHAN-DN42
-mnt-by:             BOZHAN-MNT
+netname:            RIVENSBANE-IPV6
+country:            NZ
+admin-c:            RIVENSBANE-DN42
+tech-c:             RIVENSBANE-DN42
+mnt-by:             RIVENSBANE-MNT
+nserver:            ns1.rivensbane.dn42
+ds-rdata:           47628 15 2 DDA31160A2AE4D3B32E74ABC7963FCAD321759306DB507090BEAC48B EBD75530
 status:             ASSIGNED
 cidr:               fd6f:e34d:80de::/48
 source:             DN42

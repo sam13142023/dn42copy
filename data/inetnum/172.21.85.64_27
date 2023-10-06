@@ -1,9 +1,11 @@
 inetnum:            172.21.85.64 - 172.21.85.95
-netname:            BOZHAN-IPV4
-country:            CN
-admin-c:            BOZHAN-DN42
-tech-c:             BOZHAN-DN42
-mnt-by:             BOZHAN-MNT
+netname:            RIVENSBANE-IPV4
+country:            NZ
+admin-c:            RIVENSBANE-DN42
+tech-c:             RIVENSBANE-DN42
+mnt-by:             RIVENSBANE-MNT
+nserver:            ns1.rivensbane.dn42
+ds-rdata:           24774 15 2 C73D8D54515C18C5123CA8B91D69E576093C4532C9316B1112C89086 983A0AD4
 status:             ASSIGNED
 cidr:               172.21.85.64/27
 source:             DN42

@@ -1,0 +1,8 @@
+domain:             as4242421815.dn42
+admin-c:            RIVENSBANE-DN42
+tech-c:             RIVENSBANE-DN42
+mnt-by:             RIVENSBANE-MNT
+nserver:            ns1.as4242421815.dn42 172.21.85.67
+nserver:            ns1.as4242421815.dn42 fd6f:e34d:80de::3
+ds-rdata:           22145 15 2 0D469C6E6D2A624E6B3E410D6954F68F6744FD2D0EAC1A798108B651 EB3D7937
+source:             DN42

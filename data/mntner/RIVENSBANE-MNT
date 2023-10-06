@@ -1,7 +1,7 @@
-mntner:             BOZHAN-MNT
-admin-c:            BOZHAN-DN42
-tech-c:             BOZHAN-DN42
-mnt-by:             BOZHAN-MNT
+mntner:             RIVENSBANE-MNT
+admin-c:            RIVENSBANE-DN42
+tech-c:             RIVENSBANE-DN42
+mnt-by:             RIVENSBANE-MNT
 source:             DN42
 auth:               pgp-fingerprint CF4CDB6BC1F03E423BF55A747BEA2C264B859854
 auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJa33xx4xHIpsz+3d7yAHhhaft0NN9Wwuc71L6tkPIFO
