@@ -1,0 +1,5 @@
+route6:             fdac:f7ec:efa7::/48
+descr:              DIXON-IPV6
+origin:             AS4242421329
+mnt-by:             DIXON-MNT
+source:             DN42

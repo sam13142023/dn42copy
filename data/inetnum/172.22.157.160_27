@@ -1,0 +1,10 @@
+inetnum:            172.22.157.160 - 172.22.157.191
+cidr:               172.22.157.160/27
+netname:            DIXON-NETWORK
+descr:              Network of DIXON
+country:            GB
+admin-c:            DIXON-DN42
+tech-c:             DIXON-DN42
+mnt-by:             DIXON-MNT
+status:             ASSIGNED
+source:             DN42

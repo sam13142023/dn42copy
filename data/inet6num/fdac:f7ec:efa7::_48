@@ -1,0 +1,9 @@
+inet6num:           fdac:f7ec:efa7:0000:0000:0000:0000:0000 - fdac:f7ec:efa7:ffff:ffff:ffff:ffff:ffff
+netname:            DIXON-IPV6
+country:            GB
+admin-c:            DIXON-DN42
+tech-c:             DIXON-DN42
+mnt-by:             DIXON-MNT
+status:             ASSIGNED
+cidr:               fdac:f7ec:efa7::/48
+source:             DN42
