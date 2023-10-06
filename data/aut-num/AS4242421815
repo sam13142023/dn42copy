@@ -1,7 +1,7 @@
 aut-num:            AS4242421815
-as-name:            BOZHAN-AS
-descr:              Bozhan
-admin-c:            BOZHAN-DN42
-tech-c:             BOZHAN-DN42
-mnt-by:             BOZHAN-MNT
+as-name:            RIVENSBANE
+descr:              Rivensbane
+admin-c:            RIVENSBANE-DN42
+tech-c:             RIVENSBANE-DN42
+mnt-by:             RIVENSBANE-MNT
 source:             DN42
