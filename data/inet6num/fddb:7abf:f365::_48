@@ -1,0 +1,10 @@
+inet6num:           fddb:7abf:f365:0000:0000:0000:0000:0000 - fddb:7abf:f365:ffff:ffff:ffff:ffff:ffff
+netname:            B0782FA6AD-NET
+descr:              Experimental ipv6 network
+country:            US
+admin-c:            B0782FA6AD-DN42
+tech-c:             B0782FA6AD-DN42
+mnt-by:             B0782FA6AD-MNT
+status:             ASSIGNED
+cidr:               fddb:7abf:f365::/48
+source:             DN42
