@@ -1,0 +1,10 @@
+inet6num:           fd21:011e:026d:0000:0000:0000:0000:0000 - fd21:011e:026d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:11e:26d::/48
+netname:            LEYLEE-NETWORK
+descr:              Network of LEYLEE
+country:            CN
+admin-c:            LEYLEE-DN42
+tech-c:             LEYLEE-DN42
+mnt-by:             LEYLEE-MNT
+status:             ASSIGNED
+source:             DN42
