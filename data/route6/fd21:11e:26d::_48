@@ -1,0 +1,5 @@
+route6:             fd21:11e:26d::/48
+origin:             AS4242422517
+max-length:         48
+mnt-by:             LEYLEE-MNT
+source:             DN42
