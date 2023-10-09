@@ -1,6 +1,31 @@
 aut-num:            AS4242422935
 as-name:            ALTF4-DN42
-descr:              my perso connection
+descr:              Altf4's personal Headquarter's DN42 ASN
+remarks:            -----------------------------------
+remarks:            |  ALTF4's personnal Headquarters   |
+remarks:            -----------------------------------
+remarks:            ==================================================================
+remarks:            ========================= BGP Communities ========================
+remarks:            ==================================================================
+remarks:            = Geo Community : 65512:200gc
+remarks:            = gc replaced by :
+remarks:            = gc = 01 -> Belgium(Antwerp)
+remarks:            = gc = 02 -> Finland(Helsinki)
+remarks:            =
+remarks:            = Transit : 2935:65535 | 2935:<Transit_ASN>
+remarks:            = Downstream-Transit : 2935:65412 | 2935:<Downstream_ASN>
+remarks:            = PNI  : 2935:65534 | 2935:<Peer_ASN>
+remarks:            = IXP  : 2935:65000 (All IXP's)
+remarks:            =
+remarks:            =  n = 1 -> Primary Peering
+remarks:            =  n = 2 -> Backup Peering
+remarks:            =  n = 3 -> Route-Servers
+remarks:            =
+remarks:            ==================================================================
+remarks:            ==================================================================
+remarks:            
+remarks:            For contact and abuse reporting, please contact altf4@af4.be
+remarks:            
 admin-c:            ALTF4-DN42
 tech-c:             ALTF4-DN42
 mnt-by:             ALTF4-MNT
