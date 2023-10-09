@@ -1,6 +1,6 @@
 inetnum:            172.20.33.32 - 172.20.33.47
-netname:            ALTF4-GATEWAY
-descr:              my gateway to the wooooorld extention
+netname:            ALTF4-DMZ
+descr:              ALL THE DATA !
 country:            BE
 admin-c:            ALTF4-DN42
 tech-c:             ALTF4-DN42
