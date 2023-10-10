@@ -1,7 +1,7 @@
 schema:             ROUTE-SET-SCHEMA
 ref:                dn42.route-set
 key:                route-set    required  single    primary schema
-key:                descr        optional  single
+key:                descr        optional  multiple
 key:                mnt-by       required  multiple  lookup=dn42.mntner
 key:                members      deprecate multiple
 key:                mp-members   optional  multiple
