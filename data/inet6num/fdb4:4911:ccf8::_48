@@ -1,9 +1,9 @@
 inet6num:           fdb4:4911:ccf8:0000:0000:0000:0000:0000 - fdb4:4911:ccf8:ffff:ffff:ffff:ffff:ffff
 cidr:               fdb4:4911:ccf8::/48
-netname:            MRXERMON-NETWORK-v6-fdb4-4911-ccf8_48
+netname:            NETAVIATOR-NETWORK-v6-fdb4-4911-ccf8_48
 country:            DE
-admin-c:            MRXERMON-DN42
-tech-c:             MRXERMON-DN42
-mnt-by:             MRXERMON-MNT
+admin-c:            NETAVIATOR-DN42
+tech-c:             NETAVIATOR-DN42
+mnt-by:             NETAVIATOR-MNT
 status:             ASSIGNED
 source:             DN42
