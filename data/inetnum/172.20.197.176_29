@@ -1,11 +1,11 @@
-inetnum:            172.23.173.168 - 172.23.173.175
+inetnum:            172.20.197.176 - 172.20.197.183
 netname:            INPRTX-IPV4
-country:            CN
+country:            HK
 admin-c:            INPRTX-DN42
 tech-c:             INPRTX-DN42
 mnt-by:             INPRTX-MNT
 nserver:            ns1.inprtx.dn42
 nserver:            ns2.inprtx.dn42
 status:             ASSIGNED
-cidr:               172.23.173.168/29
+cidr:               172.20.197.176/29
 source:             DN42

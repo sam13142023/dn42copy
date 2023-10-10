@@ -1,4 +1,5 @@
 route6:             fdf4:56da:a360::/48
 origin:             AS4242423751
+origin:             AS212623
 mnt-by:             INPRTX-MNT
 source:             DN42
