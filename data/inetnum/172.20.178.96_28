@@ -1,9 +1,9 @@
 inetnum:            172.20.178.96 - 172.20.178.111
 cidr:               172.20.178.96/28
-netname:            MRXERMON-NETWORK-INTERNAL
+netname:            NETAVIATOR-NETWORK-INTERNAL
 country:            DE
-admin-c:            MRXERMON-DN42
-tech-c:             MRXERMON-DN42
-mnt-by:             MRXERMON-MNT
+admin-c:            NETAVIATOR-DN42
+tech-c:             NETAVIATOR-DN42
+mnt-by:             NETAVIATOR-MNT
 status:             ASSIGNED
 source:             DN42

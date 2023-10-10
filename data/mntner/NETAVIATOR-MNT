@@ -1,7 +1,7 @@
-mntner:             MRXERMON-MNT
-admin-c:            MRXERMON-DN42
-tech-c:             MRXERMON-DN42
-mnt-by:             MRXERMON-MNT
+mntner:             NETAVIATOR-MNT
+admin-c:            NETAVIATOR-DN42
+tech-c:             NETAVIATOR-DN42
+mnt-by:             NETAVIATOR-MNT
 source:             DN42
 auth:               pgp-fingerprint 0EF24FDEC8474845D3F3DDF0976B78316D35EF65
 auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCoeCqSO03t9D1oS4JmpuWeJ3DQ5qKAGY+L9A+8hdW5G+bsikQ9sX9Rci4a+XRVX/SY4G93GhzsYTGpagb0+T0u2LzJFxuKSEQuFP1Iit0vxkMy/3ZhK+ZlfFqwpwty1Tj59/mhYHnx+c1tOcTQWdxWCZ5EuCrGmAgnpwHTZK9Rcj4V8fe1AjgL8sNllzYHGnA1+ZdihMzAdLPl0hwgpKT8kmWZFoL5iPQN6lNra8FDFVm7hBixcJfGEAgG9T2xj/8fdzu3HEZhBn4E7ifseyv1wde4QxwVug4k8l6gtQPirNeXiUR5bx412FIoouAvhpKxFDaiCDe5SaRhXgoJK6F10qtUNWou0/MhDr28n7BrxTjbPjMe6I4hxuO7zm4lCuN1xsv8RfBDgc4TRfS/2gRaxKBLNzOrGOSl/xtirSnI8hOQsQ4C/bWN87d0KhcBNIOSoFTu6ATKCgYyhFXgHFJZKYm8zxC9SDePlU5lozpQc4V+SaemKLMRVEnErtjhJTL5D+ZVFiU1whuIGayLY7TNFiURML3803J/dEwFKeEnDdn1SnGGANnBdlCGEo/Kbo/IKzO8JjnovVOty/wapHLudG43AQMZ2bEY0Ml4bnpOcr15Se3CTky3dLJIWi+aTREmka275RcU3JKvekSRwuBFJI4fHCG2N727LreADeqTDw==
