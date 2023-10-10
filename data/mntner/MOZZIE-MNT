@@ -1,0 +1,6 @@
+mntner:             MOZZIE-MNT
+admin-c:            MOZZIE-DN42
+tech-c:             MOZZIE-DN42
+mnt-by:             MOZZIE-MNT
+auth:               pgp-fingerprint 7A9346391B97EA4EEA66B26B30BE39E3D1412A23
+source:             DN42
