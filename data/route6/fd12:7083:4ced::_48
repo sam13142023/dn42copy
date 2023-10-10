@@ -1,0 +1,5 @@
+route6:             fd12:7083:4ced::/48
+origin:             AS4242421108
+max-length:         48
+mnt-by:             MOZZIE-MNT
+source:             DN42

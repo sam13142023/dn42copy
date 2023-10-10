@@ -1,0 +1,7 @@
+domain:             mozzie.dn42
+admin-c:            MOZZIE-DN42
+tech-c:             MOZZIE-DN42
+mnt-by:             MOZZIE-MNT
+nserver:            ns1.mozzie.dn42 fd12:7083:4ced::1
+ds-rdata:           27387 15 2 4ad8e00842fc8ec58e677eb3a5cd6361353ae7814732243cbcf3037fe36a5126
+source:             DN42
