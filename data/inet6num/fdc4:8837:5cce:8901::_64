@@ -1,0 +1,9 @@
+inet6num:           fdc4:8837:5cce:8901:0000:0000:0000:0000 - fdc4:8837:5cce:8901:ffff:ffff:ffff:ffff
+cidr:               fdc4:8837:5cce:8901::/64
+netname:            AKI-NETWORK6
+country:            GR
+admin-c:            AKI-DN42
+tech-c:             AKI-DN42
+mnt-by:             AKI-MNT
+status:             ASSIGNED
+source:             DN42

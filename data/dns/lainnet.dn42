@@ -1,0 +1,8 @@
+domain:             lainnet.dn42
+descr:              LainNet
+admin-c:            AKI-DN42
+tech-c:             AKI-DN42
+mnt-by:             AKI-MNT
+nserver:            ns1.lainnet.dn42 172.22.181.241
+nserver:            ns1.lainnet.dn42 fdc4:8837:5cce:8901::2
+source:             DN42

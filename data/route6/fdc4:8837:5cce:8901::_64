@@ -1,0 +1,4 @@
+route6:             fdc4:8837:5cce:8901::/64
+origin:             AS4242423390
+mnt-by:             AKI-MNT
+source:             DN42

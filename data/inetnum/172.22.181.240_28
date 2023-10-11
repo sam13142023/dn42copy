@@ -1,0 +1,9 @@
+inetnum:            172.22.181.240 - 172.22.181.255
+cidr:               172.22.181.240/28
+netname:            AKI-NETWORK
+country:            GR
+admin-c:            AKI-DN42
+tech-c:             AKI-DN42
+mnt-by:             AKI-MNT
+status:             ASSIGNED
+source:             DN42
