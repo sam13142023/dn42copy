@@ -1,7 +1,0 @@
-route6:             fdd4:f526:a23b::/48
-origin:             AS4242423096
-max-length:         48
-admin-c:            AS11-DN42
-tech-c:             AS11-DN42
-mnt-by:             AS11-MNT
-source:             DN42
