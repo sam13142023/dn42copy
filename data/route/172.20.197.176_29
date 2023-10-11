@@ -1,4 +1,4 @@
-route:              172.20.229.192/27
+route:              172.20.197.176/29
 origin:             AS4242423751
 origin:             AS212623
 mnt-by:             INPRTX-MNT

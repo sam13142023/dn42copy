@@ -2,8 +2,8 @@ domain:             inprtx.dn42
 admin-c:            INPRTX-DN42
 tech-c:             INPRTX-DN42
 mnt-by:             INPRTX-MNT
-nserver:            ns1.inprtx.dn42 172.23.173.173
-nserver:            ns1.inprtx.dn42 fdf4:56da:a360::173
-nserver:            ns2.inprtx.dn42 172.23.173.174
-nserver:            ns2.inprtx.dn42 fdf4:56da:a360::174
+nserver:            ns1.inprtx.dn42 172.20.197.177
+nserver:            ns1.inprtx.dn42 fdf4:56da:a360::1
+nserver:            ns2.inprtx.dn42 172.20.197.178
+nserver:            ns2.inprtx.dn42 fdf4:56da:a360::2
 source:             DN42
