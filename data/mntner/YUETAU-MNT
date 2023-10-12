@@ -2,6 +2,6 @@ mntner:             YUETAU-MNT
 admin-c:            YUETAU-DN42
 tech-c:             YUETAU-DN42
 mnt-by:             YUETAU-MNT
-auth:               pgp-fingerprint ee1c80c9295a9c94a89b0345f188c1663a63122b
-remarks:            pin-sha256:pxfLaSoLEKtGUV2pNRRA1KLinK+eMpNr2Z8RfwOgzrM=
+auth:               pgp-fingerprint 5766c6c44871c42df4786088102d59313fc475e0
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHoA5/RwVFZmCuidOUx1SW9dbuE5YUnNzy1K2nQqes6H
 source:             DN42
