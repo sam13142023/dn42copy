@@ -1,0 +1,8 @@
+inet6num:           fdcc:bcc1:00cc:0000:0000:0000:0000:0000 - fdcc:bcc1:00cc:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcc:bcc1:cc::/48
+netname:            BURN-NETWORK
+admin-c:            BURN-DN42
+tech-c:             BURN-DN42
+mnt-by:             BURN-MNT
+status:             ASSIGNED
+source:             DN42

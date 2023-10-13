@@ -1,0 +1,5 @@
+route6:             fdcc:bcc1:cc::/48
+origin:             AS4242422315
+max-length:         48
+mnt-by:             BURN-MNT
+source:             DN42

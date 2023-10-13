@@ -1,0 +1,6 @@
+mntner:             BURN-MNT
+admin-c:            BURN-DN42
+tech-c:             BURN-DN42
+mnt-by:             BURN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINfHGkabZCrUiD62MH/TmAsIxBZZ9OwcBPWq2+lskPFT
+source:             DN42
