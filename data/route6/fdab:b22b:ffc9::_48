@@ -1,0 +1,5 @@
+route6:             fdab:b22b:ffc9::/48
+origin:             AS4242421019
+max-length:         48
+mnt-by:             BANDIT-MNT
+source:             DN42

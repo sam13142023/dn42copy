@@ -1,0 +1,9 @@
+inet6num:           fdab:b22b:ffc9:0000:0000:0000:0000:0000 - fdab:b22b:ffc9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdab:b22b:ffc9::/48
+netname:            BANDIT-NETWORK
+descr:              Bandit Network
+admin-c:            BANDIT-DN42
+tech-c:             BANDIT-DN42
+mnt-by:             BANDIT-MNT
+status:             ASSIGNED
+source:             DN42

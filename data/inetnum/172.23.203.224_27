@@ -1,0 +1,9 @@
+inetnum:            172.23.203.224 - 172.23.203.255
+cidr:               172.23.203.224/27
+netname:            BANDIT-NETWORK
+descr:              bandit Network
+admin-c:            BANDIT-DN42
+tech-c:             BANDIT-DN42
+mnt-by:             BANDIT-MNT
+status:             ASSIGNED
+source:             DN42
