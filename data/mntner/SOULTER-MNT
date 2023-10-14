@@ -1,0 +1,7 @@
+mntner:             SOULTER-MNT
+admin-c:            SOULTER-DN42
+tech-c:             SOULTER-DN42
+mnt-by:             SOULTER-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINhxttl5vq4DYdQ2JhDuMr/QnHWYWt120pigSzTHKSYk
+remarks:            SOULTER

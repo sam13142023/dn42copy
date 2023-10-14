@@ -1,0 +1,10 @@
+inet6num:           fde8:1eaa:d0f1:0000:0000:0000:0000:0000 - fde8:1eaa:d0f1:ffff:ffff:ffff:ffff:ffff
+netname:            SOULTER-IPV6
+descr:              Hey guys! Peer with me at SoulterL@outlook.com
+country:            CN
+admin-c:            SOULTER-DN42
+tech-c:             SOULTER-DN42
+mnt-by:             SOULTER-MNT
+status:             ASSIGNED
+cidr:               fde8:1eaa:d0f1::/48
+source:             DN42
