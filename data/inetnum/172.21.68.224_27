@@ -1,0 +1,11 @@
+inetnum:            172.21.68.224 - 172.21.68.255
+netname:            SOULTER-IPV4
+remarks:            Hey guys! Peer with me at SoulterL@outlook.com
+descr:              Hey guys! Peer with me at SoulterL@outlook.com
+country:            CN
+admin-c:            SOULTER-DN42
+tech-c:             SOULTER-DN42
+mnt-by:             SOULTER-MNT
+status:             ASSIGNED
+cidr:               172.21.68.224/27
+source:             DN42
