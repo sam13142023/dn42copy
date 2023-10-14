@@ -1,6 +1,6 @@
-aut-num:            AS4242422339
-as-name:            NCTS-AS
+mntner:             NCTS-MNT
 admin-c:            NCTS-DN42
 tech-c:             NCTS-DN42
 mnt-by:             NCTS-MNT
+auth:               pgp-fingerprint 59D84D44CCD0E82647AEDA29C21D9AD423A39727
 source:             DN42

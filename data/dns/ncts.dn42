@@ -1,0 +1,9 @@
+domain:             ncts.dn42
+admin-c:            NCTS-DN42
+tech-c:             NCTS-DN42
+mnt-by:             NCTS-MNT
+nserver:            ns1.ncts.dn42 172.23.37.3
+nserver:            ns1.ncts.dn42 fdd4:23a3:9727::53
+nserver:            ns2.ncts.dn42 172.23.37.5
+nserver:            ns1.ncts.dn42 fdd4:23a3:9727::5353
+source:             DN42
