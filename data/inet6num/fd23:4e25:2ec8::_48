@@ -1,0 +1,10 @@
+inet6num:           fd23:4e25:2ec8:0000:0000:0000:0000:0000 - fd23:4e25:2ec8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:4e25:2ec8::/48
+netname:            CDUBS-NETWORK
+descr:              CDUBS Network
+country:            US
+admin-c:            CDUBS-DN42
+tech-c:             CDUBS-DN42
+mnt-by:             CDUBS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             CDUBS-MNT
+admin-c:            CDUBS-DN42
+tech-c:             CDUBS-DN42
+mnt-by:             CDUBS-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINIANQDM7NMjmFLbLfekKzutUEPhhWFoKLigq6wmIzm9 cwschulz@d02
