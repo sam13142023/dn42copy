@@ -1,0 +1,5 @@
+route:              172.23.203.224/27
+origin:             AS4242421019
+max-length:         27
+mnt-by:             BANDIT-MNT
+source:             DN42

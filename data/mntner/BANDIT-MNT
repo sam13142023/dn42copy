@@ -1,0 +1,6 @@
+mntner:             BANDIT-MNT
+admin-c:            BANDIT-DN42
+tech-c:             BANDIT-DN42
+mnt-by:             BANDIT-MNT
+auth:               pgp-fingerprint 6DDD8DB9C66230E69F5C82E9DB31D2399BD2621F
+source:             DN42
