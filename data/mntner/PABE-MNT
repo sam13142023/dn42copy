@@ -1,0 +1,6 @@
+mntner:             PABE-MNT
+admin-c:            PABE-DN42
+tech-c:             PABE-DN42
+mnt-by:             PABE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICVhNVH/InO/irI3BhK9/PogbCh1G0VvG34kxzmq147j
+source:             DN42
