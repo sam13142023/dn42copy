@@ -1,0 +1,5 @@
+route6:             fd1e:2de2:d98f::/48
+origin:             AS4242422806
+max-length:         48
+mnt-by:             PABE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd1e:2de2:d98f:0000:0000:0000:0000:0000 - fd1e:2de2:d98f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1e:2de2:d98f::/48
+netname:            PABE-NETWORK
+descr:              Network of PABE
+country:            DE
+admin-c:            PABE-DN42
+tech-c:             PABE-DN42
+mnt-by:             PABE-MNT
+status:             ASSIGNED
+source:             DN42
