@@ -1,0 +1,5 @@
+route6:             fdd1:7daa:c21d::/48
+origin:             AS4242420570
+max-length:         48
+mnt-by:             FAB42IAN-MNT
+source:             DN42

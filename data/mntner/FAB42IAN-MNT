@@ -1,0 +1,10 @@
+mntner:             FAB42IAN-MNT
+descr:              FAB42IAN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAZBUJWJCl6vdWtvHNPdU1NcuVQ1hZEN6cN/t1kD/0i4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIb2wn21WC7Qu3ZpkBjReiogiP+Ub3T94jQMfnVrnFQe
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAwynuj8adgBwdnCW/tjYqE5hlFtYQAKyc52VZ0fwWWO
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjI5ApYjCWOOs6tbiMT2Fz1wbpAw1MfJYd2Ppm5UOfL1WxboPNNkdHnGe4ebAaCOZmHa4kTpxuS/pEpdvwnhVjJp/i5okAQmShsZlE/eKrIB4WGx3GaO6XrTEV3cxEDlKUShBoKLqVpN/uS9Jhq/eFHsws/94mDIUCvBL/Ldy6YYqPHo7lTH0eNN6+LZPp6/Lgm4UeqTW+Wt9s4aLmjNqxxikg9Gd6hodGPh7vDJltzcVDi0TmY3TpM9H4tgLkgEU7xdHh5hRZUZevmFpFzaB8S0ecuEJHzhw6oq5mJ9lvCknX2fYJy2yoG9tbRJPvkqufI7GL7LNmdp+iPx3aGMNJDbhm/d4ErbpLiqZEaEA4Gg1b3g8+BuOQN3EilxhfbNRhNZdqqm7dSMzGwZj6F3wCazTc/geyJmb/PV/Ke08BRD8LLKbaRt26tJejj9QhlJAVJ3ekoQPVwCxIpB4i9Iw/WDi5QBH1ycfim4ly3IGOULCpui2bcEZuZbJS/xbAZzk=
+admin-c:            FAB42IAN-DN42
+tech-c:             FAB42IAN-DN42
+mnt-by:             FAB42IAN-MNT
+source:             DN42

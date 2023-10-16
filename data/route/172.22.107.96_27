@@ -1,0 +1,5 @@
+route:              172.22.107.96/27
+origin:             AS4242420570
+max-length:         27
+mnt-by:             FAB42IAN-MNT
+source:             DN42

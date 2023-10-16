@@ -1,0 +1,10 @@
+inetnum:            172.22.107.96 - 172.22.107.127
+cidr:               172.22.107.96/27
+netname:            FAB42IAN-NETWORK
+descr:              Network of FAB42IAN
+country:            DE
+admin-c:            FAB42IAN-DN42
+tech-c:             FAB42IAN-DN42
+mnt-by:             FAB42IAN-MNT
+status:             ASSIGNED
+source:             DN42
