@@ -1,0 +1,5 @@
+route6:             fd23:4e25:2ec8::/48
+origin:             AS4242420566
+max-length:         48
+mnt-by:             CDUBS-MNT
+source:             DN42
