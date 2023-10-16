@@ -1,0 +1,10 @@
+inet6num:           fdd1:7daa:c21d:0000:0000:0000:0000:0000 - fdd1:7daa:c21d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd1:7daa:c21d::/48
+netname:            FAB42IAN-NETWORK
+descr:              Network of FAB42IAN
+country:            DE
+admin-c:            FAB42IAN-DN42
+tech-c:             FAB42IAN-DN42
+mnt-by:             FAB42IAN-MNT
+status:             ASSIGNED
+source:             DN42
