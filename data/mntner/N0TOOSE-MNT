@@ -1,0 +1,6 @@
+mntner:             N0TOOSE-MNT
+admin-c:            N0TOOSE-DN42
+tech-c:             N0TOOSE-DN42
+mnt-by:             N0TOOSE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDOKYnzaPHz83hJIadykaQenZe6PArI26UdJV7Xv5lAv
+source:             DN42
