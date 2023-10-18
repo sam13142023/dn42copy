@@ -2,4 +2,5 @@ mntner:             LINE-MNT
 admin-c:            LINE-DN42
 tech-c:             LINE-DN42
 mnt-by:             LINE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOwpJcxFne1vJ/mVATkjG/egTMwIJ/NIhUq/FrIRiOIB
 source:             DN42
