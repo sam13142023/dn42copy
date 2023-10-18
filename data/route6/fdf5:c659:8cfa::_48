@@ -1,0 +1,5 @@
+route6:             fdf5:c659:8cfa::/48
+origin:             AS4242420873
+max-length:         48
+mnt-by:             MATTHIEU-MNT
+source:             DN42

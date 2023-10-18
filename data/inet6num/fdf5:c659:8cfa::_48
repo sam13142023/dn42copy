@@ -1,0 +1,12 @@
+inet6num:           fdf5:c659:8cfa:0000:0000:0000:0000:0000 - fdf5:c659:8cfa:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf5:c659:8cfa::/48
+netname:            MATTHIEU-NETWORK
+descr:              Network of Matthieu
+remarks:            Located in Reunion island, expect high latency and instability due to undersea fibers
+country:            RE
+admin-c:            MATTHIEU-DN42
+tech-c:             MATTHIEU-DN42
+mnt-by:             MATTHIEU-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.matthieu.dn42

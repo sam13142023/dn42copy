@@ -1,0 +1,6 @@
+domain:             matthieu.dn42
+admin-c:            MATTHIEU-DN42
+tech-c:             MATTHIEU-DN42
+mnt-by:             MATTHIEU-MNT
+nserver:            ns1.matthieu.dn42 fdf5:c659:8cfa::255
+source:             DN42
