@@ -1,6 +1,5 @@
 aut-num:            AS4242427877
-as-name:            PHAUX-UNO-DN42-AS
-descr:              Phaux.uno DN42 AS
+as-name:            AS-PHAUX-DN42
 admin-c:            PHAUX-DN42
 tech-c:             PHAUX-DN42
 mnt-by:             PHAUX-MNT

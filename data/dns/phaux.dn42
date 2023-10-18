@@ -1,0 +1,7 @@
+domain:             phaux.dn42
+admin-c:            PHAUX-DN42
+tech-c:             PHAUX-DN42
+mnt-by:             PHAUX-MNT
+source:             DN42
+nserver:            ns.phaux.dn42 172.22.101.81
+nserver:            ns.phaux.dn42 fd42:420:69::172:22:101:81
