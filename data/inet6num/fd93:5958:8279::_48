@@ -1,0 +1,10 @@
+inet6num:           fd93:5958:8279:0000:0000:0000:0000:0000 - fd93:5958:8279:ffff:ffff:ffff:ffff:ffff
+netname:            MEISLAOZHANG-IPV6
+descr:              Peer with me at meislaozhang@gmail.com
+country:            CN
+admin-c:            MEISLAOZHANG-DN42
+tech-c:             MEISLAOZHANG-DN42
+mnt-by:             MEISLAOZHANG-MNT
+status:             ASSIGNED
+cidr:               fd93:5958:8279::/48
+source:             DN42
