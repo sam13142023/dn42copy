@@ -1,0 +1,11 @@
+inetnum:            172.22.155.96-172.22.155.127
+netname:            MEISLAOZHANG-IPV4
+remarks:            Peer with me at meislaozhang@gmail.com
+descr:              Peer with me at meislaozhang@gmail.com
+country:            CN
+admin-c:            MEISLAOZHANG-DN42
+tech-c:             MEISLAOZHANG-DN42
+mnt-by:             MEISLAOZHANG-MNT
+status:             ASSIGNED
+cidr:               172.22.155.96/27
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.22.155.96/27
+descr:              Peer with me at meislaozhang@gmail.com
+origin:             AS4242421543
+max-length:         27
+mnt-by:             MEISLAOZHANG-MNT
+source:             DN42

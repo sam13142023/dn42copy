@@ -1,0 +1,6 @@
+route6:             fd93:5958:8279::/48
+descr:              Peer with me at meislaozhang@gmail.com
+origin:             AS4242421543
+max-length:         48
+mnt-by:             MEISLAOZHANG-MNT
+source:             DN42
