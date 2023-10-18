@@ -1,0 +1,10 @@
+inet6num:           fd66:1ee6:aaaa:0000:0000:0000:0000:0000 - fd66:1ee6:aaaa:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:1ee6:aaaa::/48
+netname:            LINE-NET
+descr:              LINE DN42 IPv6
+country:            NZ
+admin-c:            LINE-DN42
+tech-c:             LINE-DN42
+mnt-by:             LINE-MNT
+status:             ASSIGNED
+source:             DN42
