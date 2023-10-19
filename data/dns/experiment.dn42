@@ -1,0 +1,7 @@
+domain:             experiment.dn42
+admin-c:            N0TOOSE-DN42
+tech-c:             N0TOOSE-DN42
+mnt-by:             N0TOOSE-MNT
+nserver:            ns1.experiment.dn42 172.20.34.42
+nserver:            ns1.experiment.dn42 fdf3:ff62:1c72::42
+source:             DN42
