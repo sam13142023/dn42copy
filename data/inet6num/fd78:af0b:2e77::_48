@@ -1,0 +1,10 @@
+inet6num:           fd78:af0b:2e77:0000:0000:0000:0000:0000 - fd78:af0b:2e77:ffff:ffff:ffff:ffff:ffff
+netname:            ZZTRANS-IPV6
+descr:              Peer with me at zztrans666txdy@gmail.com
+country:            CN
+admin-c:            ZZTRANS-DN42
+tech-c:             ZZTRANS-DN42
+mnt-by:             ZZTRANS-MNT
+status:             ASSIGNED
+cidr:               fd78:af0b:2e77::/48
+source:             DN42
