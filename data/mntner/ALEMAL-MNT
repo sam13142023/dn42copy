@@ -3,4 +3,5 @@ admin-c:            ALEMAL-DN42
 mnt-by:             ALEMAL-MNT
 tech-c:             ALEMAL-DN42
 auth:               pgp-fingerprint 41F7DED7C0FD646A616E3C1BDD4010C834154D8D
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIjMjflOL8yFLeTaBCegTfD3HjbkO8JkHBw9YrejHqMl alemal@DESKTOP
 source:             DN42
