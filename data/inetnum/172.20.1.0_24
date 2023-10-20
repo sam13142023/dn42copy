@@ -1,8 +1,8 @@
 inetnum:            172.20.1.0 - 172.20.1.255
 netname:            JRB0001
-nserver:            ns1.as4242420119.dn42
-nserver:            ns2.as4242420119.dn42
-ds-rdata:           27958 13 2 5d68d78ffdd0d7d92cf3654f06e1c9ab429f37d21b21ee9bb27970df070de1d9
+nserver:            ns.as4242420119.dn42
+ds-rdata:           3138 13 2 f97def90b946279c3cad4e3a49108825647abe906f936f1cdf6668c13a26e53e
+ds-rdata:           3138 13 4 80dec445f6d5296af810e0149c13dd7e1ebccc07f6057d35e0e9c657d7999f6ceecb954fdb7508b14ad4c9f7a32c0cd1
 admin-c:            JRB0001-DN42
 tech-c:             JRB0001-DN42
 mnt-by:             JRB0001-MNT
