@@ -3,3 +3,4 @@ admin-c:            PHAUX-DN42
 tech-c:             PHAUX-DN42
 mnt-by:             PHAUX-MNT
 source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCns6Qz5o/T2Mt+lJgdsKoVptJFfPHsxJq2689K0X/zQ5y1Vcqryq/MoFcscOmEKNkEgtj3suQpNChiNTv2uB0jl4K4ai+YclZJxhk89cC29f0oyJai/JMfYIw1yKL778IxK0WkMdW6kzyfZRs2Atlz/j5EoE+DAg8uEyl81yxcW2thfF9/7t+YKi/D9uJ4DLwrcKRGweEnGtUaN9yv5ACivZrHL9WudYySM3B/dxCKCjlux9P+ohi4jZFRjiCkQorkZf1LmPxxjOzTd681J5ohpEx7Fyhy//6mW1S3Jw4xdXNa0WQxf+0d6vuQOKPJIHnMyPv0o3AdBiaYfcgytZgz phaux@Sonofa

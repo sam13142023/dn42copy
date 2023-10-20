@@ -1,0 +1,11 @@
+inet6num:           fd42:0420:0069:0000:0000:0000:0000:0000 - fd42:0420:0069:ffff:ffff:ffff:ffff:ffff
+netname:            PHAUX-DN42-NET6
+descr:              Phaux DN42 IPv6 Space
+country:            US
+admin-c:            PHAUX-DN42
+tech-c:             PHAUX-DN42
+mnt-by:             PHAUX-MNT
+status:             ASSIGNED
+cidr:               fd42:420:69::/48
+source:             DN42
+nserver:            ns.phaux.dn42

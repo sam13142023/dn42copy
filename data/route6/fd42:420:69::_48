@@ -1,4 +1,5 @@
-route6:             fd42:daba:de:daba:da::/80
+route6:             fd42:420:69::/48
 origin:             AS4242427877
 mnt-by:             PHAUX-MNT
 source:             DN42
+max-length:         48
