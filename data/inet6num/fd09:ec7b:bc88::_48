@@ -1,0 +1,10 @@
+inet6num:           fd09:ec7b:bc88:0000:0000:0000:0000:0000 - fd09:ec7b:bc88:ffff:ffff:ffff:ffff:ffff
+cidr:               fd09:ec7b:bc88::/48
+netname:            MOOHR-NETWORK
+descr:              MOOHR NETWORK
+country:            HK
+admin-c:            MOOHR-DN42
+tech-c:             MOOHR-DN42
+mnt-by:             MOOHR-MNT
+status:             ASSIGNED
+source:             DN42

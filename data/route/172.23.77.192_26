@@ -1,0 +1,5 @@
+route:              172.23.77.192/26
+origin:             AS4242422279
+max-length:         26
+mnt-by:             MOOHR-MNT
+source:             DN42

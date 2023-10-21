@@ -1,0 +1,7 @@
+mntner:             MOOHR-MNT
+admin-c:            MOOHR-DN42
+tech-c:             MOOHR-DN42
+mnt-by:             MOOHR-MNT
+auth:               pgp-fingerprint CC618F46C9AB5620B2BE3EBF8FECB32D1DFC7BC9
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL5RGPlhcg+KTBB/zyCTxy9+lE1esVTYbZmGmWIA/T2Q
+source:             DN42

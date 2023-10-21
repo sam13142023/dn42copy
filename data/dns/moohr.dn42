@@ -1,0 +1,9 @@
+domain:             moohr.dn42
+admin-c:            MOOHR-DN42
+tech-c:             MOOHR-DN42
+mnt-by:             MOOHR-MNT
+nserver:            ns1.moohr.dn42 172.23.77.193
+nserver:            ns1.moohr.dn42 fd09:ec7b:bc88::1
+nserver:            ns2.moohr.dn42 172.23.77.194
+nserver:            ns2.moohr.dn42 fd09:ec7b:bc88::2
+source:             DN42
