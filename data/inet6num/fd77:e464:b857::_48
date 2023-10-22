@@ -1,0 +1,10 @@
+inet6num:           fd77:e464:b857:0000:0000:0000:0000:0000 - fd77:e464:b857:ffff:ffff:ffff:ffff:ffff
+netname:            SAM-IPV6
+descr:              SAM-net
+country:            CN
+admin-c:            SAM-DN42
+tech-c:             SAM-DN42
+mnt-by:             SAM-MNT
+status:             ASSIGNED
+cidr:               fd77:e464:b857::/48
+source:             DN42
