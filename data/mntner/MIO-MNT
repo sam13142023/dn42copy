@@ -1,0 +1,6 @@
+mntner:             MIO-MNT
+admin-c:            MIO-DN42
+tech-c:             MIO-DN42
+mnt-by:             MIO-MNT
+source:             DN42
+auth:               pgp-fingerprint 90A4E0C5D367A8C3682CECA2C54F8B84E740E2F3

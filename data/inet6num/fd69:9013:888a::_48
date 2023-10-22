@@ -1,0 +1,10 @@
+inet6num:           fd69:9013:888a:0000:0000:0000:0000:0000 - fd69:9013:888a:ffff:ffff:ffff:ffff:ffff
+netname:            MIO-IPV6
+descr:              MIO-net
+country:            CN
+admin-c:            MIO-DN42
+tech-c:             MIO-DN42
+mnt-by:             MIO-MNT
+status:             ASSIGNED
+cidr:               fd69:9013:888a::/48
+source:             DN42

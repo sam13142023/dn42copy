@@ -1,0 +1,10 @@
+inetnum:            172.23.159.96 - 172.23.159.127
+netname:            Mio-IPV4
+descr:              net
+country:            CN
+admin-c:            MIO-DN42
+tech-c:             MIO-DN42
+mnt-by:             MIO-MNT
+status:             ASSIGNED
+cidr:               172.23.159.96/27
+source:             DN42
