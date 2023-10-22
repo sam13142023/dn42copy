@@ -1,0 +1,6 @@
+mntner:             SAM-MNT
+admin-c:            SAM-DN42
+tech-c:             SAM-DN42
+mnt-by:             SAM-MNT
+source:             DN42
+auth:               pgp-fingerprint E695F5FA51AD2C7622D08A3A0BFD3DB53BCB53F4
