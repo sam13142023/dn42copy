@@ -1,0 +1,5 @@
+route6:             fd09:ec7b:bc88::/48
+origin:             AS4242422279
+max-length:         48
+mnt-by:             MOOHR-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.77.192 - 172.23.77.255
+cidr:               172.23.77.192/26
+netname:            MOOHR-NETWORK
+descr:              MOOHR NETWORK
+country:            HK
+admin-c:            MOOHR-DN42
+tech-c:             MOOHR-DN42
+mnt-by:             MOOHR-MNT
+status:             ASSIGNED
+source:             DN42
