@@ -1,0 +1,10 @@
+inetnum:            172.23.161.64 - 172.23.159.96
+netname:            SAM-IPV4
+descr:              net
+country:            CN
+admin-c:            SAM-DN42
+tech-c:             SAM-DN42
+mnt-by:             SAM-MNT
+status:             ASSIGNED
+cidr:               172.23.161.64/27
+source:             DN42

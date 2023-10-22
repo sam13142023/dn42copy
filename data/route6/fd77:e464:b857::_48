@@ -1,0 +1,5 @@
+route6:             fd77:e464:b857::/48
+descr:              SAM-net
+origin:             AS4242422503
+mnt-by:             SAM-MNT
+source:             DN42
