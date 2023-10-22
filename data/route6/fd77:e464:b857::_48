@@ -1,0 +1,5 @@
+route6:             fd69:9013:888a::/48
+descr:              SAM-net
+origin:             AS4242422503
+mnt-by:             SAM-MNT
+source:             DN42
