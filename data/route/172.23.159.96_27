@@ -1,0 +1,5 @@
+route:              172.23.159.96/27
+descr:              net
+origin:             AS4242422406
+mnt-by:             MIO-MNT
+source:             DN42

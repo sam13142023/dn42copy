@@ -1,0 +1,5 @@
+route6:             fd69:9013:888a::/48
+descr:              MIO-net
+origin:             AS4242422406
+mnt-by:             MIO-MNT
+source:             DN42
